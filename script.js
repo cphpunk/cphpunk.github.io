@@ -208,7 +208,7 @@ function displayEvents() {
             eventBox.className = 'event-box';
             eventBox.innerHTML = `
                 <button class="add-to-calendar" title="Add to Calendar">📅</button>
-                <img src="${event.imageUrl || '/api/placeholder/300/200'}" alt="${event.summary}" class="event-image">
+                <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
                 <div class="event-details">
                     <div class="event-title">${event.summary}</div>
                     <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
