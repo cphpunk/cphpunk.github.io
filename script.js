@@ -141,20 +141,14 @@ function parseICSData(icsData, source) {
     });
 }
 
-async function loadAllEvents() {
-    allEvents = [];
-    for (const [file, info] of Object.entries(icsFiles)) {
-        try {
-            const icsData = await fetchICSFile(file);
-            const events = parseICSData(icsData, file);
-            console.log("Loaded "+file);
-            allEvents = allEvents.concat(events);
-        } catch (error) {
-            console.error(`Error loading ${file}:`, error);
-        }
-    }
+  async function loadAllEvents() {
+    const promises = Object.entries(icsFiles).map(([file, info]) => {
+      return fetchICSFile(file).then(icsData => parseICSData(icsData, file));
+    });
+    const events = await Promise.all(promises);
+    allEvents = events.flat();
     displayEvents();
-}
+  }
 
 function displayEvents() {
     const eventList = document.getElementById('eventList');
