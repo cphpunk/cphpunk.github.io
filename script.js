@@ -147,6 +147,7 @@ async function loadAllEvents() {
         try {
             const icsData = await fetchICSFile(file);
             const events = parseICSData(icsData, file);
+            console.log("Loaded "+file);
             allEvents = allEvents.concat(events);
         } catch (error) {
             console.error(`Error loading ${file}:`, error);
