@@ -384,8 +384,32 @@ function createFilterToggles() {
 
     const filterHeader = document.querySelector('.filter-header');
     const filterContent = document.querySelector('.filter-content');
-    const arrow = document.querySelector('.arrow');
 
+    const toggleAllButton = document.createElement('button');
+    toggleAllButton.textContent = 'Toggle All';
+    toggleAllButton.className = 'toggle-all-button';
+
+  filterHeader.appendChild(toggleAllButton);
+
+  toggleAllButton.addEventListener('click', (e) => {
+      e.stopPropagation(); // Prevent event bubbling
+      const filterToggles = filterContent.querySelectorAll('.filter-toggle input');
+      const areAllChecked = Array.from(filterToggles).every(toggle => toggle.checked);
+
+      filterToggles.forEach(toggle => {
+        toggle.checked = !areAllChecked;
+        if (toggle.checked) {
+          activeFilters.add(toggle.name);
+        } else {
+          activeFilters.delete(toggle.name);
+        }
+      });
+
+        displayEvents();
+  });
+
+    const arrow = document.querySelector('.arrow');
+    
     filterHeader.addEventListener('click', () => {
         filterContent.classList.toggle('open');
         arrow.classList.toggle('open');
