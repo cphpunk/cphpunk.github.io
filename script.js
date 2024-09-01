@@ -4,7 +4,7 @@ const icsFiles =
       "url": "https://kraftwerket.kk.dk/en/events",
       "type": "KK"
     },
-    "Kulturhuset_Islands_Brygge.ics": {
+    "Kulturhuset Islands Brygge.ics": {
       "url": "https://kulturhusetislandsbrygge.kk.dk/koncerter",
       "type": "KK"
     },
@@ -12,19 +12,15 @@ const icsFiles =
       "url": "https://mayhemkbh.dk",
       "type": "Custom"
     },
-    "Spillestedet_Stengade.ics": {
+    "Spillestedet Stengade.ics": {
       "url": "https://www.facebook.com/spillestedetstengade/events",
-      "type": "Facebook"
-    },
-    "Unknown_Venue.ics": {
-      "url": "https://www.facebook.com/events/785823320130578?_fb_noscript=1",
       "type": "Facebook"
     },
     "HUSET.ics": {
       "url": "https://huset.kk.dk/en/events",
       "type": "KK"
     },
-    "Villa_Kultur.ics": {
+    "Villa Kultur.ics": {
       "url": "https://www.facebook.com/villakultur/events",
       "type": "Facebook"
     },
@@ -32,15 +28,15 @@ const icsFiles =
       "url": "https://www.facebook.com/Raahuset/events",
       "type": "Facebook"
     },
-    "Mayhem_KBH.ics": {
+    "Mayhem KBH.ics": {
       "url": "https://www.facebook.com/mayhemkbh/events",
       "type": "Facebook"
     },
-    "ALICE_cph.ics": {
+    "ALICE cph.ics": {
       "url": "https://www.facebook.com/alicecphcom/events",
       "type": "Facebook"
     },
-    "Musik_Loppen.ics": {
+    "Musik Loppen.ics": {
       "url": "https://www.facebook.com/musikloppen/events",
       "type": "Facebook"
     },
@@ -56,11 +52,11 @@ const icsFiles =
       "url": "https://www.facebook.com/Pumpehuset/events/",
       "type": "Facebook"
     },
-    "HUSET__(Huset_i_Magstr\u00e6de).ics": {
+    "HUSET  (Huset i Magstr\u00e6de).ics": {
       "url": "https://www.facebook.com/Huset.Koebenhavn/events",
       "type": "Facebook"
     },
-    "Basement_CPH.ics": {
+    "Basement CPH.ics": {
       "url": "https://www.facebook.com/BasementKBH/events",
       "type": "Facebook"
     },
@@ -68,11 +64,11 @@ const icsFiles =
       "url": "https://www.facebook.com/VEGAcph/events",
       "type": "Facebook"
     },
-    "Operaen_Christiania.ics": {
+    "Operaen Christiania.ics": {
       "url": "https://www.facebook.com/operaenscafe/events",
       "type": "Facebook"
     },
-    "Punks_Undead.ics": {
+    "Punks Undead.ics": {
       "url": "https://www.facebook.com/PunksUndeadCPH/events",
       "type": "Facebook"
     },
@@ -84,11 +80,11 @@ const icsFiles =
       "url": "https://www.facebook.com/radarlive/events",
       "type": "Facebook"
     },
-    "DROP_INN.ics": {
+    "DROP INN.ics": {
       "url": "https://www.facebook.com/dropinnmusic/events",
       "type": "Facebook"
     },
-    "Haven_CPH.ics": {
+    "Haven CPH.ics": {
       "url": "https://www.facebook.com/havencph/events",
       "type": "Facebook"
     },
@@ -96,7 +92,7 @@ const icsFiles =
       "url": "https://www.facebook.com/HangarenCopenhagen/events",
       "type": "Facebook"
     },
-    "Hotel_Cecil.ics": {
+    "Hotel Cecil.ics": {
       "url": "https://www.facebook.com/hotelcecilcph/events",
       "type": "Facebook"
     },
