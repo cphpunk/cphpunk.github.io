@@ -246,8 +246,16 @@ function showEventDetails(event) {
   } else {
     modalLocation.textContent = 'Location not specified';
   }
+  
+  let description = event.description.replace(/(https?:\/\/[^\s]+)/g, (match) => {
+    return `<a href="${match}" target="_blank">${match}</a>`;
+  });
 
-  modalDescription.innerHTML = event.description.replace(/\n/g, '<br>');
+  //description.replace(/\n/g, '<br>');
+ 
+  modalDescription.innerHTML = description;
+
+  console.log(event.description);
 
   modalLink.href = event.url;
 
