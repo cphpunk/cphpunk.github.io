@@ -240,7 +240,12 @@ function showEventDetails(event) {
   modalImage.alt = event.summary;
   modalTitle.textContent = event.summary;
   modalDate.textContent = `${moment(event.start).format('MMMM D, YYYY - h:mm A')} to ${moment(event.end).format('h:mm A')}`;
-  modalLocation.textContent = event.location || 'Location not specified';
+
+  if (event.location) {
+    modalLocation.innerHTML = '<a href="http://maps.google.com/?q=' + event.location + '" target="_blank">' +  "📍" + event.location + "</a>";
+  } else {
+    modalLocation.textContent = 'Location not specified';
+  }
 
   modalDescription.innerHTML = event.description.replace(/\n/g, '<br>');
 
