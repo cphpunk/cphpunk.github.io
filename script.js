@@ -1,4 +1,4 @@
-const icsFiles =
+const icsFiles = 
 {
   "KraftWerket.ics": {
     "url": "https://kraftwerket.kk.dk/en/events",
@@ -104,11 +104,23 @@ const icsFiles =
     "url": "https://www.facebook.com/beta2300/events",
     "type": "Facebook"
   },
+  "Amager Bio.ics": {
+    "url": "https://www.facebook.com/amagerbio/events",
+    "type": "Facebook"
+  },
   "Polychrome.ics": {
     "url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events",
     "type": "Facebook"
+  },
+  "LiteraturHaus.ics": {
+    "url": "https://www.facebook.com/literaturhauskbh/events",
+    "type": "Facebook"
+  },
+  "Lygtens Kro.ics": {
+    "url": "https://www.facebook.com/lygtenskro/events",
+    "type": "Facebook"
   }
-};
+}
 
 let allEvents = [];
 let currentWeekStart = moment().startOf('week');
