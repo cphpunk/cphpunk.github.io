@@ -119,6 +119,26 @@ const icsFiles =
   "Lygtens Kro.ics": {
     "url": "https://www.facebook.com/lygtenskro/events",
     "type": "Facebook"
+  },
+  "Klub Werkstatt.ics": {
+    "url": "https://www.facebook.com/klubwerkstatt/events",
+    "type": "Facebook"
+  },
+  "Absalon.ics": {
+    "url": "https://www.facebook.com/absaloncph/events",
+    "type": "Facebook"
+  },
+  "S\u00f8hesten.ics": {
+    "url": "https://www.facebook.com/Sohestenbar/events/",
+    "type": "Facebook"
+  },
+  "Husets Biograf.ics": {
+    "url": "https://www.facebook.com/HusetsBiograf/events",
+    "type": "Facebook"
+  },
+  "Folkets Hus.ics": {
+    "url": "https://www.facebook.com/folketshus50/events",
+    "type": "Facebook"
   }
 }
 
