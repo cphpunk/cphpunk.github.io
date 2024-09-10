@@ -330,68 +330,27 @@ function displayEvents() {
       const eventBox = document.createElement('div');
       eventBox.className = 'event-box';
       eventBox.innerHTML = `  
-          <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
-          <button class="add-to-calendar" title="Add to Calendar">📅</button>
-          <div class="event-details">
-              <div class="event-title">${event.summary}</div>
-              <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
-              <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
-              <div class="event-description">${event.description}</div>
-              <div class="event-actions">
-                  <span class="view-details">View Details</span>
-                  <a href="${event.url}" target="_blank" class="event-link">Original Page</a>
-              </div>
-          </div>
-      `;
+      <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
+      <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+      <div class="event-details">
+          <div class="event-title">${event.summary.replace(/^\[.*?\]/, '')}</div>
+          <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
+          <div class="event-location">📍 ${event.location}</div>
+          <br>
+          <div class="event-description">${event.description}</div>
+      </div>
+  `;
       eventContainer.appendChild(eventBox);
-
-      eventBox.querySelector('.view-details').addEventListener('click', () => showEventDetails(event));
-      eventBox.querySelector('.add-to-calendar').addEventListener('click', (e) => {
-        e.stopPropagation(); // Prevent event bubbling
-        addToCalendar(event);
+    
+      eventBox.addEventListener('click', (e) => {
+        if (!e.target.closest('.event-link')) {
+          showEventDetails(event);
+        }
       });
     });
   }
 
   updateWeekNavigation();
-}
-
-function showEventDetails(event) {
-  // = document.querySelectorAll('.add-to-calendar');
-  //addToCalendarBtns.forEach(btn => btn.style.display = 'none');
-
-  const modal = document.getElementById('eventModal');
-  const modalImage = document.getElementById('modalImage');
-  const modalTitle = document.getElementById('modalTitle');
-  const modalDate = document.getElementById('modalDate');
-  const modalLocation = document.getElementById('modalLocation');
-  const modalDescription = document.getElementById('modalDescription');
-  const modalLink = document.getElementById('modalLink');
-  const addToCalendarBtn = document.getElementById('addToCalendar');
-  const modalTag = document.getElementById('modalTag');
-
-  modalImage.src = event.imageUrl || '/api/placeholder/600/300';
-  modalImage.alt = event.summary;
-  modalTitle.textContent = event.summary;
-  modalDate.textContent = `${moment(event.start).format('MMMM D, YYYY - h:mm A')} to ${moment(event.end).format('h:mm A')}`;
-  modalTag.textContent = event.tag;
-
-  if (event.location) {
-    modalLocation.innerHTML = '<a href="http://maps.google.com/?q=' + event.location + '" target="_blank">' +  "📍" + event.location + "</a>";
-  } else {
-    modalLocation.textContent = 'Location not specified';
-  }
-  
-  let description = event.description.replace(/(https?:\/\/[^\s]+)/g, (match) => {
-    return `<a href="${match}" target="_blank">${match}</a>`;
-  });
- 
-  modalDescription.innerHTML = description;
-  modalLink.href = event.url;
-  addToCalendarBtn.onclick = () => addToCalendar(event);
-
-  modal.style.display = 'block';
-  document.body.style.overflow = 'hidden';
 }
 
 function addToCalendar(event) {
@@ -462,15 +421,6 @@ function updateWeekNavigation() {
   weekDisplay.textContent = `${currentWeekStart.format('MMMM D')} - ${moment(currentWeekStart).endOf('week').format('MMMM D, YYYY')}`;
 }
 
-function closeModal() {
-  //const addToCalendarBtns = document.querySelectorAll('.add-to-calendar');
-  //addToCalendarBtns.forEach(btn => btn.style.display = 'block');
-
-  const modal = document.getElementById('eventModal');
-  modal.style.display = 'none';
-  document.body.style.overflow = '';
-}
-
 function createFilterToggles() {
   const tagFilters = document.getElementById('tagFilters');
 
@@ -487,7 +437,7 @@ function createFilterToggles() {
   }
 
   else
-    activeTagFilters =  new Set(["MUSIC"]);
+    activeTagFilters = new Set(EVENT_TAGS);
 
   EVENT_TAGS.forEach(tag => {
       const button = document.createElement('button');
@@ -556,13 +506,80 @@ document.getElementById('nextWeek').addEventListener('click', () => {
   displayEvents();
 });
 
-window.onclick = function (event) {
+function showEventDetails(event) {
   const modal = document.getElementById('eventModal');
-  if (event.target == modal || event.target.className == 'close') {
-    modal.style.display = 'none';
-    document.body.style.overflow = '';
+  const modalImage = document.getElementById('modalImage');
+  const modalTitle = document.getElementById('modalTitle');
+  const modalDate = document.getElementById('modalDate');
+  const modalLocation = document.getElementById('modalLocation');
+  const modalDescription = document.getElementById('modalDescription');
+  const modalLink = document.getElementById('modalLink');
+  const addToCalendarBtn = document.getElementById('addToCalendar');
+  const modalTag = document.getElementById('modalTag');
+
+  modalImage.src = event.imageUrl || '/api/placeholder/600/300';
+  modalImage.alt = event.summary;
+  modalTitle.textContent = event.summary;
+  modalDate.textContent = `${moment(event.start).format('MMMM D, YYYY - h:mm A')} to ${moment(event.end).format('h:mm A')}`;
+  modalTag.textContent = event.tag;
+
+  if (event.location) {
+    modalLocation.innerHTML = '<a href="http://maps.google.com/?q=' + event.location + '" target="_blank">' +  "📍" + event.location + "</a>";
+  } else {
+    modalLocation.textContent = 'Location not specified';
   }
+  
+  let description = event.description.replace(/(https?:\/\/[^\s]+)/g, (match) => {
+    return `<a href="${match}" target="_blank">${match}</a>`;
+  });
+ 
+  modalDescription.innerHTML = description;
+  modalLink.href = event.url;
+  addToCalendarBtn.onclick = () => addToCalendar(event);
+
+  modal.style.display = 'block';
+  document.body.style.overflow = 'hidden';
+  document.body.style.position = 'fixed';
+  document.body.style.width = '100%';
 }
+
+function closeModal() {
+  const modal = document.getElementById('eventModal');
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+  document.body.style.position = '';
+  document.body.style.width = '';
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  createFilterToggles();
+  loadAllEvents();
+
+  // Add event listeners for closing the modal
+  const modal = document.getElementById('eventModal');
+  const closeBtn = modal.querySelector('.close');
+
+  closeBtn.addEventListener('click', closeModal);
+
+modal.addEventListener('click', function(event) {
+  if (event.target === modal) {
+    closeModal();
+  }
+});
+
+// Add touch event for iOS devices
+modal.addEventListener('touchstart', function(event) {
+  if (event.target === modal) {
+    closeModal();
+  }
+});
+
+// Prevent scrolling on the modal content
+const modalContent = modal.querySelector('.modal-content');
+modalContent.addEventListener('touchmove', function(event) {
+  event.stopPropagation();
+}, { passive: false });
+});
 
 document.addEventListener('DOMContentLoaded', function() {
   createFilterToggles();

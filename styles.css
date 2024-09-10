@@ -130,33 +130,20 @@ h1 {
     margin-bottom: 50px;
 }
 
-.event-box {
-    background-color: #fff;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
+.event-actions {
     display: flex;
-    flex-direction: column;
-    height: 100%;
+    justify-content: space-between;
+    margin-top: auto;
 }
+
 
 .event-box:hover {
     transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-.event-image {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
 
-.event-details {
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-}
+
 
 .event-title {
     font-size: 1.2em;
@@ -164,54 +151,120 @@ h1 {
     margin-bottom: 10px;
 }
 
-.event-date {
-    font-size: 0.9em;
-    color: #666;
+
+.event-date-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .event-date,
+  .event-location {
+    font-size: 0.75em;
+    color: #666;
+  }
+
+  
+  .event-box {
+    position: relative;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    cursor: pointer;
+}
+
+.event-image {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.event-tag {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 0%;
+    font-size: .6m;
+    font-weight: bold;
+    color: white;
+    z-index: 1;
+    white-space: nowrap;
+    text-align: center;
+    width: 1;
+    height: 30px;
+    bottom: -15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.event-details {
+    padding: 20px 15px 15px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    font-weight: normal;
+    overflow: hidden;
 }
 
 .event-description {
-    font-size: 0.9em;
+    font-size: 0.75em;
     margin-bottom: 10px;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
 
-.event-actions {
+.event-link {
+    align-self: flex-end;
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    font-size: 0.9em;
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    color: #333;
     margin-top: auto;
 }
 
-.view-details, .event-link {
-    padding: 8px 12px;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-    font-size: 0.9em;
-}
-
-.view-details {
-    background-color: #008CBA;
-    color: white;
-    cursor: pointer;
-}
-
-.view-details:hover {
-    background-color: #007B9A;
-}
-
-.event-link {
-    background-color: #4CAF50;
-    color: white;
-}
-
 .event-link:hover {
-    background-color: #45a049;
+    background-color: #f0f0f0;
+    border-color: #999;
 }
+
+.event-link::before {
+    content: '🔗';
+    margin-right: 5px;
+}
+
+@media (max-width: 768px) {
+    .event-link {
+        padding: 8px;
+    }
+
+    .event-link span {
+        display: none;
+    }
+
+    .event-link::before {
+        margin-right: 0;
+    }
+}
+ 
 
 .modal {
     display: none;
@@ -267,7 +320,7 @@ h1 {
 
 .modal-date,
 .modal-location {
-    font-size: 1em;
+    font-size: .7em;
     color: #666;
     margin-bottom: 10px;
 }
@@ -414,18 +467,8 @@ h1 {
     }
 }
 
-.event-tag {
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 0.8em;
-    font-weight: bold;
-    display: inline-block;
-    margin-bottom: 10px;
-    color: white;
-    text-align: center;
-    max-width: 100px;
-    align-self: center;
-}
+
+
 
 /* Color scheme for event tags - matching the filter buttons */
 .event-tag[data-tag="MUSIC"] { background-color: #e57373; }
