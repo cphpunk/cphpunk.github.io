@@ -52,6 +52,10 @@ const icsFiles =
     "url": "https://www.facebook.com/Pumpehuset/events/",
     "type": "Facebook"
   },
+  "Musikcaf\u00e9en.ics": {
+    "url": "https://www.facebook.com/musikcafeenihuset/events",
+    "type": "Facebook"
+  },
   "HUSET  (Huset i Magstr\u00e6de).ics": {
     "url": "https://www.facebook.com/Huset.Koebenhavn/events",
     "type": "Facebook"
@@ -139,13 +143,108 @@ const icsFiles =
   "Folkets Hus.ics": {
     "url": "https://www.facebook.com/folketshus50/events",
     "type": "Facebook"
+  },
+  "St\u00f8dd\u00e6mperen.ics": {
+    "url": "https://www.facebook.com/StoedNV/events",
+    "type": "Facebook"
+  },
+  "Bolsjefabrikken.ics": {
+    "url": "https://www.facebook.com/Bolsjefabrikkerne/events",
+    "type": "Facebook"
+  },
+  "Den Anden Side.ics": {
+    "url": "https://www.facebook.com/KlubDenAndenSide/events",
+    "type": "Facebook"
+  },
+  "CPH ZINE FEST.ics": {
+    "url": "https://www.facebook.com/cphzinefest/events",
+    "type": "Facebook"
+  },
+  "J\u00e6gersborggade.ics": {
+    "url": "https://www.facebook.com/Jaegersborggade/events",
+    "type": "Facebook"
+  },
+  "Next House Copenhagen.ics": {
+    "url": "https://www.facebook.com/nexthousecopenhagen/events",
+    "type": "Facebook"
+  },
+  "Madboks.ics": {
+    "url": "https://www.facebook.com/Madboks/events",
+    "type": "Facebook"
+  },
+  "LGBT+ Medborgerhuset i K\u00f8benhavn.ics": {
+    "url": "https://www.facebook.com/LGBTmedborgerhuset/events",
+    "type": "Facebook"
+  },
+  "Bastard Caf\u00e9 - Board Games & Coffee.ics": {
+    "url": "https://www.facebook.com/BastardCafe/events",
+    "type": "Facebook"
+  },
+  "Empire Bio.ics": {
+    "url": "https://www.facebook.com/empirebio.dk/events",
+    "type": "Facebook"
+  },
+  "MarmeladeCulture.ics": {
+    "url": "https://www.facebook.com/JamCultureMusic/events",
+    "type": "Facebook"
+  },
+  "ICC Theatre - Improv Comedy Copenhagen.ics": {
+    "url": "https://www.facebook.com/improvcomedycph/events",
+    "type": "Facebook"
+  },
+  "B\u00f8ssehuset.ics": {
+    "url": "https://www.facebook.com/boessehuset/events",
+    "type": "Facebook"
+  },
+  "DISTORTION.ics": {
+    "url": "https://www.facebook.com/cphdistortion/events",
+    "type": "Facebook"
+  },
+  "MIX COPENHAGEN.ics": {
+    "url": "https://www.facebook.com/mixcph/events",
+    "type": "Facebook"
+  },
+  "Copenhagen Jazz Festival.ics": {
+    "url": "https://www.facebook.com/cphjazzfestival/events",
+    "type": "Facebook"
+  },
+  "CPH DOX.ics": {
+    "url": "https://www.facebook.com/cphdox/events",
+    "type": "Facebook"
+  },
+  "Copenhagen Short Film Festival.ics": {
+    "url": "https://www.facebook.com/CopenhagenShortFilmFestival/events",
+    "type": "Facebook"
+  },
+  "VOID - International Animation Film Festival.ics": {
+    "url": "https://www.facebook.com/voidfilmfestival/events",
+    "type": "Facebook"
   }
 }
+
+const EVENT_TAGS = ["MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "CULTURE", "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"];
+
+const TAG_EMOJIS = {
+    "MUSIC": "🎵",
+    "MOVIE": "🎬",
+    "ACTIVISM": "✊",
+    "COMMUNITY": "🤝",
+    "CULTURE": "🏛️",
+    "LGBTQ+": "🏳️‍🌈",
+    "YOGA": "🧘",
+    "SPORTS": "⚽",
+    "ART": "🎨",
+    "COMEDY": "😂",
+    "SHOPPING": "🛍️",
+    "GAMES": "🎮",
+    "QUIZ": "🧠"
+};
 
 let allEvents = [];
 let currentWeekStart = moment().startOf('week');
 
 let activeFilters = new Set(Object.keys(icsFiles));
+let activeTagFilters = new Set(EVENT_TAGS);
 
 async function fetchICSFile(url) {
   const response = await fetch(url);
@@ -168,7 +267,8 @@ function parseICSData(icsData, source) {
       imageUrl: vevent.getFirstPropertyValue('x-cover-image-url'),
       source: source,
       venueUrl: icsFiles[source].url,
-      venueType: icsFiles[source].type
+      venueType: icsFiles[source].type,
+      tag: vevent.getFirstPropertyValue('x-event-tags') || "UNCATEGORIZED"
     };
   });
 }
@@ -187,7 +287,6 @@ function displayEvents() {
   eventList.innerHTML = '';
 
   let eventStartFilter = (currentWeekStart.isSame(moment().startOf('week'))) ? moment().startOf('day') : currentWeekStart;
-
   const weekEnd = moment(currentWeekStart).endOf('week');
 
   const filteredSummaries = new Set();
@@ -197,12 +296,13 @@ function displayEvents() {
 
     const isValidDate = moment(event.start).isBetween(eventStartFilter, weekEnd, null, '[]');
     const isValidSource = activeFilters.has(event.source);
+    const isValidTag = activeTagFilters.has(event.tag);
 
-    if (isValidDate && isValidSource) {
+    if (isValidDate && isValidSource && isValidTag) {
       filteredSummaries.add(event.summary);
     }
 
-    return isValidDate && isValidSource;
+    return isValidDate && isValidSource && isValidTag;
   });
 
   eventsThisWeek.sort((a, b) => a.start - b.start);
@@ -230,18 +330,19 @@ function displayEvents() {
       const eventBox = document.createElement('div');
       eventBox.className = 'event-box';
       eventBox.innerHTML = `  
-                <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
-                <button class="add-to-calendar" title="Add to Calendar">📅</button>
-                <div class="event-details">
-                    <div class="event-title">${event.summary}</div>
-                    <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
-                    <div class="event-description">${event.description}</div>
-                    <div class="event-actions">
-                        <span class="view-details">View Details</span>
-                        <a href="${event.url}" target="_blank" class="event-link">Original Page</a>
-                    </div>
-                </div>
-            `;
+          <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
+          <button class="add-to-calendar" title="Add to Calendar">📅</button>
+          <div class="event-details">
+              <div class="event-title">${event.summary}</div>
+              <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+              <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
+              <div class="event-description">${event.description}</div>
+              <div class="event-actions">
+                  <span class="view-details">View Details</span>
+                  <a href="${event.url}" target="_blank" class="event-link">Original Page</a>
+              </div>
+          </div>
+      `;
       eventContainer.appendChild(eventBox);
 
       eventBox.querySelector('.view-details').addEventListener('click', () => showEventDetails(event));
@@ -267,11 +368,13 @@ function showEventDetails(event) {
   const modalDescription = document.getElementById('modalDescription');
   const modalLink = document.getElementById('modalLink');
   const addToCalendarBtn = document.getElementById('addToCalendar');
+  const modalTag = document.getElementById('modalTag');
 
   modalImage.src = event.imageUrl || '/api/placeholder/600/300';
   modalImage.alt = event.summary;
   modalTitle.textContent = event.summary;
   modalDate.textContent = `${moment(event.start).format('MMMM D, YYYY - h:mm A')} to ${moment(event.end).format('h:mm A')}`;
+  modalTag.textContent = event.tag;
 
   if (event.location) {
     modalLocation.innerHTML = '<a href="http://maps.google.com/?q=' + event.location + '" target="_blank">' +  "📍" + event.location + "</a>";
@@ -282,15 +385,9 @@ function showEventDetails(event) {
   let description = event.description.replace(/(https?:\/\/[^\s]+)/g, (match) => {
     return `<a href="${match}" target="_blank">${match}</a>`;
   });
-
-  //description.replace(/\n/g, '<br>');
  
   modalDescription.innerHTML = description;
-
-  console.log(event.description);
-
   modalLink.href = event.url;
-
   addToCalendarBtn.onclick = () => addToCalendar(event);
 
   modal.style.display = 'block';
@@ -300,7 +397,7 @@ function showEventDetails(event) {
 function addToCalendar(event) {
   const startTime = moment(event.start).format('YYYYMMDDTHHmmss');
   const endTime = moment(event.end).format('YYYYMMDDTHHmmss');
-  const googleCalendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(event.summary)}&dates=${startTime}/${endTime}&details=${encodeURIComponent(event.description)}&location=${encodeURIComponent(event.location || '')}&sprop=&sprop=name:`;
+  const googleCalendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(event.summary)}&dates=${startTime}/${endTime}&details=${encodeURIComponent(event.description)}&location=${encodeURIComponent(event.location || '')}&sprop=&sprop=name:&sprop=X-EVENT-TAGS:${event.tag}`;
 
   const appleCalendarUrl = `data:text/calendar;charset=utf8,BEGIN:VCALENDAR
 VERSION:2.0
@@ -311,6 +408,7 @@ DTEND:${endTime}
 SUMMARY:${event.summary}
 DESCRIPTION:${event.description}
 LOCATION:${event.location || ''}
+X-EVENT-TAGS:${event.tag}
 END:VEVENT
 END:VCALENDAR`;
 
@@ -351,12 +449,12 @@ function updateWeekNavigation() {
 
   prevWeekBtn.disabled = currentWeekStart.isSame(moment().startOf('week'));
 
-  // Check if there are events in the next week
   const nextWeekStart = moment(currentWeekStart).add(1, 'week').startOf('week');
   const nextWeekEnd = moment(nextWeekStart).endOf('week');
   const hasNextWeekEvents = allEvents.some(event =>
     moment(event.start).isBetween(nextWeekStart, nextWeekEnd, null, '[]') &&
-    activeFilters.has(event.source)
+    activeFilters.has(event.source) &&
+    activeTagFilters.has(event.tag)
   );
 
   nextWeekBtn.disabled = !hasNextWeekEvents;
@@ -373,97 +471,81 @@ function closeModal() {
   document.body.style.overflow = '';
 }
 
-document.addEventListener('DOMContentLoaded', function () {
-  const modal = document.getElementById('eventModal');
-  const closeButton = modal.querySelector('.close');
-
-  closeButton.addEventListener('click', closeModal);
-
-  modal.addEventListener('click', function (event) {
-    if (event.target === modal) {
-      closeModal();
-    }
-  });
-
-  // Close modal on escape key press
-  document.addEventListener('keydown', function (event) {
-    if (event.key === 'Escape') {
-      closeModal();
-    }
-  });
-});
-
 function createFilterToggles() {
-  const facebookFilters = document.getElementById('facebookFilters');
-  const kkFilters = document.getElementById('kkFilters');
-  const customFilters = document.getElementById('customFilters');
+  const tagFilters = document.getElementById('tagFilters');
 
-  Object.entries(icsFiles).forEach(([file, info]) => {
-    const toggle = document.createElement('label');
-    toggle.className = 'filter-toggle';
-    toggle.innerHTML = `
-              <input type="checkbox" name="${file}" checked>
-              <a href="${info.url}" target="_blank">${file.replace('.ics', '')}</a>
-          `;
+  if (!tagFilters) {
+      console.error('Tag filters container not found!');
+      return;
+  }
 
-    toggle.querySelector('input').addEventListener('change', (e) => {
-      if (e.target.checked) {
-        activeFilters.add(file);
-      } else {
-        activeFilters.delete(file);
-      }
-      displayEvents();
-    });
+  tagFilters.innerHTML = '';
 
-    switch (info.type) {
-      case 'Facebook':
-        facebookFilters.appendChild(toggle);
-        break;
-      case 'KK':
-        kkFilters.appendChild(toggle);
-        break;
-      case 'Custom':
-        customFilters.appendChild(toggle);
-        break;
-    }
-  });
+  const savedTags = getCookie('activeTags');
+  if (savedTags) {
+      activeTagFilters = new Set(JSON.parse(savedTags));
+  }
 
-  const filterHeader = document.querySelector('.filter-header');
-  const filterContent = document.querySelector('.filter-content');
+  else
+    activeTagFilters =  new Set(["MUSIC"]);
 
-  const toggleAllButton = document.createElement('button');
-  toggleAllButton.textContent = 'Disable All';
-  toggleAllButton.className = 'toggle-all-button';
+  EVENT_TAGS.forEach(tag => {
+      const button = document.createElement('button');
+      button.className = 'tag-button';
+      button.dataset.tag = tag;
+      button.classList.toggle('active', activeTagFilters.has(tag));
 
-  filterHeader.appendChild(toggleAllButton);
+      const emoji = document.createElement('span');
+      emoji.className = 'emoji';
+      emoji.textContent = TAG_EMOJIS[tag] || '';
 
-  toggleAllButton.addEventListener('click', (e) => {
-    e.stopPropagation(); // Prevent event bubbling
-    const filterToggles = filterContent.querySelectorAll('.filter-toggle input');
-    const areAllChecked = Array.from(filterToggles).every(toggle => toggle.checked);
+      const text = document.createElement('span');
+      text.textContent = tag;
 
-    filterToggles.forEach(toggle => {
-      toggle.checked = !areAllChecked;
-      if (toggle.checked) {
-        activeFilters.add(toggle.name);
-      } else {
-        activeFilters.delete(toggle.name);
-      }
-    });
+      button.appendChild(emoji);
+      button.appendChild(text);
 
-    toggleAllButton.textContent = areAllChecked ? 'Enable All' : 'Disable All';
+      button.addEventListener('click', () => {
+          button.classList.toggle('active');
+          if (activeTagFilters.has(tag)) {
+              activeTagFilters.delete(tag);
+          } else {
+              activeTagFilters.add(tag);
+          }
+          button.classList.add('shake');
+          setTimeout(() => button.classList.remove('shake'), 820);
+          displayEvents();
+          saveTags();
+      });
 
-    displayEvents();
-  });
-
-  const arrow = document.querySelector('.arrow');
-
-  filterHeader.addEventListener('click', () => {
-    filterContent.classList.toggle('open');
-    arrow.classList.toggle('open');
+      tagFilters.appendChild(button);
   });
 }
 
+function saveTags() {
+  setCookie('activeTags', JSON.stringify(Array.from(activeTagFilters)), 30);
+}
+
+function setCookie(name, value, days) {
+  let expires = "";
+  if (days) {
+      const date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = "; expires=" + date.toUTCString();
+  }
+  document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+
+function getCookie(name) {
+  const nameEQ = name + "=";
+  const ca = document.cookie.split(';');
+  for(let i = 0; i < ca.length; i++) {
+      let c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+}
 document.getElementById('prevWeek').addEventListener('click', () => {
   currentWeekStart.subtract(1, 'week');
   displayEvents();
@@ -478,9 +560,11 @@ window.onclick = function (event) {
   const modal = document.getElementById('eventModal');
   if (event.target == modal || event.target.className == 'close') {
     modal.style.display = 'none';
-    document.body.style.overflow = ''; // Re-enable scrolling
+    document.body.style.overflow = '';
   }
 }
 
-createFilterToggles();
-loadAllEvents();
+document.addEventListener('DOMContentLoaded', function() {
+  createFilterToggles();
+  loadAllEvents();
+});

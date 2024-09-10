@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] Michael Monroe\, Pumpehuset 10. september
-DTSTART:20240910T210000
-DTEND:20240911T000000
+DTSTART:20240910T200000
+DTEND:20240910T230000
 DESCRIPTION:\nMICHAEL MONROE\nPUMPEHUSET\n10. SEPTEMBER 2024\nDen energisk
  e glamrock stjerne\, Michael Monroe\, spiller i Pumpehuset 10. september 2
  024 \n\nBilletpriser: 230 kr. + gebyr\nBilletsalget starter fredag 12.07 k
@@ -29,9 +29,9 @@ ORGANIZER:Pumpehuset, Live Nation Denmark
 URL:https://www.facebook.com/events/1663622251068807/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45054
  0392_900434238778743_5334935857174154191_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=ZekDMUOpF40Q7kNvgH0wcN_&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AavH9lzr9MacRwbQpOco38B&oh=00_AYBW0Fv9VdriBWYBLSPyh4zGm5DIALuf88rcGLVkjGT4
- Mw&oe=66E0D5CC
+ =75d36f&_nc_ohc=oDU_bh5gPLYQ7kNvgFe0Yv7&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ CY-wEvNSziAKpwjl8ANNZ0qyiZ6KbKzX4r1syfO-3qLg&oe=66E61BCC
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] Avi Kaplan // Pumpehuset
@@ -67,13 +67,16 @@ DESCRIPTION:Det er ikke hver dag\, man kan opleve en tredobbelt Grammy-vin
   september på Voxhall i Aarhus og dagen efter\, den 11. september\, i Pum
  pehuset i København.\n\nBilletter sættes i salg den 23. februar klokken 
  10.00. 
+GEO:55.67713;12.56526
 LOCATION:Studiestræde 52\, 1554 Copenhagen\, Denmark
 ORGANIZER:Pumpehuset, smash!bang!pow!
 URL:https://www.facebook.com/events/328975102909563/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/42846
  2368_386731007309460_3748555770150180640_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=yQftiudPmB4Q7kNvgGkdbOm&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- ArWUM9e_vn9lLN-QJXcz_gKmJU3bRx-wx0MPIDXPocpw&oe=66E0F535
+ =75d36f&_nc_ohc=DwyIKywuk9oQ7kNvgFIaE7S&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AykClLAvmnzaZFrR5vq_rsh&oh=00_AYAWjue1cGs8O89wWuM3rEnvxLWGPjjfc1izMvahCKNv
+ jw&oe=66E63B35
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] Portal to (final) Party - A Festival by Fraads
@@ -105,12 +108,13 @@ DESCRIPTION:Efter flere år på landets festivaler og koncertscener træde
  tix.to/fraads
 GEO:55.67713;12.56526
 LOCATION:Studiestræde 52\, 1554 Copenhagen\, Denmark
-ORGANIZER:Pumpehuset, The Artist, FRAADS
+ORGANIZER:Pumpehuset, Byhaven Pumpehuset, The Artist, FRAADS
 URL:https://www.facebook.com/events/739982914947710/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/44056
  7662_423937106922183_8279573386751405256_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=HPdfsgMpXvkQ7kNvgGpubSY&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- BwQyJXMLGknl3P6tTE3FY18NgZ8KOP8OotgF44PCbqfA&oe=66E0D875
+ =75d36f&_nc_ohc=22eVBcfTrgkQ7kNvgFJ4eoz&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ BPExzQMx_EPxcv0FOVONT_Ix0zfo-swSiOelDbtg8Sxw&oe=66E61E75
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] EVERGREY + Support: CYHRA: 17/09/2024 (DK) KÖPENHAMN
@@ -138,14 +142,14 @@ DESCRIPTION:Efter mere end 30 års progressiv metalhistorie er EVERGREY ti
   falske udbydere og videresalgs-sider som Viagogo og lignende\, da man ikk
  e kan være sikker på billetternes ægthed + ofte ender med at betale ove
  rpris.\n
-GEO:55.677233274833;12.565005419944
 LOCATION:Pumpehuset
 ORGANIZER:Pumpehuset, All Things Live Denmark, Evergrey
 URL:https://www.facebook.com/events/943035960889155/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/43808
  7414_839843414851648_2778775635926719540_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=vtZyQFuDqn8Q7kNvgHip1tc&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- AZpyVUu2T8kpXCAj7B_wKAe3NMCv2l2MJOLBNoCMPX8A&oe=66E0C16F
+ =75d36f&_nc_ohc=EshIZb4DPa0Q7kNvgFrx_tm&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ C-6jTGTMG64QcVz8aa7VQ-ZYBvyejzREQKua7yl4bApA&oe=66E63FAF
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] Symphony X [Support: Edge of Paradise] // Pumpehuset 
@@ -174,8 +178,10 @@ ORGANIZER:Pumpehuset, Live Nation Denmark, Symphony X
 URL:https://www.facebook.com/events/887480846419569/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45490
  3964_922574266564740_1956216015689058163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=lddNfXC4qFwQ7kNvgG4VbFH&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- Cdqz2cBGl1vrGBGc68nGh2fcvZ4d5aWV1aXpfNiDMmmQ&oe=66E0F203
+ =75d36f&_nc_ohc=aRjFIhehGAgQ7kNvgF_7L3y&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AMOH3wKGqqzwawmkHG-PN5q&oh=00_AYBmEo7OO3RTZ5RxN3EWeU7y789zv4PNQlUD47DDEmVS
+ nw&oe=66E63803
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] 06 Boys // Pumpehuset
@@ -197,8 +203,10 @@ ORGANIZER:Pumpehuset
 URL:https://www.facebook.com/events/450497500687176/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/43811
  9008_426990839950143_1668411503634603874_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=DKOiSblBgQMQ7kNvgHKp3vk&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- Dybaa548aZkc-M5e2YnrDgWpC9ucHtN__GlPvvg3JjLQ&oe=66E0E0DE
+ =75d36f&_nc_ohc=Rp-LUN0VrGwQ7kNvgE-bT2b&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ Acoyim4LcCaPXpMOMCtYT1u&oh=00_AYDF3OB98-vdPnNpu_YnrmwrypLVeuPt68vakFSgKQVw
+ Xw&oe=66E626DE
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] El Mato a un Policia Motorizado live in Copenhagen 
@@ -226,9 +234,10 @@ ORGANIZER:LiveTonite, Pumpehuset
 URL:https://www.facebook.com/events/1635328920651657/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45363
  1183_475969425178717_1624088629839788350_n.jpg?stp=dst-jpg_p960x960&_nc_ca
- t=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=12FldhCHiRYQ7kNvgGPFgqb&_nc_ht=sconte
- nt-cph2-1.xx&oh=00_AYDPVL3wOeTrI0PTTIqO-xukSxc2l2eL6Dk6R1SwiDE0CA&oe=66E0D
- 18F
+ t=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uJHEzkAVw2AQ7kNvgHDBSXj&_nc_ht=sconte
+ nt-cph2-1.xx&_nc_gid=A0DFCqW_ZQVxMfoaOltwhaw&oh=00_AYDP7moFE8iPM7GTsszbYou
+ NyEoLRJiEkbzZCiSIYP06ag&oe=66E6178F
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Pumpehuset] SKYGGESIDEN - SUPPORT: OSSI J & XANDER 
@@ -266,13 +275,13 @@ DESCRIPTION:SkyggeSiden er en fremadstormende rapper og sanger\, der i 202
  dt med Yepha. Han har spillet på både Stengade\, H9 og Vega. Han optråd
  te som opvarmning for Karl Knast med Ossi J i Vega. Nu er de begge klar ti
  l at gi’ den en skalle.
-GEO:55.677233274833;12.565005419944
 LOCATION:Pumpehuset
 ORGANIZER:SkyggeSiden, DJ KCL, Pumpehuset
 URL:https://www.facebook.com/events/1515542172732038/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/44879
  3576_1015030187296034_8248118760894026728_n.jpg?_nc_cat=107&ccb=1-7&_nc_si
  d=75d36f&_nc_ohc=Tp3h3SPJUoUQ7kNvgFzW08R&_nc_ht=scontent-cph2-1.xx&oh=00_A
- YCvFOTaeVWmjq5RajpM1049YALYbRLtkYm6JGi3qQ0yLw&oe=66E36370
+ YAK3LNYZDsTSqeaJe6SFrTRjYAdpVoDC9QeOtzY4OfLcA&oe=66E63EB0
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 END:VCALENDAR

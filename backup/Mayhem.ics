@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:[Mayhem] MAYHEM PRÆSENTERER
+DTSTART:20240912T210000
+DTEND:20240913T000000
+DESCRIPTION:SLAGS IN TAPESTRY (ENGLAND)\n\n\nSEPTISTÆ\n\n\nPAN-JACK
+LOCATION:Mayhem\, Ragnhildgade 1\, 2100 København Ø
+ORGANIZER:Mayhem
+URL:https://mayhemkbh.dk
+X-COVER-IMAGE-URL:https://mayhemkbh.dk/wp-content/uploads/2024/08/12.-sept
+ ember-513x700.jpeg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Mayhem] Hurbus præsenterer
+DTSTART:20240914T210000
+DTEND:20240915T000000
+DESCRIPTION:BRAINBOMBS\n\n+Slippery Transgressions\n\n\n \n\n\nBILLETTER:
+ \n\n\nhttps://billetto.dk/e/brainbombs-billetter-994132
+LOCATION:Mayhem\, Ragnhildgade 1\, 2100 København Ø
+ORGANIZER:Mayhem
+URL:https://mayhemkbh.dk
+X-COVER-IMAGE-URL:https://mayhemkbh.dk/wp-content/uploads/2024/05/IMG_7789
+ -503x700.jpeg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Mayhem] Dystopian Nights præsenterer:
+DTSTART:20241011T203000
+DTEND:20241011T233000
+DESCRIPTION:// The SPECIAL CONFUSING DYSTOPIAN BANQUET //\n\n-Uranes\n\n-Q
+ ueimada\n\n-Nanna Koppel\n\n-Yi Ten Lai\n\n-Hyperchrist\n\n-Byebye Tsunami
+ \n\n-Jim Kimchi
+LOCATION:Mayhem\, Ragnhildgade 1\, 2100 København Ø
+ORGANIZER:Mayhem
+URL:https://mayhemkbh.dk
+X-COVER-IMAGE-URL:https://mayhemkbh.dk/wp-content/uploads/2024/09/A1EFD8F1
+ -EB3D-4D44-95AB-6FC6E4FDA5A6-560x700.jpeg
+END:VEVENT
+END:VCALENDAR

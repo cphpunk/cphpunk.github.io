@@ -1,34 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:[Hotel Cecil] Anne Bakland - Sengevæder
-DTSTART:20240908T160000
-DTEND:20240908T190000
-DESCRIPTION:\n\nSale Dates and Times:\n\nPublic Onsale : Wed\, 7 Feb 2024 
- at 01:54 PM\n
-LOCATION:Hotel Cecil
-ORGANIZER:Hotel Cecil, B Entertained
-URL:https://www.facebook.com/events/1063713948112962/
-X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/42580
- 5281_10161569628208641_3071107039939008479_n.jpg?_nc_cat=101&ccb=1-7&_nc_s
- id=75d36f&_nc_ohc=ZyzECE2gdY0Q7kNvgFCusJA&_nc_ht=scontent-cph2-1.xx&oh=00_
- AYAdgpMuES8suEZNPvabS-IqRI8m_p6Q_Vj4RsTrE4-UtA&oe=66E0C92A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Hotel Cecil] Anne Bakland - Sengevæder
-DTSTART:20240908T190000
-DTEND:20240908T220000
-DESCRIPTION:\n\nSale Dates and Times:\n\nPublic Onsale : Fri\, 8 Sep 2023 
- at 10:00 AM\n
-GEO:55.67935;12.57771
-LOCATION:Hotel Cecil\, Niels Hemmingsens Gade 10
-ORGANIZER:Hotel Cecil
-URL:https://www.facebook.com/events/867747381437974/
-X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/37680
- 9276_10161304130963641_5332880258960672677_n.jpg?_nc_cat=110&ccb=1-7&_nc_s
- id=75d36f&_nc_ohc=2Ni-zKfuX2kQ7kNvgEywKc4&_nc_ht=scontent-cph2-1.xx&oh=00_
- AYBKYg27LcA7N2R8R1POHQmBqa6AJISAZjSdqmy7mN0u1g&oe=66E0D9F7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Hotel Cecil] Crack Cloud (CAN) + support: Clothing | Hotel Cecil\
  , København
 DTSTART:20240910T200000
@@ -62,9 +33,10 @@ ORGANIZER:Hotel Cecil, smash!bang!pow!
 URL:https://www.facebook.com/events/650773710565488/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45571
  3548_912449557590171_1980660114226196518_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=iX4RwTAGeK0Q7kNvgEWlTcf&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AEMwyKBryRhQY1RCmCdQL5p&oh=00_AYDpkDV1MGEEAHNPcZhqQ03Gf7lOw2Uj5k06zbLrgXnn
- Sg&oe=66E0E97D
+ =75d36f&_nc_ohc=xngMKOFMsjgQ7kNvgFoH4M0&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AlGxXHLF9nQOCWrtXTxsPxq&oh=00_AYASDbyhPqPN8pMMzauHnMk0S11R9Un7oSs6dQka26QL
+ ow&oe=66E62F7D
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Hotel Cecil] PRIME Music showcase | Hotel Cecil\, København
@@ -101,8 +73,10 @@ ORGANIZER:Hotel Cecil, PRIME Music
 URL:https://www.facebook.com/events/2208897902810267/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45437
  1102_905056974996096_4904429531582887980_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=3FWVPAc80k8Q7kNvgEi7bug&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- ATBSxIXXGdENGnkcP6x4-j1u8sOGB7Lmky-cBHl9mtOQ&oe=66E0C3F4
+ =75d36f&_nc_ohc=6TZJ_8upGbIQ7kNvgFqOHyq&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AbFqZDVMnF3FzMpeU2Qjvtn&oh=00_AYBc8fRZt3WgP6YGojZT8dAUxCu-jQbT6vj52RqQ_d5E
+ 1A&oe=66E64234
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Hotel Cecil] AFLYST – RH | Hotel Cecil\, København
@@ -124,14 +98,15 @@ DESCRIPTION:RH kommer til Hotel Cecil den 13. september. \n—————
  iklandskab\, som en musikalsk forfatter. Han agter altid at skabe et udtry
  k\, der er unikt og relaterbart. En artist der formår at omdanne hans ind
  re budskaber til fængslende melodier og omkvæd.
+GEO:55.67935;12.57771
 LOCATION:Hotel Cecil
 ORGANIZER:Hotel Cecil, RH, PRIME Music
 URL:https://www.facebook.com/events/394148146641710/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/42840
  7948_793688102799651_4952543714724960970_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=9yOppDiwbFoQ7kNvgHN4OgR&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AQQEeVq8V2M_0y_hzk7H9iD&oh=00_AYB_Zi3f0ONQ4F0tuVJzB10Mq-lvmNSsKaGNpQF-D4A5
- bw&oe=66E0ED8A
+ =75d36f&_nc_ohc=DmCGlP37eqgQ7kNvgFpay1Y&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ Cs7w-UVDd70u2VAHkIo8S9VTRuOS2Z2KaJG__ZLf44hw&oe=66E6338A
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Hotel Cecil] Joel Henry | Hotel Cecil\, København
@@ -152,14 +127,16 @@ DESCRIPTION:Joel Henry kommer til Hotel Cecil i kølvandet af sit debutalb
  kkeligt fængende musikalsk univers.\n\nHans debutalbum Senses udkom i for
  året på Super Bad Disco/ Pasteelo\, hvilket han tager med\, når han giv
  er koncert på Hotel Cecil. 
+GEO:55.67935;12.57771
 LOCATION:Hotel Cecil
 ORGANIZER:Hotel Cecil, Super Bad Disco
 URL:https://www.facebook.com/events/3552955898328875/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45372
  5120_905059218329205_1413954666704397671_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=FObuB0Skrs4Q7kNvgG2JLRD&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- Avyr4U0nSxyHFDuElKSHbou&oh=00_AYB_grTHdZgy5tFedTnSeiVShyTuYPnVpAdNZVzwr08P
- aA&oe=66E0F24F
+ =75d36f&_nc_ohc=IltgrNC7yGQQ7kNvgGAnEJx&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AeZbU-YcPAvS2T5rPZDNGd2&oh=00_AYBGsiQfTpMLXs8SkEqU4MaHoF-qU1HQqz8s48ZuzPUy
+ zQ&oe=66E6384F
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Hotel Cecil] UDSOLGT! Jacob Aksglæde – Alene På Hotel Cecil [
@@ -201,8 +178,9 @@ ORGANIZER:Hotel Cecil, Jacob Aksglæde
 URL:https://www.facebook.com/events/3400747940216457/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/44768
  5495_864860289015765_3526455198995955368_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=fKK-YJvo1esQ7kNvgFR9fDH&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- CGinG01e61pml6NtVVnvBQqUOlSSwzt4N1JdwHCm4AJQ&oe=66E0D6DB
+ =75d36f&_nc_ohc=AknDUsCs6JIQ7kNvgEUo5Sr&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ BINHMVyPTbt0s0xo3GHYm-a0qs1NH2PHQfqbbzvx2Gtw&oe=66E61CDB
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Hotel Cecil] Jacob Aksglæde – Alene på Hotel Cecil [ekstrakon
@@ -243,8 +221,68 @@ ORGANIZER:Hotel Cecil, Jacob Aksglæde
 URL:https://www.facebook.com/events/3748955788666488/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/42833
  6192_791797806322014_8949731164116342773_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=E1VnfivzBl4Q7kNvgFJjLuW&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- A6jyRaQxhkN2dpEzulSpKa6&oh=00_AYCL7NrW6mzRBHPmkOqrbgwmXITEvpw7TatWuAf4nf2y
- QA&oe=66E0ECE2
+ =75d36f&_nc_ohc=Oz0uK1-hRjYQ7kNvgHs81Aj&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ BFo1HsMEo_m9tyiJhMaE_tKIXKQr4qPBuR5nUcCBlVFQ&oe=66E632E2
+X-EVENT-TAGS:MUSIC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Hotel Cecil] Jacob Aksglæde – Alene på Hotel Cecil [udsolgt]
+DTSTART:20240918T200000
+DTEND:20240918T230000
+DESCRIPTION:Jacob Aksglæde inviterer til en aften med musik og musikalske
+  fortællinger\, når han spiller sin eneste koncert i 2024 på Hotel Ceci
+ l.\n——————————————\n• Billetpris: 280kr\n•
+  Billetsalg: https://t.ly/Th9yu\n• Døre til koncertsalen åbner kl. 19\
+ n• Koncertstart kl. 20\n\nTilmeld dig Hotel Cecils Nyhedsbrev:\nhttp://e
+ epurl.com/dqclV5 \n——————————————\n\nEfter en 
+ anmelderrost og højenergisk sommer- og efterårsturné\, ser den danske s
+ anger og sangskriver Jacob Aksglæde frem til at sætte tempoet helt ned o
+ g skrue op for intimiteten til en mindeværdig aften på Hotel Cecil\, hvo
+ r han vil lukke publikum ind i sit sangskriver-rum med personlige fortæll
+ inger om teksterne.\n\n”Det er min første rigtige solo-koncert\, så je
+ g glæder mig meget til at være endnu tættere på publikum. Jeg ser frem
+  til at spille sangene som de lød\, da jeg skrev dem og ikke mindst fort
+ ælle historierne bag dem. Og så kommer der selvfølgelig også nogle ove
+ rraskelser!” fortæller Jacob Aksglæde.\n\nGennem årene har Aksglæde 
+ leveret fire EP'er og to albums\, og hans hits som "Giv Lys Igen"\, "Promi
+ lleRomantikken"\, ”Passager”\, "Næste Sommer" og "Fantomfølelser" ha
+ r skabt en euforisk atmosfære ved hans liveshows.\n\nHans seneste album\,
+  "Godnat Og Godmorgen"\, der blev udgivet den 13. oktober\, udforsker rela
+ terbare temaer som ængstelighed\, livets travlhed og længslen efter et 
+ øjebliks pusterum. Albummet fungerer som en rørende påmindelse om at v
+ ærne om væsentlige ting som kærlighed og venskab\, før det er for sent
+ .\n\nEfter et meget aktivt koncert-år i 2023\, holder sangskriveren en ve
+ lfortjent koncertpause i hele 2024\, for at fokusere på sit næste album.
+  Heldigvis bliver der tid til en enkelt koncert\, når Jacob Aksglæde til
+  september står ’Alene på Hotel Cecil'. \n\nTil koncerten vil han akus
+ tisk fremføre sange fra sit stærke bagkatalog\, samt dele fortællinger 
+ og anekdoter bag musikken.
+GEO:55.67935;12.57771
+LOCATION:Hotel Cecil
+ORGANIZER:Hotel Cecil, Helter Skelter, Jacob Aksglæde
+URL:https://www.facebook.com/events/1446560442900554/
+X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/42796
+ 0753_791796836322111_366330232044327532_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=
+ 75d36f&_nc_ohc=OcQXQgTN1C8Q7kNvgFjzJ_H&_nc_ht=scontent-cph2-1.xx&oh=00_AYB
+ B9fQTJ8M4A2_vcr6X8D1LT_nb__Ov398QQ_I39KqQRg&oe=66E627D4
+X-EVENT-TAGS:MUSIC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Hotel Cecil] The Crying Nudes | Hotel Cecil\, København
+DTSTART:20240919T200000
+DTEND:20240919T230000
+DESCRIPTION:The Crying Nudes spiller live på Hotel Cecil i København den
+  19. september.\n——————————————\n• Billetpri
+ s: 210kr\n• Billetsalg: www.ticketmaster.dk/event/CEC1909D\n• Døre: k
+ l. 19\n• Koncert: kl. 20\n\nTilmeld dig Hotel Cecils Nyhedsbrev:\nhttp:/
+ /eepurl.com/dqclV5 \n——————————————
+LOCATION:Hotel Cecil
+ORGANIZER:Hotel Cecil
+URL:https://www.facebook.com/events/1226334308552262/
+X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45657
+ 3448_920031106832016_3444000248594657173_n.jpg?stp=cp6_dst-jpg&_nc_cat=100
+ &ccb=1-7&_nc_sid=75d36f&_nc_ohc=CrPWvzORmS4Q7kNvgHi48bj&_nc_ht=scontent-cp
+ h2-1.xx&oh=00_AYAvF2dvHuoxLBFy21bYq7t3kojFn9cGNVyHEQxy1YsvoQ&oe=66E6479F
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 END:VCALENDAR

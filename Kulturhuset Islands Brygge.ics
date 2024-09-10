@@ -1,34 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:[Kulturhuset Islands Brygge] Tysk Filmklub - Der geteilte Himmel
-DTSTART:20240909T183000
-DTEND:20240909T210000
-DESCRIPTION:Vi starter efteråret med en modig sværvægter fra den tyske 
- filmskat. Vi skal tilbage til efteråret 1961\, til tiden lige før muren 
- bliver opført. Her følger vi Rita Seidel\, som allerede mærker prisen f
- or det delte samfund. Efter et sammenbrud forlader hun Berlin og vender ti
- lbage til sin hjemstavn for at komme til hægterne\, mens hun tænker over
-  sit liv og over den mand hun mistede til den anden side.\nDer geteilte Hi
- mmel (Den delte himmel) fra 1964 er baseret på Christa Wolfs roman af sam
- me titel og instrueret af Konrad Wolf. Filmen\, som blev indspillet kun f
- å år efter opførelsen af Berlinmuren ses stadig i dag som noget af det 
- mest modige og systemkritiske\, der kom ud fra det statsejede DEFA-filmsel
- skab.\n\nSom altid indledes filmen med en kort introduktion.\n\nTysk Filmk
- lub er et samarbejde mellem Kulturhuset Islands Brygge\, Goethe-Institutte
- t og Institut for Engelsk\, Germansk og Romansk på Københavns Universite
- t.\n\nArrangementet er gratis\, men kræver billetbestilling.\n\nFoto: © 
- PROGRESS Film-Verleih / Werner Bergmann\n\n
-GEO:55.66683;12.57627
-LOCATION:Kulturhuset Islands Brygge
-ORGANIZER:Tysk Filmklub, Kulturhuset Islands Brygge, Goethe-Institut Däne
- mark
-URL:https://www.facebook.com/events/1852677305142999/
-X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45627
- 1286_461395943540807_7092448312741675472_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=IrtSFRAbir4Q7kNvgEvskRt&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- DT2wlhDdioNlK6Xf7fVNVcZeK65GXX0-1eLJYAKbhbog&oe=66E0DA62
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Kulturhuset Islands Brygge] Innocent Blood - 25 år Jubilæumskon
  cert | Kulturhuset Islands Brygge
 DTSTART:20240912T200000
@@ -61,15 +32,14 @@ DESCRIPTION:I år er det 25 år siden det danske rockband Innocent Blood u
  ager scenen på Kulturhuset Islands Brygge d. 12. september!\n\nInnocent B
  lood består af Lars Prag på bas\, Jesper Hofmann på guitar\, Ditlev Ulr
  iksen som vokalist og Ulrik Münster-Swendsen på trommer.
-GEO:55.66683;12.57627
 LOCATION:Islands Brygge 18\, 2300 Copenhagen\, Denmark
 ORGANIZER:Kulturhuset Islands Brygge, Innocent Blood
 URL:https://www.facebook.com/events/782531543931490/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/43119
  1082_412711754744641_6875379573430182013_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=CTpFV7Fy3XIQ7kNvgEMpZUY&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- A2b80vIgwnC55Qsb7Q5R-fT&oh=00_AYBXN8Fcz4RCGxaGvfsHiQECwhXViMbqt8EZswMkS39H
- eQ&oe=66E0E2B9
+ =75d36f&_nc_ohc=TsBcFVtaeRkQ7kNvgGFzy5N&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ DCgamztUir7GIMHjh-ea1ggGqvk5Xr-yPC5dVtsWt_aQ&oe=66E628B9
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Kulturhuset Islands Brygge] Devon Williams (US) + Jacob Speake | 
@@ -103,12 +73,14 @@ DESCRIPTION:Kulturhuset Islands Brygges udendørs havnescene byder på kon
  . 16.30 Sean Needham & the Red Lake Band\nkl. 17.30 The Creek Brothers\n\n
  Fredag 13/9\nkl. 16.30 Devon Williams (US) \nkl. 17.30 Jacob Speake
 LOCATION:Kulturhuset Islands Brygge
-ORGANIZER:Kulturhuset Islands Brygge
+ORGANIZER:Kulturhuset Islands Brygge, Klub Geyser, Jacob Speake
 URL:https://www.facebook.com/events/870927341549727/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45452
  2332_507374835278332_977387360869467752_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=
- 75d36f&_nc_ohc=IDyXPd9yomwQ7kNvgEQwHsQ&_nc_ht=scontent-cph2-1.xx&oh=00_AYC
- _DQnzDhmOIKtbN28z3XI_EjpxP-N-K1yCqC5KuuxiyA&oe=66E0BFAA
+ 75d36f&_nc_ohc=4ARJX_PqmAsQ7kNvgHqxwOn&_nc_ht=scontent-cph2-1.xx&_nc_gid=A
+ q7RfpF2rWwaGYY-cAAvlh-&oh=00_AYDRoNjyeDk90RfFPSZ50C44W8wQvrXbxdXGfpcZLXlYx
+ w&oe=66E63DEA
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Kulturhuset Islands Brygge] Debattle om Hamsterhjulet | Golden Da
@@ -137,8 +109,10 @@ ORGANIZER:Kulturhuset Islands Brygge, Golden Days Festival, Ham Den Lange,
 URL:https://www.facebook.com/events/1019188476316105/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45517
  0606_510742291608253_3185778825671823299_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=PhGBlZ2_8YoQ7kNvgGmT8Ab&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- BEo40182Q0H-q9mjLXimeRRlEr2opLMeuIixENE6pr3Q&oe=66E0EF6F
+ =75d36f&_nc_ohc=_zmWl1NQYjAQ7kNvgFvXwRd&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ A73kBssog8Y1J_OrBI5orwm&oh=00_AYAlY_nhH6Sh7ZuFyiLUApNWXSgyne9zTwA0k-9nLBI5
+ 7Q&oe=66E6356F
+X-EVENT-TAGS:COMEDY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Kulturhuset Islands Brygge] WITCH MARKET II 
@@ -157,18 +131,19 @@ DESCRIPTION:Witch Market II\n\nJoin the Copenhagen Occult Club for a magic
  uman design chart\, a clairvoyant session\, an aura illustration\, a quick
   reiki session\,  enlightenment through astrology or a palmistry session\,
   you’ll find it here.\n
-LOCATION:Kulturhuset Islands Brygge
+GEO:55.66683;12.57627
+LOCATION:Kulturhuset Islands Brygge\, Islands Brygge 18
 ORGANIZER:Copenhagen Occult Club, Kulturhuset Islands Brygge
 URL:https://www.facebook.com/events/1541865120048702/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45709
  2034_122132274680295624_2535746354676284132_n.jpg?_nc_cat=100&ccb=1-7&_nc_
- sid=75d36f&_nc_ohc=RN2bSYiOBI8Q7kNvgGGRAem&_nc_ht=scontent-cph2-1.xx&_nc_g
- id=A3yh3uqOcMFzd6mQlN31yIo&oh=00_AYAHu2S1HgPSA5sIIzyo-mXwUcH1TnSwcIPvKYSxd
- Vejcw&oe=66E0D5F2
+ sid=75d36f&_nc_ohc=cb16nl08F-QQ7kNvgHQA8ap&_nc_ht=scontent-cph2-1.xx&oh=00
+ _AYAJcshJvnrtDMeOM2NF3TqSAEjTXlRCA7qyfVYEqjo_qw&oe=66E61BF2
+X-EVENT-TAGS:SHOPPING
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Kulturhuset Islands Brygge] Broderisalon med Julie Andkjær Olsen
-  
+SUMMARY:[Kulturhuset Islands Brygge] Broderisalon | Kulturhuset Islands Br
+ ygge
 DTSTART:20240917T183000
 DTEND:20240917T210000
 DESCRIPTION:Kom og broder sammen med andre i Broderisalonen v. kunstner Ju
@@ -192,10 +167,12 @@ DESCRIPTION:Kom og broder sammen med andre i Broderisalonen v. kunstner Ju
 LOCATION:Kulturhuset Islands Brygge
 ORGANIZER:Kulturhuset Islands Brygge
 URL:https://www.facebook.com/events/7832637056786126/
-X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45039
- 6741_489181990430950_1865687862233734480_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=rLAgHxll0bUQ7kNvgFA-88-&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- BitQm_E5sUbcALXcrZjk1FRgW2aZ8fDjINY192S9sWWA&oe=66E0E5D1
+X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45913
+ 5017_529615363054279_712132587513476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d
+ 36f&_nc_ohc=8JzsRRrscqEQ7kNvgEP4HzM&_nc_ht=scontent-cph2-1.xx&_nc_gid=AO8R
+ opbzd5uCQII0EvHYsfB&oh=00_AYBLTEBhsX5xEyD0qlcYXTsWh1xsZwTWHVmJdV86Hz8DkA&o
+ e=66E632F7
+X-EVENT-TAGS:SHOPPING
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Kulturhuset Islands Brygge] Quizaften med Milling
@@ -221,14 +198,15 @@ DESCRIPTION:Kom og test dig selv og din viden når Henrik Milling hiver di
  an kan hente fadbamser og skarphedskaffe o.l. når der er pauser\n \n\nVi 
  quizzer på følgende datoer i efteråret og vinteren 2024\n\n22/8\n19/9 \
  n29/10\n14/11\n12/12 
-GEO:55.66683;12.57627
 LOCATION:Kulturhuset Islands Brygge
 ORGANIZER:Kulturhuset Islands Brygge
 URL:https://www.facebook.com/events/2446424925561825/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/44925
  4268_482285187787297_1805423155942882865_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=osWMV9eEcWAQ7kNvgHGh_qp&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- C4vytwZuqU-74qRMFV2uqUwOZSZ3JE544upqO-ByuHKw&oe=66E33A80
+ =75d36f&_nc_ohc=LKEyNM5sa4IQ7kNvgH-kv8D&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ A9gGYyll1APhtpi-BKlx9d7&oh=00_AYDY1e6rgyOxXLgFobs7QMg-nnZlf1yCLyrhpZ_Z6CQX
+ ew&oe=66E615C0
+X-EVENT-TAGS:QUIZ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Kulturhuset Islands Brygge] Cleanup CPH - world cleanup day
@@ -251,11 +229,69 @@ DESCRIPTION:🌍 Join us and make a difference for our beautiful city!
  een—see you there! 🌿💧\n
 GEO:55.66683;12.57627
 LOCATION:Kulturhuset Islands Brygge
-ORGANIZER:GreenKayak, Kulturhuset Islands Brygge, Miljøpunkt Amager
+ORGANIZER:GreenKayak, Miljøpunkt Amager, Kulturhuset Islands Brygge
 URL:https://www.facebook.com/events/1931000367346787/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45619
  6113_903501185138274_4113236996650613050_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=5ij6Y9On5aoQ7kNvgEyqHQj&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- CiAm6ToAEpTmzflMM0lBa9M4zWPxB9JtLr6nwaLzz_bQ&oe=66E33C4A
+ =75d36f&_nc_ohc=5ij6Y9On5aoQ7kNvgEyqHQj&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AXdqhlpW-CRMUFsAudJ1CPs&oh=00_AYC33ZOMNgpi0MePEDj5QWVOLqD2rorlxtU2SJk_UOgO
+ eA&oe=66E6178A
+X-EVENT-TAGS:COMMUNITY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Kulturhuset Islands Brygge] Agnes Ea + Creatura + Bram van Langen
+  + Anna Kajander (NO) | Kulturhuset Islands Brygge 
+DTSTART:20240920T200000
+DTEND:20240920T230000
+DESCRIPTION:Varme folktoner\, norsk indie og forårsvenlig elektronisk pop
+  er på plakaten\, når Klub Geyser og Kulturhuset Islands Brygge præsent
+ erer fremadstormende sanger-sangskriverartister i showcase-format.\n\n► 
+ Fredag den 20.9 kl. 20.00 / Dørene åbner kl. 19.30\n► Billet: 80 kr. /
+  Studerende: 50 kr.\n► Køb billet i forsalg her: https://billetto.dk/e/
+ klub-geyser-agnes-ea-creatura-bram-van-langen-anna-kajander-no-billetter-1
+ 068376\n\n𝐂𝐫𝐞𝐚𝐭𝐮𝐫𝐚\nCreatura får publikum med på
+  en rejse der både indeholder bløde varme folktoner\, bossa-nova rytmer\
+ , men også bevæger sig hen mod et dansevenligt soulpop univers. Tekstern
+ e omhandler et farvespil af følelser\, livserfaringer og historiefortæll
+ ing.\n\n𝐀𝐠𝐧𝐞𝐬 𝐄𝐚\nAgnes Ea er blevet udnævnt til en 
+ ”Artpop-komet” på den danske musikhimmel af Soundvenue. Hun skriver d
+ ansksprogede sange der handler om venskaber\, natur\, kærlighed og at vok
+ se op i en krisetid. I foråret udgav hun sin debut EP "Intet forsvinder"\
+ , som Politiken gav 4 hjerter og Lucia Odoom beskrev som ”forårsvenlig 
+ elektronisk pop i øregangene” med ”drømmende tekster grænsende til 
+ poesi”. Live blander bandet elektroniske elementer og tunge beats med in
+ strumenter som cello og fløjte\, hvis melodier leder tankerne hen på nor
+ disk folkemusik. De forsøger at skabe et rum\, hvor vi kan være i sorg o
+ g glæde. \n\n𝐁𝐫𝐚𝐦 𝐯𝐚𝐧 𝐋𝐚𝐧𝐠𝐞𝐧\nBram
+  van Langen er en Amsterdam-baseret sangskriver og multi-instrumentalist. 
+ Ligesom idolerne Nick Drake\, Paul Simon og Paul McCartney har Bram van La
+ ngen en affinitet for behagelige melodier og varme\, dragende harmonier\, 
+ hvor lytteren kan finde et roligt sted at vandre.\n\n𝐀𝐧𝐧𝐚 𝐊
+ 𝐚𝐣𝐚𝐧𝐝𝐞𝐫 (𝐍𝐎)\nNorske Anna Kajander spiller musi
+ k med stærke følelser og intimitet. Koncerten til Klub Geyser er Anna Ka
+ janders første showcase i København og med i bagagen har hun et helt nyt
+  album og blod på tanden til at levere en uforglemmelig koncertoplevelse.
+  Anna Kajander har allerede etableret sin plads i den norske musikbranche 
+ med sit debutalbum "Mandag" og sange som "Sabla fin" og "Omforlatelse." Nu
+  kommer hendes længe ventede andet album\, hvor hun viser en mere legende
+  side af sig selv uden at miste sin karakteristiske lyd.\n\n𝐎𝐦 𝐊
+ 𝐥𝐮𝐛 𝐆𝐞𝐲𝐬𝐞𝐫\nKlub Geyser er Kulturhuset Islands 
+ Brygges singer/songwriter-klub\, som også står bag de udendørs sommerko
+ ncerter Geyser by the Sea og den årlige Geyser Festival i foråret.\n\nKl
+ ub Geyser er en tilbagevendende sangskriver-showcase\, med cirka ni årlig
+ e koncertarrangementer\, hvor der typisk er tre-fire navne på plakaten\, 
+ som hver især spiller kortere sæt af 30 minutter. \n\nDe optrædende er 
+ en skøn blanding af spritnye upcoming-navne og mere rutinerede solister o
+ g bands fra både ind- og udland. 
+LOCATION:Kulturhuset Islands Brygge
+ORGANIZER:Kulturhuset Islands Brygge, Klub Geyser, Jacob Speake, Anna Kaja
+ nder, Bram Van Langen, Nicole R. C. Knudsen, Jacob Speake
+URL:https://www.facebook.com/events/383725617788906/
+X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45527
+ 2085_511290668220082_8436822795738272615_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid
+ =75d36f&_nc_ohc=x5mVo3eGKBEQ7kNvgFwzP5R&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ A9EspLorXwnRESrCTmX2CWR&oh=00_AYDQDoGG9oWsH8e6v0jeQLPN1FyLLJvM1Z0a4LThAeev
+ Hg&oe=66E6352F
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 END:VCALENDAR

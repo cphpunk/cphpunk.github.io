@@ -79,7 +79,6 @@ h1 {
     padding: 10px 30px;
     text-align: center;
     text-decoration: none;
-    text-wrap: nowrap;
     display: inline-block;
     font-size: 14px;
     margin: 0 10px;
@@ -108,7 +107,6 @@ h1 {
     margin: 20px 0;
     position: relative;
     text-align: center;
-    text-wrap: nowrap;
     font-weight: bold;
     padding-top: 10px;
     margin-top: 50px;
@@ -129,8 +127,8 @@ h1 {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
     margin-top: 10px;
-    margin-bottom: 50px; /* Add this line */
-  }
+    margin-bottom: 50px;
+}
 
 .event-box {
     background-color: #fff;
@@ -140,7 +138,7 @@ h1 {
     transition: transform 0.3s ease;
     display: flex;
     flex-direction: column;
-    height: 100%; /* Ensure all boxes have the same height */
+    height: 100%;
 }
 
 .event-box:hover {
@@ -157,14 +155,13 @@ h1 {
     padding: 15px;
     display: flex;
     flex-direction: column;
-    flex-grow: 1; /* Allow details to grow and fill the space */
+    flex-grow: 1;
 }
 
 .event-title {
     font-size: 1.2em;
     font-weight: bold;
     margin-bottom: 10px;
-    text-wrap: stable;
 }
 
 .event-date {
@@ -174,11 +171,8 @@ h1 {
 }
 
 .event-description {
-    font-weight: normal;
-    text-align: left;
     font-size: 0.9em;
     margin-bottom: 10px;
-    flex-grow: 1; /* Allow description to grow and push actions to the bottom */
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
@@ -189,7 +183,7 @@ h1 {
 .event-actions {
     display: flex;
     justify-content: space-between;
-    margin-top: auto; /* Push actions to the bottom */
+    margin-top: auto;
 }
 
 .view-details, .event-link {
@@ -198,7 +192,6 @@ h1 {
     border-radius: 5px;
     transition: background-color 0.3s ease;
     font-size: 0.9em;
-    white-space: nowrap;
 }
 
 .view-details {
@@ -219,18 +212,6 @@ h1 {
 .event-link:hover {
     background-color: #45a049;
 }
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .event-day-container {
-        grid-template-columns: 1fr; /* Single column on smaller screens */
-    }
-
-    .event-box {
-        max-width: none; /* Allow full width on smaller screens */
-    }
-}
-
 
 .modal {
     display: none;
@@ -261,13 +242,13 @@ h1 {
     float: right;
     font-size: 28px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .close:hover,
 .close:focus {
     color: black;
     text-decoration: none;
-    cursor: pointer;
 }
 
 .modal-image {
@@ -313,103 +294,13 @@ h1 {
     background-color: #45a049;
 }
 
-.event-actions {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
-}
-
-.view-details {
-    background-color: #008CBA;
-    color: white;
-    padding: 8px 12px;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-    cursor: pointer;
-}
-
-.view-details:hover {
-    background-color: #007B9A;
-}
-
-.filter-container {
-    background-color: #fff;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-}
-
-.filter-header {
-    background-color: #f0f0f0;
-    padding: 10px 20px;
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.filter-header:hover {
-    background-color: #e0e0e0;
-}
-
-.filter-content {
-    display: none;
-    padding: 20px;
-}
-
-.filter-content.open {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.filter-column {
-    flex: 1 1 200px;
-    padding: 0 10px;
-    margin-bottom: 20px;
-}
-
-.filter-column h3 {
-    margin-top: 0;
-    margin-bottom: 10px;
-}
-
-.filter-toggle {
-    display: block;
-    margin-bottom: 10px;
-}
-
-.filter-toggle input {
-    margin-right: 5px;
-}
-
-.filter-toggle a {
-    text-decoration: none;
-    color: #008CBA;
-}
-
-.filter-toggle a:hover {
-    text-decoration: underline;
-}
-
-.arrow {
-    transition: transform 0.3s ease;
-}
-
-.arrow.open {
-    transform: rotate(180deg);
-}
-
 .add-to-calendar {
-    position: relative;
-    top: -60px;
-    right: -15px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
     width: 48px;
     height: 48px;
-    background-color: black;
-    outline: solid;
-    outline-color: white;
+    background-color: rgba(0, 0, 0, 0.5);
     border: none;
     border-radius: 50%;
     display: flex;
@@ -418,19 +309,159 @@ h1 {
     font-size: 20px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    z-index: 1;
+    color: white;
 }
 
 .add-to-calendar:hover {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
-@media (max-width: 600px) {
-    .filter-content.open {
-        flex-direction: column;
+.tag-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    width: 100%;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.tag-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    outline: none;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.tag-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.tag-button:active {
+    transform: translateY(1px);
+}
+
+.tag-button.active {
+    color: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.tag-button.shake {
+    animation: shake 0.2s cubic-bezier(.36,.07,.19,.97) both;
+}
+
+@keyframes shake {
+    10%, 90% { transform: translate3d(-1px, 0, 0); }
+    20%, 80% { transform: translate3d(2px, 0, 0); }
+    30%, 50%, 70% { transform: translate3d(-4px, 0, 0); }
+    40%, 60% { transform: translate3d(4px, 0, 0); }
+}
+
+/* Color scheme for buttons */
+.tag-button[data-tag="MUSIC"] { background-color: #e57373; }
+.tag-button[data-tag="MOVIE"] { background-color: #81c784; }
+.tag-button[data-tag="ACTIVISM"] { background-color: #64b5f6; }
+.tag-button[data-tag="COMMUNITY"] { background-color: #ffd54f; }
+.tag-button[data-tag="CULTURE"] { background-color: #ba68c8; }
+.tag-button[data-tag="LGBTQ+"] { background-color: #4db6ac; }
+.tag-button[data-tag="YOGA"] { background-color: #fff176; }
+.tag-button[data-tag="SPORTS"] { background-color: #ff8a65; }
+.tag-button[data-tag="ART"] { background-color: #9575cd; }
+.tag-button[data-tag="COMEDY"] { background-color: #4dd0e1; }
+.tag-button[data-tag="SHOPPING"] { background-color: #f06292; }
+.tag-button[data-tag="GAMES"] { background-color: #7986cb; }
+.tag-button[data-tag="QUIZ"] { background-color: #4fc3f7; }
+
+.tag-button:not(.active) {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.tag-button.active {
+    transform: scale(1.05);
+}
+
+.tag-button .emoji {
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .event-day-container {
+        grid-template-columns: 1fr;
     }
 
-    .filter-column {
-        flex-basis: 100%;
+    .event-box {
+        max-width: none;
+    }
+
+    .tag-button {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+    .tag-button .emoji {
+        font-size: 18px;
     }
 }
+
+.event-tag {
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.8em;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 10px;
+    color: white;
+    text-align: center;
+    max-width: 100px;
+    align-self: center;
+}
+
+/* Color scheme for event tags - matching the filter buttons */
+.event-tag[data-tag="MUSIC"] { background-color: #e57373; }
+.event-tag[data-tag="MOVIE"] { background-color: #81c784; }
+.event-tag[data-tag="ACTIVISM"] { background-color: #64b5f6; }
+.event-tag[data-tag="COMMUNITY"] { background-color: #ffd54f; }
+.event-tag[data-tag="CULTURE"] { background-color: #ba68c8; }
+.event-tag[data-tag="LGBTQ+"] { background-color: #4db6ac; }
+.event-tag[data-tag="YOGA"] { background-color: #fff176; }
+.event-tag[data-tag="SPORTS"] { background-color: #ff8a65; }
+.event-tag[data-tag="ART"] { background-color: #9575cd; }
+.event-tag[data-tag="COMEDY"] { background-color: #4dd0e1; }
+.event-tag[data-tag="SHOPPING"] { background-color: #f06292; }
+.event-tag[data-tag="GAMES"] { background-color: #7986cb; }
+.event-tag[data-tag="QUIZ"] { background-color: #4fc3f7; }
+
+/* Adjust text color for better contrast on light backgrounds */
+.event-tag[data-tag="YOGA"],
+.event-tag[data-tag="COMMUNITY"] {
+    color: #333;
+}
+
+/* Add emoji to event tags */
+.event-tag::before {
+    margin-right: 4px;
+}
+
+.event-tag[data-tag="MUSIC"]::before { content: "🎵"; }
+.event-tag[data-tag="MOVIE"]::before { content: "🎬"; }
+.event-tag[data-tag="ACTIVISM"]::before { content: "✊"; }
+.event-tag[data-tag="COMMUNITY"]::before { content: "🤝"; }
+.event-tag[data-tag="CULTURE"]::before { content: "🏛️"; }
+.event-tag[data-tag="LGBTQ+"]::before { content: "🏳️‍🌈"; }
+.event-tag[data-tag="YOGA"]::before { content: "🧘"; }
+.event-tag[data-tag="SPORTS"]::before { content: "⚽"; }
+.event-tag[data-tag="ART"]::before { content: "🎨"; }
+.event-tag[data-tag="COMEDY"]::before { content: "😂"; }
+.event-tag[data-tag="SHOPPING"]::before { content: "🛍️"; }
+.event-tag[data-tag="GAMES"]::before { content: "🎮"; }
+.event-tag[data-tag="QUIZ"]::before { content: "🧠"; }

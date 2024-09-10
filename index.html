@@ -29,44 +29,28 @@
     </head>
 <body>
     <div class="container">
-        <h1 class="rainbow-text">
-            <span>M</span><span>a</span><span>t</span><span>t</span><span>i</span><span>a</span><span>'</span><span>s</span>
-            <span>C</span><span>P</span><span>H</span>
-            <span>C</span><span>a</span><span>l</span><span>e</span><span>n</span><span>d</span><span>a</span><span>r</span>
-        </h1>
-
-        <div id="filterContainer" class="filter-container">
-            <div class="filter-header">
-                Filters <span class="arrow">▼</span>
-            </div>
-            <div class="filter-content">
-                <div id="facebookFilters" class="filter-column">
-                    <h3>Facebook</h3>
-                </div>
-                <div id="kkFilters" class="filter-column">
-                    <h3>Københavns Kommune</h3>
-                </div>
-                <div id="customFilters" class="filter-column">
-                    <h3>Custom Scrapers</h3>
-                </div>
-            </div>
+        <h1 id="mattias-cph-calendar" class="rainbow-text">Mattia's CPH Calendar</h1>
+    
+        <div id="tagFilters" class="tag-filters">
+            <!-- Tag buttons will be dynamically added here -->
         </div>
-
+    
         <div class="week-navigation">
-            <button id="prevWeek" class="week-button"><-</button>
+            <button id="prevWeek" class="week-button">&lt;-</button>
             <span id="weekDisplay" class="week-display"></span>
-            <button id="nextWeek" class="week-button">-></button>
+            <button id="nextWeek" class="week-button">-&gt;</button>
         </div>
-
+    
         <div id="eventList" class="event-list"></div>
     </div>
-
+    
     <div id="eventModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
             <img id="modalImage" class="modal-image" src="" alt="">
             <h2 id="modalTitle" class="modal-title"></h2>
             <p id="modalDate" class="modal-date"></p>
+            <p id="modalTag" class="modal-tag"></p>
             <p id="modalLocation" class="modal-location"></p>
             <div id="modalDescription" class="modal-description"></div>
             <a id="modalLink" class="modal-link" target="_blank">Original Page</a>
