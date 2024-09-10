@@ -615,26 +615,28 @@ document.addEventListener('DOMContentLoaded', function() {
 
   closeBtn.addEventListener('click', closeModal);
 
-modal.addEventListener('click', function(event) {
-  if (event.target === modal) {
-    event.stopPropagation();
-    closeModal();
-  }
-});
+  // Updated event listener for click/touch outside modal
+  modal.addEventListener('click', function(event) {
+    if (event.target === modal) {
+      event.preventDefault(); // Prevent default behavior
+      event.stopPropagation(); // Stop event from bubbling up
+      closeModal();
+    }
+  });
 
-// Add touch event for iOS devices
-modal.addEventListener('touchstart', function(event) {
-  if (event.target === modal) {
-    event.stopPropagation();
-    closeModal();
-  }
-});
+  // Specific touch event handler for iOS devices
+  modal.addEventListener('touchend', function(event) {
+    if (event.target === modal) {
+      event.preventDefault(); // Prevent default behavior
+      event.stopPropagation(); // Stop event from bubbling up
+      closeModal();
+    }
+  }, { passive: false }); // Setting passive to false allows preventDefault
 
-// Prevent scrolling on the modal content
-const modalContent = modal.querySelector('.modal-content');
-modalContent.addEventListener('touchmove', function(event) {
-  event.stopPropagation();
-}, { passive: false });
+  // Prevent scrolling on the modal content
+  modalContent.addEventListener('touchmove', function(event) {
+    event.stopPropagation();
+  }, { passive: false });
 });
 
 document.addEventListener('DOMContentLoaded', function() {
