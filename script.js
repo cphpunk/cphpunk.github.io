@@ -357,8 +357,8 @@ function displayEvents() {
 }
 
 function showEventDetails(event) {
-  const addToCalendarBtns = document.querySelectorAll('.add-to-calendar');
-  addToCalendarBtns.forEach(btn => btn.style.display = 'none');
+  // = document.querySelectorAll('.add-to-calendar');
+  //addToCalendarBtns.forEach(btn => btn.style.display = 'none');
 
   const modal = document.getElementById('eventModal');
   const modalImage = document.getElementById('modalImage');
@@ -463,8 +463,8 @@ function updateWeekNavigation() {
 }
 
 function closeModal() {
-  const addToCalendarBtns = document.querySelectorAll('.add-to-calendar');
-  addToCalendarBtns.forEach(btn => btn.style.display = 'block');
+  //const addToCalendarBtns = document.querySelectorAll('.add-to-calendar');
+  //addToCalendarBtns.forEach(btn => btn.style.display = 'block');
 
   const modal = document.getElementById('eventModal');
   modal.style.display = 'none';
