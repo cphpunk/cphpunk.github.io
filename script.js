@@ -398,6 +398,7 @@ END:VCALENDAR`;
 
   document.getElementById('closeModal').onclick = () => {
     document.body.removeChild(modal);
+    event.stopPropagation();
   };
 }
 
@@ -616,6 +617,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 modal.addEventListener('click', function(event) {
   if (event.target === modal) {
+    event.stopPropagation();
     closeModal();
   }
 });
@@ -623,6 +625,7 @@ modal.addEventListener('click', function(event) {
 // Add touch event for iOS devices
 modal.addEventListener('touchstart', function(event) {
   if (event.target === modal) {
+    event.stopPropagation();
     closeModal();
   }
 });
