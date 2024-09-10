@@ -431,45 +431,100 @@ function createFilterToggles() {
 
   tagFilters.innerHTML = '';
 
+  // Create filter container
+  const filterContainer = document.createElement('div');
+  filterContainer.className = 'filter-container';
+  tagFilters.appendChild(filterContainer);
+
+  // Add filter toggle button
+  const filterToggle = document.createElement('button');
+  filterToggle.className = 'filter-toggle';
+  filterToggle.innerHTML = '<span>WANT FILTERS, KIDDO?</span>';
+  filterToggle.addEventListener('click', toggleFilters);
+  filterContainer.appendChild(filterToggle);
+
+  // Create tag filters container
+  const tagFiltersContainer = document.createElement('div');
+  tagFiltersContainer.className = 'tag-filters';
+  tagFiltersContainer.style.display = 'none';
+  filterContainer.appendChild(tagFiltersContainer);
+
   const savedTags = getCookie('activeTags');
   if (savedTags) {
       activeTagFilters = new Set(JSON.parse(savedTags));
   }
-
-  else
-    activeTagFilters = new Set(EVENT_TAGS);
+  else {
+      activeTagFilters = new Set(EVENT_TAGS);
+  }
 
   EVENT_TAGS.forEach(tag => {
-      const button = document.createElement('button');
-      button.className = 'tag-button';
-      button.dataset.tag = tag;
-      button.classList.toggle('active', activeTagFilters.has(tag));
+    const button = document.createElement('button');
+    button.className = 'tag-button';
+    button.dataset.tag = tag;
+    button.classList.toggle('active', activeTagFilters.has(tag));
+    button.style.opacity = '0';
+    button.style.transform = 'scale(0)';
 
-      const emoji = document.createElement('span');
-      emoji.className = 'emoji';
-      emoji.textContent = TAG_EMOJIS[tag] || '';
+    const emoji = document.createElement('span');
+    emoji.className = 'emoji';
+    emoji.textContent = TAG_EMOJIS[tag] || '';
 
-      const text = document.createElement('span');
-      text.textContent = tag;
+    const text = document.createElement('span');
+    text.textContent = tag;
 
-      button.appendChild(emoji);
-      button.appendChild(text);
+    button.appendChild(emoji);
+    button.appendChild(text);
 
-      button.addEventListener('click', () => {
-          button.classList.toggle('active');
-          if (activeTagFilters.has(tag)) {
-              activeTagFilters.delete(tag);
-          } else {
-              activeTagFilters.add(tag);
-          }
-          button.classList.add('shake');
-          setTimeout(() => button.classList.remove('shake'), 820);
-          displayEvents();
-          saveTags();
-      });
+    button.addEventListener('click', () => {
+        button.classList.toggle('active');
+        if (activeTagFilters.has(tag)) {
+            activeTagFilters.delete(tag);
+        } else {
+            activeTagFilters.add(tag);
+        }
+        button.classList.add('shake');
+        setTimeout(() => button.classList.remove('shake'), 1);
+        displayEvents();
+        saveTags();
+    });
 
-      tagFilters.appendChild(button);
-  });
+    tagFiltersContainer.appendChild(button);
+});
+}
+
+function toggleFilters() {
+const filterContainer = document.querySelector('.filter-container');
+const filterToggle = filterContainer.querySelector('.filter-toggle');
+const tagFiltersContainer = filterContainer.querySelector('.tag-filters');
+
+// Immediately remove the toggle button
+filterToggle.remove();
+
+// Show the tag filters container
+tagFiltersContainer.style.display = 'flex';
+
+// Get the center position of the container
+const containerRect = tagFiltersContainer.getBoundingClientRect();
+const centerX = containerRect.width / 2;
+const centerY = containerRect.height / 2;
+
+// Animate the appearance of each filter button
+const buttons = tagFiltersContainer.querySelectorAll('.tag-button');
+buttons.forEach((button, index) => {
+    // Set initial position to the center of the container
+    button.style.position = 'absolute';
+    button.style.left = `${centerX}px`;
+    button.style.top = `${centerY}px`;
+    
+    setTimeout(() => {
+        button.style.opacity = '1';
+        button.style.transform = 'scale(1)';
+        button.style.position = 'relative';
+        button.style.left = 'auto';
+        button.style.top = 'auto';
+        button.classList.add('animate');
+    }, index * 50);
+});
 }
 
 function saveTags() {
