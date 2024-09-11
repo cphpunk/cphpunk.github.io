@@ -747,6 +747,10 @@ input:checked+.slider:before {
     background-color: #ffd54f;
 }
 
+.tag-button[data-tag="THEATRE"] {
+    background-color: #9c27b0; /* A deep purple color for theatre */
+}
+
 .tag-button[data-tag="CULTURE"] {
     background-color: #ba68c8;
 }
@@ -832,6 +836,10 @@ input:checked+.slider:before {
     background-color: #ffd54f;
 }
 
+.event-tag[data-tag="THEATRE"] {
+    background-color: #9c27b0;
+}
+
 .event-tag[data-tag="CULTURE"] {
     background-color: #ba68c8;
 }
@@ -893,6 +901,10 @@ input:checked+.slider:before {
 
 .event-tag[data-tag="COMMUNITY"]::before {
     content: "🤝";
+}
+
+.event-tag[data-tag="THEATRE"]::before {
+    content: "🎭";
 }
 
 .event-tag[data-tag="CULTURE"]::before {

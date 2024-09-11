@@ -222,13 +222,14 @@ const icsFiles =
   }
 }
 
-const EVENT_TAGS = ["MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "CULTURE", "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"];
+const EVENT_TAGS = ["MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "THEATRE", "CULTURE", "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"];
 
 const TAG_EMOJIS = {
   "MUSIC": "🎵",
   "MOVIE": "🎬",
   "ACTIVISM": "✊",
   "COMMUNITY": "🤝",
+  "THEATRE" : "🎭",
   "CULTURE": "🏛️",
   "LGBTQ+": "🏳️‍🌈",
   "YOGA": "🧘",

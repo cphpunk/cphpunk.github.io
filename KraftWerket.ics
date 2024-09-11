@@ -24,12 +24,12 @@ URL:https://kraftwerket.kk.dk/en/events/one-bowl
 X-COVER-IMAGE-URL:https://kraftwerket.kk.dk/sites/default/files/styles/eve
  nt_hero_desktop/public/2024-02/311840462_492933639513658_51871585128866909
  44_n.jpg?itok=13Dj0gHZ
-X-EVENT-TAGS:COMMUNITY
+X-EVENT-TAGS:QUIZ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[KraftWerket] Yet Another Magic Monday
-DTSTART:20240909T180000
-DTEND:20240909T220000
+DTSTART:20240916T180000
+DTEND:20240916T220000
 DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
  ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  Come
   play Magic the Gathering every Monday\, from 18.00 at KraftWerket.\n  <br
@@ -47,7 +47,7 @@ URL:https://kraftwerket.kk.dk/en/events/yet-another-magic-monday
 X-COVER-IMAGE-URL:https://kraftwerket.kk.dk/sites/default/files/styles/eve
  nt_hero_desktop/public/2023-05/330994910_1666936827073903_2184871606069227
  125_n_1.jpg?h=be63fede&itok=wORBfHOj
-X-EVENT-TAGS:GAMES
+X-EVENT-TAGS:COMMUNITY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[KraftWerket] Fresh Blood
@@ -142,6 +142,6 @@ URL:https://kraftwerket.kk.dk/en/events/house-meeting
 X-COVER-IMAGE-URL:https://kraftwerket.kk.dk/sites/default/files/styles/eve
  nt_hero_desktop/public/2024-04/%21H%C3%B8jreside%20flugter%20med%20forside
  %20hero%20%2811%29_0.png?itok=DF2ZiPjz
-X-EVENT-TAGS:COMMUNITY
+X-EVENT-TAGS:ART
 END:VEVENT
 END:VCALENDAR

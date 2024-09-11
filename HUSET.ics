@@ -70,45 +70,6 @@ X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
 X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[HUSET] Anna Maehl + Ninna Lundberg
-DTSTART:20240914T200000
-DTEND:20240914T230000
-DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
- ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  <str
- ong>\n   Anna Maehl:\n  </strong>\n </p>\n <p>\n  With her playful product
- ions and intimate vocals\, Danish producer and singer Anna Maehl creates a
- n art pop universe of her own. In 2023 Anna Maehl was selected for the Bel
- gian radio contest De Nieuwe Lichting (earlier finalists count Tamino and 
- The Haunted Youth) with her first single Youth Song. Same year Youth Song 
- was featured in the Belgian youth series Knokke Off (VRT\, Netflix Global)
-  and she played her concert debut at the Danish showcase UHOERT. In June 2
- 024\, she released her second single Carolyn\, released on French label La
-  Taniere.\n </p>\n <p>\n </p>\n <p>\n  <strong>\n   Ninna Lundberg:\n  </s
- trong>\n </p>\n <p>\n  "When Lundberg's crystal-clear and soulful vocals\,
-  along with the band's phenomenal harmonies\, are introduced\, every hair 
- on my arms stands on end... I am completely absorbed by the music. It's am
- bient yet folk-like. It sounds simultaneously bleak and like a beautiful s
- pring morning. It's poetic and truly touching. So touching\, in fact\, tha
- t I shed a little tear."\n </p>\n <p>\n  From GAFFA review of Ninna Lundbe
- rg and band at Northern Winter Beat 2023.\n </p>\n <p>\n  <br/>\n  <br/>\n
-   After great success with the band Ganger\, Ninna Lundberg released her d
- ebut album "Two Two of You" in 2022. The album is a collection of experime
- ntal songs and personal narratives carried by her sensitive and raw vocals
- \, set against a backdrop of dusty piano melodies and dynamic brass and st
- ring arrangements.\n </p>\n <p>\n  In live performances\, Ninna collaborat
- es with saxophonist Viktor Kongsbak\, double bassist Thorbjørn Kaas\, and
-  musician/singer Mille Mejer Djernæs Christensen. Together\, they perform
-  songs from Ninna's debut album alongside new material enveloped in beauti
- ful\, organic arrangements that effortlessly traverse between the grandios
- e and atmospheric and the very close and intimate.\n </p>\n</div>\n
-LOCATION:Huset\, Musikcafeen\, Rådhusstræde 13\, 1466 København
-ORGANIZER:Huset, Musikcafeen
-URL:https://huset.kk.dk/en/events/anna-maehl-ninna-lundberg
-X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
- o_desktop/public/319_667c1638513b4-large.png?itok=26lT9rBm
-X-EVENT-TAGS:MUSIC
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[HUSET] FLORS: KLANG FOR KLIMA
 DTSTART:20240921T130000
 DTEND:20240921T170000
@@ -333,7 +294,7 @@ ORGANIZER:Huset, Musikcafeen
 URL:https://huset.kk.dk/en/events/paere-banal-ondskyld
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_66b35a155b42b-large.png?itok=NyWWV8Rl
-X-EVENT-TAGS:COMEDY
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[HUSET] HUSET x Loppen: Gurriers (IE)
@@ -361,7 +322,7 @@ ORGANIZER:Huset, Musikcafeen
 URL:https://huset.kk.dk/en/events/huset-x-loppen-gurriers-ie
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_663b3c0f65d04-large.png?itok=OCc0NUsA
-X-EVENT-TAGS:LGBTQ+
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[HUSET] Charlotte-Amalie
@@ -395,6 +356,45 @@ ORGANIZER:Huset, Musikcafeen
 URL:https://huset.kk.dk/en/events/charlotte-amalie
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_66680ecdcd3a7-large.png?itok=oiuCL0Gg
+X-EVENT-TAGS:MUSIC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[HUSET] Anna Maehl + Ninna Lundberg
+DTSTART:20241113T200000
+DTEND:20241113T230000
+DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
+ ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  <str
+ ong>\n   Anna Maehl:\n  </strong>\n </p>\n <p>\n  With her playful product
+ ions and intimate vocals\, Danish producer and singer Anna Maehl creates a
+ n art pop universe of her own. In 2023 Anna Maehl was selected for the Bel
+ gian radio contest De Nieuwe Lichting (earlier finalists count Tamino and 
+ The Haunted Youth) with her first single Youth Song. Same year Youth Song 
+ was featured in the Belgian youth series Knokke Off (VRT\, Netflix Global)
+  and she played her concert debut at the Danish showcase UHOERT. In June 2
+ 024\, she released her second single Carolyn\, released on French label La
+  Taniere.\n </p>\n <p>\n </p>\n <p>\n  <strong>\n   Ninna Lundberg:\n  </s
+ trong>\n </p>\n <p>\n  "When Lundberg's crystal-clear and soulful vocals\,
+  along with the band's phenomenal harmonies\, are introduced\, every hair 
+ on my arms stands on end... I am completely absorbed by the music. It's am
+ bient yet folk-like. It sounds simultaneously bleak and like a beautiful s
+ pring morning. It's poetic and truly touching. So touching\, in fact\, tha
+ t I shed a little tear."\n </p>\n <p>\n  From GAFFA review of Ninna Lundbe
+ rg and band at Northern Winter Beat 2023.\n </p>\n <p>\n  <br/>\n  <br/>\n
+   After great success with the band Ganger\, Ninna Lundberg released her d
+ ebut album "Two Two of You" in 2022. The album is a collection of experime
+ ntal songs and personal narratives carried by her sensitive and raw vocals
+ \, set against a backdrop of dusty piano melodies and dynamic brass and st
+ ring arrangements.\n </p>\n <p>\n  In live performances\, Ninna collaborat
+ es with saxophonist Viktor Kongsbak\, double bassist Thorbjørn Kaas\, and
+  musician/singer Mille Mejer Djernæs Christensen. Together\, they perform
+  songs from Ninna's debut album alongside new material enveloped in beauti
+ ful\, organic arrangements that effortlessly traverse between the grandios
+ e and atmospheric and the very close and intimate.\n </p>\n</div>\n
+LOCATION:Huset\, Musikcafeen\, Rådhusstræde 13\, 1466 København
+ORGANIZER:Huset, Musikcafeen
+URL:https://huset.kk.dk/en/events/anna-maehl-ninna-lundberg
+X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
+ o_desktop/public/319_667c1638513b4-large_0.png?itok=zPJYd0-o
 X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
@@ -581,6 +581,6 @@ ORGANIZER:Huset, Xenon
 URL:https://huset.kk.dk/en/events/cumgirl8-us
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_66965a23bde74-large_0.png?itok=nQ4_Cts0
-X-EVENT-TAGS:LGBTQ+
+X-EVENT-TAGS:COMMUNITY
 END:VEVENT
 END:VCALENDAR
