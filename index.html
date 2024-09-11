@@ -1,32 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0", maximum-scale=1.0, user-scalable=no">
-        <title>Mattia's CPH Calendar</title>
-        <link rel="stylesheet" href="styles.css">
 
-        <!-- Favicon -->
-        <link rel="icon" type="image/x-icon" href="/favicon.ico">
-        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-        
-        <!-- Open Graph meta tags -->
-        <meta property="og:title" content="Mattia's CPH Calendar">
-        <meta property="og:description" content="Automatic Scraper of the Copenhagen Venues with Music Events I like the most">
-        <meta property="og:image" content="https://your-website-url.com/preview-image.jpg">
-        <meta property="og:url" content="https://your-website-url.com">
-        <meta property="og:type" content="website">
-        
-        <!-- Twitter Card meta tags (optional, but recommended) -->
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="MATTIA's CPH CALENDAR FOR COOL KIDS">
-        <meta name="twitter:description" content="Automatic Scraper of the Copenhagen Venues with Music Events I like the most">
-        <meta name="twitter:image" content="https://your-website-url.com/preview-image.jpg">
-        
-        <link rel="stylesheet" href="styles.css">
-        <script src="moment.min.js"></script>
-        <script src="ical.min.js"></script>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" , maximum-scale=1.0, user-scalable=no">
+    <title>Mattia's CPH Calendar</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="Mattia's CPH Calendar">
+    <meta property="og:description"
+        content="Automatic Scraper of the Copenhagen Venues with Music Events I like the most">
+    <meta property="og:image" content="https://your-website-url.com/preview-image.jpg">
+    <meta property="og:url" content="https://your-website-url.com">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card meta tags (optional, but recommended) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="MATTIA's CPH CALENDAR FOR COOL KIDS">
+    <meta name="twitter:description"
+        content="Automatic Scraper of the Copenhagen Venues with Music Events I like the most">
+    <meta name="twitter:image" content="https://your-website-url.com/preview-image.jpg">
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="moment.min.js"></script>
+    <script src="ical.min.js"></script>
+</head>
+
 <body>
     <header class="site-header">
         <div class="header-content">
@@ -41,7 +45,7 @@
         <div id="weekNavigation" class="week-navigation" style="display: none;"></div>
         <div id="eventList" class="event-list"></div>
     </div>
-    
+
     <div id="eventModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
@@ -57,22 +61,24 @@
     </div>
 
     <div id="infoModal" class="modal">
-    <div class="modal-content">
-        <span class="close">&times;</span>
-        <h2>👋 WELCOME 👋</h2>
-        <p>This website aggregates events from various venues across the city, helping you discover exciting happenings all in one place.</p>
-        <li>⏱️ Scraping is triggered manually, so it updates once every few days!</li>
-        <li>🤖 Categorization is done via Embeddings (AI) so expect some weird results here and there.</li>
-        <p>Love ya all!</p>
-        <br>
-        <div id="venueList"></div>
-        <div id="venueControls">
-            <button id="enableAllVenues">Enable All</button>
-            <button id="disableAllVenues">Disable All</button>
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>👋 WELCOME 👋</h2>
+            <p>This website aggregates events from various venues across the city, helping you discover exciting
+                happenings all in one place.</p>
+            <li>⏱️ Scraping is triggered manually, so it updates once every few days!</li>
+            <li>🤖 Categorization is done via Embeddings (AI) so expect some weird results here and there.</li>
+            <p>Love ya all!</p>
+            <br>
+            <div id="venueList"></div>
+            <div id="venueControls">
+                <button id="enableAllVenues">Enable All</button>
+                <button id="disableAllVenues">Disable All</button>
+            </div>
         </div>
-    </div>
     </div>
 
     <script src="script.js"></script>
 </body>
+
 </html>

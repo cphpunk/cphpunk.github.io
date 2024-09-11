@@ -7,13 +7,18 @@
     border-radius: 50%;
     animation: spin 1s linear infinite;
     margin: 20px auto;
-  }
-  
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-  
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
 .site-header {
     background-color: white;
     padding: 10px 0;
@@ -36,7 +41,6 @@
     padding: 10px 0;
     text-align: center;
     max-width: calc(100% - 60px);
-    /* Adjust based on info-button width + desired spacing */
 }
 
 .info-button {
@@ -302,28 +306,32 @@ input:checked+.slider:before {
     display: flex;
     justify-content: left;
     margin-bottom: 20px;
-  }
-  
-  #venueControls button {
-    margin-right:10px;
+}
+
+#venueControls button {
+    margin-right: 10px;
     padding: 10px 20px;
-  }
-  
-  #enableAllVenues {
-    background-color: #f7f7f7; /* light gray */
-  }
-  
-  #disableAllVenues {
-    background-color: #f7f7f7; /* light gray */
-  }
-  
-  #enableAllVenues:hover {
-    background-color: #34c759; /* bright green */
-  }
-  
-  #disableAllVenues:hover {
-    background-color: #e74c3c; /* deep red */
-  }
+}
+
+#enableAllVenues {
+    background-color: #f7f7f7;
+    /* light gray */
+}
+
+#disableAllVenues {
+    background-color: #f7f7f7;
+    /* light gray */
+}
+
+#enableAllVenues:hover {
+    background-color: #34c759;
+    /* bright green */
+}
+
+#disableAllVenues:hover {
+    background-color: #e74c3c;
+    /* deep red */
+}
 
 
 .week-navigation {
@@ -786,9 +794,6 @@ input:checked+.slider:before {
         font-size: 18px;
     }
 }
-
-
-
 
 /* Color scheme for event tags - matching the filter buttons */
 .event-tag[data-tag="MUSIC"] {

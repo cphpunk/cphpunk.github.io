@@ -285,9 +285,9 @@ async function loadAllEvents() {
   });
   const events = await Promise.all(promises);
   allEvents = events.flat();
-  
+
   //await delay(4000); //spinning wheel debug!
-  
+
   hideLoadingSpinner();
   showInfoButton();
   createWeekNavigation();
@@ -685,7 +685,7 @@ function registerEvents() {
   eventCloseBtn.addEventListener('click', closeModal);
 
   // Updated event listener for click/touch outside modal
-  eventModal.addEventListener('click', function(event) {
+  eventModal.addEventListener('click', function (event) {
     if (event.target === eventModal) {
       event.preventDefault();
       event.stopPropagation();
@@ -694,7 +694,7 @@ function registerEvents() {
   });
 
   // Specific touch event handler for iOS devices
-  eventModal.addEventListener('touchend', function(event) {
+  eventModal.addEventListener('touchend', function (event) {
     if (event.target === eventModal) {
       event.preventDefault();
       event.stopPropagation();
@@ -704,7 +704,7 @@ function registerEvents() {
 
   // Prevent scrolling on the modal content
   if (modalContent) {
-    modalContent.addEventListener('touchmove', function(event) {
+    modalContent.addEventListener('touchmove', function (event) {
       event.stopPropagation();
     }, { passive: false });
   }
