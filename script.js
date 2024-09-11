@@ -1,4 +1,4 @@
-const icsFiles = 
+const icsFiles =
 {
   "KraftWerket.ics": {
     "url": "https://kraftwerket.kk.dk/en/events",
@@ -225,19 +225,19 @@ const icsFiles =
 const EVENT_TAGS = ["MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "CULTURE", "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"];
 
 const TAG_EMOJIS = {
-    "MUSIC": "🎵",
-    "MOVIE": "🎬",
-    "ACTIVISM": "✊",
-    "COMMUNITY": "🤝",
-    "CULTURE": "🏛️",
-    "LGBTQ+": "🏳️‍🌈",
-    "YOGA": "🧘",
-    "SPORTS": "⚽",
-    "ART": "🎨",
-    "COMEDY": "😂",
-    "SHOPPING": "🛍️",
-    "GAMES": "🎮",
-    "QUIZ": "🧠"
+  "MUSIC": "🎵",
+  "MOVIE": "🎬",
+  "ACTIVISM": "✊",
+  "COMMUNITY": "🤝",
+  "CULTURE": "🏛️",
+  "LGBTQ+": "🏳️‍🌈",
+  "YOGA": "🧘",
+  "SPORTS": "⚽",
+  "ART": "🎨",
+  "COMEDY": "😂",
+  "SHOPPING": "🛍️",
+  "GAMES": "🎮",
+  "QUIZ": "🧠"
 };
 
 let allEvents = [];
@@ -273,13 +273,61 @@ function parseICSData(icsData, source) {
   });
 }
 
+//Use to debug things
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function loadAllEvents() {
+  showLoadingSpinner();
   const promises = Object.entries(icsFiles).map(([file, info]) => {
     return fetchICSFile(file).then(icsData => parseICSData(icsData, file));
   });
   const events = await Promise.all(promises);
   allEvents = events.flat();
+  
+  //await delay(4000); //spinning wheel debug!
+  
+  hideLoadingSpinner();
+  showInfoButton();
+  createWeekNavigation();
   displayEvents();
+}
+
+function showInfoButton() {
+  const infoButton = document.getElementById('infoButton');
+  infoButton.style.display = 'block';
+}
+
+function showLoadingSpinner() {
+  const spinner = document.getElementById('loadingSpinner');
+  spinner.style.display = 'block';
+}
+
+function hideLoadingSpinner() {
+  const spinner = document.getElementById('loadingSpinner');
+  spinner.style.display = 'none';
+}
+
+function createWeekNavigation() {
+  const weekNavigation = document.getElementById('weekNavigation');
+  weekNavigation.innerHTML = `
+    <button id="prevWeek" class="week-button">←</button>
+    <span id="weekDisplay" class="week-display"></span>
+    <button id="nextWeek" class="week-button">→</button>
+  `;
+
+  document.getElementById('prevWeek').addEventListener('click', () => {
+    currentWeekStart.subtract(1, 'week');
+    displayEvents();
+  });
+
+  document.getElementById('nextWeek').addEventListener('click', () => {
+    currentWeekStart.add(1, 'week');
+    displayEvents();
+  });
+
+  weekNavigation.style.display = 'flex';
 }
 
 function displayEvents() {
@@ -341,7 +389,7 @@ function displayEvents() {
       </div>
   `;
       eventContainer.appendChild(eventBox);
-    
+
       eventBox.addEventListener('click', (e) => {
         if (!e.target.closest('.event-link')) {
           showEventDetails(event);
@@ -426,8 +474,8 @@ function createFilterToggles() {
   const tagFilters = document.getElementById('tagFilters');
 
   if (!tagFilters) {
-      console.error('Tag filters container not found!');
-      return;
+    console.error('Tag filters container not found!');
+    return;
   }
 
   tagFilters.innerHTML = '';
@@ -449,13 +497,13 @@ function createFilterToggles() {
   tagFiltersContainer.className = 'tag-filters';
   tagFiltersContainer.style.display = 'none';
   filterContainer.appendChild(tagFiltersContainer);
-  
+
   //const savedTags = getCookie('activeTags');
   //if (savedTags) {
-    //  activeTagFilters = new Set(JSON.parse(savedTags));
+  //  activeTagFilters = new Set(JSON.parse(savedTags));
   //}
   //else {
-      activeTagFilters = new Set(EVENT_TAGS);
+  activeTagFilters = new Set(EVENT_TAGS);
   //}
 
   EVENT_TAGS.forEach(tag => {
@@ -477,55 +525,55 @@ function createFilterToggles() {
     button.appendChild(text);
 
     button.addEventListener('click', () => {
-        button.classList.toggle('active');
-        if (activeTagFilters.has(tag)) {
-            activeTagFilters.delete(tag);
-        } else {
-            activeTagFilters.add(tag);
-        }
-        button.classList.add('shake');
-        setTimeout(() => button.classList.remove('shake'), 1);
-        displayEvents();
-        saveTags();
+      button.classList.toggle('active');
+      if (activeTagFilters.has(tag)) {
+        activeTagFilters.delete(tag);
+      } else {
+        activeTagFilters.add(tag);
+      }
+      button.classList.add('shake');
+      setTimeout(() => button.classList.remove('shake'), 1);
+      displayEvents();
+      saveTags();
     });
 
     tagFiltersContainer.appendChild(button);
-});
+  });
 }
 
 function toggleFilters() {
-const filterContainer = document.querySelector('.filter-container');
-const filterToggle = filterContainer.querySelector('.filter-toggle');
-const tagFiltersContainer = filterContainer.querySelector('.tag-filters');
+  const filterContainer = document.querySelector('.filter-container');
+  const filterToggle = filterContainer.querySelector('.filter-toggle');
+  const tagFiltersContainer = filterContainer.querySelector('.tag-filters');
 
-// Immediately remove the toggle button
-filterToggle.remove();
+  // Immediately remove the toggle button
+  filterToggle.remove();
 
-// Show the tag filters container
-tagFiltersContainer.style.display = 'flex';
+  // Show the tag filters container
+  tagFiltersContainer.style.display = 'flex';
 
-// Get the center position of the container
-const containerRect = tagFiltersContainer.getBoundingClientRect();
-const centerX = containerRect.width / 2;
-const centerY = containerRect.height / 2;
+  // Get the center position of the container
+  const containerRect = tagFiltersContainer.getBoundingClientRect();
+  const centerX = containerRect.width / 2;
+  const centerY = containerRect.height / 2;
 
-// Animate the appearance of each filter button
-const buttons = tagFiltersContainer.querySelectorAll('.tag-button');
-buttons.forEach((button, index) => {
+  // Animate the appearance of each filter button
+  const buttons = tagFiltersContainer.querySelectorAll('.tag-button');
+  buttons.forEach((button, index) => {
     // Set initial position to the center of the container
     button.style.position = 'absolute';
     button.style.left = `${centerX}px`;
     button.style.top = `${centerY}px`;
-    
+
     setTimeout(() => {
-        button.style.opacity = '1';
-        button.style.transform = 'scale(1)';
-        button.style.position = 'relative';
-        button.style.left = 'auto';
-        button.style.top = 'auto';
-        button.classList.add('animate');
+      button.style.opacity = '1';
+      button.style.transform = 'scale(1)';
+      button.style.position = 'relative';
+      button.style.left = 'auto';
+      button.style.top = 'auto';
+      button.classList.add('animate');
     }, index * 50);
-});
+  });
 }
 
 function saveTags() {
@@ -535,32 +583,23 @@ function saveTags() {
 function setCookie(name, value, days) {
   let expires = "";
   if (days) {
-      const date = new Date();
-      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-      expires = "; expires=" + date.toUTCString();
+    const date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    expires = "; expires=" + date.toUTCString();
   }
-  document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+  document.cookie = name + "=" + (value || "") + expires + "; path=/";
 }
 
 function getCookie(name) {
   const nameEQ = name + "=";
   const ca = document.cookie.split(';');
-  for(let i = 0; i < ca.length; i++) {
-      let c = ca[i];
-      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  for (let i = 0; i < ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
   }
   return null;
 }
-document.getElementById('prevWeek').addEventListener('click', () => {
-  currentWeekStart.subtract(1, 'week');
-  displayEvents();
-});
-
-document.getElementById('nextWeek').addEventListener('click', () => {
-  currentWeekStart.add(1, 'week');
-  displayEvents();
-});
 
 function showEventDetails(event) {
   const modal = document.getElementById('eventModal');
@@ -580,15 +619,15 @@ function showEventDetails(event) {
   modalTag.textContent = event.tag;
 
   if (event.location) {
-    modalLocation.innerHTML = '<a href="http://maps.google.com/?q=' + event.location + '" target="_blank">' +  "📍" + event.location + "</a>";
+    modalLocation.innerHTML = '<a href="http://maps.google.com/?q=' + event.location + '" target="_blank">' + "📍" + event.location + "</a>";
   } else {
     modalLocation.textContent = 'Location not specified';
   }
-  
+
   let description = event.description.replace(/(https?:\/\/[^\s]+)/g, (match) => {
     return `<a href="${match}" target="_blank">${match}</a>`;
   });
- 
+
   modalDescription.innerHTML = description;
   modalLink.href = event.url;
   addToCalendarBtn.onclick = () => addToCalendar(event);
@@ -605,41 +644,157 @@ function closeModal() {
   document.body.style.width = '';
 }
 
-document.addEventListener('DOMContentLoaded', function() {
-  createFilterToggles();
-  loadAllEvents();
+function registerEvents() {
+  // Add event listeners for Enable All and Disable All buttons
+  document.getElementById('enableAllVenues').addEventListener('click', () => {
+    document.querySelectorAll('#venueList input[type="checkbox"]').forEach(checkbox => {
+      checkbox.checked = true;
+      activeFilters.add(checkbox.name);
+    });
+    displayEvents();
+  });
 
-  // Add event listeners for closing the modal
-  const modal = document.getElementById('eventModal');
-  const closeBtn = modal.querySelector('.close');
+  document.getElementById('disableAllVenues').addEventListener('click', () => {
+    document.querySelectorAll('#venueList input[type="checkbox"]').forEach(checkbox => {
+      checkbox.checked = false;
+      activeFilters.delete(checkbox.name);
+    });
+    displayEvents();
+  });
 
-  closeBtn.addEventListener('click', closeModal);
+  // Info Modal functionality
+  const infoButton = document.getElementById('infoButton');
+  const infoModal = document.getElementById('infoModal');
+  const infoCloseButton = infoModal.querySelector('.close');
+
+  infoButton.addEventListener('click', () => {
+    infoModal.style.display = 'block';
+    document.body.style.overflow = 'hidden';
+  });
+
+  infoCloseButton.addEventListener('click', () => {
+    infoModal.style.display = 'none';
+    document.body.style.overflow = '';
+  });
+
+  // Event Modal functionality
+  const eventModal = document.getElementById('eventModal');
+  const eventCloseBtn = eventModal.querySelector('.close');
+  const modalContent = eventModal.querySelector('.modal-content');
+
+  eventCloseBtn.addEventListener('click', closeModal);
 
   // Updated event listener for click/touch outside modal
-  modal.addEventListener('click', function(event) {
-    if (event.target === modal) {
-      event.preventDefault(); // Prevent default behavior
-      event.stopPropagation(); // Stop event from bubbling up
+  eventModal.addEventListener('click', function(event) {
+    if (event.target === eventModal) {
+      event.preventDefault();
+      event.stopPropagation();
       closeModal();
     }
   });
 
   // Specific touch event handler for iOS devices
-  modal.addEventListener('touchend', function(event) {
-    if (event.target === modal) {
-      event.preventDefault(); // Prevent default behavior
-      event.stopPropagation(); // Stop event from bubbling up
+  eventModal.addEventListener('touchend', function(event) {
+    if (event.target === eventModal) {
+      event.preventDefault();
+      event.stopPropagation();
       closeModal();
     }
-  }, { passive: false }); // Setting passive to false allows preventDefault
+  }, { passive: false });
 
   // Prevent scrolling on the modal content
-  modalContent.addEventListener('touchmove', function(event) {
-    event.stopPropagation();
-  }, { passive: false });
-});
+  if (modalContent) {
+    modalContent.addEventListener('touchmove', function(event) {
+      event.stopPropagation();
+    }, { passive: false });
+  }
 
-document.addEventListener('DOMContentLoaded', function() {
+  // Close info modal when clicking outside
+  window.addEventListener('click', (event) => {
+    if (event.target === infoModal) {
+      infoModal.style.display = 'none';
+      document.body.style.overflow = '';
+    }
+  });
+
+  // Week navigation
+  document.getElementById('prevWeek').addEventListener('click', () => {
+    currentWeekStart.subtract(1, 'week');
+    displayEvents();
+  });
+
+  document.getElementById('nextWeek').addEventListener('click', () => {
+    currentWeekStart.add(1, 'week');
+    displayEvents();
+  });
+}
+
+// Populate venue list
+function populateVenueList() {
+  venueList.innerHTML = '';
+
+  const venueTypes = {
+    'Facebook': [],
+    'København Kommune': [],
+    'Custom Scraper': []
+  };
+
+  // Group venues by type
+  Object.entries(icsFiles).forEach(([venue, info]) => {
+    const venueName = venue.replace('.ics', '');
+    const venueInfo = { name: venueName, url: info.url };
+
+    if (info.type === 'Facebook') {
+      venueTypes['Facebook'].push(venueInfo);
+    } else if (info.type === 'KK') {
+      venueTypes['København Kommune'].push(venueInfo);
+    } else {
+      venueTypes['Custom Scraper'].push(venueInfo);
+    }
+  });
+
+  // Sort venues within each type and create DOM elements
+  Object.entries(venueTypes).forEach(([type, venues]) => {
+    if (venues.length > 0) {
+      const typeSection = document.createElement('div');
+      typeSection.className = 'venue-type-section';
+      typeSection.innerHTML = `<h4>${type} Venues</h4>`;
+
+      // Sort venues alphabetically
+      venues.sort((a, b) => a.name.localeCompare(b.name));
+
+      venues.forEach(venue => {
+        const venueItem = document.createElement('div');
+        venueItem.className = 'venue-item';
+        venueItem.innerHTML = `
+          <a href="${venue.url}" target="_blank">${venue.name}</a>
+          <label class="venue-toggle">
+            <input type="checkbox" name="${venue.name}.ics" ${activeFilters.has(venue.name + '.ics') ? 'checked' : ''}>
+            <span class="slider"></span>
+          </label>
+        `;
+
+        const checkbox = venueItem.querySelector('input');
+        checkbox.addEventListener('change', (e) => {
+          if (e.target.checked) {
+            activeFilters.add(e.target.name);
+          } else {
+            activeFilters.delete(e.target.name);
+          }
+          displayEvents();
+        });
+
+        typeSection.appendChild(venueItem);
+      });
+
+      venueList.appendChild(typeSection);
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', async function () {
+  await loadAllEvents();
   createFilterToggles();
-  loadAllEvents();
+  populateVenueList();
+  registerEvents();
 });

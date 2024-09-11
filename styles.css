@@ -1,28 +1,94 @@
-header {
+.loading-spinner {
+    display: none;
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+.site-header {
     background-color: white;
     padding: 10px 0;
-    text-align: center;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    position: relative;
 }
 
 .rainbow-text {
     font-size: 2em;
     margin: 0;
-    padding: 10px;
-    position: relative;
-    display: inline-block;
-    font-weight: bold;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    padding: 10px 0;
+    text-align: center;
+    max-width: calc(100% - 60px);
+    /* Adjust based on info-button width + desired spacing */
 }
 
-/* Update the existing .container style */
+.info-button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid #333;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .rainbow-text {
+        font-size: 1.5em;
+    }
+
+    .info-button {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+    }
+}
+
+/* Media query for very small screens */
+@media (max-width: 480px) {
+    .rainbow-text {
+        font-size: 1.2em;
+    }
+
+    .info-button {
+        width: 25px;
+        height: 25px;
+        font-size: 14px;
+    }
+}
+
 .container {
     max-width: 1200px;
     margin: 20px auto;
     padding: 0 20px;
 }
 
-/* The rest of your CSS remains the same */
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f0f0f0;
@@ -34,6 +100,93 @@ body {
 h1 {
     text-align: center;
     color: #1a1a1a;
+}
+
+
+
+#infoModal {
+    display: none;
+}
+
+#infoModal .modal-content {
+    max-width: 800px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.venue-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+.venue-item a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.venue-item a:hover {
+    text-decoration: underline;
+}
+
+.venue-toggle {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.venue-toggle input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.venue-type-section {
+    margin-bottom: 20px;
+}
+
+.venue-type-section h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 34px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked+.slider {
+    background-color: #2196F3;
+}
+
+input:checked+.slider:before {
+    transform: translateX(26px);
 }
 
 .filter-container {
@@ -101,7 +254,8 @@ h1 {
     justify-content: center;
     width: 100%;
     padding: 20px 0;
-    position: relative; /* Added for absolute positioning of buttons */
+    position: relative;
+    /* Added for absolute positioning of buttons */
 }
 
 .tag-button {
@@ -109,7 +263,7 @@ h1 {
     transform: scale(0) translate(-50%, -50%);
     opacity: 0;
     transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-                opacity 0.5s ease;
+        opacity 0.5s ease;
 }
 
 .tag-button.visible {
@@ -119,16 +273,58 @@ h1 {
 }
 
 @keyframes popAndShake {
-    0% { transform: scale(0) translate(-50%, -50%) rotate(0deg); }
-    50% { transform: scale(1.2) translate(-25%, -25%) rotate(5deg); }
-    75% { transform: scale(0.9) translate(-10%, -10%) rotate(-3deg); }
-    90% { transform: scale(1.05) translate(-5%, -5%) rotate(1deg); }
-    100% { transform: scale(1) translate(0, 0) rotate(0deg); }
+    0% {
+        transform: scale(0) translate(-50%, -50%) rotate(0deg);
+    }
+
+    50% {
+        transform: scale(1.2) translate(-25%, -25%) rotate(5deg);
+    }
+
+    75% {
+        transform: scale(0.9) translate(-10%, -10%) rotate(-3deg);
+    }
+
+    90% {
+        transform: scale(1.05) translate(-5%, -5%) rotate(1deg);
+    }
+
+    100% {
+        transform: scale(1) translate(0, 0) rotate(0deg);
+    }
 }
 
 .tag-button.animate {
     animation: popAndShake 0.6s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
+
+#venueControls {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 20px;
+  }
+  
+  #venueControls button {
+    margin-right:10px;
+    padding: 10px 20px;
+  }
+  
+  #enableAllVenues {
+    background-color: #f7f7f7; /* light gray */
+  }
+  
+  #disableAllVenues {
+    background-color: #f7f7f7; /* light gray */
+  }
+  
+  #enableAllVenues:hover {
+    background-color: #34c759; /* bright green */
+  }
+  
+  #disableAllVenues:hover {
+    background-color: #e74c3c; /* deep red */
+  }
+
 
 .week-navigation {
     display: flex;
@@ -137,7 +333,7 @@ h1 {
     background-color: #fff;
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .week-button {
@@ -226,16 +422,16 @@ h1 {
     align-items: center;
     margin-bottom: 10px;
     text-align: center;
-  }
-  
-  .event-date,
-  .event-location {
+}
+
+.event-date,
+.event-location {
     font-size: 0.75em;
     color: #666;
-  }
+}
 
-  
-  .event-box {
+
+.event-box {
     position: relative;
     background-color: #fff;
     border-radius: 10px;
@@ -272,7 +468,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+}
 
 .event-details {
     padding: 20px 15px 15px;
@@ -332,7 +528,7 @@ h1 {
         margin-right: 0;
     }
 }
- 
+
 
 .modal {
     display: none;
@@ -431,7 +627,7 @@ h1 {
     cursor: pointer;
     transition: background-color 0.3s ease;
     color: white;
-    display:none;
+    display: none;
 }
 
 .add-to-calendar:hover {
@@ -457,7 +653,7 @@ h1 {
     font-weight: bold;
     cursor: pointer;
     transition: all 0.3s ease;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     outline: none;
     display: flex;
     align-items: center;
@@ -466,7 +662,7 @@ h1 {
 
 .tag-button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .tag-button:active {
@@ -475,34 +671,89 @@ h1 {
 
 .tag-button.active {
     color: white;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .tag-button.shake {
-    animation: shake 0.2s cubic-bezier(.36,.07,.19,.97) both;
+    animation: shake 0.2s cubic-bezier(.36, .07, .19, .97) both;
 }
 
 @keyframes shake {
-    10%, 90% { transform: translate3d(-1px, 0, 0); }
-    20%, 80% { transform: translate3d(2px, 0, 0); }
-    30%, 50%, 70% { transform: translate3d(-4px, 0, 0); }
-    40%, 60% { transform: translate3d(4px, 0, 0); }
+
+    10%,
+    90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+
+    20%,
+    80% {
+        transform: translate3d(2px, 0, 0);
+    }
+
+    30%,
+    50%,
+    70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+
+    40%,
+    60% {
+        transform: translate3d(4px, 0, 0);
+    }
 }
 
 /* Color scheme for buttons */
-.tag-button[data-tag="MUSIC"] { background-color: #e57373; }
-.tag-button[data-tag="MOVIE"] { background-color: #81c784; }
-.tag-button[data-tag="ACTIVISM"] { background-color: #64b5f6; }
-.tag-button[data-tag="COMMUNITY"] { background-color: #ffd54f; }
-.tag-button[data-tag="CULTURE"] { background-color: #ba68c8; }
-.tag-button[data-tag="LGBTQ+"] { background-color: #4db6ac; }
-.tag-button[data-tag="YOGA"] { background-color: #fff176; }
-.tag-button[data-tag="SPORTS"] { background-color: #ff8a65; }
-.tag-button[data-tag="ART"] { background-color: #9575cd; }
-.tag-button[data-tag="COMEDY"] { background-color: #4dd0e1; }
-.tag-button[data-tag="SHOPPING"] { background-color: #f06292; }
-.tag-button[data-tag="GAMES"] { background-color: #7986cb; }
-.tag-button[data-tag="QUIZ"] { background-color: #4fc3f7; }
+.tag-button[data-tag="MUSIC"] {
+    background-color: #e57373;
+}
+
+.tag-button[data-tag="MOVIE"] {
+    background-color: #81c784;
+}
+
+.tag-button[data-tag="ACTIVISM"] {
+    background-color: #64b5f6;
+}
+
+.tag-button[data-tag="COMMUNITY"] {
+    background-color: #ffd54f;
+}
+
+.tag-button[data-tag="CULTURE"] {
+    background-color: #ba68c8;
+}
+
+.tag-button[data-tag="LGBTQ+"] {
+    background-color: #4db6ac;
+}
+
+.tag-button[data-tag="YOGA"] {
+    background-color: #fff176;
+}
+
+.tag-button[data-tag="SPORTS"] {
+    background-color: #ff8a65;
+}
+
+.tag-button[data-tag="ART"] {
+    background-color: #9575cd;
+}
+
+.tag-button[data-tag="COMEDY"] {
+    background-color: #4dd0e1;
+}
+
+.tag-button[data-tag="SHOPPING"] {
+    background-color: #f06292;
+}
+
+.tag-button[data-tag="GAMES"] {
+    background-color: #7986cb;
+}
+
+.tag-button[data-tag="QUIZ"] {
+    background-color: #4fc3f7;
+}
 
 .tag-button:not(.active) {
     background-color: #f0f0f0;
@@ -540,19 +791,57 @@ h1 {
 
 
 /* Color scheme for event tags - matching the filter buttons */
-.event-tag[data-tag="MUSIC"] { background-color: #e57373; }
-.event-tag[data-tag="MOVIE"] { background-color: #81c784; }
-.event-tag[data-tag="ACTIVISM"] { background-color: #64b5f6; }
-.event-tag[data-tag="COMMUNITY"] { background-color: #ffd54f; }
-.event-tag[data-tag="CULTURE"] { background-color: #ba68c8; }
-.event-tag[data-tag="LGBTQ+"] { background-color: #4db6ac; }
-.event-tag[data-tag="YOGA"] { background-color: #fff176; }
-.event-tag[data-tag="SPORTS"] { background-color: #ff8a65; }
-.event-tag[data-tag="ART"] { background-color: #9575cd; }
-.event-tag[data-tag="COMEDY"] { background-color: #4dd0e1; }
-.event-tag[data-tag="SHOPPING"] { background-color: #f06292; }
-.event-tag[data-tag="GAMES"] { background-color: #7986cb; }
-.event-tag[data-tag="QUIZ"] { background-color: #4fc3f7; }
+.event-tag[data-tag="MUSIC"] {
+    background-color: #e57373;
+}
+
+.event-tag[data-tag="MOVIE"] {
+    background-color: #81c784;
+}
+
+.event-tag[data-tag="ACTIVISM"] {
+    background-color: #64b5f6;
+}
+
+.event-tag[data-tag="COMMUNITY"] {
+    background-color: #ffd54f;
+}
+
+.event-tag[data-tag="CULTURE"] {
+    background-color: #ba68c8;
+}
+
+.event-tag[data-tag="LGBTQ+"] {
+    background-color: #4db6ac;
+}
+
+.event-tag[data-tag="YOGA"] {
+    background-color: #fff176;
+}
+
+.event-tag[data-tag="SPORTS"] {
+    background-color: #ff8a65;
+}
+
+.event-tag[data-tag="ART"] {
+    background-color: #9575cd;
+}
+
+.event-tag[data-tag="COMEDY"] {
+    background-color: #4dd0e1;
+}
+
+.event-tag[data-tag="SHOPPING"] {
+    background-color: #f06292;
+}
+
+.event-tag[data-tag="GAMES"] {
+    background-color: #7986cb;
+}
+
+.event-tag[data-tag="QUIZ"] {
+    background-color: #4fc3f7;
+}
 
 /* Adjust text color for better contrast on light backgrounds */
 .event-tag[data-tag="YOGA"],
@@ -565,16 +854,54 @@ h1 {
     margin-right: 4px;
 }
 
-.event-tag[data-tag="MUSIC"]::before { content: "🎵"; }
-.event-tag[data-tag="MOVIE"]::before { content: "🎬"; }
-.event-tag[data-tag="ACTIVISM"]::before { content: "✊"; }
-.event-tag[data-tag="COMMUNITY"]::before { content: "🤝"; }
-.event-tag[data-tag="CULTURE"]::before { content: "🏛️"; }
-.event-tag[data-tag="LGBTQ+"]::before { content: "🏳️‍🌈"; }
-.event-tag[data-tag="YOGA"]::before { content: "🧘"; }
-.event-tag[data-tag="SPORTS"]::before { content: "⚽"; }
-.event-tag[data-tag="ART"]::before { content: "🎨"; }
-.event-tag[data-tag="COMEDY"]::before { content: "😂"; }
-.event-tag[data-tag="SHOPPING"]::before { content: "🛍️"; }
-.event-tag[data-tag="GAMES"]::before { content: "🎮"; }
-.event-tag[data-tag="QUIZ"]::before { content: "🧠"; }
+.event-tag[data-tag="MUSIC"]::before {
+    content: "🎵";
+}
+
+.event-tag[data-tag="MOVIE"]::before {
+    content: "🎬";
+}
+
+.event-tag[data-tag="ACTIVISM"]::before {
+    content: "✊";
+}
+
+.event-tag[data-tag="COMMUNITY"]::before {
+    content: "🤝";
+}
+
+.event-tag[data-tag="CULTURE"]::before {
+    content: "🏛️";
+}
+
+.event-tag[data-tag="LGBTQ+"]::before {
+    content: "🏳️‍🌈";
+}
+
+.event-tag[data-tag="YOGA"]::before {
+    content: "🧘";
+}
+
+.event-tag[data-tag="SPORTS"]::before {
+    content: "⚽";
+}
+
+.event-tag[data-tag="ART"]::before {
+    content: "🎨";
+}
+
+.event-tag[data-tag="COMEDY"]::before {
+    content: "😂";
+}
+
+.event-tag[data-tag="SHOPPING"]::before {
+    content: "🛍️";
+}
+
+.event-tag[data-tag="GAMES"]::before {
+    content: "🎮";
+}
+
+.event-tag[data-tag="QUIZ"]::before {
+    content: "🧠";
+}

@@ -28,21 +28,17 @@
         <script src="ical.min.js"></script>
     </head>
 <body>
-    <header>
-        <h1 id="mattias-cph-calendar" class="rainbow-text">📆 MATTIA's CPH CALENDAR FOR COOL KIDS 📆</h1>
+    <header class="site-header">
+        <div class="header-content">
+            <h1 id="mattias-cph-calendar" class="rainbow-text">📆 MATTIA's CPH CALENDAR FOR COOL KIDS 📆</h1>
+            <button id="infoButton" class="info-button" style="display: none;">?</button>
+        </div>
     </header>
 
     <div class="container">
-        <div id="tagFilters" class="tag-filters">
-            <!-- Tag buttons will be dynamically added here -->
-        </div>
-    
-        <div class="week-navigation">
-            <button id="prevWeek" class="week-button">&lt;-</button>
-            <span id="weekDisplay" class="week-display"></span>
-            <button id="nextWeek" class="week-button">-&gt;</button>
-        </div>
-    
+        <div id="loadingSpinner" class="loading-spinner"></div>
+        <div id="tagFilters" class="tag-filters"></div>
+        <div id="weekNavigation" class="week-navigation" style="display: none;"></div>
         <div id="eventList" class="event-list"></div>
     </div>
     
@@ -58,6 +54,23 @@
             <a id="modalLink" class="modal-link" target="_blank">Original Page</a>
             <button id="addToCalendar" class="add-to-calendar">Add to Calendar</button>
         </div>
+    </div>
+
+    <div id="infoModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>👋 WELCOME 👋</h2>
+        <p>This website aggregates events from various venues across the city, helping you discover exciting happenings all in one place.</p>
+        <li>⏱️ Scraping is triggered manually, so it updates once every few days!</li>
+        <li>🤖 Categorization is done via Embeddings (AI) so expect some weird results here and there.</li>
+        <p>Love ya all!</p>
+        <br>
+        <div id="venueList"></div>
+        <div id="venueControls">
+            <button id="enableAllVenues">Enable All</button>
+            <button id="disableAllVenues">Disable All</button>
+        </div>
+    </div>
     </div>
 
     <script src="script.js"></script>
