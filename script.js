@@ -335,7 +335,7 @@ function displayEvents() {
       <div class="event-details">
           <div class="event-title">${event.summary.replace(/^\[.*?\]/, '')}</div>
           <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
-          <div class="event-location">📍 ${event.location}</div>
+          <div class="event-location">📍 ${event.summary.match(/\[(.*?)\]/)[1]}</div>
           <br>
           <div class="event-description">${event.description}</div>
       </div>
