@@ -294,7 +294,7 @@ ORGANIZER:Huset, Musikcafeen
 URL:https://huset.kk.dk/en/events/paere-banal-ondskyld
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_66b35a155b42b-large.png?itok=NyWWV8Rl
-X-EVENT-TAGS:MUSIC
+X-EVENT-TAGS:COMEDY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[HUSET] HUSET x Loppen: Gurriers (IE)
@@ -322,7 +322,7 @@ ORGANIZER:Huset, Musikcafeen
 URL:https://huset.kk.dk/en/events/huset-x-loppen-gurriers-ie
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_663b3c0f65d04-large.png?itok=OCc0NUsA
-X-EVENT-TAGS:MUSIC
+X-EVENT-TAGS:LGBTQ+
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[HUSET] Charlotte-Amalie
@@ -581,6 +581,6 @@ ORGANIZER:Huset, Xenon
 URL:https://huset.kk.dk/en/events/cumgirl8-us
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_66965a23bde74-large_0.png?itok=nQ4_Cts0
-X-EVENT-TAGS:COMMUNITY
+X-EVENT-TAGS:LGBTQ+
 END:VEVENT
 END:VCALENDAR
