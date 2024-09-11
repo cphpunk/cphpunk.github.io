@@ -666,6 +666,7 @@ function registerEvents() {
   const infoButton = document.getElementById('infoButton');
   const infoModal = document.getElementById('infoModal');
   const infoCloseButton = infoModal.querySelector('.close');
+  const infoModalContent = infoModal.querySelector('.modal-content');
 
   infoButton.addEventListener('click', () => {
     infoModal.style.display = 'block';
@@ -676,6 +677,31 @@ function registerEvents() {
     infoModal.style.display = 'none';
     document.body.style.overflow = '';
   });
+
+  // Close info modal when clicking outside
+  window.addEventListener('click', (event) => {
+    if (event.target === infoModal) {
+      infoModal.style.display = 'none';
+      document.body.style.overflow = '';
+    }
+  });
+
+  // Add touch event for closing info modal on iOS
+  infoModal.addEventListener('touchend', function (event) {
+    if (event.target === infoModal) {
+      event.preventDefault();
+      event.stopPropagation();
+      infoModal.style.display = 'none';
+      document.body.style.overflow = '';
+    }
+  }, { passive: false });
+
+  // Prevent scrolling on the info modal content for iOS
+  if (infoModalContent) {
+    infoModalContent.addEventListener('touchmove', function (event) {
+      event.stopPropagation();
+    }, { passive: false });
+  }
 
   // Event Modal functionality
   const eventModal = document.getElementById('eventModal');
