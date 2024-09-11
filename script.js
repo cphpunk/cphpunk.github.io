@@ -449,14 +449,14 @@ function createFilterToggles() {
   tagFiltersContainer.className = 'tag-filters';
   tagFiltersContainer.style.display = 'none';
   filterContainer.appendChild(tagFiltersContainer);
-
-  const savedTags = getCookie('activeTags');
-  if (savedTags) {
-      activeTagFilters = new Set(JSON.parse(savedTags));
-  }
-  else {
+  
+  //const savedTags = getCookie('activeTags');
+  //if (savedTags) {
+    //  activeTagFilters = new Set(JSON.parse(savedTags));
+  //}
+  //else {
       activeTagFilters = new Set(EVENT_TAGS);
-  }
+  //}
 
   EVENT_TAGS.forEach(tag => {
     const button = document.createElement('button');
