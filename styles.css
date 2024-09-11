@@ -59,14 +59,38 @@
     right: 20px;
     top: 50%;
     transform: translateY(-50%);
+    color: #333;
+    text-decoration: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 0;
+    /* Ensure no padding affects alignment */
+}
+
+.info-button::after {
+    content: "?";
+    display: block;
+    line-height: 1;
+    /* Reset line height */
+    transform: translateY(-5%);
+    /* Slight adjustment for optical centering */
+}
+
+/* Hide the original text content */
+.info-button span {
+    display: none;
+}
+
+@supports (-webkit-touch-callout: none) {
+    .info-button::after {
+        transform: translateY(-10%);
+        /* Further adjustment for iOS */
+    }
 }
 
 /* Media query for smaller screens */
 @media (max-width: 768px) {
-    .rainbow-text {
-        font-size: 1.5em;
-    }
-
     .info-button {
         width: 30px;
         height: 30px;
@@ -76,10 +100,6 @@
 
 /* Media query for very small screens */
 @media (max-width: 480px) {
-    .rainbow-text {
-        font-size: 1.2em;
-    }
-
     .info-button {
         width: 25px;
         height: 25px;
