@@ -1,48 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0", maximum-scale=1.0, user-scalable=no">
+        <title>Mattia's CPH Calendar</title>
+        <link rel="stylesheet" href="styles.css">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" , maximum-scale=1.0, user-scalable=no">
-    <title>Mattia's CPH Calendar</title>
-    <link rel="stylesheet" href="styles.css">
-
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-
-    <!-- Open Graph meta tags -->
-    <meta property="og:title" content="Mattia's CPH Calendar">
-    <meta property="og:description"
-        content="Automatic Scraper of the Copenhagen Venues with Music Events I like the most">
-    <meta property="og:image" content="https://your-website-url.com/preview-image.jpg">
-    <meta property="og:url" content="https://your-website-url.com">
-    <meta property="og:type" content="website">
-
-    <!-- Twitter Card meta tags (optional, but recommended) -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="MATTIA's CPH CALENDAR FOR COOL KIDS">
-    <meta name="twitter:description"
-        content="Automatic Scraper of the Copenhagen Venues with Music Events I like the most">
-    <meta name="twitter:image" content="https://your-website-url.com/preview-image.jpg">
-
-    <link rel="stylesheet" href="styles.css">
-    <script src="moment.min.js"></script>
-    <script src="ical.min.js"></script>
-</head>
-
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+        
+        <!-- Open Graph meta tags -->
+        <meta property="og:title" content="Mattia's CPH Calendar">
+        <meta property="og:description" content="All of the coolest CPH events, in one place. #Blessed">
+        <meta property="og:image" content="https://cph.quest/opengraph.png">
+        <meta property="og:url" content="https://cph.quest">
+        <meta property="og:type" content="website">
+        
+        <!-- Twitter Card meta tags (optional, but recommended) -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Mattia's CPH Calendar">
+        <meta name="twitter:description" content="All of the coolest CPH events, in one place. #Blessed">
+        <meta name="twitter:image" content="https://cph.quest/opengraph.png">
+        
+        <link rel="stylesheet" href="styles.css">
+        <script src="moment.min.js"></script>
+        <script src="ical.min.js"></script>
+    </head>
 <body>
-    <header class="site-header">
-        <div class="header-content">
-            <h1 id="mattias-cph-calendar" class="rainbow-text">📆 MATTIA's CPH CALENDAR FOR COOL KIDS 📆</h1>
-            <button id="infoButton" class="info-button" style="display: none;"><span>?</span></button>
-        </div>
-    </header>
-
     <div class="container">
-        <div id="loadingSpinner" class="loading-spinner"></div>
-        <div id="tagFilters" class="tag-filters"></div>
-        <div id="weekNavigation" class="week-navigation" style="display: none;"></div>
+        <h1 class="rainbow-text">
+            <span>M</span><span>a</span><span>t</span><span>t</span><span>i</span><span>a</span><span>'</span><span>s</span>
+            <span>C</span><span>P</span><span>H</span>
+            <span>C</span><span>a</span><span>l</span><span>e</span><span>n</span><span>d</span><span>a</span><span>r</span>
+        </h1>
+
+        <div id="filterContainer" class="filter-container">
+            <div class="filter-header">
+                Filters <span class="arrow">▼</span>
+            </div>
+            <div class="filter-content">
+                <div id="facebookFilters" class="filter-column">
+                    <h3>Facebook</h3>
+                </div>
+                <div id="kkFilters" class="filter-column">
+                    <h3>Københavns Kommune</h3>
+                </div>
+                <div id="customFilters" class="filter-column">
+                    <h3>Custom Scrapers</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="week-navigation">
+            <button id="prevWeek" class="week-button"><-</button>
+            <span id="weekDisplay" class="week-display"></span>
+            <button id="nextWeek" class="week-button">-></button>
+        </div>
+
         <div id="eventList" class="event-list"></div>
     </div>
 
@@ -52,7 +67,6 @@
             <img id="modalImage" class="modal-image" src="" alt="">
             <h2 id="modalTitle" class="modal-title"></h2>
             <p id="modalDate" class="modal-date"></p>
-            <p id="modalTag" class="modal-tag"></p>
             <p id="modalLocation" class="modal-location"></p>
             <div id="modalDescription" class="modal-description"></div>
             <a id="modalLink" class="modal-link" target="_blank">Original Page</a>
@@ -60,25 +74,6 @@
         </div>
     </div>
 
-    <div id="infoModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2>👋 WELCOME 👋</h2>
-            <p>This website aggregates events from various venues across the city, helping you discover exciting
-                happenings all in one place.</p>
-            <li>⏱️ Scraping is triggered manually, so it updates once every few days!</li>
-            <li>🤖 Categorization is done via Embeddings (AI) so expect some weird results here and there.</li>
-            <p>Love ya all!</p>
-            <br>
-            <div id="venueList"></div>
-            <div id="venueControls">
-                <button id="enableAllVenues">Enable All</button>
-                <button id="disableAllVenues">Disable All</button>
-            </div>
-        </div>
-    </div>
-
     <script src="script.js"></script>
 </body>
-
 </html>
