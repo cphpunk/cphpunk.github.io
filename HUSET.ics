@@ -1,72 +1,23 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:[HUSET] TENGGER (JP/KR)
-DTSTART:20240912T200000
-DTEND:20240912T230000
+SUMMARY:[HUSET] Paradise Jazz: Monday Night Big Band v./ Niels Jørgen Ste
+ en feat. Bobo Moreno
+DTSTART:20240916T190000
+DTEND:20240916T230000
 DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
- ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  T E 
- N G G E R is a traveling musical family\, made up of Pan-Asian couple\, IT
- TA (from South Korea) and MARQIDO (from Japan)\, who create their brand of
-  psychedelic New-Age drone magic through the use of Voice\, Indian harmoni
- um\, and Toy instruments (played by ITTA) and synths &amp\; electronics (p
- layed by MARQIDO).\n </p>\n <p>\n  The duo originally started out with the
-  moniker “10” but since the birth of their son RAAI (who joins them on
-  tour and playing Voice\, Synth\, Toy Instrument\, Dance performance on st
- age) in 2012\, have called themselves TENGGER (meaning ‘unlimited expans
- e of sky’ in Mongolian) to mark the expansion of the\n  <br/>\n  <br/>\n
-   family. It also means ‘huge sea’ in Hungarian.\n </p>\n <p>\n  Trave
- l\, as spiritual experience in real environments\, and the sound between t
- he space and the audience have been central themes of their works. The fam
- ily’s yearly pilgrimages inform every aspect of their art.\n </p>\n <p>\
- n  Pitchfork: "From field recordings to Krautrock to something they call '
- aural hang-gliding'\, TENGGER have truly begun to put their stamp on psych
- edelic music."\n </p>\n <p>\n  Uncut Magazine: "There's a level of detail 
- in TENGGER's music that sets them apart from other drone artists\, sounds 
- nimbly woven together rather than painted in broad brushstrokes."\n </p>\n
-  <p>\n  Bandcamp Daily: "...like stepping through a glowing portal and gas
- ping at the wonders of another world”\n </p>\n <p>\n  Stereogum: "Their 
- shimmering synthesizers and reverberant chants invoke the most ethereal en
- d of krautrock..."\n </p>\n</div>\n
-LOCATION:Huset\, Musikcafeen\, Rådhusstræde 13\, 1466 København
-ORGANIZER:Huset, Musikcafeen
-URL:https://huset.kk.dk/en/events/tengger-jpkr
+ ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  Niel
+ s Jørgen Steen (dir). Bobo Moreno (voc). Johan Bylling Lang og Jens Sønd
+ ergaard (as). Jan Harbeck og Andreas Toftemark (ts). Katrine Suwalski (bar
+ s). Rolf Mandix\, Niels Gerhardt\, Vincent Nilsson og Petter Hängsel (tb)
+ . Peter Marott\, Andre Bak\, Carsten Larsen og Rolf Thofte (tp). Marie Lou
+ ise Schmidt (p)\, Peter Lund (g)\, Ida Hvid (b)\, Roger Berg (S/dm)\n </p>
+ \n</div>\n
+LOCATION:Huset\, Xenon\, Rådhusstræde 13\, 1466 København
+ORGANIZER:Huset, Xenon
+URL:https://huset.kk.dk/en/events/paradise-jazz-monday-night-big-band-v-ni
+ els-jorgen-steen-feat-bobo-moreno
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
- o_desktop/public/319_6655deb50d961-large_0.png?itok=t5-o5k6B
-X-EVENT-TAGS:MUSIC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[HUSET] FELT & HUSET presents: Civilistjävel + soccer Committee +
-  Thommy Wahlström
-DTSTART:20240913T210000
-DTEND:20240914T000000
-DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
- ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  In c
- elebration of the release of Civilistjävel!'s new album Brödföda\, FELT
-  presents an evening of live music at Musikcaféen in Copenhagen on Friday
-  13th September.\n  <br/>\n </p>\n <p>\n  Tomas Bodén is a revered figure
-  of the aural murk\, known primarily for his work as Civilistjävel. It’
- s an alias that has spawned a catalogue of self-released peculiarities\, f
- eaturing music that scorns traditional form\, instead opting for unfussed 
- symphonies of ice-hued minimalism\; soft murmurs that emanate from his stu
- dio in the High Coast of Sweden.\n  <br/>\n </p>\n <p>\n  soccer Committee
-  is the solo project of Dutch artist\, Mariska Baars. She grew up in the c
- ountryside of The Netherlands listening to the magical sounds of the river
-  near her childhood home. These peaceful\, organic sounds have made their 
- way into her music. Her style is often described as a natural\, unforced b
- lend of experimental\, folk\, ambient and electronics\, created with elect
- ric guitar\, voice and effects.\n  <br/>\n </p>\n <p>\n  Thommy Wahlström
-  is a Swedish composer and musician educated in Composition/EAM at the Got
- land School of Music Composition and the Royal College of Music in Stockho
- lm. Wahlströms music is often a combination of acoustic and electroacoust
- ic music. In recent years\, he has been concentrating on combining traditi
- onal notation with an ”alternative representation of sound and music”\
- , which refers to the development of graphic scores.\n </p>\n</div>\n
-LOCATION:Huset\, Musikcafeen\, Rådhusstræde 13\, 1466 København
-ORGANIZER:Huset, Musikcafeen
-URL:https://huset.kk.dk/en/events/felt-huset-presents-civilistjavel-soccer
- -committee-thommy-wahlstrom
-X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
- o_desktop/public/319_66bddb8f8a925-large_0.png?itok=YhM2VYHY
+ o_desktop/public/319_66acbed01ec28-large.png?itok=Rt3K_Ker
 X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[HUSET] Ecology & Cocktails
 DTSTART:20241004T183000
-DTEND:20241004T230000
+DTEND:20241004T220000
 DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
  ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  Join
   us for an unforgettable evening of inspiration at Ecology &amp\; Cocktail
@@ -185,7 +136,7 @@ LOCATION:Huset\, Stardust\, Rådhusstræde 13\, 1466 København
 ORGANIZER:Huset, Stardust
 URL:https://huset.kk.dk/en/events/ecology-cocktails
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
- o_desktop/public/319_66cefaaacd45f-large.png?itok=ZjU5_JuW
+ o_desktop/public/319_66cefaaacd45f-large_0.png?itok=tYDmM0lT
 X-EVENT-TAGS:COMMUNITY
 END:VEVENT
 BEGIN:VEVENT
@@ -323,6 +274,40 @@ URL:https://huset.kk.dk/en/events/huset-x-loppen-gurriers-ie
 X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
  o_desktop/public/319_663b3c0f65d04-large.png?itok=OCc0NUsA
 X-EVENT-TAGS:LGBTQ+
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[HUSET] Simone Tang
+DTSTART:20241030T200000
+DTEND:20241030T230000
+DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
+ ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  With
+  appearances at festivals such as SPOT\, The Great Escape (UK) SMUKfest an
+ d Trans Musicales (FR)\, Simone Tang kicked off her solo career in 2019 wi
+ th the debut single "Shame".\n  <br/>\n  <br/>\n </p>\n <p>\n  A year ago\
+ , Tang started writing the songs for his debut album in a new and more aco
+ ustic sound than previously released\, cut down to the bone on guitar and 
+ vocals. Inspired by\, among other things the sound of 1940s French chanson
+ s and songwriters such as Paul Simon\, Elizabeth Cotton\, Édith Piaf and 
+ others\, she writes about forbidden love\, perfectionism\, neighborhood an
+ d sibling relationships.\n  <br/>\n  <br/>\n  <br/>\n  <br/>\n  In mid-May
+ \, Simone Tang released her first single\, "A boy from a song"\, about unr
+ equited love\, the sequel "Miss Lila" about perfectionism\, and most recen
+ tly "Caroline"\, which is a song for her sister. The songs are from the up
+ coming debut album\, "Things I Remember"\, which will be released on Novem
+ ber 1\, 2024.\n  <br/>\n  <br/>\n  Simone Tang is a songwriter\, singer\, 
+ producer\, guitarist and bassist and plays with artists such as Ida Laurbe
+ rg\, Ki! and Tomas Høffding\, in addition to being an artist in her own n
+ ame. She has a past as an actress and in 2009 won\, among other things\, C
+ hina's answer to an Oscar for best actress in the film Lovers Sorrow by Ni
+ ls Malmros.\n  <br/>\n  <br/>\n  <br/>\n  <strong>\n   Simone Tang live:\n
+   </strong>\n  <br/>\n  Simone Tang: guitar &amp\; vocals\n  <br/>\n  Sør
+ en Manscher: guitar &amp\; vocals\n  <br/>\n  <br/>\n </p>\n</div>\n
+LOCATION:Huset\, Musikcaféen\, Rådhusstræde 13\, 1466 København K
+ORGANIZER:Huset, Musikcaféen
+URL:https://huset.kk.dk/en/events/simone-tang
+X-COVER-IMAGE-URL:https://huset.kk.dk/sites/default/files/styles/event_her
+ o_desktop/public/2024-09/Skammens%20Vogn%20%284%29.png?itok=8ZCUv013
+X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[HUSET] Charlotte-Amalie

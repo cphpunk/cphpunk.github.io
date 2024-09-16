@@ -1,34 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:[Ukirke] Jesusjam\, det svinger
-DTSTART:20240912T180000
-DTEND:20240912T210000
-DESCRIPTION:Jesusjam\, det svinger\, handler om musikkultur og fællesskab
- . Det er for dig\, der elsker musik\, der har lyst til at prøve nye ting 
- af og vil jamme med andre. Det er et space\, hvor du må udtrykke dig selv
-  gennem musikken\, også selvom du synes\, du er lidt dårlig. Det er i va
- riationen mellem genrer\, niveauer og udtryksformer\, at magien findes\, o
- g Jesusjam bliver til et rum\, hvor musikken connecter os på tværs af fo
- rskelligheder.\n\nAftenens husband starter aftenen ud\, og derefter er der
-  åben scene og åben jam\, så kom forbi og giv et nummer.\n\nAftenens hu
- sband: Junker\nJunker er et band fra Ingrid Jespersens Gymnasie\, der spil
- ler covernumre. De spiller alt fra Sting og Steely Dan til Stevie Wonder. 
- De elsker at spille for folk og starte en fest - fx til fødselsdage og s
- ølvbryllupper.\n\n16+ i døren\, 18+ i baren\n\nuKirke er et sted\, der e
- r åbent for alle. Kom som du er\, uanset hvem du er\, hvad du tror på\, 
- og hvem du elsker. Vi accepterer ikke diskrimination!\n\nVi tolererer ikke
-  medbragt alkohol.
-LOCATION:Dannebrogsgade 53\, 1660 Copenhagen\, Denmark
-ORGANIZER:Ukirke
-URL:https://www.facebook.com/events/3760657174253351/
-X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45850
- 4649_526570163071205_8657503432041160626_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=BE0eXH0JmAIQ7kNvgFc9_83&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AzY2dZkZMCaU6bL8_OA6Tmd&oh=00_AYArKODRpVmdmLxufEwYWdG6qD5GqF7J4KKmGOgn7HkZ
- Fw&oe=66E76D8D
-X-EVENT-TAGS:MUSIC
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Ukirke] Release: Bedtime Magazine - The Confessions Issue
 DTSTART:20240917T170000
 DTEND:20240917T220000
@@ -84,14 +55,15 @@ DESCRIPTION:Calling all saints\, s!nn3rs\, d3v!ls and angels: join us as w
  her.\n\n🖤 Get in touch\nIf you would like to stock Bedtime Magazine\, s
  ponsor us\, collaborate\, contribute to the magazine or ask any questions\
  , you can catch us at magazine@bedside-productions.com.
+GEO:55.6676903;12.5534401
 LOCATION:Ukirke
 ORGANIZER:Cumfort
 URL:https://www.facebook.com/events/1053563576396943/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45705
  4944_456684867347734_524555547605457958_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=
- 75d36f&_nc_ohc=EWIrRJZ60-AQ7kNvgHSq4Uu&_nc_ht=scontent-cph2-1.xx&_nc_gid=A
- 2G7vCqkk2xNS6PppnYnI1c&oh=00_AYDP0H-9TzI_vrAF6i9RdY9VHMrVIxIGJIODp0wJIfyGP
- g&oe=66E788A6
+ 75d36f&_nc_ohc=VagmjUUyQo0Q7kNvgHknHfL&_nc_ht=scontent-cph2-1.xx&_nc_gid=A
+ tWwYNJ58sHhb1eKcJ5onsi&oh=00_AYBdTJdJrpC2pgIgvWTkZv154UyKuzYYVTcySsPlh-Xox
+ w&oe=66EDAFA6
 X-EVENT-TAGS:LGBTQ+
 END:VEVENT
 BEGIN:VEVENT
@@ -110,8 +82,9 @@ ORGANIZER:Ukirke
 URL:https://www.facebook.com/events/1218397442685561/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45647
  7501_514069597654595_3206189442327913985_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=eL21AbOhfMoQ7kNvgEFMlW9&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- CkxC1QhFchT6ruQhh-kz6nFQ0PfUp-sP6JhnbihVU3bw&oe=66E77DBB
+ =75d36f&_nc_ohc=gVVVVn6Wn6cQ7kNvgFVDgty&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AmUJVbTQh6LvmMBNzMk7091&oh=00_AYAqXjDBPSzpCg-xhLKMc3-fEcMF344sIYLktgRjDW_P
+ aA&oe=66EDDCFB
 X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
@@ -126,15 +99,13 @@ DESCRIPTION:Mad&Musik er sofaer\, bar\, musik og fællesspisning.\nVi har
  Mad: 25kr\nØl/sodavand: 20kr\nVin: 25kr\nKaffe og te: donation\n\nuKirke 
  er et sted\, der er åbent for alle. Kom som du er\, uanset hvem du er\, h
  vad du tror på\, og hvem du elsker. Vi accepterer ikke diskrimination!
-GEO:55.66769;12.55344
 LOCATION:Dannebrogsgade 53\, 1660 Copenhagen\, Denmark
 ORGANIZER:Ukirke
 URL:https://www.facebook.com/events/1019212203018117/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45630
  8442_515771837484371_7115745627196347995_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=YOYrRiXX-60Q7kNvgHjlIQe&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AbBbEr9kSi2bDgPsKFPO5Sc&oh=00_AYBWmw9hT1sIXwu6vEyiWmgTn7cHz6l-UbJxBNmS1CSJ
- Nw&oe=66E76A26
+ =75d36f&_nc_ohc=FHCCwDRDEjwQ7kNvgE4iq7B&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ A0i8dEbJgwnmse8Ngnv68EewVWk9o4lPQiUgG2s_qX1g&oe=66EDC966
 X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
@@ -144,15 +115,14 @@ DTEND:20240928T210000
 DESCRIPTION:GOD IS A DJ \nGOD IS A BEAT\nGOD IS LOUD \nGOD IS ELECTRIC \nG
  OD IS COMMUNITY\n\nINSPIRED BY BOILER ROOM 28. SEPTEMBER 18-22\n\nDJ’S W
  ILL BE ANNOUNCED SOON
-GEO:55.66769;12.55344
 LOCATION:Dannebrogsgade 53\, 1660 Copenhagen\, Denmark
 ORGANIZER:Ukirke
 URL:https://www.facebook.com/events/515676937527973/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45650
  6969_515425537519001_2663788130192498938_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=AuJBs08rEd4Q7kNvgFzDyol&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AKAdGGeUD2-V0ZZ4wRgklfr&oh=00_AYBDvx11KnwnJVShMMV4tSVU0wDgjMeQQWq2YjvZPPbm
- cg&oe=66E781BE
+ =75d36f&_nc_ohc=jJmJxmIZ6dUQ7kNvgFgrYc-&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AErHoBxVIspU4vkZfyb2bjZ&oh=00_AYAVHeFXI7dZeCTA-hgRMo_5JVveTaGSGUUnU1LWa7cz
+ jg&oe=66EDE0FE
 X-EVENT-TAGS:MUSIC
 END:VEVENT
 BEGIN:VEVENT
@@ -180,9 +150,9 @@ ORGANIZER:Ukirke
 URL:https://www.facebook.com/events/356572280725244/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45643
  9768_515777597483795_7619864601265172897_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=qpgkTAAumSAQ7kNvgHdz75E&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AoeFYEjQxVrCN6woicJBCg3&oh=00_AYCtVxghNuSrVoeMxxqXAc5tEbLwejwxlYQhYgJ3PqwM
- pQ&oe=66E78DEB
+ =75d36f&_nc_ohc=kqqCKmwCFmEQ7kNvgH0gvDm&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AEMXSNiTybTgocJi9qBnA-p&oh=00_AYCnH7xSRxW5hYfoArPrvNecAmlfhIux6z9C7Qfx4Hdf
+ GQ&oe=66EDB4EB
 X-EVENT-TAGS:THEATRE
 END:VEVENT
 BEGIN:VEVENT
@@ -216,8 +186,9 @@ ORGANIZER:Ukirke
 URL:https://www.facebook.com/events/1073532017613578/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45732
  1334_519850643743157_7733511764131912663_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=7SoL0H1gePAQ7kNvgF2-gTv&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- B8R1OWHIpHnGDDXP2lze2xi_gDt-LvxtGR0SwU7RHMFg&oe=66E78199
+ =75d36f&_nc_ohc=1OJlP0PWpEAQ7kNvgGDj5I4&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AcmpUEEHzLGEj9iUmQD8mNh&oh=00_AYBEG0tyOB8CBKZtIc_556AXEGGg6UAisjmyd3a4p51N
+ bg&oe=66EDE0D9
 X-EVENT-TAGS:COMMUNITY
 END:VEVENT
 BEGIN:VEVENT
@@ -236,14 +207,48 @@ DESCRIPTION:Jesusjam\, det svinger\, handler om musikkultur og fællesskab
  ent for alle. Kom som du er\, uanset hvem du er\, hvad du tror på\, og hv
  em du elsker. Vi accepterer ikke diskrimination!\n\nVi tolererer ikke medb
  ragt alkohol.
+GEO:55.66769;12.55344
 LOCATION:Dannebrogsgade 53\, 1660 Copenhagen\, Denmark
 ORGANIZER:Ukirke
 URL:https://www.facebook.com/events/833569972264510/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45644
  0438_515774727484082_1870596515304034050_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=NUYHHR5m-a4Q7kNvgGK7IJU&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AoIHo9Xwen89YnaKRBlegoa&oh=00_AYCyX7ImjehikAWyROfH_rQPg94gldz4oJ2kkHyWJtiC
- 5g&oe=66E77604
+ =75d36f&_nc_ohc=4tMl60EdceYQ7kNvgFMbV3P&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ AkmEYWk9ixgKNqe0HKuiGym&oh=00_AYDn671Nahr3TO74_d_lUvQk-aA8H2dsOG4U7muPm0Um
+ zw&oe=66EDD544
 X-EVENT-TAGS:MUSIC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Ukirke] Stressfri / Bålmad
+DTSTART:20241029T160000
+DTEND:20241029T190000
+DESCRIPTION:Stressfri er et gratis tilbud til dig under 30 år\, der er ra
+ mt af stress\, stressrelateret angst eller depression – og til dig\, der
+  gerne vil forebygge stress.\n\n29/10 kl. 16-19 dyrker vi naturen ved bål
+ ets flammer og mediterer sammen – og skaber derigennem et helende nærv
+ ær.\n\nNaturliv er godt for sjælen\nNår du er stressramt\, er dit nerve
+ system i alarmberedskab – tankerne ræser afsted\, og det kan være svæ
+ rt at være til stede i nuet. I Træstubben er der brændeovn og hygge\, o
+ g tankerne falder til ro. \nTræstubben er et naturværksted i Saxoparken 
+ – en skovhytte midt på Vesterbro. Træstubben ligger 50 m til højre fo
+ r Apostelkirken\, Saxogade 13\, 1662 Kbh. V.\n\nSådan foregår det\nVi sk
+ al kløve brænde\, tænde et pagodebål og lave mad over bål. Vi skal me
+ ditere sammen rundt om bålet\, mens der samtidig er plads til at sætte s
+ ig ved et stillebord\, hvor man kan sidde uden at skulle tale.\nDu kan del
+ tage i det\, du har lyst til\, eller evt. bare kigge forbi og få en kop k
+ affe. Der er ingen krav\, og du behøver ikke at tilmelde dig. \n\nFor all
+ e – uanset tro\nDu behøver ikke være kristen eller troende for at delt
+ age. Stressfri i uKirke er et tilbud til unge under 30 år\, der er ramt a
+ f stress og har brug for et frirum.\n\nEva Green Meinel står for arrangem
+ entet.\n
+LOCATION:Saxogade 13\, 1662 København V\, Danmark
+ORGANIZER:Ukirke
+URL:https://www.facebook.com/events/7785093214930012/
+X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45924
+ 1752_527966509598237_5654714628782403395_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid
+ =75d36f&_nc_ohc=ry8c9Brhws0Q7kNvgFHt1hg&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ Avlsv-Mw6vUJVayyXI-ybgC&oh=00_AYDZazb9Plq9cGf-onGLrmzwGdBt6Rxuy1ze93ni5kTA
+ uw&oe=66EDD1B8
+X-EVENT-TAGS:YOGA
 END:VEVENT
 END:VCALENDAR

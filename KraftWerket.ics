@@ -1,32 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:[KraftWerket] One Bowl
-DTSTART:20240915T170000
-DTEND:20240915T190000
-DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
- ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  One 
- Bowl’s mission is to change the world\, One Bowl at a time.\n </p>\n <p>
- \n  We make dinner for people of all backgrounds and walks of life\, irres
- pective of their economic status/ability.\n </p>\n <p>\n  We want to estab
- lish a safe place for everyone\, and we encourage love\, generosity\, and 
- equality through community life.\n </p>\n <p>\n  Our main goal is to resol
- ve issues like food insecurity\, loneliness\, and social exclusion. Meals 
- at One Bowl are offered on a ‘pay what you can’ basis in order to ensu
- re a proper meal for everyone\, regardless of their situation. This means 
- that there are no set prices on any of our meals. We provide a suggested d
- onation amount for our menu to help you understand the cost of “paying i
- t forward” and how to help those who struggle with food insecurity. Ever
- ything you give over the suggested price is used to help others and to con
- tinue the work of One Bowl.\n </p>\n</div>\n
-LOCATION:KraftWerket\, KraftWerket\, Valgårdsvej 2\, 2500 Valby
-ORGANIZER:KraftWerket, KraftWerket
-URL:https://kraftwerket.kk.dk/en/events/one-bowl
-X-COVER-IMAGE-URL:https://kraftwerket.kk.dk/sites/default/files/styles/eve
- nt_hero_desktop/public/2024-02/311840462_492933639513658_51871585128866909
- 44_n.jpg?itok=13Dj0gHZ
-X-EVENT-TAGS:COMMUNITY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[KraftWerket] Yet Another Magic Monday
 DTSTART:20240916T180000
 DTEND:20240916T220000
@@ -115,6 +88,33 @@ X-COVER-IMAGE-URL:https://kraftwerket.kk.dk/sites/default/files/styles/eve
  nt_hero_desktop/public/co-creation/event/banner-september.jpg?itok=XMu7gCb
  j
 X-EVENT-TAGS:MUSIC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[KraftWerket] One Bowl
+DTSTART:20240922T170000
+DTEND:20240922T190000
+DESCRIPTION:<div class="clearfix text-formatted field field--name-body fie
+ ld--type-text-with-summary field--label-hidden field__item">\n <p>\n  One 
+ Bowl’s mission is to change the world\, One Bowl at a time.\n </p>\n <p>
+ \n  We make dinner for people of all backgrounds and walks of life\, irres
+ pective of their economic status/ability.\n </p>\n <p>\n  We want to estab
+ lish a safe place for everyone\, and we encourage love\, generosity\, and 
+ equality through community life.\n </p>\n <p>\n  Our main goal is to resol
+ ve issues like food insecurity\, loneliness\, and social exclusion. Meals 
+ at One Bowl are offered on a ‘pay what you can’ basis in order to ensu
+ re a proper meal for everyone\, regardless of their situation. This means 
+ that there are no set prices on any of our meals. We provide a suggested d
+ onation amount for our menu to help you understand the cost of “paying i
+ t forward” and how to help those who struggle with food insecurity. Ever
+ ything you give over the suggested price is used to help others and to con
+ tinue the work of One Bowl.\n </p>\n</div>\n
+LOCATION:KraftWerket\, KraftWerket\, Valgårdsvej 2\, 2500 Valby
+ORGANIZER:KraftWerket, KraftWerket
+URL:https://kraftwerket.kk.dk/en/events/one-bowl
+X-COVER-IMAGE-URL:https://kraftwerket.kk.dk/sites/default/files/styles/eve
+ nt_hero_desktop/public/2024-02/311840462_492933639513658_51871585128866909
+ 44_n.jpg?itok=13Dj0gHZ
+X-EVENT-TAGS:COMMUNITY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[KraftWerket] House meeting

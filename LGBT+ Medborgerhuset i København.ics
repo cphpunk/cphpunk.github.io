@@ -1,40 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:[LGBT+ Medborgerhuset i København] Fællesspisning/Community Dinn
- er
-DTSTART:20240912T190000
-DTEND:20240912T220000
-DESCRIPTION:TILMELDING: https://forms.office.com/e/U1cg2VqjMW\n\nFællessp
- isning er LGBT+ Danmarks tilbagevendende initiativ – en måde at skabe h
- yggelige rammer for LGBT+ miljøet og allierede at komme sammen på. Vi sk
- al blot snakke og hygge os sammen over noget dejlig mad.\n\nMaden er fortr
- insvis vegansk og det er gratis at deltage. Kom kl. 19.00\, hvis ud vil v
- ære sikker på at der er mad.\n\nAlle er velkommen\, og man kan både kom
- me som sig selv eller med en ven under armen. Børn er også meget velkomn
- e.\n\nTilmeld dig på linket\, så vi ved hvor mange vi skal lave mad til.
- \nFællesspisningen er arrangeret af Madgruppen\, en frivilliggruppe under
-  LGBT+ Danmark.\n\nVil du være med til at lave fællesspisning fremover? 
- Så skriv til Kamille på khk@lgbt.dk\n\n//\n\nSIGN UP: https://forms.offi
- ce.com/e/U1cg2VqjMW\n\nCommunity dining is LGBT+ Denmark's recurring initi
- ative – a way to create a cozy environment for the LGBT+ community and a
- llies to come together.\n\nWe will just talk and have a cozy time together
-  with some nice food.\n\nThe food is mainly vegan and it is free to join. 
- Come at 19.00 to make sure\, there is still food.\n\nEveryone is welcome\,
-  and you can come as yourself or with a friend. Kids are welcome too.\n\nP
- lease register at the link above\, you will get a confirmation email in a 
- few days.\nDo you want to help with the community dinner in the future?\nP
- lease reach out to Kamille at khk@lgbt.dk\n\n
-LOCATION:LGBT+ Danmark
-ORGANIZER:LGBT+ Medborgerhuset i København, LGBT+ Danmark
-URL:https://www.facebook.com/events/1451275525722697/
-X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45709
- 5438_454645074267534_5648286661609946448_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=O8V9LYxWoyEQ7kNvgGob65j&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- Ax47OAep2gJatlZoY5vEg66&oh=00_AYCFyKhQ3a3tT2124r9SSlAUM18MY4LpFfPCSWxfNsIT
- Vg&oe=66E78BA8
-X-EVENT-TAGS:LGBTQ+
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[LGBT+ Medborgerhuset i København] Homo med Forsinkelse - Mænd (
  ny gruppe i København)
 DTSTART:20240918T190000
@@ -78,14 +43,14 @@ DESCRIPTION:Homo med forsinkelse – eller HmF – er for dig\, der er spr
  t et kæmpe skridt\, forbundet med stor sårbarhed at komme til deres før
  ste møde\, og du er altid velkommen til at kontakte en tovholder inden og
   få støtte til at træde ind i fællesskabet.
-LOCATION:LGBT+ Danmark
+GEO:55.67777799287;12.568584680557
+LOCATION:LGBT+ Danmark\, Vestergade 18 E\, 2. sal
 ORGANIZER:LGBT+ Medborgerhuset i København, LGBT+ Danmark
 URL:https://www.facebook.com/events/1583888419136491/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45329
  2101_431589396573102_1868480445223297088_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=qa9dqLm0XzUQ7kNvgHQju8v&_nc_ht=scontent-cph2-1.xx&_nc_gid=
- AbXL3nJgia4FhamrTHcVJ5N&oh=00_AYCtyhNs8dggcguEnIXLzR_kNKroVZA4C9YOBEhnwqkI
- Ug&oe=66E79D0C
+ =75d36f&_nc_ohc=obbsFUUdw_wQ7kNvgGJt1c1&_nc_ht=scontent-cph2-1.xx&oh=00_AY
+ CmoUYkWKnMSVb-udqjtCHuUBUEJ9MEdr5GJ57J5Q67JQ&oe=66EDC40C
 X-EVENT-TAGS:LGBTQ+
 END:VEVENT
 BEGIN:VEVENT
@@ -132,8 +97,9 @@ ORGANIZER:LGBT+ Medborgerhuset i København, LGBT+ Danmark
 URL:https://www.facebook.com/events/431438212540381/
 X-COVER-IMAGE-URL:https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/45518
  0624_441038665628175_7629675372633236937_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid
- =75d36f&_nc_ohc=UgDaMX8ZVwgQ7kNvgEQJfi3&_nc_ht=scontent-cph2-1.xx&oh=00_AY
- DG6VEiD0025drqvlTVyChlEmEhjn9mc_Lh6LzuLwBGhg&oe=66E7930D
+ =75d36f&_nc_ohc=_WRF-KWHJNsQ7kNvgGihtLX&_nc_ht=scontent-cph2-1.xx&_nc_gid=
+ As07MEHdiAGBSpEFMPvUAiM&oh=00_AYA55sJz8DqZSiBqJ-t0_cjAV3qwOjgsMDZT0zx2dn7P
+ _A&oe=66EDBA0D
 X-EVENT-TAGS:LGBTQ+
 END:VEVENT
 END:VCALENDAR
