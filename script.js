@@ -365,7 +365,29 @@ function displayEvents() {
     return groups;
   }, {});
 
+  let dayCounter = 0;
   for (const [date, events] of Object.entries(groupedEvents)) {
+    // Insert ad before each day's events (except the first day)
+    if (dayCounter > 0) {
+      const adContainer = document.createElement('div');
+      adContainer.className = 'ad-container';
+      adContainer.innerHTML = `
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7239098133706809"
+             crossorigin="anonymous"></script>
+        <!-- In Between Days -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7239098133706809"
+             data-ad-slot="9816967300"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      `;
+      eventList.appendChild(adContainer);
+    }
+
     const dateDivider = document.createElement('div');
     dateDivider.className = 'event-day-divider';
     dateDivider.setAttribute('data-date', date);
@@ -379,16 +401,16 @@ function displayEvents() {
       const eventBox = document.createElement('div');
       eventBox.className = 'event-box';
       eventBox.innerHTML = `  
-      <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
-      <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
-      <div class="event-details">
-          <div class="event-title">${event.summary.replace(/^\[.*?\]/, '')}</div>
-          <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
-          <div class="event-location">📍 ${event.summary.match(/\[(.*?)\]/)[1]}</div>
-          <br>
-          <div class="event-description">${event.description}</div>
-      </div>
-  `;
+        <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
+        <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+        <div class="event-details">
+            <div class="event-title">${event.summary.replace(/^\[.*?\]/, '')}</div>
+            <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
+            <div class="event-location">📍 ${event.summary.match(/\[(.*?)\]/)[1]}</div>
+            <br>
+            <div class="event-description">${event.description}</div>
+        </div>
+      `;
       eventContainer.appendChild(eventBox);
 
       eventBox.addEventListener('click', (e) => {
@@ -397,6 +419,8 @@ function displayEvents() {
         }
       });
     });
+
+    dayCounter++;
   }
 
   updateWeekNavigation();
