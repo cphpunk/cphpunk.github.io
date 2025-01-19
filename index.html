@@ -12,7 +12,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
     <!-- Open Graph meta tags -->
-    <meta property="og:title" content="Mattia's CPH Calendar for Cool Kids">
+    <meta property="og:title" content="This Week in Copenhagen">
     <meta property="og:description" content="All of the coolest CPH events, in one place ✨">
     <meta property="og:image" content="https://cph.quest/opengraph.png">
     <meta property="og:url" content="https://cph.quest">
@@ -20,26 +20,25 @@
     
     <!-- Twitter Card meta tags (optional, but recommended) -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Mattia's CPH Calendar for Cool Kids">
+    <meta name="twitter:title" content="This Week in Copenhagen">
     <meta name="twitter:description" content="All of the coolest CPH events, in one place ✨">
     <meta name="twitter:image" content="https://cph.quest/opengraph.png">
     
     <link rel="stylesheet" href="styles.css">
     <script src="moment.min.js"></script>
-    <script src="ical.min.js"></script>
 </head>
 
 <body>
     <header class="site-header">
         <div class="header-content">
-            <h1 id="mattias-cph-calendar" class="rainbow-text">📆 MATTIA's CPH CALENDAR FOR COOL KIDS 📆</h1>
+            <h1 id="mattias-cph-calendar" class="rainbow-text">THIS WEEK IN COPENHAGEN</h1>
             <button id="infoButton" class="info-button" style="display: none;"><span>?</span></button>
         </div>
     </header>
 
     <div class="container">
         <div id="loadingSpinner" class="loading-spinner"></div>
-        <div id="tagFilters" class="tag-filters"></div>
+        <!--<div id="tagFilters" class="tag-filters"></div>-->
         <div id="weekNavigation" class="week-navigation" style="display: none;"></div>
         <div id="eventList" class="event-list"></div>
     </div>
@@ -70,10 +69,10 @@
             <p>Love ya all!</p>
             <br>
             <div id="venueList"></div>
-            <div id="venueControls">
+            <!--<div id="venueControls">
                 <button id="enableAllVenues">Enable All</button>
                 <button id="disableAllVenues">Disable All</button>
-            </div>
+            </div>-->
         </div>
     </div>
 

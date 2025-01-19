@@ -1,0 +1,64 @@
+[
+  {
+    "id": "kk-carlo-ahead-musikcafeen",
+    "name": "Carlo Ahead | Musikcaféen",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  With roots in the Nørrebro-Collective, Struglatz, his colourful language and his plethora of technical energy has made\n  <strong>\n   Mund de Carlo\n  </strong>\n  both a unique and persistent voice on the Danish rap scene.\n  <br/>\n  <br/>\n  <strong>\n   Ahead\n  </strong>\n  is an instrumental hip-hop quartet (drums, bass, keys, guitar) that always delivers a show full of life. Inspired by hip-hop traditions from Detroit, New York and L.A., the expression soars from the flying and spherical to the progressive and hard-hitting, and from jazzy coffee loops to dynamic breakbeats. It's him Matias on the drums, Sebastian on the bass, Andreas on the keys, Glen on the guitar and Carlo on the mic. Come along and be hit by something!\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743188400,
+      "end_timestamp": 1743199200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/carlo-ahead-musikcafeen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/BABii%201920%20x%20554.png?itok=6G6FEPmI",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1103765154659536",
+    "name": "FabLab Makers Meetup",
+    "description": "Meet your fellow Makers at FabLab Nordvest last Thursday each month!\n\nThis is an opportunity to meet both new and old community-members, to spar with other members about your projects and to visit FabLab if you're just interested in getting to know the space. \n\nSee you!",
+    "date": {
+      "start_timestamp": 1743098400,
+      "end_timestamp": 1743109200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.709812499999984,
+      "longitude": 12.526937500000017,
+      "bounds_ne_lat": 55.70987499999998,
+      "bounds_ne_lng": 12.527000000000015,
+      "bounds_sw_lat": 55.709749999999985,
+      "bounds_sw_lng": 12.526875000000018,
+      "plus_code_global": "9F7JPG5G+WQ",
+      "plus_code_local": "PG5G+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1103765154659536/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aSsdgTlIMroQ7kNvgFqLAMA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AWsh8bgV4DdG4GhCWuCBRWA&oh=00_AYCAaofgGmtv2fBtV0lmFu8s2zpMiIqbyxlG3cK01Udkiw&oe=67935618",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Fablab Nordvest",
+    "page_url": "https://www.facebook.com/fablabnordvest/events"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "kk-juncker",
+    "name": "Juncker",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Juncker kan skrive overdrevent melankolsk og modløst, men også drømmende, håbefuldt og udforskende - hans tekster er altid spækket med flotte billeder og metaforer og han er aldrig bleg for at eksperimentere og udforske sig selv som kunstner.\n  <br/>\n  Juncker er en utroligt produktiv sangskriver. Med en længere række album i rygsækken, mange fine anmeldelser bag sig, og altid med nyt på tegnebrættet, besidder Juncker en sjælden musikalsk ihærdighed, som bliver ved at udfolde sig.\n  <br/>\n  Juncker brød første gang igennem med hittet ’Mogens og Karen’. Han ramte den danske folkesjæl med teksten om et nabopar, der trods deres tilforladelige navne nærede giftige bær og en gal hund i haven. Det er over 20 år siden, og sangen spilles stadig flittigt i radioen, ligesom mange af hans andre sange også får spilletid.\n  <br/>\n </p>\n <p>\n  Senere har Juncker leveret hele fire titelmelodier til alle sæsoner af nogle af de mest sete, danske TV-programmer i nyere tid - \"Kurs mod fjerne kyster\" med Beha-familien. I 2022 deltog han i Dansk Melodi Grand Prix med sit eget nummer ’Kommet For At Blive’.\n  <br/>\n </p>\n <p>\n  I april 2023 udsendte han det anmelderroste album 'Nattergalen Findes' - et album hvor Juncker har sluppet sig selv fuldstændig fri som sangskriver. Albummet blev modtaget med flere 4 og 5-stjernede anmeldelser og blev bl.a. \"Ugens Album\" på P5. Jyllands-Posten gav 5 stjerner, og skrev bl.a.: ”Det er decideret meningsløst, at denne mand endnu ikke har fået sit kommercielle gennembrud”.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag den 27.9 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 150 kr. + gebyr / 170 kr. i døren\n  <br/>\n  Koncerten er med unummererede siddepladser\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1758996000,
+      "end_timestamp": 1759003200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/juncker",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/Design%20uden%20navn%20%2828%29.png?itok=dALKiKt0",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

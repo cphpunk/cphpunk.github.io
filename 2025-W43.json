@@ -1,0 +1,33 @@
+[
+  {
+    "id": "kk-gasoline",
+    "name": "Gasoline",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Oplev Gasolins sange på ny og bliv både overrasket og berørt over Gasolines versioner. Nogle sange ligger tæt op ad originalerne, mens andre er kommet ind i Gasolines helt eget lydunivers, hvor både fuld skrue, fede korharmonier og delikate arrangementer har plads.\n </p>\n <p>\n  Energien og den gode stemning er i højsædet, som vi kender Gasoline fra deres utallige koncerter rundt om i landet. Der er lagt op til en albumkoncert, hvor vi sammen hylder de fantastiske udødelige sange i selskab med Gasoline.\n </p>\n <h3>\n  Line-up:\n </h3>\n <p>\n  Line Münster-Swendsen – vokal\n  <br/>\n  Birgitte Bjørn – leadguitar &amp; kor\n  <br/>\n  Annette Bork – Bas &amp; kor\n  <br/>\n  Lisbeth Rysgaard – div. guitarer &amp; kor\n  <br/>\n  Ditte Brodde – Trommer &amp; kor\n </p>\n <h3>\n  Praktisk information\n </h3>\n <p>\n  Lørdag den 25. oktober kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncert med ståpladser\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1761415200,
+      "end_timestamp": 1761422400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge, Koncertsalen",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/gasoline",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/464216633_1138020488327181_8898215391127826219_n.jpg?itok=fZnKe5Ts",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

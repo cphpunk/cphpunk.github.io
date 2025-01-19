@@ -1,0 +1,33 @@
+[
+  {
+    "id": "kk-dire-straits-jam",
+    "name": "Dire Straits Jam",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Dire Straits var et af de førende rockbands fra slutningen af halvfjerdserne og op igennem 80’erne med store hits som Sultans of Swing, Walk of Life, Money for Nothing, Brothers in Arms - og mange, mange flere.\n </p>\n <p>\n  Dire Straits Jam har spillet sammen i mere end 15 år og har sat sig som sit fineste mål at give sit publikum den bedste Dire Straits oplevelse - i hvert fald i Danmark. Med stor kompetence og indlevelse spiller Dire straits Jam alle de kendte hits, men også mange andre lækre perler fra Dire Straits lange, glorværdige karriere.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag den 3. maj kl. 21 / Dørene åbner kl. 20.30\n  <br/>\n  Unnumererede siddepladser\n  <br/>\n  Forsalg: 140 kr. + gebyr / Dørsalg: 160 kr.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1746298800,
+      "end_timestamp": 1746304200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/dire-straits-jam",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2021-10/pressefoto.dire_%20%281%29.jpg?itok=keDMUi0w",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "kk-the-ktulu-project-metallica-tribute",
+    "name": "The Ktulu Project - Metallica Tribute",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  The Ktulu Project fremfører Metallicas musik med stor respekt og autenticitet. Energien og fremføringen er tæt op ad de klassiske shows fra heltenes storhedstid med Ride the Lightning, Master of Puppets og Justice for all.\n </p>\n <p>\n  The Ktulu Project:\n  <br/>\n  Vokal: Lars Hørning\n  <br/>\n  Trommer: Nikolaj Nøhr\n  <br/>\n  Rhythm Guitar: Søren Lützow\n  <br/>\n  Bas: Kim Martin Nielsen\n  <br/>\n  Lead Guitar: Mikkel Henriksen\n </p>\n <h3>\n  Praktisk info\n </h3>\n <ul>\n  <li>\n   Fredag den 21. marts 2025\n  </li>\n  <li>\n   Dørene åbner kl. 19.30 / Koncertstart kl. 20\n  </li>\n  <li>\n   I Koncertsalen, Kulturhuset Islands Brygge\n  </li>\n  <li>\n   Forsalg: 100 kr. + gebyr / 120 kr. i døren\n  </li>\n </ul>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1742583600,
+      "end_timestamp": 1742590800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/the-ktulu-project-metallica-tribute",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-06/Design%20uden%20navn%20%2826%29.png?itok=Oq6ktcDq",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-babii-uk-live-xenon",
+    "name": "BABii (UK / Live) | Xenon",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  In the past few years BABii has radically changed the way she writes her captivating, boundary-pushing songs. Daredevil 2000 is a continuation of the writing style she began with 2022 collaborative mixtape Screamer, which saw the producer and vocalist writing from the perspective of her younger sister and their struggle with BPD. On Daredevil 2000 she pushes that conceptual approach even further, taking an abstract look at the idea of evil and projecting it into her own imagined idea of hell. Through this creative exercise, BABii asks challenging questions about what pushes people to transgress while also exploring her personal relationships with those who society deems unwanted or unacceptable.\n </p>\n <p>\n  Across the album, BABii enters something akin to Dante’s Inferno, exploring the origins of violence and criminality and how hell relates to the real world. Each song corresponds to a separate sin and comes with a villainous criminal attached. These include hooligans, gargoyles, goblins, and a Trash Spirit Clown named Tito Von Bricabrac. All exist in the fantastical Nevaworld, a futuristic hellscape that the album exists in.\n </p>\n <p>\n  She gathered producers Warpstr, Samuel Organ, Mun Sing, Iglooghost, and Pholo at Prah Studios in Margate, Kent to finish the album. Reference points in the recording process for Daredevil 2000’s punchy and abrasive sound included Kanye West’s dark masterpiece Yeezus, as well as Jam City and Mumdance. The album touches on classic grime instrumentals, fluorescent bassline, UKG, R&amp;B, and Detroit cybercrime scam rap for influence while sounding utterly unique.\n </p>\n <p>\n  Since her 2019 debut BABii has been consistently championed by everyone from Crack, Mixmag, Dazed, The Observer, The Line of Best Fit, i-D, NPR and on the airwaves by the likes of Tom Ravenscroft, Lauren Laverne and Jamz Supernova on BBC Radio 1, 6 Music, 1Xtra. She’s toured all over the world hitting festivals from Arts Electronica, Boomtown, End of The Road, LEV festival, PC Music’s 10th Anniversary Party and more alongside headline tours in China, USA, UK and EU.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1742583600,
+      "end_timestamp": 1742594400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Xenon",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/babii-uk-live-xenon",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/BABii%201920%20x%20554_1.png?itok=36d8k3cJ",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1569710526987795",
+    "name": "Queer Wellness 🫧mar25🫧",
+    "description": "*** I marts er eventet rykket til d. 22/03 ***\n*** In March the event will be on the 22nd ***\n\nDANSK\nVelkommen til Queer Wellness 💙 Vi byder på badekar, saunagus, afslapning og backgammon i Sjællandsgade Badet for alle queer voksne hen over vinteren og lidt til.\n\nLejlighedsvist har vi cute pop-ups: Førhen har vi haft croquis, massage, Queer Cut, (Un)told og cute DJs på programmet. Vi annoncerer i den pågældende begivenhed, hvis der sker noget særligt 🛁 💿\n\nPRAKTISK\n🫧 Køkultur og først-til-mølle: Der er cirka plads til 50 personer. Dørene lukker, når der er fyldt.  \n🫧 Donationsbaseret entré med sliding scale. Donér, hvad du kan, og hvad du tænker giver mening; alle beløb er helt okay.  \n🫧 Sjællandsgade Badet er ikke niveaufrit.  \n🫧 Husk håndklæde. Du bestemmer selv, hvor på- eller afklædt du vil være.  \n\nHUSREGLER  \n🫧 Queer Wellness er et rum med nøgenhed. Husk: Pronominer og køn kan ikke aflæses fra en krop. Antag ikke andres pronominer eller køn.  \n🫧 Vi lader mobilen blive i tasken. Ingen fotos eller videoer er tilladt.  \n🫧 Vi siger nej til racisme, transfobi, bifobi, femmefobi, homofobi, sexisme, queerfobi osv.  \n🫧 Queer Wellness er et alkohol- og rusmiddelfrit rum.  \n\nLad os sammen skabe et tryggere rum ved at overholde husreglerne. Hvis du oplever, at husreglerne brydes, eller du på nogen måde føler dig utilpas, så tøv ikke med at komme til os, der arrangerer aftenen. Vi er typisk at finde i køkkenet i stuen og ved indgangen.\n\nOM FLINT\nQueer Wellness er drevet af frivillige fra det queerfeministiske initiativ Flint KBH. Vi er nonprofit og har tilhørsforhold i Kvindehuset på Gothersgade 37.\n______________________\nENGLISH\nWelcome to Queer Wellness 💙 We offer bathtubs, sauna, relaxation, and backgammon, in Sjællandsgade Badet, for all queer adults during the winter.\n\nOccasionally, we host cute pop-ups: In the past, we’ve had croquis, massage, Queer Cut, (Un)customs, and cute DJs on the programme. We'll announce in the respective event if something special is happening 🛁 💿\n\nPRACTICAL\n🫧 Queue culture and first-come, first-served: There is space for approximately 50 people. Doors close when full.  \n🫧 Donation-based entrance with a sliding scale. Donate what you can and what you think makes sense. Any amount is fine.  \n🫧 Sjællandsgade Badet is not step-free.  \n🫧 Remember to bring a towel. You decide how dressed or undressed you want to be.  \n\nHOUSE RULES\n🫧 Queer Wellness is a space with nudity. Remember: Pronouns and gender cannot be determined from a body. Do not assume the pronouns or gender of others.  \n🫧 We leave our phones in our bags. No photos or videos are allowed.  \n🫧 We say no to racism, transphobia, biphobia, femmephobia, homophobia, sexism, queerphobia, etc.  \n🫧 Queer Wellness is an alcohol- and drug-free space.  \n\nLet's create a safer space together by following the house rules. If you experience that any of the house rules are being broken or you feel uncomfortable in any way, don't hesitate to come to us, the organisers of the evening. We are typically to be found in the kitchen on the first floor or at the entrance.\n\nABOUT FLINT\nQueer Wellness is run by volunteers from the queer feminist initiative Flint KBH. We are nonprofit and are located in Kvindehuset at Gothersgade 37.",
+    "date": {
+      "start_timestamp": 1742659200,
+      "end_timestamp": 1742673600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Sjællandsgade Bad",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6934375,
+      "longitude": 12.553437500000015,
+      "bounds_ne_lat": 55.6935,
+      "bounds_ne_lng": 12.553500000000014,
+      "bounds_sw_lat": 55.693375,
+      "bounds_sw_lng": 12.553375000000017,
+      "plus_code_global": "9F7JMHV3+99",
+      "plus_code_local": "MHV3+99",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1569710526987795/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/469021218_565606689543992_5904698596149031481_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wAxdyFINfw4Q7kNvgHKoBzm&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A9kC4JITnCX6CEZ39J509-k&oh=00_AYDszhzBBq9Ngw81xbbOnrRfjSLLe7qC1N5xQ6AYjurzPQ&oe=679333F7",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "FLINT kbh",
+    "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "9078305935585393",
+    "name": "Fotomarked med Copenhagen Photo Festival",
+    "description": "Fotomarked med Copenhagen Photo Festival\n\nGå på opdagelse i alskens fotokunst og kuriositeter, og køb værker med hjem. Vi fylder salen med boder med alt fra ‘fundne fotografier’ til kunst- og dokumentarfotografi af etablerede og spirende fotograftalenter. Mød fotograferne i boderne til en snak om værkerne og find ny kunst til væggene derhjemme.\n\nMarkedet er et samarbejde mellem Folkehuset Absalon og Copenhagen Photo Festival.\n\nVIL DU SÆLGE?\nEr du dokumentar- eller kunstfotograf eller samler du på ‘fundne fotografier’, og har du lyst til at sælge ud fra gemmerne, så kan du tilmelde dig senest d. 26. februar her https://copenhagenphotofestival.com/application-photo-print-market/ \nDu kan også læse mere om hvordan du tilmelder dig, ved at gå til siden her https://copenhagenphotofestival.com/photo-print-market/\n\nVi opfordrer til, at man udvælger emner fra ‘bagkataloget’, som fortjener et nyt liv, og at værkerne ligger i en prisklasse, hvor de fleste kan være med – gerne under 1.000 kr. og max 5.000 kr.\nVi glæder os til at se jer!\n———————————————————————-\nEn bod koster 400 kr. for et bord som måler 220x85cm. Der hører stole med til boden.\nOpsætning er mulig fra kl. 8:00 og senest ankomst kl. 9:00. Det er ikke muligt at refundere boden.\n\n\n\n",
+    "date": {
+      "start_timestamp": 1742634000,
+      "end_timestamp": 1742652000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Absalon",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66543749999998,
+      "longitude": 12.550312500000004,
+      "bounds_ne_lat": 55.66549999999998,
+      "bounds_ne_lng": 12.550375000000003,
+      "bounds_sw_lat": 55.66537499999998,
+      "bounds_sw_lng": 12.550250000000005,
+      "plus_code_global": "9F7JMH82+54",
+      "plus_code_local": "MH82+54",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/9078305935585393/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473322803_663769979306476_5865946992225451039_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KNBAbF8jY3AQ7kNvgEl49Dt&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AAgybT1ESC9kV1WKN67v-6l&oh=00_AYAcmNex7HEQ0ogDaeFY5cjGw4S1TovXAhX81VUataLwJA&oe=67934C90",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Photo Festival",
+    "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
+  }
+]

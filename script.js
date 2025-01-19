@@ -1,235 +1,17 @@
-const icsFiles =
-{
-  "KraftWerket.ics": {
-    "url": "https://kraftwerket.kk.dk/en/events",
-    "type": "KK"
-  },
-  "Kulturhuset Islands Brygge.ics": {
-    "url": "https://kulturhusetislandsbrygge.kk.dk/koncerter",
-    "type": "KK"
-  },
-  "Mayhem.ics": {
-    "url": "https://mayhemkbh.dk",
-    "type": "Custom"
-  },
-  "Spillestedet Stengade.ics": {
-    "url": "https://www.facebook.com/spillestedetstengade/events",
-    "type": "Facebook"
-  },
-  "HUSET.ics": {
-    "url": "https://huset.kk.dk/en/events",
-    "type": "KK"
-  },
-  "Villa Kultur.ics": {
-    "url": "https://www.facebook.com/villakultur/events",
-    "type": "Facebook"
-  },
-  "R\u00e5huset.ics": {
-    "url": "https://www.facebook.com/Raahuset/events",
-    "type": "Facebook"
-  },
-  "Mayhem KBH.ics": {
-    "url": "https://www.facebook.com/mayhemkbh/events",
-    "type": "Facebook"
-  },
-  "ALICE cph.ics": {
-    "url": "https://www.facebook.com/alicecphcom/events",
-    "type": "Facebook"
-  },
-  "Musik Loppen.ics": {
-    "url": "https://www.facebook.com/musikloppen/events",
-    "type": "Facebook"
-  },
-  "KoncertKirken.ics": {
-    "url": "https://www.facebook.com/koncertkirken/events",
-    "type": "Facebook"
-  },
-  "RUST.ics": {
-    "url": "https://www.facebook.com/RUSTkbh/events",
-    "type": "Facebook"
-  },
-  "Pumpehuset.ics": {
-    "url": "https://www.facebook.com/Pumpehuset/events/",
-    "type": "Facebook"
-  },
-  "Musikcaf\u00e9en.ics": {
-    "url": "https://www.facebook.com/musikcafeenihuset/events",
-    "type": "Facebook"
-  },
-  "HUSET  (Huset i Magstr\u00e6de).ics": {
-    "url": "https://www.facebook.com/Huset.Koebenhavn/events",
-    "type": "Facebook"
-  },
-  "Basement CPH.ics": {
-    "url": "https://www.facebook.com/BasementKBH/events",
-    "type": "Facebook"
-  },
-  "VEGA.ics": {
-    "url": "https://www.facebook.com/VEGAcph/events",
-    "type": "Facebook"
-  },
-  "Operaen Christiania.ics": {
-    "url": "https://www.facebook.com/operaenscafe/events",
-    "type": "Facebook"
-  },
-  "Punks Undead.ics": {
-    "url": "https://www.facebook.com/PunksUndeadCPH/events",
-    "type": "Facebook"
-  },
-  "Ungdomshuset.ics": {
-    "url": "https://www.facebook.com/UngdomshusetD61/events",
-    "type": "Facebook"
-  },
-  "Radar.ics": {
-    "url": "https://www.facebook.com/radarlive/events",
-    "type": "Facebook"
-  },
-  "DROP INN.ics": {
-    "url": "https://www.facebook.com/dropinnmusic/events",
-    "type": "Facebook"
-  },
-  "Haven CPH.ics": {
-    "url": "https://www.facebook.com/havencph/events",
-    "type": "Facebook"
-  },
-  "Hangaren.ics": {
-    "url": "https://www.facebook.com/HangarenCopenhagen/events",
-    "type": "Facebook"
-  },
-  "Hotel Cecil.ics": {
-    "url": "https://www.facebook.com/hotelcecilcph/events",
-    "type": "Facebook"
-  },
-  "Ukirke.ics": {
-    "url": "https://www.facebook.com/uKirke/events",
-    "type": "Facebook"
-  },
-  "BETA2300.ics": {
-    "url": "https://www.facebook.com/beta2300/events",
-    "type": "Facebook"
-  },
-  "Amager Bio.ics": {
-    "url": "https://www.facebook.com/amagerbio/events",
-    "type": "Facebook"
-  },
-  "Polychrome.ics": {
-    "url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events",
-    "type": "Facebook"
-  },
-  "LiteraturHaus.ics": {
-    "url": "https://www.facebook.com/literaturhauskbh/events",
-    "type": "Facebook"
-  },
-  "Lygtens Kro.ics": {
-    "url": "https://www.facebook.com/lygtenskro/events",
-    "type": "Facebook"
-  },
-  "Klub Werkstatt.ics": {
-    "url": "https://www.facebook.com/klubwerkstatt/events",
-    "type": "Facebook"
-  },
-  "Absalon.ics": {
-    "url": "https://www.facebook.com/absaloncph/events",
-    "type": "Facebook"
-  },
-  "S\u00f8hesten.ics": {
-    "url": "https://www.facebook.com/Sohestenbar/events/",
-    "type": "Facebook"
-  },
-  "Husets Biograf.ics": {
-    "url": "https://www.facebook.com/HusetsBiograf/events",
-    "type": "Facebook"
-  },
-  "Folkets Hus.ics": {
-    "url": "https://www.facebook.com/folketshus50/events",
-    "type": "Facebook"
-  },
-  "St\u00f8dd\u00e6mperen.ics": {
-    "url": "https://www.facebook.com/StoedNV/events",
-    "type": "Facebook"
-  },
-  "Bolsjefabrikken.ics": {
-    "url": "https://www.facebook.com/Bolsjefabrikkerne/events",
-    "type": "Facebook"
-  },
-  "Den Anden Side.ics": {
-    "url": "https://www.facebook.com/KlubDenAndenSide/events",
-    "type": "Facebook"
-  },
-  "CPH ZINE FEST.ics": {
-    "url": "https://www.facebook.com/cphzinefest/events",
-    "type": "Facebook"
-  },
-  "J\u00e6gersborggade.ics": {
-    "url": "https://www.facebook.com/Jaegersborggade/events",
-    "type": "Facebook"
-  },
-  "Next House Copenhagen.ics": {
-    "url": "https://www.facebook.com/nexthousecopenhagen/events",
-    "type": "Facebook"
-  },
-  "Madboks.ics": {
-    "url": "https://www.facebook.com/Madboks/events",
-    "type": "Facebook"
-  },
-  "LGBT+ Medborgerhuset i K\u00f8benhavn.ics": {
-    "url": "https://www.facebook.com/LGBTmedborgerhuset/events",
-    "type": "Facebook"
-  },
-  "Bastard Caf\u00e9 - Board Games & Coffee.ics": {
-    "url": "https://www.facebook.com/BastardCafe/events",
-    "type": "Facebook"
-  },
-  "Empire Bio.ics": {
-    "url": "https://www.facebook.com/empirebio.dk/events",
-    "type": "Facebook"
-  },
-  "MarmeladeCulture.ics": {
-    "url": "https://www.facebook.com/JamCultureMusic/events",
-    "type": "Facebook"
-  },
-  "ICC Theatre - Improv Comedy Copenhagen.ics": {
-    "url": "https://www.facebook.com/improvcomedycph/events",
-    "type": "Facebook"
-  },
-  "B\u00f8ssehuset.ics": {
-    "url": "https://www.facebook.com/boessehuset/events",
-    "type": "Facebook"
-  },
-  "DISTORTION.ics": {
-    "url": "https://www.facebook.com/cphdistortion/events",
-    "type": "Facebook"
-  },
-  "MIX COPENHAGEN.ics": {
-    "url": "https://www.facebook.com/mixcph/events",
-    "type": "Facebook"
-  },
-  "Copenhagen Jazz Festival.ics": {
-    "url": "https://www.facebook.com/cphjazzfestival/events",
-    "type": "Facebook"
-  },
-  "CPH DOX.ics": {
-    "url": "https://www.facebook.com/cphdox/events",
-    "type": "Facebook"
-  },
-  "Copenhagen Short Film Festival.ics": {
-    "url": "https://www.facebook.com/CopenhagenShortFilmFestival/events",
-    "type": "Facebook"
-  },
-  "VOID - International Animation Film Festival.ics": {
-    "url": "https://www.facebook.com/voidfilmfestival/events",
-    "type": "Facebook"
-  }
-}
-
-const EVENT_TAGS = ["MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "THEATRE", "CULTURE", "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"];
+/**
+ * --- CONSTANTS & GLOBALS ---
+ */
+const EVENT_TAGS = [
+  "MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "THEATRE", "CULTURE", 
+  "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"
+];
 
 const TAG_EMOJIS = {
   "MUSIC": "🎵",
   "MOVIE": "🎬",
   "ACTIVISM": "✊",
   "COMMUNITY": "🤝",
-  "THEATRE" : "🎭",
+  "THEATRE": "🎭",
   "CULTURE": "🏛️",
   "LGBTQ+": "🏳️‍🌈",
   "YOGA": "🧘",
@@ -241,53 +23,63 @@ const TAG_EMOJIS = {
   "QUIZ": "🧠"
 };
 
+/** Holds all loaded events (both current and next week). */
 let allEvents = [];
-let currentWeekStart = moment().startOf('week');
 
-let activeFilters = new Set(Object.keys(icsFiles));
+/** Tag filters: by default select all tags. */
 let activeTagFilters = new Set(EVENT_TAGS);
 
-async function fetchICSFile(url) {
-  const response = await fetch(url);
-  const data = await response.text();
-  return data;
-}
+/**
+ * Page name filters: by default we either select all (once data is loaded),
+ * or you can define a subset you want. We'll fill this set in populatePageList().
+ */
+let activePageFilters = new Set();
 
-function parseICSData(icsData, source) {
-  const jcalData = ICAL.parse(icsData);
-  const comp = new ICAL.Component(jcalData);
-  return comp.getAllSubcomponents('vevent').map(vevent => {
-    const event = new ICAL.Event(vevent);
-    return {
-      summary: event.summary,
-      description: event.description,
-      start: event.startDate.toJSDate(),
-      end: event.endDate.toJSDate(),
-      url: vevent.getFirstPropertyValue('url'),
-      location: event.location,
-      imageUrl: vevent.getFirstPropertyValue('x-cover-image-url'),
-      source: source,
-      venueUrl: icsFiles[source].url,
-      venueType: icsFiles[source].type,
-      tag: vevent.getFirstPropertyValue('x-event-tags') || "UNCATEGORIZED"
-    };
-  });
-}
+/** Tracks which week the user is viewing. */
+let currentWeekStart = moment().startOf('week');
 
-//Use to debug things
-function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+/**
+ * --- LOADING & FETCHING ---
+ */
+async function fetchWeekEvents(weekStart) {
+  const weekNumber = weekStart.format('WW').padStart(2, '0');
+  const year = weekStart.format('YYYY');
+  const fileName = `${year}-W${weekNumber}.json`; 
+
+  try {
+    const response = await fetch(fileName);
+    if (!response.ok) {
+      // e.g. if 404, return empty
+      return [];
+    }
+    return await response.json();
+  } catch (error) {
+    console.error('Error loading events:', error);
+    return [];
+  }
 }
 
 async function loadAllEvents() {
   showLoadingSpinner();
-  const promises = Object.entries(icsFiles).map(([file, info]) => {
-    return fetchICSFile(file).then(icsData => parseICSData(icsData, file));
-  });
-  const events = await Promise.all(promises);
-  allEvents = events.flat();
 
-  //await delay(4000); //spinning wheel debug!
+  // Load current + next week
+  const currentWeekEvents = await fetchWeekEvents(currentWeekStart);
+  const nextWeekEvents = await fetchWeekEvents(moment(currentWeekStart).add(1, 'week'));
+
+  // Normalize
+  allEvents = [...currentWeekEvents, ...nextWeekEvents].map(event => ({
+    summary:     event.name,
+    description: event.description,
+    start:       moment.unix(event.date.start_timestamp).toDate(),
+    end:         moment.unix(event.date.end_timestamp).toDate(),
+    url:         event.url,
+    location:    event.location?.name || '',
+    imageUrl:    event.image_url,
+    platform:    event.platform,    // e.g. "Facebook"
+    pageName:    event.page_name,   // e.g. "Madboks"
+    venueUrl:    event.page_url,
+    tag:         event.tag
+  }));
 
   hideLoadingSpinner();
   showInfoButton();
@@ -295,29 +87,20 @@ async function loadAllEvents() {
   displayEvents();
 }
 
-function showInfoButton() {
-  const infoButton = document.getElementById('infoButton');
-  infoButton.style.display = 'block';
-}
-
-function showLoadingSpinner() {
-  const spinner = document.getElementById('loadingSpinner');
-  spinner.style.display = 'block';
-}
-
-function hideLoadingSpinner() {
-  const spinner = document.getElementById('loadingSpinner');
-  spinner.style.display = 'none';
-}
-
+/**
+ * --- WEEK NAVIGATION ---
+ */
 function createWeekNavigation() {
   const weekNavigation = document.getElementById('weekNavigation');
+  if (!weekNavigation) return;
+
   weekNavigation.innerHTML = `
     <button id="prevWeek" class="week-button">←</button>
     <span id="weekDisplay" class="week-display"></span>
     <button id="nextWeek" class="week-button">→</button>
   `;
 
+  // Listeners
   document.getElementById('prevWeek').addEventListener('click', () => {
     currentWeekStart.subtract(1, 'week');
     displayEvents();
@@ -329,85 +112,261 @@ function createWeekNavigation() {
   });
 
   weekNavigation.style.display = 'flex';
+  weekNavigation.style.display = 'none';
 }
 
+function updateWeekNavigation() {
+  const prevWeekBtn = document.getElementById('prevWeek');
+  const nextWeekBtn = document.getElementById('nextWeek');
+  const weekDisplay = document.getElementById('weekDisplay');
+
+  // If it's already the current real-world week, disable "previous" button
+  if (prevWeekBtn) {
+    prevWeekBtn.disabled = currentWeekStart.isSame(moment().startOf('week'));
+  }
+
+  // Check if next week has any events
+  const nextWeekStart = moment(currentWeekStart).add(1, 'week').startOf('week');
+  const nextWeekEnd = moment(nextWeekStart).endOf('week');
+
+  const hasNextWeekEvents = allEvents.some(event =>
+    moment(event.start).isBetween(nextWeekStart, nextWeekEnd, null, '[]') &&
+    //activePageFilters.has(event.pageName) &&
+    activeTagFilters.has(event.tag)
+  );
+
+  if (nextWeekBtn) {
+    nextWeekBtn.disabled = !hasNextWeekEvents;
+  }
+
+  if (weekDisplay) {
+    weekDisplay.textContent = `
+      ${currentWeekStart.format('MMMM D')} 
+      - 
+      ${moment(currentWeekStart).endOf('week').format('MMMM D, YYYY')}
+    `;
+  }
+}
+
+/**
+ * --- RENDER & DISPLAY EVENTS ---
+ */
 function displayEvents() {
   const eventList = document.getElementById('eventList');
+  if (!eventList) return;
   eventList.innerHTML = '';
 
-  let eventStartFilter = (currentWeekStart.isSame(moment().startOf('week'))) ? moment().startOf('day') : currentWeekStart;
+  // If currently the real-world week, start from today; otherwise from Monday
+  const isCurrentRealWeek = currentWeekStart.isSame(moment().startOf('week'));
+  const eventStartFilter = isCurrentRealWeek ? moment().startOf('day') : currentWeekStart;
   const weekEnd = moment(currentWeekStart).endOf('week');
 
+  // Use a Set to prevent duplicates
   const filteredSummaries = new Set();
 
+  // Filter events by date, by pageName, by tag
   const eventsThisWeek = allEvents.filter(event => {
     if (filteredSummaries.has(event.summary)) return false;
 
     const isValidDate = moment(event.start).isBetween(eventStartFilter, weekEnd, null, '[]');
-    const isValidSource = activeFilters.has(event.source);
-    const isValidTag = activeTagFilters.has(event.tag);
+    const isValidPage = true;//activePageFilters.has(event.pageName);
+    const isValidTag  = activeTagFilters.has(event.tag);
 
-    if (isValidDate && isValidSource && isValidTag) {
+    if (isValidDate && isValidPage && isValidTag) {
       filteredSummaries.add(event.summary);
+      return true;
     }
-
-    return isValidDate && isValidSource && isValidTag;
+    return false;
   });
 
+  // Sort by start
   eventsThisWeek.sort((a, b) => a.start - b.start);
 
+  // Group by day
   const groupedEvents = eventsThisWeek.reduce((groups, event) => {
-    const date = moment(event.start).format('MMMM D, YYYY');
-    if (!groups[date]) {
-      groups[date] = [];
-    }
-    groups[date].push(event);
+    const dayKey = moment(event.start).format('MMMM D, YYYY');
+    groups[dayKey] = groups[dayKey] || [];
+    groups[dayKey].push(event);
     return groups;
   }, {});
 
-  for (const [date, events] of Object.entries(groupedEvents)) {
+  // Render
+  Object.entries(groupedEvents).forEach(([date, events]) => {
     const dateDivider = document.createElement('div');
     dateDivider.className = 'event-day-divider';
     dateDivider.setAttribute('data-date', date);
-    eventList.appendChild(dateDivider);
 
     const eventContainer = document.createElement('div');
     eventContainer.className = 'event-day-container';
+
     dateDivider.appendChild(eventContainer);
+    eventList.appendChild(dateDivider);
 
     events.forEach(event => {
       const eventBox = document.createElement('div');
       eventBox.className = 'event-box';
-      eventBox.innerHTML = `  
-      <img src="${event.imageUrl || '/api/placeholder/300/200'}" loading="lazy" alt="${event.summary}" class="event-image">
-      <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
-      <div class="event-details">
-          <div class="event-title">${event.summary.replace(/^\[.*?\]/, '')}</div>
-          <div class="event-date">${moment(event.start).format('MMMM D, YYYY - h:mm A')}</div>
-          <div class="event-location">📍 ${event.summary.match(/\[(.*?)\]/)[1]}</div>
+      eventBox.innerHTML = `
+        <img
+          src="${event.imageUrl || '/api/placeholder/300/200'}"
+          loading="lazy"
+          alt="${event.summary}"
+          class="event-image"
+        />
+        <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+        <div class="event-details">
+          <div class="event-title">${event.summary}</div>
+          <div class="event-date">
+            📆 ${moment(event.start).format('MMMM D, YYYY - h:mm A')}
+          </div>
+          <div class="event-location">
+            📍 ${event.location || 'Not specified'}
+          </div>
           <br>
-          <div class="event-description">${event.description}</div>
-      </div>
-  `;
-      eventContainer.appendChild(eventBox);
+        </div>
+      `;
 
+      // Modal on click
       eventBox.addEventListener('click', (e) => {
         if (!e.target.closest('.event-link')) {
           showEventDetails(event);
         }
       });
+
+      eventContainer.appendChild(eventBox);
     });
-  }
+  });
 
   updateWeekNavigation();
 }
 
+/**
+ * --- PAGE-NAME FILTER LIST ---
+ */
+function populatePageList() {
+  const pageList = document.getElementById('venueList');
+  return;
+  if (!pageList) return;
+  pageList.innerHTML = '';
+
+  /**
+   * The idea: gather unique `pageName` from all events,
+   * and show them in a user-friendly list with checkboxes.
+   */
+  const uniquePages = new Set(allEvents.map(e => e.pageName).filter(Boolean));
+
+  // Sort them for consistent display
+  const sortedPages = Array.from(uniquePages).sort();
+
+  // If you want to "default" enable all, fill activePageFilters with everything
+  // after we've identified them.
+  if (activePageFilters.size === 0) {
+    sortedPages.forEach(pageName => activePageFilters.add(pageName));
+  }
+
+  // Build a checkbox for each page
+  sortedPages.forEach(pageName => {
+    const item = document.createElement('div');
+    item.className = 'page-item';
+
+    // We can’t know the URLs for pages unless we stored them. If you want a link, you can store it.
+    // For now, we’ll just display the pageName text.
+    item.innerHTML = `
+      <span>${pageName}</span>
+      <label class="page-toggle">
+        <input type="checkbox" name="${pageName}" ${activePageFilters.has(pageName) ? 'checked' : ''}>
+        <span class="slider"></span>
+      </label>
+    `;
+
+    const checkbox = item.querySelector('input');
+    checkbox.addEventListener('change', (e) => {
+      if (e.target.checked) {
+        activePageFilters.add(pageName);
+      } else {
+        activePageFilters.delete(pageName);
+      }
+      displayEvents();
+    });
+
+    pageList.appendChild(item);
+  });
+}
+
+/**
+ * --- MODALS & UTILITIES ---
+ */
+function showEventDetails(event) {
+  // Ensure the URL opens in a new tab if it exists
+  if (event.url) {
+    window.open(event.url, '_blank');
+    return;
+  }
+
+
+  const modal = document.getElementById('eventModal');
+  if (!modal) return;
+
+  const modalImage       = document.getElementById('modalImage');
+  const modalTitle       = document.getElementById('modalTitle');
+  const modalDate        = document.getElementById('modalDate');
+  const modalLocation    = document.getElementById('modalLocation');
+  const modalDescription = document.getElementById('modalDescription');
+  const modalLink        = document.getElementById('modalLink');
+  const addToCalendarBtn = document.getElementById('addToCalendar');
+  const modalTag         = document.getElementById('modalTag');
+
+  modalImage.src = event.imageUrl || '/api/placeholder/600/300';
+  modalImage.alt = event.summary;
+  modalTitle.textContent = event.summary;
+  modalDate.textContent = `
+    ${moment(event.start).format('MMMM D, YYYY - h:mm A')} 
+    to 
+    ${moment(event.end).format('h:mm A')}
+  `;
+  modalTag.textContent = event.tag || '';
+
+  if (event.location) {
+    modalLocation.innerHTML = `<a href="http://maps.google.com/?q=${event.location}" 
+                                 target="_blank">📍 ${event.location}</a>`;
+  } else {
+    modalLocation.textContent = 'Location not specified';
+  }
+
+  // Turn any URLs in the description into clickable links
+  const safeDescription = event.description.replace(/(https?:\/\/[^\s]+)/g, (match) => {
+    return `<a href="${match}" target="_blank">${match}</a>`;
+  });
+  modalDescription.innerHTML = safeDescription;
+
+  // If the event has a main URL
+  if (event.url) {
+    modalLink.href = event.url;
+  } else {
+    modalLink.removeAttribute('href');
+  }
+
+  // "Add to Calendar" functionality
+  addToCalendarBtn.onclick = () => addToCalendar(event);
+
+  modal.style.display = 'block';
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  const modal = document.getElementById('eventModal');
+  if (!modal) return;
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+}
+
 function addToCalendar(event) {
   const startTime = moment(event.start).format('YYYYMMDDTHHmmss');
-  const endTime = moment(event.end).format('YYYYMMDDTHHmmss');
+  const endTime   = moment(event.end).format('YYYYMMDDTHHmmss');
+
   const googleCalendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(event.summary)}&dates=${startTime}/${endTime}&details=${encodeURIComponent(event.description)}&location=${encodeURIComponent(event.location || '')}&sprop=&sprop=name:&sprop=X-EVENT-TAGS:${event.tag}`;
 
-  const appleCalendarUrl = `data:text/calendar;charset=utf8,BEGIN:VCALENDAR
+  const appleCalendarICS = `
+BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
 URL:${event.url}
@@ -418,8 +377,12 @@ DESCRIPTION:${event.description}
 LOCATION:${event.location || ''}
 X-EVENT-TAGS:${event.tag}
 END:VEVENT
-END:VCALENDAR`;
+END:VCALENDAR
+  `.trim();
 
+  const appleCalendarUrl = `data:text/calendar;charset=utf8,${encodeURIComponent(appleCalendarICS)}`;
+
+  // Simple modal to show two links
   const modal = document.createElement('div');
   modal.style.position = 'fixed';
   modal.style.left = '0';
@@ -436,76 +399,170 @@ END:VCALENDAR`;
   content.style.padding = '20px';
   content.style.borderRadius = '10px';
   content.innerHTML = `
-        <h3>Add to Calendar</h3>
-        <p><a href="${googleCalendarUrl}" target="_blank">Add to Google Calendar</a></p>
-        <p><a href="${appleCalendarUrl}" download="event.ics">Add to Apple Calendar</a></p>
-        <button id="closeModal">Close</button>
-    `;
+    <h3>Add to Calendar</h3>
+    <p><a href="${googleCalendarUrl}" target="_blank">Add to Google Calendar</a></p>
+    <p><a href="${appleCalendarUrl}" download="event.ics">Add to Apple Calendar</a></p>
+    <button id="closeCalendarModal">Close</button>
+  `;
 
   modal.appendChild(content);
   document.body.appendChild(modal);
 
-  document.getElementById('closeModal').onclick = () => {
+  document.getElementById('closeCalendarModal').onclick = (e) => {
+    e.stopPropagation();
     document.body.removeChild(modal);
-    event.stopPropagation();
   };
 }
 
-function updateWeekNavigation() {
-  const prevWeekBtn = document.getElementById('prevWeek');
-  const nextWeekBtn = document.getElementById('nextWeek');
-  const weekDisplay = document.getElementById('weekDisplay');
-
-  prevWeekBtn.disabled = currentWeekStart.isSame(moment().startOf('week'));
-
-  const nextWeekStart = moment(currentWeekStart).add(1, 'week').startOf('week');
-  const nextWeekEnd = moment(nextWeekStart).endOf('week');
-  const hasNextWeekEvents = allEvents.some(event =>
-    moment(event.start).isBetween(nextWeekStart, nextWeekEnd, null, '[]') &&
-    activeFilters.has(event.source) &&
-    activeTagFilters.has(event.tag)
-  );
-
-  nextWeekBtn.disabled = !hasNextWeekEvents;
-
-  weekDisplay.textContent = `${currentWeekStart.format('MMMM D')} - ${moment(currentWeekStart).endOf('week').format('MMMM D, YYYY')}`;
+function showLoadingSpinner() {
+  const spinner = document.getElementById('loadingSpinner');
+  if (spinner) spinner.style.display = 'block';
 }
 
+function hideLoadingSpinner() {
+  const spinner = document.getElementById('loadingSpinner');
+  if (spinner) spinner.style.display = 'none';
+}
+
+function showInfoButton() {
+  const infoButton = document.getElementById('infoButton');
+  if (infoButton) infoButton.style.display = 'block';
+}
+
+/**
+ * --- REGISTER MISC. EVENTS (BUTTONS, MODALS, ETC.) ---
+ */
+function registerEvents() {
+  // Info Modal
+  const infoButton = document.getElementById('infoButton');
+  const infoModal  = document.getElementById('infoModal');
+  if (infoButton && infoModal) {
+    const infoCloseButton = infoModal.querySelector('.close');
+    const infoModalContent = infoModal.querySelector('.modal-content');
+
+    infoButton.addEventListener('click', () => {
+      infoModal.style.display = 'block';
+      document.body.style.overflow = 'hidden';
+    });
+
+    if (infoCloseButton) {
+      infoCloseButton.addEventListener('click', () => {
+        infoModal.style.display = 'none';
+        document.body.style.overflow = '';
+      });
+    }
+
+    // Close on outside click
+    window.addEventListener('click', (e) => {
+      if (e.target === infoModal) {
+        infoModal.style.display = 'none';
+        document.body.style.overflow = '';
+      }
+    });
+
+    // iOS fix for outside touch
+    infoModal.addEventListener('touchend', (event) => {
+      if (event.target === infoModal) {
+        event.preventDefault();
+        event.stopPropagation();
+        infoModal.style.display = 'none';
+        document.body.style.overflow = '';
+      }
+    }, { passive: false });
+
+    // Prevent scroll inside the modal content
+    if (infoModalContent) {
+      infoModalContent.addEventListener('touchmove', function (event) {
+        event.stopPropagation();
+      }, { passive: false });
+    }
+  }
+
+  // Event Modal
+  const eventModal = document.getElementById('eventModal');
+  if (eventModal) {
+    const eventCloseBtn = eventModal.querySelector('.close');
+    const modalContent  = eventModal.querySelector('.modal-content');
+
+    if (eventCloseBtn) {
+      eventCloseBtn.addEventListener('click', closeModal);
+    }
+
+    // Close on outside click
+    eventModal.addEventListener('click', (event) => {
+      if (event.target === eventModal) {
+        event.preventDefault();
+        event.stopPropagation();
+        closeModal();
+      }
+    });
+
+    // iOS fix
+    eventModal.addEventListener('touchend', (event) => {
+      if (event.target === eventModal) {
+        event.preventDefault();
+        event.stopPropagation();
+        closeModal();
+      }
+    }, { passive: false });
+
+    // Prevent scrolling on modal content
+    if (modalContent) {
+      modalContent.addEventListener('touchmove', function (event) {
+        event.stopPropagation();
+      }, { passive: false });
+    }
+  }
+}
+
+/**
+ * --- MAIN ENTRY POINT ---
+ */
+document.addEventListener('DOMContentLoaded', async function () {
+  await loadAllEvents();
+  createFilterToggles();  // For TAG filtering
+  populatePageList();     // For PAGE_NAME filtering
+  registerEvents();
+});
+
+
+/**
+ * --- TAG FILTERS (unchanged except for references) ---
+ */
 function createFilterToggles() {
   const tagFilters = document.getElementById('tagFilters');
-
   if (!tagFilters) {
     console.error('Tag filters container not found!');
     return;
   }
 
   tagFilters.innerHTML = '';
-
-  // Create filter container
   const filterContainer = document.createElement('div');
   filterContainer.className = 'filter-container';
   tagFilters.appendChild(filterContainer);
 
-  // Add filter toggle button
+  // Toggle button
   const filterToggle = document.createElement('button');
   filterToggle.className = 'filter-toggle';
   filterToggle.innerHTML = '<span>WANT FILTERS, KIDDO?</span>';
+  filterToggle.style.display = 'none';
+  filterToggle.style.margin = '0';
+  filterToggle.style.padding = '0';
   filterToggle.addEventListener('click', toggleFilters);
   filterContainer.appendChild(filterToggle);
 
-  // Create tag filters container
+  // The hidden area for tag buttons
+  /*
   const tagFiltersContainer = document.createElement('div');
   tagFiltersContainer.className = 'tag-filters';
   tagFiltersContainer.style.display = 'none';
-  filterContainer.appendChild(tagFiltersContainer);
+  filterContainer.appendChild(tagFiltersContainer);*/
 
-  //const savedTags = getCookie('activeTags');
-  //if (savedTags) {
-  //  activeTagFilters = new Set(JSON.parse(savedTags));
-  //}
-  //else {
-  activeTagFilters = new Set(EVENT_TAGS);
-  //}
+  // (Optional) read from cookies:
+  // const savedTags = getCookie('activeTags');
+  // if (savedTags) {
+  //   activeTagFilters = new Set(JSON.parse(savedTags));
+  // }
 
   EVENT_TAGS.forEach(tag => {
     const button = document.createElement('button');
@@ -544,28 +601,24 @@ function createFilterToggles() {
 
 function toggleFilters() {
   const filterContainer = document.querySelector('.filter-container');
+  if (!filterContainer) return;
+
   const filterToggle = filterContainer.querySelector('.filter-toggle');
   const tagFiltersContainer = filterContainer.querySelector('.tag-filters');
 
-  // Immediately remove the toggle button
   filterToggle.remove();
-
-  // Show the tag filters container
   tagFiltersContainer.style.display = 'flex';
 
-  // Get the center position of the container
+  // Animate in
+  const buttons = tagFiltersContainer.querySelectorAll('.tag-button');
   const containerRect = tagFiltersContainer.getBoundingClientRect();
   const centerX = containerRect.width / 2;
   const centerY = containerRect.height / 2;
 
-  // Animate the appearance of each filter button
-  const buttons = tagFiltersContainer.querySelectorAll('.tag-button');
   buttons.forEach((button, index) => {
-    // Set initial position to the center of the container
     button.style.position = 'absolute';
     button.style.left = `${centerX}px`;
     button.style.top = `${centerY}px`;
-
     setTimeout(() => {
       button.style.opacity = '1';
       button.style.transform = 'scale(1)';
@@ -595,233 +648,10 @@ function getCookie(name) {
   const nameEQ = name + "=";
   const ca = document.cookie.split(';');
   for (let i = 0; i < ca.length; i++) {
-    let c = ca[i];
-    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    let c = ca[i].trim();
+    if (c.indexOf(nameEQ) === 0) {
+      return c.substring(nameEQ.length, c.length);
+    }
   }
   return null;
 }
-
-function showEventDetails(event) {
-  const modal = document.getElementById('eventModal');
-  const modalImage = document.getElementById('modalImage');
-  const modalTitle = document.getElementById('modalTitle');
-  const modalDate = document.getElementById('modalDate');
-  const modalLocation = document.getElementById('modalLocation');
-  const modalDescription = document.getElementById('modalDescription');
-  const modalLink = document.getElementById('modalLink');
-  const addToCalendarBtn = document.getElementById('addToCalendar');
-  const modalTag = document.getElementById('modalTag');
-
-  modalImage.src = event.imageUrl || '/api/placeholder/600/300';
-  modalImage.alt = event.summary;
-  modalTitle.textContent = event.summary;
-  modalDate.textContent = `${moment(event.start).format('MMMM D, YYYY - h:mm A')} to ${moment(event.end).format('h:mm A')}`;
-  modalTag.textContent = event.tag;
-
-  if (event.location) {
-    modalLocation.innerHTML = '<a href="http://maps.google.com/?q=' + event.location + '" target="_blank">' + "📍" + event.location + "</a>";
-  } else {
-    modalLocation.textContent = 'Location not specified';
-  }
-
-  let description = event.description.replace(/(https?:\/\/[^\s]+)/g, (match) => {
-    return `<a href="${match}" target="_blank">${match}</a>`;
-  });
-
-  modalDescription.innerHTML = description;
-  modalLink.href = event.url;
-  addToCalendarBtn.onclick = () => addToCalendar(event);
-
-  modal.style.display = 'block';
-  document.body.style.overflow = 'hidden';
-}
-
-function closeModal() {
-  const modal = document.getElementById('eventModal');
-  modal.style.display = 'none';
-  document.body.style.overflow = '';
-  document.body.style.position = '';
-  document.body.style.width = '';
-}
-
-function registerEvents() {
-  // Add event listeners for Enable All and Disable All buttons
-  document.getElementById('enableAllVenues').addEventListener('click', () => {
-    document.querySelectorAll('#venueList input[type="checkbox"]').forEach(checkbox => {
-      checkbox.checked = true;
-      activeFilters.add(checkbox.name);
-    });
-    displayEvents();
-  });
-
-  document.getElementById('disableAllVenues').addEventListener('click', () => {
-    document.querySelectorAll('#venueList input[type="checkbox"]').forEach(checkbox => {
-      checkbox.checked = false;
-      activeFilters.delete(checkbox.name);
-    });
-    displayEvents();
-  });
-
-  // Info Modal functionality
-  const infoButton = document.getElementById('infoButton');
-  const infoModal = document.getElementById('infoModal');
-  const infoCloseButton = infoModal.querySelector('.close');
-  const infoModalContent = infoModal.querySelector('.modal-content');
-
-  infoButton.addEventListener('click', () => {
-    infoModal.style.display = 'block';
-    document.body.style.overflow = 'hidden';
-  });
-
-  infoCloseButton.addEventListener('click', () => {
-    infoModal.style.display = 'none';
-    document.body.style.overflow = '';
-  });
-
-  // Close info modal when clicking outside
-  window.addEventListener('click', (event) => {
-    if (event.target === infoModal) {
-      infoModal.style.display = 'none';
-      document.body.style.overflow = '';
-    }
-  });
-
-  // Add touch event for closing info modal on iOS
-  infoModal.addEventListener('touchend', function (event) {
-    if (event.target === infoModal) {
-      event.preventDefault();
-      event.stopPropagation();
-      infoModal.style.display = 'none';
-      document.body.style.overflow = '';
-    }
-  }, { passive: false });
-
-  // Prevent scrolling on the info modal content for iOS
-  if (infoModalContent) {
-    infoModalContent.addEventListener('touchmove', function (event) {
-      event.stopPropagation();
-    }, { passive: false });
-  }
-
-  // Event Modal functionality
-  const eventModal = document.getElementById('eventModal');
-  const eventCloseBtn = eventModal.querySelector('.close');
-  const modalContent = eventModal.querySelector('.modal-content');
-
-  eventCloseBtn.addEventListener('click', closeModal);
-
-  // Updated event listener for click/touch outside modal
-  eventModal.addEventListener('click', function (event) {
-    if (event.target === eventModal) {
-      event.preventDefault();
-      event.stopPropagation();
-      closeModal();
-    }
-  });
-
-  // Specific touch event handler for iOS devices
-  eventModal.addEventListener('touchend', function (event) {
-    if (event.target === eventModal) {
-      event.preventDefault();
-      event.stopPropagation();
-      closeModal();
-    }
-  }, { passive: false });
-
-  // Prevent scrolling on the modal content
-  if (modalContent) {
-    modalContent.addEventListener('touchmove', function (event) {
-      event.stopPropagation();
-    }, { passive: false });
-  }
-
-  // Close info modal when clicking outside
-  window.addEventListener('click', (event) => {
-    if (event.target === infoModal) {
-      infoModal.style.display = 'none';
-      document.body.style.overflow = '';
-    }
-  });
-
-  // Week navigation
-  document.getElementById('prevWeek').addEventListener('click', () => {
-    currentWeekStart.subtract(1, 'week');
-    displayEvents();
-  });
-
-  document.getElementById('nextWeek').addEventListener('click', () => {
-    currentWeekStart.add(1, 'week');
-    displayEvents();
-  });
-}
-
-// Populate venue list
-function populateVenueList() {
-  venueList.innerHTML = '';
-
-  const venueTypes = {
-    'Facebook': [],
-    'København Kommune': [],
-    'Custom Scraper': []
-  };
-
-  // Group venues by type
-  Object.entries(icsFiles).forEach(([venue, info]) => {
-    const venueName = venue.replace('.ics', '');
-    const venueInfo = { name: venueName, url: info.url };
-
-    if (info.type === 'Facebook') {
-      venueTypes['Facebook'].push(venueInfo);
-    } else if (info.type === 'KK') {
-      venueTypes['København Kommune'].push(venueInfo);
-    } else {
-      venueTypes['Custom Scraper'].push(venueInfo);
-    }
-  });
-
-  // Sort venues within each type and create DOM elements
-  Object.entries(venueTypes).forEach(([type, venues]) => {
-    if (venues.length > 0) {
-      const typeSection = document.createElement('div');
-      typeSection.className = 'venue-type-section';
-      typeSection.innerHTML = `<h4>${type} Venues</h4>`;
-
-      // Sort venues alphabetically
-      venues.sort((a, b) => a.name.localeCompare(b.name));
-
-      venues.forEach(venue => {
-        const venueItem = document.createElement('div');
-        venueItem.className = 'venue-item';
-        venueItem.innerHTML = `
-          <a href="${venue.url}" target="_blank">${venue.name}</a>
-          <label class="venue-toggle">
-            <input type="checkbox" name="${venue.name}.ics" ${activeFilters.has(venue.name + '.ics') ? 'checked' : ''}>
-            <span class="slider"></span>
-          </label>
-        `;
-
-        const checkbox = venueItem.querySelector('input');
-        checkbox.addEventListener('change', (e) => {
-          if (e.target.checked) {
-            activeFilters.add(e.target.name);
-          } else {
-            activeFilters.delete(e.target.name);
-          }
-          displayEvents();
-        });
-
-        typeSection.appendChild(venueItem);
-      });
-
-      venueList.appendChild(typeSection);
-    }
-  });
-}
-
-document.addEventListener('DOMContentLoaded', async function () {
-  await loadAllEvents();
-  createFilterToggles();
-  populateVenueList();
-  registerEvents();
-});
