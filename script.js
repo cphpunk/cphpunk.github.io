@@ -36,7 +36,7 @@ let activeTagFilters = new Set(EVENT_TAGS);
 let activePageFilters = new Set();
 
 /** Tracks which week the user is viewing. */
-let currentWeekStart = moment().startOf('week');
+let currentWeekStart = moment(); //.startOf('week'); We now start the week from today
 
 /**
  * --- LOADING & FETCHING ---
@@ -63,8 +63,8 @@ async function loadAllEvents() {
   showLoadingSpinner();
 
   // Load current + next week
-  const currentWeekEvents = await fetchWeekEvents(currentWeekStart);
-  const nextWeekEvents = await fetchWeekEvents(moment(currentWeekStart).add(1, 'week'));
+  const currentWeekEvents = await fetchWeekEvents(moment());
+  const nextWeekEvents = await fetchWeekEvents(moment().add(1, 'week'));
 
   // Normalize
   allEvents = [...currentWeekEvents, ...nextWeekEvents].map(event => ({
@@ -157,9 +157,9 @@ function displayEvents() {
   eventList.innerHTML = '';
 
   // If currently the real-world week, start from today; otherwise from Monday
-  const isCurrentRealWeek = currentWeekStart.isSame(moment().startOf('week'));
-  const eventStartFilter = isCurrentRealWeek ? moment().startOf('day') : currentWeekStart;
-  const weekEnd = moment(currentWeekStart).endOf('week');
+  //const isCurrentRealWeek = currentWeekStart.isSame(moment().startOf('week'));
+  const eventStartFilter = moment(); // isCurrentRealWeek ? moment().startOf('day') : currentWeekStart;
+  const weekEnd = moment().add(1, 'week'); // moment(currentWeekStart).endOf('week');
 
   // Use a Set to prevent duplicates
   const filteredSummaries = new Set();
@@ -194,7 +194,7 @@ function displayEvents() {
   Object.entries(groupedEvents).forEach(([date, events]) => {
     const dateDivider = document.createElement('div');
     dateDivider.className = 'event-day-divider';
-    dateDivider.setAttribute('data-date', date);
+    dateDivider.setAttribute('data-date', moment(date).format("dddd, MMMM D"));
 
     const eventContainer = document.createElement('div');
     eventContainer.className = 'event-day-container';
@@ -202,6 +202,7 @@ function displayEvents() {
     dateDivider.appendChild(eventContainer);
     eventList.appendChild(dateDivider);
 
+     //${moment(event.start).format('MMMM D, YYYY - h:mm A')}
     events.forEach(event => {
       const eventBox = document.createElement('div');
       eventBox.className = 'event-box';
@@ -216,10 +217,10 @@ function displayEvents() {
         <div class="event-details">
           <div class="event-title">${event.summary}</div>
           <div class="event-date">
-            📆 ${moment(event.start).format('MMMM D, YYYY - h:mm A')}
+            📆 ${moment(event.start).format('h:mm A')}
           </div>
           <div class="event-location">
-            📍 ${event.location || 'Not specified'}
+            📍 ${event.pageName || 'Not specified'}
           </div>
           <br>
         </div>
@@ -530,6 +531,7 @@ document.addEventListener('DOMContentLoaded', async function () {
  * --- TAG FILTERS (unchanged except for references) ---
  */
 function createFilterToggles() {
+  return;
   const tagFilters = document.getElementById('tagFilters');
   if (!tagFilters) {
     console.error('Tag filters container not found!');
