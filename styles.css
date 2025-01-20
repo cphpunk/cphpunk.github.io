@@ -452,7 +452,7 @@ input:checked+.slider:before {
     font-family: "Roboto Condensed", serif;
     font-style: normal; 
     color: #333;
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: bold;
     margin-bottom: 10px;
 }
