@@ -19,6 +19,15 @@
     }
 }
 
+.roboto-condensed-title {
+    font-family: "Roboto Condensed", serif;
+    font-optical-sizing: auto;
+    font-weight: 700; /* Adjust weight between 100 and 900 */
+    font-style: normal; /* Set to italic if needed */
+    letter-spacing: 1px; /* Optional: customize spacing */
+    text-transform: uppercase; /* Optional: make text uppercase */
+}
+
 .site-header {
     background-color: white;
     padding: 10px 0;
@@ -399,7 +408,9 @@ input:checked+.slider:before {
     margin: 20px 0;
     position: relative;
     text-align: center;
-    font-weight: bold;
+    font-family: "Roboto Condensed", serif;
+    font-style: normal; 
+    font-weight: normal;
     padding-top: 10px;
     margin-top: 50px;
 }
@@ -438,7 +449,10 @@ input:checked+.slider:before {
 
 
 .event-title {
-    font-size: 1.2em;
+    font-family: "Roboto Condensed", serif;
+    font-style: normal; 
+    color: #333;
+    font-size: 1em;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -484,6 +498,8 @@ input:checked+.slider:before {
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 0%;
+    font-family: "Roboto Condensed", serif;
+    font-style: bolder; 
     font-size: .6m;
     font-weight: bold;
     color: white;
