@@ -449,7 +449,7 @@ input:checked+.slider:before {
 
 
 .event-title {
-    font-family: "Roboto", serif;
+    font-family: "Roboto Condensed", serif;
     font-style: normal; 
     color: #333;
     font-size: 1em;
