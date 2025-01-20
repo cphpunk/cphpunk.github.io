@@ -449,7 +449,7 @@ input:checked+.slider:before {
 
 
 .event-title {
-    font-family: "Roboto Condensed", serif;
+    font-family: "Roboto", serif;
     font-style: normal; 
     color: #333;
     font-size: 1em;
@@ -901,6 +901,9 @@ input:checked+.slider:before {
 /* Add emoji to event tags */
 .event-tag::before {
     margin-right: 4px;
+    margin-bottom: 2px;
+    vertical-align: middle;
+    display: inline-block;
 }
 
 .event-tag[data-tag="MUSIC"]::before {
