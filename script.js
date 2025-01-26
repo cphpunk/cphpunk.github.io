@@ -1,6 +1,7 @@
-/**
- * --- CONSTANTS & GLOBALS ---
- */
+/*
+* These tags are assigned when the event is scraped by using OpenAI's small embedding model.
+* There will be obvious mistakes here and there but that's to be expected.
+*/
 const EVENT_TAGS = [
   "MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "THEATRE", "CULTURE", 
   "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"
@@ -23,7 +24,7 @@ const TAG_EMOJIS = {
   "QUIZ": "🧠"
 };
 
-/** Holds all loaded events (both current and next week). */
+/** Holds all loaded events from today to 7 days from now */
 let allEvents = [];
 
 /** Tag filters: by default select all tags. */
@@ -54,7 +55,7 @@ function updateFilterIndicator() {
     if (!infoButton) return;
     
     // Get all unique venues from current events
-    const availableVenues = new Set(allEvents.map(e => e.pageName).filter(Boolean));
+    const availableVenues = new Set(allEvents.map(e => e.venue).filter(Boolean));
     
     // Check if all available venues are enabled (default state)
     // A filter is active if we have fewer venues enabled than are available
@@ -98,51 +99,110 @@ async function loadAllEvents() {
   // Track summaries by date to detect duplicates
   const seenSummariesByDate = new Map(); // date string -> Set of summaries
 
-  // Normalize and filter duplicates
-  allEvents = [...currentWeekEvents, ...nextWeekEvents]
-    .map(event => {
+  function levenshteinDistance(str1, str2) {
+    const matrix = Array(str2.length + 1).fill().map(() => 
+        Array(str1.length + 1).fill(0)
+    );
+    
+    for (let i = 0; i <= str1.length; i++) matrix[0][i] = i;
+    for (let j = 0; j <= str2.length; j++) matrix[j][0] = j;
+    
+    for (let j = 1; j <= str2.length; j++) {
+        for (let i = 1; i <= str1.length; i++) {
+            const cost = str1[i-1] === str2[j-1] ? 0 : 1;
+            matrix[j][i] = Math.min(
+                matrix[j-1][i] + 1,
+                matrix[j][i-1] + 1,
+                matrix[j-1][i-1] + cost
+            );
+        }
+    }
+    return matrix[str2.length][str1.length];
+  }
+
+  function getSimilarity(str1, str2) {
+      const maxLength = Math.max(str1.length, str2.length);
+      const distance = levenshteinDistance(str1, str2);
+      return 1 - (distance / maxLength);
+  }
+
+  function normalizeString(str) {
+    return str
+        .toLowerCase()
+        .replace(/[★*]/g, '')
+        .trim();
+}
+
+allEvents = [...currentWeekEvents, ...nextWeekEvents]
+  .map(event => {
       const eventDate = moment.unix(event.date.start_timestamp).format('YYYY-MM-DD');
-      const summary = event.name;
+      const name = event.name;
 
       // Initialize set for this date if it doesn't exist
       if (!seenSummariesByDate.has(eventDate)) {
-        seenSummariesByDate.set(eventDate, new Set());
+          seenSummariesByDate.set(eventDate, new Map()); // Changed to Map to store full event info
       }
 
-      // Check if any existing summary contains this one
-      const dateSet = seenSummariesByDate.get(eventDate);
-      const isDuplicate = Array.from(dateSet).some(existingSummary => 
-        existingSummary.toLowerCase().includes(summary.toLowerCase()) || 
-        summary.toLowerCase().includes(existingSummary.toLowerCase())
-      );
+      // Get the events Map for this date
+      const dateMap = seenSummariesByDate.get(eventDate);
+      
+      // Check for duplicates using enhanced similarity detection
+      const isDuplicate = Array.from(dateMap.values()).some(existingEvent => {
+          // First check if location matches (when available)
+          const sameTime = existingEvent.start == event.start;
+          if (!sameTime) return false;
+
+          const samePlace = existingEvent.venue == event.venue;
+          if (!samePlace) return false;
+
+          const normalizedNew = normalizeString(name);
+          const normalizedExisting = normalizeString(existingEvent.name);
+          const isSubstring = normalizedNew.includes(normalizedExisting) || 
+                            normalizedExisting.includes(normalizedNew);
+
+          if (isSubstring) return true;
+
+          const similarityScore = getSimilarity(normalizedNew, normalizedExisting);
+
+          //if (similarityScore > .45) console.log(existingEvent, event);
+
+          return similarityScore > 0.45;
+      });
 
       if (isDuplicate) {
-        return null; // Skip this event
+          return null; // Skip this event
       }
 
-      // Add this summary to the set
-      dateSet.add(summary);
-
-      return {
-        summary: summary,
-        description: event.description,
-        start: moment.unix(event.date.start_timestamp).toDate(),
-        end: moment.unix(event.date.end_timestamp).toDate(),
-        url: event.url,
-        location: event.location?.name || '',
-        imageUrl: event.image_url,
-        platform: event.platform,
-        pageName: event.page_name,
-        venueUrl: event.page_url,
-        tag: event.tag
+      // Add this event to the map
+      const eventInfo = {
+          name,
+          location,
+          // Store normalized version to speed up future comparisons
+          normalizedname: normalizeString(name)
       };
-    })
-    .filter(event => event !== null); // Remove the nulled duplicates
+      dateMap.set(name, eventInfo);
+
+      // Return the full event object
+      return {
+          name: name,
+          description: event.description,
+          start: moment.unix(event.date.start_timestamp).toDate(),
+          end: moment.unix(event.date.end_timestamp).toDate(),
+          url: event.url,
+          location: location,
+          imageUrl: event.image_url,
+          platform: event.platform,
+          venue: event.page_name,
+          venueUrl: event.page_url,
+          tag: event.tag
+      };
+  })
+  .filter(event => event !== null); // Remove the nulled duplicates
 
   // Initialize activePageFilters with all unique page names if it's empty
   if (activePageFilters.size === 0) {
-    const uniquePages = new Set(allEvents.map(e => e.pageName).filter(Boolean));
-    uniquePages.forEach(pageName => activePageFilters.add(pageName));
+    const uniquePages = new Set(allEvents.map(e => e.venue).filter(Boolean));
+    uniquePages.forEach(venue => activePageFilters.add(venue));
   }
 
   hideLoadingSpinner();
@@ -194,7 +254,7 @@ function updateWeekNavigation() {
 
   const hasNextWeekEvents = allEvents.some(event =>
     moment(event.start).isBetween(nextWeekStart, nextWeekEnd, null, '[]') &&
-    //activePageFilters.has(event.pageName) &&
+    //activePageFilters.has(event.venue) &&
     activeTagFilters.has(event.tag)
   );
 
@@ -227,16 +287,16 @@ function displayEvents() {
   // Use a Set to prevent duplicates
   const filteredSummaries = new Set();
 
-  // Filter events by date, by pageName, by tag
+  // Filter events by date, by venue, by tag
   const eventsThisWeek = allEvents.filter(event => {
-    if (filteredSummaries.has(event.summary)) return false;
+    if (filteredSummaries.has(event.name)) return false;
 
     const isValidDate = moment(event.start).isBetween(eventStartFilter, weekEnd, null, '[]');
-    const isValidPage = activePageFilters.has(event.pageName);
+    const isValidPage = activePageFilters.has(event.venue);
     const isValidTag  = activeTagFilters.has(event.tag);
 
     if (isValidDate && isValidPage && isValidTag) {
-      filteredSummaries.add(event.summary);
+      filteredSummaries.add(event.name);
       return true;
     }
     return false;
@@ -273,17 +333,17 @@ function displayEvents() {
         <img
           src="${event.imageUrl || '/api/placeholder/300/200'}"
           loading="lazy"
-          alt="${event.summary}"
+          alt="${event.name}"
           class="event-image"
         />
         <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
         <div class="event-details">
-          <div class="event-title">${event.summary}</div>
+          <div class="event-title">${event.name}</div>
           <div class="event-date">
             📆 ${moment(event.start).format('h:mm A')}
           </div>
           <div class="event-location">
-            📍 ${event.pageName || 'Not specified'}
+            📍 ${event.venue || 'Not specified'}
           </div>
           <br>
         </div>
@@ -329,27 +389,27 @@ function populatePageList() {
   pageList.appendChild(heading);
 
   // Get unique page names and sort them
-  const uniquePages = new Set(allEvents.map(e => e.pageName).filter(Boolean));
+  const uniquePages = new Set(allEvents.map(e => e.venue).filter(Boolean));
   const sortedPages = Array.from(uniquePages).sort();
 
   // If no venues are selected yet, select all of them
   if (activePageFilters.size === 0) {
-      sortedPages.forEach(pageName => activePageFilters.add(pageName));
+      sortedPages.forEach(venue => activePageFilters.add(venue));
   }
 
   // Create venue items
-  sortedPages.forEach(pageName => {
+  sortedPages.forEach(venue => {
       const item = document.createElement('div');
       item.className = 'venue-item';
 
-      const venueUrl = allEvents.find(event => event.pageName === pageName)?.venueUrl || '#';
+      const venueUrl = allEvents.find(event => event.venue === venue)?.venueUrl || '#';
       
       item.innerHTML = `
           <div class="venue-info">
-              <a href="${venueUrl}" target="_blank">${pageName}</a>
+              <a href="${venueUrl}" target="_blank">${venue}</a>
           </div>
           <label class="venue-toggle">
-              <input type="checkbox" name="${pageName}" ${activePageFilters.has(pageName) ? 'checked' : ''}>
+              <input type="checkbox" name="${venue}" ${activePageFilters.has(venue) ? 'checked' : ''}>
               <span class="slider"></span>
           </label>
       `;
@@ -357,9 +417,9 @@ function populatePageList() {
       const checkbox = item.querySelector('input');
       checkbox.addEventListener('change', (e) => {
         if (e.target.checked) {
-            activePageFilters.add(pageName);
+            activePageFilters.add(venue);
         } else {
-            activePageFilters.delete(pageName);
+            activePageFilters.delete(venue);
         }
         saveVenuePreferences();
         displayEvents();
@@ -375,7 +435,7 @@ function populatePageList() {
   
   if (enableAllBtn) {
       enableAllBtn.addEventListener('click', () => {
-          sortedPages.forEach(pageName => activePageFilters.add(pageName));
+          sortedPages.forEach(venue => activePageFilters.add(venue));
           const checkboxes = pageList.querySelectorAll('input[type="checkbox"]');
           checkboxes.forEach(cb => cb.checked = true);
           saveVenuePreferences();
@@ -418,8 +478,8 @@ function showEventDetails(event) {
   const modalTag         = document.getElementById('modalTag');
 
   modalImage.src = event.imageUrl || '/api/placeholder/600/300';
-  modalImage.alt = event.summary;
-  modalTitle.textContent = event.summary;
+  modalImage.alt = event.name;
+  modalTitle.textContent = event.name;
   modalDate.textContent = `
     ${moment(event.start).format('MMMM D, YYYY - h:mm A')} 
     to 
@@ -465,7 +525,7 @@ function addToCalendar(event) {
   const startTime = moment(event.start).format('YYYYMMDDTHHmmss');
   const endTime   = moment(event.end).format('YYYYMMDDTHHmmss');
 
-  const googleCalendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(event.summary)}&dates=${startTime}/${endTime}&details=${encodeURIComponent(event.description)}&location=${encodeURIComponent(event.location || '')}&sprop=&sprop=name:&sprop=X-EVENT-TAGS:${event.tag}`;
+  const googleCalendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(event.name)}&dates=${startTime}/${endTime}&details=${encodeURIComponent(event.description)}&location=${encodeURIComponent(event.location || '')}&sprop=&sprop=name:&sprop=X-EVENT-TAGS:${event.tag}`;
 
   const appleCalendarICS = `
 BEGIN:VCALENDAR
@@ -474,7 +534,7 @@ BEGIN:VEVENT
 URL:${event.url}
 DTSTART:${startTime}
 DTEND:${endTime}
-SUMMARY:${event.summary}
+name:${event.name}
 DESCRIPTION:${event.description}
 LOCATION:${event.location || ''}
 X-EVENT-TAGS:${event.tag}
