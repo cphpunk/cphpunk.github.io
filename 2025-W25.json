@@ -29,5 +29,98 @@
     "platform": "Facebook",
     "page_name": "COPENHELL",
     "page_url": "https://www.facebook.com/copenhell/events"
+  },
+  {
+    "id": "948350610566024",
+    "name": "COPENHELL 2025",
+    "description": "COPENHELL 2025 – mere information om næste års festival følger snart!",
+    "date": {
+      "start_timestamp": 1750240800,
+      "end_timestamp": 1750542300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "COPENHELL",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.693312500000005,
+      "longitude": 12.614187499999971,
+      "bounds_ne_lat": 55.693375,
+      "bounds_ne_lng": 12.61424999999997,
+      "bounds_sw_lat": 55.693250000000006,
+      "bounds_sw_lng": 12.614124999999973,
+      "plus_code_global": "9F7JMJV7+8M",
+      "plus_code_local": "MJV7+8M",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/948350610566024/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/460199799_978277010767627_181556454428213297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HIjMs2zxAn8Q7kNvgFH5E8F&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AVKX4z2fskm5kIlx3DsS0BT&oh=00_AYDw6_zMl_tN17m3jYRGY-9Dd7ZfD3AapcD5kncH66fLyA&oe=67944F95",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "COPENHELL",
+    "page_url": "https://www.facebook.com/copenhell/events"
+  },
+  {
+    "id": "948350610566024",
+    "name": "COPENHELL 2025",
+    "description": "COPENHELL 2025 – mere information om næste års festival følger snart!",
+    "date": {
+      "start_timestamp": 1750240800,
+      "end_timestamp": 1750542300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "COPENHELL",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.693312500000005,
+      "longitude": 12.614187499999971,
+      "bounds_ne_lat": 55.693375,
+      "bounds_ne_lng": 12.61424999999997,
+      "bounds_sw_lat": 55.693250000000006,
+      "bounds_sw_lng": 12.614124999999973,
+      "plus_code_global": "9F7JMJV7+8M",
+      "plus_code_local": "MJV7+8M",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/948350610566024/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/460199799_978277010767627_181556454428213297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KOPuE7tdzmMQ7kNvgHHNn2B&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AjjuhrtB-OtUK7YuKQ1dTEA&oh=00_AYCCG7zcpEnUAOBrlUJUXROfApAoGeEdyMmeVnm_RIuuZQ&oe=6796F295",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "COPENHELL",
+    "page_url": "https://www.facebook.com/copenhell/events"
+  },
+  {
+    "id": "948350610566024",
+    "name": "COPENHELL 2025",
+    "description": "COPENHELL 2025 – mere information om næste års festival følger snart!",
+    "date": {
+      "start_timestamp": 1750240800,
+      "end_timestamp": 1750542300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "COPENHELL",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.693312500000005,
+      "longitude": 12.614187499999971,
+      "bounds_ne_lat": 55.693375,
+      "bounds_ne_lng": 12.61424999999997,
+      "bounds_sw_lat": 55.693250000000006,
+      "bounds_sw_lng": 12.614124999999973,
+      "plus_code_global": "9F7JMJV7+8M",
+      "plus_code_local": "MJV7+8M",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/948350610566024/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/460199799_978277010767627_181556454428213297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sSIh3jNJsOIQ7kNvgFWQNVp&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AT_R-6NxDBwNesEsx8KMLke&oh=00_AYByU8TYXsJDE0SNmjR2WPvjiKhjS3agMGBi98_tdbSbpg&oe=679C0055",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "COPENHELL",
+    "page_url": "https://www.facebook.com/copenhell/events"
   }
 ]
