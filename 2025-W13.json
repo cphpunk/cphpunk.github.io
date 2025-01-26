@@ -587,5 +587,346 @@
     "platform": "Facebook",
     "page_name": "Red Door",
     "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "kk-kendall-lujan-us",
+    "name": "kendall lujan (US)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Portland, Oregon based artist, kendall lujan embarks on her first full length album “Lucky Penny’ it is set to be released Fall 2024. After releasing her Debut self titled EP last Spring, featured on official playlist for Spotify and Apple Music. Lujan also gaining attention from NPR’s Tiny Desk, MTV and winning the John Lennon Songwriting contest. Sharing the stage with Amos Lee, Frazey Ford (of The Be Good Tanyas), Allie Crow Buckley, Early James, and The Magnetic Fields. ‘Lucky Penny’ features many genres including Jazz, Folk, Bosa Nova and Indie-Rock. The natural singer and songwriter put together a studio band with Micah Hummel (drums), Colin Schmidt (bass) and Alex Milsted (piano) and recorded at the Map Room Studio in Portland, Oregon with Dominik Schmidt producing.\n  <br/>\n  <br/>\n  Her writing is real, introspective and reflective. After touring the songs in Europe twice this past Fall lujan is ready to show her versatility and growth as an artist.\n  <br/>\n  <br/>\n  The first single to be released late March 2024 titled ‘Goodbyes’. The song explores mourning and loss of important people in your world. In the sense of ending romantic relationships it explores the process of knowing when someone isn’t suited for your life or growth any longer. Lujan writes “I wrote this song to remind myself that even though things are hard you will meet those people who stick around eventually.” Even though people come and go in your world, remembering that there will be lots of cries and laughs on your journey to finding those people who see you for who you are. The main hook stating: ‘it takes a lot of goodbyes to get to forever.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743274800,
+      "end_timestamp": 1743285600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen, Musikcaféen",
+      "address": "Rådhusstræde 13, None København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/kendall-lujan-us",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/kendall%20lujan%20_0.png?itok=qwUW6WJl",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-carlo-ahead-musikcafeen",
+    "name": "Carlo Ahead | Musikcaféen",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  With roots in the Nørrebro-Collective, Struglatz, his colourful language and his plethora of technical energy has made\n  <strong>\n   Mund de Carlo\n  </strong>\n  both a unique and persistent voice on the Danish rap scene.\n  <br/>\n  <br/>\n  <strong>\n   Ahead\n  </strong>\n  is an instrumental hip-hop quartet (drums, bass, keys, guitar) that always delivers a show full of life. Inspired by hip-hop traditions from Detroit, New York and L.A., the expression soars from the flying and spherical to the progressive and hard-hitting, and from jazzy coffee loops to dynamic breakbeats. It's him Matias on the drums, Sebastian on the bass, Andreas on the keys, Glen on the guitar and Carlo on the mic. Come along and be hit by something!\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743188400,
+      "end_timestamp": 1743199200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/carlo-ahead-musikcafeen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/BABii%201920%20x%20554.png?itok=6G6FEPmI",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-carlo-ahead-musikcafeen",
+    "name": "Carlo Ahead | Musikcaféen",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  With roots in the Nørrebro-Collective, Struglatz, his colourful language and his plethora of technical energy has made\n  <strong>\n   Mund de Carlo\n  </strong>\n  both a unique and persistent voice on the Danish rap scene.\n  <br/>\n  <br/>\n  <strong>\n   Ahead\n  </strong>\n  is an instrumental hip-hop quartet (drums, bass, keys, guitar) that always delivers a show full of life. Inspired by hip-hop traditions from Detroit, New York and L.A., the expression soars from the flying and spherical to the progressive and hard-hitting, and from jazzy coffee loops to dynamic breakbeats. It's him Matias on the drums, Sebastian on the bass, Andreas on the keys, Glen on the guitar and Carlo on the mic. Come along and be hit by something!\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743188400,
+      "end_timestamp": 1743199200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/carlo-ahead-musikcafeen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/BABii%201920%20x%20554.png?itok=6G6FEPmI",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-kendall-lujan-us",
+    "name": "kendall lujan (US)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Portland, Oregon based artist, kendall lujan embarks on her first full length album “Lucky Penny’ it is set to be released Fall 2024. After releasing her Debut self titled EP last Spring, featured on official playlist for Spotify and Apple Music. Lujan also gaining attention from NPR’s Tiny Desk, MTV and winning the John Lennon Songwriting contest. Sharing the stage with Amos Lee, Frazey Ford (of The Be Good Tanyas), Allie Crow Buckley, Early James, and The Magnetic Fields. ‘Lucky Penny’ features many genres including Jazz, Folk, Bosa Nova and Indie-Rock. The natural singer and songwriter put together a studio band with Micah Hummel (drums), Colin Schmidt (bass) and Alex Milsted (piano) and recorded at the Map Room Studio in Portland, Oregon with Dominik Schmidt producing.\n  <br/>\n  <br/>\n  Her writing is real, introspective and reflective. After touring the songs in Europe twice this past Fall lujan is ready to show her versatility and growth as an artist.\n  <br/>\n  <br/>\n  The first single to be released late March 2024 titled ‘Goodbyes’. The song explores mourning and loss of important people in your world. In the sense of ending romantic relationships it explores the process of knowing when someone isn’t suited for your life or growth any longer. Lujan writes “I wrote this song to remind myself that even though things are hard you will meet those people who stick around eventually.” Even though people come and go in your world, remembering that there will be lots of cries and laughs on your journey to finding those people who see you for who you are. The main hook stating: ‘it takes a lot of goodbyes to get to forever.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743274800,
+      "end_timestamp": 1743285600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen, Musikcaféen",
+      "address": "Rådhusstræde 13, None København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/kendall-lujan-us",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/kendall%20lujan%20_0.png?itok=qwUW6WJl",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1128004235639421",
+    "name": "Mød Twiggy: Film & talk",
+    "description": "🌟Kom helt tæt på verdens første it-girl og modeikon – når selveste Twiggy gæster Bremen Teater d. 25 marts.\n\nDokumentaren 'Twiggy' får dansk premiere på dette års CPH:DOX. I den anledning inviterer vi til en uforglemmelig aften i modeikonets tegn. Efter visningen af filmen deltager Twiggy og filmens instruktør Sadie Frost, i en samtale om filmen. En enestående mulighed for at høre hendes egne beretninger og perspektiver om et liv, der har været definerende for mode- og popkulturen.\n\nKøb billetter her:  https://cphdox.dk/meet-twiggy-and-warren-ellis-at-cphdox-2025/\n\nProgram: \n19.00: Dørene åbner\n20.00: Filmvisning: 'Twiggy', efterfulgt af samtale med Twiggy & instruktør Sadie Frost.\n\nBilletpris: 150 kr. + gebyr\n\nOm filmen: \nFor første gang nogensinde fortæller Twiggy – verdens første it-girl – sin egen historie. I den personlige og stjernebestrøede dokumentar TWIGGY, der får Danmarkspremiere på CPH:DOX 2025, får publikum historien om den spinkle og androgyne kvinde, der blev en verdenssensation og transformerede 60’ernes modeideal. Dokumentarfilmen er instrueret af Sadie Frost, og foruden Twiggy selv medvirker bl.a. Dustin Hoffmann, Brooke Shields og Paul McCartney",
+    "date": {
+      "start_timestamp": 1742929200,
+      "end_timestamp": 1742936400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bremen Teater",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6765625,
+      "longitude": 12.561062500000006,
+      "bounds_ne_lat": 55.676625,
+      "bounds_ne_lng": 12.561125000000004,
+      "bounds_sw_lat": 55.676500000000004,
+      "bounds_sw_lng": 12.561000000000007,
+      "plus_code_global": "9F7JMHG6+JC",
+      "plus_code_local": "MHG6+JC",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1128004235639421/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474150801_1139170244250619_5771595994633867145_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=93NvZoMKv_YQ7kNvgHfhVJ-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-cCVjGfNozkIe7frwNWBYg&oh=00_AYAKWgcLwZAoeqea71ouCCy3dnV2yc7Pk8qqMvXfW9CZ8w&oe=679C0573",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "586891907601034",
+    "name": "Mød Warren Ellis: Film, talk & minikoncert",
+    "description": "🎻 Den legendariske multi-instrumentalist og Nick Cave-samarbejdspartner, Warren Ellis, gæster Bremen Teater d. 26 marts.\n\nEfter visningen af dokumentaren ‘Ellis Park’, deltager Ellis i en samtale om filmens tematikker og som prikken over i’et afsluttes aftenen med en intim mini-koncert, hvor Ellis’ ikoniske violin spiller hovedrollen.⁠\n\nKøb billetter her: https://cphdox.dk/meet-twiggy-and-warren-ellis-at-cphdox.../\n\nProgram: \n19.30: Dørene åbner\n20.30: Filmvisning: 'Ellis Park ', efterfulgt af talk og minikoncert med Warren Ellis.\n\nBilletpris: 185 kr. + gebyr\n\nOm filmen:\nMultiinstrumentalisten Warren Ellis har sat sit præg på musikscenen gennem de sidste tre årtier, både for sig selv, som medlem af bandet The Dirty Three og som Nick Caves faste samarbejdspartner. Men langt fra de verdenskendte festivalscener og koncerthuse har han lagt sin passion i et ganske andet projekt, der portrætteres i dokumentaren ELLIS PARK. Sammen med dyreaktivisten Femke den Haas har han skabt et dyrereservat dybt inde i Sumatras jungle, hvor de redder og hjælper mishandlede dyr.",
+    "date": {
+      "start_timestamp": 1743017400,
+      "end_timestamp": 1743024600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bremen Teater",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6765625,
+      "longitude": 12.561062500000006,
+      "bounds_ne_lat": 55.676625,
+      "bounds_ne_lng": 12.561125000000004,
+      "bounds_sw_lat": 55.676500000000004,
+      "bounds_sw_lng": 12.561000000000007,
+      "plus_code_global": "9F7JMHG6+JC",
+      "plus_code_local": "MHG6+JC",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/586891907601034/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474874848_1139210344246609_8834822748911733996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Lum4MB6JLG0Q7kNvgGLKrW8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AVsb4QLTJmXpkAQyDIxvSDM&oh=00_AYBUSekl-W7CtYZyjiUsq7cp7gN8ghMPG96_DpYGJOJ7Kg&oe=679BEF4D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "1103765154659536",
+    "name": "FabLab Makers Meetup",
+    "description": "Meet your fellow Makers at FabLab Nordvest last Thursday each month!\n\nThis is an opportunity to meet both new and old community-members, to spar with other members about your projects and to visit FabLab if you're just interested in getting to know the space. \n\nSee you!",
+    "date": {
+      "start_timestamp": 1743098400,
+      "end_timestamp": 1743109200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.709812499999984,
+      "longitude": 12.526937500000017,
+      "bounds_ne_lat": 55.70987499999998,
+      "bounds_ne_lng": 12.527000000000015,
+      "bounds_sw_lat": 55.709749999999985,
+      "bounds_sw_lng": 12.526875000000018,
+      "plus_code_global": "9F7JPG5G+WQ",
+      "plus_code_local": "PG5G+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1103765154659536/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PS54RroLkWQQ7kNvgH3biPR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-hiLBLd-MoNvdl2LVgdsmY&oh=00_AYAxSFDWHXBlF8L4zi7VLNMhjlDM4FgxZ_rWkzy7ZOhfNA&oe=679BE7D8",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Fablab Nordvest",
+    "page_url": "https://www.facebook.com/fablabnordvest/events"
+  },
+  {
+    "id": "1063541145528918",
+    "name": "Poetry Takeover 2025: An open mic series by Red Door",
+    "description": "POETRY TAKEOVER\nBi-Monthly Open Mic by RED DOOR\nat La Fee Verte - H.C Ørsteds Vej 6, Frederiksberg\n\nFREE EVENT!\n\n\"Poetry Takeover\" is a bi-monthly open mic event by Red Door and its project The Poetic Phonotheque, held at La Fee Verte, an absinthe bar known for its unique ambiance and focus on music and poetic encounters. \n\nThe event provides a platform for both emerging and established poets to share their work in a relaxed, creative setting, so bring your latest writing, positive feedback is encouraged!\n\nWe welcome participants in all languages and often feature guest hosts and renowned writers. The evening is open to anyone who wishes to read, with sign-up available upon arrival. 3-4 min per round of reading per person, but we do several rounds.\n\nIf you don't want to read but enjoy poetry, you're welcome to come and enjoy!\n\nEvent Details:\n\nWhen: Every two months (last Thursday)\nWhere: La Fee Verte\nCost: Free to attend and participate, drinks available at the bar\nFormat: Open mic (sign up upon arrival)\n\nWhether you are here to read or listen, we invite you to join us for an evening of poetry in a welcoming, creative, welcoming environment. \n\nIf you're not in Copenhagen but would like to share your poetry with us, send it to poeticphonotheque.com, our international multimedia archive of poetry.\n\nSpecial thanks to La Fee Verte for this ongoing collaboration.",
+    "date": {
+      "start_timestamp": 1743094800,
+      "end_timestamp": 1743107400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1063541145528918",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4k7HUV0a8-EQ7kNvgHSxsOn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AEvhOnC9HhtV89D-veDix3P&oh=00_AYDNXdtp2pyaaTlm1i6zJAY-Fif0PiYRqfQTP148QIR5hg&oe=679C15BF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "1063541145528918",
+    "name": "Poetry Takeover 2025: An open mic series by Red Door",
+    "description": "POETRY TAKEOVER\nBi-Monthly Open Mic by RED DOOR\nat La Fee Verte - H.C Ørsteds Vej 6, Frederiksberg\n\nFREE EVENT!\n\n\"Poetry Takeover\" is a bi-monthly open mic event by Red Door and its project The Poetic Phonotheque, held at La Fee Verte, an absinthe bar known for its unique ambiance and focus on music and poetic encounters. \n\nThe event provides a platform for both emerging and established poets to share their work in a relaxed, creative setting, so bring your latest writing, positive feedback is encouraged!\n\nWe welcome participants in all languages and often feature guest hosts and renowned writers. The evening is open to anyone who wishes to read, with sign-up available upon arrival. 3-4 min per round of reading per person, but we do several rounds.\n\nIf you don't want to read but enjoy poetry, you're welcome to come and enjoy!\n\nEvent Details:\n\nWhen: Every two months (last Thursday)\nWhere: La Fee Verte\nCost: Free to attend and participate, drinks available at the bar\nFormat: Open mic (sign up upon arrival)\n\nWhether you are here to read or listen, we invite you to join us for an evening of poetry in a welcoming, creative, welcoming environment. \n\nIf you're not in Copenhagen but would like to share your poetry with us, send it to poeticphonotheque.com, our international multimedia archive of poetry.\n\nSpecial thanks to La Fee Verte for this ongoing collaboration.",
+    "date": {
+      "start_timestamp": 1743094800,
+      "end_timestamp": 1743107400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1063541145528918",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4k7HUV0a8-EQ7kNvgHSxsOn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Am-WcxlcdJy7uonJsHC9YFo&oh=00_AYAqLwG7YlxdFx70NzwzrL-xUwwbGHBQTiHMT94V0tqpQw&oe=679C15BF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "1063541145528918",
+    "name": "Poetry Takeover 2025: An open mic series by Red Door",
+    "description": "POETRY TAKEOVER\nBi-Monthly Open Mic by RED DOOR\nat La Fee Verte - H.C Ørsteds Vej 6, Frederiksberg\n\nFREE EVENT!\n\n\"Poetry Takeover\" is a bi-monthly open mic event by Red Door and its project The Poetic Phonotheque, held at La Fee Verte, an absinthe bar known for its unique ambiance and focus on music and poetic encounters. \n\nThe event provides a platform for both emerging and established poets to share their work in a relaxed, creative setting, so bring your latest writing, positive feedback is encouraged!\n\nWe welcome participants in all languages and often feature guest hosts and renowned writers. The evening is open to anyone who wishes to read, with sign-up available upon arrival. 3-4 min per round of reading per person, but we do several rounds.\n\nIf you don't want to read but enjoy poetry, you're welcome to come and enjoy!\n\nEvent Details:\n\nWhen: Every two months (last Thursday)\nWhere: La Fee Verte\nCost: Free to attend and participate, drinks available at the bar\nFormat: Open mic (sign up upon arrival)\n\nWhether you are here to read or listen, we invite you to join us for an evening of poetry in a welcoming, creative, welcoming environment. \n\nIf you're not in Copenhagen but would like to share your poetry with us, send it to poeticphonotheque.com, our international multimedia archive of poetry.\n\nSpecial thanks to La Fee Verte for this ongoing collaboration.",
+    "date": {
+      "start_timestamp": 1743094800,
+      "end_timestamp": 1743107400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1063541145528918",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4k7HUV0a8-EQ7kNvgHSxsOn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AebLart7E0a1cHae8O7PSMy&oh=00_AYCKVAq2BoTEXP31EgdakB25tl0h1j04Jo6C6bKyIKyvAg&oe=679C15BF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "1063541145528918",
+    "name": "Poetry Takeover 2025: An open mic series by Red Door",
+    "description": "POETRY TAKEOVER\nBi-Monthly Open Mic by RED DOOR\nat La Fee Verte - H.C Ørsteds Vej 6, Frederiksberg\n\nFREE EVENT!\n\n\"Poetry Takeover\" is a bi-monthly open mic event by Red Door and its project The Poetic Phonotheque, held at La Fee Verte, an absinthe bar known for its unique ambiance and focus on music and poetic encounters. \n\nThe event provides a platform for both emerging and established poets to share their work in a relaxed, creative setting, so bring your latest writing, positive feedback is encouraged!\n\nWe welcome participants in all languages and often feature guest hosts and renowned writers. The evening is open to anyone who wishes to read, with sign-up available upon arrival. 3-4 min per round of reading per person, but we do several rounds.\n\nIf you don't want to read but enjoy poetry, you're welcome to come and enjoy!\n\nEvent Details:\n\nWhen: Every two months (last Thursday)\nWhere: La Fee Verte\nCost: Free to attend and participate, drinks available at the bar\nFormat: Open mic (sign up upon arrival)\n\nWhether you are here to read or listen, we invite you to join us for an evening of poetry in a welcoming, creative, welcoming environment. \n\nIf you're not in Copenhagen but would like to share your poetry with us, send it to poeticphonotheque.com, our international multimedia archive of poetry.\n\nSpecial thanks to La Fee Verte for this ongoing collaboration.",
+    "date": {
+      "start_timestamp": 1743094800,
+      "end_timestamp": 1743107400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1063541145528918",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4k7HUV0a8-EQ7kNvgHSxsOn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AB0uA138Jr3c7uc-MUij98m&oh=00_AYCl_1AmhJAQF3mz1v07xD73I6wKm0lAFGQgkndXk_oMgw&oe=679C15BF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
   }
 ]

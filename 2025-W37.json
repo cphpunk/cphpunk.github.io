@@ -122,5 +122,36 @@
     "platform": "Facebook",
     "page_name": "Copenhagen Half Marathon",
     "page_url": "https://www.facebook.com/cphhalf/events"
+  },
+  {
+    "id": "1097528345227826",
+    "name": "Copenhagen Half Marathon 2025 - official event",
+    "description": "Copenhagen Half Marathon 2025 sold out in just 2 hours and 20 minutes.\n\nIn 2025, 30,000 runners from around the globe will take over the streets of Copenhagen on September 14 when we celebrate our 10th anniversary.\n\nThe course is flat, fast, and iconic. And the crowd will carry you onwards with overwhelming cheers along those 21.1 of grind and glory.\n\nRace day is September 14, 2025, at 9.30 CEST.",
+    "date": {
+      "start_timestamp": 1757835000,
+      "end_timestamp": 1757854800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "2100 København Ø",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70874999999998,
+      "longitude": 12.576250000000016,
+      "bounds_ne_lat": 55.70999999999998,
+      "bounds_ne_lng": 12.577500000000015,
+      "bounds_sw_lat": 55.70749999999998,
+      "bounds_sw_lng": 12.575000000000017,
+      "plus_code_global": "9F7JPH5G+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1097528345227826/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464436043_1487574641991242_3340941982192236748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Gf-tsjE2TI8Q7kNvgHPJA4g&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Au-m4QPeRAaisADb5KNc2yx&oh=00_AYDgCJ-C5-R-7-oi_IXPEOK5qE6meX-OYElRtVtkt1b0VA&oe=679C1AC7",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Half Marathon",
+    "page_url": "https://www.facebook.com/cphhalf/events"
   }
 ]

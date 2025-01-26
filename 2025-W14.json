@@ -494,5 +494,222 @@
     "platform": "Facebook",
     "page_name": "Punks Undead",
     "page_url": "https://www.facebook.com/PunksUndeadCPH/events"
+  },
+  {
+    "id": "kk-santa-cruz",
+    "name": "Santa Cruz",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Santa Cruz er Poul Halberg (guitar), Frans Bak (keys), Bo Stief (bas), Klaus Menzer (trommer), Hans Ulrik (sax)\n  <br/>\n  <br/>\n  Santa Cruz er et dansk orkester som har spillet sammen i mere end 30 år. Alle fem bandmedlemmer er veletablerede og højt anerkendte musikere og komponister, som har sat kraftigt præg på det danske musikliv på kryds og tværs af genrerne gennem de sidste mange år. Alligevel bliver de ved med at mødes og udfordre hinanden i deres helt specielle udgave af fusionsmusikken. Hver bidrager med det de kan indenfor jazz og rock, og det bliver kombineret med gode melodier, og fantastiske soloer.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Torsdag den 3. april 2025 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncert med unnumererede siddepladser.\n  <br/>\n  Forsalg 200 kr. + gebyr / 240 kr. i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743703200,
+      "end_timestamp": 1743710400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/santa-cruz",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/Design%20uden%20navn%20%282%29.png?itok=CvqYxumc",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-charlotte-amalie-x-who-killed-bambi",
+    "name": "Charlotte-Amalie x Who Killed Bambi",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  I kølvandet på en lang række koncerter som special guest med Søren Huss udgav Charlotte-Amalie i efteråret 2024 sit anmelderroste debutalbum \"Opbrud\". Et dybt personligt album, der indkapsler smerte og håb side om side - og som tør sætte ord på det, der ellers er svært at tale om.\n </p>\n <p>\n  Med til at understrege sårbarheden i sangskriverens fortællinger er strygerensemblet Who Killed Bambi, der sammen med Charlotte-Amalie har fortolket \"Opbrud\". Således præsenterer de Charlotte-Amalies cinematiske pop i helt nye stryg-udgaver, der vil blive suppleret af hendes filmiske klaverflader og ikke mindst medrivende vokal.\n </p>\n <p>\n  Who Killed Bambi har optrådt med flere af landets største navne på nogle af landets største scener, og ikke desto mindre understreger det, hvad der er i vente, når de sammen med det lysende talent Charlotte-Amalie slår vejen forbi Kulturhuset Islands Brygge.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 4. april 2025\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Entré 125 kr. + gebyr / Køb billetter i døren: 140 kr.\n  <br/>\n  Koncerten er med unummererede siddepladser.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743789600,
+      "end_timestamp": 1743796800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/charlotte-amalie-x-who-killed-bambi",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/Design%20uden%20navn%20%286%29.png?itok=b3HJdNLV",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-acdc-uk-europas-stoerste-tributeband-til-acdc",
+    "name": "AC/DC UK – Europas største tributeband til AC/DC",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  AC/DC UK garanterer den perfekte rock-fest, der hylder et af musikhistoriens mest ikoniske bands! Gå ikke glip af Europas største AC/DC-tribute show for første gang på Islands Brygge.\n </p>\n <p>\n  Oplev ”Thunderstruck”, ”Back in Black”, ”Whole Lotta Rosie”, ”Highway to Hell”, ”Dirty Deeds”, ”Shoot to Thrill”, ”Shook me all night long” og alle de andre klassiskere i dette sprudlende helaftens-show dedikeret til AC/DC’s imponerende musik!\n </p>\n <p>\n  AC/DC UK er historien om inkarnerede fans, der besluttede sig for at lave verdens mest tro og gennemførte kopi af AC/DC - og slap afsted med det! Gang på gang er bandet kåret som det bedste AC/DC-tributeband i Storbritannien og med hundredevis af koncerter over hele verden, må AC/DC UK siges at være det primære tribute til de australske rocklegender. Der er tale om en knivskarp gengivelse af både lyd og udseende, som meget få kan gøre efter!\n </p>\n <p>\n  AC/DC UK har opnået, hvad de fleste nok regner for utænkeligt for et tributeband. Sidste år medvirkede de i Hollywood-filmen Expendables 4, hvor de har scener med Sylvester Stallone og Dolph Lundgren og samtidig spillede de en koncert, der blev tv-transmitteret til hele 5. mio. tv-seere i Polen. De har også optrådt på hovedscenen på den legendariske Grasspop-festival lige efter hovednavnet Iron Maiden!\n </p>\n <p>\n  De har tillige delt scene med rock-superstjerner som Ozzy Osbourne, Marilyn Manson, Judas Priest, Guns n Roses og danske Volbeat. Deres dedikation og eksplosive sceneoptræden er ganske enkelt ikke til at stå for!\n </p>\n <p>\n  Gå ikke glip af suveræne AC/DC UK. Klar til et THUNDERSTRUCK?\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743876000,
+      "end_timestamp": 1743885000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/acdc-uk-europas-stoerste-tributeband-til-acdc",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-05/Design%20uden%20navn%20%2816%29.png?itok=CTobqKq4",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-santa-cruz",
+    "name": "Santa Cruz",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Santa Cruz er Poul Halberg (guitar), Frans Bak (keys), Bo Stief (bas), Klaus Menzer (trommer), Hans Ulrik (sax)\n  <br/>\n  <br/>\n  Santa Cruz er et dansk orkester som har spillet sammen i mere end 30 år. Alle fem bandmedlemmer er veletablerede og højt anerkendte musikere og komponister, som har sat kraftigt præg på det danske musikliv på kryds og tværs af genrerne gennem de sidste mange år. Alligevel bliver de ved med at mødes og udfordre hinanden i deres helt specielle udgave af fusionsmusikken. Hver bidrager med det de kan indenfor jazz og rock, og det bliver kombineret med gode melodier, og fantastiske soloer.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Torsdag den 3. april 2025 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncert med unnumererede siddepladser.\n  <br/>\n  Forsalg 200 kr. + gebyr / 240 kr. i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743703200,
+      "end_timestamp": 1743710400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/santa-cruz",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/Design%20uden%20navn%20%282%29.png?itok=CvqYxumc",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-acdc-uk-europas-stoerste-tributeband-til-acdc",
+    "name": "AC/DC UK – Europas største tributeband til AC/DC",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  AC/DC UK garanterer den perfekte rock-fest, der hylder et af musikhistoriens mest ikoniske bands! Gå ikke glip af Europas største AC/DC-tribute show for første gang på Islands Brygge.\n </p>\n <p>\n  Oplev ”Thunderstruck”, ”Back in Black”, ”Whole Lotta Rosie”, ”Highway to Hell”, ”Dirty Deeds”, ”Shoot to Thrill”, ”Shook me all night long” og alle de andre klassiskere i dette sprudlende helaftens-show dedikeret til AC/DC’s imponerende musik!\n </p>\n <p>\n  AC/DC UK er historien om inkarnerede fans, der besluttede sig for at lave verdens mest tro og gennemførte kopi af AC/DC - og slap afsted med det! Gang på gang er bandet kåret som det bedste AC/DC-tributeband i Storbritannien og med hundredevis af koncerter over hele verden, må AC/DC UK siges at være det primære tribute til de australske rocklegender. Der er tale om en knivskarp gengivelse af både lyd og udseende, som meget få kan gøre efter!\n </p>\n <p>\n  AC/DC UK har opnået, hvad de fleste nok regner for utænkeligt for et tributeband. Sidste år medvirkede de i Hollywood-filmen Expendables 4, hvor de har scener med Sylvester Stallone og Dolph Lundgren og samtidig spillede de en koncert, der blev tv-transmitteret til hele 5. mio. tv-seere i Polen. De har også optrådt på hovedscenen på den legendariske Grasspop-festival lige efter hovednavnet Iron Maiden!\n </p>\n <p>\n  De har tillige delt scene med rock-superstjerner som Ozzy Osbourne, Marilyn Manson, Judas Priest, Guns n Roses og danske Volbeat. Deres dedikation og eksplosive sceneoptræden er ganske enkelt ikke til at stå for!\n </p>\n <p>\n  Gå ikke glip af suveræne AC/DC UK. Klar til et THUNDERSTRUCK?\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743876000,
+      "end_timestamp": 1743885000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/acdc-uk-europas-stoerste-tributeband-til-acdc",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-05/Design%20uden%20navn%20%2816%29.png?itok=CTobqKq4",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-charlotte-amalie-x-who-killed-bambi",
+    "name": "Charlotte-Amalie x Who Killed Bambi",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  I kølvandet på en lang række koncerter som special guest med Søren Huss udgav Charlotte-Amalie i efteråret 2024 sit anmelderroste debutalbum \"Opbrud\". Et dybt personligt album, der indkapsler smerte og håb side om side - og som tør sætte ord på det, der ellers er svært at tale om.\n </p>\n <p>\n  Med til at understrege sårbarheden i sangskriverens fortællinger er strygerensemblet Who Killed Bambi, der sammen med Charlotte-Amalie har fortolket \"Opbrud\". Således præsenterer de Charlotte-Amalies cinematiske pop i helt nye stryg-udgaver, der vil blive suppleret af hendes filmiske klaverflader og ikke mindst medrivende vokal.\n </p>\n <p>\n  Who Killed Bambi har optrådt med flere af landets største navne på nogle af landets største scener, og ikke desto mindre understreger det, hvad der er i vente, når de sammen med det lysende talent Charlotte-Amalie slår vejen forbi Kulturhuset Islands Brygge.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 4. april 2025\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Entré 125 kr. + gebyr / Køb billetter i døren: 140 kr.\n  <br/>\n  Koncerten er med unummererede siddepladser.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1743789600,
+      "end_timestamp": 1743796800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/charlotte-amalie-x-who-killed-bambi",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/Design%20uden%20navn%20%286%29.png?itok=b3HJdNLV",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "994989999342631",
+    "name": "Punks Undead vol. 119 - Existenz (SE) // Äpärät (FIN) // Shit Stirrers (UK)",
+    "description": "Number 119 is here, and we're going fucking international this time!\n\nExistenz: Hardcore punk legends from Helsingborg since 1982. Reformed with the original line-up 2016. Touring Europe, UK , Mexico and released an album and 4 ep´s from 2020 and onwards. You get what you want! \n\nhttps://open.spotify.com/wrapped/share/share-590f807ab0a54c138eb1fb5b2f000726?si=Z9AZV-NmQ5CxXH_tm5xpzg&feature=wrapped&artist-id=17zLmk1PbfaHcuxf1rcoel\n\nÄpärät Fin: Formed in 1982 Äpätät is one of the most important bands hailing from the Finnish hardcore punk scene in the eighties with bands like Appendix, Rattus and on.\nThe Band is frequently touring Finland and Europe putting up a hell of a show \nhttps://open.spotify.com/artist/7HgH6CilVVRak17OZAkgUR?si=041Ck3_wThi_cwCqB016uA\n\nShit Stirrers UK: New Hardcore punk upcomer from London who has quickly made a name for themselves in London and rest of the UK with their intense on stage and their songs. Check out their new record We are Shit Stirrers! \nhttps://open.spotify.com/artist/3hDvmxFORmJdW9gf3lCoIl?si=4vqIQJWGS0CxwwpEbMUHBQ\n\nDoor at 7.30 pm//show start at 8 pm!! - 50DKK",
+    "date": {
+      "start_timestamp": 1743787800,
+      "end_timestamp": 1743804000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Råhuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66981250000002,
+      "longitude": 12.560312499999995,
+      "bounds_ne_lat": 55.66987500000002,
+      "bounds_ne_lng": 12.560374999999993,
+      "bounds_sw_lat": 55.66975000000002,
+      "bounds_sw_lng": 12.560249999999996,
+      "plus_code_global": "9F7JMH96+W4",
+      "plus_code_local": "MH96+W4",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/994989999342631/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471429424_1190861326010216_2701080225857192055_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=u4TsHsSmXDAQ7kNvgGl3UXM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A2IYuGrk0U4Jw5T3RKBgYds&oh=00_AYDeffgYkw7kdsLaL1ACyrWFp6eKzOINNtgC23shl9PSQw&oe=679C103D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Punks Undead",
+    "page_url": "https://www.facebook.com/PunksUndeadCPH/events"
   }
 ]

@@ -804,5 +804,36 @@
     "platform": "Facebook",
     "page_name": "Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "3878667579039195",
+    "name": "GHITA NØRBY 90 ÅR // 12. januar - 19. marts // Cinemateket",
+    "description": "✨ Ghita Nørby 90 år ✨\nKvinde med format\n\nEn af landets allerstørste kvindelige stjerner fylder 90 år den 11. januar 2025. Ghita Nørby har de seneste 70 år været aktiv på teatre, i film og på TV, og har gennem tiden stået bag mere end 150 kvindelige karakterer – så der er rigeligt at fejre!\n\nGhita har med både sine mange roller, men også med sin egen personlighed, efterladt spor i mange danskere. Unge som gamle, mænd, kvinder og alle derimellem. Hvem husker hende ikke, som Baronessen i ’Baronessen fra benzintanken’, som Ingeborg Skjern i ’Matador’ eller som Nora i ’Et dukkehjem’?\n\nI denne serie har vi ladet Ghita Nørby selv vælge, hvilke film som skal vises i anledning af hendes fejring. Repertoiret spænder vidt af både nye og ældre klassikere som ’Stille hjerte’ og ’Pigen og pressefotografen’ kan nydes på det store lærred. Dyk mere ned i hvorfor Ghita Nørby har valgt filmene her i programmet eller på vores hjemmeside.\n\nD. 12. januar gæster Ghita Nørby Cinemateket i anledningen af visningen af ’Dansen med Regitze’. Her vil hun indgå i samtale med kulturkommentator Jakob Steen Olsen.\n\nJosefine Bjerre Lyndgaard+Alberte Peiding / Cinemateket\n\n------------------------------------\nFILMVISNINGER\n------------------------------------\n\nSøndag den 12. januar\n16.45: Dansen med Regitze m. besøg af Ghita Nørby\n\nTirsdag den 14. januar\n19.15: Hamsun (Jan Troell, 1996)\n\nSøndag den 26. januar\n19.15: Hamsun (Jan Troell, 1996)\n\nLørdag den 1. marts\n20.30: Stille hjerte (Bille August, 2014)\n\nSøndag den 2. marts\n16.45: Pigen og pressefotografen (Sven Methling, 1963)\n\nTirsdag den 4. marts\n19.00: Dansen med Regitze (Kaspar Rostrup, 1989)\n\nOnsdag den 5. marts\n16.45: Nøgle hus spejl (Michael Noer, 2015)\n\nTorsdag den 6. marts\n16.30: Stille hjerte (Bille August, 2014)\n\nLørdag den 8. marts\n14.00: Pigen og pressefotografen (Sven Methling, 1963)\n\nSøndag den 16. marts\n19.00: Nøgle hus spejl (Michael Noer, 2015)\n\nOnsdag den 19. marts\n16.45: Stille hjerte (Bille August, 2014)\n\n\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\n\nSted: Cinemateket, Gothersgade 55, Kbh K\nTid: 12. januar 2025 - 16. marts 2025\nOrdinær billetpris: 85 kr. (dog 55 kr. for Cinematekets medlemmer). Særpris på udvalgte arrangementer.\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/filmserier/serie/ghita-norby-90-ar\n\nLæs mere om Cinemateket og medlemsfordele på: https://www.dfi.dk/cinemateket/medlemmer",
+    "date": {
+      "start_timestamp": 1736696700,
+      "end_timestamp": 1737906300,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3878667579039195/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470573166_999380165560678_3268447113428608623_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0ac2YhKbeZUQ7kNvgEwRGkJ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AlyLYXzQsVZ6AQGLsdhc9ax&oh=00_AYBluAiB6Y4nus0Ac9KqP8Ex49wuO52m0gp-Xw6ctjNhPQ&oe=679C0863",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
   }
 ]

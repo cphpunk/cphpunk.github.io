@@ -122,5 +122,36 @@
     "platform": "Facebook",
     "page_name": "Nordic Adventure Film Festival - NAFF",
     "page_url": "https://www.facebook.com/nordicadventurefilmfestival/events"
+  },
+  {
+    "id": "9214440812005193",
+    "name": "Nordic Adventure Film Festival 2025",
+    "description": "Verden er fuld af store eventyr. Fra den jyske vestkyst, over Himalaya, til storbyjunglen drages vi mennesker af at prøve kræfter med det ukendte. Vi gør det hver for sig, sammen med gode venner eller som del af et større fællesskab. I vores grundvold længes vi mod det ukendte, mod at flytte grænser – ganske enkelt fordi vi ikke kan lade være. \n\nNår N.A.F.F. atter åbner dørene til årets 2025 film festival er som altid det med et ønske om at bringe de mange eventyr, som opleves langt fra Alfarvej til de nordiske biografer, således eventyret kan opleves af alle med eventyr i blodet. Ambitionen er at samle film fra alle verdenshjørner og i alle genrer, så alle har mulighed for at opleve eventyret og komme helt tæt på, når outdoorfolk verden over udfordrer grænserne. Og det er uanset om turen går til K2 for at bestige bjerge, til Japan for at stå på ski eller for at surfe i Mellemamerika. Eventyret lever i mange former – uanset hvordan det udleves.\n\nHos Nordic Adventure Film Festival har vi siden 1996 været drevet af en vision om at vise årets vigtigste adventure film i et biografformat. Vi vil være omdrejningspunkt for en nordisk debat om grundvilkåret for det at rejse, for eventyret i sin essens, ja for hvorledes vi alle tager bedre hånd om vores planet. Og du er hermed inviteret til at deltage.\n\nVi ses derude – og i biografmørket!",
+    "date": {
+      "start_timestamp": 1764259200,
+      "end_timestamp": 1764457200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/9214440812005193/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471795213_1139777191493323_1320941572941370602_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fR9oiIhkFh0Q7kNvgHD4ZZX&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ATgtun35toIzzu--oPYM9qL&oh=00_AYDXMNRPcOjRPjEqfpZVDHs9A1CYMVDjclnO22Y_iTTpZw&oe=679BFE14",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Nordic Adventure Film Festival - NAFF",
+    "page_url": "https://www.facebook.com/nordicadventurefilmfestival/events"
   }
 ]
