@@ -65,21 +65,49 @@ async function loadAllEvents() {
   // Load current + next week
   const currentWeekEvents = await fetchWeekEvents(moment());
   const nextWeekEvents = await fetchWeekEvents(moment().add(1, 'week'));
+  // Track summaries by date to detect duplicates
+  const seenSummariesByDate = new Map(); // date string -> Set of summaries
 
-  // Normalize
-  allEvents = [...currentWeekEvents, ...nextWeekEvents].map(event => ({
-    summary:     event.name,
-    description: event.description,
-    start:       moment.unix(event.date.start_timestamp).toDate(),
-    end:         moment.unix(event.date.end_timestamp).toDate(),
-    url:         event.url,
-    location:    event.location?.name || '',
-    imageUrl:    event.image_url,
-    platform:    event.platform,    // e.g. "Facebook"
-    pageName:    event.page_name,   // e.g. "Madboks"
-    venueUrl:    event.page_url,
-    tag:         event.tag
-  }));
+  // Normalize and filter duplicates
+  allEvents = [...currentWeekEvents, ...nextWeekEvents]
+    .map(event => {
+      const eventDate = moment.unix(event.date.start_timestamp).format('YYYY-MM-DD');
+      const summary = event.name;
+
+      // Initialize set for this date if it doesn't exist
+      if (!seenSummariesByDate.has(eventDate)) {
+        seenSummariesByDate.set(eventDate, new Set());
+      }
+
+      // Check if any existing summary contains this one
+      const dateSet = seenSummariesByDate.get(eventDate);
+      const isDuplicate = Array.from(dateSet).some(existingSummary => 
+        existingSummary.toLowerCase().includes(summary.toLowerCase()) || 
+        summary.toLowerCase().includes(existingSummary.toLowerCase())
+      );
+
+      if (isDuplicate) {
+        return null; // Skip this event
+      }
+
+      // Add this summary to the set
+      dateSet.add(summary);
+
+      return {
+        summary: summary,
+        description: event.description,
+        start: moment.unix(event.date.start_timestamp).toDate(),
+        end: moment.unix(event.date.end_timestamp).toDate(),
+        url: event.url,
+        location: event.location?.name || '',
+        imageUrl: event.image_url,
+        platform: event.platform,
+        pageName: event.page_name,
+        venueUrl: event.page_url,
+        tag: event.tag
+      };
+    })
+    .filter(event => event !== null); // Remove the nulled duplicates
 
   hideLoadingSpinner();
   showInfoButton();

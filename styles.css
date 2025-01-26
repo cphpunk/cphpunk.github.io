@@ -469,6 +469,7 @@ input:checked+.slider:before {
 .event-date,
 .event-location {
     font-size: 0.75em;
+    font-family: "Roboto Condensed", serif;
     color: #666;
 }
 
