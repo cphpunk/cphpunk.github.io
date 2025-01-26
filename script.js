@@ -35,6 +35,35 @@ let activeTagFilters = new Set(EVENT_TAGS);
  */
 let activePageFilters = new Set();
 
+// Add these new functions for managing venue preferences
+function saveVenuePreferences() {
+    localStorage.setItem('activeVenues', JSON.stringify(Array.from(activePageFilters)));
+    updateFilterIndicator(); 
+}
+
+function loadVenuePreferences() {
+  const savedVenues = localStorage.getItem('activeVenues');
+  if (savedVenues) {
+      activePageFilters = new Set(JSON.parse(savedVenues));
+      updateFilterIndicator(); 
+  }
+}
+
+function updateFilterIndicator() {
+    const infoButton = document.getElementById('infoButton');
+    if (!infoButton) return;
+    
+    // Get all unique venues from current events
+    const availableVenues = new Set(allEvents.map(e => e.pageName).filter(Boolean));
+    
+    // Check if all available venues are enabled (default state)
+    // A filter is active if we have fewer venues enabled than are available
+    const hasActiveFilters = activePageFilters.size < availableVenues.size;
+    
+    // Toggle the class based on whether we have any filters
+    infoButton.classList.toggle('has-filters', hasActiveFilters);
+}
+
 /** Tracks which week the user is viewing. */
 let currentWeekStart = moment(); //.startOf('week'); We now start the week from today
 
@@ -65,6 +94,7 @@ async function loadAllEvents() {
   // Load current + next week
   const currentWeekEvents = await fetchWeekEvents(moment());
   const nextWeekEvents = await fetchWeekEvents(moment().add(1, 'week'));
+  
   // Track summaries by date to detect duplicates
   const seenSummariesByDate = new Map(); // date string -> Set of summaries
 
@@ -109,10 +139,15 @@ async function loadAllEvents() {
     })
     .filter(event => event !== null); // Remove the nulled duplicates
 
+  // Initialize activePageFilters with all unique page names if it's empty
+  if (activePageFilters.size === 0) {
+    const uniquePages = new Set(allEvents.map(e => e.pageName).filter(Boolean));
+    uniquePages.forEach(pageName => activePageFilters.add(pageName));
+  }
+
   hideLoadingSpinner();
   showInfoButton();
   createWeekNavigation();
-  displayEvents();
 }
 
 /**
@@ -197,7 +232,7 @@ function displayEvents() {
     if (filteredSummaries.has(event.summary)) return false;
 
     const isValidDate = moment(event.start).isBetween(eventStartFilter, weekEnd, null, '[]');
-    const isValidPage = true;//activePageFilters.has(event.pageName);
+    const isValidPage = activePageFilters.has(event.pageName);
     const isValidTag  = activeTagFilters.has(event.tag);
 
     if (isValidDate && isValidPage && isValidTag) {
@@ -273,52 +308,90 @@ function displayEvents() {
  */
 function populatePageList() {
   const pageList = document.getElementById('venueList');
-  return;
   if (!pageList) return;
+  
+  // Clear existing content 
   pageList.innerHTML = '';
 
-  /**
-   * The idea: gather unique `pageName` from all events,
-   * and show them in a user-friendly list with checkboxes.
-   */
-  const uniquePages = new Set(allEvents.map(e => e.pageName).filter(Boolean));
+  // First, add the venue controls at the top
+  const controlsDiv = document.createElement('div');
+  controlsDiv.id = 'venueControls';
+  controlsDiv.style.marginBottom = '20px';  // Add some space below the controls
+  controlsDiv.innerHTML = `
+      <button id="enableAllVenues">Enable All</button>
+      <button id="disableAllVenues">Disable All</button>
+  `;
+  pageList.appendChild(controlsDiv);
 
-  // Sort them for consistent display
+  // Add the heading after the controls
+  const heading = document.createElement('h3');
+  heading.textContent = 'Venues';
+  pageList.appendChild(heading);
+
+  // Get unique page names and sort them
+  const uniquePages = new Set(allEvents.map(e => e.pageName).filter(Boolean));
   const sortedPages = Array.from(uniquePages).sort();
 
-  // If you want to "default" enable all, fill activePageFilters with everything
-  // after we've identified them.
+  // If no venues are selected yet, select all of them
   if (activePageFilters.size === 0) {
-    sortedPages.forEach(pageName => activePageFilters.add(pageName));
+      sortedPages.forEach(pageName => activePageFilters.add(pageName));
   }
 
-  // Build a checkbox for each page
+  // Create venue items
   sortedPages.forEach(pageName => {
-    const item = document.createElement('div');
-    item.className = 'page-item';
+      const item = document.createElement('div');
+      item.className = 'venue-item';
 
-    // We can’t know the URLs for pages unless we stored them. If you want a link, you can store it.
-    // For now, we’ll just display the pageName text.
-    item.innerHTML = `
-      <span>${pageName}</span>
-      <label class="page-toggle">
-        <input type="checkbox" name="${pageName}" ${activePageFilters.has(pageName) ? 'checked' : ''}>
-        <span class="slider"></span>
-      </label>
-    `;
+      const venueUrl = allEvents.find(event => event.pageName === pageName)?.venueUrl || '#';
+      
+      item.innerHTML = `
+          <div class="venue-info">
+              <a href="${venueUrl}" target="_blank">${pageName}</a>
+          </div>
+          <label class="venue-toggle">
+              <input type="checkbox" name="${pageName}" ${activePageFilters.has(pageName) ? 'checked' : ''}>
+              <span class="slider"></span>
+          </label>
+      `;
 
-    const checkbox = item.querySelector('input');
-    checkbox.addEventListener('change', (e) => {
-      if (e.target.checked) {
-        activePageFilters.add(pageName);
-      } else {
-        activePageFilters.delete(pageName);
-      }
-      displayEvents();
+      const checkbox = item.querySelector('input');
+      checkbox.addEventListener('change', (e) => {
+        if (e.target.checked) {
+            activePageFilters.add(pageName);
+        } else {
+            activePageFilters.delete(pageName);
+        }
+        saveVenuePreferences();
+        displayEvents();
     });
+    
 
-    pageList.appendChild(item);
+      pageList.appendChild(item);
   });
+
+  // Setup venue control buttons
+  const enableAllBtn = document.getElementById('enableAllVenues');
+  const disableAllBtn = document.getElementById('disableAllVenues');
+  
+  if (enableAllBtn) {
+      enableAllBtn.addEventListener('click', () => {
+          sortedPages.forEach(pageName => activePageFilters.add(pageName));
+          const checkboxes = pageList.querySelectorAll('input[type="checkbox"]');
+          checkboxes.forEach(cb => cb.checked = true);
+          saveVenuePreferences();
+          displayEvents();
+      });
+  }
+  
+  if (disableAllBtn) {
+      disableAllBtn.addEventListener('click', () => {
+          activePageFilters.clear();
+          const checkboxes = pageList.querySelectorAll('input[type="checkbox"]');
+          checkboxes.forEach(cb => cb.checked = false);
+          saveVenuePreferences();
+          displayEvents();
+      });
+  }
 }
 
 /**
@@ -549,6 +622,8 @@ function registerEvents() {
  */
 document.addEventListener('DOMContentLoaded', async function () {
   await loadAllEvents();
+  loadVenuePreferences(); // Load saved venue preferences
+  displayEvents();
   createFilterToggles();  // For TAG filtering
   populatePageList();     // For PAGE_NAME filtering
   registerEvents();
