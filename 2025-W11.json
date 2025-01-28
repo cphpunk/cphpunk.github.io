@@ -86,7 +86,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1127733775568201/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470006557_1152563070205865_5326317103484706823_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XdnTk1xpxqEQ7kNvgHz0hXp&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A9lIennK5U7tP7M3FYm4IK5&oh=00_AYCl8T7ZXhnDEeDzu5ZcdiHcGuMpSvVqjHyJGy4APm5S6w&oe=679C0143",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470006557_1152563070205865_5326317103484706823_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TxrwuzrfBG4Q7kNvgFA6yZF&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AJLKFF5qz2k0jRXCnyQ8WWx&oh=00_AYCk0UIPbrvDlA09IniCdLBBB_-hcfPX26TyFyx0J7T01g&oe=679EDC83",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BETA2300",
@@ -105,7 +105,7 @@
       "name": "K.B. Hallen",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -117,7 +117,7 @@
       "plus_code_locality": "Frederiksberg, Denmark"
     },
     "url": "https://www.facebook.com/events/3834315086814970/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465544775_962248529269855_1831753560160195872_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jAUv2_VpMXcQ7kNvgHZYdp4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AjySeksALNv7SfcOykMRY5G&oh=00_AYBmLwjSXRpMKQUkCrZhtmhDwBBPVOk236KZjnU6L2nOUA&oe=679C1063",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465544775_962248529269855_1831753560160195872_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=etlr24m2WMEQ7kNvgEluSoi&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AiVhyF0x81GyS1ExHvWSDZt&oh=00_AYBDmOYViEiw1MBXrxJTl1-JY_MnVNQm0YPTs4lX_hroQQ&oe=679EEBA3",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -179,7 +179,7 @@
       "plus_code_locality": "Herlev, Denmark"
     },
     "url": "https://www.facebook.com/events/1328005308380580/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472771735_1003462695151453_3552046569755998854_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=t2GoGMuDQZoQ7kNvgHO_UaI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AVudpH1UERSyADtB_TmdlTl&oh=00_AYB7N1VLQLEtwSC68_2M62uxzcnX1cu-wTeNphTPtDZGYw&oe=679C0ECE",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472771735_1003462695151453_3552046569755998854_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h68RA7cvNSEQ7kNvgE5QpHI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AAV1X98ggm4EbU4QRAMQyg0&oh=00_AYBOevUxpILqjUJVts6TDM5OSF925b9I5q41CA2lVPll1A&oe=679EEA0E",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
@@ -187,7 +187,7 @@
   },
   {
     "id": "624656386603652",
-    "name": "DEATH METAL - DEAD VOID, HYPERDONTIA, PUSTULANT FLESH",
+    "name": "DEATH METAL - HYPERDONTIA, DEAD VOID, PUSTULANT FLESH",
     "description": "INFO TBA ",
     "date": {
       "start_timestamp": 1741719600,
@@ -210,10 +210,41 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/624656386603652/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475045226_1027685169391034_2631595714393379248_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=shoNgIvId2IQ7kNvgHgIq4s&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A2weW8vwpnozrdZuGpwF072&oh=00_AYB7FBAzMuBmtQ9EXrexH8eqdfdjdKr8en6oe44-BhFXOQ&oe=679C12D2",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475126288_1028970215929196_1542528521222921385_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NXGo9htmrqoQ7kNvgF-wWMx&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AN-sGeO68yCOqoceKTQpYXm&oh=00_AYBI0Ull3rQHWb102Kj5TswzCeHOkybd4M8YfWqlsCPe9w&oe=679EF4D4",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ungdomshuset",
     "page_url": "https://www.facebook.com/UngdomshusetD61/events"
+  },
+  {
+    "id": "kk-final-descent-ryosuke-kiyasu-jp-sol-ey-is-xenon",
+    "name": "Final Descent: Ryosuke Kiyasu (JP) + Sól Ey (IS) | Xenon",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p dir=\"ltr\">\n  Since 2003, Ryosuke Kiyasu has shocked and captivated the experimental music scene with his physical performances, best described as freely improvised solo grindcore on the snare drum. Icelandic Sól Ey sets the mood with her body instrument performance Hreyfð.\n </p>\n <p dir=\"ltr\">\n </p>\n <p dir=\"ltr\">\n  <strong>\n   Ryosuke Kiyasu (JP)\n  </strong>\n  : Ryosuke Kiyasu has been deeply involved in the Japanese experimental music scene since 2003, both as a member of Sete Star Sept, Kiyasu Orchestra, and Keiji Haino's legendary band Fushitsusha, but also to a great extent through his expressive and confrontational solo performances on the snare drum, where the instrument is attacked with violent, physical bursts of energy.\n </p>\n <p dir=\"ltr\">\n  A show that, despite its simple formula, has captivated and shocked the experimental music scene worldwide, sending Kiyasu on a constant global tour with this niche concept.\n </p>\n <p dir=\"ltr\">\n  One performer, one microphone, one snare drum, one table, and a pair of drumsticks.\n </p>\n <p dir=\"ltr\">\n  This simple setup is a gift to Ryosuke Kiyasu’s technical mastery as a drummer and improviser, while also serving as a blank canvas where immediate physicality paints the strokes.\n </p>\n <p dir=\"ltr\">\n  The performances are often brief, intense, and high-frequency, typically leaving audiences in a state of either fearful alertness or laughter.\n </p>\n <p dir=\"ltr\">\n </p>\n <p dir=\"ltr\">\n  Experience the phenomenon yourself at Xenon in HUSET, where Ryosuke Kiyasu unleashes his raw energy in a performance that lies at the intersection of avant-garde, free improvisation, and harsh noise.\n </p>\n <p>\n  <br/>\n  <strong>\n   SUPPORT\n  </strong>\n </p>\n <p dir=\"ltr\">\n  <strong>\n   Sol Éy (IS):\n  </strong>\n  Composer, performer, and new media artist from Iceland. She creates performances, interactive installations, and designs instruments that combine sound, space, movement, light, and the body. Often working with sensors and new technologies, her work emphasizes immersion, participation, and social interaction.\n </p>\n <p dir=\"ltr\">\n  Currently, her artistic research focuses on the possibilities of the human body when extended with electronics or objects.\n </p>\n <p dir=\"ltr\">\n  This evening, Sól Ey performs her piece Hreyfð. Hreyfð (which means \"she is moved\" in Icelandic) is a wearable speaker instrument that creates sound through movement. The instrument is part of Sól Ey’s ongoing research into live electronic music, which connects the physical body and gestures with musical performance.\n </p>\n <p dir=\"ltr\">\n  The aim is to develop methods for performing electronic music with vivid expression on audible, visual, and tactile levels.\n </p>\n <p dir=\"ltr\">\n </p>\n <p dir=\"ltr\">\n  Hreyfð uses microphones and speakers to create audio feedback, which is processed with a microcontroller and gyroscope signals. The feedback creates a field of audible possibilities that can be learned and played through practice.\n </p>\n <p dir=\"ltr\">\n  The instrument always has its own playful, unpredictable, and organic character, which the performer navigates precisely through proximity and positioning.\n </p>\n <p dir=\"ltr\">\n  With speakers attached to the body, the performer becomes the direct sound source. Thus, the physical body also acts as a sound object moving through space—a form of physio-spatial sound or sonic choreography.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1742065200,
+      "end_timestamp": 1742079540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Xenon",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/final-descent-ryosuke-kiyasu-jp-sol-ey-is-xenon",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-01/Ryosuke%20Kiyasu_0.png?h=f9e98fb2&itok=p9wyiuA_",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

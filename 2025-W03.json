@@ -122,5 +122,36 @@
     "platform": "Facebook",
     "page_name": "Madboks",
     "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1294309398264424",
+    "name": "Tickled Pink Comedy Night 13 January",
+    "description": "Warm up your winter nights with an evening of cocktails and laughter!\n\nCenter Stage is proud to present a weekly series of stand-up comedy events hosted by Comedy Queen and Grande Dame, Lee Praecis. Enjoy an exclusive evening featuring a diverse lineup of stand-up comedians from Scandinavia and beyond.  \n\nThe series kicks off with a massive 2-hour launch event on Monday, 13 January, showcasing this exciting lineup:  \n\nCecilia Bau\nMiguel Aliaga  \nRozarina Larsen  \nDavid Kudzai  \nElla Fokin\nDerek Hartmann  \nSaadi Mengal  \nKat Attack\n\nCome along for an unforgettable night of entertainment!  \nProgramme\n1900\tWelcome and Introduction of first-half \n1945\tBreak\n2000\tSecond-Half\n2100\tComedy Night ends\n\nWant to perform?  \nIf you're interested in stepping into the spotlight, please feel free to contact us or our host, Lee Praecis. Let’s see how we can make your comedy dreams come true.  \n\nFree Event  \nWhile this event is free, seating is limited. Please register your attendance through this Facebook event so we can ensure there’s plenty of room for what promises to be a fabulous night!  \n\nAbout Lee Praecis\nhttps://linktr.ee/lee.praecis\n\nThe freshest comedy queen on Copenhagen's entertainment scene, Lee Praecis, has captivated international audiences with her perfect blend of spice and style. Straddling both the English stand-up comedy circuit and the queer club scene, she thrives on the unique challenges and opportunities presented by each.\n\nA somewhat charming event host, Lee enjoys sharing questionably accurate—yet undeniably entertaining—stories. But above all, she delights in captivating crowds, both big and small.\n",
+    "date": {
+      "start_timestamp": 1736791200,
+      "end_timestamp": 1736798400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Studiestræde 24, 1455 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.678437500000015,
+      "longitude": 12.568812500000021,
+      "bounds_ne_lat": 55.678500000000014,
+      "bounds_ne_lng": 12.56887500000002,
+      "bounds_sw_lat": 55.67837500000002,
+      "bounds_sw_lng": 12.568750000000023,
+      "plus_code_global": "9F7JMHH9+9G",
+      "plus_code_local": "MHH9+9G",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1294309398264424/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473594177_122148150362359067_7721861911270128938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zYX-5dWzNjYQ7kNvgHTyDMN&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AR_296tyw2wBH_Sf8iU7IMW&oh=00_AYAtO_pgJjSwIhLt-oljfcSWeDYuqjH6cKuqsK2_H79exg&oe=679ECFEE",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Centre Stage CPH",
+    "page_url": "https://www.facebook.com/profile.php?id=61560772023333&sk=events"
   }
 ]

@@ -43,7 +43,7 @@
       "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.709812499999984,
       "longitude": 12.526937500000017,
       "bounds_ne_lat": 55.70987499999998,
@@ -55,7 +55,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1103765154659536/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PS54RroLkWQQ7kNvgH3biPR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-hiLBLd-MoNvdl2LVgdsmY&oh=00_AYAxSFDWHXBlF8L4zi7VLNMhjlDM4FgxZ_rWkzy7ZOhfNA&oe=679BE7D8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PS54RroLkWQQ7kNvgHHxJDB&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AkU5Z-foc84kdzcUvtHwv1c&oh=00_AYANLAotB2NKHaMZRP1C93oHYMmCY0TqibH2xdghsfOD4A&oe=679EFB58",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -105,7 +105,7 @@
       "name": "Bremen Teater",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
       "bounds_ne_lat": 55.676625,
@@ -117,7 +117,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1128004235639421/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474150801_1139170244250619_5771595994633867145_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=93NvZoMKv_YQ7kNvgHfhVJ-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-cCVjGfNozkIe7frwNWBYg&oh=00_AYAKWgcLwZAoeqea71ouCCy3dnV2yc7Pk8qqMvXfW9CZ8w&oe=679C0573",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474150801_1139170244250619_5771595994633867145_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HPGdQa2uh9EQ7kNvgGqEnWt&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ADwrwnwemFifXWsYHdnvHo9&oh=00_AYA7gE_KBY2JEm-MZmGErziq5sB91LDXe43NkM9RaCkjaQ&oe=679EE0B3",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -148,7 +148,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/586891907601034/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474874848_1139210344246609_8834822748911733996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Lum4MB6JLG0Q7kNvgGLKrW8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AVsb4QLTJmXpkAQyDIxvSDM&oh=00_AYBUSekl-W7CtYZyjiUsq7cp7gN8ghMPG96_DpYGJOJ7Kg&oe=679BEF4D",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474874848_1139210344246609_8834822748911733996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U6r0HA8wQ2kQ7kNvgEKScjw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AbLyAn6ox431udA9VnMRyql&oh=00_AYBYeCpQ-Q6xVHDky9qsUdO31_H_kHtkckzvPLFBbTMsdQ&oe=679F02CD",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -179,7 +179,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1063541145528918",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4k7HUV0a8-EQ7kNvgHSxsOn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AB0uA138Jr3c7uc-MUij98m&oh=00_AYCl_1AmhJAQF3mz1v07xD73I6wKm0lAFGQgkndXk_oMgw&oe=679C15BF",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=v6UVPG82nmIQ7kNvgEVmREa&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AXrk4mUiz6KI3u8d8t4eVVE&oh=00_AYDdNaABbw7px9MG3YOzIRtPNyMVc-7E3eqTBtF1ZYnDXA&oe=679EF0FF",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Red Door",

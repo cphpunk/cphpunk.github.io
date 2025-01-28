@@ -1934,7 +1934,7 @@
       "name": "Studiestræde 24, 1455 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.678437500000015,
       "longitude": 12.568812500000021,
       "bounds_ne_lat": 55.678500000000014,
@@ -1946,7 +1946,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/508897292207196/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/472260607_122146040474359067_1851483202167495786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=39YjVGe3ZrwQ7kNvgFovOCg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ANRYWqInhvXLQA07lni06Mo&oh=00_AYDHI5yYo-WoTD_OJC-GeCSJnxx_t7BHKIa-EP6_gyh1Qg&oe=67943A6A",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472260607_122146040474359067_1851483202167495786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mgOqWSkLtkAQ7kNvgHZPZe-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ao6x8Sdn7e553Hgy1iDqixe&oh=00_AYCdPl5d__57E6GJhqXAHkX6RK74CVLwd9c4QMDQpJ9EYw&oe=679EFEAA",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",
@@ -2132,7 +2132,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1134668714736850/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473222740_1015397910625570_5194881895549846919_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=agc7mESuRmYQ7kNvgGjG-tV&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AGZSNlT9kU_0mH-gukI3fAp&oh=00_AYDlGSqzAU9C4owDC5VvK-0ux_uz4ZaVYk_8wXpcqizYKA&oe=679C192E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473222740_1015397910625570_5194881895549846919_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IG--6CG3ICcQ7kNvgF4jDXH&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AH65nrivFK2TEMcYkAivssE&oh=00_AYCb-y8iOBMEABmBR4aRJ_aRtOqqOtQJ3XgGh5G1tQe8yw&oe=679EF46E",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Cinemateket",

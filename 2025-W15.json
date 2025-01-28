@@ -72,9 +72,9 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Sjællandsgade 12a",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
       "bounds_ne_lat": 55.6935,
@@ -86,7 +86,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/436570836196936/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1kRxRDaHfGUQ7kNvgFndall&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AVGXe50AK8LIPqsdwuJmwlS&oh=00_AYDKn-iCuQdDbcYyjA9iENaj3fBPY1aTv2m1a5ufVm8BeQ&oe=679C16CF",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W0Am4ZuK9RoQ7kNvgH21PA7&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AT2Sq8Ofsrds4UeqwN8tZ28&oh=00_AYBLDqVTg8Wp_4TKePHSKzq4MBajNhy-3Pm6QwpXBAH_QA&oe=679EF20F",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",

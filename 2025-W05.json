@@ -12,7 +12,7 @@
       "name": "Nørrebrogade 208, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.699687500000024,
       "longitude": 12.543312499999999,
       "bounds_ne_lat": 55.69975000000002,
@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/972134328091255/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470569616_1137284801733808_4893132221831013351_n.png?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W3HzFSLCp_4Q7kNvgGDepKA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AUd8ND_v2wKpvpVkM1_n3CL&oh=00_AYA7Xav8ROB07aCghFeq8bxH4twX-1QSVAMR6Ox06Lh5rw&oe=679BF6FA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470569616_1137284801733808_4893132221831013351_n.png?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gW5PJGP-WcwQ7kNvgHzUKCf&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AcCfq7bMcpnUFZFkgYVeG_J&oh=00_AYBQpq0H5Itj26BREwQeJf9-xu_e1Fu4XO9EkTirMqEemw&oe=679ED23A",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Nørrebrohallen og Nørrebro Bibliotek",
@@ -190,8 +190,8 @@
     "name": "SPOST+MAYHEM PRÆSENTERER:",
     "description": "Spost\n\nGhillie\n\nRo\n\nDj Algorythm\n\nDj Adagio for things",
     "date": {
-      "start_timestamp": 1738346400,
-      "end_timestamp": 1738353600,
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
       "timezone": "Europe/Copenhagen"
     },
     "location": {
@@ -210,7 +210,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://mayhemkbh.dk",
-    "image_url": "https://mayhemkbh.dk/wp-content/uploads/2025/01/1000028238-495x700.jpeg",
+    "image_url": "https://mayhemkbh.dk/wp-content/uploads/2025/01/IMG_7524-700x366.jpeg",
     "tag": "MUSIC",
     "platform": "Mayhem",
     "page_name": "Mayhem",
@@ -241,7 +241,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/572142198799230/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468780981_1082799343847503_2918402101424460786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W68U1FTbhpUQ7kNvgGQ7Zju&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A374CQQd9wbBBlNPXqiV2ml&oh=00_AYAzkpBXAqmfzMk5Ht1n1xRpT6wauPdz5IfRe9pY04YtRQ&oe=679C0A52",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468780981_1082799343847503_2918402101424460786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=f_gJzkiobgMQ7kNvgF63mOh&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AK1AnZa4MEGThwZtWxTJs50&oh=00_AYCumujZ9S6vD3dokxUXdekPwScLniN6FPDFd_SBG_8QRQ&oe=679EE592",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Råhuset",
@@ -272,7 +272,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1132663658532543/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470688241_1147255707408538_1971885533604340366_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NcQEXYLnHDgQ7kNvgEbzvxa&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A12fl-aoire7nLllnRGHXeT&oh=00_AYDO6fYpmsZUspG5z3qm5Y-eNEKorcnjZJsABvUgCqmNRw&oe=679C0E3A",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470688241_1147255707408538_1971885533604340366_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NeueCPrr830Q7kNvgF7zr-9&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AYuk9HEASvSU6NEm66IsqfW&oh=00_AYCYVtIc40j9xBM5Fs60chqy6kU1Cq-iYqe66uwLNCZnog&oe=679EE97A",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Punks Undead",
@@ -303,7 +303,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/588271967038771/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/467672423_545033001784915_8161303394356574087_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=El3ZqoWwPngQ7kNvgH9lyt2&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AxxBHK1aO7HZldH-f8wfHOF&oh=00_AYCRbQ83eM8tDjlBGFQK-gZbl9yEwwMMWhVGfpFhOfs8Ww&oe=679C1190",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/467672423_545033001784915_8161303394356574087_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5X6_EOlPru0Q7kNvgHAOTcv&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AyTSFzrvJ8HS6FZnGHolJ_0&oh=00_AYDrohZlQqbQ1rAHbJMp1k-Sd7ZZ_FeotALUqQYRvQmQnQ&oe=679EECD0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Råhuset",
@@ -334,7 +334,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/550364941282310/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465784099_10161846468719441_4254796619307621605_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3NjPR7d6KiQQ7kNvgFC0Ehy&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A4b0lMGCd52vo9BGahlYXXK&oh=00_AYCQHjlgvniGi5tGVNVj2O3ay48fjKx2TC_OEm1da7RUpw&oe=679BE640",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465784099_10161846468719441_4254796619307621605_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OblJ_qFpKVoQ7kNvgFobDiC&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AmKquAVVJjJEWx1Szr61gky&oh=00_AYB1iNluHIEFO0sF_gLY-tg5A7PL_A6oGNc7wnlNpckYRg&oe=679EF9C0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Råhuset",
@@ -353,7 +353,7 @@
       "name": "Spillestedet Stengade",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.68831250000001,
       "longitude": 12.555687500000019,
       "bounds_ne_lat": 55.68837500000001,
@@ -365,7 +365,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/458808683355560/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464829763_941096124716334_3969224046752539494_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5PKOmI-iyRwQ7kNvgEcZdcJ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AvDvCJRAivy-M9CPCEL55UN&oh=00_AYBZkclnniO3X0smgkGgCtE4IZ81qaY7qU7KNFf9d3Ic1A&oe=679BFD28",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464829763_941096124716334_3969224046752539494_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_X8Yhr1SX84Q7kNvgGxV3N6&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AdrcmVrkD71UISyDmakEZ8e&oh=00_AYC4iQWxg0q9fY7LJHhAFm7ob2q7l_pROGOzmoQZHVxJIg&oe=679ED868",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Spillestedet Stengade",
@@ -384,7 +384,7 @@
       "name": "Spillestedet Stengade",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.68831250000001,
       "longitude": 12.555687500000019,
       "bounds_ne_lat": 55.68837500000001,
@@ -396,7 +396,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/439181405453595/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/463734535_931538325672114_3778395745164273447_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ee6-RbnOK34Q7kNvgGcL-OU&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A2S6O7uWLjgXs6mWcLqBtkY&oh=00_AYB9i-ysRtFbwgW8wblbfJ1uKLiIjKaOxs_FrWVs2rZBrA&oe=679BE720",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/463734535_931538325672114_3778395745164273447_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0kUJpjWPjCYQ7kNvgEdFiHR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A6s7MffL3xPVbcfjD0V3eKJ&oh=00_AYCf-nJTjejq9a4Z7xdvEgD25yzgLJc1OuQqJR89dzzE8A&oe=679EFAA0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Spillestedet Stengade",
@@ -415,7 +415,7 @@
       "name": "Spillestedet Stengade",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.68831250000001,
       "longitude": 12.555687500000019,
       "bounds_ne_lat": 55.68837500000001,
@@ -427,7 +427,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1458692978142929/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472526180_986227823536497_5550998544969633740_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J3BPIbWTmQ0Q7kNvgGAKSIy&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Af8V6ZHn9vsDNLhvqNW4gap&oh=00_AYAlyA-Bez4DfTBHjDJbf-VzHdrVSPJ8a_ichSWvqIs_dQ&oe=679BE314",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472526180_986227823536497_5550998544969633740_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xyXO_fI1m94Q7kNvgGfvhsm&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AFkthUetvAUzJrB08dMBvv0&oh=00_AYClbxa-1m7u38K7Gmom4eCQ3aHgAP26xwHAhdOLU4Yvug&oe=679EF694",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Spillestedet Stengade",
@@ -489,7 +489,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1791467141689396/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469231847_997797349043817_3436706349336941442_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8KvuBN2nYR0Q7kNvgGil9Ps&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AxBT1MhqMKh31Qd5lGrsPG7&oh=00_AYA6nDqm9kSOhMTfeiM97EtLWfQNmhigyH5OJxH4Xxrm7A&oe=679BF582",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469231847_997797349043817_3436706349336941442_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hXEF94hsmIAQ7kNvgFJk-W0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AVYW0vGzzHRKUNO5fTRM6JW&oh=00_AYD8LBXhLOUsHFL5hw4iFzGPjMVORCDD7Bw79HSCnTOaog&oe=679ED0C2",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "ALICE cph",
@@ -520,7 +520,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1130422665289664/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472854394_1021672756656276_8086512716667238403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RiSqujwwReQQ7kNvgEbj7CV&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A0qwerFC4coArVP7JhTfP0z&oh=00_AYAElgW5LOHkKNrM_p5dz_0G1o8cHH9adsGsUS7zHC_ZgA&oe=679BE494",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472854394_1021672756656276_8086512716667238403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sh13hmr3dhkQ7kNvgGFCk7U&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ay7iMqR2R5iFiE3SszQVj0P&oh=00_AYBN1iX43W1svKkiGG2ErjmcCN_A0tZoLg6VUj7b7cIQyg&oe=679EF814",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "ALICE cph",
@@ -551,7 +551,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1774781556651114/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470207850_971641498330994_1653549516680867439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wCNXt1SSFKYQ7kNvgFGM8Q9&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AB8mUyAF6LaXrL-G2229gSF&oh=00_AYDz37gwRa-BxqVh_ZzSSOCF_AWRHu8m8rnGW6PbA_h5mw&oe=679BFA2C",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470207850_971641498330994_1653549516680867439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jrNDGCuhnUMQ7kNvgHhVyOJ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AAtKcdCx-kVi1l7InfYSJ-e&oh=00_AYDFnBYxCE3rE3NGtQWyhd6Xx6PKKM-S_Wps546l1Ix8Eg&oe=679ED56C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musik Loppen",
@@ -582,7 +582,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1530423990943255/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459240428_903396405155504_2741720358278954492_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JWhBfi1TqOQQ7kNvgF6vOK1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ab9UW5A1IyQgGoT7EmNv_u6&oh=00_AYAgt8jX8GasHuTodlLA9vIjDbYkYBr3C_-2JdnQlRwgCw&oe=679BFEBE",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459240428_903396405155504_2741720358278954492_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8yttgWAVXCUQ7kNvgFZINp0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ALW60_AOq7Fb_4RZXQMZx2J&oh=00_AYAXAThhAiHfWGf5kChcpxif7pjkfx78M8n-168j5ezGhA&oe=679ED9FE",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musik Loppen",
@@ -590,7 +590,7 @@
   },
   {
     "id": "932580935433323",
-    "name": "Flammen m. Live band // Loppen - Special Guest: hvem",
+    "name": "[FÅ BILLETTER] Flammen m. Live band // Loppen - Special Guest: hvem",
     "description": "D31 januar bliver Loppens brændsikkerhed sat på prøve når Flammen og hans band, samt OTS Crew og adskillige andre gæste-rappere starter 2025 med et brag af en fest!\n\n21.00 - Døre åbner\n22.00 - hvem\n22.30 - Flammen m band\n\nEarlyBird: 130kr (inkl gebyr)\nForsalg: 150kr (inkl. gebyr)\nDørsalg: 180kr\nhttps://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6731001cacfefa4ad510a28c\n\nFlammen er en 21 årig rapper fra Storkøbenhavn, som er vokset op i undergrunden og opdraget af den gamle skole. Med rødder i battlerap har Flammen lært hvordan man freestylerapper/improviserer om publikumsvalgte ord, og har gjort det til en fast del af liveshowet, hvilket giver crowden en unik og interagerende oplevese, udover de skrevne og udgivede sange han naturligvis også har med. Sangene spænder bredt over beats fra alle genre, men har det tilfælles at fokus er på lyrikken, dobbeltrim og ordspil. Derudover har Flammen galoperende ADHD som tydeligt kommer til udtryk når liveshowet løber af stablen\n\nLive bandet består af Flammen, DJ “Wilhook” og Backup-rapper “AkaPelle”, en trommeslager og en bassist, Samt besøg fra utallige gæsterappere og OTS Crew medlemmer.\n\nDe 3 drenge, Flammen, Wilhook og AkaPelle har lavet en masse musik sammen og var i Marts 2024 på tour hvor de udsolgte både Vejle og København. Efter en festivalsfyldt sommer med alt fra koncerter til freestyle shows, er deres kemi på scenen blevet nærmest urørlig og man kan roligt sige at man får 3 rappere, plus det løse, for billetten\n\nVarm op til koncerten:\nhttps://open.spotify.com/playlist/37i9dQZF1DZ06evO25BzU1?si=9975b116fcb3463d\n",
     "date": {
       "start_timestamp": 1738353600,
@@ -613,7 +613,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/932580935433323/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473626423_891365179861613_1787766725401029213_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UzrWUuP7XVkQ7kNvgGlMytW&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ACEhHLa3M4jUeU67DVfMD5Q&oh=00_AYC_SdFcWGGW_MpvmyyCE11XtxoAPt73om2_LpWP_JMx6A&oe=679C0ACE",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475273677_899782519019879_7978946112431223156_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lqbmNtqhlMMQ7kNvgHnebIq&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AyI6QJcUsFbtXt8pS865dny&oh=00_AYAc9aTK4Xpcp2AZDp4CcoemgUkmQHVIRi3IPm7LnZYXtQ&oe=679ED4A7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musik Loppen",
@@ -644,7 +644,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/411911868578684/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471676384_1189735143161990_2148201024863273990_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6IRcF_5T5d8Q7kNvgFkFaHs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AofHycbUJE3wN8F06RTXkN9&oh=00_AYDcO2NmCbCZc3QsKRB2FCxE1S6vprN4bql24UoSGekskg&oe=679BE758",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471676384_1189735143161990_2148201024863273990_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7zjj-iJ8t5QQ7kNvgFuI2WL&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A6ghtSNxB4vwjqoQNBwBA1j&oh=00_AYAjbKams3U_LBP-BKLOPJ4qXd0_hVD25C4Cv0KXXNrhlg&oe=679EFAD8",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musik Loppen",
@@ -675,7 +675,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2029436514145144/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472269722_1190949119195242_1519634671320820230_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=l6DNxI6xi1YQ7kNvgHFmNse&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AiPYXcIRDuzzV4cpc6Bh2q1&oh=00_AYA64yPS2DRRrSA4OLyEkGLC6EUq66OP5tzp4VpopV0kGQ&oe=679BFDA1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472269722_1190949119195242_1519634671320820230_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rRD56DoWrE8Q7kNvgHoxBop&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AC_USaQQxkLTevpUd4oWXf8&oh=00_AYApIp2eTVQK6ygg_NqPxHXdZ7kL3AwPcyLetyr5DHtfsw&oe=679ED8E1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "KoncertKirken",
@@ -706,7 +706,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/3866501473664272/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471994470_1189272759362878_9117712694584375479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oPRitETt6PQQ7kNvgFfCZMe&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AXHKRmx7o5nkvprGEaXcvng&oh=00_AYAzHboWg33xrJ8pfFklZwnshEn83VscxWNqrRr4GmSACw&oe=679BE29D",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471994470_1189272759362878_9117712694584375479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oPRitETt6PQQ7kNvgEruK-u&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ACQsiWPPYMAZY3eltEL41vg&oh=00_AYDe3rP1KQ-Hdd1_riiU-uOaCPYqGfp3bFNjzTVzfdPkZw&oe=679EF61D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "KoncertKirken",
@@ -737,7 +737,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/637681702018080/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472666070_1190947612528726_1657227722878944292_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tfw0x7YAgVwQ7kNvgFm889i&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ad7aC8oB2cNWtQaSrxGdXsF&oh=00_AYDqCrjN7lSdZuZoFGV08ql1M7lElk4M0ESAXkYDUEfM2g&oe=679C01A7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472666070_1190947612528726_1657227722878944292_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZU6bk0W9qxUQ7kNvgFDZw_5&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AWatyPcs3SUq10qTP4TnGK_&oh=00_AYCUE55Uk1ajWgOjwAol9VfPtiNICMxI_DvOXmCYWf5O0g&oe=679EDCE7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "KoncertKirken",
@@ -768,7 +768,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2368026320217429/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472670867_1190952752528212_7051722065029283018_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9zBdU5w5upoQ7kNvgFm2QEN&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AOfVzX9mt49P51zEOYAjH5G&oh=00_AYAjbRCWSRrJLX9St9RYd5gaEB8xXJJEis62l9tcrmt51Q&oe=679BE4D3",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472670867_1190952752528212_7051722065029283018_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rTIuzje4Nd8Q7kNvgEKho7y&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AcWn2TXecX_Bnmg-2qI8-Q-&oh=00_AYCje6c12QMkp0xj5BWKpIrLDSBQAUxnRe-BQMnZkeaVQw&oe=679EF853",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "KoncertKirken",
@@ -799,7 +799,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1711371453053866/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473802612_992568089575061_3722758767459409610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9CWgQh46jRMQ7kNvgEXTaLg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A95bJW6Wjsoy3Zgc9jWFjEP&oh=00_AYCTEbXLpBIz6ZpaIp8BKXG2HDst94PxhRDrKyEBz8bkEw&oe=679BF205",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473802612_992568089575061_3722758767459409610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DQm9ppYFcmQQ7kNvgF8OrUx&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AnxFaCNd3LugD_6V8CirFNO&oh=00_AYA4RGR-1au9q3cS9E3Af7dM4vpVWhaBuVjya_24mgs3rQ&oe=679ECD45",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "RUST",
@@ -830,7 +830,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1118920686532071/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472766390_987087116789825_3151780651477480674_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EbATuSjHdIEQ7kNvgFqVXAt&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AQVdCippkvjOTXBe7BNw7Uw&oh=00_AYBWmD_ROmO1xGga27MNGqvEHlNmAX7MItgbcbdyv2ljzA&oe=679C13F6",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472766390_987087116789825_3151780651477480674_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LMCGdAnScn4Q7kNvgEXLzpZ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AKhG1pOIlZmdfAUCjQcHId9&oh=00_AYCkb9GOnhSd4hgubyPACmlr5fXxuFGMBf18h2rMGeAFTQ&oe=679EEF36",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "RUST",
@@ -870,7 +870,7 @@
   {
     "id": "1107508227393908",
     "name": "Bob Marley 80th birthday celebration 2025 // Pumpehuset",
-    "description": "Sky Juice Reggae og Pumpehuset fejrer Reggae-legendens 80-års fødselsdag i Pumpehuset den 1. februar 2025. \n\nWow, wow, wow The king of reggae turns 80.\nBob Marley OM 80th Birthday Celebration 2025\nSaturday February 1st  Pumpehuset, doors 19:30\n\nFeat: Dawn Penn -no, no, no- (Jamaica), backed by Hafizi Crew\nOne love Marley Band (Århus)\nMillion Vibes Sound (Sweden)\nFreetown Sound System (DK)\n+ many more read below and stay in tuned for updates.\n\nFor this special milestone, Sky Juice Promotions the organizers of “Bob Marley annual Birthday Celebration since 1988 until now in Denmark and who have also been taking this yearly event to all the major Danish cities plus Scandinavia will be making an exciting and informative Merry Making bash called \n’lively up yourself’\nNot only will it feature tributes to the King with great musical performances from various Reggae international and local Acts but it will also celebrate the king of reggae way of life.\n\nRobert Nesta Marley was born on the 6th February 1945, every year in February reggae fans all over the world celebrates The King Of reggae music birthday as a reminder of his work for peace, love and liberty. Songs such as “Jamming,” “Waiting in Vain,” “War,” and “One Love/People Get Ready,” has the message of Love, Peace and Social Justice, which has touched, uplifted and gave voice to the day-to-day struggles of so many people for irrespective of race, religion, status or gender around the world, even today.\n\n- Dawn Penn live from Jamaica –\n\n(with the big hit song No, no, no)\n\n- reggae talents from Denmark\n\nIncluding the One Love Marley Band (live from Arhus)\n\nMillion Vibes sound (Sweden)\n\nHafizi Crew (DK & Faroe Islands)\n\n- Work shop on Bob Marley’s life\n\n- Seminar on Rastafari and Reggae music\n\n- Nyah Bingi Drummers\n\n- Sound system (spinning Marley on the box)\n\n- Bob Marley works shown through video shows and images.\n\n- Live podcast by Fra Kingston Til København feat special guests\n\n ONE LOVE PEOPLE GET READY!\n\n\nDawn Penn Biography\n\nDawn Penn is one of the original queens of reggae music. A native of Kingston, Jamaica, she grew up in a musical family, studying piano, and classical violin and performing with her sisters Pat and Audrey in churches. Her first recording was “When I’m Gonna Be Free” in 1966. She was then recorded by the legendary Coxsone Dodd at Studio One and her first hit came in 1967 with the title “You Don’t Love Me – No, No, No”, one of the most famous reggae hits of all time which has been covered by countless artists around the world including Beyonce, Rihanna, Sean Paul, Wu-Tang Clan, Eve, J Millz, Mims, and Lily Allen to name a few.   \n\nMusical Career\n\nOver the next several years several singles were released including three: “Blue Yes Blue”, “Here’s The Key” Long Day Short Night” \"Blue Yes Blue and \"Are you There\" on Prince Buster’s Label. In 1970, she moved to Tortola in the British Virgin Islands to explore her roots on her father’s side. She returned to Jamaica in 1987, re-recording her single \"You Don’t Love Me” No, No, No, with Steelie and Cleavie in 1991. Steelie & Cleavie’s version (which they recorded to commemorate Studio One’s 35th Anniversary) was a crossover hit in the mainstream pop charts and was picked up by Heartbeat in the U.S. King Jammy’s recording that was done the year before with Bounty Killer, Dennis Brown and Ken Boothe, under separate recording on the Greensleeves label became a dancehall smash.\n\nIn 1993, Big Beat (Atlantic Records) signed Penn to an 8-year album deal, and by the following year she was back on the charts with her re-recorded dancehall version of “You Don’t Love Me – No, No, No”. The single charted in 68 countries, was featured in advertisements for Nissan and Churchill and the album was nominated for a Grammy Award. In 1995 she produced and recorded her original track “What Do You Do?”, followed up by Delroy Williams and herself producing the album called “Come Again” on Trojan Records which sold close to 110,000 copies. Her 2000 single “Never Ever” was released on Jet Star, becoming a smash hit on BBC Radio 1.\n\nIn 2001 she was honoured with the “Martin Luther King Award” by Caribbean Images in recognition of her contribution to Jamaican music. From 2002-2004 she collaborated with top U.S. hip-hop artists including John Forte of the Fugees on (“What You Gonna Do” and “Mercy pon we”) culminating in the release of the R & B Album- “Never Hustle The Music”, touring extensively across Europe. In the US, Cocoa Brovaz (“Spit Again”) was a Project on Rawkus.\n\nShe toured Hawaii with Alpha Blondy in 2005, officially releasing “Growing Up” to wide acclaim. Since then, Penn has been thrilling vintage reggae lovers and crossover fans alike at festivals in the U.K., Sweden, Belgium, the Czech Republic, Russia, Portugal, Spain, Switzerland, and Italy. She has written her book “Story of my Life” available in the Kindle Format on Amazon, all ebook stores, and this website.\nwww.dawnpenn.com\n\nBob Marley blev født den 6. februar 1945 i Nine Mile, ST. Anns i den nordlige del af Jamaica. Et barn af en jamaicansk kvinde ved navn Cedella T. Booker og en britisk flådeofficer ved navn Norman Marley. Marley forlod hjemmet som 14-årig for at forfølge en musikkarriere i Kingston, og resten er historie.\n\nHvert år i februar fejrer reggae-fans over hele verden The King Of Reggae's fødselsdag som en påmindelse om, at hans arbejde for fred, kærlighed og frihed lever videre. Sange som \"Jamming\", \"Waiting in Vain\", \"War\" og \"One Love/People Get Ready\" har budskabet om kærlighed, fred og social retfærdighed, hvilket har rørt, opløftet og givet stemme til så mange menneskers daglige kampe rundt om i verden.",
+    "description": "Sky Juice Reggae og Pumpehuset fejrer Reggae-legendens 80-års fødselsdag i Pumpehuset den 1. februar 2025. \nFor more Danish scroll down\n\nWow, wow, wow The king of reggae turns 80.\nBob Marley OM 80th Birthday Celebration 2025\nSaturday February 1st  Pumpehuset, doors 19:30\n\nFeat: Dawn Penn -no, no, no- (Jamaica), backed by Hafizi Crew\nOne love Marley Band (Århus)\nMillion Vibes Sound (Sweden)\nFreetown Sound System (DK)\n+ many more read below and stay in tuned for updates.\n\nFor this special milestone, Sky Juice Promotions the organizers of “Bob Marley annual Birthday Celebration since 1988 until now in Denmark and who have also been taking this yearly event to all the major Danish cities plus Scandinavia will be making an exciting and informative Merry Making bash called \n’lively up yourself’\nNot only will it feature tributes to the King with great musical performances from various Reggae international and local Acts but it will also celebrate the king of reggae way of life.\n\nRobert Nesta Marley was born on the 6th February 1945, every year in February reggae fans all over the world celebrates The King Of reggae music birthday as a reminder of his work for peace, love and liberty. Songs such as “Jamming,” “Waiting in Vain,” “War,” and “One Love/People Get Ready,” has the message of Love, Peace and Social Justice, which has touched, uplifted and gave voice to the day-to-day struggles of so many people for irrespective of race, religion, status or gender around the world, even today.\n\n- Dawn Penn live from Jamaica –\n\n(with the big hit song No, no, no)\n\nin addition\n\n- The One Love Marley Band (live from Arhus)\n\n- Hafizi Crew (DK & Faroe Islands)\n\n- Chelang\n\n- Gad Jimmy\n\n-+ more\n\n- Million Vibes sound (Sweden)\n\n- Work shop + Seminar on the life of the king\n\n- Seminar on Rastafari and Reggae music\n\n- Nyah Bingi Drummers\n\n- Sound system (spinning Marley on the box)\n\n- Bob Marley works shown through video shows and images.\n\n- Live podcast by Fra Kingston Til København feat special guests\n\n ONE LOVE PEOPLE GET READY!\n\n\nDawn Penn Biography\n\nDawn Penn is one of the original queens of reggae music. A native of Kingston, Jamaica, she grew up in a musical family, studying piano, and classical violin and performing with her sisters Pat and Audrey in churches. Her first recording was “When I’m Gonna Be Free” in 1966. She was then recorded by the legendary Coxsone Dodd at Studio One and her first hit came in 1967 with the title “You Don’t Love Me – No, No, No”, one of the most famous reggae hits of all time which has been covered by countless artists around the world including Beyonce, Rihanna, Sean Paul, Wu-Tang Clan, Eve, J Millz, Mims, and Lily Allen to name a few.   \n\nMusical Career\n\nOver the next several years several singles were released including three: “Blue Yes Blue”, “Here’s The Key” Long Day Short Night” \"Blue Yes Blue and \"Are you There\" on Prince Buster’s Label. In 1970, she moved to Tortola in the British Virgin Islands to explore her roots on her father’s side. She returned to Jamaica in 1987, re-recording her single \"You Don’t Love Me” No, No, No, with Steelie and Cleavie in 1991. Steelie & Cleavie’s version (which they recorded to commemorate Studio One’s 35th Anniversary) was a crossover hit in the mainstream pop charts and was picked up by Heartbeat in the U.S. King Jammy’s recording that was done the year before with Bounty Killer, Dennis Brown and Ken Boothe, under separate recording on the Greensleeves label became a dancehall smash.\n\nIn 1993, Big Beat (Atlantic Records) signed Penn to an 8-year album deal, and by the following year she was back on the charts with her re-recorded dancehall version of “You Don’t Love Me – No, No, No”. The single charted in 68 countries, was featured in advertisements for Nissan and Churchill and the album was nominated for a Grammy Award. In 1995 she produced and recorded her original track “What Do You Do?”, followed up by Delroy Williams and herself producing the album called “Come Again” on Trojan Records which sold close to 110,000 copies. Her 2000 single “Never Ever” was released on Jet Star, becoming a smash hit on BBC Radio 1.\n\nIn 2001 she was honoured with the “Martin Luther King Award” by Caribbean Images in recognition of her contribution to Jamaican music. From 2002-2004 she collaborated with top U.S. hip-hop artists including John Forte of the Fugees on (“What You Gonna Do” and “Mercy pon we”) culminating in the release of the R & B Album- “Never Hustle The Music”, touring extensively across Europe. In the US, Cocoa Brovaz (“Spit Again”) was a Project on Rawkus.\n\nShe toured Hawaii with Alpha Blondy in 2005, officially releasing “Growing Up” to wide acclaim. Since then, Penn has been thrilling vintage reggae lovers and crossover fans alike at festivals in the U.K., Sweden, Belgium, the Czech Republic, Russia, Portugal, Spain, Switzerland, and Italy. She has written her book “Story of my Life” available in the Kindle Format on Amazon, all ebook stores, and this website.\nwww.dawnpenn.com\n\nBob Marley blev født den 6. februar 1945 i Nine Mile, ST. Anns i den nordlige del af Jamaica. Et barn af en jamaicansk kvinde ved navn Cedella T. Booker og en britisk flådeofficer ved navn Norman Marley. Marley forlod hjemmet som 14-årig for at forfølge en musikkarriere i Kingston, og resten er historie.\n\nHvert år i februar fejrer reggae-fans over hele verden The King Of Reggae's fødselsdag som en påmindelse om, at hans arbejde for fred, kærlighed og frihed lever videre. Sange som \"Jamming\", \"Waiting in Vain\", \"War\" og \"One Love/People Get Ready\" har budskabet om kærlighed, fred og social retfærdighed, hvilket har rørt, opløftet og givet stemme til så mange menneskers daglige kampe rundt om i verden.",
     "date": {
       "start_timestamp": 1738434600,
       "end_timestamp": 1738441800,
@@ -892,7 +892,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1107508227393908/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474531304_1148490200618166_7561891486908299450_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PpRxleqqk0IQ7kNvgFssjcW&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AkVzYpy4Ewqk5acJj58Jo9J&oh=00_AYABvqPETDbkpH6_zWCGrB9ZOroMQf9McCh2o2PZV_02sA&oe=679BE69F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475428278_1154253186708534_8973514741195361383_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WHmjpY5A48UQ7kNvgGLbpGy&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-S_E0Rmy2MFT8O9hnKr7cz&oh=00_AYBo6GkWSHhHQX5l4aqpHEt7ThUyN4tOlifXQDPS_4Actg&oe=679ED64F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Pumpehuset",
@@ -923,7 +923,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/878361444238707/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471164174_575559545093271_680313954953492714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W4FFPmnDaggQ7kNvgFJqSD5&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AYU3OLO7LWsV_8wOYO9sKoa&oh=00_AYAGNUHPqFkNxDdZSPKaE_mccAFJkOIWHAJbOIGepTwAVw&oe=679BFCF8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471164174_575559545093271_680313954953492714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VoBoWS6LuFIQ7kNvgHBD1kZ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AGYjEhrlXwxa64fkXLME9bp&oh=00_AYDSMDtyaiUTJ5z62EOS31i75RXMfX4n8fiHgoPvp17y8A&oe=679ED838",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Pumpehuset",
@@ -932,7 +932,7 @@
   {
     "id": "983735170436623",
     "name": "Night Journeys: Ssaliva (BE) x vio lino (DK/IT)",
-    "description": "Night Journeys ⋆ HUSET presenting: Ssaliva (BE) x vio lino \nThe concert is part of Vinter Jazz 2025 \n\nVenue: HUSET, XENON, 4. etage\nDøre: 20.00\nShowstart: 21.00\nBilletter: 100 DKK / 50 DKK for studerende\n\nSsaliva (BE)\nFrançois Boulanger is an audiovisual artist born in Liège, Belgium in 1983. \nHe started producing music by the end of the 90’s/early 2000 and producing his visual work around 2010. \n\nIn 2011, he started his experimental project « ssaliva ». After working for years as Cupp Cave on alternative hip-hop and dance beats, he developped hypnotic soundscapes based on sparse rythms, lush tones and crystallised textures. A personnal and romantic rendition of a life amidst nature and city pollution. His work as ssaliva also consists of documenting equally ethereal and removed places in pictures, two compulsive and lonely processes that have made him accumulate thousands of strange, escapist mental landscapes. \n\nSometimes ghostly, sometimes sacred, an instantly recognizable form of melancholia. \n\nNext to collaborating with people like Yung Lean, Palmistry, Bladee, Swan Meat, City, Organ Tapes, Noctilucents & SKY H1, ssaliva has found himself playing at Berghain, Macao, De School, ALL Club Shanghai, Ohm and more performing among Grouper, Amnesia Scanner, DJ Stingray and many others. \n\nVio Lino Presse (DK/IT)\n\nvio lino is a danish/italian project, experimenting with sound…\nIt can be from using toy-instruments, pipe organ, voice alteration, sampling experience and field recordings. \nThrough electronic music-production, they try to find a space where these sound fragments can co-exist. A field with no rules and genre specification.\n\nhttps://www.instagram.com/_ssaliva/ \nhttps://www.instagram.com/vio_lino_o/\nhttps://www.instagram.com/night.journeys/\nhttps://www.instagram.com/husetkbh/ \nhttps://www.instagram.com/vinterjazz/\n",
+    "description": "Night Journeys ⋆ HUSET presenting: Ssaliva (BE) x vio lino \nThe concert is part of Vinter Jazz 2025 \n\nVenue: HUSET, XENON, 4. etage\nDøre: 20.00\nShowstart: 21.00\nBilletter: 100 DKK / 50 DKK for studerende\n\nSsaliva (BE)\nFrançois Boulanger is an audiovisual artist born in Liège, Belgium in 1983. \nHe started producing music by the end of the 90’s/early 2000 and producing his visual work around 2010. \n\nIn 2011, he started his experimental project « ssaliva ». After working for years as Cupp Cave on alternative hip-hop and dance beats, he developped hypnotic soundscapes based on sparse rythms, lush tones and crystallised textures. A personnal and romantic rendition of a life amidst nature and city pollution. His work as ssaliva also consists of documenting equally ethereal and removed places in pictures, two compulsive and lonely processes that have made him accumulate thousands of strange, escapist mental landscapes. \n\nSometimes ghostly, sometimes sacred, an instantly recognizable form of melancholia. \n\nNext to collaborating with people like Yung Lean, Palmistry, Bladee, Swan Meat, City, Organ Tapes, Noctilucents & SKY H1, ssaliva has found himself playing at Berghain, Macao, De School, ALL Club Shanghai, Ohm and more performing among Grouper, Amnesia Scanner, DJ Stingray and many others. \n\nVio Lino  (DK/IT)\n\nvio lino is a danish/italian project, experimenting with sound…\nIt can be from using toy-instruments, pipe organ, voice alteration, sampling experience and field recordings. \nThrough electronic music-production, they try to find a space where these sound fragments can co-exist. A field with no rules and genre specification.\n\nhttps://www.instagram.com/_ssaliva/ \nhttps://www.instagram.com/vio_lino_o/\nhttps://www.instagram.com/night.journeys/\nhttps://www.instagram.com/husetkbh/ \nhttps://www.instagram.com/vinterjazz/\n",
     "date": {
       "start_timestamp": 1738436400,
       "end_timestamp": 1738443600,
@@ -954,7 +954,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/983735170436623/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473641650_122189216678148191_3127634112263536576_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=O25z43ol3usQ7kNvgFm9_2-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ARv8oCNFcGTrSML8OncMViZ&oh=00_AYADLa4orS69k7pzMSeOv7vAIYOZrnjvMOOTyTsJY7mRZQ&oe=679C03C7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473641650_122189216678148191_3127634112263536576_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NcBnehPr-OYQ7kNvgEVRqRY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AM-FaPf5WRVk-vG19tHoJyG&oh=00_AYCazI0f1_KnLasjHvcZ1hQeZtSNIQF_x8ylgdjB-HO09g&oe=679EDF07",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "HUSET  (Huset i Magstræde)",
@@ -963,7 +963,7 @@
   {
     "id": "1525256111434788",
     "name": "Kærlighed i den digitale tidsalder <3 ",
-    "description": "💞💞💞💞💞💞💞💞💞\n\nSkal man downloade Tinder? Eller er man mere til sjove prompts på Hinge? \nDatinglivet kan være rodet og svært at finde rundt i. Heldigvis er du ikke alene! Kom til en spændende talk med dating i fokus. Få nye perspektiver, ideer og synsvinkler på nutidens dating kultur. Vi glæder os til en spændende aften med quiz, øl og gode snakke. Selvom kærlighed er svært nogensinde at blive klog på, vil vi give det et forsøg <33 \n\nTag dine venner og alle dem du kender under armen og vær med til en lærerig aften d. 30. Januar på HUSET i Magstræde! \nHold øje med eventet her på fb og på vores Instagram @sexogsamfundkbh, hvor vi løbende opdaterer program samt løfter sløret for hvem vores kærlighedspanel består af  \n\n💞💞💞💞💞💞💞💞💞",
+    "description": "💞💞💞💞💞💞💞💞💞\n\nSkal man downloade Tinder? Eller er man mere til sjove prompts på Hinge? \nDatinglivet kan være rodet og svært at finde rundt i. Heldigvis er du ikke alene! Kom til en spændende talk med dating i fokus. Få nye perspektiver, ideer og synsvinkler på nutidens dating kultur. \nVi glæder os til en spændende aften med quiz, øl og gode snakke. Selvom kærlighed er svært nogensinde at blive klog på, vil vi give det et forsøg <33 \n\nKl. 19.45 vil vores skarpe kærlighed-panel bestående af: influencer Astrid Olsen, vidensmedarbejder hos Sex & Samfund Christian Forsmann, lesbisk lærling Carla Zafirakos og sexolog Mathias Valentino sætte deres perspektiver på, hvad swipe-kulturen har gjort for vores syn på dating.\n\nTag dine venner og alle dem du kender under armen og vær med til en lærerig aften d. 30. Januar på HUSET i Magstræde! \nHold øje med eventet her på fb og på vores Instagram @sexogsamfundkbh, hvor vi løbende opdaterer program samt løfter sløret for hvem vores kærlighedspanel består af  \n\n💞💞💞💞💞💞💞💞💞",
     "date": {
       "start_timestamp": 1738260000,
       "end_timestamp": 1738267200,
@@ -985,7 +985,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1525256111434788/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473537034_928349586073803_2592018818024309920_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zbrKjnUtvHkQ7kNvgE1JaT2&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AfUQeqkJABP9nCh5Zo2slT6&oh=00_AYBwZovSkaxvUbggHOfrLNnWa-kdjw2ESgwqMUzjgPErIg&oe=679C0892",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473537034_928349586073803_2592018818024309920_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zbrKjnUtvHkQ7kNvgEm1T89&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A55uuqjMlXbH4sb1RuhMWS2&oh=00_AYC-Dk67Esexm02WUzFf2CIcGUaLAHyB34MF01OnApIO5w&oe=679EE3D2",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "HUSET  (Huset i Magstræde)",
@@ -1016,7 +1016,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1996876194163778/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465405019_884445020498730_811717698043677431_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U5Bzu26As5EQ7kNvgHmh2W3&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Amg63GSjNFI61BSM5PdEY9s&oh=00_AYAHFMDe0Y2d9I7-aO8kKZLDXT2Jcqt1goqua-W03H-anA&oe=679BF100",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465405019_884445020498730_811717698043677431_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U5Bzu26As5EQ7kNvgFIlrak&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AR3ktPAm2RgH9TKxu1i0qJy&oh=00_AYBX4D1jrK4ixxVQvxwK2Ke-e3QhiHfOs6_PdF3fitFhiw&oe=679ECC40",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musikcaféen",
@@ -1047,7 +1047,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/944582470877231/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469697884_1361740691852702_2031808631380569714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bhth2aB8mVQQ7kNvgHKL3Sw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AQpjhDknaTIR7iLuvpnmn1f&oh=00_AYBRj68_4ElkHAXrzbaNgpRGCp4X65EpK_zPzgSb9ArqfA&oe=679C13C6",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469697884_1361740691852702_2031808631380569714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EQ95KWWLaL8Q7kNvgHgSg09&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AMnkf7E0vP23hV302n2LmSV&oh=00_AYAC44d_JJnB8xk8OXkbkVI2BuqA32n0XArpmPrsdaOzqA&oe=679EEF06",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Basement CPH",
@@ -1078,7 +1078,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1252129346104984/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466394838_589881883557174_1757326562485124024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aSfGW5M9jOMQ7kNvgFpVnaD&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AWjPIfC7WlS2MwxGx9sUikU&oh=00_AYC2iiNB4yBoPOsduWHEKvkO3pN6oS-hrt7f3alvHLbAYg&oe=679BF9BE",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466394838_589881883557174_1757326562485124024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VHoZS2lrXUkQ7kNvgHq_YCs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AyWnA-_ltcYoowubbkO9MBa&oh=00_AYAM3yOegsHxS90Vv_v6p7gE1CaOL8Mx-nIBwFZW62SVHg&oe=679ED4FE",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Basement CPH",
@@ -1109,7 +1109,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/909684994583921/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473800246_1028790445959520_4912677147044091684_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HH6gnbyLOcsQ7kNvgFPG-yG&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AWty5tRjQYu1qWGNSey6e5f&oh=00_AYC6Z57R3v_rB8JdAfSuwJgQ9ieiCRv0O7DMzatXSY_sKg&oe=679C055F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473800246_1028790445959520_4912677147044091684_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HH6gnbyLOcsQ7kNvgHM_gPf&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AcwMq90qEEg3c4Ve8nyamsm&oh=00_AYBRMltHGaEvhTUVzedA7a-pcAIB3wdNerh9YV-K_pazcA&oe=679EE09F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Operaen Christiania",
@@ -1118,7 +1118,7 @@
   {
     "id": "1623084631748511",
     "name": "Operaen Christiania Presents - A NIGHT IN THE GOGO HEAVEN CLUB",
-    "description": "OPERAEN PRESENTS: A NIGHT IN THE GOGO HEAVEN CLUB!      \n\n\nWHAT TO EXPECT?!\nAn epic night featuring ROCK CONCERT with LIBERATION, www.liberationpop.com, Dance performance by Pelin Duran & Xaver Kästle  \nand BURNING DANCEFLOOR with DJ ALX \n\nWanna take a trip to the 60’s future? Or time travel to La Belle Éqoque? You name it! \nDress as the superbeing you are! You can rock the floor, and you know it! \n\nDOORS: 21:00 \nSUPPORT: 21:30\nCONCERT: 22:00 \nDJ ALX: 24:00 - 03:00 \nDATE: 1. FEB. 2025 \n\nTICKET SALE, In the Door, OBS: CASH ONLY, or MOBILE PAY \n\n- WANT TO SECURE A TICKET? Write to gogoheavenclub@gmail.com to buy your ticket today! \n\nAddress: OPERAEN, Psyak 61C, 1440 København, Christiania <3 <3 <3 \n\nTHE ARTISTS: \n\n\nLIBERATION:\n\nDANISH PRESS (Eng. Below): \nLIBERATION (DK/UK) er et nyt rock band med oldschool skills, og newschool attitude.\nHøjspændt pop/rock uden brug af clicktrack og kvantiseret beat fornemmelse. Rå sangskrivning fra hjertet. Trioen bestående af Marie-Louise, voc/bas Jet guitar, og Louis G. trommer, leverer et kompromisløst, nærværende og hårdtslående rockshow, som kun oplevet under musikgenrens storhedstid i 70’erne og 80’erne. Bandet er drevet af visionen om en ny og forbedret retning for musik som kunstform, og insisterer på, at rock- og popmusik med budskaber og visioner, der skabes af menneskelig nerve fremfor maskiner, ikke blot er et levn fra fortiden, men er fremtiden.\n\nLIBERATION anføres af den karismatiske forsanger Marie-Louise som spiller bas, klaver, guitar og saxofon, med en friskhed og kækhed, der lyser scenen op, og hvis performance og attitude trækker tråde til Kate Bush, Kim Wilde, Florence & The Machine, Wings m.fl. \n\nLIBERATION - Et band der har givet alt til musikken.\n\n\nENG. PRESS: \nLIBERATION (DK/UK) is a new rock/pop band of singer and multi-instrumentalist Marie-Louise, songwriter/producer/guitarist JET, and drummer Louis. Together, the trio delivers an uncompromising, engaging, and hard-hitting rock show reminiscent of the genre's glory days in the '70s and '80s. \nThe band insists that rock and pop music with meaningful\nmessages and visions, created with human emotion rather than machines, are not just a relic of the past but the future.\n\nLIBERATION is led by Marie-Louise on piano/bass/vocals/Guitar/Saxophone, whose songwriting and attitude are influenced by icons like Kate Bush, Kim Wild Florence & the Machine, Wings etc.) \n\nThe sound of the band is rare today, and with their impressive diversity of songs, they give us a dynamic, nuanced, and breathtaking performance.\nLIBERATION - A refreshing addition to the international music scene, driven by a vision to reshape the future of music as an art form. \n\n\n\nDJ ALX: Born with the gift to make the perfect musical journey to free your funky soul!   \n \n\nSee you at THE OPERA for a night in GOGO HEAVEN CLUB",
+    "description": "OPERAEN PRESENTS: A NIGHT IN THE GOGO HEAVEN CLUB!      \n\nFeel free to dress up 20’s style 🎩\n\n\nWHAT TO EXPECT?!\nAn epic night featuring ROCK CONCERT with LIBERATION, www.liberationpop.com, Dance performance by Pelin Duran & Xaver Kästle  \nand BURNING DANCEFLOOR with DJ ALX \n\nWanna take a trip to the 60’s future? Or time travel to La Belle Éqoque? You name it! \nDress as the superbeing you are! You can rock the floor, and you know it! \n\nDOORS: 21:00 \nSUPPORT: 21:30\nCONCERT: 22:00 \nDJ ALX: 24:00 - 03:00 \nDATE: 1. FEB. 2025 \n\nTICKET SALE, In the Door, OBS: CASH ONLY, or MOBILE PAY \n\n- WANT TO SECURE A TICKET? Write to gogoheavenclub@gmail.com to buy your ticket today! \n\nAddress: OPERAEN, Psyak 61C, 1440 København, Christiania <3 <3 <3 \n\nTHE ARTISTS: \n\n\nLIBERATION:\n\nDANISH PRESS (Eng. Below): \nLIBERATION (DK/UK) er et nyt rock band med oldschool skills, og newschool attitude.\nHøjspændt pop/rock uden brug af clicktrack og kvantiseret beat fornemmelse. Rå sangskrivning fra hjertet. Trioen bestående af Marie-Louise, voc/bas Jet guitar, og Louis G. trommer, leverer et kompromisløst, nærværende og hårdtslående rockshow, som kun oplevet under musikgenrens storhedstid i 70’erne og 80’erne. Bandet er drevet af visionen om en ny og forbedret retning for musik som kunstform, og insisterer på, at rock- og popmusik med budskaber og visioner, der skabes af menneskelig nerve fremfor maskiner, ikke blot er et levn fra fortiden, men er fremtiden.\n\nLIBERATION anføres af den karismatiske forsanger Marie-Louise som spiller bas, klaver, guitar og saxofon, med en friskhed og kækhed, der lyser scenen op, og hvis performance og attitude trækker tråde til Kate Bush, Kim Wilde, Florence & The Machine, Wings m.fl. \n\nLIBERATION - Et band der har givet alt til musikken.\n\n\nENG. PRESS: \nLIBERATION (DK/UK) is a new rock/pop band of singer and multi-instrumentalist Marie-Louise, songwriter/producer/guitarist JET, and drummer Louis. Together, the trio delivers an uncompromising, engaging, and hard-hitting rock show reminiscent of the genre's glory days in the '70s and '80s. \nThe band insists that rock and pop music with meaningful\nmessages and visions, created with human emotion rather than machines, are not just a relic of the past but the future.\n\nLIBERATION is led by Marie-Louise on piano/bass/vocals/Guitar/Saxophone, whose songwriting and attitude are influenced by icons like Kate Bush, Kim Wild Florence & the Machine, Wings etc.) \n\nThe sound of the band is rare today, and with their impressive diversity of songs, they give us a dynamic, nuanced, and breathtaking performance.\nLIBERATION - A refreshing addition to the international music scene, driven by a vision to reshape the future of music as an art form. \n\n\n\nDJ ALX: Born with the gift to make the perfect musical journey to free your funky soul!   \n \n\nSee you at THE OPERA for a night in GOGO HEAVEN CLUB",
     "date": {
       "start_timestamp": 1738440000,
       "end_timestamp": 1738461600,
@@ -1140,7 +1140,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/1623084631748511/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473127214_122113563470664958_5386261368552437849_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5jy2yhwMVuoQ7kNvgFbJ2MG&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ArTvNIX2O1GmaMFH_cAKwaB&oh=00_AYB8LOGp2nc7QbEYG6ltBxlunnjq5NNTpxlJL-NHYecxcw&oe=679C16F8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473127214_122113563470664958_5386261368552437849_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5jy2yhwMVuoQ7kNvgHwfGBj&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A93m3HoqIGxiLGCxlWjUBq6&oh=00_AYDUWbTC1ld_1fwGCd6ciZ9UGKRNli1y95WWQCEEAXEX5A&oe=679EF238",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Operaen Christiania",
@@ -1171,7 +1171,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/1509358529732409/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472791924_122203383260217459_1348386113200416511_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HutBCpmDkQUQ7kNvgFapaq_&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AS_56X5udeE9p3-SZwPsxNM&oh=00_AYCuHTdLjUvCTBdHWywZXGynYNb-P_pZFwdr2llYjbJqvQ&oe=679C0611",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472791924_122203383260217459_1348386113200416511_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=F1jcrX3ViGAQ7kNvgFB06SZ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A7LltFhqh48pbKvvF3kG3H6&oh=00_AYCk2qrvRb6EF4Ht59WWOf21mOq9VZZpMHl9c3jGAH_v4Q&oe=679EE151",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Operaen Christiania",
@@ -1190,7 +1190,7 @@
       "name": "Dortheavej 61, Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.70881249999998,
       "longitude": 12.523562500000011,
       "bounds_ne_lat": 55.70887499999998,
@@ -1202,7 +1202,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/953418810031989/?event_time_id=953418830031987",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471642247_122238188504010847_2980460379171661988_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2FkSILfOf2EQ7kNvgEJ_cLh&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-cKYHz84bPJFcHbZZ_CljK&oh=00_AYB7cx_GaK3oboynl159KdfYKPOjb53bmG20wTx6Nzt33Q&oe=679BFBFF",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471642247_122238188504010847_2980460379171661988_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2FkSILfOf2EQ7kNvgHnfQpE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A9HBg5G2TvEKGzbi6Nb8mwp&oh=00_AYBnO_WrewfNN2yqX7YZNf8gR3c13DZzAbTrpKypry2Ikg&oe=679ED73F",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Ungdomshuset",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": "803141901781439",
-    "name": "Aarhus Drag Extravaganza Vol. 3 // Radar, Aarhus",
+    "name": "Aarhus Drag Extravaganza Vol. 3 // Radar, Aarhus [FÅ BILLETTER]",
     "description": "Efter to fabelagtige shows på Radar, kommer Aarhus Drag Extravaganza tilbage på Radar i 2025!\n_________\n\nDØRE: 19.00\nKONCERT: 20.00\nENTRÉ: 215,-\n_________\n\nHvis du har været med de to foregående gange, Aarhus Drag Extravaganza er blevet afholdt på Radar, så ved du, at du ikke vil gå glip af en omgang mere. \n\nOg hvis du ikke har været med før, så kan man måske sige, at tredje gang er lykkens gang? For hvis du aldrig har oplevet et vaskeægte dragshow i virkeligheden, så er det måske på tide?\n\nOg hvad er bedre end noget at se frem til, når vi befinder os i mørke februar? Til Drag Extravaganza er der nemlig aldrig mørkt. Derimod er der strudsefjer ad libitum, humor, tårnhøje stiletter og sky-højt hår, når nogle af Danmarks mest fantastiske drags indtager scenen.\n\n✨ Det er fest og fællesskab ad libitum ✨\n\nDine værter på aftenen er Annie Rection (fra P3ʼs Dragcentralen) og Lathisya Adore (fra DR1ʼs Far Med Fjerboa). Med glimmer og jokes vil de styre slagets gang til et show, hvor alt uden tvivl kan ske – og sansynligvis også vil ske.\n\nUdover de fantastiske værter kan du opleve* Sascha Holiday (fra P3's Dragcentralen), Miss Harry Koochie, Zaddy Salem og Candika Du Jour!\n\nVær opmærksom på at sikre din billet i god tid, da der ofte meldes udsolgt inden arrangementet afholdes.\n\nAftenen er tiltænkt et modent publikum, og man skal være fyldt 15 for at være med.\n\nDet hele foregår på dansk og eventet er for et stående publikum.\n\n*Line-up kan ændres uden varsel.\n\nVi glæder os til at se dig på Radar! <3",
     "date": {
       "start_timestamp": 1738436400,
@@ -1233,7 +1233,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/803141901781439/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/462476093_940390764794827_3329616815941865907_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QxaoKP1r-d0Q7kNvgHAvgOe&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ap9f-ByNPpkndQPNaFOTU4d&oh=00_AYC3veiUMkOhH194n2Gne_zUTL97thTL6__0brBLm7QPSA&oe=679BE69B",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/462476093_940390764794827_3329616815941865907_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8oez2_9StBMQ7kNvgGF31Op&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AJYA95gqSC5XNakCzKNh-Mn&oh=00_AYDVD0Zqinj_qOSr_4RzJckuE-RvLL-z4pCi8g204UiFiw&oe=679EFA1B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Radar",
@@ -1252,7 +1252,7 @@
       "name": "Radar",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -1264,7 +1264,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/1065152231732919/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464395600_950534547113782_1034934593270888885_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4BUMutHYVSsQ7kNvgFXKGd6&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AG7qf9LX_lh5oiCZfuZ3Np1&oh=00_AYC0kBIjDK7qqkVxzSgpDJdhjoGRW6_g2f2Qtll3Um9iIg&oe=679BE2AA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464395600_950534547113782_1034934593270888885_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4BUMutHYVSsQ7kNvgGvawDf&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ajni9GA2gCFG2n2gq9ULxGC&oh=00_AYCY_KZnNYxfSs-P5He_mngPvFk62Cgpm0ywWhAKgy4QWw&oe=679EF62A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Radar",
@@ -1295,7 +1295,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/1734176810736797/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466344460_965395388961031_7709152827750869729_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P-AG2b1K2tIQ7kNvgF9BEsF&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A_b-_aPLnRfDUpkFMY2q6L8&oh=00_AYC9-vIDBaOKcDTnkP3GQalPaAYSsNgLYrh-DjnQQRgDng&oe=679C124E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466344460_965395388961031_7709152827750869729_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=A9b6u8ETgUIQ7kNvgEn6pZt&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AvSjAmWxMN1iWDUET1FDPXp&oh=00_AYApquS0j7paCxLLUGAVtNPM_dhuR-ivXEQA03-6zgELZg&oe=679EED8E",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Radar",
@@ -1314,7 +1314,7 @@
       "name": "Hangaren",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69143749999999,
       "longitude": 12.617062499999989,
       "bounds_ne_lat": 55.69149999999999,
@@ -1326,7 +1326,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/578570031593584/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473682638_1116564103501641_1485964444436513646_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uanBBow6DyoQ7kNvgECqMHf&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AdzCc4Dyv8SCIlP7g__LN0b&oh=00_AYDLNn74cFGctig66ZiCCNTEGhixBctit5iz9w03zRefUw&oe=679BEAF2",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473682638_1116564103501641_1485964444436513646_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LINpfuiDZgkQ7kNvgH2LDFH&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AXe8_KzjJ2rG9em5Z4lhxvb&oh=00_AYCYoVbTR5HYEtQDOE_r9DdMZ6cO5n1uOeNRWO8XfsXwJQ&oe=679EFE72",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -1345,7 +1345,7 @@
       "name": "Hangaren",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69143749999999,
       "longitude": 12.617062499999989,
       "bounds_ne_lat": 55.69149999999999,
@@ -1357,7 +1357,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/464696046493892/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472787278_1112412210583497_6929478135763905967_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2Pjen_QWIsAQ7kNvgEapNUp&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AfxEeSLwxVlxNno9c3wCOqE&oh=00_AYB9GL_Io8e7bQi7L5G9aYE50aPRRm-39zQMcPWsg3gDMQ&oe=679C0163",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472787278_1112412210583497_6929478135763905967_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=POmvQM9XCsQQ7kNvgFOjLau&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ApyXbMPWKgBiLr0arCCakI7&oh=00_AYCbvKbuHVRN16D6anm9xzJeRTdrDSVAeCoXzTC44EVoug&oe=679EDCA3",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -1388,7 +1388,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/451252641146269/?event_time_id=451252647812935",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470677166_601443115871503_5754399872995548940_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KU7I1WUvYcYQ7kNvgEjYRrT&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Axb_2VV5WX9M9GM8eXr3SuJ&oh=00_AYC_8EgGriL_ts2iiDbQEFmsDevNs2nn5NOze2lHUu2aNQ&oe=679C17E9",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470677166_601443115871503_5754399872995548940_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YfrST6WZNB8Q7kNvgHx7LKz&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A4-3_6RfUBEpxm5YXl7ot3x&oh=00_AYAYuc_WAK3p3TWjP6aVUjUR7-dGBT7BInxxjMOtgD6WHQ&oe=679EF329",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Kulturhuset Islands Brygge",
@@ -1419,7 +1419,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1075445097660049/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470206640_1109101581220849_1864970044886455559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ie13OJj5gAkQ7kNvgHJ1yMG&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AzAZfyATOIozzFrIVvsEYuM&oh=00_AYDCBvtIE3W1X9KxnMkwUKUS3Dvrser4iPFKwOT_t0c_9Q&oe=679C0542",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470206640_1109101581220849_1864970044886455559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NsynryYNYbsQ7kNvgE3kMXT&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AY1-axyom0f91ykJprcJVaJ&oh=00_AYCCLPPEnbSV5sffoRbxaoFN4CF-i_lsxEgIu95KFkym5A&oe=679EE082",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Kulturhuset Islands Brygge",
@@ -1469,7 +1469,7 @@
       "name": "Hotel Cecil",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67943750000002,
       "longitude": 12.577562500000013,
       "bounds_ne_lat": 55.67950000000002,
@@ -1481,7 +1481,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/3769538653374611/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459081350_941782144643952_7481372677461160776_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ROxad5xfglsQ7kNvgEyBb8G&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AcAkaBoMhHdrC0PYem8yyqo&oh=00_AYAsWIrFqohC9998P5hMx_m0PgfcRqU02q1qmczbCII1lg&oe=679C14B7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459081350_941782144643952_7481372677461160776_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ROxad5xfglsQ7kNvgH-IJvo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AJ6AC6CUUcnabT_dSglwKXz&oh=00_AYAuHv66lsE1ump5LdmOVptpbRkqyiVVxLFdeOy4RyyUmA&oe=679EEFF7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hotel Cecil",
@@ -1500,7 +1500,7 @@
       "name": "Dannebrogsgade 53, 1660 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.667687500000014,
       "longitude": 12.553812500000006,
       "bounds_ne_lat": 55.66775000000001,
@@ -1512,7 +1512,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1114296296554449/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473570980_614279327633621_5343338954683895873_n.png?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=g8ar8G9EoIcQ7kNvgF-wWlh&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Aubly24Qels9KLbXLEk4jGV&oh=00_AYBy3ZAqSdXbyjPDXSFo17za9Afnsqt5CI3XExbmgAL7yQ&oe=679BEE04",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473570980_614279327633621_5343338954683895873_n.png?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ijZcxAXOwzkQ7kNvgGDSMAX&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AB-hy7W-DJ_IaZB_bp1B7s5&oh=00_AYAC3HbHs9mzeF54ZwgrOp5N_xdu7JjB57MVH3sQe3pZeQ&oe=679F0184",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ukirke",
@@ -1543,7 +1543,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/517657980727885/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473739763_616649277396626_8375937951531145333_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YTkAU_fOwaoQ7kNvgF0dcHG&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-rvwLDp7DVR5ZNf0vUb8vB&oh=00_AYBfrgkZFQh-iAsJxx16vePxgdPbrRV_1JyDsjX0dsQnZw&oe=679C065B",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473739763_616649277396626_8375937951531145333_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bV2a95X6uvQQ7kNvgEUAIKn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AR_CJnweu690Xlgh0m42VL2&oh=00_AYCHw68cc8cccQqGhG1v_W9SILJA3GVH8WzW9D5KSu0KWQ&oe=679EE19B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ukirke",
@@ -1556,7 +1556,7 @@
     "date": {
       "start_timestamp": 1738263600,
       "end_timestamp": 1738270800,
-      "timezone": "UTC+01"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "BETA2300",
@@ -1574,7 +1574,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1400238467610247/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468335244_1143442384451267_6258921949745910566_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=svXqF0hD0dcQ7kNvgFCvG6i&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ab0BaVqA8l--9CZPZjZeQ6N&oh=00_AYBHNKMVjzI8MaWFFWPTvCZYs8MfAOGmOMF8R94R1eH1CA&oe=679BF776",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468335244_1143442384451267_6258921949745910566_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=svXqF0hD0dcQ7kNvgGpHclK&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AHAsW0k6xFzxI_DYZlaCcNm&oh=00_AYAvsUXa3mOb3FW-v1A5hfu0gUUGNWzniERVpptzhiSozQ&oe=679ED2B6",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BETA2300",
@@ -1605,7 +1605,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1263634371219400/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/460160150_10162068620838641_1085178635358298310_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YsnR1iPTusYQ7kNvgGb9uKe&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Adp7o-eHAcYOHjUahUphpvB&oh=00_AYAeJJMqJuPetKIeiuoNHN0pGRZb6kb0_sKzAZaTH55Ntg&oe=679BEED7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/460160150_10162068620838641_1085178635358298310_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xFuvSYCSc4YQ7kNvgE6zUKJ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AcXI1SeyGAq70R0A3F6nHqH&oh=00_AYCHqkorzVkx5SLTQ-g9-YmpIg24fN6LtAuIoPmA6CInHg&oe=679ECA17",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BETA2300",
@@ -1636,7 +1636,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1358272808949288/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472039713_10236300116184229_4363513468666263966_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=H_oQPX57-J4Q7kNvgE32Lqm&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AiZuyClF7vsJZSGMa8f0bFW&oh=00_AYAtuyi2OSurqvsZvsto_3Pyt9-BskRjc2wVcdZam_vKUw&oe=679BFF3F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472039713_10236300116184229_4363513468666263966_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5VWGc_uBQLIQ7kNvgHxKz2p&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AKZJhCCnGZxCTv-GX_IqiIH&oh=00_AYCFk0brsgu8_sx-Uf31ugLQQFeY9ApvWk83yyoK3Lxlxw&oe=679EDA7F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Lygtens Kro",
@@ -1667,7 +1667,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1935191970316849/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/460626687_920053670159616_2657799411265562534_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FmEdmPfXVjgQ7kNvgFP9Pjf&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Algpq69JF40_1CkjTyIjs3z&oh=00_AYBkuQ__LM3UIsfW6dqKgijZadJwTKOerUPgOlDwqVtkCg&oe=679C1763",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/460626687_920053670159616_2657799411265562534_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=A9Nylq6ATf4Q7kNvgHUbGdD&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A1wkGhfmcS2TptYZHAB9wDm&oh=00_AYBjUJjaE40gIJXk3wlWCLXEfRjTybb8zu-ANH3G5TkFCw&oe=679EF2A3",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Bio",
@@ -1698,7 +1698,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1166959347703038/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459225641_10162049674708641_3593958397304549218_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3ohQMa4t47sQ7kNvgEW2yta&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ARTdvaGN3bk0p4mdFtWyjko&oh=00_AYC3XNnn8JAQQAf0nfjJ66eZ1Aq2DR52mr8ItyS-1gfN-Q&oe=679BF4B4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459225641_10162049674708641_3593958397304549218_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3ohQMa4t47sQ7kNvgHJ8Yak&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AtKrQx7BDnwZqrRFt0zImYI&oh=00_AYCVFzCL1oEGjujoyJik5Jv3BJ48jAVOYoDCKf2B9Nbs0A&oe=679ECFF4",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Bio",
@@ -1715,9 +1715,9 @@
     },
     "location": {
       "name": "Amager Bio",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Øresundsvej 6",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.658062499999986,
       "longitude": 12.609187499999976,
       "bounds_ne_lat": 55.658124999999984,
@@ -1729,7 +1729,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2354142974936892/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/463307722_10162143001663641_4433860961033094321_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UN26YA6RwGIQ7kNvgE8qos5&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A6JntnhDa9QGtmKK0W4u5JW&oh=00_AYDuNfBp6wRJHZZqVV7th5LFXZCJGao3BA6FdSrM-qIVaw&oe=679C0F57",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/463307722_10162143001663641_4433860961033094321_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ljB-7ornD9IQ7kNvgHUk0i1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AxYR1kY6wudDHaxiYr-YXod&oh=00_AYCw_TcMOJACNTnDAj5Gj7lubaiFIBUrZ1DC8NizSXLINQ&oe=679EEA97",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Bio",
@@ -1760,7 +1760,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/496105099921740/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/461209550_924880379676945_6157995658034642089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MSgMPwpSlKwQ7kNvgHcED5c&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A5qqqdm-FySXXiyCIqQA0QZ&oh=00_AYCk1Z-E3QMttIIsfaMGVM5Vyv1gpgD_LZWLDi-cekYv9A&oe=679C1598",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/461209550_924880379676945_6157995658034642089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AYZYCMyUWcIQ7kNvgH2jsVD&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ADYQUGdzhlIMm2XOL4C66AH&oh=00_AYBX6APcjVazrahuOGDVO5O0YpN2QEV44PwMODlDSQHtwA&oe=679EF0D8",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Bio",
@@ -1769,7 +1769,7 @@
   {
     "id": "558442233764134",
     "name": "Et Andet Sted : The Reunion @ Den Anden Side",
-    "description": "Et Andet Sted: The Reunion @ Den Anden Side\n\nFriday, January 31 │ Soft Selection │ House, Techno\n————\n\nCelebrating the Heart of Copenhagen’s Old Fruit Packing District and the Humble Beginnings of Den Anden Side/Ved Siden Af\n\nDear Friends and Family,\n\nIt’s been seven years since the lights dimmed for the final time at Et Andet Sted, and Grønttorvet turned to shit. Yet, the beats, the memories, and the spirit of our beloved techno haven remain alive in our hearts. Now, the time has come to reunite and reignite that magic for one unforgettable night on January 31st at Den Anden Side.\n\nJoin us as we celebrate the groundbreaking nights we shared for 8 short months between 2017 and 2018 in the old fruit-packing district.\n\nExpect an electrifying journey through the sounds that defined Et Andet Sted, brought to life by a lineup of DJs who shaped our community. Together, let’s revive the unity, energy, and raw passion that made Et Andet Sted a cherished part of our lives.\n\nTo commemorate this special occasion, we’re releasing a limited-edition EAS long sleeve and a poster for the night, designed by original EAS graphic designer Asger Behncke. Every purchase will include a gift of the Et Andet Sted compilation album (Double CD including a poster of the venue’s iconic facade). \n\nLink for preorder: https://www.denandenside.com/shop/et-andet-sted-reunion\n\nSpread the word—this night is for everyone who ever called our little slice of techno heaven “home.”\n\nDinner Before the Party\nFor those who want to start the night with a more intimate gathering, we’re hosting a dinner before the event. Space is limited, so please RSVP at klubetandetsted@gmail.com if you’d like to join.\n\nWe can’t wait to see old friends, create new memories, and dance the night away just like we used to.\n\nMuch love,\nYour Et Andet Sted Crew\n\n𝗟𝗶𝗻𝗲𝘂𝗽\nSøren Kinch & T_C \nTight Cherry\nTine Valentin \nRiesenfeld \nIda Engelhardt \nSTRIKE (Kristian Andersen b2b DJ IBON)\nNeri J \nElias Gozal b2b Harrison Heat  \nJesper Mygind b2b Carsten Jensen\nKasper Melchior b2b Henrik Krog  \nCockwhore & Macho \nMarc & Mikkel \nSoft Bites \nLucky Lube\n\nArtwork: Asger Behncke\n\n————\n𝗔𝗱𝗺𝗶𝘀𝘀𝗶𝗼𝗻\n160 DKK\n2 for 1 before 00:30\n80 DKK after 05:30\nLimited pre-sale tickets can be purchased on Resident Advisor.\nEntrance closes 1 hour before the club (earliest at 7 am)\nRe-entry is possible all night.\n\nAge: 20+\n\nWardrobe: Lockers are free to use with a lock. Bring your own or purchase one for 40 DKK at the entrance.\n\nDoor Policy - Soft Selection:\nEveryone is welcome as long as they are arriving in a responsible state (e.g. not being too intoxicated or unfriendly). Our door staff will still make sure that everyone who enters the club is being made aware of our policy.\n\n‍All club nights operate with some level of selection. This event operates with the lightest level, Soft Selection. You can always reach out to the management before or after an event on awareness@denandenside.com with questions or concerns. For the safety of our guests and staff, we may find it necessary to deny entry without providing an explanation.\n\n————\nBelow you’ll find Important information and code of conduct to be read and considered before you go to Den Anden Side. Find our full policy on our website. www.denandenside.com/club-policy\n\n𝗩𝗶𝗯𝗲 𝗩𝗶𝘀𝗶𝗼𝗻\nAt Den Anden Side, we care deeply about our guests' safety and their ability to express themselves freely, without judgment or unwanted attention. We strive to always be a place where minoritized individuals can feel safe and comfortable.\nWe kindly ask you to be mindful of the space and event you are entering, the space you occupy, and how your presence influences the vibe and the experience of other guests.\n\n𝗖𝗼𝗱𝗲 𝗢𝗳 𝗖𝗼𝗻𝗱𝘂𝗰𝘁\n- Feel the room and consider how you influence it.\n- Don't assume gender or pronouns.\n- No discriminatory language or actions of any kind.\n-‍ Take the time to listen and learn and be aware of your privileges\n- No pictures or videos of any kind inside the club.‍\n- Dancefloor is for dancing; Don’t have loud conversations or use your phones.\n- Ask for consent and respect each other’s boundaries.\n- Don’t stare at or approach other guests non-consensually.\n- Take care of yourself and each other, and consume responsibly.\n- The darkroom is for intimate and consensual play only.\n\n𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀‍\nThe Awareness Team is at the club every weekend, identifiable by their bright green shirts labeled \"AWARENESS.\" You can also reach them by contacting the door staff.\nGuests must speak with the door staff upon entry to ensure everyone is informed about our code of conduct and policies. Violating these policies can result in immediate eviction without a refund.\n",
+    "description": "Et Andet Sted: The Reunion @ Den Anden Side\n\nFriday, January 31 │ Soft Selection │ House, Techno\n————\n\nCelebrating the Heart of Copenhagen’s Old Fruit Packing District and the Humble Beginnings of Den Anden Side/Ved Siden Af\n\nDear Friends and Family,\n\nIt’s been seven years since the lights dimmed for the final time at Et Andet Sted, and Grønttorvet turned to shit. Yet, the beats, the memories, and the spirit of our beloved techno haven remain alive in our hearts. Now, the time has come to reunite and reignite that magic for one unforgettable night on January 31st at Den Anden Side.\n\nJoin us as we celebrate the groundbreaking nights we shared for 8 short months between 2017 and 2018 in the old fruit-packing district.\n\nExpect an electrifying journey through the sounds that defined Et Andet Sted, brought to life by a lineup of DJs who shaped our community. Together, let’s revive the unity, energy, and raw passion that made Et Andet Sted a cherished part of our lives.\n\nTo commemorate this special occasion, we’re releasing a limited-edition EAS long sleeve and a poster for the night, designed by original EAS graphic designer Asger Behncke. Every purchase will include a gift of the Et Andet Sted compilation album (Double CD including a poster of the venue’s iconic facade). \n\nLink for preorder: https://www.denandenside.com/shop/et-andet-sted-reunion\n\nSpread the word—this night is for everyone who ever called our little slice of techno heaven “home.”\n\nDinner Before the Party\nFor those who want to start the night with a more intimate gathering, we’re hosting a dinner before the event. Space is limited, so please RSVP at klubetandetsted@gmail.com if you’d like to join.\n\nWe can’t wait to see old friends, create new memories, and dance the night away just like we used to.\n\nMuch love,\nYour Et Andet Sted Crew\n\n𝗟𝗶𝗻𝗲𝘂𝗽\nSøren Kinch & T_C \nTight Cherry\nTine Valentin \nRiesenfeld \nIda Engelhardt \nSTRIKE (Kristian Andersen b2b DJ IBON)\nNeri J \nElias Gozal b2b Harrison Heat  \nJesper Mygind b2b Carsten Jensen\nKasper Melchior b2b Henrik Krog  \nCockwhore & Macho \nMarc & Mikkel \nSoft Bites \nLucky Lube\n\nArtwork: Asger Behncke\n\n————\n𝗔𝗱𝗺𝗶𝘀𝘀𝗶𝗼𝗻\n160 DKK\n2 for 1 before 00:00\n80 DKK after 05:30\nLimited pre-sale tickets can be purchased on Resident Advisor.\nEntrance closes 1 hour before the club (earliest at 7 am)\nRe-entry is possible all night.\n\nAge: 20+\n\nWardrobe: Lockers are free to use with a lock. Bring your own or purchase one for 40 DKK at the entrance.\n\nDoor Policy - Soft Selection:\nEveryone is welcome as long as they are arriving in a responsible state (e.g. not being too intoxicated or unfriendly). Our door staff will still make sure that everyone who enters the club is being made aware of our policy.\n\n‍All club nights operate with some level of selection. This event operates with the lightest level, Soft Selection. You can always reach out to the management before or after an event on awareness@denandenside.com with questions or concerns. For the safety of our guests and staff, we may find it necessary to deny entry without providing an explanation.\n\n————\nBelow you’ll find Important information and code of conduct to be read and considered before you go to Den Anden Side. Find our full policy on our website. www.denandenside.com/club-policy\n\n𝗩𝗶𝗯𝗲 𝗩𝗶𝘀𝗶𝗼𝗻\nAt Den Anden Side, we care deeply about our guests' safety and their ability to express themselves freely, without judgment or unwanted attention. We strive to always be a place where minoritized individuals can feel safe and comfortable.\nWe kindly ask you to be mindful of the space and event you are entering, the space you occupy, and how your presence influences the vibe and the experience of other guests.\n\n𝗖𝗼𝗱𝗲 𝗢𝗳 𝗖𝗼𝗻𝗱𝘂𝗰𝘁\n- Feel the room and consider how you influence it.\n- Don't assume gender or pronouns.\n- No discriminatory language or actions of any kind.\n-‍ Take the time to listen and learn and be aware of your privileges\n- No pictures or videos of any kind inside the club.‍\n- Dancefloor is for dancing; Don’t have loud conversations or use your phones.\n- Ask for consent and respect each other’s boundaries.\n- Don’t stare at or approach other guests non-consensually.\n- Take care of yourself and each other, and consume responsibly.\n- The darkroom is for intimate and consensual play only.\n\n𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀‍\nThe Awareness Team is at the club every weekend, identifiable by their bright green shirts labeled \"AWARENESS.\" You can also reach them by contacting the door staff.\nGuests must speak with the door staff upon entry to ensure everyone is informed about our code of conduct and policies. Violating these policies can result in immediate eviction without a refund.\n",
     "date": {
       "start_timestamp": 1738362600,
       "end_timestamp": 1738369800,
@@ -1791,7 +1791,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/558442233764134/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471315689_1135738591891651_3151027726543089579_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=15SKLlSxctkQ7kNvgHthvqG&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AC6BvAc419iTaLX9V6bgAqJ&oh=00_AYCuLLt4EKRehyd2lMNjkeh44GSvArvno_20aDSc1rAYtA&oe=679C07A0",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471315689_1135738591891651_3151027726543089579_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WFjE9ZhO4NcQ7kNvgFQNrxm&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AfjK681gPEbFbfiQzAEatXe&oh=00_AYAt1_tSh0Vm3sk0AIZT67iH8irsmQ6OOUBZ2R-WVVkbmA&oe=679EE2E0",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Den Anden Side",
@@ -1822,7 +1822,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/914874384086477/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472765346_525117573898050_1617689388479777564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cOsph6logcgQ7kNvgH3aPr6&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AFMYcqBamMfi-j-x4X1zgEA&oh=00_AYDCzfniJXnMN36PzOInDRnRAoSOpmWGDwkcajjgDI-vcw&oe=679C0EFB",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472765346_525117573898050_1617689388479777564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1KRpNFwggnAQ7kNvgEE7LSZ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AyXrH5f70pvhY2qSznv6PIk&oh=00_AYC7-5kai9TEEdmwojmfKF24r3xU4JhkvXcAA5xlZjWzqw&oe=679EEA3B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Den Anden Side",
@@ -1853,7 +1853,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1378214953340671/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472948951_466788326472632_3237532844330650902_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MejBKM_u6v8Q7kNvgGVsGlG&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AEXi5cDTi5HkSxraAlV_6RX&oh=00_AYA8K1Cz37p4Ui33meZI-wMmDjZcMnpvRAJu4Eaaw-g7SA&oe=679BF3C7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472948951_466788326472632_3237532844330650902_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=56RzRXG1SoAQ7kNvgGJYSNg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AFznIiKQ3m3ei4cdH_RRPCE&oh=00_AYAU9Wxu4Suqhrpr6uBq5_vkjnvIP9bEm6AVjsLcNC9Dkw&oe=679ECF07",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "Bøssehuset",
@@ -1872,7 +1872,7 @@
       "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.65668749999999,
       "longitude": 12.609312499999973,
       "bounds_ne_lat": 55.65674999999999,
@@ -1884,7 +1884,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/446453701808264/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466413518_1052793686857213_674201486876109719_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=yJ_Ctw1xeTQQ7kNvgELy1qd&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AX6R8snpdIX_JG7TCSAnQtA&oh=00_AYB6aKicQmlwaxrBGZGQCIM0sjG_3j3Mh7yXGYNsSsmSNg&oe=679C171C",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466413518_1052793686857213_674201486876109719_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=yJ_Ctw1xeTQQ7kNvgH4qfRb&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AjRIaJOWE3So_4FgJqdaYPm&oh=00_AYAtdioctu1Ho0-_vqtSB5zy9b1hecAFlhrIuXee-G3xYw&oe=679EF25C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
@@ -1915,7 +1915,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/944236103830788/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470209656_1077657711037477_256335371883197050_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=y7Rk80bPiiAQ7kNvgEoWZqF&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Af4tSbe-vgi3g3k4tInLtoo&oh=00_AYDNkmdt7amHrO-ZKaXXcYY_C2hMN4r5LgO63nYkzDBEtg&oe=679C0FA1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470209656_1077657711037477_256335371883197050_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VW12OYV3gU8Q7kNvgHaerZx&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AwmzrAle81xoXZ8q1e_JhPj&oh=00_AYDXCFzBiFJ8lVQvBOXH9mj1FkyaUnLW9tenm7iUHJ4whQ&oe=679EEAE1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
@@ -1934,7 +1934,7 @@
       "name": "Studiestræde 24, 1455 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.678437500000015,
       "longitude": 12.568812500000021,
       "bounds_ne_lat": 55.678500000000014,
@@ -1946,7 +1946,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/29167987379467341/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473256058_122148579314359067_3941907579538029340_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SpZ957Y8G8cQ7kNvgE0lgy7&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AXUhla7IsL69hEx7BXYm2cW&oh=00_AYBVTP67MKUDuiUaJnf2fP_QPLTYdCQ5volkT3PQDJvpGA&oe=679C0C8E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473256058_122148579314359067_3941907579538029340_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c5p1rdTdMAsQ7kNvgGrIDkI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AgTYpTu4sZr_IFQTu0kK7j9&oh=00_AYDY4SWtOnWf-Ze8WJhWn1AP7ZNhwC8ImPJBgV6yGSjXeQ&oe=679EE7CE",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",
@@ -1977,7 +1977,7 @@
       "plus_code_locality": "Frederiksberg, Denmark"
     },
     "url": "https://www.facebook.com/events/1462579554648149/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/461320589_953913060097527_7849573033276975748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=K1AMO0QBRNAQ7kNvgHjK7lH&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ASVqiSge37MyvT3reGf3JCY&oh=00_AYDB42UdhJTdJrsqaTRoU-qRJUnEbnSsB_CtphNTsJPIlg&oe=679C1235",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/461320589_953913060097527_7849573033276975748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qPLm9PXZVIEQ7kNvgF72fgY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ap-UZJTH0bdqaFomjZ6v333&oh=00_AYBus0Ap8CtiGUXs3JS1T04m59fJ2DfFUs1D-Bzzfgg8zQ&oe=679EED75",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -1996,7 +1996,7 @@
       "name": "K.B. Hallen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -2008,7 +2008,7 @@
       "plus_code_locality": "Frederiksberg, Denmark"
     },
     "url": "https://www.facebook.com/events/706646568029836/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/458323347_938399101648923_6482836304568024514_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OtEVWrhB4eEQ7kNvgEdeHTB&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AW_J111obQvQx-RXsXvHnl6&oh=00_AYDSktetRHBNiBzzOQx2ThVkkkPePeDVVqEf68AO9pbnKQ&oe=679BF19A",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/458323347_938399101648923_6482836304568024514_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BlygR6QAfd0Q7kNvgFYo1Vq&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A5IhYKzqD8gn77Xvg-A8TPO&oh=00_AYCGLL_85f0_o1AIKEls_oTq_uWavuB-p_-s2io_nRkOog&oe=679ECCDA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -2039,7 +2039,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/567908519407399/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473313597_926119253016193_5315689063630196137_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=85cyC7SiaLwQ7kNvgF1yAd3&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AUtpZ2bbPcDjgjMam6a2zfg&oh=00_AYDrBh0ISDy0ZnhkS2yIY_onTP_Kye409LPjs5Gyy3qXOQ&oe=679BEDC6",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473313597_926119253016193_5315689063630196137_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wbQCuY4umocQ7kNvgGiokbO&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AmukW6l7eqYr_mWBtWHhvVm&oh=00_AYAKN-P2VGDMzAYQJSxOdjs_puO7I8RyffRImEhCqWs5bA&oe=679F0146",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Next House Copenhagen",
@@ -2070,7 +2070,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/420098867816558/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465707240_588234923871232_751040362078668718_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fS5j5Ug-QYIQ7kNvgECBEvU&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AVWqWYL6n4HWTl8qg5ddh3y&oh=00_AYDj6PU6jFac89cKqrIfIwggz6-SPTyCLmYLCGm84phklw&oe=679C140B",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465707240_588234923871232_751040362078668718_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_rSGZcZQfQIQ7kNvgHyEqJh&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AAWlPzt9t5ZOfwvhbQTByrW&oh=00_AYBsItkz8fw41zsRR5aMK25kvb-WPlmqT01Y44iuDzTMpQ&oe=679EEF4B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "COPENHELL",
@@ -2101,7 +2101,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/580581261377711/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471179851_1111866690949070_5405533884093680770_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hnDs87uae0IQ7kNvgEzIhVg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ab6DKFJxKFimtuY9sgsD9yn&oh=00_AYDfeRusIODMWA8kH_moXAqCAeQYAbKdQ7H3QYilrFPFYA&oe=679C124F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471179851_1111866690949070_5405533884093680770_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hnDs87uae0IQ7kNvgH-WU68&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ANwhALa1yyeJrHxLGSjiEpI&oh=00_AYAiQl2sLJ2PYqgefKJmu0SKNBwZaUdX1JSugsQcUSiOQA&oe=679EED8F",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "COPENHELL",
@@ -2120,7 +2120,7 @@
       "name": "Folkehuset Absalon, Sønder Blvd. 73, 1720 KBH V.",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.66543749999998,
       "longitude": 12.550312500000004,
       "bounds_ne_lat": 55.66549999999998,
@@ -2132,7 +2132,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/26166689862922258/?event_time_id=27849410184650209",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/444959972_779097784361897_5068796381951519439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M7UR3q_pPtMQ7kNvgF-lQbD&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=At-s79bh27jUGVBWz2UFHX5&oh=00_AYAvuHwW4LIo-H5bPbPW1qk171rHuFKLwW6lQ5hFOTJuiA&oe=679C039B",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/444959972_779097784361897_5068796381951519439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mSGKL3uEuBsQ7kNvgFRD5sA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ABQZuC5tPs95gfRM3Lrtzl0&oh=00_AYAhsOxwMc3sEPVib47rZusk-VixyfqEXQxamPzadBUaJQ&oe=679EDEDB",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Absalon",
@@ -2163,7 +2163,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/998226435075721/?event_time_id=1075964067301957",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/448573774_794756189462723_6282221911266674223_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gUVhaCXPotMQ7kNvgFVZNLF&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Aw5vh5sbGeefVLWZuB8Ehi8&oh=00_AYCL75ROVNnJQPA1Zwics_tBTKWsxQGW50rFy50YkPnsPw&oe=679C1488",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/448573774_794756189462723_6282221911266674223_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4jcBXks88MoQ7kNvgHnFaX7&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AZu7sVgQN61WLLTo1cb7M9W&oh=00_AYBp8BjARd3yVaUsnrBLPPBiXcqfDOo7VNTTcAn46UmQ8Q&oe=679EEFC8",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "Absalon",
@@ -2194,7 +2194,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/436494619532818/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470575149_999629145531995_8786263864151859595_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RFKZ6wma1zsQ7kNvgHUqe4h&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AyCE6HiHLUWeAYGkVI1jmAZ&oh=00_AYDVEb3CKt6fkh0LWzQb5PwjRmJvCd0Hqly-4i0pSglzwQ&oe=679C0DF1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470575149_999629145531995_8786263864151859595_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IU7dUzbaz8oQ7kNvgGvhlVH&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AwDO5-qfcIVMzC7Jrr8iyMZ&oh=00_AYCZ8Ze_GKOJwS9dK7jx6rglmlh1hk181uyhhfioF7lu8w&oe=679EE931",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Husets Biograf",
@@ -2213,7 +2213,7 @@
       "name": "Holmbladsgade 71, 2300 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.66668749999998,
       "longitude": 12.611187499999986,
       "bounds_ne_lat": 55.66674999999998,
@@ -2225,7 +2225,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/459310636640125/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464685890_1311383333600025_1157102617003803307_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=b5z3IpRtUv8Q7kNvgFp7YtS&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AADd7GewWMNJ8eSVEYMqAgi&oh=00_AYBH7_wuvwhB3KIRccww6FVbAz5un64sawafNhyH8zC7Hw&oe=679BF9EA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464685890_1311383333600025_1157102617003803307_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=b5z3IpRtUv8Q7kNvgE7chMQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AShsTr_kwFXUh2LZPTosFbL&oh=00_AYC_YzsCiAm7UcWAXMJOsH_-xOVvjdioagMPXjeithr40w&oe=679ED52A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Kvarterhuset",
@@ -2256,7 +2256,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/983401747141697/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470198675_1124057746081478_5446397440472029938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M5PikucB5u8Q7kNvgHG8Ho2&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AzqR_sRKg0GMPyXmBtYWpE7&oh=00_AYCMExNFRLTH4rukxYMEtJpnWBcHnBDmAC2C2x0uIS0tsw&oe=679BF934",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470198675_1124057746081478_5446397440472029938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pYbfos12YpcQ7kNvgFZFjHc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A7kWFe4iwdq2UeImnp3IXV2&oh=00_AYBMILELS94fpFaDVcTOFMY6WWjON40NWLT487vzxc-VBA&oe=679ED474",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Kvarterhuset",
@@ -2287,7 +2287,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1121035142871448/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470570952_983233743842839_8540502145233944346_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Eb3LopRVGTAQ7kNvgHudi5x&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AUcpn6sOQT1v732jnldCPCq&oh=00_AYAL4nq9y4Gy5JO3--Axg-50DqkdgTp3m1_oo8pOntwGLg&oe=679BF4A1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470570952_983233743842839_8540502145233944346_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Tok2BoAAR4wQ7kNvgF2Op6G&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A1w31Cgc_EHMoQ9KxzpIm34&oh=00_AYDanPXgRZywdNvcztfKBbIhLe-_DCW1Au_ec92H23WGsA&oe=679ECFE1",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -2296,7 +2296,7 @@
   {
     "id": "620229940462441",
     "name": "Bus trip to Vordingborg & Næstved : Michiel Ceulers, Finn Reinbothe, Nanna Abell, Frederik Tydén...",
-    "description": "Come with us on a bus trip to Southern Zealand, when Flanders resident Michiel Ceulers presents his artistic practice and new work produced for the very first exhibition titled 'Sometimes you’re in, sometimes you’re out' at ORTHUNGA – Vordingborg’s brand new exhibition space, run by Torben Ribe and Maiken Bent.\n\nAfter the introduction to the duo exhibition with Ceulers and local artist Finn Reinbothe, the bus will continue for a visit at Nanna Abel and Frederik Tydén’s studio. Final stop will be at Rønnebæksholm for the opening of Magnus Andersen’s exhibition ‘Damdramaer’.\n\nCheck out the full program and more info below.\n\nPROGRAM\n\n9.45: Meet up by the bus. Pick-up location: The corner between Tietgensgade and Kvægtorvsgade by DGI-byen.\n10.00: Bus leaves for Vordingborg.\n11.15: Arriving at ORTHUNGA in Vordingborg.\n11.30-12.30: Torben Ribe and Maiken Bent introduce ORTHUNGA and Michiel Ceulers and Finn Reinbothe talk about the exhibition.\n12.30-13.00: Lunch from Bogø Brød.\n13.15-14.15: Studiovisit and coffee with Nanna Abel and Fredrik Tydén.\n14.45-17.00: Rønnebæksholm – opening of Magnus Andersen’s exhibition ‘Damdramaer’.\n17.00: Bus returning to Copenhagen.\n18.00: Arriving in Copenhagen at DGI byen.\n\n~\n\nBus trip & presentation : Michiel Ceulers\n1 February at 10.00-18.00.\n\nA ticket for the event is 95 DKK and you can buy your ticket(s) here: https://billetto.dk/e/bus-trip-presentation-michiel-ceulers-billetter-1151445?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2\n\n~\n\nABOUT MICHIEL CEULERS\nMichiel Ceulers’ (1986, Belgium) paintings have a focus on being foremost objects. They embody sculptural and tactile qualities. His imagery explores the spaces between hardcore abstraction and mundane figurative motifs.\n\nMichiel Ceulers was awarded with the Gaverprijs and nominated for the Prix Jeune Peinture. His work was shown in exhibitions at Museum of Contemporary Art, Santa Barbara, M HKA, Antwerp, Museo de Arte Contemporáneo, Castilla y León, Kunstmusem Den Haag, Kunstmuseum Stuttgart.\n\nMichiel is part of AHC's program Flanders, a program that invites one Flemish artist to join the Art Hub Residency in Copenhagen each year. The residency allows an exchange between the Danish and the Flemish art scene.\n\nABOUT ORTHUNGA\nORTHUNGA is a new exhibition platform in Vordingborg. It exhibits contemporary art connected to the local area in dialogue with the international art scene. ORTHUNGA is run by Torben Ribe and Maiken Bent.",
+    "description": "Come with us on a bus trip to Southern Zealand, when Flanders resident Michiel Ceulers presents his artistic practice and new work produced for the very first exhibition titled 'Sometimes you’re in, sometimes you’re out' at ORTHUNGA – Vordingborg’s brand new exhibition space, run by Torben Ribe and Maiken Bent.\n\nAfter the introduction to the duo exhibition with Ceulers and local artist Finn Reinbothe, the bus will continue for a visit at Nanna Abel and Frederik Tydén’s studio. Final stop will be at Rønnebæksholm for the opening of Magnus Andersen’s exhibition ‘Damdramaer’.\n\nCheck out the full program and more info below.\n\nPROGRAM\n\n9.45: Meet up by the bus. Pick-up location: The corner between Tietgensgade and Kvægtorvsgade by DGI-byen.\n10.00: Bus leaves for Vordingborg.\n11.15: Arriving at ORTHUNGA in Vordingborg.\n11.30-12.30: Torben Ribe and Maiken Bent introduce ORTHUNGA and Michiel Ceulers and Finn Reinbothe talk about the exhibition.\n12.30-13.00: Lunch from Bogø Brød.\n13.15-14.15: Studiovisit and coffee with Nanna Abell and Fredrik Tydén.\n14.45-17.00: Rønnebæksholm – opening of Magnus Andersen’s exhibition ‘Damdramaer’.\n17.00: Bus returning to Copenhagen.\n18.00: Arriving in Copenhagen at DGI byen.\n\n~\n\nBus trip & presentation : Michiel Ceulers\n1 February at 10.00-18.00.\n\nA ticket for the event is 95 DKK and you can buy your ticket(s) here: https://billetto.dk/e/bus-trip-presentation-michiel-ceulers-billetter-1151445?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2\n\n~\n\nABOUT MICHIEL CEULERS\nMichiel Ceulers’ (1986, Belgium) paintings have a focus on being foremost objects. They embody sculptural and tactile qualities. His imagery explores the spaces between hardcore abstraction and mundane figurative motifs.\n\nMichiel Ceulers was awarded with the Gaverprijs and nominated for the Prix Jeune Peinture. His work was shown in exhibitions at Museum of Contemporary Art, Santa Barbara, M HKA, Antwerp, Museo de Arte Contemporáneo, Castilla y León, Kunstmusem Den Haag, Kunstmuseum Stuttgart.\n\nMichiel is part of AHC's program Flanders, a program that invites one Flemish artist to join the Art Hub Residency in Copenhagen each year. The residency allows an exchange between the Danish and the Flemish art scene.\n\nABOUT ORTHUNGA\nORTHUNGA is a new exhibition platform in Vordingborg. It exhibits contemporary art connected to the local area in dialogue with the international art scene. ORTHUNGA is run by Torben Ribe and Maiken Bent.",
     "date": {
       "start_timestamp": 1738400400,
       "end_timestamp": 1738429200,
@@ -2318,7 +2318,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/620229940462441/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473268974_1217975643195391_8202898310696734626_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UUuFHmIx_mMQ7kNvgFRAMDE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AzwDSWGiESj1tIRu9_adz6v&oh=00_AYCHSXcJr8BeJSvnUxlpXWuWl4Wm6mDQzD3Vbplx9gtYxA&oe=679BE436",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473268974_1217975643195391_8202898310696734626_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eGBj8490eZMQ7kNvgFOy-dz&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AtYHIm7hlw6wUVYoBYjNiih&oh=00_AYBshr3bNxBXpjjOzRumWfymOiy6V9ga2EiYIKjiZ-Sx-w&oe=679EF7B6",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Art Hub Copenhagen",
@@ -2349,7 +2349,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/928384225898515/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468542053_1020486103455837_1469543704574608205_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bCWkWwtOGLQQ7kNvgFRgOR7&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ay1YFA7CyZ9tzfun95YIZGo&oh=00_AYDa2nx0rUI8fOgBnd1rSPgmld_pV7hQG-j8SrSdNw7ZWQ&oe=679BFF1C",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468542053_1020486103455837_1469543704574608205_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bCWkWwtOGLQQ7kNvgGYqJcB&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AX6LJ0_VXzRwyI-fkIXjwAU&oh=00_AYCJbSEP5iNZqCGupkupWGecJzp3ZPbDXEvxK_Y6MnWV_w&oe=679EDA5C",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Glyptoteket",
@@ -2380,7 +2380,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1137801757971363/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472777322_1054976093340171_8992423496509491662_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pvLnga73m4QQ7kNvgGghNjK&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A7LZw63Gk9XdFsEH6srkl2q&oh=00_AYBvBac4LmAtB8rxH0Ds2wb7taJm0HnYY8HtdcuuoibOng&oe=679BFBD7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472777322_1054976093340171_8992423496509491662_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-AUFMB76TEsQ7kNvgHUvwcR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AuizJuw9ygOgXXydqfxvETN&oh=00_AYCK-YBpwTeByq5ct4R726Udi3ejLC_E8CaaC3Vb0401CQ&oe=679ED717",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Glyptoteket",
@@ -2397,9 +2397,9 @@
     },
     "location": {
       "name": "Glyptoteket",
-      "address": "Dantes Plads 7",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6729375,
       "longitude": 12.572562500000018,
       "bounds_ne_lat": 55.673,
@@ -2411,7 +2411,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/925053885927355/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470203799_1033552488815865_604938508431349167_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hVpFRWm_ZTcQ7kNvgGCi40D&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=APQYOwJrYeE7v7SqSpEEAgC&oh=00_AYCquBE8Va3l2Gc17EZB5vlQklppbn-TyYzud315T39Iog&oe=679BF5C2",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470203799_1033552488815865_604938508431349167_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hVpFRWm_ZTcQ7kNvgFEVosG&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Arf2QyeCqR3JSejSNDy0fpA&oh=00_AYBmprW29CP2BBMgT8s9b5hpnAVlQ1Y6_dEN5YGtcbPlNg&oe=679ED102",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Glyptoteket",
@@ -2442,7 +2442,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/609730565019320/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474302341_1165091532292744_5232476557273624972_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BqFKtztjRRkQ7kNvgHo5nvn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ABYB38omGsfCQVTwLccUpPp&oh=00_AYCy-cqTt4dS-OIanvNXyxwMgb-vDq_l5ZvFklDrxeU6og&oe=679C15DD",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474302341_1165091532292744_5232476557273624972_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BqFKtztjRRkQ7kNvgHovQfA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AtGP4Lq6XxpJd6_B_8UXsoW&oh=00_AYBwoSOPk2lLYEUnESPAtN08080-eiWYOIjqCohrWenT_A&oe=679EF11D",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Folkets Hus",
@@ -2628,7 +2628,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/908154844702392/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/461853329_547452557937226_3442943157335158313_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I-lVPPkYx8cQ7kNvgFA5tZS&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=APmbuCWufFFQBXpqurlExAX&oh=00_AYCAQN7Qnxu-LdfSPECTTdZ5zZzhlGhwlq77-bJXq5uQ7Q&oe=679BF76F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/461853329_547452557937226_3442943157335158313_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=y0J-02ZkRmUQ7kNvgFyy3CR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AIQkhqqWXpK6RilrE4UVpw6&oh=00_AYAbwryXDjAJMCHKcJdgaXfzDW__1qsPFRhtMNQFjJa2Rg&oe=679ED2AF",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Kulturhuset Islands Brygge",
@@ -2647,7 +2647,7 @@
       "name": "Kulturhuset Islands Brygge",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.66681249999998,
       "longitude": 12.576312500000014,
       "bounds_ne_lat": 55.666874999999976,
@@ -2659,7 +2659,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1062858675374332/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464436185_562452539770561_150250862215265786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8uESHV_4B4kQ7kNvgHvvzaE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A7bQC-BHaZxXvSHR2x7NJkp&oh=00_AYDz8QBiV7hHU4IjjHScGViIB5mW4gjmXQq6NgJn4N1D1Q&oe=679BF070",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464436185_562452539770561_150250862215265786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OfT8l4cH9VsQ7kNvgFBF_uX&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=APP_lDXq1sga0NJNaxeEWOb&oh=00_AYCq1ZxHLCetTVgnpI0a4LcrqBGHFtStWFbTlIYertJ9sQ&oe=679ECBB0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Kulturhuset Islands Brygge",
@@ -2690,7 +2690,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2580906222118913/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473058500_1028820749286384_5442926856220478260_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2WLVbwlVnTkQ7kNvgEr_7WJ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AEgxxzTW4MIMTzNIFHOCRJT&oh=00_AYAheVbxP3EK75qCcCIzHRnUDPo_O4ffKvY1wpxvhU8KAQ&oe=679C16DF",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473058500_1028820749286384_5442926856220478260_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UzreJHrTtckQ7kNvgEy-yby&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A9m14GsFV6SpZja8nr1t4lO&oh=00_AYA5xovuWoSEl9jCtEnBrckHhdXrrOrTOWIg0JIrB6DY3A&oe=679EF21F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hotel Cecil",
@@ -2721,7 +2721,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1803075300501721/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472579389_1067208091875718_2991810500537965724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cof4AXxk-eIQ7kNvgGJwFXw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A1C60rXXL88ncsMuBE4tAGq&oh=00_AYAs0ZhV-cB9XnYJfaSolRFf0pJZGAZqEv236ZJ2vKr9GA&oe=679C092F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472579389_1067208091875718_2991810500537965724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PoacCJPkASkQ7kNvgFJAQQV&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Af__LAMe3yhwtVPpXTe-DA8&oh=00_AYA11-Tva20yQ6xSU7L-pXaaA3bkNsMTapNDQ5zts0GBMA&oe=679EE46F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Module",
@@ -2740,7 +2740,7 @@
       "name": "Vesterbrogade 2B, 1620 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6754375,
       "longitude": 12.566312499999995,
       "bounds_ne_lat": 55.6755,
@@ -2783,7 +2783,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/978324857688970/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473992680_1134327092034565_3780958016426860716_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mYqgWyPXHSUQ7kNvgE9lJHo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ayx3PXeb99444DX3U8ZtBqr&oh=00_AYDqoftuwzaMKv6NKSSvU5NX3Khw47PCe78__4s7Zkx4Eg&oe=679C0DC4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473992680_1134327092034565_3780958016426860716_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mYqgWyPXHSUQ7kNvgHAOwvY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AudOwoJ9A7aVSw8YO3wFDJb&oh=00_AYDMN-5q5EBopX5190O3GF7nnSsOYnEHuR91n-FkWzRcbA&oe=679EE904",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Cph Listening Room",
@@ -2802,7 +2802,7 @@
       "name": "Mikkel Bryggers Gade 8, 1460 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6765625,
       "longitude": 12.570562500000008,
       "bounds_ne_lat": 55.676625,
@@ -2814,7 +2814,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1823209988495342/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472619352_1015683647272146_1307456182789372526_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6N0_JW8QGukQ7kNvgEH1gF1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AGR_-5LHidDPgvelNsmeDnc&oh=00_AYDvu9mrAKZ727ClDeJrbPFUrJik2RzM-lcR-0EcOsPIAQ&oe=679C0C09",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472619352_1015683647272146_1307456182789372526_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6N0_JW8QGukQ7kNvgHL1Xvm&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AosdmkyphqAfpF8R8Xzdy2i&oh=00_AYDWGORko_DD92Rn6uSr5GjTCx7luJ_JD4OvZZ6Udm82Cg&oe=679EE749",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Grand Teatret",
@@ -2876,7 +2876,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2095594300913421/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472218150_917813320485885_6683189919737335841_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=a5cElRbcS6QQ7kNvgGTwjDY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Arwxinx9LWoATzO9rHNVADB&oh=00_AYBSE2tHOWt3D9WaUe3Bc78VcJxpJ_AouaREKpXYY7qNyw&oe=679C0BCD",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472218150_917813320485885_6683189919737335841_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U1Zhqz4JF7gQ7kNvgEOyZyW&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AqrtPjorOGwyEESAsF0jLbD&oh=00_AYCl9App4d9IAvaGn5JVzRH18pfWkQ68v43zel1Ku-RdYg&oe=679EE70D",
     "tag": "GAMES",
     "platform": "Facebook",
     "page_name": "Bastard Café - Board Games & Coffee",
@@ -2895,7 +2895,7 @@
       "name": "Bastard Cafe Valby",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6611875,
       "longitude": 12.518437500000019,
       "bounds_ne_lat": 55.661249999999995,
@@ -2907,7 +2907,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/579167734841166/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472222892_916945743905976_7792932089117241088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dvUB3bZF-7kQ7kNvgES1Qvb&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A2pCPZeNchq0Qqv2_5CT1DH&oh=00_AYD3S4eHYDW3z7Gt5OyTm50otTNBH6BsXioXBPv5gn2vpg&oe=679C0FAE",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472222892_916945743905976_7792932089117241088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xtGxGk_Pn3QQ7kNvgGSEFp-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ad9dK7hawh2lxJowtOcOQYv&oh=00_AYAnzaZVxjVYHZY-rS--dxe1xXcqgBktA0fpkPlI7MmfnQ&oe=679EEAEE",
     "tag": "GAMES",
     "platform": "Facebook",
     "page_name": "Bastard Café - Board Games & Coffee",
@@ -2926,7 +2926,7 @@
       "name": "Folkehuset Absalon, Sønder Blvd. 73, 1720 KBH V",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.66543749999998,
       "longitude": 12.550312500000004,
       "bounds_ne_lat": 55.66549999999998,
@@ -2938,7 +2938,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1543312426482160/?event_time_id=1743863733093694",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/418957910_701718725433137_117400777499179425_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=E4OkaHbaf7UQ7kNvgEpU-2S&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A7FWZaDqPcf5wVJk6j8k0HH&oh=00_AYDeG9YXkv2yBTZvj_l4tWwQ6FTB_n040Qppt5K9J9yjgA&oe=679BF31A",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/418957910_701718725433137_117400777499179425_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EVn50ehVm0MQ7kNvgFyHN6b&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A775iZYNisFRJSEmIfDQTGY&oh=00_AYBqiNSeavC6g9x1TdefyEWB7WgEYLzBmSqYygeUlYLV2A&oe=679ECE5A",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "Absalon",
@@ -2957,7 +2957,7 @@
       "name": "Sølvgade 103, 1307 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69043749999999,
       "longitude": 12.57206250000003,
       "bounds_ne_lat": 55.690499999999986,
@@ -2969,7 +2969,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/426548336387722/?event_time_id=426548373054385",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/454444474_1138347607931237_8856644991805523460_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P4r2yuEQLcMQ7kNvgEIkb7p&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AKuO0u4XCMbO85klRvD0lPn&oh=00_AYCJOXVzDYFLNzSAg4MKRcStaXxzM2dyDbUjwfDTzXEH7A&oe=679BE6A1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/454444474_1138347607931237_8856644991805523460_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IMLQ9CeQf2kQ7kNvgHpVbRf&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AJi1McOkaKXn9BDy3yECnRn&oh=00_AYDG33W3EcyvVYSWc7G2XcqAIYDM89r855l7zJfNYgZeFw&oe=679EFA21",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "Søhesten",
@@ -3000,7 +3000,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/564076676619330/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472434259_1020907126737530_3393095674531554166_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WCAPNGvFt-wQ7kNvgFaYOyj&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ABYxQqeKoVg9petUY5wSo3j&oh=00_AYDrsUOHaK5qrOvLzmq_vXQWu7UhyAFlZhn5zoV4-eD6tQ&oe=679BF96A",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472434259_1020907126737530_3393095674531554166_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7otxA2MMaWYQ7kNvgHpoFPP&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AbV2sVQp06GC_8zxJe1XFBI&oh=00_AYCsL_Ibw5j-uGMDBqZY0ZNP1RxOkyY7URhudA0ys1xe_A&oe=679ED4AA",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Husets Biograf",
@@ -3019,7 +3019,7 @@
       "name": "Husets Biograf",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.676437500000006,
       "longitude": 12.574687500000024,
       "bounds_ne_lat": 55.676500000000004,
@@ -3031,7 +3031,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/463969213038579/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470018532_997133725781537_8194870555007479325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c1jOlQ6v0e8Q7kNvgEtudn1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Asw7egd2dabRJOzWhK-gJtc&oh=00_AYB8ZdhaioCD8z9czkY5vgIOwAy6uHEUs3udzShKQTubWQ&oe=679C0CD7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470018532_997133725781537_8194870555007479325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UtvC_uiHVHYQ7kNvgHKKAzt&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AieaztdGNnB6v3pAMNkTIyl&oh=00_AYCO2sSJ5uDfEotHulPU0GddmYhferQC51PljOfuOK-z-Q&oe=679EE817",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Husets Biograf",
@@ -3062,7 +3062,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/907537741539606/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474126703_1229739822486862_5304771874105752037_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EjuF1L3I4_AQ7kNvgEiC1ue&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AEJQ8ZsyXMu3JVyRSIIASZl&oh=00_AYB2TIogohObTYfY_0GeeI3SOBfA-Qv2gxS-r0oV_IX8uA&oe=679C0DAD",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474126703_1229739822486862_5304771874105752037_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EjuF1L3I4_AQ7kNvgF6sBDF&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A9h4qT655nbTmMXip0tzIUS&oh=00_AYAveK5JR53FD8nT00u7oY2hRpbZ_zlHNfeS3vszFB21Bg&oe=679EE8ED",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Red Door",
@@ -3093,7 +3093,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1131314479000853/?event_time_id=1131314532334181",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471525960_1144594124336209_1821489049070307223_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZY_OHiWSpfYQ7kNvgFT3wjt&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AoowKZA5NYSn_reSAWjb7Qf&oh=00_AYDTrcUNf5_qQa-aqHploRQ1u6oaBhAxWc44853qI0iAwQ&oe=679BF9A6",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471525960_1144594124336209_1821489049070307223_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5uBzAek0ExgQ7kNvgGodL1-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Aq6M6A0C7zBx2UC0KUhyUcE&oh=00_AYC18SWN5h03HfIJn0yOLEUTN1vsgbFom7_fbvT5nWcpSQ&oe=679ED4E6",
     "tag": "GAMES",
     "platform": "Facebook",
     "page_name": "Nørrebrohallen og Nørrebro Bibliotek",
@@ -3124,7 +3124,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/3864135223843517/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474004431_122148149246593153_4786057537959832513_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LvAJAlWX2SkQ7kNvgEHHjHr&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AdTNFaFgw8Zss-MZjvITuUX&oh=00_AYC9vOsm0KUALXmuOaaftyKmukVIfcEE0oruTOUag0-HBQ&oe=679BF87E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474004431_122148149246593153_4786057537959832513_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=59oyv1vPGu4Q7kNvgGvcUgt&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AR38BH8xoizkidSeyKRE09X&oh=00_AYBdAw-PdRkch7wvGx7-Si8n3KPQv7WhuKz1oxJOA2B7yw&oe=679ED3BE",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "KoncertKirken",
@@ -3174,7 +3174,7 @@
       "name": "VEGA",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.668062500000005,
       "longitude": 12.543812499999987,
       "bounds_ne_lat": 55.668125,
@@ -3186,7 +3186,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/532223693023261/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466569470_594636176564440_4177605585839815234_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UYqnsJsPjHUQ7kNvgGwvGgQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AoIfCiSrdS6DxE4HKcGEMzU&oh=00_AYBtscC59w0EaGdMDb7Fvcyrd5gle8sQspFvvZKizejsGg&oe=679C16E0",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/466569470_594636176564440_4177605585839815234_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UYqnsJsPjHUQ7kNvgHhHDxR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ak_MhalYnSELn7iKkg5TpWJ&oh=00_AYB8Vk8IG-6UUWWVaOD4E124GzH2RJF0tqpEushCJRTiNg&oe=679EF220",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "VEGA",
@@ -3205,7 +3205,7 @@
       "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.676437500000006,
       "longitude": 12.573312500000029,
       "bounds_ne_lat": 55.676500000000004,
@@ -3217,7 +3217,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1217270049355227/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468186445_961078576044849_3098047365647501736_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0MgG1cErR0EQ7kNvgGn6vIT&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A0fx0zQPf_Py6-hgqmmLPr7&oh=00_AYDOdSojA5SRUdzRb-vWDUYYZ7h_eppWdk8nopLjQG9afw&oe=679C15D3",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468186445_961078576044849_3098047365647501736_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hx3wzYfKZ60Q7kNvgGhlhIn&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AWdYxXkEXno1E7wp0P05Fm5&oh=00_AYDePZdPwwutHGJVSSo3RcDg9phoDIlXPt1XCDqizgjAHA&oe=679EF113",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DROP INN",
@@ -3248,7 +3248,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/616367977558485/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471813455_984688437017196_6236872106332834792_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=g79_xm_w9_MQ7kNvgFekcb1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AEbMJ-oNmSiFkvDVIkb6VG7&oh=00_AYDHF3rW990BEIYGDs7kWeM00LgTfbbTjSo0jjbvMCPGlg&oe=679C00EC",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471813455_984688437017196_6236872106332834792_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7Ev7MtSbcBEQ7kNvgGp_Hg1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A1GuJsWG7k1taCKl4Rix9-B&oh=00_AYANW-tz0-nvCHLuoPtWmuVUd_4DLzlA7HVuEhMFKN9-9A&oe=679EDC2C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DROP INN",
@@ -3267,7 +3267,7 @@
       "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.676437500000006,
       "longitude": 12.573312500000029,
       "bounds_ne_lat": 55.676500000000004,
@@ -3279,7 +3279,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/908600738076226/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469840504_966513998834640_4327411232972030574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GTVHjbwndIwQ7kNvgHIME3O&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AlkGfnqgB722QwiDI4AqEG_&oh=00_AYBmv1KP9T20bdtFsl2ntDThkhCDMlrjbVT-07_xMYCBxA&oe=679BEEEA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469840504_966513998834640_4327411232972030574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wjhnetScYpkQ7kNvgFkBs5u&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ArHlSNcIGY1Tsay1WHMO2FV&oh=00_AYBQMFmPpyOXHelmezROxjU0fLVAsfSgoXO0dxMUMdYrjw&oe=679ECA2A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DROP INN",
@@ -3310,7 +3310,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/465787079957183/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468650551_961078976044809_8220350528191382030_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uiMdUDu0P0EQ7kNvgF6wNj9&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AksMbIHj43DI0Mio-1p1bzw&oh=00_AYBcNb6-YR8fMdOcLXO-XcwN--qrsMs5g-TxnD6POKVz_w&oe=679BF864",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468650551_961078976044809_8220350528191382030_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uiMdUDu0P0EQ7kNvgEXrJVd&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AhmjfSRiH77DNZFaFmlnmrC&oh=00_AYBirvvPflOaV-m_iUNEtpCoGPRyQGhthHZDE9JC51oAHg&oe=679ED3A4",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DROP INN",
@@ -3341,7 +3341,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1291398955220791/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469858059_966511002168273_5831230207292243343_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=02bKCJ97jaIQ7kNvgEFiGUi&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AGjf8epKiWSdO5bPAuwqhUn&oh=00_AYDUy0inuf56_MIW3sMfVaInMjKjqvAlsnk77Rtdqs7W3A&oe=679BE7A6",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469858059_966511002168273_5831230207292243343_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=t8aIro0FlaYQ7kNvgGPflZI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AXx7m1heRiIroqEydR4pTXQ&oh=00_AYCyUQclhJy6bScYOiS6uIz6ADIcZlKH2rSAH7Uw88-mMQ&oe=679EFB26",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DROP INN",
@@ -3349,8 +3349,8 @@
   },
   {
     "id": "1670737377210022",
-    "name": "Jamnight v/ Søren Jensen",
-    "description": "Entry: Free\n\nJAM Night er for alle, som er friske på at optræde. Der er et husband hver uge, og vi starter kl. 21.00 – Kom og spil med. 🙂\nJam Night is for everyone, who is ready to perform. We have a house band, who will play the first set and after that, you can go to the Jam host and sign you up to play 😉\n\n\nHOST OF THE WEEK (22/01-2025) IS: Søren Jensen\nSøren spiller trommer i Latin Fanatics og laver musik i duoen Radio Galaksy: www.radiogalaksy.com.\nHan underviser på Sorø Musiske Skole, NGG i Hørsholm samt i eget studie på Nørrebro. \nSøren producerer musik i Boumboumstudio og har lige lavet en genudgivelse af trommebogen Kadaboum for begyndere og øvede trommeslagere.\n\nAftenens husorkester er:\nKarina Nus Pedersen - Vokal \nMikkel Nielsen – Bas & vokal \nDavid Rosenkilde - Guitar \nMaciej Szymczynski – Keys\nSøren Jensen - Trommer og Jamvært",
+    "name": "Jamnight v/ Henrik Gibo",
+    "description": "Entry: Free\n\nJAM Night er for alle, som er friske på at optræde. Der er et husband hver uge, og vi starter kl. 21.00 – Kom og spil med. 🙂\nJam Night is for everyone, who is ready to perform. We have a house band, who will play the first set and after that, you can go to the Jam host and sign you up to play 😉\n\n\nHOST OF THE WEEK (29/01-2025) IS: Henrik Gibo\nHenrik arbejder til dagligt som guitarlærer på Egedal Musikskole. \nHan har spillet alt fra death metal til Gypis jazz.\nVi glæder til at spille for jer…\n\n\nHoldet han har med denne gang er:\n\nHenrik Gibo - Guitar & Jamvært\nJakob Meiner Holm - Guitar\nAnders Hellborn - Bas\nKasper Klemme - Trommer\nNanamarie Venca Reimer - Sang\nSebastian Groset - Keys",
     "date": {
       "start_timestamp": 1738180800,
       "end_timestamp": 1738191540,
@@ -3372,7 +3372,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1670737310543362/?event_time_id=1670737377210022",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474103792_992615376224502_8922768785328744849_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7LEOsSkMlWoQ7kNvgEdM_W2&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AyzF3WSn9PLU9jriCegVIIo&oh=00_AYD9bU4rwYfvUISx7qO_Q8ffZJyj0dZcsMts3JhwRMJjhw&oe=679C1650",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474868914_998997672252939_1424522300855964318_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Zw0byh-Nz0oQ7kNvgE3iTvc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AJsM7SShYRLsQ4T_kjUfS--&oh=00_AYDFRJ-hi2sdLTN1LmZp1xDUK1yiMao3EL0Ib6v4s-9L5w&oe=679EEABD",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DROP INN",
@@ -3391,7 +3391,7 @@
       "name": "Kulturhuset Islands Brygge",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.66681249999998,
       "longitude": 12.576312500000014,
       "bounds_ne_lat": 55.666874999999976,
@@ -3403,7 +3403,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1056304599468959/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/462230734_548315404517608_3850098166482170724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LPVL5dkGxSEQ7kNvgG2jPBu&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AkhglCnIyCepcxB1Y8jijMf&oh=00_AYANcVd5sUknZ7hYfrCHPcpeLgt1Id_auBOmHpGZH99muA&oe=679C0DA2",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/462230734_548315404517608_3850098166482170724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aAyV9rw5ewUQ7kNvgFFScBW&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ASfBjvpz8hnCpCtGhIsU3jE&oh=00_AYANaqVXIQ-p73Pu6D83otlyK9I6MIqxFAjplyTOdsDYGw&oe=679EE8E2",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Kulturhuset Islands Brygge",
@@ -3434,7 +3434,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/497994392870418/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464626205_967128568788936_5360451037594416336_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vrMhe9w-tIEQ7kNvgFrh17j&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Au8hN0k2NVTG3n-neGAbNYN&oh=00_AYBEQ_GUCPK3yeYsIgOb6ww8G9uyiFruYF-XgwHd3nsnbA&oe=679BEDB6",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/464626205_967128568788936_5360451037594416336_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vrMhe9w-tIEQ7kNvgEwVWjc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=As2uNRflcFTfLz8RKz9y1gP&oh=00_AYA4okhNxwgCTwFjWNf3U4zG9KDNfY7zrPuEcAarRtSfKg&oe=679F0136",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hotel Cecil",
@@ -3447,7 +3447,7 @@
     "date": {
       "start_timestamp": 1738436400,
       "end_timestamp": 1738443600,
-      "timezone": "UTC+01"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Hotel Cecil",
@@ -3465,7 +3465,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1248580376166178/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459158170_930487982452995_677832929903923677_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=36P3pC1zmvUQ7kNvgESWVX7&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AiEKXgAgXgX3-c_dGTd9h_j&oh=00_AYDepAqyEM33ebyBdJavh6z59FbhA1SRBpea24s-NL6JqQ&oe=679BF88E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/459158170_930487982452995_677832929903923677_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LQgfpsrEUnAQ7kNvgFEQRoQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ATct77PzcEyuXn_Dr89AnEg&oh=00_AYBLLrUautQaKwYaaRhM3JQgf4tGJVEl7S_BcYBw1FaURg&oe=679ED3CE",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hotel Cecil",
@@ -3496,7 +3496,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/878240533814668/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474592616_1031580305677095_4548955812851326755_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_mL-jaCpkLsQ7kNvgHeTYDb&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ADd3PlKCVcl7icjOywvZCZc&oh=00_AYAAYNSU6jfB5A0z_hnQmOUd9JD-7u7xKCSP3yIs3zQIpg&oe=679C0F78",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474592616_1031580305677095_4548955812851326755_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lWmmdEmsVjMQ7kNvgHbDrjp&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AqU1X5G7KdSxIW8QPnbc9lH&oh=00_AYAS1DUdjwLUBklKLB5EyFnlFmboTPWgZvq1hKiIdkMong&oe=679EEAB8",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hotel Cecil",
@@ -3527,7 +3527,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/420426327807321/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470571700_1003397245162068_5313706398848866179_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VYqQ_OSjz68Q7kNvgGB9lhk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ahx0IHcZvxYixxzYC-mM09v&oh=00_AYAKexbDIFsteChejycBKGkHd9_wP-FJKJBrzNdQpDXwUw&oe=679C195D",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470571700_1003397245162068_5313706398848866179_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2dmTT5R3iMQQ7kNvgHqG_v9&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A_NtZw0yh_HS-HJoEyPItLR&oh=00_AYBnCvvNAdm-aksR9NJF0VcZ9g-esE68XA3B_hMhAmYSrA&oe=679EF49D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hotel Cecil",
@@ -3558,7 +3558,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/3160180530787272/?event_time_id=3160180547453937",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471154817_598476192547268_8093199032636862232_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mPcZsha8ODgQ7kNvgFJgt0q&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AGZUjWXrYvjeBk2IazdwDvA&oh=00_AYD2_Ty4_vGvFTimvLhwsQmqDQb6vN_15HvMnZIaAyfY5A&oe=679C110D",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471154817_598476192547268_8093199032636862232_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3N-bo4y_BO8Q7kNvgE5Zjvt&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AxjFMylh25j-msGbHJqPIrU&oh=00_AYBybqXBYlNJDqNKOKPfs3VOV841JmaVTrUGFf90a0zpRQ&oe=679EEC4D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ukirke",
@@ -3589,7 +3589,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1366863394681160/?event_time_id=1366863401347826",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470797265_1112959240834686_1336343934755753240_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IrFbBQORcVcQ7kNvgFAml9g&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A9f-ns24hNiomkH_M1elnnD&oh=00_AYBGJkOURFEFYPDY1v6v-O_IttL9UOhyWz1Tv4HhpdRs_A&oe=679C16CB",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470797265_1112959240834686_1336343934755753240_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qxcY4QY9nmAQ7kNvgFbaoGh&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AZI4y9cKfUuyEUy9rJWTun8&oh=00_AYB_fro0qptyz47IfHRjgvX3YADi_kVIP3nmRCIKM-EiGw&oe=679EF20B",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "ICC Theatre - Improv Comedy Copenhagen",
@@ -3608,7 +3608,7 @@
       "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578562500000018,
       "bounds_ne_lat": 55.683250000000015,
@@ -3620,7 +3620,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/27996886159958903/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473178482_1013196257512402_1052974173553061209_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LoLD_dvoQEQQ7kNvgErVK_5&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A4x6UQPPP8i8HOmOJ6NI4c7&oh=00_AYDfHDtfIf9w4WbSo3-YN0qf3vcFTSDRkojf6G5NNACqLQ&oe=679BFC6E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473178482_1013196257512402_1052974173553061209_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tyWKV7L73xQQ7kNvgHfz8Dx&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AiKZVdjgVdYqqP5OL7BsjC7&oh=00_AYBSk5bBd_JPRm668MJKBAYmGn6P8JTrDtKOgj22oKFROw&oe=679ED7AE",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Cinemateket",
@@ -3651,7 +3651,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/612140861506689/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472799134_1014183384080356_9046344250846667804_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lAhRBrhmhrgQ7kNvgHBWsFX&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AhqzTTJ2LGzyM0IISKK6a9s&oh=00_AYDfaZTfFJnXqSWd0CURsTYAyB1Hty21Dy_a0bHs0OfzvQ&oe=679BFF25",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472799134_1014183384080356_9046344250846667804_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-X5sYgfjXWEQ7kNvgEO_ww8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ac6zDo_4l7F2PctxVE0baWV&oh=00_AYBrMlporibRjniIKgCdLveTk6r5qaAIq54p-1YeRaYKUA&oe=679EDA65",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "Cinemateket",
@@ -3664,7 +3664,7 @@
     "date": {
       "start_timestamp": 1738252800,
       "end_timestamp": 1738260000,
-      "timezone": "UTC+01"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
@@ -3682,7 +3682,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1024628726373868/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470683323_996312529200775_7382997350478733172_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R21tX-0ZSw0Q7kNvgFp__ol&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AIpfzakDD6j_i331S51oXMY&oh=00_AYBUgX7bIGcnc8uSs8K_h4h-Ev420VANZ8UnWYObQlHw9g&oe=679BF916",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470683323_996312529200775_7382997350478733172_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DQkvUbELbVMQ7kNvgFVkuDw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AH4eYSxrFoU5XhawkAO0CFy&oh=00_AYC7bz8BZZvrFi_M5xq6-0YzfX27JSWCWgY7JpYLhjChGw&oe=679ED456",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Cinemateket",
@@ -3701,7 +3701,7 @@
       "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.68318750000002,
       "longitude": 12.578562500000018,
       "bounds_ne_lat": 55.683250000000015,
@@ -3713,7 +3713,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1013690137247622/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472840640_1015511397280888_8118998072426196253_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ab33zzq9KwIQ7kNvgH4wCrr&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ATrY2Byt-1ArIo8zcUZxGj6&oh=00_AYDghr0cq5bIajdUVAXQQOpG4LHlqs8WxXkfAHkuUk20PA&oe=679BEED1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472840640_1015511397280888_8118998072426196253_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ab33zzq9KwIQ7kNvgE5kgXe&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ar7XMfwZhb81rtUF1xdWRVN&oh=00_AYAGETC8uiVYl1vEyvGN_TG7PB2OKnujg1OLXTsMv7L1rA&oe=679F0251",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Cinemateket",
@@ -3744,7 +3744,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/950373393627254/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468736832_982074410624587_9133179502837711718_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ci2ANYY8pOoQ7kNvgGOyiMi&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ATgdVz7g9csM7qfLuxG65zg&oh=00_AYDb95GrCrIWIkC3t24mbhVNg3wtQQ_Ic9rlhFZQGIR4YQ&oe=679BF6D4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/468736832_982074410624587_9133179502837711718_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1PfLlJw7NVMQ7kNvgHL6aV4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AQmwyeJ20xeYBKtUw73vVwK&oh=00_AYBHGoudBGxOYs6KqY_9CCPECcMCrgG5ZUrMsuZgag75sA&oe=679ED214",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Cinemateket",
@@ -3775,7 +3775,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1576799639705382/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472073496_916946987239185_666281991743103899_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tJNwfpZHpXIQ7kNvgFLI6cR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Auq7C04iht3GADK0cfp1ARr&oh=00_AYCqTjJFMAVtls63Uub0N8HQN5GP5VsFiZLHabuNuCZjaA&oe=679C18A8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472073496_916946987239185_666281991743103899_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=seMCz5MwdjUQ7kNvgFT0F-E&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A4VdsHnYLjNzIMb6BqfMus3&oh=00_AYBqUrxQv3iMokLm47htT3OiWxyOGU68Y33b9PAO8b2fRg&oe=679EF3E8",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "Bastard Café - Board Games & Coffee",
@@ -3794,7 +3794,7 @@
       "name": "Bastard Cafe Valby",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6611875,
       "longitude": 12.518437500000019,
       "bounds_ne_lat": 55.661249999999995,
@@ -3806,7 +3806,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2030686707427852/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472086337_917781000489117_5437122718006256383_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LnnFW39ynzoQ7kNvgHgpBw8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A8-3pZt0rgSvJNZWKZ-m3x1&oh=00_AYBDm86HAkYLMQcnYS-NmwOdgdSCk9Krbn_l0YZSFtwjYA&oe=679C0AF8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472086337_917781000489117_5437122718006256383_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sOkp6cZ-4YgQ7kNvgFpSbQh&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AGTZO6sjSgOzUREyvGhzt-b&oh=00_AYC7mb_eoz4b_eKIfGfiE9yI1lcQnGosdFmUw7hGU3H1pw&oe=679EE638",
     "tag": "GAMES",
     "platform": "Facebook",
     "page_name": "Bastard Café - Board Games & Coffee",
@@ -3825,7 +3825,7 @@
       "name": "Brads spelcafé, Brogatan 11, 21144 Malmö, Sweden",
       "address": null,
       "city": "",
-      "country": "SE",
+      "country": null,
       "latitude": 55.5974375,
       "longitude": 13.0024375,
       "bounds_ne_lat": 55.5975,
@@ -3837,7 +3837,7 @@
       "plus_code_locality": "Malmö, Sweden"
     },
     "url": "https://www.facebook.com/events/2115373275562076/?event_time_id=2115373282228742",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471550708_1395355358492561_2460392819766275685_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sgki9XX6LogQ7kNvgHgVi56&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A5xS9yxp7wCKO5Jc9ZL5-S7&oh=00_AYArX4stpT4NR4dJmcVemQRPxRO52kO2TlAfPqv6E8zOEg&oe=679BFE32",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471550708_1395355358492561_2460392819766275685_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5VIa22DiHAUQ7kNvgGEmTB1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Az4Vf0J_HQXtP9qdaZNstxr&oh=00_AYDYFKSTkw6PEt0tw2ZssiogltRpto2_n9d8GbbZWifFVw&oe=679ED972",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "Bastard Café - Board Games & Coffee",
@@ -3868,7 +3868,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1425010028082771/?event_time_id=1531761090740997",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/417772897_701721945432815_3933190104700038494_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DXUTHU_dNsUQ7kNvgHBm6bA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A0xDX4hsWy4D0_3-yYwJ73p&oh=00_AYDeBt-bvsVI1AQjS5KvNgRWEnyhjLEPr0itxRqCkVL-xQ&oe=679C1784",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/417772897_701721945432815_3933190104700038494_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cI5H9RBsHPsQ7kNvgFI-Oy_&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AbhB0PQ9YDvhPVxuh5fLHuE&oh=00_AYD3zLuwPg7qgCmGXpP9n48BcsL8HDMxMICyEF5fS5tVLQ&oe=679EF2C4",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Absalon",
@@ -3887,7 +3887,7 @@
       "name": "Sølvgade 103, 1307 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69043749999999,
       "longitude": 12.57206250000003,
       "bounds_ne_lat": 55.690499999999986,
@@ -3899,7 +3899,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1763617284168454/?event_time_id=1763701760826673",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/455291876_1143418827424115_8300756055482361433_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EQJE6rikoKYQ7kNvgGXLdU6&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ajw73ThIXtC3ZsGqexsbULs&oh=00_AYCJIFsEReZ1OUIlK_uqecrsWpCYzWKuFLP2P8Ul9bkThQ&oe=679BF738",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/455291876_1143418827424115_8300756055482361433_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9-KBHGkhHHkQ7kNvgG15Hds&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A7jwIOfkfeyz3G-hHXrlVZ5&oh=00_AYBtV0xTcDQ__szywVVwsQ5Akizzr60nOmv_0pevn70rWw&oe=679ED278",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Søhesten",
@@ -3930,7 +3930,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1544086902880805/?event_time_id=1544087352880760",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/454483871_1138355161263815_4820864312970974346_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xjdki0NdeX8Q7kNvgGNrrnk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ACoZi-7mu-eXWNy3P7stnee&oh=00_AYApgFpjdwMtDHHS8W21m62M63ucBA5vEA7UlZ5m6BBMPw&oe=679C00EA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/454483871_1138355161263815_4820864312970974346_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FMRQ9WFprPUQ7kNvgGdfUZ9&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AizZkJi80F3rAq-hDNOpAJQ&oh=00_AYDgrvWTil8F-CH2sMxABflZUU43Y1YKuKR6P2DcSrsVmg&oe=679EDC2A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Søhesten",
@@ -3961,7 +3961,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/10049930445033808/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472208837_1010907601070816_6749043308011064521_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wmH0Gar3_xMQ7kNvgGPXCQR&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AF3LWfZ2uzTTJWMijO1YJmh&oh=00_AYBCIybQCOikxM-YHyhvsU1JVXodDMvL7xFGZChc7hN-CA&oe=679C10CB",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472208837_1010907601070816_6749043308011064521_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wmH0Gar3_xMQ7kNvgHxfdBV&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AP24qynzYkXhF5i9_Pb73i4&oh=00_AYCmTNx7AuJQETUPF4dVv-AIGFprXLjADSPmvq5tMXJ8Bg&oe=679EEC0B",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Husets Biograf",
@@ -3974,7 +3974,7 @@
     "date": {
       "start_timestamp": 1738346400,
       "end_timestamp": 1738353600,
-      "timezone": "UTC+01"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Husets Biograf",
@@ -3992,7 +3992,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/627009266502536/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470238150_999642722197304_493154299567837974_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ulX6VDb6nCYQ7kNvgF7pHUf&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A4hfB5j9OOUjs4l3tppa-rf&oh=00_AYC7C0lX3IwAt_c6-H8H-1gUcwsLdyp5loJ_y-UOPMGT7g&oe=679BF086",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470238150_999642722197304_493154299567837974_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=znHTVU_anC8Q7kNvgHQGce1&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ABFjYk4HDZskd54xJReZkvZ&oh=00_AYCJ-TIZtYi-GR8EAKGVrP-OUP61tKhIQtznbOrbVsouaQ&oe=679ECBC6",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Husets Biograf",
@@ -4023,7 +4023,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/912139747757547/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473330589_1020940070067569_5515180627930883566_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4djy1wIub6UQ7kNvgE5uv14&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Alt1X3LxbnKH1n8DZHEcppT&oh=00_AYA3lJTIPYeuAnJ-Z-BAz8-3kXSVFdjXCwCQ8RS5icZVTA&oe=679C04E0",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473330589_1020940070067569_5515180627930883566_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mtpMDnqJV_0Q7kNvgHNBbdm&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ad1RlO8ChA8DvbMOxSl7z4M&oh=00_AYBZkbjdqXQbh8h0dr0UfTVx8OSn24HwB5jH03sNrzChSg&oe=679EE020",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Husets Biograf",
@@ -4042,7 +4042,7 @@
       "name": "Jemtelandsgade 3, 2300 Amagerbro, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.66518749999999,
       "longitude": 12.603937499999986,
       "bounds_ne_lat": 55.665249999999986,
@@ -4054,7 +4054,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1320530405750006/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474866628_1183898863741441_4839339149400530416_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nKlnw3F7yCwQ7kNvgFh_tP0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ambq5p2HXctlf3dTSOY-InS&oh=00_AYB29fDvKNT1o70dKTsLYtsTxbCGOxvXJZZeURCZsLQAiQ&oe=679C106E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474866628_1183898863741441_4839339149400530416_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nKlnw3F7yCwQ7kNvgH-nbTM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A5mcZvUuPLZzRIiWmRy9yhK&oh=00_AYAaOD8MI_k_M6qmZ60Cxxqidv93Xuvmp0U_DY8af21Fnw&oe=679EEBAE",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "Kvarterhuset",
@@ -4085,7 +4085,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/944549090644094/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472951993_1054976863340094_1691627843941273151_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fXc5zen8FQ8Q7kNvgEf5PFD&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AO0j__cJAGFF427gjsDsHmD&oh=00_AYD-wWqw3N_qvOMIboEMskO9FMP8-U-rjJZRUAvqP9jBvw&oe=679C0345",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472951993_1054976863340094_1691627843941273151_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ac_FR8uVqWsQ7kNvgH2ypRK&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ADJo5a2Dxhv9bnbXb2H7Dh-&oh=00_AYAzbtUsG6aztiZ_ioqL__DsE_SbbioHp3EpuwoP67WFbg&oe=679EDE85",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Glyptoteket",
@@ -4116,10 +4116,258 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2865292910300938/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470226796_1036633135174467_3890289758090919997_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VztX8F4Pp4EQ7kNvgGv-4K9&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A9tbfBPoCxKiAau_yM2--lm&oh=00_AYBH1DXrm1Fl4E4kD6jjs9iAH12_PTYrodPId8cP_Qh0AA&oe=679BF1F6",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470226796_1036633135174467_3890289758090919997_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VztX8F4Pp4EQ7kNvgHx961l&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ac1S0Y23OPoZ7kbM6JrHrKP&oh=00_AYCQwRb0uPelG1C1_vI2Elca3YewtGuYkFjyersRnP-S2g&oe=679ECD36",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "Glyptoteket",
     "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "4449791881914146",
+    "name": "Musik Quiz",
+    "description": "Entré kr 60,- pr. person & max 5 personer pr. hold - billetter købes på dagen af værterne.\n\nQuizzen er den eneste i København, der har livemusik til spørgsmålene, og populære publikumsfavoritter som månedens raket, tænkevand og Grethes sang vil naturligvis dukke op i ny op næ.\nVores værter vil komme med friske spørgsmål, ligesom præmierne altid er spændende.\nReglerne er simple - Du skal samle et hold på maksimalt fem deltagere og kom i god tid. Husk at bestille bord.\n\nVi starter kl. 19.00 DUT",
+    "date": {
+      "start_timestamp": 1738087200,
+      "end_timestamp": 1738101600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "DROP INN",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.573437500000026,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.573500000000024,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.573375000000027,
+      "plus_code_global": "9F7JMHGF+H9",
+      "plus_code_local": "MHGF+H9",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/4449791881914146/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474916769_999570422195664_1472270900962384121_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k7FnhfYdRkAQ7kNvgET3Sbu&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ap9ghc76fAulguuPsEeJ2TZ&oh=00_AYCJXIvQSU_MNvAKyaRl83Cm8wLtDReQZlj0mTcIl6p4Xw&oe=679ED82F",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
+  },
+  {
+    "id": "892986822913793",
+    "name": "Madboks food distribution - Urmagerstien 28",
+    "description": "Hello food savers! \n\n\nJoin us to save food waste and become more aware of how to prevent food from going to the bin prematurely.\n\n\nOn Wednesdays, you can find us at Urmagerstien 28. \n\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste.\n\nIn order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent wasting food. Thank you!\n\n\nTo BOOK A BOX, please follow this link: \nhttps://forms.gle/sis9i4F6LvPhvG4V7\n\n\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\n\n\nPlease bring 2 bags to carry the food in. \n\n\nPro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\n\n\nPlease also consider becoming a volunteer ❤ We need a lot more helping hands to make these food distributions happen weekly!\n\nTo register as a volunteer please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe?u=21366f082c5af1add473caecc&id=35fa4efaa0&fbclid=IwAR3s9b--DMro1EeYEtST0XlUMclBywow1p1EUv__o92Coi1M1WcumRmlJLY",
+    "date": {
+      "start_timestamp": 1738168200,
+      "end_timestamp": 1738171800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Urmagerstien 28, 2300 København S, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6490625,
+      "longitude": 12.595812500000008,
+      "bounds_ne_lat": 55.649125,
+      "bounds_ne_lng": 12.595875000000007,
+      "bounds_sw_lat": 55.649,
+      "bounds_sw_lng": 12.59575000000001,
+      "plus_code_global": "9F7JJHXW+J8",
+      "plus_code_local": "JHXW+J8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/892986822913793/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475464062_903234711977810_8550624564167675070_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gf6M_ggIAo8Q7kNvgHEmWz5&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AiWm0VlFo1M5dgiJ5cbTkqf&oh=00_AYBCIHKLhR72N2NZZcUEp5ca-IEIb4k7-zbseOdSmfeN6w&oe=679EDD34",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "620135920488339",
+    "name": "Career Night",
+    "description": "Have you ever wondered what a work day is like for a doctor, rugby player or a teacher? In this fully improvised show, our performers will take inspiration from an audience members profession and explore the intricacies of modern work life.\n\nLaugh along as we dive into the foibles of disgruntled colleagues, deluded bosses and demanding customers.\n\nPractical information:\n\nDoors and bar open at 19:30. Out of respect for the other show guest please arrive at the theatre no later than 19:45. If you have not checked-in at the theatre by show start time at 20:00, your reservation will be cancelled and the ticket will be made available to the stand-by line. All purchases are final, no refund or rebooking of tickets.\n\nDisclaimer: Show may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience member under this age. Pets are also not allowed in the venue.",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738441800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/620135913821673/?event_time_id=620135920488339",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/471139289_1112946740835936_1155512453854231907_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PrZZV3fQnu8Q7kNvgFMhED-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A83EOFp2NLCWbHnemA45ZSM&oh=00_AYDdyskGWk571xKLJ45vu9A_tICY-TpjiEdQZn1UrJAyTA&oe=679EF5BD",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "1306240220713757",
+    "name": "nICCe Sundays",
+    "description": "nICCe Sunday is our weekly ICC community show night!\n\nCome and check out:\n\nTalent Pool: The future talent of ICC who perform regularly at nICCe Sunday. (The next step for Talent Pool members is joining the ICC Main Stage cast)\n\nOpen stage: Current ICC students performing anything from songs or stand-up, to poetry or experimental improv.\n\nThe evening varies in length according to how many acts we have, but is usually finished by 20:00.\n\n﻿Doors and bar open at 17:30. Please note that the theatre reserves the right to sale the ticket if the guest has not arrived at least 5 minutes before show starts.\n\nTickets: 50 DKK | Active ICC Students get in for FREE* \n\n*Ticket ONLY valid when presenting a date valid ICC STUDENT CARD at entry. All purchases are final, no refund or rebooking of tickets. ",
+    "date": {
+      "start_timestamp": 1738515600,
+      "end_timestamp": 1738524600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1281682156502897/?event_time_id=1306240220713757",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475076249_1142685261195417_2888327945051444535_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DcF-GHzLTNMQ7kNvgGo3aGQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AkHgltYSsjt4dR8lI31B59I&oh=00_AYA7RXSMBwWeKKG3dnBM-FWAf4D_1E8CEZa2XngNLq9w6g&oe=679EED31",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "4299124346981750",
+    "name": "TorsdagTechno<3",
+    "description": "\nTorsdagsTechno <3\n\nMain:\n00-03 Godi\n03-06 Bjarke Høver\n\nKiosk:\n00-02 OTTO\n02-04 E.TRASH b2b PATRICE\n\nGOÐI is a producer an DJ hailing in from north of Iceland where he started his music journey. He lays down tracks and mixes with mixed influences to create a unique experience.\n\nCopenhagen-based Bjarke Høver will spin you into orbit with his signature blend of groove-maxed minimal, stripped-back psy-grooves, and 4/4 wormhole explorations. Bridging nearly three decades of progressive sounds, Bjarke’s deeply stylized selections merge early raver romanticism with forward-thinking fluidity.\n\nFEMMAS Club DJs E.TRASH and PATRICE takes you on a journey beyond boundaries—where masculinity and femininity blend into a fearless fusion of sound and self-expression.\nExpect a high-energy night of hard-hitting techno, infused with breaky beats and cheeky hooks, carefully curated to reflect our unapologetic identity. We’re here to represent, celebrate, and explore, and we invite you to do the same.\n\nOTTO is a dj from central Copenhagen, which draws influence from Chris Stussy and Obskür and mixes genres like: melodic techno and  minimal house.\n\nSAFER SPACE & INCLUSION POLICY\nWe believe partygoers, performers, and staff are all entitled to an environment free from harassment, discriminatory behaviors, and exclusion.\n\nWe expect everyone to respect and commit to this policy:\n- No physical contact without consent.\n- No racism, homophobia, transphobia, or sexism.\n- No leering, you may look but don't stare.\n- No videos or photos at the club.\n\nAt Module, we party with a common goal of creating a safer space for all. We welcome all genders, races, sexual orientations, ages, and sizes. We will not tolerate harassment of any form. Our staff are here for you, contact them at any time if you experience any kind of discomfort. Our mission is to create a clubbing experience wherein everyone feels safe, free, and included.\n\nStay hydrated and stay safe.\n40kr incl wardrobe\n18+",
+    "date": {
+      "start_timestamp": 1738277100,
+      "end_timestamp": 1738284300,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Module",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67568750000002,
+      "longitude": 12.56656249999999,
+      "bounds_ne_lat": 55.67575000000002,
+      "bounds_ne_lng": 12.566624999999988,
+      "bounds_sw_lat": 55.675625000000025,
+      "bounds_sw_lng": 12.56649999999999,
+      "plus_code_global": "9F7JMHG8+7J",
+      "plus_code_local": "MHG8+7J",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/4299124346981750/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474749024_585650951034073_7253215844489528117_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wEiRLr4JUlgQ7kNvgFCoy84&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A7D8cMGKCylEzyy576xoLP3&oh=00_AYCl3Nz5tRFCPwlRPwB206iFLi1W-eMLy2SRysu18yuKKg&oe=679EDCFB",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Module",
+    "page_url": "https://www.facebook.com/modulecph/events"
+  },
+  {
+    "id": "1883031002225919",
+    "name": "EKSTRAVISNINGER: 'AKIRA KUROSAWAS DRØMME' // Filosofisk Filmfestival // Cinemateket",
+    "description": "Akira Kurosawas drømme (Akira Kurosawa, 1990)\n\nBEMÆRK: På grund af stor efterspørgsel er der nu hele tre ekstravisninger af filmen: \n\nFredag den 31. januar kl. 21:45 (EKSTRAVISN.)\nFredag den 7. februar kl. 21:15 (EKSTRAVISN.)\nTirsdag den 11. februar kl. 13:30 (EKSTRAVISN.)\nTirsdag den 11. februar kl. 21:45 (FÅ BILLETTER)\nSøndag den 16. februar kl. 16:30 (UDSOLGT)\n\nCinematekets store vinterbegivenhed Filosofisk Filmfestival er tilbage i hele februar 2025 med hele 20 titler og masser af talks:\nhttps://www.dfi.dk/cinemateket/biograf/filmserier/serie/filosofisk-filmfestival#all \n\nFølg festival-updates på Facebook her: https://www.facebook.com/events/842177717670042 \n\n------------------------------------\nOM FILMEN\n------------------------------------\n\nAKIRA KUROSAWAS DRØMME\nInstruktør: Akira Kurosawa\n\nKurosawas mest personlige film, ‘Akira Kurosawas drømme’, er bygget op omkring otte drømmelignende sekvenser. Hver episode fortæller på poetisk vis om menneskets relation til naturen og til kræfter i verden, der ligger ud over den menneskelige forstand. \n\nDe otte drømme reflekterer et menneskes (Kurosawas) liv: fra barndommen over krigen til atombombens totale ødelæggelse. \n\nFilmen blev anklaget for på banal vis at minde om et 'grønt manifest', men man må nok i højere grad se den som et udtryk for Kurosawas relation til den japanske shinto-tradition, og som et smukt udtryk for en ældre mands dybe respekt for naturen og den del af verden, som den menneskelige civilisation ikke har frembragt.\n\nJapan, USA 1990\nDCP 4K\n119 min.\nEngelske undertekster. Tilladt for børn over 15 år\nMed Akira Terao, Mitsuko Baisho, Mitsunori Isaki, Chishu Ryu, Martin Scorsese\n\n------------------------------------\nFESTIVAL-NEDTÆLLING\n------------------------------------\n\nLØRDAG DEN 18. JANUAR\n18.30: Den blå Engel + talk (Filosofisk Filmfestival)\n\nSØNDAG DEN 19. JANUAR\n14.15: Livet og andre problemer (m. eng. undertekster)\n\nONSDAG DEN 22. JANUAR\n19.00: Tal til hende + talk (Filosofisk Filmfestival)\n\nFREDAG DEN 31. FEBRUAR\n21.45: Akira Kurosawa Drømme - EKSTRAVISN.\n\n------------------------------------\nFILOSOFISK FILMFESTIVAL:\nFILMVISNINGER OG EVENTS\n------------------------------------\n\nLØRDAG DEN 1. FEBRUAR\n17.00: Drengen og hejren + samtale (børnevenlig Filosofisk Filmfestival)\n20.30: Martyrs + talk (Filosofisk Filmfestival)\n\nSØNDAG DEN 2. FEBRUAR\n15.00: Eyes Wide Shut + talk (Filosofisk Filmfestival)**\n15.30: Eyes Wide Shut + talk (Filosofisk Filmfestival)**\n\nTIRSDAG DEN 4. FEBRUAR\n16.30: Manden der tænkte ting (Jens Ravn, 1969)\n16.45: Vanilla Sky + talk (Filosofisk Filmfestival)**\n20.30: Frygtens pris + talk (Filosofisk Filmfestival)\n\nONSDAG DEN 5. FEBRUAR\n16.30: … Og livet går videre (Abbas Kiarostami, 1992)*\n21.15: Himlen på jorden (Terrence Malick, 1978)\n\nTORSDAG DEN 6. FEBRUAR\n16.45: Den sorte krystal + talk (Filosofisk Filmfestival)*\n21.30: Clerks + filosofisk standup (Filosofisk Filmfestival)\n\nFREDAG DEN 7. FEBRUAR\n21.15: Akira Kurosawa Drømme - EKSTRAVISN.\n\nLØRDAG DEN 8. FEBRUAR\n16.30: Ida + talk (Filosofisk Filmfestival)*\n19.00: Manden der tænkte ting (Jens Ravn, 1969)*\n21.15: Drengen og hejren (Hayao Miyazaki, 2024)\n\nSØNDAG DEN 9. FEBRUAR\n19.00: Hiroshima, min elskede (Alain Resnais, 1959)\n19.15: … Og livet går videre (Abbas Kiarostami, 1992)\n\nTIRSDAG DEN 11. FEBRUAR\n13:30 Akira Kurosawa Drømme - EKSTRAVISN.\n16.15: Wittgenstein (Derek Jarman, 1993)\n21.30: Tal til hende (Pedro Almodóvar, 2002)\n21.45: Akira Kurosawas drømme (Akira Kurosawa, 1990)\n\nONSDAG DEN 12. FEBRUAR\n15.45: Den sorte krystal (Jim Henson, Frank Oz, 1982)\n18.00: … Og livet går videre (Abbas Kiarostami, 1992)\n20:00: Donna Haraway: Film + talk EKSTRA EVENT\n20:45: Donna Haraway: Film + talk EKSTRA EVENT\n\nTORSDAG DEN 13. FEBRUAR\n16.15: Drengen og hejren (Hayao Miyazaki, 2024)*\n19.30: The Pervert's Guide to Cinema (Sophie Fiennes, 2006)\n21.30: Martyrs (Pascal Laugier, 2008)\n\nFREDAG DEN 14. FEBRUAR\n19.15: Den sorte krystal (Jim Henson, Frank Oz, 1982)\n21.15: Martyrs + talk (Filosofisk Filmfestival)\n\nLØRDAG DEN 15. FEBRUAR\n13.30: Oppenheimer (Christopher Nolan, 2023)\n\nSØNDAG DEN 16. FEBRUAR\n16.30: Akira Kurosawas drømme (Akira Kurosawa, 1990)***\n19.00: Oppenheimer (Christopher Nolan, 2023)***\n19.15: Himlen på jorden (Terrence Malick, 1978)***\n\nTIRSDAG DEN 18. FEBRUAR\n16.45: Donna Haraway: Story Telling … (Fabrizio Terranova, 2016)\n19.15: The Lighthouse + talk (Filosofisk Filmfestival)\n\nONSDAG DEN 19. FEBRUAR\n16.30: Oppenheimer (Christopher Nolan, 2023)\n20.00: Samtale: Etikken og A-bomben*\n20.15: Frygtens pris (Henri-Georges Clouzot, 1953)\n21.30: Hiroshima, min elskede (Alain Resnais, 1959)\n\nFREDAG DEN 21. FEBRUAR\n21:00: Eyes Wide Shut (Stanley Kubrick, 1999)\n\nLØRDAG DEN 22. FEBRUAR\n19.00: Tal til hende (Pedro Almodóvar, 2002)\n21.30: Vanilla Sky (Cameron Crowe, 2001)\n\nSØNDAG DEN 23. FEBRUAR\n16.30: Wittgenstein + talk (Filosofisk Filmfestival)***\n19.00: The Pervert's Guide to Cinema (Sophie Fiennes, 2006)\n\nTIRSDAG DEN 25. FEBRUAR\n18.30: A Real Young Girl + talk (Filosofisk Filmfestival)***\n19.30: Donna Haraway: Film + talk (Filosofisk Filmfestival)***\n21.15: Frygtens pris (Henri-Georges Clouzot, 1953)\n21.45: Wittgenstein (Derek Jarman, 1993)\n\nONSDAG DEN 26. FEBRUAR\n21.15: Hiroshima, min elskede (Alain Resnais, 1959)\n\nTORSDAG DEN 27. FEBRUAR\n19.30: Eyes Wide Shut (Stanley Kubrick, 1999)\n\nFREDAG DEN 28. FEBRUAR\n16.30: Himlen på jorden (Terrence Malick, 1978)***\n21.15: Vanilla Sky (Cameron Crowe, 2001)\n\nTORSDAG DEN 6. MARTS\n21.45: Donna Haraway: Film + talk EKSTRA EVENT\n\nBemærk: Filmene 'Karate Kid' og 'Fight Club' udgår desværre.\n\n------------------------------------\nFOOD FOR THOUGHT\n------------------------------------\n\nSom noget nyt lægger vi med skræddersyede samtalekort op til, at refleksionerne oven på visse film kan fortsættes over fx et glas vin, en skål suppe eller den faste buffet. \n\n*) Samtalekort kan efter filmen findes i Restaurant SULT\n**) Samtalekort kan efter filmen findes i Asta Bar, hvor der er salg af varm suppe\n***) Samtalekort kan efter filmen findes i Spiseriet på Filmtaget\n\nLæs mere om SULT’s åbningstider, menu og bestilling på www.dfi.dk/cinemateket/sult-i-cinemateket\n\n------------------------------------\nFILOSOFISK FILMFESTIVAL\nTANKER OM STORT OG SMÅT\n------------------------------------\n\nFilosofisk Filmfestival er tilbage, og i februar 2025 præsenterer vi et program, der er større end nogensinde – og som udforsker eksistens, moral, samfund og virkelighed.\nFilmene kan opdeles i fire grupper, der hver især rejser centrale filosofiske spørgsmål.\n\nFilm som den drilske 'Wittgenstein', portrætdokumentaren ’Donna Haraway: Story Telling for Earthly Survival’ og den filmanalytiske 'The Pervert's Guide to Cinema' med Slavoj Zizek ved roret bringer os tæt på historiske og nulevende filosoffer og deres tænkning.\n\nI film som 'Himlen på jorden', Den sorte krystal’, ’Og livet går videre’ og 'Drengen og hejren' undersøges, hvordan mennesket relaterer sig til noget større end sig selv, og hvad det kræver eller betyder at finde sin plads i verden.\n\nFilm som 'Eyes Wide Shut', 'The Lighthouse' og 'Vanilla Sky' udforsker, hvordan vores perception former vores forståelse af virkeligheden. Her stilles der spørgsmål ved, hvad der er ’ægte’. Vi bruger bl.a. filmene til at undersøge, hvordan vi navigerer i en stadig mere digital verden.\n\nEndelig er der en stribe film, der skildrer dilemmaer hos individer under ydre pres, bl.a. ’Frygtens pris’, og 'Oppenheimer' og ’Martyrs’ udfordrer normer og konventioner, reflekterer over etiske dilemmaer og samfundets indflydelse på individet.\nOg så er der masser af plads til det quirky – film med kultstatus og kultpotentiale, talks med overraskende indfaldsvinkler og meget andet.\n\nFilosofisk Filmfestival henvender sig til et bredt publikum. Festivalen appellerer til både filmelskere, der søger film med intellektuelle og filosofiske dimensioner, og til dem, der er interesseret i at reflektere over temaer som identitet, etik, moral, teknologi og samfund.\n\nDet er en festival for både erfarne filosoffer og nybegyndere, der ønsker at udvide deres perspektiver og få nye indsigter gennem filmens form.\n\nDette års festival er lavet i samarbejde med Dansk Selskab for Filosofisk Praksis og forlaget Gyldendal. Kuratorer: David M. Larsson, Dennis J. Rosenfeld og Rasmus Brendstrup. Kontakt: rasmusb@dfi.dk \n\n\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\n\nSted: Cinemateket, Gothersgade 55, Kbh K\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/filmserier/serie/filosofisk-filmfestival\n\nLæs mere om Cinemateket og medlemsfordele på: https://www.dfi.dk/cinemateket/medlemmer\n",
+    "date": {
+      "start_timestamp": 1738356300,
+      "end_timestamp": 1738363500,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1883031002225919/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/469937377_990579443107417_4852143140587241000_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-4PuB-q_-UQQ7kNvgEROlM3&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A6SVlqxhPT1xNzLQ0df3teX&oh=00_AYDqcnf2NAK3VzmGnZrULMIK9DvueG4Y9C-i7lG-_iEF3w&oe=679EEB76",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "842177717670042",
+    "name": "FILOSOFISK FILMFESTIVAL 2025 / Film og foredrag i Cinemateket / 1.-28. februar",
+    "description": "FILOSOFISK FILMFESTIVAL vender tilbage i februar 2025 - se programmet lige her:\n\nhttps://www.dfi.dk/cinemateket/biograf/filmserier/serie/filosofisk-filmfestival#all\n\n------------------------------------\nFESTIVAL-NEDTÆLLING\n------------------------------------\n\nLØRDAG DEN 18. JANUAR\n18.30: Den blå Engel + talk (Filosofisk Filmfestival)\n\nSØNDAG DEN 19. JANUAR\n14.15: Livet og andre problemer (m. eng. undertekster)\n\nONSDAG DEN 22. JANUAR\n19.00: Tal til hende + talk (Filosofisk Filmfestival)\n\nTIRSDAG DEN 28. JANUAR\n20.30: Gratis talk om den Den blå Engel (i Asta Bar)\n21.00: Den blå Engel (Josef von Sternberg, 1930)\n\nFREDAG DEN 31. FEBRUAR\n21.45: Akira Kurosawa Drømme - EKSTRAVISN.\n\n------------------------------------\nFILOSOFISK FILMFESTIVAL:\nFILMVISNINGER OG EVENTS\n------------------------------------\n\nLØRDAG DEN 1. FEBRUAR\n17.00: Drengen og hejren + samtale (børnevenlig Filosofisk Filmfestival)\n20.30: Martyrs + talk (Filosofisk Filmfestival)\n\nSØNDAG DEN 2. FEBRUAR\n15.00: Eyes Wide Shut + talk (Filosofisk Filmfestival)**\n15.30: Eyes Wide Shut + talk (Filosofisk Filmfestival)**\n\nTIRSDAG DEN 4. FEBRUAR\n16.30: Manden der tænkte ting (Jens Ravn, 1969)\n16.45: Vanilla Sky + talk (Filosofisk Filmfestival)**\n20.30: Frygtens pris + talk (Filosofisk Filmfestival)\n\nONSDAG DEN 5. FEBRUAR\n16.30: … Og livet går videre (Abbas Kiarostami, 1992)*\n21.15: Himlen på jorden (Terrence Malick, 1978)\n\nTORSDAG DEN 6. FEBRUAR\n16.45: Den sorte krystal + talk (Filosofisk Filmfestival)*\n21.30: Clerks + filosofisk standup (Filosofisk Filmfestival)\n\nFREDAG DEN 7. FEBRUAR\n21.15: Akira Kurosawa Drømme - EKSTRAVISN.\n\nLØRDAG DEN 8. FEBRUAR\n16.30: Ida + talk (Filosofisk Filmfestival)*\n19.00: Manden der tænkte ting (Jens Ravn, 1969)*\n21.15: Drengen og hejren (Hayao Miyazaki, 2024)\n\nSØNDAG DEN 9. FEBRUAR\n19.00: Hiroshima, min elskede (Alain Resnais, 1959)\n19.15: … Og livet går videre (Abbas Kiarostami, 1992)\n\nTIRSDAG DEN 11. FEBRUAR\n13:30 Akira Kurosawa Drømme - EKSTRAVISN.\n16.15: Wittgenstein (Derek Jarman, 1993)\n21.30: Tal til hende (Pedro Almodóvar, 2002)\n21.45: Akira Kurosawas drømme (Akira Kurosawa, 1990)\n\nONSDAG DEN 12. FEBRUAR\n15.45: Den sorte krystal (Jim Henson, Frank Oz, 1982)\n18.00: … Og livet går videre (Abbas Kiarostami, 1992)\n20:00: Donna Haraway: Film + talk EKSTRA EVENT\n20:45: Donna Haraway: Film + talk EKSTRA EVENT\n\nTORSDAG DEN 13. FEBRUAR\n16.15: Drengen og hejren (Hayao Miyazaki, 2024)*\n19.30: The Pervert's Guide to Cinema (Sophie Fiennes, 2006)\n21.30: Martyrs (Pascal Laugier, 2008)\n\nFREDAG DEN 14. FEBRUAR\n19.15: Den sorte krystal (Jim Henson, Frank Oz, 1982)\n21.15: Martyrs + talk (Filosofisk Filmfestival)\n\nLØRDAG DEN 15. FEBRUAR\n13.30: Oppenheimer (Christopher Nolan, 2023)\n\nSØNDAG DEN 16. FEBRUAR\n16.30: Akira Kurosawas drømme (Akira Kurosawa, 1990)***\n19.00: Oppenheimer (Christopher Nolan, 2023)***\n19.15: Himlen på jorden (Terrence Malick, 1978)***\n\nTIRSDAG DEN 18. FEBRUAR\n16.45: Donna Haraway: Story Telling … (Fabrizio Terranova, 2016)\n19.15: The Lighthouse + talk (Filosofisk Filmfestival)\n\nONSDAG DEN 19. FEBRUAR\n16.30: Oppenheimer (Christopher Nolan, 2023)\n20.00: Samtale: Etikken og A-bomben*\n20.15: Frygtens pris (Henri-Georges Clouzot, 1953)\n21.30: Hiroshima, min elskede (Alain Resnais, 1959)\n\nFREDAG DEN 21. FEBRUAR\n21:00: Eyes Wide Shut (Stanley Kubrick, 1999)\n\nLØRDAG DEN 22. FEBRUAR\n19.00: Tal til hende (Pedro Almodóvar, 2002)\n21.30: Vanilla Sky (Cameron Crowe, 2001)\n\nSØNDAG DEN 23. FEBRUAR\n16.30: Wittgenstein + talk (Filosofisk Filmfestival)***\n19.00: The Pervert's Guide to Cinema (Sophie Fiennes, 2006)\n\nTIRSDAG DEN 25. FEBRUAR\n18.30: A Real Young Girl + talk (Filosofisk Filmfestival)***\n19.30: Donna Haraway: Film + talk (Filosofisk Filmfestival)***\n21.15: Frygtens pris (Henri-Georges Clouzot, 1953)\n21.45: Wittgenstein (Derek Jarman, 1993)\n\nONSDAG DEN 26. FEBRUAR\n21.15: Hiroshima, min elskede (Alain Resnais, 1959)\n\nTORSDAG DEN 27. FEBRUAR\n19.30: Eyes Wide Shut (Stanley Kubrick, 1999)\n\nFREDAG DEN 28. FEBRUAR\n16.30: Himlen på jorden (Terrence Malick, 1978)***\n21.15: Vanilla Sky (Cameron Crowe, 2001)\n\nTORSDAG DEN 6. MARTS\n21.45: Donna Haraway: Film + talk EKSTRA EVENT\n\nBemærk: Filmene 'Karate Kid' og 'Fight Club' udgår desværre.\n\n------------------------------------\nFOOD FOR THOUGHT\n------------------------------------\n\nSom noget nyt lægger vi med skræddersyede samtalekort op til, at refleksionerne oven på visse film kan fortsættes over fx et glas vin, en skål suppe eller den faste buffet. \n\n*) Samtalekort kan efter filmen findes i Restaurant SULT\n**) Samtalekort kan efter filmen findes i Asta Bar, hvor der er salg af varm suppe\n***) Samtalekort kan efter filmen findes i Spiseriet på Filmtaget\n\nLæs mere om SULT’s åbningstider, menu og bestilling på www.dfi.dk/cinemateket/sult-i-cinemateket\n\n------------------------------------\nFILOSOFISK FILMFESTIVAL\nTANKER OM STORT OG SMÅT\n------------------------------------\n\nFilosofisk Filmfestival er tilbage, og i februar 2025 præsenterer vi et program, der er større end nogensinde – og som udforsker eksistens, moral, samfund og virkelighed.\nFilmene kan opdeles i fire grupper, der hver især rejser centrale filosofiske spørgsmål.\n\nFilm som den drilske 'Wittgenstein', portrætdokumentaren ’Donna Haraway: Story Telling for Earthly Survival’ og den filmanalytiske 'The Pervert's Guide to Cinema' med Slavoj Zizek ved roret bringer os tæt på historiske og nulevende filosoffer og deres tænkning.\n\nI film som 'Himlen på jorden', Den sorte krystal’, ’Og livet går videre’ og 'Drengen og hejren' undersøges, hvordan mennesket relaterer sig til noget større end sig selv, og hvad det kræver eller betyder at finde sin plads i verden.\n\nFilm som 'Eyes Wide Shut', 'The Lighthouse' og 'Vanilla Sky' udforsker, hvordan vores perception former vores forståelse af virkeligheden. Her stilles der spørgsmål ved, hvad der er ’ægte’. Vi bruger bl.a. filmene til at undersøge, hvordan vi navigerer i en stadig mere digital verden.\n\nEndelig er der en stribe film, der skildrer dilemmaer hos individer under ydre pres, bl.a. ’Frygtens pris’, og 'Oppenheimer' og ’Martyrs’ udfordrer normer og konventioner, reflekterer over etiske dilemmaer og samfundets indflydelse på individet.\nOg så er der masser af plads til det quirky – film med kultstatus og kultpotentiale, talks med overraskende indfaldsvinkler og meget andet.\n\nFilosofisk Filmfestival henvender sig til et bredt publikum. Festivalen appellerer til både filmelskere, der søger film med intellektuelle og filosofiske dimensioner, og til dem, der er interesseret i at reflektere over temaer som identitet, etik, moral, teknologi og samfund.\n\nDet er en festival for både erfarne filosoffer og nybegyndere, der ønsker at udvide deres perspektiver og få nye indsigter gennem filmens form.\n\nDette års festival er lavet i samarbejde med Dansk Selskab for Filosofisk Praksis og forlaget Gyldendal. Kuratorer: David M. Larsson, Dennis J. Rosenfeld og Rasmus Brendstrup. Kontakt: rasmusb@dfi.dk \n\n------------------------------------\nLIDT FORHISTORIE\n------------------------------------\n\nI efteråret 2022 udfoldede Cinemateket  en stribe arrangementer om kvindelige filosoffer og fik i den anledning mange opfordringer til at holde snuden i det filmfilosofiske spor i mere alsidige kulturelle, geografiske og genremæssige retninger. \n\nDet prøvede vi i 2023 med den første Filosofisk Filmfestival på dansk grund - programmet så sådan her ud: https://www.facebook.com/events/660593932267153\n\nOg i 2024 var programmet dette:\nhttps://www.facebook.com/cinemateket/posts/752758873556143/\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\n\nFilosofisk Filmfestival 2025\nTid: 1.-28. februar 2025 \nSted: Cinemateket, Gothersgade 55, Kbh K\n\nBilletter: 95 kr. (65 kr. for medlemmer af Cinemateket). \nEvents med foredrag eller helaftensfilm: 105/75 kr.\n\nBilletter: 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/filmserier/serie/filosofisk-filmfestival#all\n\nLæs mere om Cinemateket og medlemsfordele på: www.dfi.dk/cinemateket/medlemmer",
+    "date": {
+      "start_timestamp": 1738426500,
+      "end_timestamp": 1739636100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/842177717670042/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472059055_1009200094578685_212732502460276935_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZZuLxeEexeoQ7kNvgHGTp15&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AOUf9u_6cem8hHHtJY-RDdw&oh=00_AYAvVL8t6Ktkpwp-GBba9Td1h2rw-DebhPgrvfN20Gj_FA&oe=679EDEC7",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "612361438130838",
+    "name": "Yin Yoga",
+    "description": "Sammen runder vi ugen blødt af med stræk og grounding gennem yin yoga. Er det kuren mod din søndagsblues? Sandsynligvis – i hvert fald er det en kærlig måde at træne hvile, nærvær og smidighed på.\n\nAlle uanset erfaring er velkomne, og det er ikke teknisk svært. I yin-yoga bevæges kroppen på en blid og rolig måde gennem siddende og liggende stillinger. Hver stilling holdes i 3-7 minutter, så både kroppen og nervesystemet god tid til at følge med.\n\nThe class is in danish, but we welcome non-eniglish speakers. As the pace is slow, you will have time to follow along by looking around.\n\n\nPraktisk\n\nTilmelding nødvendig via dette link: https://forms.gle/4prWDYuvJdryyeHbA\n\nDer er en sliding-scale betaling med en gennemsnitspris på 50 kr inspirreret af the green bottle modellen. Her betaler man efter evne, hvilket kan gøre deltagelse tilgængelig for flere. Læs mere ved tilmelding.\n\nMedbring en varm trøje og evt. et tæppe.\n\n \n\nOm underviseren\n\nFrederikke (@Fred_og_ro) er nyuddannet yin-yoga lærer og videreuddanner sig for tiden i yoga til folk med kroniske smerter og funktionsnedsættelser. Hun er optaget af at skabe inklusive yogatimer, både i forhold til måden man taler om køn og krop på og tilgængelighed for forskellige funktionsniveauer. Er du i tvivl om du er i stand til at deltage i timen, kan du skrive til fredogroyoga@gmail.com.",
+    "date": {
+      "start_timestamp": 1738512000,
+      "end_timestamp": 1738515600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Vestergade 18E, 2. sal, 1456 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67743750000001,
+      "longitude": 12.569437500000035,
+      "bounds_ne_lat": 55.67750000000001,
+      "bounds_ne_lng": 12.569500000000033,
+      "bounds_sw_lat": 55.67737500000001,
+      "bounds_sw_lng": 12.569375000000036,
+      "plus_code_global": "9F7JMHG9+XQ",
+      "plus_code_local": "MHG9+XQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/612354728131509/?event_time_id=612361438130838",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470462553_536546709410703_6397847235279680768_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cT9n7BheQdUQ7kNvgFWvutY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AAkCEJAO3ND4_dUVbsicpaJ&oh=00_AYBHJhUSLzcd7sf7jRtyy0lzd3VuCy_eQK2u2tHKu_bX7Q&oe=679EF119",
+    "tag": "YOGA",
+    "platform": "Facebook",
+    "page_name": "LGBT+ Medborgerhuset i København",
+    "page_url": "https://www.facebook.com/LGBTmedborgerhuset/events"
   }
 ]
