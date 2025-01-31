@@ -30,14 +30,14 @@
     <meta name="twitter:image" content="https://cph.quest/opengraph.png">
     
     <link rel="stylesheet" href="styles.css">
-    <script src="moment.min.js"></script>
+    <script src="libraries/moment.min.js"></script>
 </head>
 
 <body>
     <header class="site-header">
         <div class="header-content">
             <h1 class="roboto-condensed-title">THIS WEEK IN COPENHAGEN</h1>
-            <button id="infoButton" class="info-button" style="display: none;">
+            <button id="infoButton" class="info-button">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <circle cx="12" cy="12" r="3"></circle>
                     <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
@@ -48,23 +48,7 @@
 
     <div class="container">
         <div id="loadingSpinner" class="loading-spinner"></div>
-        <!--<div id="tagFilters" class="tag-filters"></div>-->
-        <div id="weekNavigation" class="week-navigation" style="display: none;"></div>
         <div id="eventList" class="event-list"></div>
-    </div>
-
-    <div id="eventModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <img id="modalImage" class="modal-image" src="" alt="">
-            <h2 id="modalTitle" class="modal-title"></h2>
-            <p id="modalDate" class="modal-date"></p>
-            <p id="modalTag" class="modal-tag"></p>
-            <p id="modalLocation" class="modal-location"></p>
-            <div id="modalDescription" class="modal-description"></div>
-            <a id="modalLink" class="modal-link" target="_blank">Original Page</a>
-            <button id="addToCalendar" class="add-to-calendar">Add to Calendar</button>
-        </div>
     </div>
 
     <div id="infoModal" class="modal">
@@ -79,14 +63,10 @@
             <p>Love ya all!</p>
             <br> -->
             <div id="venueList"></div>
-            <div id="venueControls">
-                <button id="enableAllVenues">Enable All</button>
-                <button id="disableAllVenues">Disable All</button>
-            </div>
         </div>
     </div>
 
-    <script src="script.js"></script>
+    <script type="module" src="main.js"></script>
 </body>
 
 </html>

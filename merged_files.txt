@@ -1,0 +1,888 @@
+==== api.js ====
+
+import { state } from './state.js';
+import { normalizeString, getSimilarity } from './utils.js';
+
+export async function fetchWeekEvents(weekStart) {
+  const weekNumber = weekStart.format('WW').padStart(2, '0');
+  const year = weekStart.format('YYYY');
+  try {
+    const response = await fetch(`events/${year}-W${weekNumber}.json`);
+    return response.ok ? await response.json() : [];
+  } catch (error) {
+    console.error('Error loading events:', error);
+    return [];
+  }
+}
+
+export async function loadEvents() {
+  const [currentWeek, nextWeek] = await Promise.all([
+    fetchWeekEvents(moment()),
+    fetchWeekEvents(moment().add(1, 'week'))
+  ]);
+
+  state.events = processEvents([...currentWeek, ...nextWeek]);
+  initializePageFilters();
+}
+
+function processEvents(events) {
+  const seenEvents = new Map();
+
+  return events.filter(event => {
+    const date = moment.unix(event.date.start_timestamp).format('YYYY-MM-DD');
+    const normalized = normalizeString(event.name);
+
+    if (!seenEvents.has(date)) seenEvents.set(date, new Set());
+    if (isDuplicate(date, normalized, event, seenEvents)) return false;
+
+    seenEvents.get(date).add(normalized);
+    return true;
+  }).map(event => ({
+    ...event,
+    start: moment.unix(event.date.start_timestamp).toDate(),
+    end: moment.unix(event.date.end_timestamp).toDate(),
+    venue: event.page_name,
+    location: event.location
+  }));
+}
+
+function isDuplicate(date, normalizedName, event, seenEvents) {
+  return [...seenEvents.get(date)].some(existing => {
+    const sameTime = event.start === existing.start;
+    const sameVenue = event.venue === existing.venue;
+    return sameTime && sameVenue && (
+      existing.normalizedName.includes(normalizedName) ||
+      normalizedName.includes(existing.normalizedName) ||
+      getSimilarity(normalizedName, existing.normalizedName) > 0.45
+    );
+  });
+}
+
+function initializePageFilters() {
+  if (state.pageFilters.size === 0) {
+    state.pageFilters = new Set(state.events.map(e => e.venue).filter(Boolean));
+  }
+}
+==== constants.js ====
+
+export const EVENT_TAGS = [
+  "MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "THEATRE", "CULTURE",
+  "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"
+];
+
+export const TAG_EMOJIS = {
+  "MUSIC": "🎵",
+  "MOVIE": "🎬",
+  "ACTIVISM": "✊",
+  "COMMUNITY": "🤝",
+  "THEATRE": "🎭",
+  "CULTURE": "🏛️",
+  "LGBTQ+": "🏳️‍🌈",
+  "YOGA": "🧘",
+  "SPORTS": "⚽",
+  "ART": "🎨",
+  "COMEDY": "😂",
+  "SHOPPING": "🛍️",
+  "GAMES": "🎮",
+  "QUIZ": "🧠"
+};
+==== filters.js ====
+
+import { state } from './state.js';
+import { displayEvents } from './render.js';
+
+export function saveVenuePreferences() {
+  const venues = [...state.pageFilters].reduce((acc, venue) => {
+    acc[venue] = state.pageFilters.has(venue);
+    return acc;
+  }, {});
+  localStorage.setItem('venueSettings', JSON.stringify(venues));
+  updateFilterIndicator();
+}
+
+export function loadVenuePreferences() {
+  const saved = localStorage.getItem('venueSettings');
+  if (!saved) return;
+
+  const venues = JSON.parse(saved);
+  const currentVenues = new Set(state.events.map(e => e.venue));
+  state.pageFilters = new Set([...currentVenues].filter(v => venues[v] !== false));
+  updateFilterIndicator();
+}
+
+function updateFilterIndicator() {
+  const infoButton = document.getElementById('infoButton');
+  if (infoButton) {
+    const available = new Set(state.events.map(e => e.venue));
+    infoButton.classList.toggle('has-filters', state.pageFilters.size < available.size);
+  }
+}
+
+export function populateVenueList() {
+  const container = document.getElementById('venueList');
+  if (!container) return;
+
+  container.innerHTML = `
+    <div id="venueControls">
+      <button id="enableAll">Enable All</button>
+      <button id="disableAll">Disable All</button>
+    </div>
+    <h3>Venues</h3>
+    ${[...new Set(state.events.map(e => e.venue))].sort().map(venue => `
+      <div class="venue-item">
+        <div class="venue-info">
+          <a href="${state.events.find(e => e.venue === venue)?.venueUrl}" target="_blank">${venue}</a>
+        </div>
+        <label class="venue-toggle">
+          <input type="checkbox" ${state.pageFilters.has(venue) ? 'checked' : ''}>
+          <span class="slider"></span>
+        </label>
+      </div>
+    `).join('')}
+  `;
+
+  container.querySelectorAll('input').forEach(input => {
+    input.addEventListener('change', () => {
+      state.pageFilters[input.checked ? 'add' : 'delete'](input.parentElement.previousElementSibling.textContent);
+      saveVenuePreferences();
+      displayEvents();
+    });
+  });
+
+  document.getElementById('enableAll').addEventListener('click', () => {
+    state.pageFilters = new Set(state.events.map(e => e.venue));
+    displayEvents();
+  });
+
+  document.getElementById('disableAll').addEventListener('click', () => {
+    state.pageFilters.clear();
+    displayEvents();
+  });
+}
+==== main.js ====
+
+import { loadEvents } from './api.js';
+import { loadVenuePreferences, populateVenueList } from './filters.js';
+import { createWeekNavigation, displayEvents } from './render.js';
+import { registerModalEvents } from './modal.js';
+
+document.addEventListener('DOMContentLoaded', async () => {
+  await loadEvents();
+  loadVenuePreferences();
+  createWeekNavigation();
+  populateVenueList();
+  displayEvents();
+  registerModalEvents();
+});
+==== modal.js ====
+
+import { state } from './state.js';
+
+export function showEventDetails(event) {
+  const modal = document.getElementById('eventModal');
+  if (!modal) return;
+
+  // If event has a URL, open it in a new tab instead of showing modal
+  if (event.url) {
+    window.open(event.url, '_blank');
+    return;
+  }
+
+  // Update modal content
+  modal.querySelector('#modalImage').src = event.imageUrl || '/api/placeholder/600/300';
+  modal.querySelector('#modalTitle').textContent = event.name;
+  modal.querySelector('#modalDate').textContent = `
+    ${moment(event.start).format('MMMM D, YYYY - h:mm A')} 
+    to 
+    ${moment(event.end).format('h:mm A')}
+  `;
+  modal.querySelector('#modalTag').textContent = event.tag || '';
+
+  // Set location with map link if available
+  const modalLocation = modal.querySelector('#modalLocation');
+  if (event.location) {
+    modalLocation.innerHTML = `
+      <a href="http://maps.google.com/?q=${encodeURIComponent(event.location)}" 
+         target="_blank">📍 ${event.location}</a>
+    `;
+  } else {
+    modalLocation.textContent = 'Location not specified';
+  }
+
+  // Convert URLs in description to clickable links
+  const modalDescription = modal.querySelector('#modalDescription');
+  modalDescription.innerHTML = event.description.replace(
+    /(https?:\/\/[^\s]+)/g, 
+    '<a href="$1" target="_blank">$1</a>'
+  );
+
+  // Set main event URL if available
+  const modalLink = modal.querySelector('#modalLink');
+  if (event.url) {
+    modalLink.href = event.url;
+  } else {
+    modalLink.removeAttribute('href');
+  }
+
+  // Show modal
+  modal.style.display = 'block';
+  document.body.style.overflow = 'hidden';
+}
+
+export function closeModal() {
+  const modal = document.getElementById('eventModal');
+  if (!modal) return;
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+export function addToCalendar(event) {
+  const startTime = moment(event.start).format('YYYYMMDDTHHmmss');
+  const endTime = moment(event.end).format('YYYYMMDDTHHmmss');
+
+  const googleUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${
+    encodeURIComponent(event.name)
+  }&dates=${startTime}/${endTime}&details=${
+    encodeURIComponent(event.description)
+  }&location=${
+    encodeURIComponent(event.location || '')
+  }&sprop=&sprop=name:&sprop=X-EVENT-TAGS:${event.tag}`;
+
+  const appleICS = `
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:${event.url}
+DTSTART:${startTime}
+DTEND:${endTime}
+SUMMARY:${event.name}
+DESCRIPTION:${event.description}
+LOCATION:${event.location || ''}
+X-EVENT-TAGS:${event.tag}
+END:VEVENT
+END:VCALENDAR
+  `.trim();
+
+  const appleUrl = `data:text/calendar;charset=utf8,${encodeURIComponent(appleICS)}`;
+
+  // Show calendar choice modal
+  const calendarModal = document.createElement('div');
+  calendarModal.className = 'calendar-modal';
+  calendarModal.innerHTML = `
+    <div class="calendar-modal-content">
+      <h3>Add to Calendar</h3>
+      <p><a href="${googleUrl}" target="_blank">Add to Google Calendar</a></p>
+      <p><a href="${appleUrl}" download="event.ics">Add to Apple Calendar</a></p>
+      <button id="closeCalendarModal">Close</button>
+    </div>
+  `;
+
+  document.body.appendChild(calendarModal);
+
+  // Close button handler
+  document.getElementById('closeCalendarModal').onclick = (e) => {
+    e.stopPropagation();
+    document.body.removeChild(calendarModal);
+  };
+}
+
+export function registerModalEvents() {
+  // Event Modal close button
+  const eventModal = document.getElementById('eventModal');
+  if (!eventModal) return;
+
+  const closeBtn = eventModal.querySelector('.close');
+  if (closeBtn) {
+    closeBtn.addEventListener('click', closeModal);
+  }
+
+  // Close on outside click
+  eventModal.addEventListener('click', (e) => {
+    if (e.target === eventModal) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeModal();
+    }
+  });
+
+  // iOS fix for outside touch
+  eventModal.addEventListener('touchend', (e) => {
+    if (e.target === eventModal) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeModal();
+    }
+  }, { passive: false });
+
+  // Prevent scroll propagation on modal content
+  const modalContent = eventModal.querySelector('.modal-content');
+  if (modalContent) {
+    modalContent.addEventListener('touchmove', (e) => {
+      e.stopPropagation();
+    }, { passive: false });
+  }
+
+  // Add to Calendar button
+  const addToCalendarBtn = document.getElementById('addToCalendar');
+  if (addToCalendarBtn) {
+    addToCalendarBtn.addEventListener('click', () => {
+      const eventData = JSON.parse(addToCalendarBtn.dataset.event);
+      addToCalendar(eventData);
+    });
+  }
+}
+==== render.js ====
+
+import { state } from './state.js';
+import { showEventDetails } from './modal.js';
+
+export function displayEvents() {
+  const events = state.events.filter(event =>
+    moment(event.start).isBetween(state.currentWeek, state.currentWeek.clone().add(1, 'week')) &&
+    state.pageFilters.has(event.venue) &&
+    state.tagFilters.has(event.tag)
+  ).sort((a, b) => a.start - b.start);
+
+  document.getElementById('eventList').innerHTML = Object.entries(
+    events.reduce((groups, event) => {
+      const date = moment(event.start).format('MMMM D, YYYY');
+      groups[date] = groups[date] || [];
+      groups[date].push(event);
+      return groups;
+    }, {})
+  ).map(([date, events]) => `
+    <div class="event-day-divider" data-date="${date}">
+      <div class="event-day-container">
+        ${events.map(event => `
+          <div class="event-box" onclick="showEventDetails(${JSON.stringify(event)})">
+            <img src="${event.imageUrl || 'placeholder.jpg'}" loading="lazy" alt="${event.name}">
+            <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+            <div class="event-details">
+              <div class="event-title">${event.name}</div>
+              <div class="event-date">📆 ${moment(event.start).format('h:mm A')}</div>
+              <div class="event-location">📍 ${event.venue}</div>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+      `).join('');
+    }
+
+    export function createWeekNavigation() {
+      const container = document.getElementById('weekNavigation');
+      container.innerHTML = `
+        <button id="prevWeek">←</button>
+        <span id="weekDisplay">${state.currentWeek.format('MMMM D')} -
+        ${state.currentWeek.clone().endOf('week').format('MMMM D, YYYY')}</span>
+        <button id="nextWeek">→</button>
+      `;
+    
+      document.getElementById('prevWeek').addEventListener('click', () => {
+        state.currentWeek = state.currentWeek.subtract(1, 'week');
+        displayEvents();
+      });
+    
+      document.getElementById('nextWeek').addEventListener('click', () => {
+        state.currentWeek = state.currentWeek.add(1, 'week');
+        displayEvents();
+      });
+    }
+==== state.js ====
+
+import { EVENT_TAGS } from './constants.js';
+
+let allEvents = [];
+let activeTagFilters = new Set(EVENT_TAGS);
+let activePageFilters = new Set();
+let currentWeekStart = moment();
+
+export const state = {
+  get events() { return allEvents },
+  set events(events) { allEvents = events },
+
+  get tagFilters() { return activeTagFilters },
+  set tagFilters(filters) { activeTagFilters = new Set(filters) },
+
+  get pageFilters() { return activePageFilters },
+  set pageFilters(filters) { activePageFilters = new Set(filters) },
+
+  get currentWeek() { return currentWeekStart.clone() },
+  set currentWeek(date) { currentWeekStart = date.clone() }
+};
+==== utils.js ====
+
+export function normalizeString(str) {
+  return str.toLowerCase().replace(/[★*]/g, '').trim();
+}
+
+export function levenshteinDistance(str1, str2) {
+  const matrix = Array(str2.length + 1).fill().map(() =>
+    Array(str1.length + 1).fill(0)
+  );
+
+  for (let i = 0; i <= str1.length; i++) matrix[0][i] = i;
+  for (let j = 0; j <= str2.length; j++) matrix[j][0] = j;
+
+  for (let j = 1; j <= str2.length; j++) {
+    for (let i = 1; i <= str1.length; i++) {
+      const cost = str1[i-1] === str2[j-1] ? 0 : 1;
+      matrix[j][i] = Math.min(
+        matrix[j-1][i] + 1,
+        matrix[j][i-1] + 1,
+        matrix[j-1][i-1] + cost
+      );
+    }
+  }
+  return matrix[str2.length][str1.length];
+}
+
+export function getSimilarity(str1, str2) {
+  const maxLength = Math.max(str1.length, str2.length);
+  const distance = levenshteinDistance(str1, str2);
+  return 1 - (distance / maxLength);
+}
+==== api.js ====
+
+import { state } from './state.js';
+import { normalizeString, getSimilarity } from './utils.js';
+
+export async function fetchWeekEvents(weekStart) {
+  const weekNumber = weekStart.format('WW').padStart(2, '0');
+  const year = weekStart.format('YYYY');
+  try {
+    const response = await fetch(`events/${year}-W${weekNumber}.json`);
+    return response.ok ? await response.json() : [];
+  } catch (error) {
+    console.error('Error loading events:', error);
+    return [];
+  }
+}
+
+export async function loadEvents() {
+  const [currentWeek, nextWeek] = await Promise.all([
+    fetchWeekEvents(moment()),
+    fetchWeekEvents(moment().add(1, 'week'))
+  ]);
+
+  state.events = processEvents([...currentWeek, ...nextWeek]);
+  initializePageFilters();
+}
+
+function processEvents(events) {
+  const seenEvents = new Map();
+
+  return events.filter(event => {
+    const date = moment.unix(event.date.start_timestamp).format('YYYY-MM-DD');
+    const normalized = normalizeString(event.name);
+
+    if (!seenEvents.has(date)) seenEvents.set(date, new Set());
+    if (isDuplicate(date, normalized, event, seenEvents)) return false;
+
+    seenEvents.get(date).add(normalized);
+    return true;
+  }).map(event => ({
+    ...event,
+    start: moment.unix(event.date.start_timestamp).toDate(),
+    end: moment.unix(event.date.end_timestamp).toDate(),
+    venue: event.page_name,
+    location: event.location
+  }));
+}
+
+function isDuplicate(date, normalizedName, event, seenEvents) {
+  return [...seenEvents.get(date)].some(existing => {
+    const sameTime = event.start === existing.start;
+    const sameVenue = event.venue === existing.venue;
+    return sameTime && sameVenue && (
+      existing.normalizedName.includes(normalizedName) ||
+      normalizedName.includes(existing.normalizedName) ||
+      getSimilarity(normalizedName, existing.normalizedName) > 0.45
+    );
+  });
+}
+
+function initializePageFilters() {
+  if (state.pageFilters.size === 0) {
+    state.pageFilters = new Set(state.events.map(e => e.venue).filter(Boolean));
+  }
+}
+==== constants.js ====
+
+export const EVENT_TAGS = [
+  "MUSIC", "MOVIE", "ACTIVISM", "COMMUNITY", "THEATRE", "CULTURE",
+  "LGBTQ+", "YOGA", "SPORTS", "ART", "COMEDY", "SHOPPING", "GAMES", "QUIZ"
+];
+
+export const TAG_EMOJIS = {
+  "MUSIC": "🎵",
+  "MOVIE": "🎬",
+  "ACTIVISM": "✊",
+  "COMMUNITY": "🤝",
+  "THEATRE": "🎭",
+  "CULTURE": "🏛️",
+  "LGBTQ+": "🏳️‍🌈",
+  "YOGA": "🧘",
+  "SPORTS": "⚽",
+  "ART": "🎨",
+  "COMEDY": "😂",
+  "SHOPPING": "🛍️",
+  "GAMES": "🎮",
+  "QUIZ": "🧠"
+};
+==== filters.js ====
+
+import { state } from './state.js';
+import { displayEvents } from './render.js';
+
+export function saveVenuePreferences() {
+  const venues = [...state.pageFilters].reduce((acc, venue) => {
+    acc[venue] = state.pageFilters.has(venue);
+    return acc;
+  }, {});
+  localStorage.setItem('venueSettings', JSON.stringify(venues));
+  updateFilterIndicator();
+}
+
+export function loadVenuePreferences() {
+  const saved = localStorage.getItem('venueSettings');
+  if (!saved) return;
+
+  const venues = JSON.parse(saved);
+  const currentVenues = new Set(state.events.map(e => e.venue));
+  state.pageFilters = new Set([...currentVenues].filter(v => venues[v] !== false));
+  updateFilterIndicator();
+}
+
+function updateFilterIndicator() {
+  const infoButton = document.getElementById('infoButton');
+  if (infoButton) {
+    const available = new Set(state.events.map(e => e.venue));
+    infoButton.classList.toggle('has-filters', state.pageFilters.size < available.size);
+  }
+}
+
+export function populateVenueList() {
+  const container = document.getElementById('venueList');
+  if (!container) return;
+
+  container.innerHTML = `
+    <div id="venueControls">
+      <button id="enableAll">Enable All</button>
+      <button id="disableAll">Disable All</button>
+    </div>
+    <h3>Venues</h3>
+    ${[...new Set(state.events.map(e => e.venue))].sort().map(venue => `
+      <div class="venue-item">
+        <div class="venue-info">
+          <a href="${state.events.find(e => e.venue === venue)?.venueUrl}" target="_blank">${venue}</a>
+        </div>
+        <label class="venue-toggle">
+          <input type="checkbox" ${state.pageFilters.has(venue) ? 'checked' : ''}>
+          <span class="slider"></span>
+        </label>
+      </div>
+    `).join('')}
+  `;
+
+  container.querySelectorAll('input').forEach(input => {
+    input.addEventListener('change', () => {
+      state.pageFilters[input.checked ? 'add' : 'delete'](input.parentElement.previousElementSibling.textContent);
+      saveVenuePreferences();
+      displayEvents();
+    });
+  });
+
+  document.getElementById('enableAll').addEventListener('click', () => {
+    state.pageFilters = new Set(state.events.map(e => e.venue));
+    displayEvents();
+  });
+
+  document.getElementById('disableAll').addEventListener('click', () => {
+    state.pageFilters.clear();
+    displayEvents();
+  });
+}
+==== main.js ====
+
+import { loadEvents } from './api.js';
+import { loadVenuePreferences, populateVenueList } from './filters.js';
+import { createWeekNavigation, displayEvents } from './render.js';
+import { registerModalEvents } from './modal.js';
+
+document.addEventListener('DOMContentLoaded', async () => {
+  await loadEvents();
+  loadVenuePreferences();
+  createWeekNavigation();
+  populateVenueList();
+  displayEvents();
+  registerModalEvents();
+});
+==== modal.js ====
+
+import { state } from './state.js';
+
+export function showEventDetails(event) {
+  const modal = document.getElementById('eventModal');
+  if (!modal) return;
+
+  // If event has a URL, open it in a new tab instead of showing modal
+  if (event.url) {
+    window.open(event.url, '_blank');
+    return;
+  }
+
+  // Update modal content
+  modal.querySelector('#modalImage').src = event.imageUrl || '/api/placeholder/600/300';
+  modal.querySelector('#modalTitle').textContent = event.name;
+  modal.querySelector('#modalDate').textContent = `
+    ${moment(event.start).format('MMMM D, YYYY - h:mm A')} 
+    to 
+    ${moment(event.end).format('h:mm A')}
+  `;
+  modal.querySelector('#modalTag').textContent = event.tag || '';
+
+  // Set location with map link if available
+  const modalLocation = modal.querySelector('#modalLocation');
+  if (event.location) {
+    modalLocation.innerHTML = `
+      <a href="http://maps.google.com/?q=${encodeURIComponent(event.location)}" 
+         target="_blank">📍 ${event.location}</a>
+    `;
+  } else {
+    modalLocation.textContent = 'Location not specified';
+  }
+
+  // Convert URLs in description to clickable links
+  const modalDescription = modal.querySelector('#modalDescription');
+  modalDescription.innerHTML = event.description.replace(
+    /(https?:\/\/[^\s]+)/g, 
+    '<a href="$1" target="_blank">$1</a>'
+  );
+
+  // Set main event URL if available
+  const modalLink = modal.querySelector('#modalLink');
+  if (event.url) {
+    modalLink.href = event.url;
+  } else {
+    modalLink.removeAttribute('href');
+  }
+
+  // Show modal
+  modal.style.display = 'block';
+  document.body.style.overflow = 'hidden';
+}
+
+export function closeModal() {
+  const modal = document.getElementById('eventModal');
+  if (!modal) return;
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+export function addToCalendar(event) {
+  const startTime = moment(event.start).format('YYYYMMDDTHHmmss');
+  const endTime = moment(event.end).format('YYYYMMDDTHHmmss');
+
+  const googleUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${
+    encodeURIComponent(event.name)
+  }&dates=${startTime}/${endTime}&details=${
+    encodeURIComponent(event.description)
+  }&location=${
+    encodeURIComponent(event.location || '')
+  }&sprop=&sprop=name:&sprop=X-EVENT-TAGS:${event.tag}`;
+
+  const appleICS = `
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:${event.url}
+DTSTART:${startTime}
+DTEND:${endTime}
+SUMMARY:${event.name}
+DESCRIPTION:${event.description}
+LOCATION:${event.location || ''}
+X-EVENT-TAGS:${event.tag}
+END:VEVENT
+END:VCALENDAR
+  `.trim();
+
+  const appleUrl = `data:text/calendar;charset=utf8,${encodeURIComponent(appleICS)}`;
+
+  // Show calendar choice modal
+  const calendarModal = document.createElement('div');
+  calendarModal.className = 'calendar-modal';
+  calendarModal.innerHTML = `
+    <div class="calendar-modal-content">
+      <h3>Add to Calendar</h3>
+      <p><a href="${googleUrl}" target="_blank">Add to Google Calendar</a></p>
+      <p><a href="${appleUrl}" download="event.ics">Add to Apple Calendar</a></p>
+      <button id="closeCalendarModal">Close</button>
+    </div>
+  `;
+
+  document.body.appendChild(calendarModal);
+
+  // Close button handler
+  document.getElementById('closeCalendarModal').onclick = (e) => {
+    e.stopPropagation();
+    document.body.removeChild(calendarModal);
+  };
+}
+
+export function registerModalEvents() {
+  // Event Modal close button
+  const eventModal = document.getElementById('eventModal');
+  if (!eventModal) return;
+
+  const closeBtn = eventModal.querySelector('.close');
+  if (closeBtn) {
+    closeBtn.addEventListener('click', closeModal);
+  }
+
+  // Close on outside click
+  eventModal.addEventListener('click', (e) => {
+    if (e.target === eventModal) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeModal();
+    }
+  });
+
+  // iOS fix for outside touch
+  eventModal.addEventListener('touchend', (e) => {
+    if (e.target === eventModal) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeModal();
+    }
+  }, { passive: false });
+
+  // Prevent scroll propagation on modal content
+  const modalContent = eventModal.querySelector('.modal-content');
+  if (modalContent) {
+    modalContent.addEventListener('touchmove', (e) => {
+      e.stopPropagation();
+    }, { passive: false });
+  }
+
+  // Add to Calendar button
+  const addToCalendarBtn = document.getElementById('addToCalendar');
+  if (addToCalendarBtn) {
+    addToCalendarBtn.addEventListener('click', () => {
+      const eventData = JSON.parse(addToCalendarBtn.dataset.event);
+      addToCalendar(eventData);
+    });
+  }
+}
+==== render.js ====
+
+import { state } from './state.js';
+import { showEventDetails } from './modal.js';
+
+export function displayEvents() {
+  const events = state.events.filter(event =>
+    moment(event.start).isBetween(state.currentWeek, state.currentWeek.clone().add(1, 'week')) &&
+    state.pageFilters.has(event.venue) &&
+    state.tagFilters.has(event.tag)
+  ).sort((a, b) => a.start - b.start);
+
+  document.getElementById('eventList').innerHTML = Object.entries(
+    events.reduce((groups, event) => {
+      const date = moment(event.start).format('MMMM D, YYYY');
+      groups[date] = groups[date] || [];
+      groups[date].push(event);
+      return groups;
+    }, {})
+  ).map(([date, events]) => `
+    <div class="event-day-divider" data-date="${date}">
+      <div class="event-day-container">
+        ${events.map(event => `
+          <div class="event-box" onclick="showEventDetails(${JSON.stringify(event)})">
+            <img src="${event.imageUrl || 'placeholder.jpg'}" loading="lazy" alt="${event.name}">
+            <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+            <div class="event-details">
+              <div class="event-title">${event.name}</div>
+              <div class="event-date">📆 ${moment(event.start).format('h:mm A')}</div>
+              <div class="event-location">📍 ${event.venue}</div>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+      `).join('');
+    }
+
+    export function createWeekNavigation() {
+      const container = document.getElementById('weekNavigation');
+      container.innerHTML = `
+        <button id="prevWeek">←</button>
+        <span id="weekDisplay">${state.currentWeek.format('MMMM D')} -
+        ${state.currentWeek.clone().endOf('week').format('MMMM D, YYYY')}</span>
+        <button id="nextWeek">→</button>
+      `;
+    
+      document.getElementById('prevWeek').addEventListener('click', () => {
+        state.currentWeek = state.currentWeek.subtract(1, 'week');
+        displayEvents();
+      });
+    
+      document.getElementById('nextWeek').addEventListener('click', () => {
+        state.currentWeek = state.currentWeek.add(1, 'week');
+        displayEvents();
+      });
+    }
+==== state.js ====
+
+import { EVENT_TAGS } from './constants.js';
+
+let allEvents = [];
+let activeTagFilters = new Set(EVENT_TAGS);
+let activePageFilters = new Set();
+let currentWeekStart = moment();
+
+export const state = {
+  get events() { return allEvents },
+  set events(events) { allEvents = events },
+
+  get tagFilters() { return activeTagFilters },
+  set tagFilters(filters) { activeTagFilters = new Set(filters) },
+
+  get pageFilters() { return activePageFilters },
+  set pageFilters(filters) { activePageFilters = new Set(filters) },
+
+  get currentWeek() { return currentWeekStart.clone() },
+  set currentWeek(date) { currentWeekStart = date.clone() }
+};
+==== utils.js ====
+
+export function normalizeString(str) {
+  return str.toLowerCase().replace(/[★*]/g, '').trim();
+}
+
+export function levenshteinDistance(str1, str2) {
+  const matrix = Array(str2.length + 1).fill().map(() =>
+    Array(str1.length + 1).fill(0)
+  );
+
+  for (let i = 0; i <= str1.length; i++) matrix[0][i] = i;
+  for (let j = 0; j <= str2.length; j++) matrix[j][0] = j;
+
+  for (let j = 1; j <= str2.length; j++) {
+    for (let i = 1; i <= str1.length; i++) {
+      const cost = str1[i-1] === str2[j-1] ? 0 : 1;
+      matrix[j][i] = Math.min(
+        matrix[j-1][i] + 1,
+        matrix[j][i-1] + 1,
+        matrix[j-1][i-1] + cost
+      );
+    }
+  }
+  return matrix[str2.length][str1.length];
+}
+
+export function getSimilarity(str1, str2) {
+  const maxLength = Math.max(str1.length, str2.length);
+  const distance = levenshteinDistance(str1, str2);
+  return 1 - (distance / maxLength);
+}
