@@ -9,7 +9,6 @@ export function registerInteractions() {
   const infoModalContent = infoModal.querySelector('.modal-content');
 
   infoButton.addEventListener('click', () => {
-    console.log('yo, brother');
     infoModal.style.display = 'block';
     document.body.style.overflow = 'hidden';
   });
