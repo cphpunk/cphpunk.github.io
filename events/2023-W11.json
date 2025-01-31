@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1561025721076863",
+    "name": "Den Lille Kulturnat - 2023",
+    "description": "Vi er glade for igen at invitere til Den Lille Kulturnat den 17. marts 2023 fra kl. 16.00 til kl. 20.00.\n\nKulturnatten som du kender den: fyldt med eventyr, spænding og sjove eksperimenter - men udelukkende med arrangementer for små og store børn sammen med deres voksne.\nSæt et stort kryds i kalenderen og følg med herinde, hvor vi løbende informerer om programmet, praktik og sjov.\n\nSe programmet og køb dit kulturpas på: www.kulturnatten.dk <3 ",
+    "date": {
+      "start_timestamp": 1679065200,
+      "end_timestamp": 1679079600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Københavns kommune, Frederiksberg kommune",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67625000000001,
+      "longitude": 12.513749999999987,
+      "bounds_ne_lat": 55.67750000000001,
+      "bounds_ne_lng": 12.514999999999986,
+      "bounds_sw_lat": 55.67500000000001,
+      "bounds_sw_lng": 12.512499999999989,
+      "plus_code_global": "9F7JMGG7+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1561025721076863/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475635812_1167215154964288_7805811240491584810_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=j5wf-QmZHB4Q7kNvgFRVDLX&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ASC_6vGVdao-_3s_Jhnv7eg&oh=00_AYDn0L8Wa2o6jbc-VVxk90vNikPc2lPFCgNjo7W2Y9y4iw&oe=67A2C6EA",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kulturnatten",
+    "page_url": "https://www.facebook.com/Kulturnatten/events"
+  }
+]

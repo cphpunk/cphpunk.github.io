@@ -1,0 +1,64 @@
+[
+  {
+    "id": "472026684406122",
+    "name": "Carpark Experiments Vol. 3 (UDSOLGT)",
+    "description": "Endelig er tiden kommet til Carpark Experiements Vol. 3!\nKom indenfor til endnu en eksperimenterende aften, hvor musik og kunst bliver fusioneret. \n\nDet er ganske gratis at deltage, men et begrænset antal pladser - det eneste du skal gøre for at sikre dig din plads, er at downloade en billet.\n\nCarpark Experiments Vol. 3 vil, ligesom sine forgængere, byde på en intim oplevelse hvor du, denne aften, vil blive omfavnet af betagende lyrik af Deniz Kiy og SENSO.\n\nDeniz Kiy debuterede på Gyldendal med den anmelderroste digtsamling ”Blå Øje” i foråret 2021. Kom og bliv omfavnet af Kiys univers der pendulerer mellem de kropsnære og de metafysiske erfaringer. Hans sanselige metaforik skaber et rum, der synes familiært og fremmed på samme tid.\n\nSENSO byder på både rørende klaverballader og energiske rocksange. Deres debutalbum er et afbillede af det tomrum der opstår, når mening falder fra hinanden og genopstår som noget andet. Glæd dig catchy vokal melodier, stryger arrangementer og atmosfæriske guitarer. Soundvenue har døbt dem som “Københavns nye undergrunds-supergruppe” og de kan altså opleves på fredag til Carpark Experiments Vol. 3!\n\nExperiments er en serie af unikke og enkelstående events hvor sanser, indtryk og oplevelse er omdrejningspunktet for aftenens forløb. Dog, er intet som du før har oplevet i Carpark-regi, da vi ønsker at eksperimentere frem for at gentage. \n\nExperiments startede i 2020 med et ønske om at bryde de vante festivalrammer, som man kender dem. Vi ville udnytte Covid-situationen til det positive og skabe nogle anderledes oplevelser, der kunne rumme de begrænsninger pandamien medførte og udfordre de kår festivalen normalt tilbyder. Den store succes som både Experiments Vol. 1 og Vol. 2 var, bød på en oplagt mulighed for at fortsætte det legende koncept.\n\nVi glæder os til at byde jer velkommen d. 18. marts 2022 i Urban 13’s “Garagen”.",
+    "date": {
+      "start_timestamp": 1647626400,
+      "end_timestamp": 1647633600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "URBAN 13",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.694937499999995,
+      "longitude": 12.535062499999995,
+      "bounds_ne_lat": 55.69499999999999,
+      "bounds_ne_lng": 12.535124999999994,
+      "bounds_sw_lat": 55.694874999999996,
+      "bounds_sw_lng": 12.534999999999997,
+      "plus_code_global": "9F7JMGVP+X2",
+      "plus_code_local": "MGVP+X2",
+      "plus_code_locality": "Frederiksberg, Denmark"
+    },
+    "url": "https://www.facebook.com/events/472026684406122/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/275990694_2203171176527867_5149864708551953906_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZCb_Ew3LzQAQ7kNvgESVLYO&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ANyneeIxbcawu6HllhayupK&oh=00_AYCi99a1jT57K_5oiP100DSE5uce3Ds8cxfUdvy8uyz29w&oe=67A2C469",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Carpark Festival",
+    "page_url": "https://www.facebook.com/carparkfestival/events"
+  },
+  {
+    "id": "448249746634748",
+    "name": "Science & Cocktails: A new science of human history",
+    "description": "Science & Cocktails is proud to present an evening with archeology superstar David Wengrow, acclaimed writer of the book \"The Dawn of Everything\" on the history of inequality with the anthropologist David Graeber. This evening David Wengrow will take you deep into the history of humanity that no one knows about. Just before you'll have the chance of listening to Marathon Monks and Copyflex.\n\nWas there an \"original\" form of human society? Why is our conventional understanding of human history wrong? Was there an Agricultural Revolution? Does living in cities make inequality inevitable? Is our present global order fixed in place by social evolution: are we stuck?\n\nOur conventional understanding of human history is wrong. Our species did not spend 95 percent of its evolutionary past in tiny bands of hunter-gatherers. So what were we doing all that time?\n\nAgriculture and cities did not mean a plunge into hierarchy and domination. So where does inequality really come from?\n\nDrawing on findings from his best-selling book, The Dawn of Everything: A New History of Humanity - co-authored with the late David Graeber - David Wengrow explains how archaeology and anthropology are providing startling new answers to these major questions, revealing a prehistoric world more varied and unexpected than we knew, and a future more open and free than we imagine.\n\nBefore the talk, Copyflex will play tunes from all over the world in the Foyer while Marathon Monks plays funky two-bass grooves, syncopated in-the-pocket drums, space-age laserbeam synths, little chasms of silence, and the sound of six hands clapping in the Auditorium.\n\nTickets: https://www.scienceandcocktails.org/en/events/copenhagen/a-new-science-of-human-history-the-dawn-of-everything\n\nEvent held in English.\n\nThis event has the generous support of the Novo Nordisk Foundation.",
+    "date": {
+      "start_timestamp": 1647367200,
+      "end_timestamp": 1647374400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Ørestads Boulevard 13",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65681249999999,
+      "longitude": 12.5865625,
+      "bounds_ne_lat": 55.656874999999985,
+      "bounds_ne_lng": 12.586624999999998,
+      "bounds_sw_lat": 55.65674999999999,
+      "bounds_sw_lng": 12.586500000000001,
+      "plus_code_global": "9F7JMH4P+PJ",
+      "plus_code_local": "MH4P+PJ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/448249746634748/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475265500_3866626713588353_2811866654276549469_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_XHBXjpwXVUQ7kNvgGSgUJU&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AL8yOqPS-mG8oIWC94DA9-g&oh=00_AYApHLyMRBT4rYg9Nz3_sasWORgbhrpxlT42JGO8irC2Iw&oe=67A2C9DE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Science & Cocktails",
+    "page_url": "https://www.facebook.com/groups/161834943877755/events"
+  }
+]

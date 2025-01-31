@@ -1,0 +1,33 @@
+[
+  {
+    "id": "598788525491634",
+    "name": "Genåbning hos Riccos",
+    "description": "Riccos holder genåbningsdage i påsken med gode tilbud på lækker kaffe og friskbagte croissanter! ☕🥐\n\nKom med den 1. og 2. april til vores genåbning, hvor du kan nyde en god kop kaffe for kun 20 kr. og croissant til 10 kr. \n\nUanset om du er stamkunde eller besøger os for første gang, kan vi ikke vente med at vise dig vores skønne kaffebar der har fået en kærlig hånd og opdateret sin menu 😍\n\nVores kaffebar er det perfekte sted at slappe af med venner og familie, eller bare nyde lidt tid for dig selv. Så kom ind på Riccos, snup en plads, og forkæl dig selv med lækker kaffe, kage og mad på vores kaffebar i Vanløse, Godthåbsvej 199 📍\n\nVi glæder os til at se se dig!",
+    "date": {
+      "start_timestamp": 1680334200,
+      "end_timestamp": 1680451200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Godthåbsvej 199, 2720 København",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69268749999999,
+      "longitude": 12.5131875,
+      "bounds_ne_lat": 55.69274999999999,
+      "bounds_ne_lng": 12.51325,
+      "bounds_sw_lat": 55.69262499999999,
+      "bounds_sw_lng": 12.513125000000002,
+      "plus_code_global": "9F7JMGV7+37",
+      "plus_code_local": "MGV7+37",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/598788525491634/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/336867795_922361435852946_7008018394996211885_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bzHlv9GfdpcQ7kNvgG1HSAJ&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A3qd08oxK4D5F4DAjzr5kEO&oh=00_AYAOtyn8meoZ-2HPPmds1n9yIaXz7cP9HGhrRzvaRvdBBQ&oe=67A2C0A9",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Ricco's Kaffebar",
+    "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
+  }
+]

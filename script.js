@@ -36,17 +36,42 @@ let activeTagFilters = new Set(EVENT_TAGS);
  */
 let activePageFilters = new Set();
 
-// Add these new functions for managing venue preferences
 function saveVenuePreferences() {
-    localStorage.setItem('activeVenues', JSON.stringify(Array.from(activePageFilters)));
-    updateFilterIndicator(); 
+  // Save as an object mapping venue names to their enabled state
+  const venueSettings = {};
+  const uniquePages = new Set(allEvents.map(e => e.venue).filter(Boolean));
+  uniquePages.forEach(venue => {
+      venueSettings[venue] = activePageFilters.has(venue);
+  });
+  
+  localStorage.setItem('venueSettings', JSON.stringify(venueSettings));
+  updateFilterIndicator();
 }
 
 function loadVenuePreferences() {
-  const savedVenues = localStorage.getItem('activeVenues');
-  if (savedVenues) {
-      activePageFilters = new Set(JSON.parse(savedVenues));
-      updateFilterIndicator(); 
+  const savedSettings = localStorage.getItem('venueSettings');
+  if (savedSettings) {
+      const venueSettings = JSON.parse(savedSettings);
+      
+      // Get all current venues from events
+      const currentVenues = new Set(allEvents.map(e => e.venue).filter(Boolean));
+      
+      // Clear and rebuild activePageFilters
+      activePageFilters.clear();
+      
+      // For each current venue:
+      currentVenues.forEach(venue => {
+          // If we have a saved preference, use it
+          // If it's a new venue (not in saved settings), enable it by default
+          if (venueSettings[venue] !== false) {
+              activePageFilters.add(venue);
+          }
+      });
+      
+      updateFilterIndicator();
+  } else {
+      // If no saved settings, enable all venues (default behavior)
+      activePageFilters = new Set(allEvents.map(e => e.venue).filter(Boolean));
   }
 }
 
@@ -74,7 +99,7 @@ let currentWeekStart = moment(); //.startOf('week'); We now start the week from 
 async function fetchWeekEvents(weekStart) {
   const weekNumber = weekStart.format('WW').padStart(2, '0');
   const year = weekStart.format('YYYY');
-  const fileName = `${year}-W${weekNumber}.json`; 
+  const fileName = `events/${year}-W${weekNumber}.json`; 
 
   try {
     const response = await fetch(fileName);

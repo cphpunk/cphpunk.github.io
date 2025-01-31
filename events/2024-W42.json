@@ -1,0 +1,33 @@
+[
+  {
+    "id": "522062074015731",
+    "name": "PTx - PASS THE AUX IV @ HAVEN",
+    "description": "Calling all music producers, beatmakers, artists, and musicians:\nOn Saturday the 18th of October we’re once again passing the aux at Haven!\n\nPTx provides time and space for sharing demos, unfinished tracks, unreleased music (new & old), and whatever you are working on at the moment. The event is NOT genre-specific.\n\nCo-Host and DJ for the evening: Murat Dal\nWe have adapters for iPhone and Android. 404s, Trackers, MPCs, and other portable devices are welcome too.\n\nTime table:\n19:00 PTx starts. Talk to us!\n20:00 Aux cable will be passed around\n22:00 PTx ends. Build and hang out. Talk to each other.\n**Bring a friend to work!**\n\nAnyone who wants to vibe out and listen is more than welcome.\n\nSigurdsgade 39, 2200\n19 – 23\nFree entrance\nNo age limit",
+    "date": {
+      "start_timestamp": 1729357200,
+      "end_timestamp": 1729368000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurd CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70368749999999,
+      "longitude": 12.555187500000002,
+      "bounds_ne_lat": 55.703749999999985,
+      "bounds_ne_lng": 12.555250000000001,
+      "bounds_sw_lat": 55.70362499999999,
+      "bounds_sw_lng": 12.555125000000004,
+      "plus_code_global": "9F7JPH34+F3",
+      "plus_code_local": "PH34+F3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/522062074015731/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/462842646_975958321230246_5720521773753167974_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hlOTpGBnPO4Q7kNvgEUdm0l&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AF0-r0c8L-NdkG-JVeKsOfE&oh=00_AYD2qCkHmmw1Bi5NBgf_xyn5UI530NWfY-3fkGwORtV8WA&oe=67A2A504",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
+  }
+]

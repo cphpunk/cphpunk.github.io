@@ -1,0 +1,33 @@
+[
+  {
+    "id": "906878519863514",
+    "name": "Carpark Festival 2022",
+    "description": "Det nyeste og mest interessante musik og kunst fra det danske vækstlag!\n\nGlæd dig til en urban festival på grænsen mellem Frederiksberg og Nørrebro i rå omgivelser under Bispeengbuen!\n\n29. og 30. juli fra 15:00-00:00 byder vi velkommen til to fantastiske dage med gode koncerter, interessante kunstværker, unik stemning og uforglemmelige oplevelser.\n\nEn dagsbillet koster blot 150,- kroner og dét, synes vi, er en god pris for en dag med fest, farver og nye oplevelser.\n\nFREDAG\n15.00: Pladsen åbner + Happy Hour\n16.20: Ela Lung\n17.00: Avoid\n17.50: Tredjeperson\n18.40: August Høyen\n19.30: Ju Kaia\n20.20: jeng/JOAH/Oliver Malone\n21.20: Sonic Girl\n22.10: SZIM\n23.00: URO\n00.00: Tak for i dag! Vi ses i morgen!\n\nLØRDAG\n15.00: Pladsen åbner + Happy Hour\n16.20: RØR\n17.00: Downtown July\n17.50: Selma Higgins\n18.40: PALLAS\n19.30: Giift\n20.20: MAS\n21.20: Afskum\n22.10: IVER\n23.00: Josie Amadonna\n00.00: Tak for i år! Vi ses i 2023!\n\nKUNST BEGGE DAGE\nSigne Dige, Caroline Charef, Ranva Lærke, BLAU, Mark og Viljam Kilford. \n\nLær musikken bedre at kende og varm op til festivalen med årets playliste \"Carpark Festival 2022\" på Spotify.\n\nFølg godt med her på siden og på Instagram, når vi løbende løfter sløret for resten af indholdet på sommerens festival.\n\nCarpark Festival 2022 bliver skabt i samarbejde med og med støtte fra Frederiksbergfonden, Frederiksberg Kommune, Københavns Kommune og Nordea-fonden.",
+    "date": {
+      "start_timestamp": 1659099600,
+      "end_timestamp": 1659218340,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "URBAN 13",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.694937499999995,
+      "longitude": 12.535062499999995,
+      "bounds_ne_lat": 55.69499999999999,
+      "bounds_ne_lng": 12.535124999999994,
+      "bounds_sw_lat": 55.694874999999996,
+      "bounds_sw_lng": 12.534999999999997,
+      "plus_code_global": "9F7JMGVP+X2",
+      "plus_code_local": "MGVP+X2",
+      "plus_code_locality": "Frederiksberg, Denmark"
+    },
+    "url": "https://www.facebook.com/events/906878519863514/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/283702905_2257623471082637_5520798202542873653_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OHYQPMVNKSMQ7kNvgE2zgNq&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AajD81fpG5u0JEbuWja2Nps&oh=00_AYBVycWDQnaoTSxLZfwsCrgByGK4yWXwJCyt5TvOpMPJNw&oe=67A2C8FB",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Carpark Festival",
+    "page_url": "https://www.facebook.com/carparkfestival/events"
+  }
+]

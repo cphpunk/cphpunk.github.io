@@ -1,0 +1,33 @@
+[
+  {
+    "id": "433497205996626",
+    "name": "Jægersborggade Loppemarked",
+    "description": "Så er vi ved at være der - forårssol, pollen og genbrugsguld i luften:)\n \nJægersborggade Handelsforening byder i år til et brag af et forårsloppemarked på tværs og langs af vores hyggelige gade. Hiv familien med og gør et kup.\n\nVi glæder os så meget til at se jer allesammen. <3\n\nKh.\n Jægersborggade Handelsforening\n\nP.S\nØnsker du selv at sælge lopper på dagen - kan du købe én af de begrænsede pladser på Billetto fra på torsdag d. 25. april kl. 12.00 - prisen er 250 DKK.\nLinket frigives her i eventet.",
+    "date": {
+      "start_timestamp": 1715500800,
+      "end_timestamp": 1715522400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Jægersborggade, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/433497205996626/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/438332000_835623185261778_3805433892170729053_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WubTLYwiYU8Q7kNvgG1jagU&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AfYmQ6-6QuNGRupQ3MQE9Wi&oh=00_AYDskb7fgjEUfP0PHtR9vVALRZM0Di_vkRoYbrKooDoA-Q&oe=67A2D06C",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  }
+]

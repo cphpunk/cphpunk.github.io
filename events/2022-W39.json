@@ -1,0 +1,33 @@
+[
+  {
+    "id": "796625735098806",
+    "name": "Concert - Auguste Vickunaite & Sholto Dobie",
+    "description": "Join us for two solo concerts by Auguste Vickunaite & Sholto Dobie, who will be performing at Polychrome.\n\nCome around from 19:00, where we will have food and a chance to look through the shop.\n\nPerformances will start from 20:00\n\n\n\nSholto Dobie\nSholto Dobie was born in Edinburgh and lives in Vilnius. He works with sound, music and\nperformances as well as organising events and exhibitions. He uses loose structures and an\narray of sound-sources including home-made organs, hurdy gurdy and field recordings. His\nperformances are personal and intuitive, often coming across as delicate, evocative, and\nabsurd. He has released work with Penultimate Press, Mappa, Thanet Tape Center and\nTakuRoku.\n\nAuguste Vickunaite (LT/DE)\nAuguste Vickunaite is a Berlin based Lithuanian sound artist with a background in physics\nscience. She uses reel-to-reel tape recorders to play, record, and create sounds that contain\ndiverse recordings and malfunctions of the old technology itself. The pre-recorded or live\nrecorded sonic material inside the audio tape loops is a collage of field recordings, voice,\nmusic instruments, sounds of objects objects, errors of empty tape, fragments of found\ntapes. She has performed solo in various cities throughout Europe since 2016 and released\nmusic on Klammklang and DAS ANDERE SELBST.\n\nSupported by Københavns Kommunes Musikudvalg",
+    "date": {
+      "start_timestamp": 1664470800,
+      "end_timestamp": 1664478000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Polychrome",
+      "address": "Røde Mellemvej 28",
+      "city": "Amager Fælled, Denmark",
+      "country": "DK",
+      "latitude": 55.65106250000001,
+      "longitude": 12.592437500000003,
+      "bounds_ne_lat": 55.65112500000001,
+      "bounds_ne_lng": 12.592500000000001,
+      "bounds_sw_lat": 55.65100000000001,
+      "bounds_sw_lng": 12.592375000000004,
+      "plus_code_global": "9F7JMH2R+CX",
+      "plus_code_local": "MH2R+CX",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/796625735098806/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/306796594_550769233516444_1791979974701292928_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=T_q_0fhHqVkQ7kNvgGsWCoY&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AJzPAvYb-G2wbaHs65lbav1&oh=00_AYDHFItJlUQ-4qiDY8Cu6sti0VVOgSwCCT0bGCy7mZ7klw&oe=67A2C7C8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Polychrome",
+    "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
+  }
+]

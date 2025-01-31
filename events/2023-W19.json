@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1311498576411493",
+    "name": "Filmklubben BLÅ BIO: ‘The Club of Ugly Children’ ",
+    "description": "Vær med fredag d. 12 maj, når vi inviterer indenfor til film, snacks og hygge på Blågården! 💙\n\nDet er gratis at deltage og tilmelding er ikke nødvendig. \n\nBLÅ BIO er en ny filmklub for børn og unge på Nørrebro startet af Støberiet, FRAK og BUSTER Filmfestival. Den allerførste visning er en del af ‘48 timers festival’, og vi skal se filmen ‘The Club of Ugly Children’. \n\nOm filmen: \n‘The Club og Ugly Children’ foregår i en dystopisk fremtid i et creepy totalitært styre, hvor præsidenten fjerner alle “grimme børn”, så samfundet kan fremstå pænt og fejlfrit. Dog lykkes det drengen Paul med de store ører og hans ven at stikke af og alliere sig med en af de fejlfri piger i kampen for at befri deres venner og de andre børn, der er blevet stemplet som grimme. Det er en hæsblæsende action-historie, fuld af fede stunts, venskab og aktivisme. Filmen anbefales til børn over 7 år. \n\nFilmklubben BLÅ BIO er støttet af Nørrebro Lokaludvalg. Hold øje med BUSTERs Facebookside for info om det næste arrangement! \n",
+    "date": {
+      "start_timestamp": 1683903600,
+      "end_timestamp": 1683910800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Blågården",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68625,
+      "longitude": 12.558750000000003,
+      "bounds_ne_lat": 55.6875,
+      "bounds_ne_lng": 12.560000000000002,
+      "bounds_sw_lat": 55.685,
+      "bounds_sw_lng": 12.557500000000005,
+      "plus_code_global": "9F7JMHP5+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1311498576411493/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/344748254_906867307061983_182448309242299930_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NX6XJW1BoSAQ7kNvgG7_3Sz&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AFinBM-H9WXmcE-OfHQbvZG&oh=00_AYBiU57RWJvKmw0hyprQSSy8Fnpo2aFWr3BAw8Q_nQMVdQ&oe=67A2AA59",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "322155957160674",
+    "name": "Shabholm - Buster Filmfestival i Union",
+    "description": "Kunstnerkollektivet GIGIS er ude med deres nye film efter mesterværket ‘Blokhavn’ og den fantastiske tv-serie ‘100 problemer'. \n\nI filmen Shabholm er Hassan for alvor blevet træt af Danmark, og al den diskrimination han møder. Da han hører, at en oliesheik har købt Bornholm og forvandlet øen til et mellemøstligt ferieparadis kun for udlændinge, tager han straks dertil. Men er paradiset mon for godt til at være sandt?\n\nEfter filmen kommer Rapolitics forbi og lader sig inspirere af de Amarkanske og Shabholmske fortællinger.\n\nDet bliver både til ord, rytmer og rim.\n\nVarighed: 1t30min\nFrarådes for børn under 7 år\nsprog: dansk & med dansk tale",
+    "date": {
+      "start_timestamp": 1696096800,
+      "end_timestamp": 1696104000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Union KBH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69156249999999,
+      "longitude": 12.560437499999992,
+      "bounds_ne_lat": 55.69162499999999,
+      "bounds_ne_lng": 12.56049999999999,
+      "bounds_sw_lat": 55.69149999999999,
+      "bounds_sw_lng": 12.560374999999993,
+      "plus_code_global": "9F7JMHR6+J5",
+      "plus_code_local": "MHR6+J5",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/322155957160674/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/378388091_833953632067275_2652984102894368005_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kF2YOpH5Gs8Q7kNvgFTMMw0&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A04tj_AiQwEXuFkL94CksCk&oh=00_AYCeMJQlHD7vcZTOSMJWOQXwgN8nu8Jn4ijkF2OBUqoFPQ&oe=67A2AF72",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  }
+]

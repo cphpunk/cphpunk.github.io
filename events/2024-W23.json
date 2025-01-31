@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1104066110666522",
+    "name": "SV-festival 2024: Lars Harboe & UHøRT ",
+    "description": "Kom med ud til sommerfest i Sluseholmen og hør Lars Harboe & UHøRT sætte gang i nabolaget i det nye Sydhavn! \n\nEntré: GRATIS \nKoncert: Kl. 14.00\nVenue: Riccos Kaffebar Sluseholmen\n\nOplev sanger, sangskriver og sydhavner Lars Harboe med sit  protestpop-band Lars Harboe & UHøRT til lokal sommerfest i det nye Sydhavn nærmere bestemt inde på Riccos Kaffebar! \n\nScenen er sat i bevægelse til skæv poesi, underspillet socialrealisme, rå lyrik og moderne protestsange.  Forvent skrå, upolerede vinkler på et samfund i høj sø i en musikalsk setting af trashet akustisk folk med energien fra punk, tilsat tango, world, jazz og masser af rock.\n\nLars Harboe synger både kraftigt som Johan Olesen, lyst som Prince og dybt som Johnny Cash. Harboe er uddannet sanger fra rytmekons ’06, og havde et undergrunds-hit i ’07 med sangen”De autonomes skyld”. Han er komponist/guitarist/co-producer i Fransk Dolkeparti der skriver samfundskommenterende pop.\n\n***\nSe samlet SV-festival program her: www.sv-festival.dk ",
+    "date": {
+      "start_timestamp": 1717848000,
+      "end_timestamp": 1717855200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ricco's Kaffebar",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70993749999998,
+      "longitude": 12.56843750000003,
+      "bounds_ne_lat": 55.70999999999998,
+      "bounds_ne_lng": 12.568500000000029,
+      "bounds_sw_lat": 55.70987499999998,
+      "bounds_sw_lng": 12.568375000000032,
+      "plus_code_global": "9F7JPH59+X9",
+      "plus_code_local": "PH59+X9",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1104066110666522/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/444784192_1056882815848674_289750665315584013_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kCbCA6mc-7sQ7kNvgFGSpyV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AEJXWM3JjHSBTZmN4r4-cSC&oh=00_AYDoI26SpPNkYmPEWcYvWuVIOkccle2uhc-r0gNbHIJb9g&oe=67A2C900",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Ricco's Kaffebar",
+    "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
+  }
+]

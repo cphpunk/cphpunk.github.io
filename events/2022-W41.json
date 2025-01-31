@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1346848759054342",
+    "name": "Polychrome presents at Koncertkirken",
+    "description": "Polychrome is presenting a concert and installation of soundworks at Koncertkirken on Saturday 15 October. The event will feature 5 x artists who have worked on projects at Polychrome and our residency space in Sweden (Andersabo) over the period of 2020 -2022. The event at Koncertkirken is an opportunity to bring together these artists and experience a range of music, sound, and performance in one event.\n\nFeaturing performances by Damkapellet, SOLW, TR Kirstein & Jesper Bagger Hviid, Vid Edda, and Jenny Graf.\n\nTickets are 150 kr/100kr for students, available at door\n\nSupported by Københavns Kommunes Musikudvalg and Clara Lachmanns Stiftelse",
+    "date": {
+      "start_timestamp": 1665849600,
+      "end_timestamp": 1665856800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "KoncertKirken",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68681249999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.686874999999986,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68674999999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+P3",
+      "plus_code_local": "MHP5+P3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1346848759054342/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/310072606_562934448966589_5921246115610112236_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eCuu9sT8qxQQ7kNvgG2j01-&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Aa45YdKSLas31UqB4wSMS6-&oh=00_AYAtoi88ZoS5tlg63LeJWIGF1BP5ZuRnE5jbLOmk7MRyGA&oe=67A2BF15",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Polychrome",
+    "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
+  },
+  {
+    "id": "326868956081597",
+    "name": "Kulturnatten 2022",
+    "description": "Glæd dig til et væld af spændende arrangementer, god stemning og en fornøjet summen i byens gader, når Kulturnatten vender tilbage den 14. oktober 2022.\n\nMere end 200 arrangører, herunder museer, teatre, kirker, ministerier, pladser og biblioteker, slår dørene op til arrangementer ud over det sædvanlige i aftentimerne fra kl. 18.00-00.00. \n\nDet eneste, du behøver for at deltage, er et Kulturpas. Et Kulturpas giver adgang til alle Kulturnattens arrangementer og fri transport med bus, tog og Metro i Hovedstadsområdet (zone 1-99) fra kl. 16.00 til kl. 04.00. Kulturpasset koster 110 kroner. Børn under 12 år har gratis entré, når de følges med en voksen med Kulturpas. \n\nDu kan købe et Kulturpas i alle 7-Eleven butikker i Hovedstadsområdet og på udvalgte biblioteker og museer i København og på Frederiksberg. Salget starter den 1. oktober og i Kulturnattens egen webshop, hvor du i år også kan købe passet digitalt, den 14. september. \n\nHold øje med begivenheden, hvor vi løbende opdaterer med information.",
+    "date": {
+      "start_timestamp": 1665763200,
+      "end_timestamp": 1665770400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/326868956081597/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/282573130_7773625979329323_6599059148010469298_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=yj__q97CIxQQ7kNvgEsFt2J&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AAgCMENwtMM8qZ9bv1wubZf&oh=00_AYDdrgpV5d5uFdWMlNx0IEgt4N6cT4B3ZG8hp3qjL0kQwQ&oe=67A2C2B6",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Kulturnatten",
+    "page_url": "https://www.facebook.com/Kulturnatten/events"
+  }
+]

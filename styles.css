@@ -162,6 +162,155 @@ h1 {
     color: #1a1a1a;
 }
 
+/* Update venue controls section */
+#venueControls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 25px;
+}
+
+#venueControls button {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#enableAllVenues {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#disableAllVenues {
+    background-color: #e74c3c;
+    color: white;
+}
+
+#enableAllVenues:hover {
+    background-color: #45a049;
+    transform: translateY(-1px);
+}
+
+#disableAllVenues:hover {
+    background-color: #c0392b;
+    transform: translateY(-1px);
+}
+
+/* Modernize venue items */
+.venue-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    margin-bottom: 12px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.venue-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.venue-info a {
+    color: #2c3e50;
+    font-weight: 500;
+    text-decoration: none;
+    font-family: "Roboto Condensed", sans-serif;
+    transition: color 0.2s ease;
+}
+
+.venue-info a:hover {
+    color: #3498db;
+    text-decoration: underline;
+}
+
+/* Enhanced toggle switch */
+.venue-toggle {
+    position: relative;
+    display: inline-block;
+    width: 52px;
+    height: 28px;
+}
+
+.venue-toggle input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #e0e0e0;
+    transition: .4s;
+    border-radius: 34px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 22px;
+    width: 22px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+input:checked + .slider {
+    background-color: #3498db;
+}
+
+input:checked + .slider:before {
+    transform: translateX(24px);
+}
+
+/* Modal header styling */
+#infoModal h2 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 1.8em;
+    color: #2c3e50;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #3498db;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .venue-item {
+        padding: 12px;
+    }
+    
+    #venueControls button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+    
+    .venue-toggle {
+        width: 48px;
+        height: 26px;
+    }
+    
+    .slider:before {
+        height: 20px;
+        width: 20px;
+    }
+}
+
 #infoModal {
     display: none;
 }
@@ -172,37 +321,6 @@ h1 {
     overflow-y: auto;
 }
 
-.venue-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-    padding: 10px;
-    background-color: #f0f0f0;
-    border-radius: 5px;
-}
-
-.venue-item a {
-    color: #0066cc;
-    text-decoration: none;
-}
-
-.venue-item a:hover {
-    text-decoration: underline;
-}
-
-.venue-toggle {
-    position: relative;
-    display: inline-block;
-    width: 60px;
-    height: 34px;
-}
-
-.venue-toggle input {
-    opacity: 0;
-    width: 0;
-    height: 0;
-}
 
 .venue-type-section {
     margin-bottom: 20px;
@@ -211,7 +329,6 @@ h1 {
 .venue-type-section h4 {
     font-size: 18px;
     margin-bottom: 10px;
-    border
     height: 0;
 }
 
@@ -224,38 +341,6 @@ h1 {
     margin-bottom: 10px;
     border-bottom: 1px solid #ccc;
     padding-bottom: 5px;
-}
-
-.slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #ccc;
-    transition: .4s;
-    border-radius: 34px;
-}
-
-.slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    transition: .4s;
-    border-radius: 50%;
-}
-
-input:checked+.slider {
-    background-color: #2196F3;
-}
-
-input:checked+.slider:before {
-    transform: translateX(26px);
 }
 
 .filter-container {
@@ -367,36 +452,7 @@ input:checked+.slider:before {
     animation: popAndShake 0.6s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 
-#venueControls {
-    display: flex;
-    justify-content: left;
-    margin-bottom: 20px;
-}
 
-#venueControls button {
-    margin-right: 10px;
-    padding: 10px 20px;
-}
-
-#enableAllVenues {
-    background-color: #f7f7f7;
-    /* light gray */
-}
-
-#disableAllVenues {
-    background-color: #f7f7f7;
-    /* light gray */
-}
-
-#enableAllVenues:hover {
-    background-color: #34c759;
-    /* bright green */
-}
-
-#disableAllVenues:hover {
-    background-color: #e74c3c;
-    /* deep red */
-}
 
 
 .week-navigation {
@@ -567,6 +623,7 @@ input:checked+.slider:before {
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 3;
+    line-clamp: 3;
     -webkit-box-orient: vertical;
 }
 

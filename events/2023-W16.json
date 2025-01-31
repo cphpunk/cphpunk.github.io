@@ -1,0 +1,33 @@
+[
+  {
+    "id": "3004809336495233",
+    "name": "Copenhagen Sakura Festival 2023",
+    "description": "🌸The Copenhagen Sakura Festival will return to Langelinje Park under the blossoming cherry trees in 2023!🌸\n\nThe festival is free for all - no tickets needed :)\nJust show up at Langelinie Park on the 22nd and 23rd of April between 11:00 and 16:00 to enjoy the festivities, booths, food, entertainment and great vibes :D\n\nThe Copenhagen Sakura Festival is well known for featuring many Japanese cultural performances.\nEvery year, you will experience both traditional and modern Japanese culture through the performances on stage, amidst the blossoming Sakura trees.\n\nFor more information and updated program for the festival, please visit: https://sakurafestival.dk/",
+    "date": {
+      "start_timestamp": 1682154000,
+      "end_timestamp": 1682258400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Copenhagen Sakura Festival, Langelinie Park",
+      "address": "Langelinie 10",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.69143749999999,
+      "longitude": 12.598312500000034,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.598375000000033,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.598250000000036,
+      "plus_code_global": "9F7JMHRX+H8",
+      "plus_code_local": "MHRX+H8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3004809336495233/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/337856105_1835304610203310_7040793936297418722_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mR-CntmLaxgQ7kNvgHAQMkh&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AUJ6KztZJ9orPPbzk0gJ_-m&oh=00_AYAl0bTJAl-zNrDKwxfvPPF5_iveUkEPA2GZC_MRlcklyA&oe=67A2B904",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Sakura Festival",
+    "page_url": "https://www.facebook.com/copenhagensakurafestival/events"
+  }
+]
