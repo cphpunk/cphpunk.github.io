@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1247720022981286",
+    "name": "Intromøde til Extinction Rebellion København",
+    "date": {
+      "start_timestamp": 1746023400,
+      "end_timestamp": 1746027000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6659375,
+      "longitude": 12.5805625,
+      "bounds_ne_lat": 55.666,
+      "bounds_ne_lng": 12.580624999999998,
+      "bounds_sw_lat": 55.665875,
+      "bounds_sw_lng": 12.5805,
+      "plus_code_global": "9F7JMH8J+96",
+      "plus_code_local": "MH8J+96",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1247720022981286/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475783702_962735459321068_7150424972155407764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8RN3r-sAE4gQ7kNvgFBNulC&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AvPulI4URpKtmA6R9U7qL2g&oh=00_AYBSScob54FGzgAjb_UC1laVmArG5_rd-qMmgmbFwEO4yA&oe=67A2A9D8",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "kk-dire-straits-jam",
+    "name": "Dire Straits Jam",
+    "date": {
+      "start_timestamp": 1746298800,
+      "end_timestamp": 1746304200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/dire-straits-jam",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2021-10/pressefoto.dire_%20%281%29.jpg?itok=keDMUi0w",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "931688355756556",
+    "name": "Copenhagen Photo Festival 2025",
+    "date": {
+      "start_timestamp": 1749718800,
+      "end_timestamp": 1750615200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Centrum, København, Hovedstaden",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65556249999999,
+      "longitude": 12.610062499999984,
+      "bounds_ne_lat": 55.655624999999986,
+      "bounds_ne_lng": 12.610124999999982,
+      "bounds_sw_lat": 55.65549999999999,
+      "bounds_sw_lng": 12.609999999999985,
+      "plus_code_global": "9F7JMJ46+62",
+      "plus_code_local": "MJ46+62",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/931688355756556/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/474532905_1247812563571652_2878812973745141890_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VCEWAwMJH_QQ7kNvgHXJCPC&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8Dqaf4TK4RiXblp0XsjUYg&oh=00_AYAscW3nABm7ZUk2SQQsNTIfyPEbSf2NaRuv0LoWT7KXuw&oe=67A2A21A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Photo Festival",
+    "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
+  }
+]

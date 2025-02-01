@@ -1,0 +1,32 @@
+[
+  {
+    "id": "683677665436802",
+    "name": "Kulturnatten 2019",
+    "date": {
+      "start_timestamp": 1570809600,
+      "end_timestamp": 1570831200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/683677665436802/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/62546810_2969718736386762_8728713223081033728_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7-qoNnqNux8Q7kNvgFA354q&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AY6LLU98fkloGYyt_rcduvR&oh=00_AYCox1BXLpl2FGrXrR8q5U9F_FMO_5LzFj2Z4A1e8Victw&oe=67C4600B",
+    "tag": "CULTURE",
+    "platform": "Facebook",
+    "page_name": "Kulturnatten",
+    "page_url": "https://www.facebook.com/Kulturnatten/events"
+  }
+]

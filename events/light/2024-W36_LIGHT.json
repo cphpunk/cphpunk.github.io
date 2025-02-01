@@ -1,0 +1,32 @@
+[
+  {
+    "id": "825385439703457",
+    "name": "Indvielse: Lise Nørholm \"Må min aske blive spredt i Amager Centret\"",
+    "date": {
+      "start_timestamp": 1725462000,
+      "end_timestamp": 1725469200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Amager Centret",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.662937499999984,
+      "longitude": 12.603687499999992,
+      "bounds_ne_lat": 55.66299999999998,
+      "bounds_ne_lng": 12.603749999999991,
+      "bounds_sw_lat": 55.662874999999985,
+      "bounds_sw_lng": 12.603624999999994,
+      "plus_code_global": "9F7JMJ73+5F",
+      "plus_code_local": "MJ73+5F",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/825385439703457/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/457558757_1039784704814325_898316352415892070_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8onypj1GrOMQ7kNvgHrUvE8&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=APlCJIe3q7_iu2m-eHpJyxT&oh=00_AYA8AKm1r1dKdFMoYF4yLezP_DiyfHdYtFagOddKz6dyow&oe=67A2C856",
+    "tag": "ART",
+    "platform": "Facebook",
+    "page_name": "FABRIKKEN for Kunst og Design",
+    "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+  }
+]

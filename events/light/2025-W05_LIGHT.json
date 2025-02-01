@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "1131314532334181",
+    "name": "Kom og spil badminton (gratis) // Weekend for børn",
+    "date": {
+      "start_timestamp": 1738483200,
+      "end_timestamp": 1738490400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Nørrebrogade 208, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.699687500000024,
+      "longitude": 12.543312499999999,
+      "bounds_ne_lat": 55.69975000000002,
+      "bounds_ne_lng": 12.543374999999997,
+      "bounds_sw_lat": 55.699625000000026,
+      "bounds_sw_lng": 12.54325,
+      "plus_code_global": "9F7JMGXV+V8",
+      "plus_code_local": "MGXV+V8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1131314479000853/?event_time_id=1131314532334181",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/471525960_1144594124336209_1821489049070307223_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NmyfdkVZmOIQ7kNvgEencZX&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8dztG22W7F0DNTM4w_p1fS&oh=00_AYBn6lTtGSWuCqSAlOz6qLRSvhxZpv_en0iEUi5mrbJGZQ&oe=67A2C966",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "Nørrebrohallen og Nørrebro Bibliotek",
+    "page_url": "https://www.facebook.com/Noerrebrohallen/events"
+  },
+  {
+    "id": "kk-the-orgelheimers-faa-billetter",
+    "name": "The Orgelheimers (få billetter)",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738355400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/the-orgelheimers-faa-billetter",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2023-10/Design%20uden%20navn%20%2848%29.png?itok=DX0J3tNR",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-gundewaidtloew-kvartet-udsolgt",
+    "name": "Gunde/Waidtløw kvartet (udsolgt)",
+    "date": {
+      "start_timestamp": 1738438200,
+      "end_timestamp": 1738445400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/gundewaidtloew-kvartet-udsolgt",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2021-10/Gunde%20Waitl%C3%B8w%20%281%29.jpg?itok=HFnIDx5k",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-club-debauche-presents-irezumi-blind-beast",
+    "name": "Club Debauché Presents: IREZUMI & BLIND BEAST",
+    "date": {
+      "start_timestamp": 1738432800,
+      "end_timestamp": 1738450740,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Husets Biograf",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/club-debauche-presents-irezumi-blind-beast",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/IREZUMI%20%26%20BLIND%20BEAST.jpg?itok=tCMD58cT",
+    "tag": "MOVIE",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-vinterjazz-morice-saxo-support-mp3dam",
+    "name": "Vinterjazz: Morice Saxo + Support: Mp3dam",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738360800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-morice-saxo-support-mp3dam",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/Morice%20Saxo%201920%20x%20554.png?itok=rCIqZP2F",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-night-journeys-presents-ssaliva-support-vio-lino-vinterjazz",
+    "name": "Night Journeys presents: Ssaliva + support: vio lino | Vinterjazz",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738447200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/night-journeys-presents-ssaliva-support-vio-lino-vinterjazz",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/DSC_0555_0.JPG?h=bc8b3453&itok=bvYRkyDW",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-andy-warhols-flesh-for-frankenstein",
+    "name": "Andy Warhol's FLESH FOR FRANKENSTEIN",
+    "date": {
+      "start_timestamp": 1738513800,
+      "end_timestamp": 1738521000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Husets Biograf",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/andy-warhols-flesh-for-frankenstein",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/FLESH%20FOR%20FRANKENSTEIN.jpg?itok=7V5Zin6o",
+    "tag": "MOVIE",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "mayhem-20250131-spost+mayhem-præsenterer:",
+    "name": "SPOST+MAYHEM PRÆSENTERER:",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Mayhem",
+      "address": "Ragnhildgade 1, 2100 København Ø",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://mayhemkbh.dk",
+    "image_url": "https://mayhemkbh.dk/wp-content/uploads/2025/01/IMG_7524-700x366.jpeg",
+    "tag": "MUSIC",
+    "platform": "Mayhem",
+    "page_name": "Mayhem",
+    "page_url": "https://mayhemkbh.dk"
+  },
+  {
+    "id": "550364941282310",
+    "name": "Hansn/Hoier, Younolovebunny, Fancy Instincts, Martin T.H. Andersen, Sublight og Poul Erik Nielsen.",
+    "date": {
+      "start_timestamp": 1738348200,
+      "end_timestamp": 1738355400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Råhuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66981250000002,
+      "longitude": 12.560312499999995,
+      "bounds_ne_lat": 55.66987500000002,
+      "bounds_ne_lng": 12.560374999999993,
+      "bounds_sw_lat": 55.66975000000002,
+      "bounds_sw_lng": 12.560249999999996,
+      "plus_code_global": "9F7JMH96+W4",
+      "plus_code_local": "MH96+W4",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/550364941282310/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/465784099_10161846468719441_4254796619307621605_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JpA8UpA9dOsQ7kNvgEiOZwb&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AiWpTj1DrbLfROZ0Te3lD4t&oh=00_AYBzAPaLKar-RBwttD6pDtBYwV9s3a3M6lymhjqGUZpwaQ&oe=67A2B600",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Råhuset",
+    "page_url": "https://www.facebook.com/Raahuset/events"
+  },
+  {
+    "id": "588271967038771",
+    "name": "Inventory + Swash + Pelts",
+    "date": {
+      "start_timestamp": 1738434600,
+      "end_timestamp": 1738449900,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Råhuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66981250000002,
+      "longitude": 12.560312499999995,
+      "bounds_ne_lat": 55.66987500000002,
+      "bounds_ne_lng": 12.560374999999993,
+      "bounds_sw_lat": 55.66975000000002,
+      "bounds_sw_lng": 12.560249999999996,
+      "plus_code_global": "9F7JMH96+W4",
+      "plus_code_local": "MH96+W4",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/588271967038771/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/467672423_545033001784915_8161303394356574087_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rhJUWxEkxIEQ7kNvgEDJTzT&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AQpMAGn0qwdlpcSyQ7tIBtt&oh=00_AYBMQXlvBrZs9GjsrVvXJaiBuEEgDGAAFlMfiF5QkAfPhg&oe=67A2A910",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Råhuset",
+    "page_url": "https://www.facebook.com/Raahuset/events"
+  },
+  {
+    "id": "439181405453595",
+    "name": "Vinterjazz: Quest Master [AU] + Special Guests: Offermose + Taagebue",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738458000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Spillestedet Stengade",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68831250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.68837500000001,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.68825000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHQ4+87",
+      "plus_code_local": "MHQ4+87",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/439181405453595/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/463734535_931538325672114_3778395745164273447_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=G_xIg2zAsasQ7kNvgEX-PFQ&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A-LDQTUP0FU6cNA7ufDZ00x&oh=00_AYALQDqfhtohCz0ffkMhcEVl_3zycyPmZmr4d6LEWISUVw&oe=67A2B6E0",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Spillestedet Stengade",
+    "page_url": "https://www.facebook.com/spillestedetstengade/events"
+  },
+  {
+    "id": "2324184081293373",
+    "name": "Free Afterparty with DJ Worldy Collective",
+    "date": {
+      "start_timestamp": 1738364340,
+      "end_timestamp": 1738371600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Spillestedet Stengade",
+      "address": "Stengade 18",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.68831250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.68837500000001,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.68825000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHQ4+87",
+      "plus_code_local": "MHQ4+87",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2324184081293373/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/475313126_1006334948192451_4910899120732952626_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3A3YNeCiqMcQ7kNvgHQL0GK&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AfHDUXkn1FJI-PPOUnqwNy8&oh=00_AYAnqpgqWPWPAD3q24bsbnIwQ123cVey69gmX18yQ_6V3Q&oe=67A2BD24",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Spillestedet Stengade",
+    "page_url": "https://www.facebook.com/spillestedetstengade/events"
+  },
+  {
+    "id": "458808683355560",
+    "name": "Vinterjazz: Debre Damo Dining Orchestra + Support: ET TUMASON + Afterparty: Worldy // Few Tickets",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738371600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Spillestedet Stengade",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68831250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.68837500000001,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.68825000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHQ4+87",
+      "plus_code_local": "MHQ4+87",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/458808683355560/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/464829763_941096124716334_3969224046752539494_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hEZVlfHpXD0Q7kNvgHAvRCp&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A1AfINe1BWvoWiHvQhEO2vE&oh=00_AYDsrm0bogbqsEPt3OhVyyEgAAnwTFKsCXDNApxl3z-N-Q&oe=67A2CCE8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Spillestedet Stengade",
+    "page_url": "https://www.facebook.com/spillestedetstengade/events"
+  },
+  {
+    "id": "1791467141689396",
+    "name": "CLUB MALIKA: Le Diouck (Live) (FR) + Prof. Stranger (SE) + suziethecockroach (BR) + Malika Mahmoud",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738450740,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Nørre Allé 7, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69156249999999,
+      "longitude": 12.560437499999992,
+      "bounds_ne_lat": 55.69162499999999,
+      "bounds_ne_lng": 12.56049999999999,
+      "bounds_sw_lat": 55.69149999999999,
+      "bounds_sw_lng": 12.560374999999993,
+      "plus_code_global": "9F7JMHR6+J5",
+      "plus_code_local": "MHR6+J5",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1791467141689396/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/469231847_997797349043817_3436706349336941442_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qeQT_JclSasQ7kNvgHasf5I&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ASUlrM4IY0wSEjIWy0vGxhM&oh=00_AYCjW9J43V4Oxif1U7nLPjSdQ1LVZgXF1TtRmrR7j_W6tg&oe=67A2C542",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "ALICE cph",
+    "page_url": "https://www.facebook.com/alicecphcom/events"
+  },
+  {
+    "id": "1130422665289664",
+    "name": "Øyunn + Saltmother at ALICE – EKSTRA KONCERT – UDSOLGT",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738360800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Nørre Allé 7, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69156249999999,
+      "longitude": 12.560437499999992,
+      "bounds_ne_lat": 55.69162499999999,
+      "bounds_ne_lng": 12.56049999999999,
+      "bounds_sw_lat": 55.69149999999999,
+      "bounds_sw_lng": 12.560374999999993,
+      "plus_code_global": "9F7JMHR6+J5",
+      "plus_code_local": "MHR6+J5",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1130422665289664/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472854394_1021672756656276_8086512716667238403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=46D7DSVAQdAQ7kNvgGiGA4H&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AQv6wtinK_0Pamjq2muR_r7&oh=00_AYD-HDGUOIYCO6o3MnTI3jVksAxLvtI096r5wVhgcXZIPw&oe=67A2B454",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "ALICE cph",
+    "page_url": "https://www.facebook.com/alicecphcom/events"
+  },
+  {
+    "id": "411911868578684",
+    "name": "Reggae Month - Tribute to the Legends - The Wailers 2025 edition",
+    "date": {
+      "start_timestamp": 1738440000,
+      "end_timestamp": 1738461600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/411911868578684/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/471676384_1189735143161990_2148201024863273990_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lh91thxrwRYQ7kNvgEftO5a&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AmBjz53kxFLjk6fIh01SA-n&oh=00_AYBiVUJ-y8J6_6WQOb2kG1WiWBkCbaEb6iEADa9PG8PiwA&oe=67A2B718",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musik Loppen",
+    "page_url": "https://www.facebook.com/musikloppen/events"
+  },
+  {
+    "id": "1774781556651114",
+    "name": "Vinterjazz x Loppen: Køs + Cyclops Visuals // Loppen",
+    "date": {
+      "start_timestamp": 1738519200,
+      "end_timestamp": 1738526400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Sydområdet 4B, 1. sal, 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.674062500000005,
+      "longitude": 12.597312500000001,
+      "bounds_ne_lat": 55.674125000000004,
+      "bounds_ne_lng": 12.597375,
+      "bounds_sw_lat": 55.67400000000001,
+      "bounds_sw_lng": 12.597250000000003,
+      "plus_code_global": "9F7JMHFW+JW",
+      "plus_code_local": "MHFW+JW",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1774781556651114/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470207850_971641498330994_1653549516680867439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LxKmvbLi_fsQ7kNvgGu1Q1Z&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Amlv1MlUQcvIPVs2CuouiAf&oh=00_AYBIcMohTsPMS9XO_5y4M5MIcF-97wxrwhYugmD8zC60Mg&oe=67A2C9EC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musik Loppen",
+    "page_url": "https://www.facebook.com/musikloppen/events"
+  },
+  {
+    "id": "932580935433323",
+    "name": "[FÅ BILLETTER] Flammen m. Live band // Loppen - Special Guest: hvem",
+    "date": {
+      "start_timestamp": 1738353600,
+      "end_timestamp": 1738360800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Musik Loppen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67381250000001,
+      "longitude": 12.597062500000007,
+      "bounds_ne_lat": 55.67387500000001,
+      "bounds_ne_lng": 12.597125000000005,
+      "bounds_sw_lat": 55.67375000000001,
+      "bounds_sw_lng": 12.597000000000008,
+      "plus_code_global": "9F7JMHFW+GR",
+      "plus_code_local": "MHFW+GR",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/932580935433323/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475273677_899782519019879_7978946112431223156_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-hcYGtTqDQ8Q7kNvgENPsIM&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Akybm4Iyw7dVifcHFHGwZzd&oh=00_AYDp1UR9y6MAOiTnIHpJy3qDX_cSrEnlz77lH1axE-FLWQ&oe=67A2C927",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musik Loppen",
+    "page_url": "https://www.facebook.com/musikloppen/events"
+  },
+  {
+    "id": "2368026320217429",
+    "name": "VINTERJAZZ: Nick Martin & Calum Builder: \"CHIASM\" + Matt Choboter | Air, Strings and Wood",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738447200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "KoncertKirken",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68681249999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.686874999999986,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68674999999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+P3",
+      "plus_code_local": "MHP5+P3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2368026320217429/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472670867_1190952752528212_7051722065029283018_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gieT0caJTesQ7kNvgE7SH4O&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AJAFYRvERb2OVkRekJMTBlL&oh=00_AYCzy9l2D3TwmxVkBfUNOvTLGt5PQt-Bl275SddeKJ9WNw&oe=67A2B493",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "KoncertKirken",
+    "page_url": "https://www.facebook.com/koncertkirken/events"
+  },
+  {
+    "id": "2029436514145144",
+    "name": "VINTERJAZZ: HYPNO QLUB I - \"Human Nature\" – A Night of Sound, Folk and Innovation",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "KoncertKirken",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68681249999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.686874999999986,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68674999999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+P3",
+      "plus_code_local": "MHP5+P3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2029436514145144/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/472269722_1190949119195242_1519634671320820230_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jnRP7uJwQSEQ7kNvgEHzmcP&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A3uX_6YPsbk4eXJRj-VUgh6&oh=00_AYDCLI-fgxoCzVq5CaHxfiFc3w2mzb_dsL-AFyB--4F31A&oe=67A2CD61",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "KoncertKirken",
+    "page_url": "https://www.facebook.com/koncertkirken/events"
+  },
+  {
+    "id": "3866501473664272",
+    "name": "VINTERJAZZ @ KONCERTKIRKEN 2025",
+    "date": {
+      "start_timestamp": 1738263600,
+      "end_timestamp": 1739473200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "KoncertKirken",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68681249999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.686874999999986,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68674999999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+P3",
+      "plus_code_local": "MHP5+P3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3866501473664272/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/471994470_1189272759362878_9117712694584375479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U2K4z4OpO9QQ7kNvgEDdS07&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ANShKlg1x50TXP_UWo8lTsN&oh=00_AYAW7qHB3c8xnY-6G9DxGqrgescCh_mKrDgDrCBcCGGpBQ&oe=67A2B25D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "KoncertKirken",
+    "page_url": "https://www.facebook.com/koncertkirken/events"
+  },
+  {
+    "id": "3864135223843517",
+    "name": "Sunday Sessions #16: Unfolk + Ballads",
+    "date": {
+      "start_timestamp": 1738522800,
+      "end_timestamp": 1738530000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Blågårds Plads 6, 2300",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68668749999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.68674999999999,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68662499999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+M3",
+      "plus_code_local": "MHP5+M3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3864135223843517/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/474004431_122148149246593153_4786057537959832513_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ARfaL_8gyeEQ7kNvgGC3Fvk&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Ap5mjuI8CgF5qsOac8p_9ds&oh=00_AYBrtQVCyKkJrc9LrWsAaTpjMvDS8_RTJojkmKDO-O-_gw&oe=67A2C83E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "KoncertKirken",
+    "page_url": "https://www.facebook.com/koncertkirken/events"
+  },
+  {
+    "id": "1171583091289349",
+    "name": "RUST FYLDER 35!",
+    "date": {
+      "start_timestamp": 1738434600,
+      "end_timestamp": 1738441800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Guldbergsgade 8, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6911875,
+      "longitude": 12.55931249999999,
+      "bounds_ne_lat": 55.69125,
+      "bounds_ne_lng": 12.559374999999989,
+      "bounds_sw_lat": 55.691125,
+      "bounds_sw_lng": 12.559249999999992,
+      "plus_code_global": "9F7JMHR5+FP",
+      "plus_code_local": "MHR5+FP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1171583091289349/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475267503_617952057282204_7952193917890686054_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X8maT3lBNXkQ7kNvgGdunSz&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AAORC8QqKIKtYNl__yxCJzh&oh=00_AYCHqS_M2CD78K0wSARibjaO9Om3oNaNE0BYGzocgVlWeA&oe=67A2CC4B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "RUST",
+    "page_url": "https://www.facebook.com/RUSTkbh/events"
+  },
+  {
+    "id": "1711371453053866",
+    "name": "RUEL (AU) // RUST [udsolgt]",
+    "date": {
+      "start_timestamp": 1738346400,
+      "end_timestamp": 1738353600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "RUST",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6911875,
+      "longitude": 12.55931249999999,
+      "bounds_ne_lat": 55.69125,
+      "bounds_ne_lng": 12.559374999999989,
+      "bounds_sw_lat": 55.691125,
+      "bounds_sw_lng": 12.559249999999992,
+      "plus_code_global": "9F7JMHR5+FP",
+      "plus_code_local": "MHR5+FP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1711371453053866/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/473802612_992568089575061_3722758767459409610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0f8FaWMOnNgQ7kNvgF9ZooW&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AiBUd-3LL4rdqnm_c0qmW3y&oh=00_AYANUsTfRrh3ADJn0EcyLBPHsM76WGeW3JqGc5Zw1JiCJw&oe=67A2C1C5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "RUST",
+    "page_url": "https://www.facebook.com/RUSTkbh/events"
+  },
+  {
+    "id": "1118920686532071",
+    "name": "RUST 35 år: Prisma",
+    "date": {
+      "start_timestamp": 1738434600,
+      "end_timestamp": 1738441800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "RUST",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6911875,
+      "longitude": 12.55931249999999,
+      "bounds_ne_lat": 55.69125,
+      "bounds_ne_lng": 12.559374999999989,
+      "bounds_sw_lat": 55.691125,
+      "bounds_sw_lng": 12.559249999999992,
+      "plus_code_global": "9F7JMHR5+FP",
+      "plus_code_local": "MHR5+FP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1118920686532071/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472766390_987087116789825_3151780651477480674_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OhH24Rl4XV0Q7kNvgFnFKzv&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A3LLHXScvjQRv55Ugx9L1pb&oh=00_AYDBPRRujOxoLuX_HTLu5UHm4_PJUrmjuZaDy6N33B-sZQ&oe=67A2AB76",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "RUST",
+    "page_url": "https://www.facebook.com/RUSTkbh/events"
+  },
+  {
+    "id": "878361444238707",
+    "name": "NyreDolk x Ædel Fetich x Blodstorm // Pumpehuset",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Pumpehuset",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67718750000002,
+      "longitude": 12.565187499999993,
+      "bounds_ne_lat": 55.677250000000015,
+      "bounds_ne_lng": 12.565249999999992,
+      "bounds_sw_lat": 55.67712500000002,
+      "bounds_sw_lng": 12.565124999999995,
+      "plus_code_global": "9F7JMHG8+V3",
+      "plus_code_local": "MHG8+V3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/878361444238707/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/471164174_575559545093271_680313954953492714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GkO4czddIqsQ7kNvgG61Q7T&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AzKRfkNAVIsRZzM-NdjBaq3&oh=00_AYCHDeh08-Bt_FD0KRg4PMu5RaCKDSAe_L5-sQEEVN3PuA&oe=67A2CCB8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Pumpehuset",
+    "page_url": "https://www.facebook.com/Pumpehuset/events/"
+  },
+  {
+    "id": "1107508227393908",
+    "name": "Bob Marley 80th birthday celebration 2025 Feat: Dawn Penn no no no (JA) // Pumpehuset",
+    "date": {
+      "start_timestamp": 1738434600,
+      "end_timestamp": 1738441800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Studiestræde 52, 1554 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67718750000002,
+      "longitude": 12.565187499999993,
+      "bounds_ne_lat": 55.677250000000015,
+      "bounds_ne_lng": 12.565249999999992,
+      "bounds_sw_lat": 55.67712500000002,
+      "bounds_sw_lng": 12.565124999999995,
+      "plus_code_global": "9F7JMHG8+V3",
+      "plus_code_local": "MHG8+V3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1107508227393908/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475428278_1154253186708534_8973514741195361383_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oLwxuSEm8koQ7kNvgEn1KGK&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AjOHMUbjBRxZt9270QE5Glz&oh=00_AYDbzdPq5dEFMWk90uZXijV0BHxHYFCycDrqDrPpR1GAZg&oe=67A2CACF",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Pumpehuset",
+    "page_url": "https://www.facebook.com/Pumpehuset/events/"
+  },
+  {
+    "id": "1996876194163778",
+    "name": "Vinterjazz: Morice Saxo + SUPPORT:  Mp3dam | Musikcaféen",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738360800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Rådhusstræde 13, 1466 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1996876194163778/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/465405019_884445020498730_811717698043677431_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wLdoSq2mvuoQ7kNvgGiHh_S&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AQgbTN2LUqZ3-5hH7Jom8N3&oh=00_AYCNnlBI7Xpn5DrrBCSm3qiiYmNQM-ADPJsIFDNbcwFdMQ&oe=67A2C0C0",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikcaféen",
+    "page_url": "https://www.facebook.com/musikcafeenihuset/events"
+  },
+  {
+    "id": "983735170436623",
+    "name": "Night Journeys: Ssaliva (BE) x vio lino (DK/IT) - FEW TICKETS",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738443600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Huset-KBH",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/983735170436623/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473641650_122189216678148191_3127634112263536576_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nmICgydb6kQQ7kNvgHJMSQS&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AWS_IdB9fGjrwxD74IVG_sF&oh=00_AYCMOXgcsLct8n1dHnsz2woLVnrUmMvcru0_WBWshs0DcA&oe=67A2D387",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "HUSET  (Huset i Magstræde)",
+    "page_url": "https://www.facebook.com/Huset.Koebenhavn/events"
+  },
+  {
+    "id": "1252129346104984",
+    "name": "Nordic Elite Wrestling: WrestleFest 2025",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738447200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cph Skatepark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.61206249999999,
+      "longitude": 12.647687500000004,
+      "bounds_ne_lat": 55.61212499999999,
+      "bounds_ne_lng": 12.647750000000002,
+      "bounds_sw_lat": 55.611999999999995,
+      "bounds_sw_lng": 12.647625000000005,
+      "plus_code_global": "9F7JJJ6X+R3",
+      "plus_code_local": "JJ6X+R3",
+      "plus_code_locality": "Kastrup, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1252129346104984/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/466394838_589881883557174_1757326562485124024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gQmX1SJmQYAQ7kNvgEqm2rk&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AfPpHO2h3zNTBjwhllrvx_m&oh=00_AYDeIWON16Tg52nDcu8w6gnBWsCcYm_MZdpTllPPAxAAbw&oe=67A2C97E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "532223693023261",
+    "name": "VEGAs Udvalgte 2025 - Venteliste",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "VEGA",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMG9V+6G",
+      "plus_code_local": "MG9V+6G",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/532223693023261/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/466569470_594636176564440_4177605585839815234_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=n2byhfJ4qbsQ7kNvgG0Dzyu&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ARsFHiqPa1pwF3Mz9UT--_j&oh=00_AYCOk3K5qZYoPLaTwkQJQdoPknKoYJevKjygl1wnFvvPLQ&oe=67A2AE60",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "VEGA",
+    "page_url": "https://www.facebook.com/VEGAcph/events"
+  },
+  {
+    "id": "420098867816558",
+    "name": "When Copenhell Freezes Over 2025 - VEGA - Venteliste!",
+    "date": {
+      "start_timestamp": 1738432800,
+      "end_timestamp": 1738440000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "VEGA",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMG9V+6G",
+      "plus_code_local": "MG9V+6G",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/420098867816558/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/465707240_588234923871232_751040362078668718_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qOvMohhftNEQ7kNvgGm7w2D&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Asb4V4D4S3-4XvY4YnloluL&oh=00_AYBLPtoRwSr-6lAFHpOJ08kStOyWG5oVJNYHofT3fRFi5g&oe=67A2AB8B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "COPENHELL",
+    "page_url": "https://www.facebook.com/copenhell/events"
+  },
+  {
+    "id": "1509358529732409",
+    "name": "Groove Garden Presents: Disco at the Opera",
+    "date": {
+      "start_timestamp": 1738357200,
+      "end_timestamp": 1738364400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1509358529732409/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472791924_122203383260217459_1348386113200416511_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0OvPQ0A56CwQ7kNvgEkLuBM&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A28qhg5NjFO_XgToZnptwym&oh=00_AYB5itAvBnAzixvj0V1CmZPIemxUf33QbfV7BapK8_e-Iw&oe=67A29D91",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Operaen Christiania",
+    "page_url": "https://www.facebook.com/operaenscafe/events"
+  },
+  {
+    "id": "1623084631748511",
+    "name": "Operaen Christiania Presents - A NIGHT IN THE GOGO HEAVEN CLUB",
+    "date": {
+      "start_timestamp": 1738440000,
+      "end_timestamp": 1738461600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Pusher st., 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67375000000001,
+      "longitude": 12.598750000000024,
+      "bounds_ne_lat": 55.67500000000001,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.672500000000014,
+      "bounds_sw_lng": 12.597500000000025,
+      "plus_code_global": "9F7JMHFX+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1623084631748511/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473127214_122113563470664958_5386261368552437849_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QxhLbn3sWaEQ7kNvgFblulM&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AYDtvdKZ458-oxKUyKufMZL&oh=00_AYC0a28T8rCHTikPS911gICGci51x3RKZN_7doJEEdNk-A&oe=67A2AE78",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Operaen Christiania",
+    "page_url": "https://www.facebook.com/operaenscafe/events"
+  },
+  {
+    "id": "803141901781439",
+    "name": "Aarhus Drag Extravaganza Vol. 3 // Radar, Aarhus [FÅ BILLETTER]",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738443600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Radar",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/803141901781439/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/462476093_940390764794827_3329616815941865907_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zu0ycgYDkIYQ7kNvgG1a4NI&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Aagn7jI5pYbpkucVYUVxb0w&oh=00_AYDLGE-o2TkUGsYBDYfvc-yOixQkjLaul7V8gv5SLTAFcg&oe=67A2B65B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Radar",
+    "page_url": "https://www.facebook.com/radarlive/events"
+  },
+  {
+    "id": "1734176810736797",
+    "name": "BARYL // Radar",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Radar",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1734176810736797/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/466344460_965395388961031_7709152827750869729_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QYg-p9DFmC0Q7kNvgFTEoKH&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AUNZY77Al8YD4Gu3Pse1_Ip&oh=00_AYDxgJUY_c3W0_Oq0bPbov2FhYYtz9moMISs_06LHQKDKQ&oe=67A2A9CE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Radar",
+    "page_url": "https://www.facebook.com/radarlive/events"
+  },
+  {
+    "id": "616367977558485",
+    "name": "Fyraften på Drop Inn",
+    "date": {
+      "start_timestamp": 1738337400,
+      "end_timestamp": 1738344600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.573312500000029,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.573375000000027,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.57325000000003,
+      "plus_code_global": "9F7JMHGF+H8",
+      "plus_code_local": "MHGF+H8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/616367977558485/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/471813455_984688437017196_6236872106332834792_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7Ev7MtSbcBEQ7kNvgFyk3Ry&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Af9ybDMejo4rTv_c73ZfHso&oh=00_AYAyauD-z3R1rKgTcah00NBDcAu41g0kv2kYKGn5Ms8wZw&oe=67A2D0AC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
+  },
+  {
+    "id": "908600738076226",
+    "name": "The Fabulous 5 to 8´s",
+    "date": {
+      "start_timestamp": 1738353600,
+      "end_timestamp": 1738360800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.573312500000029,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.573375000000027,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.57325000000003,
+      "plus_code_global": "9F7JMHGF+H8",
+      "plus_code_local": "MHGF+H8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/908600738076226/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/469840504_966513998834640_4327411232972030574_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Rd9Lo_UZk9MQ7kNvgGJzBU3&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AlgrKqQkrv0XSv8SF586wnO&oh=00_AYDyfaw0yeverqmowTqWjlMzV0O_p95HnuxrkuVO7QUDeQ&oe=67A2BEAA",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
+  },
+  {
+    "id": "465787079957183",
+    "name": "A Plane To Catch",
+    "date": {
+      "start_timestamp": 1738443600,
+      "end_timestamp": 1738450800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.573312500000029,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.573375000000027,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.57325000000003,
+      "plus_code_global": "9F7JMHGF+H8",
+      "plus_code_local": "MHGF+H8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/465787079957183/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/468650551_961078976044809_8220350528191382030_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=z8fNU64GlS0Q7kNvgHsDn_4&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ACSH7GJ2-UNkZoFhf9ITknF&oh=00_AYAz8gFDrpmtT6IwOGA1K6x-OGYrOlCSj6CcMiY0LFNnJg&oe=67A2C824",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
+  },
+  {
+    "id": "1217270049355227",
+    "name": "David Miilmann Group",
+    "date": {
+      "start_timestamp": 1738425600,
+      "end_timestamp": 1738432800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.573312500000029,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.573375000000027,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.57325000000003,
+      "plus_code_global": "9F7JMHGF+H8",
+      "plus_code_local": "MHGF+H8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1217270049355227/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/468186445_961078576044849_3098047365647501736_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KSmV-vv4kqIQ7kNvgGu9483&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AX62SZe7ZZ_BqlCBGC2joY1&oh=00_AYDMsXO3r3TitDJ_V5uJso6iwKUcLSVdfcDfgGHdPV3p2Q&oe=67A2AD53",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
+  },
+  {
+    "id": "578570031593584",
+    "name": "Estella Boersma (NL), steamboi, Anton Goltermann",
+    "date": {
+      "start_timestamp": 1738447200,
+      "end_timestamp": 1738472400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/578570031593584/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473682638_1116564103501641_1485964444436513646_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LINpfuiDZgkQ7kNvgHIA9uE&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ASTaq8NscZdXzCd4N8Lb2ey&oh=00_AYCT9yfDKprL14ueIr-Gy9EQDzdYtt0aKIxJR_PA_DMUvw&oe=67A2BAB2",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hangaren",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "464696046493892",
+    "name": "FINE CHAOSxHangaren: Mischluft, DJ 2LATE, Mikkel Wonsbek, Ingvil",
+    "date": {
+      "start_timestamp": 1738357200,
+      "end_timestamp": 1738364400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/464696046493892/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472787278_1112412210583497_6929478135763905967_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=arJaFuhVWPQQ7kNvgG2EQfS&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AKu6ifXtSPDruo6hV6i-Uxo&oh=00_AYBZ7__QAoSpbeva57SupqLJsZmiwBQ6uDLft1Quxqvvcg&oe=67A2D123",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hangaren",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "908154844702392",
+    "name": "The Orgelheimers [ få billetter] | Vinterjazz i Kulturhuset Islands Brygge",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738355400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/908154844702392/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/461853329_547452557937226_3442943157335158313_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9uzZqUzG67MQ7kNvgEjaaeB&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Ai2ArH7hmxU3lxu-q_4qUbs&oh=00_AYAwB3Pu9n_ZsH2xPI2ADRclXqKPojHIp09cgMVQIvbmFw&oe=67A2C72F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "1056304599468959",
+    "name": "[udsolgt] Gunde/Waidtløw kvartet | Vinterjazz i Kulturhuset Islands Brygge",
+    "date": {
+      "start_timestamp": 1738438200,
+      "end_timestamp": 1738445400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1056304599468959/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/462230734_548315404517608_3850098166482170724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=miVXmzrRU3sQ7kNvgG1X8rO&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AVWes2Oqj3spwTGnTZ-lJBY&oh=00_AYDkOf5VEYvbZS8z4TMPKthJBQqA1qblfAFxJ7CK0eryXg&oe=67A2A522",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "1075445097660049",
+    "name": "THE WEEK - 𝐹𝑖𝑙𝑚 & 𝐾𝑙𝑖𝑚𝑎ℎ𝑎𝑛𝑑𝑙𝑖𝑛𝑔 // 𝑀𝑜𝑣𝑖𝑒 & 𝑐𝑙𝑖𝑚𝑎𝑡𝑒 𝑎𝑐𝑡𝑖𝑜𝑛🎥",
+    "date": {
+      "start_timestamp": 1738080000,
+      "end_timestamp": 1738692000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1075445097660049/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470206640_1109101581220849_1864970044886455559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JErn-9Mbs-4Q7kNvgEiNikj&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Av2PoPDpJyFtQlqkVxg6_ob&oh=00_AYAKLEN29GHYAmpYKYZwmQ5jJjGmlLrrFnP0tQ8lAD63Tg&oe=67A29CC2",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "451252647812935",
+    "name": "Tøjbyttemarked & Sysalon i Kulturhuset Islands Brygge",
+    "date": {
+      "start_timestamp": 1738490400,
+      "end_timestamp": 1738501200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/451252641146269/?event_time_id=451252647812935",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470677166_601443115871503_5754399872995548940_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dTsZrthJn5sQ7kNvgGVNV_k&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ATowxiEuFnrfzffxSQdB620&oh=00_AYDpN7uBCuzFE8uFs7bZaYJlSjsrx1wTGRSYwoafqbL2uw&oe=67A2AF69",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "878240533814668",
+    "name": "FÅ BILLETTER! Jakob Bro Large Ensemble | Hotel Cecil, København [Vinterjazz]",
+    "date": {
+      "start_timestamp": 1738522800,
+      "end_timestamp": 1738620000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hotel Cecil",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67943750000002,
+      "longitude": 12.577562500000013,
+      "bounds_ne_lat": 55.67950000000002,
+      "bounds_ne_lng": 12.577625000000012,
+      "bounds_sw_lat": 55.67937500000002,
+      "bounds_sw_lng": 12.577500000000015,
+      "plus_code_global": "9F7JMHHH+Q2",
+      "plus_code_local": "MHHH+Q2",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/878240533814668/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474592616_1031580305677095_4548955812851326755_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W6G3T8F42f4Q7kNvgF-rMCj&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AsENSl99mHNJWwIs9a1xzo7&oh=00_AYAf0opSIvA3jJrJgPIQZe7nxhc8f-L9rj1z7XSZPdqSNQ&oe=67A2A6F8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hotel Cecil",
+    "page_url": "https://www.facebook.com/hotelcecilcph/events"
+  },
+  {
+    "id": "1248580376166178",
+    "name": "VENTELISTE! Elias Rønnenfelt | Hotel Cecil, København",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738443600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hotel Cecil",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67943750000002,
+      "longitude": 12.577562500000013,
+      "bounds_ne_lat": 55.67950000000002,
+      "bounds_ne_lng": 12.577625000000012,
+      "bounds_sw_lat": 55.67937500000002,
+      "bounds_sw_lng": 12.577500000000015,
+      "plus_code_global": "9F7JMHHH+Q2",
+      "plus_code_local": "MHHH+Q2",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1248580376166178/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/459158170_930487982452995_677832929903923677_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=x40VmHyKujEQ7kNvgET--rG&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AXwY1WcXngsnbhGxKnEUZuP&oh=00_AYAJH6FOWJWCGIo1xr6XqsyRkp1RGyOiqgHgyKKxKAnmxw&oe=67A2C84E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hotel Cecil",
+    "page_url": "https://www.facebook.com/hotelcecilcph/events"
+  },
+  {
+    "id": "420426327807321",
+    "name": "Ida Kudo + Charlotte & Reinhard | Hotel Cecil, København",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738362600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/420426327807321/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470571700_1003397245162068_5313706398848866179_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OUQOqs1ceXIQ7kNvgG2zbp8&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AsiV81HBbMJlhma1PQ-Ql7r&oh=00_AYCABvLCNQVm0aXRrW4ofM3IOtPC-qPu-oCRce2fLJvJHw&oe=67A2B0DD",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hotel Cecil",
+    "page_url": "https://www.facebook.com/hotelcecilcph/events"
+  },
+  {
+    "id": "3160180547453937",
+    "name": "PARSUM KIRKETURNÉ",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738355400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Eliaskirken, Kapernaumskirken, Enghave Kirke, Mariakirken, Sct. Thomas Kirke",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66381249999999,
+      "longitude": 12.540312499999985,
+      "bounds_ne_lat": 55.66387499999999,
+      "bounds_ne_lng": 12.540374999999983,
+      "bounds_sw_lat": 55.66374999999999,
+      "bounds_sw_lng": 12.540249999999986,
+      "plus_code_global": "9F7JMG7R+G4",
+      "plus_code_local": "MG7R+G4",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3160180530787272/?event_time_id=3160180547453937",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/471154817_598476192547268_8093199032636862232_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=n9ysOMz-F6cQ7kNvgHG_wcl&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AdSBa2-NmI-EoBTUh85e-jT&oh=00_AYDanLUmvtuybgh7vS4uFsjgFUe8vyF_eDLM7MvVz2NxHw&oe=67A2A88D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Ukirke",
+    "page_url": "https://www.facebook.com/uKirke/events"
+  },
+  {
+    "id": "1114296296554449",
+    "name": "GLÆDE - alternativ gudstjeneste",
+    "date": {
+      "start_timestamp": 1738494000,
+      "end_timestamp": 1738501200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Dannebrogsgade 53, 1660 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.667687500000014,
+      "longitude": 12.553812500000006,
+      "bounds_ne_lat": 55.66775000000001,
+      "bounds_ne_lng": 12.553875000000005,
+      "bounds_sw_lat": 55.667625000000015,
+      "bounds_sw_lng": 12.553750000000008,
+      "plus_code_global": "9F7JMH93+3G",
+      "plus_code_local": "MH93+3G",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1114296296554449/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473570980_614279327633621_5343338954683895873_n.png?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TmVH68D17-EQ7kNvgHxySsH&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ArlQyv7fkkgByTffCNFtJ6O&oh=00_AYB4VcBWk-Qlk4HNEJkRZIJd1GkLMWpoH_eMfpwhkclFQg&oe=67A2BDC4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Ukirke",
+    "page_url": "https://www.facebook.com/uKirke/events"
+  },
+  {
+    "id": "1263634371219400",
+    "name": "Hola Ghost - Support: The Slinkers - UDSOLGT - BETA",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1263634371219400/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/460160150_10162068620838641_1085178635358298310_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vQl6-e7tOLwQ7kNvgFTsnyf&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AA6tCqkARfhN1EfJ_R1h0zm&oh=00_AYDj8cDPfZvkT_e7do4VRO0VU_hSGsV5e9gh9gw66aDBKw&oe=67A2BE97",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "1358272808949288",
+    "name": "DJ night with Bovril Lavigne & Georgie",
+    "date": {
+      "start_timestamp": 1738357200,
+      "end_timestamp": 1738364400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Lygtens Kro",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70306249999997,
+      "longitude": 12.537312499999999,
+      "bounds_ne_lat": 55.70312499999997,
+      "bounds_ne_lng": 12.537374999999997,
+      "bounds_sw_lat": 55.702999999999975,
+      "bounds_sw_lng": 12.53725,
+      "plus_code_global": "9F7JPG3P+6W",
+      "plus_code_local": "PG3P+6W",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1358272808949288/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/472039713_10236300116184229_4363513468666263966_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oRQn-8mI5mgQ7kNvgEVGub8&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Aaz7lCIz9KduX0DYs03cfsX&oh=00_AYAioQOLEbLTATG_SKhAZNLawTIayK_xtyFZw3pZbTM5xQ&oe=67A2CEFF",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Lygtens Kro",
+    "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "1166959347703038",
+    "name": "Rie Rasmussen - Amager Bio",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738443600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amager Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.658062499999986,
+      "longitude": 12.609187499999976,
+      "bounds_ne_lat": 55.658124999999984,
+      "bounds_ne_lng": 12.609249999999975,
+      "bounds_sw_lat": 55.65799999999999,
+      "bounds_sw_lng": 12.609124999999977,
+      "plus_code_global": "9F7JMJ55+6M",
+      "plus_code_local": "MJ55+6M",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1166959347703038/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/459225641_10162049674708641_3593958397304549218_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ydH3lLeaFl4Q7kNvgEfISgl&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AN55XD_YK3ww_WDwXrVu8Lx&oh=00_AYD2WSgvimEch8K5oc3zuxkWFV9KOfNZQguacCGdPsbiqQ&oe=67A2C474",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Bio",
+    "page_url": "https://www.facebook.com/amagerbio/events"
+  },
+  {
+    "id": "496105099921740",
+    "name": "Thorbjørn Risager & The Black Tornado releasekoncert - Amager Bio",
+    "date": {
+      "start_timestamp": 1738346400,
+      "end_timestamp": 1738353600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Øresundsvej 6, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/496105099921740/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/461209550_924880379676945_6157995658034642089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eip6NA70jf0Q7kNvgGkXerR&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AktGoQQuRbSYCQQnIKTz2UZ&oh=00_AYCaJTqdG2Wu7pHYGx6KsGTcKET0skoD9HyzSFC5A77S0A&oe=67A2AD18",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Bio",
+    "page_url": "https://www.facebook.com/amagerbio/events"
+  },
+  {
+    "id": "2354142974936892",
+    "name": "Thorbjørn Risager & The Black Tornado",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738357200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amager Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.658062499999986,
+      "longitude": 12.609187499999976,
+      "bounds_ne_lat": 55.658124999999984,
+      "bounds_ne_lng": 12.609249999999975,
+      "bounds_sw_lat": 55.65799999999999,
+      "bounds_sw_lng": 12.609124999999977,
+      "plus_code_global": "9F7JMJ55+6M",
+      "plus_code_local": "MJ55+6M",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2354142974936892/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/463307722_10162143001663641_4433860961033094321_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ljB-7ornD9IQ7kNvgHzA-eZ&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AsVrhNV8q2FAkZWGmukfxDF&oh=00_AYAcxYekC-VqKtlnTnSd0heLhTkCam9nq5OJZH9j-Q9rRQ&oe=67A2A6D7",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Bio",
+    "page_url": "https://www.facebook.com/amagerbio/events"
+  },
+  {
+    "id": "558442233764134",
+    "name": "Et Andet Sted : The Reunion @ Den Anden Side",
+    "date": {
+      "start_timestamp": 1738362600,
+      "end_timestamp": 1738369800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Den Anden Side",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.56331250000001,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.563375000000008,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.56325000000001,
+      "plus_code_global": "9F7JMHG7+C8",
+      "plus_code_local": "MHG7+C8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/558442233764134/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/471315689_1135738591891651_3151027726543089579_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4JVYXO7yOmcQ7kNvgGxBEv1&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AhyyZiWwPMyidmrB5_eIAvm&oh=00_AYBscLOtPm4K_cg2AFyF77EOnBoLivJaix77lcbDiOB1RA&oe=67A29F20",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Den Anden Side",
+    "page_url": "https://www.facebook.com/KlubDenAndenSide/events"
+  },
+  {
+    "id": "914874384086477",
+    "name": "Hiroko Yamamura B2B Anastasia Kristensen extended experience @ Den Anden Side",
+    "date": {
+      "start_timestamp": 1738449000,
+      "end_timestamp": 1738456200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Den Anden Side",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676062500000015,
+      "longitude": 12.56331250000001,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.563375000000008,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.56325000000001,
+      "plus_code_global": "9F7JMHG7+C8",
+      "plus_code_local": "MHG7+C8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/914874384086477/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472765346_525117573898050_1617689388479777564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fGaoSOJfOqwQ7kNvgFaqcaH&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=Au1M3JDvakomWgkCmBLNCXX&oh=00_AYAF8j_KJAp6ev29Y64LF1RFRAtulUnXMfyO7dN5Tz-c8Q&oe=67A2A67B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Den Anden Side",
+    "page_url": "https://www.facebook.com/KlubDenAndenSide/events"
+  },
+  {
+    "id": "1431603951139603",
+    "name": "Madboks food distribution - Kapelvej 44",
+    "date": {
+      "start_timestamp": 1738418400,
+      "end_timestamp": 1738422000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kapelvej 44, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1431603951139603/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/475433481_905215345113080_3213439799515169809_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zBWUjviFUHIQ7kNvgGzB2_n&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AMjZGrZiv9CQJlcHBwGliVR&oh=00_AYDvxEvs2zngtSp-e6yWq0AhJ9-XEERt-fEdiyzFO95JRA&oe=67A2A371",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1366863401347826",
+    "name": "Doctor's Orders",
+    "date": {
+      "start_timestamp": 1738350000,
+      "end_timestamp": 1738355400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1366863394681160/?event_time_id=1366863401347826",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470797265_1112959240834686_1336343934755753240_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=o5esuTUHLPkQ7kNvgEd3zFn&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A353dizPFoCpV4UvTrPFHy_&oh=00_AYA2655XyTzGg932qW92xLD9ARROsuwOzWOfCKUmu-O0cQ&oe=67A2AE4B",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "1306240220713757",
+    "name": "nICCe Sundays",
+    "date": {
+      "start_timestamp": 1738515600,
+      "end_timestamp": 1738524600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1281682156502897/?event_time_id=1306240220713757",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475076249_1142685261195417_2888327945051444535_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ONrhU3efSF8Q7kNvgEGxSvH&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Azk6Q-X0MOWjt7SQ_o_SDIt&oh=00_AYCf6VFL70B4nExxZoFi1brkrUBBmttSRHpVcwp0475zVw&oe=67A2A971",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "620135920488339",
+    "name": "Career Night",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738441800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/620135913821673/?event_time_id=620135920488339",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/471139289_1112946740835936_1155512453854231907_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8aUWR-lIE8IQ7kNvgGUF3Ew&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AxpnfkmEqfXaOq-iGjodUHi&oh=00_AYCEil813SZNKRWihDc_MpTymGVyikTaJnILNAwAqOlP2A&oe=67A2B1FD",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "1378214953340671",
+    "name": "Designer Vagina Support Party",
+    "date": {
+      "start_timestamp": 1738436400,
+      "end_timestamp": 1738443600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bøssehuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67456250000002,
+      "longitude": 12.601312499999992,
+      "bounds_ne_lat": 55.67462500000002,
+      "bounds_ne_lng": 12.60137499999999,
+      "bounds_sw_lat": 55.67450000000002,
+      "bounds_sw_lng": 12.601249999999993,
+      "plus_code_global": "9F7JMJF2+RG",
+      "plus_code_local": "MJF2+RG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1378214953340671/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472948951_466788326472632_3237532844330650902_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Xck-YEOkWTEQ7kNvgErQUa9&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AtEK_iGIv_aosXXsdWQuqDA&oh=00_AYBLANEwU5_WGXLydoj6SBfWlfMjzcCaRusb1u0Qr2n7YA&oe=67A2C387",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "Bøssehuset",
+    "page_url": "https://www.facebook.com/boessehuset/events"
+  },
+  {
+    "id": "446453701808264",
+    "name": "Claudio Suriano",
+    "date": {
+      "start_timestamp": 1738425600,
+      "end_timestamp": 1738432800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/446453701808264/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/466413518_1052793686857213_674201486876109719_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dNXkuHDz40sQ7kNvgE25r5E&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8KJlzY7PA8hsKi_qBvbVBN&oh=00_AYDvD6YXRZ-YPmNEREgdTMjlvro60ZkN6msl_vGvd9LVJA&oe=67A2AE9C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "1803075300501721",
+    "name": "For Haus' Sake invites Südpol",
+    "date": {
+      "start_timestamp": 1738364100,
+      "end_timestamp": 1738371300,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Module",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67568750000002,
+      "longitude": 12.56656249999999,
+      "bounds_ne_lat": 55.67575000000002,
+      "bounds_ne_lng": 12.566624999999988,
+      "bounds_sw_lat": 55.675625000000025,
+      "bounds_sw_lng": 12.56649999999999,
+      "plus_code_global": "9F7JMHG8+7J",
+      "plus_code_local": "MHG8+7J",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1803075300501721/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472579389_1067208091875718_2991810500537965724_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P8O9DBrO5_IQ7kNvgFRmHIx&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ATTGS-RMgg98LWrTwasZn8z&oh=00_AYB2idaj-TYO5bUjMe0eyJX4cJsFhqr1axmXtym4QHMvSA&oe=67A2A0AF",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Module",
+    "page_url": "https://www.facebook.com/modulecph/events"
+  },
+  {
+    "id": "617732500736663",
+    "name": "Tanzen Und Springen X MILA STERN",
+    "date": {
+      "start_timestamp": 1738450740,
+      "end_timestamp": 1738479600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Vesterbrogade 2B, 1620 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6754375,
+      "longitude": 12.566312499999995,
+      "bounds_ne_lat": 55.6755,
+      "bounds_ne_lng": 12.566374999999994,
+      "bounds_sw_lat": 55.675375,
+      "bounds_sw_lng": 12.566249999999997,
+      "plus_code_global": "9F7JMHG8+5G",
+      "plus_code_local": "MHG8+5G",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/617732500736663/",
+    "image_url": "",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Module",
+    "page_url": "https://www.facebook.com/modulecph/events"
+  },
+  {
+    "id": "978324857688970",
+    "name": "Cph Listening Room Feat: Måns Williamson (S)",
+    "date": {
+      "start_timestamp": 1738519200,
+      "end_timestamp": 1738533600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "LiteraturHaus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.555562499999994,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555624999999992,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.555499999999995,
+      "plus_code_global": "9F7JMHR4+86",
+      "plus_code_local": "MHR4+86",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/978324857688970/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/473992680_1134327092034565_3780958016426860716_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4qv7CvFKAS4Q7kNvgHQOY71&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AfzwNt_X91Lns2VcyKmnNlK&oh=00_AYDqMxaZqUF1iCcGXp1H1OhViNiGHLJ9m8GLhqv-gaVjEw&oe=67A2A544",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Cph Listening Room",
+    "page_url": "https://www.facebook.com/CopenhagenSundayOpenStageListeningRoom/events"
+  },
+  {
+    "id": "1823209988495342",
+    "name": "Forpremiere med Amnesty: 'Frøet fra det hellige figentræ'",
+    "date": {
+      "start_timestamp": 1738510200,
+      "end_timestamp": 1738521000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mikkel Bryggers Gade 8, 1460 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6765625,
+      "longitude": 12.570562500000008,
+      "bounds_ne_lat": 55.676625,
+      "bounds_ne_lng": 12.570625000000007,
+      "bounds_sw_lat": 55.676500000000004,
+      "bounds_sw_lng": 12.57050000000001,
+      "plus_code_global": "9F7JMHGC+J6",
+      "plus_code_local": "MHGC+J6",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1823209988495342/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472619352_1015683647272146_1307456182789372526_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W3FrXUnXSJUQ7kNvgE9S6ME&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AbHYnrzec68FMCkvG1ZgPq6&oh=00_AYDHFFbkCyPZlqGLJRRvYNgdcULXgsHcZOM7hzgu7yC7HQ&oe=67A2A389",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Grand Teatret",
+    "page_url": "https://www.facebook.com/grandteatret/events"
+  },
+  {
+    "id": "1303264334318173",
+    "name": "CINEMATEKETS FILMKLUB 2025 // film, hygge og viden for de 7-15-årige // sæsonstart 2. februar!",
+    "date": {
+      "start_timestamp": 1738492200,
+      "end_timestamp": 1738499400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1303264334318173/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470240008_995469709285057_3931605168931486580_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=F1pg3TbXlw4Q7kNvgGAxrdd&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A4Mgj11wd18VMuv1FYE-1qp&oh=00_AYDjjOHcQ79koywf402ZybtNMZxpqgXtl7tQG6XuJNC5mw&oe=67A2A81D",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "612140861506689",
+    "name": "RAINBOW SPORTS FILM FESTIVAL 2025 // 31. januar - 1. februar // Cinemateket",
+    "date": {
+      "start_timestamp": 1738337400,
+      "end_timestamp": 1738441800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/612140861506689/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/472799134_1014183384080356_9046344250846667804_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IBgaB6kZlPYQ7kNvgHvdjuo&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AonoxvIYmFWPv0LOB2wDwxo&oh=00_AYDBNlYTus4g4lczqgAS-Mr2lIBHrXakX2SLZEX0ZKGavw&oe=67A2CEE5",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "842177717670042",
+    "name": "FILOSOFISK FILMFESTIVAL 2025 / Film og foredrag i Cinemateket / 1.-28. februar",
+    "date": {
+      "start_timestamp": 1738426500,
+      "end_timestamp": 1739636100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/842177717670042/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/472059055_1009200094578685_212732502460276935_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GF6z5TPoXDwQ7kNvgHkor3j&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AWBWHkuC6is_qaMFL4hhy09&oh=00_AYBTYY89dGQ4AvMZVOrZdPGEgLNuSzfyDIun8zcw8Bhj0w&oe=67A2D347",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1099101638051391",
+    "name": "'MARTYRS' + Talk // Filosofisk Filmfestival // Cinemateket",
+    "date": {
+      "start_timestamp": 1738438200,
+      "end_timestamp": 1738445400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1099101638051391/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/469923634_989945099837518_5003951806700478403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FRZhZXZo2XUQ7kNvgHPVT7c&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AO98SqPyYsxzQu--49MFiIx&oh=00_AYCKJH4BeRn5PAqIOi9VF8J2GonLzAfs68DsSfzKYTB6yQ&oe=67A2B615",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1883031002225919",
+    "name": "EKSTRAVISNINGER: 'AKIRA KUROSAWAS DRØMME' // Filosofisk Filmfestival // Cinemateket",
+    "date": {
+      "start_timestamp": 1738356300,
+      "end_timestamp": 1738363500,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1883031002225919/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/469937377_990579443107417_4852143140587241000_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c-x7eJH7ykwQ7kNvgEEeAks&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AKSkN4Ol3BCEfmQVrXcFAn0&oh=00_AYBMw3i2-AauCRyXbCYEEWzNUBdvS3Fn8pBl9UeAFwGKdw&oe=67A2A7B6",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1493444934676098",
+    "name": "'DRENGEN OG HEJREN' + Talk // Filosofisk Filmfestival // Cinemateket",
+    "date": {
+      "start_timestamp": 1738426500,
+      "end_timestamp": 1738433700,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1493444934676098/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/469333718_985728320259196_7863341678408900264_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JJ4efEW89VUQ7kNvgEGO0kz&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AtcOin2XHE34MXI3m5Qayby&oh=00_AYAf-9EJjeYEJa5gWxMV-P3eI7uAcA2ropTgyBc4lZlu2g&oe=67A2A206",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1267957207660749",
+    "name": "'EYES WIDE SHUT' + Talk // Filosofisk Filmfestival // Cinemateket",
+    "date": {
+      "start_timestamp": 1738504800,
+      "end_timestamp": 1738512000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1267957207660749/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/469596002_989839679848060_2562908401513625023_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=G_qIK44YingQ7kNvgFbR_Ph&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AnrmqgzUMG_QTWsJX_jqpJs&oh=00_AYCvTjtIaFJaos18g6afu--V_X_K_eJ583ZKJ6MP6iJpaw&oe=67A2CABC",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "2030686707427852",
+    "name": "Breakfast Bingo - IN VALBY!",
+    "date": {
+      "start_timestamp": 1738400400,
+      "end_timestamp": 1738411200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bastard Cafe Valby",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6611875,
+      "longitude": 12.518437500000019,
+      "bounds_ne_lat": 55.661249999999995,
+      "bounds_ne_lng": 12.518500000000017,
+      "bounds_sw_lat": 55.661125,
+      "bounds_sw_lng": 12.51837500000002,
+      "plus_code_global": "9F7JMG69+F9",
+      "plus_code_local": "MG69+F9",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2030686707427852/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472086337_917781000489117_5437122718006256383_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YdPVphVGHV8Q7kNvgFSVPZP&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AQvZLONMW17tzZEz1SM8tfE&oh=00_AYCN4o-_TL7KyUugUdF6WuMpqMZkTH0tgyHJY7B_xE9sFA&oe=67A2A278",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "Bastard Café - Board Games & Coffee",
+    "page_url": "https://www.facebook.com/BastardCafe/events"
+  },
+  {
+    "id": "593064930245354",
+    "name": "Serious Sunday: Lord of the Rings: The Card Game",
+    "date": {
+      "start_timestamp": 1738495800,
+      "end_timestamp": 1738513800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bastard Café - Board Games & Coffee",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574812500000021,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.57487500000002,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574750000000023,
+      "plus_code_global": "9F7JMHGF+HW",
+      "plus_code_local": "MHGF+HW",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/593064930245354/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475503005_935863192014231_4039945794240346775_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_DBS3Ifwd1wQ7kNvgFbTahN&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Avd1NMfNv-Gw4Rr4pTcc90-&oh=00_AYAkaigNbOH5RScFWSmvDpuU7UhhQ8438jGYfrNxrwxA-g&oe=67A2C98D",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "Bastard Café - Board Games & Coffee",
+    "page_url": "https://www.facebook.com/BastardCafe/events"
+  },
+  {
+    "id": "1576799639705382",
+    "name": "The Other Bastard Quiz - IN NØRREBRO",
+    "date": {
+      "start_timestamp": 1738519200,
+      "end_timestamp": 1738528200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bastard Cafe Nørrebro",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.702562499999985,
+      "longitude": 12.54006249999999,
+      "bounds_ne_lat": 55.70262499999998,
+      "bounds_ne_lng": 12.540124999999989,
+      "bounds_sw_lat": 55.702499999999986,
+      "bounds_sw_lng": 12.539999999999992,
+      "plus_code_global": "9F7JPG3R+22",
+      "plus_code_local": "PG3R+22",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1576799639705382/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472073496_916946987239185_666281991743103899_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9UfkEACvd1oQ7kNvgGJcUwg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AAqwqiMuqAONGYljZzaVHGe&oh=00_AYDRpALb7-p5_wjHm1ByaVUwCQbKFGL3GzJgAH7F0AZobg&oe=67A2B028",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "Bastard Café - Board Games & Coffee",
+    "page_url": "https://www.facebook.com/BastardCafe/events"
+  },
+  {
+    "id": "612361438130838",
+    "name": "Yin Yoga",
+    "date": {
+      "start_timestamp": 1738512000,
+      "end_timestamp": 1738515600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Vestergade 18E, 2. sal, 1456 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67743750000001,
+      "longitude": 12.569437500000035,
+      "bounds_ne_lat": 55.67750000000001,
+      "bounds_ne_lng": 12.569500000000033,
+      "bounds_sw_lat": 55.67737500000001,
+      "bounds_sw_lng": 12.569375000000036,
+      "plus_code_global": "9F7JMHG9+XQ",
+      "plus_code_local": "MHG9+XQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/612354728131509/?event_time_id=612361438130838",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470462553_536546709410703_6397847235279680768_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4dJgGBNtL50Q7kNvgFlUpVD&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AXSf1sCJUgQYG6CwptzNHKv&oh=00_AYDb1cABgiEQ0MAgQQDBEliGxKzkx5oDl1Dp5ZFgGyHtmA&oe=67A2AD59",
+    "tag": "YOGA",
+    "platform": "Facebook",
+    "page_name": "LGBT+ Medborgerhuset i København",
+    "page_url": "https://www.facebook.com/LGBTmedborgerhuset/events"
+  },
+  {
+    "id": "580581261377711",
+    "name": "COPENHELL yardsale at LÖVENDAHL",
+    "date": {
+      "start_timestamp": 1738404000,
+      "end_timestamp": 1738411200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Sønder Boulevard 97, 1720 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.664437500000005,
+      "longitude": 12.546812499999973,
+      "bounds_ne_lat": 55.664500000000004,
+      "bounds_ne_lng": 12.546874999999972,
+      "bounds_sw_lat": 55.66437500000001,
+      "bounds_sw_lng": 12.546749999999975,
+      "plus_code_global": "9F7JMG7W+QP",
+      "plus_code_local": "MG7W+QP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/580581261377711/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/471179851_1111866690949070_5405533884093680770_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Jb_Cj91G7JIQ7kNvgGw5XRC&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A16am3ijkxEh-HIhQECYaFS&oh=00_AYBTcyNS8M0GK_3CMaUSZf265MxcMgZMWe7CRAPmbmrywg&oe=67A2A9CF",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "COPENHELL",
+    "page_url": "https://www.facebook.com/copenhell/events"
+  },
+  {
+    "id": "609730565019320",
+    "name": "Småfolkets Hus",
+    "date": {
+      "start_timestamp": 1738404000,
+      "end_timestamp": 1738414800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/609730565019320/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474302341_1165091532292744_5232476557273624972_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VHv0njocGQ8Q7kNvgHqcWq9&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A1MNjXTGhmWurF17D5ECdrd&oh=00_AYC3dKltFVcYTSkv2VyVO_VvGZloXo6_cEUeK2FuR24OAw&oe=67A2AD5D",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Folkets Hus",
+    "page_url": "https://www.facebook.com/folketshus50/events"
+  },
+  {
+    "id": "27849410184650209",
+    "name": "TUFTING ",
+    "date": {
+      "start_timestamp": 1738504800,
+      "end_timestamp": 1738515600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Folkehuset Absalon, Sønder Blvd. 73, 1720 KBH V.",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66543749999998,
+      "longitude": 12.550312500000004,
+      "bounds_ne_lat": 55.66549999999998,
+      "bounds_ne_lng": 12.550375000000003,
+      "bounds_sw_lat": 55.66537499999998,
+      "bounds_sw_lng": 12.550250000000005,
+      "plus_code_global": "9F7JMH82+54",
+      "plus_code_local": "MH82+54",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/26166689862922258/?event_time_id=27849410184650209",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/444959972_779097784361897_5068796381951519439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ShaVUrhrGr0Q7kNvgHmputg&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AJ8NLjexnChGSn8A9N6IPzB&oh=00_AYD4HNmIkzoqWNjFXopebWYa0gbTG2k5pwOV5UkkA_0aZA&oe=67A2D35B",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
+  },
+  {
+    "id": "627009266502536",
+    "name": "Friday Western: True Grit (1969) + Tombstone (1993)",
+    "date": {
+      "start_timestamp": 1738346400,
+      "end_timestamp": 1738353600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/627009266502536/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470238150_999642722197304_493154299567837974_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9sgkvYSte1wQ7kNvgGBwz6s&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AorOabUlq1KlbsViMTuqolh&oh=00_AYC3Mnu_nzM2yAnh3329ddxsogF0gDs7HdphHm4KDyIpbw&oe=67A2C046",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Husets Biograf",
+    "page_url": "https://www.facebook.com/HusetsBiograf/events"
+  },
+  {
+    "id": "10049930445033808",
+    "name": "Japanese kinky thriller double feature : Irezumi & Blind Beast",
+    "date": {
+      "start_timestamp": 1738432800,
+      "end_timestamp": 1738440000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Rådhusstræde 13, 2 th, 1466 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/10049930445033808/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472208837_1010907601070816_6749043308011064521_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZY2V9MXp_bkQ7kNvgFKU5UE&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ACpwlT-7qPkLgBFqMInEOyI&oh=00_AYBY8uv0O3AMy_IT943rHkigZCojpakJXd-yNWTMtCefrQ&oe=67A2A84B",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Husets Biograf",
+    "page_url": "https://www.facebook.com/HusetsBiograf/events"
+  },
+  {
+    "id": "912139747757547",
+    "name": "Andy Warhol's Flesh for Frankenstein (on 35mm!)",
+    "date": {
+      "start_timestamp": 1738513800,
+      "end_timestamp": 1738521000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/912139747757547/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473330589_1020940070067569_5515180627930883566_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GT6m5Vk6M20Q7kNvgFxC_4D&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AL_9Mv95EzVkvDxeoCTxdj6&oh=00_AYAEpFblaTaYoMS5XSyWN8OibTqaDdmRc09J87V0Ozeb8Q&oe=67A2D4A0",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Husets Biograf",
+    "page_url": "https://www.facebook.com/HusetsBiograf/events"
+  },
+  {
+    "id": "983401747141697",
+    "name": "Makiko Hirabayashi Weavers",
+    "date": {
+      "start_timestamp": 1738348200,
+      "end_timestamp": 1738355400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Jemtelandsgade 3, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66518749999999,
+      "longitude": 12.603937499999986,
+      "bounds_ne_lat": 55.665249999999986,
+      "bounds_ne_lng": 12.603999999999985,
+      "bounds_sw_lat": 55.66512499999999,
+      "bounds_sw_lng": 12.603874999999988,
+      "plus_code_global": "9F7JMJ83+3H",
+      "plus_code_local": "MJ83+3H",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/983401747141697/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470198675_1124057746081478_5446397440472029938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xk3s0vXfpYoQ7kNvgHc6-qU&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ALtQO2INDwUe-FCK9_o0qSS&oh=00_AYBBkL1wBVnb-7Fzfc-JHTKjRlvXvdJNVfJGPImXnYHf1w&oe=67A2C8F4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kvarterhuset",
+    "page_url": "https://www.facebook.com/Kvarterhusetamagerbro/events/"
+  },
+  {
+    "id": "620229940462441",
+    "name": "Bus trip to Vordingborg & Næstved : Michiel Ceulers, Finn Reinbothe, Nanna Abell, Frederik Tydén...",
+    "date": {
+      "start_timestamp": 1738400400,
+      "end_timestamp": 1738429200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "DGI Byen, corner of Tietgensgade and Kvægtorvet.",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.670062500000014,
+      "longitude": 12.565062499999996,
+      "bounds_ne_lat": 55.67012500000001,
+      "bounds_ne_lng": 12.565124999999995,
+      "bounds_sw_lat": 55.670000000000016,
+      "bounds_sw_lng": 12.564999999999998,
+      "plus_code_global": "9F7JMHC8+22",
+      "plus_code_local": "MHC8+22",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/620229940462441/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/473268974_1217975643195391_8202898310696734626_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kOOis0SjPRYQ7kNvgEdEdC9&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ApHEc0BEA2FcoAmAHX1horK&oh=00_AYD3wdM3rmcfeRv19NPCkKkKMbaQQa3QMLWOZgPho9pdjA&oe=67A2B3F6",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Art Hub Copenhagen",
+    "page_url": "https://www.facebook.com/arthubcopenhagen/events"
+  },
+  {
+    "id": "2865292910300938",
+    "name": "Omvisning: Køn og seksualitet i antikken",
+    "date": {
+      "start_timestamp": 1738501200,
+      "end_timestamp": 1738504800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Glyptoteket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6729375,
+      "longitude": 12.572562500000018,
+      "bounds_ne_lat": 55.673,
+      "bounds_ne_lng": 12.572625000000016,
+      "bounds_sw_lat": 55.672875000000005,
+      "bounds_sw_lng": 12.57250000000002,
+      "plus_code_global": "9F7JMHFF+52",
+      "plus_code_local": "MHFF+52",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2865292910300938/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470226796_1036633135174467_3890289758090919997_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=f_U5c0vFYXMQ7kNvgF3rIUn&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AEk2RYOeUQsHa3giWQ2W0iR&oh=00_AYDiQlWvk7uBeU1ZoPpNhV5PRnZGUmHoFbA07LouMIW25A&oe=67A2C1B6",
+    "tag": "CULTURE",
+    "platform": "Facebook",
+    "page_name": "Glyptoteket",
+    "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "944549090644094",
+    "name": "Mønstre og monstre – Glyptotekets lerværksted",
+    "date": {
+      "start_timestamp": 1738404000,
+      "end_timestamp": 1738504800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Glyptoteket",
+      "address": "Dantes Plads 7",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.6729375,
+      "longitude": 12.572562500000018,
+      "bounds_ne_lat": 55.673,
+      "bounds_ne_lng": 12.572625000000016,
+      "bounds_sw_lat": 55.672875000000005,
+      "bounds_sw_lng": 12.57250000000002,
+      "plus_code_global": "9F7JMHFF+52",
+      "plus_code_local": "MHFF+52",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/944549090644094/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/472951993_1054976863340094_1691627843941273151_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NSKNVtxmYUYQ7kNvgEvKhMx&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AYg9Q2mPSHoA_gGmK0O4F_G&oh=00_AYCPWPBVbb89eMD4jtct4VtM_2rUlutMgyqJYcSLKrl6ww&oe=67A2D305",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Glyptoteket",
+    "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "925053885927355",
+    "name": "Weekend i vinterhaven",
+    "date": {
+      "start_timestamp": 1738404000,
+      "end_timestamp": 1738504800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Glyptoteket",
+      "address": "Dantes Plads 7",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.6729375,
+      "longitude": 12.572562500000018,
+      "bounds_ne_lat": 55.673,
+      "bounds_ne_lng": 12.572625000000016,
+      "bounds_sw_lat": 55.672875000000005,
+      "bounds_sw_lng": 12.57250000000002,
+      "plus_code_global": "9F7JMHFF+52",
+      "plus_code_local": "MHFF+52",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/925053885927355/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/470203799_1033552488815865_604938508431349167_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GNQmuAqN9OkQ7kNvgEuiLJQ&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AixBMODyJgrUjRufXRchD2Q&oh=00_AYA85Tejb4iZpUv6PHq-kIQq_FME12xT0u7w_D69t9757Q&oe=67A2C582",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Glyptoteket",
+    "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "907537741539606",
+    "name": "A poetic intervention by Eliot Cardinaux, Taus Bregnhøj-Olesen, Michaela Turcerová & Asger Thomsen",
+    "date": {
+      "start_timestamp": 1738342800,
+      "end_timestamp": 1738350000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Møllegade 23 A, kld.  tv, 2200 Kbh N.., 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.691687499999986,
+      "longitude": 12.557062500000015,
+      "bounds_ne_lat": 55.691749999999985,
+      "bounds_ne_lng": 12.557125000000013,
+      "bounds_sw_lat": 55.69162499999999,
+      "bounds_sw_lng": 12.557000000000016,
+      "plus_code_global": "9F7JMHR4+MR",
+      "plus_code_local": "MHR4+MR",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/907537741539606/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475330503_10103254995669788_5943666553987963271_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fTTD0oswO88Q7kNvgFHK443&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AmQU7_v0HnuP8QMqc1RDDQW&oh=00_AYA4o4gm1njTFALHH7GUm_5_aREJ9tyNPn87AhRWaNDf6Q&oe=67A2D0CC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "855271039689477",
+    "name": "Presentation of the work of EVAA propject / Belarusian activist-artists",
+    "date": {
+      "start_timestamp": 1706801400,
+      "end_timestamp": 1706808600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "FABRIKKEN for Kunst og Design",
+      "address": "Sundholmsvej 46",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.6598125,
+      "longitude": 12.595937500000005,
+      "bounds_ne_lat": 55.659875,
+      "bounds_ne_lng": 12.596000000000004,
+      "bounds_sw_lat": 55.65975,
+      "bounds_sw_lng": 12.595875000000007,
+      "plus_code_global": "9F7JMH5W+W9",
+      "plus_code_local": "MH5W+W9",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/855271039689477/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/421532342_825357829628211_6028235905079473612_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8r2oeJOoZP4Q7kNvgG4R4bM&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A6cgmue-ZnrQlx_1XK63cgK&oh=00_AYD4j1DZefY92hZz_QdjwnKintaJJKPJsL95ymJj7FRN-w&oe=67A2B602",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "FABRIKKEN for Kunst og Design",
+    "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+  }
+]

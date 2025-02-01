@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2467535596892546",
+    "name": "Free ICC online Drop-In Workshop (EN)",
+    "date": {
+      "start_timestamp": 1589815800,
+      "end_timestamp": 1589823000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "ICC Theatre - Improv Comedy Copenhagen",
+      "address": "Frederiksholms Kanal 2",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.676062500000015,
+      "longitude": 12.574812500000021,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.57487500000002,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574750000000023,
+      "plus_code_global": "9F7JMHGF+CW",
+      "plus_code_local": "MHGF+CW",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2467535596892546/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t1.6435-9/93806170_1181809282150469_4577739112315879424_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=i0boyJara0gQ7kNvgHhJaEF&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AS_HShdW_QORw55Yg09oGCU&oh=00_AYCSQLlX3dwQIT-5XU29zyl6XSpbRexPOockfsme9q4NmQ&oe=67C44597",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen International Improv Festival - CIIF",
+    "page_url": "https://www.facebook.com/cphimprofestival/events"
+  }
+]

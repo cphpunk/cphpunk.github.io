@@ -1,0 +1,32 @@
+[
+  {
+    "id": "987852269546341",
+    "name": "Midnatsmesse med Marcela Lucatelli Necromancy & SVIN",
+    "date": {
+      "start_timestamp": 1708722000,
+      "end_timestamp": 1708729200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mayhem Kbh",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/987852269546341/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/422269999_883972696761478_1466916912500886663_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sxSGrGhrresQ7kNvgHRgX9P&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AtvIpNeQYaYwzVBfwI8jQUi&oh=00_AYByIj4cbKKRTE-uSIJJN6r0JlAj5FY19tAUOU08u1mbzQ&oe=67A2BE8E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
+  }
+]

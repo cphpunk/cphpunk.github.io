@@ -5,12 +5,14 @@ import { normalizeString, getSimilarity } from './utils.js';
 * Weeks are stored in JSON files with this naming convention: YYYY-WXX.json
 * Where XX is the week number (duh)
 */ 
-async function fetchWeekEvents(date) {
+async function fetchWeekEvents(date, stripDescription = true) {
   const weekNumber = date.format('WW').padStart(2, '0');
   const year = date.format('YYYY');
+  const folder = `events/` + (stripDescription ? "light/" : "");
+  const file_name = folder + `${year}-W${weekNumber}` +(stripDescription ? "_LIGHT" : "") + ".json";
 
   try {
-    const response = await fetch(`events/${year}-W${weekNumber}.json`);
+    const response = await fetch(file_name);
     return response.ok ? await response.json() : [];
   } catch (error) {
     console.error('Error loading events:', error);

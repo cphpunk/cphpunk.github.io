@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kk-lael-neale-us-musikcafeen",
+    "name": "Lael Neale (US) | Musikcaféen",
+    "date": {
+      "start_timestamp": 1748023200,
+      "end_timestamp": 1748034000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/lael-neale-us-musikcafeen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-12/lael-neale-web---fotokred-Guy-Blakeslee%20NY_0.jpg?itok=018qN1KK",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "420865727755504",
+    "name": "Sangen om Oda og Anton // CPH STAGE",
+    "date": {
+      "start_timestamp": 1748023200,
+      "end_timestamp": 1748027700,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "TEATER V",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6645625,
+      "longitude": 12.509437500000004,
+      "bounds_ne_lat": 55.664625,
+      "bounds_ne_lng": 12.509500000000003,
+      "bounds_sw_lat": 55.664500000000004,
+      "bounds_sw_lng": 12.509375000000006,
+      "plus_code_global": "9F7JMG75+RQ",
+      "plus_code_local": "MG75+RQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/420838461091564/?event_time_id=420865727755504",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/468569846_1007637644709184_2136643452464196539_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OfhefAA8pRMQ7kNvgG27pqk&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AVslQng6kvU6AOQGWX8Fkg-&oh=00_AYBb6u38Z9eOQ5E-drLVpFeH3MjrNg7BUTr6CegOV6Psqw&oe=67A2CB43",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "CPH STAGE",
+    "page_url": "https://www.facebook.com/cphstagedk/events"
+  },
+  {
+    "id": "1146279620551363",
+    "name": "Le Grand Bal // CPH STAGE",
+    "date": {
+      "start_timestamp": 1747850400,
+      "end_timestamp": 1747854000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Skuespilhuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.680062500000005,
+      "longitude": 12.594687500000006,
+      "bounds_ne_lat": 55.680125000000004,
+      "bounds_ne_lng": 12.594750000000005,
+      "bounds_sw_lat": 55.68000000000001,
+      "bounds_sw_lng": 12.594625000000008,
+      "plus_code_global": "9F7JMHJV+2V",
+      "plus_code_local": "MHJV+2V",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1146279613884697/?event_time_id=1146279620551363",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/474531497_1052331256906489_2939241502530773369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9O7NwKYWpUoQ7kNvgFHVh3T&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A4nqKt9ulPaxietQ-aZ5MPB&oh=00_AYBVgmZaIHWvHlI1VpEf5vxsm-12h3lZk7DRzx9MLPL40Q&oe=67A2B430",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "CPH STAGE",
+    "page_url": "https://www.facebook.com/cphstagedk/events"
+  },
+  {
+    "id": "883497923988637",
+    "name": "IT’S SO CUTE I’M GONNA D!E // CPH STAGE",
+    "date": {
+      "start_timestamp": 1748167200,
+      "end_timestamp": 1748170200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Det Kongelige Teater - Skuespilhuset",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.680062500000005,
+      "longitude": 12.594687500000006,
+      "bounds_ne_lat": 55.680125000000004,
+      "bounds_ne_lng": 12.594750000000005,
+      "bounds_sw_lat": 55.68000000000001,
+      "bounds_sw_lng": 12.594625000000008,
+      "plus_code_global": "9F7JMHJV+2V",
+      "plus_code_local": "MHJV+2V",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/883497917321971/?event_time_id=883497923988637",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/468396838_1007690114703937_7685358806448291063_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2XRNtGeFsLUQ7kNvgFrqzER&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=Ag55BP-dFrpudHoQEpg23XH&oh=00_AYA9kWwBnTqbceoa7gQfLxz8ark043U_SgYt0Ptzh1jZdw&oe=67A2D19C",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "CPH STAGE",
+    "page_url": "https://www.facebook.com/cphstagedk/events"
+  }
+]

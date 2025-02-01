@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1302113784536634",
+    "name": "Blåbærmarmelade På Blågårds",
+    "date": {
+      "start_timestamp": 1732730400,
+      "end_timestamp": 1732739400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Blågårds Apotek",
+      "address": "Blågårds Plads 2",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.6864375,
+      "longitude": 12.557937499999994,
+      "bounds_ne_lat": 55.686499999999995,
+      "bounds_ne_lng": 12.557999999999993,
+      "bounds_sw_lat": 55.686375,
+      "bounds_sw_lng": 12.557874999999996,
+      "plus_code_global": "9F7JMHP5+H5",
+      "plus_code_local": "MHP5+H5",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1302113784536634/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/467947696_540881568733160_3620332442352183794_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nMm8Wv3yixsQ7kNvgFSXQ9O&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AhSaxbUinhLPegdrHlCknRJ&oh=00_AYDH6mbJwZwHn2L3f3fb-rrLSTjRBwTrEORyIWzWQlNLQQ&oe=67A2BAC3",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "566757632680108",
+    "name": "What Happens to Dreams Deferred? - Special Screening // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1732905000,
+      "end_timestamp": 1732912200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/566757632680108/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/462619584_1397359421181800_3403634156317768801_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ph31bc8gnE4Q7kNvgHSH5k3&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Acq_FqWOGQ6OpZFLHCbkzce&oh=00_AYB0FQn1_wwnL0PcuVKu5L-vcA_EJjV5wLdkbmqQOYSzgA&oe=67A2A1DD",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "532496823001743",
+    "name": "OPEN STUDIO MORNING: Man Yau – FAIR Resident",
+    "date": {
+      "start_timestamp": 1732521600,
+      "end_timestamp": 1732525200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Sundholmsvej 46, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65956250000001,
+      "longitude": 12.595687500000011,
+      "bounds_ne_lat": 55.659625000000005,
+      "bounds_ne_lng": 12.59575000000001,
+      "bounds_sw_lat": 55.65950000000001,
+      "bounds_sw_lng": 12.595625000000013,
+      "plus_code_global": "9F7JMH5W+R7",
+      "plus_code_local": "MH5W+R7",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/532496823001743/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/467504526_1102023355257126_5275598327581963634_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SHViX7GaCxwQ7kNvgGABupE&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AzqKV3lfwPdJFnIU7_JUrwu&oh=00_AYAFgxqHm38-whhb_Y9Ih_63BhfuUc4ZCBY1OWc38fAJFA&oe=67A2A9E0",
+    "tag": "ART",
+    "platform": "Facebook",
+    "page_name": "FABRIKKEN for Kunst og Design",
+    "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+  }
+]

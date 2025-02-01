@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1035728510344271",
+    "name": "Copenhagen Sakura Festival 2022",
+    "date": {
+      "start_timestamp": 1650704400,
+      "end_timestamp": 1650808800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Langelinie Park",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.59931250000001,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.599375000000009,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.599250000000012,
+      "plus_code_global": "9F7JMHRX+8P",
+      "plus_code_local": "MHRX+8P",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1035728510344271/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/275787293_4856528774424038_1825921351549650882_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ExDr0IMzgvYQ7kNvgHDOjjU&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AS1Bd86X-utv1CxNlc9avh_&oh=00_AYDVvl6BTF6qJfBeElL_I9uBrGGviIS6iE8z55r5ws6KTg&oe=67A2C72C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Sakura Festival",
+    "page_url": "https://www.facebook.com/copenhagensakurafestival/events"
+  },
+  {
+    "id": "530850888454100",
+    "name": "Fredagsbar for kulturskabere  | Carpark Community",
+    "date": {
+      "start_timestamp": 1650641400,
+      "end_timestamp": 1650650400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "URBAN 13",
+      "address": "Bispeengen 20A",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.694937499999995,
+      "longitude": 12.535062499999995,
+      "bounds_ne_lat": 55.69499999999999,
+      "bounds_ne_lng": 12.535124999999994,
+      "bounds_sw_lat": 55.694874999999996,
+      "bounds_sw_lng": 12.534999999999997,
+      "plus_code_global": "9F7JMGVP+X2",
+      "plus_code_local": "MGVP+X2",
+      "plus_code_locality": "Frederiksberg, Denmark"
+    },
+    "url": "https://www.facebook.com/events/530850888454100/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473248584_1729593494552322_5863533149140023594_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0bm_lv7qJUYQ7kNvgHV2oF-&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AQ-DQkS7kn2R9a0Uyb4JI5h&oh=00_AYD59EFq2BQro4tc8ib39M5kxPnKFYhMx9hqy7iQgQrv3g&oe=67A2BB9C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Carpark Festival",
+    "page_url": "https://www.facebook.com/carparkfestival/events"
+  }
+]

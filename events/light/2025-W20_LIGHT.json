@@ -1,0 +1,32 @@
+[
+  {
+    "id": "911980247236771",
+    "name": "NINA ER SJOV // CPH STAGE",
+    "date": {
+      "start_timestamp": 1747332000,
+      "end_timestamp": 1747336800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ravnsborggade 3, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68818750000001,
+      "longitude": 12.561062500000006,
+      "bounds_ne_lat": 55.68825000000001,
+      "bounds_ne_lng": 12.561125000000004,
+      "bounds_sw_lat": 55.688125000000014,
+      "bounds_sw_lng": 12.561000000000007,
+      "plus_code_global": "9F7JMHQ6+7C",
+      "plus_code_local": "MHQ6+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/911980210570108/?event_time_id=911980247236771",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/468409812_983096840517213_5856425532332407605_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OPPPQ7pbEOAQ7kNvgHbvP8l&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AbdFn-MCdtQUHlCy3Boyla0&oh=00_AYB0QBhXGj1T-fiIS7u9nul0YgX9mkzLsF4C1Vi_PCRlNA&oe=67A2C6E4",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "CPH STAGE",
+    "page_url": "https://www.facebook.com/cphstagedk/events"
+  }
+]

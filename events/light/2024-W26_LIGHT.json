@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1396658370997656",
+    "name": "Artist talk & screening: Elina Oikari (FI)",
+    "date": {
+      "start_timestamp": 1719399600,
+      "end_timestamp": 1719403200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sundholmsvej 46, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65956250000001,
+      "longitude": 12.595687500000011,
+      "bounds_ne_lat": 55.659625000000005,
+      "bounds_ne_lng": 12.59575000000001,
+      "bounds_sw_lat": 55.65950000000001,
+      "bounds_sw_lng": 12.595625000000013,
+      "plus_code_global": "9F7JMH5W+R7",
+      "plus_code_local": "MH5W+R7",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1396658370997656/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/417480567_984869556972507_2759110622250052393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Nv0OklLEAhgQ7kNvgFaBizX&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AeVke5F6jFzE-F2w_aJVVAp&oh=00_AYCoWlEyQAzcNgdN5Twumx9hKNsI6ijPHhSZEGUpO7ARpQ&oe=67A2B9C0",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "FABRIKKEN for Kunst og Design",
+    "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+  }
+]

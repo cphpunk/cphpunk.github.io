@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1273187970466429",
+    "name": "Jægersborggade Julekoncerter #3",
+    "date": {
+      "start_timestamp": 1734786900,
+      "end_timestamp": 1734794100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "jægersborggade, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1273187970466429/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470571122_999026332254795_6787415525240698183_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2LxmAmsF12kQ7kNvgE2fKUA&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AchHqI69CGzwgk63E88QsZi&oh=00_AYDH7wWoRthET5LxQA7EQ3BjTic2HhmNCInFNj4rDjcFgg&oe=67A2A5A4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "612799001313226",
+    "name": "Tirsdagskoret synger julen ind! ",
+    "date": {
+      "start_timestamp": 1734453900,
+      "end_timestamp": 1734461100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "jægersborggade, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/612799001313226/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470517351_998433065647455_4235889030398913365_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W-feeDCHacwQ7kNvgEriNAe&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ALRIUXcnMDO7CDB6gqNP10q&oh=00_AYB6YD79NQO7y1de6047u9oZ9QL4Sj0pr0TV0cdBUPRIGA&oe=67A2C9EF",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  }
+]

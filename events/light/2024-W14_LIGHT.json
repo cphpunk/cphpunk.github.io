@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1075821943642926",
+    "name": "In the City / Q&A / Drinks, Tapas & Music / Copenhagen Catalan Film Festival",
+    "date": {
+      "start_timestamp": 1712412000,
+      "end_timestamp": 1712419200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1075821943642926/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/424972165_904902764973691_7543192935001759456_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=s9icisdfc9gQ7kNvgHVVv1-&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AMgCFHc_qtfYNoUPBvGC0Mr&oh=00_AYANcD0QkJHnFKSsNtyKC1pssZplDd8KtQheF1qIHR4IVA&oe=67A2A183",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  },
+  {
+    "id": "1135490814475880",
+    "name": "Copenhagen Catalan Film Festival 2024: The Other Barcelona",
+    "date": {
+      "start_timestamp": 1712250000,
+      "end_timestamp": 1712433600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1135490814475880/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/417476343_904544835009484_2316769910149236692_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XDMx9yydLTwQ7kNvgEPqWUd&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AtlZQCE7oFjAYsZyks_nz3q&oh=00_AYCCOuJEge6z3uL9HInmFTIsHDIrZENWdYPbtQGAOlJZCw&oe=67A2A1B5",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  },
+  {
+    "id": "2169870356681216",
+    "name": "SOLD OUT! Bajarí: Gypsy Barcelona / Q&A / Drinks, Tapas & Music / CCFF2024",
+    "date": {
+      "start_timestamp": 1712342700,
+      "end_timestamp": 1712349900,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2169870356681216/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/429664085_904902981640336_2495842961933264508_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=H4KI6M1BvE4Q7kNvgEu1-0F&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AxstLAZSM5zkfjbUZOCj-J-&oh=00_AYBHBiYziYhJoOY9R-XY9n1EBYnHLPj5UYilL9f4dmSN0w&oe=67A2B475",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  },
+  {
+    "id": "803065491848242",
+    "name": "SOLD OUT! Biutiful / Drinks, Tapas & Music / Dance Performance / Copenhagen Catalan Film Festival",
+    "date": {
+      "start_timestamp": 1712423700,
+      "end_timestamp": 1712430900,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/803065491848242/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/424972337_904917874972180_8961195666504862443_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QFQD_w6Mn-cQ7kNvgFKI9Gy&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AVeNRvab8UPgYGhRJ_1vMsW&oh=00_AYAiX_LxyKFfV-0h__ktQz8RTRXp_Yeowsi9xItuTRMbKQ&oe=67A2C898",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  },
+  {
+    "id": "3354084801557007",
+    "name": " The Long Way Home / Q&A / Drinks, Tapas & Music / Copenhagen Catalan Film Festival",
+    "date": {
+      "start_timestamp": 1712250000,
+      "end_timestamp": 1712257200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3354084801557007/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/429857060_904875564976411_7667561301043435827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X2iTr6ckX8sQ7kNvgGKybtd&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A_uOzX27gOUHDkAVpyn5fn6&oh=00_AYCvVpX1ygoscr7-g-f1k8kiGzSGe_zxjdOGGaW6MuFXwg&oe=67A2A0F6",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  },
+  {
+    "id": "922812189229107",
+    "name": "The Taxi Thief / Intro to ”Urgent cinema” / Q&A / Drinks, Tapas & Music ",
+    "date": {
+      "start_timestamp": 1712331000,
+      "end_timestamp": 1712338200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/922812189229107/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/429873168_904881748309126_3635388118132976421_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gGhf2n_7a5EQ7kNvgH4Ul6W&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A_JCXpMFcL1iOQAGndMQaPW&oh=00_AYBfQvAK77Toud1pRDLCmfshr7y8whmNgbJfkboLuInrTA&oe=67A2C953",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  }
+]

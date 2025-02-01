@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1159151475768934",
+    "name": "ROMANTISTIC VOL. 5",
+    "date": {
+      "start_timestamp": 1734028200,
+      "end_timestamp": 1734043500,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mayhem KBH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1159151475768934/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470156428_4721706064721849_4397017231271592902_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-52j-UB6LpIQ7kNvgGTueWd&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AOBaqWKLohYBBMkTTpUHYH6&oh=00_AYC0800gyf95XzZadXtVe0bVt6uW2xB8migg2K4AzZegUA&oe=67A2C7D0",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
+  },
+  {
+    "id": "1070818278060564",
+    "name": "Jægersborggade Julekoncerter #2",
+    "date": {
+      "start_timestamp": 1734174000,
+      "end_timestamp": 1734181200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "jægersborggade, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1070818278060564/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/468944494_989267046564057_6098332710580381166_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WyOfQaGB16MQ7kNvgFvLdKk&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AMIAgyofLJDB5Nntg0yjuC8&oh=00_AYAm0rQDjpkGadyReZQMc2leePMP9Da3wTQZIcdy4n3cQA&oe=67A2B191",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "535710452536040",
+    "name": "Songwriters Night At Operaen",
+    "date": {
+      "start_timestamp": 1734026400,
+      "end_timestamp": 1734043500,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Operaen Christiania",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67381250000001,
+      "longitude": 12.599437500000036,
+      "bounds_ne_lat": 55.67387500000001,
+      "bounds_ne_lng": 12.599500000000035,
+      "bounds_sw_lat": 55.67375000000001,
+      "bounds_sw_lng": 12.599375000000038,
+      "plus_code_global": "9F7JMHFX+GQ",
+      "plus_code_local": "MHFX+GQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/535710452536040/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/468669702_10234192631499372_750931716992142033_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MdFFk_ykJ3YQ7kNvgGGvu4U&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A83tlk6KekLGrxxgP8ml-KD&oh=00_AYDxntriTHiZJgQOYXbhp3JZLUhI9eKVev058pkVNF1gEA&oe=67A2CBB9",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "2615583368615073",
+    "name": "Songwriters Night At Den Lille",
+    "date": {
+      "start_timestamp": 1734195600,
+      "end_timestamp": 1734210000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Den Lille",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69668749999998,
+      "longitude": 12.527312500000008,
+      "bounds_ne_lat": 55.69674999999998,
+      "bounds_ne_lng": 12.527375000000006,
+      "bounds_sw_lat": 55.69662499999998,
+      "bounds_sw_lng": 12.52725000000001,
+      "plus_code_global": "9F7JMGWG+MW",
+      "plus_code_local": "MGWG+MW",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2615583365281740/?event_time_id=2615583368615073",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475829042_589563893864927_2172803188585178415_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xkKE0K3cSecQ7kNvgHiHxL0&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AflEbBdmyr4XirIy1FG9dIb&oh=00_AYBCI7Dw3AIgNXU6xp_tLJYux52QToUdDMMHwAvacpXqMA&oe=67A2C97A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  }
+]

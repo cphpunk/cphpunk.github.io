@@ -1,0 +1,32 @@
+[
+  {
+    "id": "221754848288594",
+    "name": "Comedy Night på Riccos Kaffe, Sluseholmen",
+    "date": {
+      "start_timestamp": 1489084200,
+      "end_timestamp": 1489093200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Ricco's Kaffebar",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70993749999998,
+      "longitude": 12.56843750000003,
+      "bounds_ne_lat": 55.70999999999998,
+      "bounds_ne_lng": 12.568500000000029,
+      "bounds_sw_lat": 55.70987499999998,
+      "bounds_sw_lng": 12.568375000000032,
+      "plus_code_global": "9F7JPH59+X9",
+      "plus_code_local": "PH59+X9",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/221754848288594/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/462598824_3900938490187408_7823613042421654764_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KmHqqWb_nCoQ7kNvgEdIbL1&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8Z6vG0t4-jHsdM9SyonMik&oh=00_AYBBap3BYWezqnXtsFKPavAV_GflAYfCxDOoMf9qftC8iw&oe=67A2A66A",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Ricco's Kaffebar",
+    "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "354087521988692",
+    "name": "Annual Copenhagen Film Festival 2019",
+    "date": {
+      "start_timestamp": 1552750200,
+      "end_timestamp": 1552770000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": "Rådhusstræde 13, 2 th",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/354087515322026/?event_time_id=354087521988692",
+    "image_url": "",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Annual Copenhagen Film Festival",
+    "page_url": "https://www.facebook.com/cphfestival/events"
+  },
+  {
+    "id": "629180220866113",
+    "name": "Workshop: Marketing and Promotion for Filmmakers",
+    "date": {
+      "start_timestamp": 1552737600,
+      "end_timestamp": 1552744800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "REBEL Work Space",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69918750000001,
+      "longitude": 12.594812500000003,
+      "bounds_ne_lat": 55.699250000000006,
+      "bounds_ne_lng": 12.594875000000002,
+      "bounds_sw_lat": 55.69912500000001,
+      "bounds_sw_lng": 12.594750000000005,
+      "plus_code_global": "9F7JMHXV+MW",
+      "plus_code_local": "MHXV+MW",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/629180220866113/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t1.6435-9/53485377_2270912306302949_5377631180118032384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kbv-XbDxfZ4Q7kNvgF590H9&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AbHCmzeGVMV0gGtauCBXjlA&oh=00_AYDA11FKC7xmcB4TeSE_i9y1zAcytNT5kd_ah10hA4yHHA&oe=67C45BBA",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Annual Copenhagen Film Festival",
+    "page_url": "https://www.facebook.com/cphfestival/events"
+  }
+]

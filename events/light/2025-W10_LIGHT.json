@@ -1,0 +1,512 @@
+[
+  {
+    "id": "977174740970255",
+    "name": "Intromøde til Extinction Rebellion København",
+    "date": {
+      "start_timestamp": 1741188600,
+      "end_timestamp": 1741192200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6659375,
+      "longitude": 12.5805625,
+      "bounds_ne_lat": 55.666,
+      "bounds_ne_lng": 12.580624999999998,
+      "bounds_sw_lat": 55.665875,
+      "bounds_sw_lng": 12.5805,
+      "plus_code_global": "9F7JMH8J+96",
+      "plus_code_local": "MH8J+96",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/977174740970255/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/475104167_962734305987850_1754213811147168523_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Z8Df7-EAl1cQ7kNvgGbVGk4&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A9_5nkVBxrNmyiBphtKXZ9I&oh=00_AYASM9P33nXw06BR4qlDcrpXK07IBttEI29L7ZdTg-6nJw&oe=67A2A908",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "9296725383723531",
+    "name": "Fællesmøde - Extinction Rebellion København",
+    "date": {
+      "start_timestamp": 1741192200,
+      "end_timestamp": 1741199400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6659375,
+      "longitude": 12.5805625,
+      "bounds_ne_lat": 55.666,
+      "bounds_ne_lng": 12.580624999999998,
+      "bounds_sw_lat": 55.665875,
+      "bounds_sw_lng": 12.5805,
+      "plus_code_global": "9F7JMH8J+96",
+      "plus_code_local": "MH8J+96",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/9296725383723531/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/475208075_962728072655140_9010314740917402094_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YZWsggQyKcwQ7kNvgGPRMQ4&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AL7elmi5bYeaJlJ1bu6tMr4&oh=00_AYBlutj5gvhdHIOidmvyyyvOtoRv5EKedcg8ykNbsooFYw&oe=67A2A28C",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "kk-trine-trash-og-betontraume-hollow-ship-s",
+    "name": "Trine Trash og Betontraume + Hollow Ship (S)",
+    "date": {
+      "start_timestamp": 1741375800,
+      "end_timestamp": 1741381200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/trine-trash-og-betontraume-hollow-ship-s",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-01/Design%20uden%20navn%20%2820%29.png?itok=s5wb7UsE",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-favorite-things-okvsho-experience-ch-musikcafeen",
+    "name": "Favorite Things: Okvsho +experience (CH) | Musikcaféen",
+    "date": {
+      "start_timestamp": 1741374000,
+      "end_timestamp": 1741388340,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, None København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/favorite-things-okvsho-experience-ch-musikcafeen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/Okvsho%202%20-%201920%20x%20544_0.png?itok=6aXmR4cb",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-ashes-of-billy",
+    "name": "Ashes of Billy",
+    "date": {
+      "start_timestamp": 1741460400,
+      "end_timestamp": 1741471200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/ashes-of-billy",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-11/asges-of-billy-billetto_0.png?h=460dff8e&itok=iBoOFWJ-",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-uniradioen-presents-elliot-maya-musikcafeen",
+    "name": "Uniradioen presents Elliot & Maya | Musikcaféen",
+    "date": {
+      "start_timestamp": 1741287600,
+      "end_timestamp": 1741301940,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Musikcaféen, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/uniradioen-presents-elliot-maya-musikcafeen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-01/elliot-og-Maya-web_0.jpg?itok=ht9g5Dkh",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "610552988339338",
+    "name": "benspænd: gubbi",
+    "date": {
+      "start_timestamp": 1741285800,
+      "end_timestamp": 1741293000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70481249999999,
+      "longitude": 12.581687500000001,
+      "bounds_ne_lat": 55.70487499999999,
+      "bounds_ne_lng": 12.58175,
+      "bounds_sw_lat": 55.70474999999999,
+      "bounds_sw_lng": 12.581625000000003,
+      "plus_code_global": "9F7JPH3J+WM",
+      "plus_code_local": "PH3J+WM",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/610552988339338/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475505572_1700601227385928_4806218770198011546_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rVTmAfxsp3EQ7kNvgF_-4EJ&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Abg9uo-HftA2K1UQYJmepg8&oh=00_AYAGBMhf41htqsremq3W4WGLb6mzMYNmvGANHIi7xJHv9Q&oe=67A2A778",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Villa Kultur",
+    "page_url": "https://www.facebook.com/villakultur/events"
+  },
+  {
+    "id": "8661792140593166",
+    "name": "Sally C (UK), Lucky Lube, Kawun, David Garset",
+    "date": {
+      "start_timestamp": 1741384800,
+      "end_timestamp": 1741410000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/8661792140593166/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/475167575_1125837015907683_5357314267470047252_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0irhGq_l0jsQ7kNvgFGg-vo&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AYvQ_Y7sx9oUssAHwGHwHGk&oh=00_AYCDrwGbRPSbnoezxFwqhxS3N5OFqYcQObrasMZJGkG2VA&oe=67A2D237",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hangaren",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "562098926779288",
+    "name": "The Raven Age // BETA // 8. marts 2025",
+    "date": {
+      "start_timestamp": 1741460400,
+      "end_timestamp": 1741467600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/562098926779288/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/468777197_1002768638545302_3694003920781065179_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AdGqJJLhPdwQ7kNvgFcuOdQ&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AaewXjlfLzjivQj-c5PgN02&oh=00_AYBwCM17pXX4sByRMxZ2-SR2GrF5gVpnB1qcLL4H-ywyBQ&oe=67A2B62B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "1106765194098834",
+    "name": "CODO [ES] (Stoner/Noise Rock/Psych)",
+    "date": {
+      "start_timestamp": 1741291200,
+      "end_timestamp": 1741298400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Lygten 29, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70306249999997,
+      "longitude": 12.537312499999999,
+      "bounds_ne_lat": 55.70312499999997,
+      "bounds_ne_lng": 12.537374999999997,
+      "bounds_sw_lat": 55.702999999999975,
+      "bounds_sw_lng": 12.53725,
+      "plus_code_global": "9F7JPG3P+6W",
+      "plus_code_local": "PG3P+6W",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1106765194098834/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472715403_1106187384851511_1766895009148698963_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=a8HoRgMidDQQ7kNvgG7Lth8&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ApDexmg6DhhIohqWSASFh68&oh=00_AYBf25T2fSubRh0gscAKj0m1jYwNNqHD9guZ0Iov1kRgIA&oe=67A2AB91",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Lygtens Kro",
+    "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "1305261940521419",
+    "name": "SIENA ROOT ACOUSTIC! [SWE] (UNPLUGGED/PSYCH/BLUES/STONER)",
+    "date": {
+      "start_timestamp": 1741464000,
+      "end_timestamp": 1741471200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Lygten 29, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70306249999997,
+      "longitude": 12.537312499999999,
+      "bounds_ne_lat": 55.70312499999997,
+      "bounds_ne_lng": 12.537374999999997,
+      "bounds_sw_lat": 55.702999999999975,
+      "bounds_sw_lng": 12.53725,
+      "plus_code_global": "9F7JPG3P+6W",
+      "plus_code_local": "PG3P+6W",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1305261940521419/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474586318_1117054993764750_7494158197264773512_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rY7aS8eE4CkQ7kNvgGFnV68&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AHcZguXmILIui0GiLZAb6oI&oh=00_AYBZUKFXVqR9f3QmIn3xNP4ILdKeOeKQG0HumnaySxpdGQ&oe=67A2C358",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Lygtens Kro",
+    "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "3820572781498931",
+    "name": "Favorite Things presents: Okvsho +experience | HUSET",
+    "date": {
+      "start_timestamp": 1741374000,
+      "end_timestamp": 1741381200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Musikcaféen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.575187500000013,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.575250000000011,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.575125000000014,
+      "plus_code_global": "9F7JMHGG+H3",
+      "plus_code_local": "MHGG+H3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3820572781498931/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/464326434_981326160701622_731843866131036851_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dD1j0skcRqMQ7kNvgGgEOaF&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ASOBrSyfXDVlifwpGV2IdEU&oh=00_AYAUo-0fAOis93vX0nnDOfaEcjm1rywsRz8QrIwvUW2XIA&oe=67A2BD00",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikcaféen",
+    "page_url": "https://www.facebook.com/musikcafeenihuset/events"
+  },
+  {
+    "id": "1042511227123922",
+    "name": "An Evening with Sturgill Simpson - The Why Not? Tour | K.B. Hallen, København",
+    "date": {
+      "start_timestamp": 1741374000,
+      "end_timestamp": 1741381200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1042511227123922/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/460121202_928450375983004_2263725069175393080_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Y_iHIj5DYsgQ7kNvgE3T5xx&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A1GRMc8fEZghRzmrH6VOIuP&oh=00_AYCbGqKHQ-C4GkXbzvQARzv4hW6v6si92mdBuS-Kj-zv8A&oe=67A2BD2E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "3893955147515894",
+    "name": "Cph Listening Room Feat: William William Rodgers (UK) ",
+    "date": {
+      "start_timestamp": 1741543200,
+      "end_timestamp": 1741557600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "LiteraturHaus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.555562499999994,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555624999999992,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.555499999999995,
+      "plus_code_global": "9F7JMHR4+86",
+      "plus_code_local": "MHR4+86",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3893955147515894/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475955099_1142441331223141_2761378964828490853_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kuPDfs8bZt8Q7kNvgFLhB9y&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AlKiJVZYf2zOLC9ySXhngih&oh=00_AYAw5xY4iIIur9l4pdXsdhvUm17t7l9KJehOAkmXFFs-mQ&oe=67A2B3E5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Cph Listening Room",
+    "page_url": "https://www.facebook.com/CopenhagenSundayOpenStageListeningRoom/events"
+  },
+  {
+    "id": "1339621503730510",
+    "name": "KAMPDAG I KVINDEHUSET ❤️‍🔥FEST❤️‍🔥",
+    "date": {
+      "start_timestamp": 1741460400,
+      "end_timestamp": 1741489200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 37",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68218750000001,
+      "longitude": 12.581937500000024,
+      "bounds_ne_lat": 55.68225000000001,
+      "bounds_ne_lng": 12.582000000000022,
+      "bounds_sw_lat": 55.68212500000001,
+      "bounds_sw_lng": 12.581875000000025,
+      "plus_code_global": "9F7JMHJJ+VQ",
+      "plus_code_local": "MHJJ+VQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1339621503730510/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472440977_588435003927827_3432371585352803155_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cH7aHPtR9DgQ7kNvgGz50Hu&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=APa7zPLyvWgy0eBTQlBCfsV&oh=00_AYBFHb8EjL-X2agAGtMNzTONcAMx4dSvGqDYzF44F0UWHQ&oe=67A2CEB6",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "FLINT kbh",
+    "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "558863353810671",
+    "name": "KAMPDAG I KVINDEHUSET",
+    "date": {
+      "start_timestamp": 1741424400,
+      "end_timestamp": 1741460400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 37, 1123 Nyhavn, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68218750000001,
+      "longitude": 12.581937500000024,
+      "bounds_ne_lat": 55.68225000000001,
+      "bounds_ne_lng": 12.582000000000022,
+      "bounds_sw_lat": 55.68212500000001,
+      "bounds_sw_lng": 12.581875000000025,
+      "plus_code_global": "9F7JMHJJ+VQ",
+      "plus_code_local": "MHJJ+VQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/558863353810671/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/472523455_1132479222220832_2896752685560998241_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4eb2XVb4DO4Q7kNvgFHZZ8w&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AHwhOyxaoY2T_niHGzjvdj-&oh=00_AYCuUmR6QQooUsqEy9ri3KWMwSGNY8W4zUcSafliJvKAAQ&oe=67A2CDF4",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "FLINT kbh",
+    "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "585832837489540",
+    "name": "Elektronisk lydbad – på rejse i jordens indre",
+    "date": {
+      "start_timestamp": 1741285800,
+      "end_timestamp": 1741291200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Herlev Bygade 70, 2730 Herlev Municipality, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.72531249999999,
+      "longitude": 12.435687500000014,
+      "bounds_ne_lat": 55.725374999999985,
+      "bounds_ne_lng": 12.435750000000013,
+      "bounds_sw_lat": 55.72524999999999,
+      "bounds_sw_lng": 12.435625000000016,
+      "plus_code_global": "9F7JPCGP+47",
+      "plus_code_local": "PCGP+47",
+      "plus_code_locality": "Herlev, Denmark"
+    },
+    "url": "https://www.facebook.com/events/585832837489540/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/471419196_1003460231818366_8224302467659946563_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vveRqxfU5FYQ7kNvgE-IcEH&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A-WTKUvqtiRrqZ_RswXcCDH&oh=00_AYCq7jlKj6rnnXw1xg5dVi_HCxynxZZj7T2dxdtBdzpJeg&oe=67A2A0FE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  }
+]

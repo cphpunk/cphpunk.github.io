@@ -1,0 +1,32 @@
+[
+  {
+    "id": "870339297601323",
+    "name": "Coming of Age",
+    "date": {
+      "start_timestamp": 1699898400,
+      "end_timestamp": 1699908300,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/870339297601323/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/394179585_1319589618947012_5853020508315042322_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GmTx5GmsBtgQ7kNvgFADmF_&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AEeBeMNgJbYrT4E3q3E6HeU&oh=00_AYCopwxVP0LbNQuqSBxAtTJzBQoE9xZEVEOXiTHn_vc-DQ&oe=67A2A57A",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Short Film Festival",
+    "page_url": "https://www.facebook.com/CopenhagenShortFilmFestival/events"
+  }
+]

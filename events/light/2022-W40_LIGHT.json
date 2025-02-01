@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1072462113412713",
+    "name": "Verdens Bedste Instrument på BUSTER Filmfestival",
+    "date": {
+      "start_timestamp": 1665051300,
+      "end_timestamp": 1665055200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1072462113412713/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/469880828_592660423542184_4896005966302543926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=L6JFRDWTxEAQ7kNvgEEAlYX&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Az2SzXEGQwBOrZhQchYdcQJ&oh=00_AYB3IiPFuPxFwhpFBBash-2muG-LEZAjo64GBHlNO_1cHA&oe=67A29F2B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "438520781409554",
+    "name": "PREMIERE! Verdens Bedste Instrument",
+    "date": {
+      "start_timestamp": 1665217800,
+      "end_timestamp": 1665225000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/438520781409554/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470040200_592661236875436_7265927911039565696_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YpmzIN9qbAgQ7kNvgH10SjD&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AalStsGnjNiDM_KYeVIa7Zx&oh=00_AYAf7zt4S2yd9nIk5WBowkX3EgRqT1RpRBKkZRrL7JeTPg&oe=67A2BDA1",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  }
+]

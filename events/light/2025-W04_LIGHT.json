@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1134668714736850",
+    "name": "Klassikeren: SIDSTE FORESTILLING // 23. januar - 27. marts // Cinemateket",
+    "date": {
+      "start_timestamp": 1737658800,
+      "end_timestamp": 1738868400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1134668714736850/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473222740_1015397910625570_5194881895549846919_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IG--6CG3ICcQ7kNvgHSkUaM&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AF_XlcIE2rqWdPthebIgOsU&oh=00_AYBDLs9Ruy-8BxzFdQYv4ahDeJqeuUT5J-beuYNL1_d4kw&oe=67A2B0AE",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  }
+]

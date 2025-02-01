@@ -1,0 +1,62 @@
+[
+  {
+    "id": "843099127887696",
+    "name": "MATÉ MATÉ 10-YEAR ANNIVERSARY @ SIGURD CPH",
+    "date": {
+      "start_timestamp": 1727542800,
+      "end_timestamp": 1727575200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurdsgade 39, 2200",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.703812499999984,
+      "longitude": 12.5553125,
+      "bounds_ne_lat": 55.70387499999998,
+      "bounds_ne_lng": 12.555374999999998,
+      "bounds_sw_lat": 55.703749999999985,
+      "bounds_sw_lng": 12.555250000000001,
+      "plus_code_global": "9F7JPH34+G4",
+      "plus_code_local": "PH34+G4",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/843099127887696/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457326030_940015254824553_8868256468735881165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3s1-Za-4DrAQ7kNvgGLVOyC&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AnjSsH0e6OrSzUUtJG3Lyq5&oh=00_AYAH0U70eFUHxgW1Kh8k019UU530c6grxJT4cHCmJF31GA&oe=67A2B48B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
+  },
+  {
+    "id": "426868583839794",
+    "name": "END OF SEASON PARTY",
+    "date": {
+      "start_timestamp": 1727546400,
+      "end_timestamp": 1727575200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Refshalevej 167A, 1432 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69306249999998,
+      "longitude": 12.610062499999984,
+      "bounds_ne_lat": 55.69312499999998,
+      "bounds_ne_lng": 12.610124999999982,
+      "bounds_sw_lat": 55.692999999999984,
+      "bounds_sw_lng": 12.609999999999985,
+      "plus_code_global": "9F7JMJV6+62",
+      "plus_code_local": "MJV6+62",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/426868580506461/?event_time_id=426868583839794",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/459185469_982060843936162_40427392877270687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gcjV6k0CdrcQ7kNvgGKaNUt&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AOLDXDlRb8tHLZYNna7GOja&oh=00_AYAscz6f778PO2hXd_K61V0OY2PTOVOtiB6TjDSCegzIHQ&oe=67A2A066",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Klub Werkstatt",
+    "page_url": "https://www.facebook.com/klubwerkstatt/events"
+  }
+]

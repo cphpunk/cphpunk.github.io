@@ -1,0 +1,32 @@
+[
+  {
+    "id": "382458466252918",
+    "name": "Annual Copenhagen Film Festival",
+    "date": {
+      "start_timestamp": 1603461600,
+      "end_timestamp": 1603573200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/382458466252918/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t1.6435-9/120363677_3518830558177778_3995109246759091293_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2QVC8ed1JrQQ7kNvgERJGml&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=Aa1iCwpW18Gqa0PyJ7a2JmL&oh=00_AYAZfyYWPvvDuSOvdRzNvUU2vaS2Cyr_48UKPXWZRfNHgA&oe=67C44184",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Annual Copenhagen Film Festival",
+    "page_url": "https://www.facebook.com/cphfestival/events"
+  }
+]

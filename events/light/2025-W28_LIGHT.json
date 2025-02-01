@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1681375232480249",
+    "name": "Samara Joy (US) – Copenhagen Jazz Festival 2025",
+    "date": {
+      "start_timestamp": 1752260400,
+      "end_timestamp": 1752267600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "DR Byen - Koncerthuset",
+      "address": "Emil Holms Kanal 20",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.65831250000001,
+      "longitude": 12.590312499999996,
+      "bounds_ne_lat": 55.65837500000001,
+      "bounds_ne_lng": 12.590374999999995,
+      "bounds_sw_lat": 55.65825000000001,
+      "bounds_sw_lng": 12.590249999999997,
+      "plus_code_global": "9F7JMH5R+84",
+      "plus_code_local": "MH5R+84",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1681375232480249/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474546143_1243342517175370_9036912193854480182_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HggQuiiVaPEQ7kNvgEHjVCV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AouQf1z9A-BkE7dE-kZenzp&oh=00_AYBdk-ZobA0aGUAehXP0UUVEo5YbLxjplgB4HDt39K_tNQ&oe=67A2BC27",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Jazz Festival",
+    "page_url": "https://www.facebook.com/cphjazzfestival/events"
+  }
+]

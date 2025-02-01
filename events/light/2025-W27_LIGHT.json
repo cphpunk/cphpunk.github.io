@@ -1,0 +1,32 @@
+[
+  {
+    "id": "535699749195815",
+    "name": "Copenhagen Jazz Festival 2025",
+    "date": {
+      "start_timestamp": 1751637600,
+      "end_timestamp": 1752443940,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "1453 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67981250000001,
+      "longitude": 12.570687500000034,
+      "bounds_ne_lat": 55.67987500000001,
+      "bounds_ne_lng": 12.570750000000032,
+      "bounds_sw_lat": 55.67975000000001,
+      "bounds_sw_lng": 12.570625000000035,
+      "plus_code_global": "9F7JMHHC+W7",
+      "plus_code_local": "MHHC+W7",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/535699749195815/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/462580743_1172049224304700_1937489255537458504_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Y5xnt_a7ZJoQ7kNvgHNe17i&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AgKRg0JBDFbMj9bvH_ZrGZY&oh=00_AYD3PpeR1P75b-4nSM4EA9vYEmTpsvsI1J5W3frdkSK8SQ&oe=67A2BFAB",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Jazz Festival",
+    "page_url": "https://www.facebook.com/cphjazzfestival/events"
+  }
+]

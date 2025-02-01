@@ -1,0 +1,32 @@
+[
+  {
+    "id": "186983550669511",
+    "name": "2 x Record Release - \"Institutional Critique for Kindergarden\" and \"Wasted Judgment\"",
+    "date": {
+      "start_timestamp": 1687006800,
+      "end_timestamp": 1687014000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Polychrome",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.597437499999998,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.597499999999997,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.597375,
+      "plus_code_global": "9F7JMH9W+6X",
+      "plus_code_local": "MH9W+6X",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/186983550669511/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/347246548_729754578951241_3436446039517196857_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gLz_Pp6MjQkQ7kNvgES7_N0&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A0RROQcGJSgHXKaREakErST&oh=00_AYCs5ggiVMBMl6yaiZOFBwC3zeN5O-6zm3Nt0ldUx3gGCw&oe=67A2A238",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Polychrome",
+    "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1803484923734338",
+    "name": "Madboks food distribution - Kalpelvej 44",
+    "date": {
+      "start_timestamp": 1735999200,
+      "end_timestamp": 1736002800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kapelvej 44",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1803484923734338/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/472211437_886648253636456_8371306137996733390_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rPO3_WphmE4Q7kNvgFpK4OA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AErAso2Mp6AueZxMuTXgvto&oh=00_AYDMYXkhqrZMRkAb7YI1Hb9m6OMbCEGuMwvXsYOs_uqKQw&oe=67942EFE",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1147981953608808",
+    "name": "Madboks food distribution 29/12 - Sundholmsvej 28a",
+    "date": {
+      "start_timestamp": 1736085600,
+      "end_timestamp": 1736091000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1147981953608808/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/472627065_887293356905279_1892896452830255478_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jAN4uKkEji8Q7kNvgGS3lHF&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AJlR9p2ZqC9XmQOzpb_QhHw&oh=00_AYArxJ7-N17hl9IyvFUZwii_MGa4GPNsz1ARCGvN29jiSA&oe=679453F6",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  }
+]

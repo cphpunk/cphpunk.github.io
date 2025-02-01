@@ -1,0 +1,272 @@
+[
+  {
+    "id": "542653595371310",
+    "name": "SKIRTS IN WINE CONCERT CONCERT @ HAVEN",
+    "date": {
+      "start_timestamp": 1730480400,
+      "end_timestamp": 1730494800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Sigurdsgade 39, 2200",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.703812499999984,
+      "longitude": 12.5553125,
+      "bounds_ne_lat": 55.70387499999998,
+      "bounds_ne_lng": 12.555374999999998,
+      "bounds_sw_lat": 55.703749999999985,
+      "bounds_sw_lng": 12.555250000000001,
+      "plus_code_global": "9F7JPH34+G4",
+      "plus_code_local": "PH34+G4",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/542653595371310/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/464207931_454051717694733_2184381893997416442_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PLtFwSv10lkQ7kNvgE7xaFg&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A6KLezMcgWhw_FDT0xDT3Ha&oh=00_AYCd191ACAz_HpicNMvJhagiIPJh3NocJwye9OeFZnTuUA&oe=67A2C2B9",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
+  },
+  {
+    "id": "905055131556615",
+    "name": "Jægersborggade Halloween 2024",
+    "date": {
+      "start_timestamp": 1730390400,
+      "end_timestamp": 1730397600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "jægersborggade, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/905055131556615/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/464073116_958136076343821_5936826786709242696_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VprlYxf3fC0Q7kNvgE5Kx9H&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A7AiTGyS6yhAJjbXCcCceXp&oh=00_AYBlk7lp1K0aMSjAcRMNmjzpUWc1s_ZM7HlH2YrrUCUJJQ&oe=67A2AEAB",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "8526044604152273",
+    "name": "Call me Agnes // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1730656800,
+      "end_timestamp": 1730664000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/8526044604152273/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/461587356_1387023848882024_6652863619276559957_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k3LXkGpZQiMQ7kNvgE0cXd7&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AOLdD8PCmz2JvvcF-w3jv89&oh=00_AYA7BcvOyS9QwAjaVLDceHhHnTFPvk1LjcRM3jdHLsK47Q&oe=67A2A994",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "504270142384608",
+    "name": "Norwegian Dream // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1730666700,
+      "end_timestamp": 1730673900,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": "Gothersgade 55",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/504270142384608/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/461478743_1386980525553023_2302904968490468200_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Qr3HXHicK3YQ7kNvgEbyEzF&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ApXgEmumiWYZjpgsz7sUzQk&oh=00_AYC9EDJwQGzTxSFsOhxAV9Apc53yo1dzzgzYbTWVSddPXg&oe=67A2A069",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "9066994463365264",
+    "name": "Otherness // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1730646900,
+      "end_timestamp": 1730654100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "13, Gl. Kongevej 11, 1610 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.674062500000005,
+      "longitude": 12.55843750000001,
+      "bounds_ne_lat": 55.674125000000004,
+      "bounds_ne_lng": 12.55850000000001,
+      "bounds_sw_lat": 55.67400000000001,
+      "bounds_sw_lng": 12.558375000000012,
+      "plus_code_global": "9F7JMHF5+J9",
+      "plus_code_local": "MHF5+J9",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/9066994463365264/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/462533854_1396483661269376_5239188406065439089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-15ij5JLEOUQ7kNvgH11LOg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AF0n8Kw5v8Y0EDT7Ui8hsAl&oh=00_AYA1_miaDUUl-ykywwA4kEHMLiV2NSAYeCb2F6o_LuvTBQ&oe=67A2C523",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "549035310862585",
+    "name": "This Is How We Do It “10 Year Anniversary” // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1730665800,
+      "end_timestamp": 1730673000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/549035310862585/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/462628065_1396494314601644_135510787551266242_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EkBYra1oWgEQ7kNvgF34zzX&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AIOT7uN5svDBrq3c2-jYWgm&oh=00_AYCf-bOGV8-ZDOeW-kNoLTaEYEfQn4fxITBMsW1SP8Uurw&oe=67A2BB1A",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "510826225142017",
+    "name": "Malanova // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1730580300,
+      "end_timestamp": 1730587500,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/510826225142017/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/461484714_1386958422221900_7982656120949686335_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xjqJH__qnX4Q7kNvgGEeCZb&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AAXfmKOQDvSzmhBUB2VuBRE&oh=00_AYAAS-4aF-nQ4ZPV4NXPDGX311iKSHH-3_j8fVET9ebeeg&oe=67A2D464",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "3947743382120909",
+    "name": "Luise // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1730658600,
+      "end_timestamp": 1730665800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3947743382120909/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/461331420_1387091612208581_7706558371733938254_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mRJS3mtxjhgQ7kNvgHYsci7&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AvViuOoz9PQUcamAtvsYJte&oh=00_AYBwAbHhGu-KmyvmMpUOI25sL4FQ9KGqsKB_K_JbVQNSrw&oe=67A29CDF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "566455532718893",
+    "name": "What Happens to Dreams Deferred? // MIX CPH 2024",
+    "date": {
+      "start_timestamp": 1730647800,
+      "end_timestamp": 1730655000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": "Gothersgade 55",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/566455532718893/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/462676988_1397357004515375_8591700072537640170_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LBgG79CxrTYQ7kNvgH2PooR&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A0kP5TqhNRNpB-cNCfveBFi&oh=00_AYBygHhJJLtZ3yKrvaXy2YI_KQ0u3UQHd_1sMo7G5WUn3w&oe=67A2CEB7",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  }
+]

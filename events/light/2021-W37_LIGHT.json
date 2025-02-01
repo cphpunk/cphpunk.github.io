@@ -1,0 +1,32 @@
+[
+  {
+    "id": "357557395932568",
+    "name": "TechBBQ 2021",
+    "date": {
+      "start_timestamp": 1631775600,
+      "end_timestamp": 1631890800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Øksnehallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66943750000003,
+      "longitude": 12.56206250000001,
+      "bounds_ne_lat": 55.66950000000003,
+      "bounds_ne_lng": 12.562125000000009,
+      "bounds_sw_lat": 55.66937500000003,
+      "bounds_sw_lng": 12.562000000000012,
+      "plus_code_global": "9F7JMH96+QR",
+      "plus_code_local": "MH96+QR",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/357557395932568/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470187115_8623211917777237_7746078661005034763_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=V9f-N0VqZKYQ7kNvgEyGxgW&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AWzdjVf7K4lqb7LEzlyAAYT&oh=00_AYAll4nsT8Jq3PlvbtCpkQJuMq1m1nEjqRhHXGQ0_aQOLQ&oe=67A2B8F6",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "TechBBQ",
+    "page_url": "https://www.facebook.com/TechBBQ/events"
+  }
+]

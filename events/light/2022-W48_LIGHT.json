@@ -1,0 +1,122 @@
+[
+  {
+    "id": "526594532383289",
+    "name": "Blue Lake and Halvcirkel/Anders Lauge Meldgaard live at Koncertkirken",
+    "date": {
+      "start_timestamp": 1670004000,
+      "end_timestamp": 1670011200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "KoncertKirken",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68681249999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.686874999999986,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68674999999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+P3",
+      "plus_code_local": "MHP5+P3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/526594532383289/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/316947036_607384347854932_1626515575213458155_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iC397jopwckQ7kNvgFpxaW3&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AvItO8BDoV6lhEIEFM8bD2v&oh=00_AYBiUiwS6bja9LzG-CsdGPyHySMGrVp3j1zig2O7Lx0rMA&oe=67A2B734",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Polychrome",
+    "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
+  },
+  {
+    "id": "638986984596752",
+    "name": "Pitstop #6 Musik & Mod",
+    "date": {
+      "start_timestamp": 1670092200,
+      "end_timestamp": 1670099400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Støddæmperen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.707312499999986,
+      "longitude": 12.524687500000013,
+      "bounds_ne_lat": 55.707374999999985,
+      "bounds_ne_lng": 12.524750000000012,
+      "bounds_sw_lat": 55.70724999999999,
+      "bounds_sw_lng": 12.524625000000015,
+      "plus_code_global": "9F7JPG4F+WV",
+      "plus_code_local": "PG4F+WV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/638986984596752/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/472911624_616846661017775_7198718991440262545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8l-_j9rE6YMQ7kNvgG7lKc6&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AhLofDITvIV8ZU6HMO1l5YU&oh=00_AYCshDA-D6plaKvmT6MAs2TKQnn4C0gOXatLkgWyEu7u4A&oe=67A2A3A8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Støddæmperen",
+    "page_url": "https://www.facebook.com/StoedNV/events"
+  },
+  {
+    "id": "830424838172064",
+    "name": "Friske nåle og monitor plademesse",
+    "date": {
+      "start_timestamp": 1670158800,
+      "end_timestamp": 1670169600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Støddæmperen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.707312499999986,
+      "longitude": 12.524687500000013,
+      "bounds_ne_lat": 55.707374999999985,
+      "bounds_ne_lng": 12.524750000000012,
+      "bounds_sw_lat": 55.70724999999999,
+      "bounds_sw_lng": 12.524625000000015,
+      "plus_code_global": "9F7JPG4F+WV",
+      "plus_code_local": "PG4F+WV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/830424838172064/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/316530625_657197692809040_6716933864808048242_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BYkxf7v5WecQ7kNvgGipdqe&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AQIBuAgziYTIj4gc6_nBc9r&oh=00_AYAlwyU6FY2U0kMUsLIzINAGtthOQH_iVfxjXBRgeuL9YQ&oe=67A2B889",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Støddæmperen",
+    "page_url": "https://www.facebook.com/StoedNV/events"
+  },
+  {
+    "id": "2204517369730029",
+    "name": "Blå Minder på Støddæmperen",
+    "date": {
+      "start_timestamp": 1670004000,
+      "end_timestamp": 1670011200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Støddæmperen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.707312499999986,
+      "longitude": 12.524687500000013,
+      "bounds_ne_lat": 55.707374999999985,
+      "bounds_ne_lng": 12.524750000000012,
+      "bounds_sw_lat": 55.70724999999999,
+      "bounds_sw_lng": 12.524625000000015,
+      "plus_code_global": "9F7JPG4F+WV",
+      "plus_code_local": "PG4F+WV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2204517369730029/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/315416570_556209023179925_149187719077561205_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8PMUo3-_2acQ7kNvgEDaevy&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AAVwmI6uK2DiSgJ2D5ab2qv&oh=00_AYDtDw-ajDZ1rN6uqUXXLVsPuTz8_aTUzgBXm8LOZBdDGg&oe=67A2B27A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Støddæmperen",
+    "page_url": "https://www.facebook.com/StoedNV/events"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "6788305931294639",
+    "name": "JUNKO // DUSTBREEDERS // TOMMI KERÄNEN",
+    "date": {
+      "start_timestamp": 1711220400,
+      "end_timestamp": 1711227600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mayhem KBH",
+      "address": "Ragnhildgade 1",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/6788305931294639/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/428452012_909555484199828_7291423105312640404_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bhG09RvTWwsQ7kNvgEgFO2O&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AyvV8QDJAAAW3qL9m0pB_ri&oh=00_AYDeZq59rW64Jp3MJl215MSIgGkKnZKHKZ0n-RcHc-Yhmg&oe=67A2CA80",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
+  }
+]

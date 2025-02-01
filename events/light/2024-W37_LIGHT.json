@@ -1,0 +1,212 @@
+[
+  {
+    "id": "443407311628913",
+    "name": "BRAINBOMBS, support: slippery transgressions  ! SOLD OUT!",
+    "date": {
+      "start_timestamp": 1726340400,
+      "end_timestamp": 1726347600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Mayhem KBH",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/443407311628913/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/443734844_972167867937407_145934615872640973_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BDP-I2YS4wQQ7kNvgFfQZts&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A3ANHj_vZ7OfoaiZ8pMMlzJ&oh=00_AYCxMYo2nyti-BhP7qwJ9OZ6IwXiPn0I60SaWHqeoxRYpQ&oe=67A2BBB6",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
+  },
+  {
+    "id": "476092015327069",
+    "name": "SILK ROAD VOL. 2 @ HAVEN",
+    "date": {
+      "start_timestamp": 1726239600,
+      "end_timestamp": 1726261200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurd CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70368749999999,
+      "longitude": 12.555187500000002,
+      "bounds_ne_lat": 55.703749999999985,
+      "bounds_ne_lng": 12.555250000000001,
+      "bounds_sw_lat": 55.70362499999999,
+      "bounds_sw_lng": 12.555125000000004,
+      "plus_code_global": "9F7JPH34+F3",
+      "plus_code_local": "PH34+F3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/476092015327069/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/457175579_414354641664441_9106371360193576162_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Sh66-0_TB0IQ7kNvgGefY2Q&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AMHByPTb2OKcKNRgv8gvZg-&oh=00_AYB9IX6JK9vDK4v7CmkXvKKnlPG8gFSDgK4L3n5Ql85QnQ&oe=67A2C6B1",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
+  },
+  {
+    "id": "379681408339301",
+    "name": "KLUB WERKSTATT: DINGO TRACKS // WILLE // DJ LUKEY",
+    "date": {
+      "start_timestamp": 1726336800,
+      "end_timestamp": 1726344000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Refshalevej 167A, 1432 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69306249999998,
+      "longitude": 12.610062499999984,
+      "bounds_ne_lat": 55.69312499999998,
+      "bounds_ne_lng": 12.610124999999982,
+      "bounds_sw_lat": 55.692999999999984,
+      "bounds_sw_lng": 12.609999999999985,
+      "plus_code_global": "9F7JMJV6+62",
+      "plus_code_local": "MJV6+62",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/379681408339301/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/458427192_977797771029136_5694748852402542439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wrpPjMpmYywQ7kNvgGJW_vX&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=APBNJUmYIacDMwBxjknn_1l&oh=00_AYAKJdRd4GwoRBmaAYd0vLBh67xPrpyv4T2yjRxfA42M8g&oe=67A2ACCC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Klub Werkstatt",
+    "page_url": "https://www.facebook.com/klubwerkstatt/events"
+  },
+  {
+    "id": "892555292713675",
+    "name": "KLUB WERKSTATT: LOFT GROOVE",
+    "date": {
+      "start_timestamp": 1726250400,
+      "end_timestamp": 1726257600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Refshalevej 167A, 1432 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69306249999998,
+      "longitude": 12.610062499999984,
+      "bounds_ne_lat": 55.69312499999998,
+      "bounds_ne_lng": 12.610124999999982,
+      "bounds_sw_lat": 55.692999999999984,
+      "bounds_sw_lng": 12.609999999999985,
+      "plus_code_global": "9F7JMJV6+62",
+      "plus_code_local": "MJV6+62",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/892555292713675/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/456570478_968745815267665_611323563548376714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Zj3TZhfXK90Q7kNvgGgMRq3&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AZQIyWBrv7-PWS4in0p2UBG&oh=00_AYCQcYdIqu0D3-ZDCYLjc1IJn72ow-yKBPGgZ6ww14Akow&oe=67A2C5ED",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Klub Werkstatt",
+    "page_url": "https://www.facebook.com/klubwerkstatt/events"
+  },
+  {
+    "id": "365012729996649",
+    "name": "Jægersborggade Loppemarked",
+    "date": {
+      "start_timestamp": 1726387200,
+      "end_timestamp": 1726408800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Jægersborggade",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/365012729996649/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/458123555_922507443240018_7603763758779769567_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dbxoO6NC0uMQ7kNvgERZlpN&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ApaH9Xh3hUxUFHviDoKh5wV&oh=00_AYDeSEPgsivwrHq3Rq0we5Yx_aSiod-LGqnhYKsZRn_p8g&oe=67A2ABDF",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "1553984278691377",
+    "name": "TechBBQ 2024",
+    "date": {
+      "start_timestamp": 1726038000,
+      "end_timestamp": 1726045200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Lokomotivværkstedet",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.659687500000004,
+      "longitude": 12.549187500000002,
+      "bounds_ne_lat": 55.65975,
+      "bounds_ne_lng": 12.54925,
+      "bounds_sw_lat": 55.659625000000005,
+      "bounds_sw_lng": 12.549125000000004,
+      "plus_code_global": "9F7JMG5X+VM",
+      "plus_code_local": "MG5X+VM",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1553984278691377/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/421888482_777844984369452_8772361694335623535_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I75q5LK6BEsQ7kNvgHdygrb&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A1aNT9bJtED7zkCZpyRbGuK&oh=00_AYAhjW0jaTwm0hxdi6jIu2cnmym06EukNK97n6_qZ_uQfQ&oe=67A2BBBE",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "TechBBQ",
+    "page_url": "https://www.facebook.com/TechBBQ/events"
+  },
+  {
+    "id": "1543349583263454",
+    "name": "Nordic India Startup Summit by TechBBQ & ICDK",
+    "date": {
+      "start_timestamp": 1725865200,
+      "end_timestamp": 1725901200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Matrikel1",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6779375,
+      "longitude": 12.579562500000023,
+      "bounds_ne_lat": 55.678,
+      "bounds_ne_lng": 12.579625000000021,
+      "bounds_sw_lat": 55.677875,
+      "bounds_sw_lng": 12.579500000000024,
+      "plus_code_global": "9F7JMHHH+5R",
+      "plus_code_local": "MHHH+5R",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1543349583263454/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/453484361_899029562250993_1762914546109207053_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0rUWpCE4V3wQ7kNvgGplxPP&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AJHapRd9EanG8wevCxua2D8&oh=00_AYDyZAu52AwwtxNPRMgMctUqCa2Of_CX06Ig_xs4y2zsKg&oe=67A2D178",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "TechBBQ",
+    "page_url": "https://www.facebook.com/TechBBQ/events"
+  }
+]

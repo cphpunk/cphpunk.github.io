@@ -1,0 +1,332 @@
+[
+  {
+    "id": "2321658198182722",
+    "name": "ACS / TELLER / SCHNEIDERMAN / PIPALUK+      - DRY SKULL DREAMS - FAMILY UNDERGROUND",
+    "date": {
+      "start_timestamp": 1728324000,
+      "end_timestamp": 1728331200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Mayhem Kbh",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2321658198182722/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/461593934_1194789405043245_3958747232115198143_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OTo-2eR1_qwQ7kNvgFFYyKf&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AVMV1G-Ri6sEXHNOHMCfh5Z&oh=00_AYCgdUBgyHUFB3w3XViGD9xZx6IpiovpajRUgh9Fd9MCBA&oe=67A2AB84",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
+  },
+  {
+    "id": "1176372730076570",
+    "name": "Resonans Fringe Festival: Wild Pink [US] + Support: M.Byrd [DE] + Dusk Rituals",
+    "date": {
+      "start_timestamp": 1728756000,
+      "end_timestamp": 1728777600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Spillestedet Stengade",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68831250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.68837500000001,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.68825000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHQ4+87",
+      "plus_code_local": "MHQ4+87",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1176372730076570/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/453070444_875559104603370_3505121474902358701_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=E_MjkQaFCO4Q7kNvgHjU-nb&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ACShZuCllsMVgEN06UfCxLY&oh=00_AYCwXbPNZDQ92uoDRdH-sAwBk6QYFJL7kpGwgnTrBp4uzw&oe=67A2C026",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "487552184149392",
+    "name": "Resonans Fringe Festival: The Tremolo Beer Gut + Special Guests: MAG [SE] + DJ Christian Pallin [SE]",
+    "date": {
+      "start_timestamp": 1728583200,
+      "end_timestamp": 1728597540,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Spillestedet Stengade",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68831250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.68837500000001,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.68825000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHQ4+87",
+      "plus_code_local": "MHQ4+87",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/487552184149392/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/459982769_910036097822337_5681000382026797129_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DCQvIzTb19QQ7kNvgFUHOJ4&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=At4XfP7XYHiTozT0kk3Bi-q&oh=00_AYAsGJey7EF-dQ1rE8BHS9JOu0zYGEaZFmnPvYRiEIFi2g&oe=67A2B178",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "1043531517148413",
+    "name": "NATURE & CULTURE: International Poetry Film Festival. (RESONANS day 6)",
+    "date": {
+      "start_timestamp": 1728813600,
+      "end_timestamp": 1728820800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1043531517148413/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/451324220_1079783834149129_4070152119751733606_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SatkmMd59pwQ7kNvgGOjR02&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Aq7IoHOhm8yYwitc_rei2Vw&oh=00_AYDftw30GfrkLKT_8aSU4nN8t45wrA0OiIOAtApq4b7Eeg&oe=67A2CA9E",
+    "tag": "CULTURE",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "1972134899885590",
+    "name": "The Last Stop in Heaven / La última parada del cielo: Exhibiton by Jose Osorio / SQUATTERS film ",
+    "date": {
+      "start_timestamp": 1728640800,
+      "end_timestamp": 1728648000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Møllegade 21A, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69156249999999,
+      "longitude": 12.556812499999992,
+      "bounds_ne_lat": 55.69162499999999,
+      "bounds_ne_lng": 12.556874999999991,
+      "bounds_sw_lat": 55.69149999999999,
+      "bounds_sw_lng": 12.556749999999994,
+      "plus_code_global": "9F7JMHR4+JP",
+      "plus_code_local": "MHR4+JP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1972134899885590/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/452354294_1083908623736650_3704582282193232282_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nT0PkA624psQ7kNvgFIJ-fy&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AdKQztJ-uSM3XoZ5eIhkD-B&oh=00_AYDvtoqZTmI6Lms1GNQtLs8jo6dIS1sX3M51WwccE_fH9A&oe=67A2CDDF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "462637786743446",
+    "name": "In Search of Essence",
+    "date": {
+      "start_timestamp": 1728727200,
+      "end_timestamp": 1728734400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "LiteraturHaus",
+      "address": "Møllegade 7",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.69081250000001,
+      "longitude": 12.555562499999994,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555624999999992,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.555499999999995,
+      "plus_code_global": "9F7JMHR4+86",
+      "plus_code_local": "MHR4+86",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/462637786743446/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460215407_122185040498196821_760013300519114754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8oRyN4ubLHgQ7kNvgFT-tz8&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Amsm-7z4AafgGkAyI2zR2Op&oh=00_AYAyCQIhi7eeOmZ--IkMoCW2lGnNeta23ndjISAYsP2l1g&oe=67A2CB43",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "1030779088393555",
+    "name": "RESONANS FRINGE - Day 3: Experimental music and visual art",
+    "date": {
+      "start_timestamp": 1728565200,
+      "end_timestamp": 1728576000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "ART LAB 21",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69156249999999,
+      "longitude": 12.556812499999992,
+      "bounds_ne_lat": 55.69162499999999,
+      "bounds_ne_lng": 12.556874999999991,
+      "bounds_sw_lat": 55.69149999999999,
+      "bounds_sw_lng": 12.556749999999994,
+      "plus_code_global": "9F7JMHR4+JP",
+      "plus_code_local": "MHR4+JP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1030779088393555/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/453650869_1091332792994233_3805917231011378264_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZUvkv8zbJuEQ7kNvgHzA8bc&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A_DrULXZ75BbX3KVqA-xKC-&oh=00_AYDPyhDnEVCWWexuRiJLNAGpgaABvJKFXHdgqEaZd6Jz4w&oe=67A2B386",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "511437307945992",
+    "name": "RESONANS ER OS - KULTURNATTEN i Møllegade",
+    "date": {
+      "start_timestamp": 1728651600,
+      "end_timestamp": 1728683940,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Møllegade, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6923125,
+      "longitude": 12.558187500000017,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.558250000000015,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.558125000000018,
+      "plus_code_global": "9F7JMHR5+W7",
+      "plus_code_local": "MHR5+W7",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/511437307945992/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/452203984_1083390507121795_8914393207737786809_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sKxWkz3S1vEQ7kNvgHTidaZ&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A4oLsi5Q--sRIFJdq_HTrHg&oh=00_AYCOCYEdw3dzDi3EfUrd-kOz4pTIEPcWtqYIK00c49KoRw&oe=67A29EBA",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "1561988407726012",
+    "name": "Bound Beat: Bookfair  - RESONANS FRINGE Day 5 (Oct 12)",
+    "date": {
+      "start_timestamp": 1728727200,
+      "end_timestamp": 1728752400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "LiteraturHaus",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69081250000001,
+      "longitude": 12.555562499999994,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555624999999992,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.555499999999995,
+      "plus_code_global": "9F7JMHR4+86",
+      "plus_code_local": "MHR4+86",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1561988407726012/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/462789715_10103067219839058_282849054239898457_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RYlIb1Eczm8Q7kNvgHmVnr2&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ApFK5x5WBd8nSK71f5eEXUM&oh=00_AYCkLDeXNdIACzfFXZPGjNGjku7q4alKf1fKRz_5QZBX2w&oe=67A2CA7A",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Resonans Fringe",
+    "page_url": "https://www.facebook.com/resonans.fringe/events"
+  },
+  {
+    "id": "495177719989860",
+    "name": "Annual Copenhagen Film Festival 2024 ",
+    "date": {
+      "start_timestamp": 1728664200,
+      "end_timestamp": 1728849600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/495177719989860/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460121101_1338204664001816_9201973349411644057_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6KWNK4Ffxx0Q7kNvgHhziiF&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AC8bRlofWeYRocWYK7Y1KM3&oh=00_AYAxmnY7O0ynJ7_kUZQj34s9Yqza4jGidTFV6mtZASHqxw&oe=67A2B693",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Annual Copenhagen Film Festival",
+    "page_url": "https://www.facebook.com/cphfestival/events"
+  },
+  {
+    "id": "296194310238276",
+    "name": "Kulturnatten 2024",
+    "date": {
+      "start_timestamp": 1728662400,
+      "end_timestamp": 1728669600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/296194310238276/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/448041260_1007949964224142_3244545266436456325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=E76-cZDYv_EQ7kNvgFzjLYK&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AsmBoR4KKYBOr9fYy7cteZ3&oh=00_AYDRk1gNJf7j3nCJf53_OMrbeId9bH5-wgP7LVip2_QUbw&oe=67A2A199",
+    "tag": "CULTURE",
+    "platform": "Facebook",
+    "page_name": "Kulturnatten",
+    "page_url": "https://www.facebook.com/Kulturnatten/events"
+  }
+]

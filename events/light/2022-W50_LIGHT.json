@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5319133884859033",
+    "name": "Dansktop På Speed i Støddæmperen",
+    "date": {
+      "start_timestamp": 1671217200,
+      "end_timestamp": 1671224400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Støddæmperen",
+      "address": "Rentemestervej 57",
+      "city": "",
+      "country": "DK",
+      "latitude": 55.707312499999986,
+      "longitude": 12.524687500000013,
+      "bounds_ne_lat": 55.707374999999985,
+      "bounds_ne_lng": 12.524750000000012,
+      "bounds_sw_lat": 55.70724999999999,
+      "bounds_sw_lng": 12.524625000000015,
+      "plus_code_global": "9F7JPG4F+WV",
+      "plus_code_local": "PG4F+WV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/5319133884859033/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/318774140_822803385492770_1341027254297677888_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cZXFWVSZ3NkQ7kNvgH0YY4A&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Amvds-2qDZD_mnk2snHF1Ky&oh=00_AYAP8bjg_TOBI28am2nOwRexK2J8Q1D96tVOMJ7SgoGcvw&oe=67A2BEB5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Støddæmperen",
+    "page_url": "https://www.facebook.com/StoedNV/events"
+  },
+  {
+    "id": "867566271044992",
+    "name": "All beauty must die - Tak for nu fest",
+    "date": {
+      "start_timestamp": 1671282000,
+      "end_timestamp": 1671289200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Støddæmperen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.707312499999986,
+      "longitude": 12.524687500000013,
+      "bounds_ne_lat": 55.707374999999985,
+      "bounds_ne_lng": 12.524750000000012,
+      "bounds_sw_lat": 55.70724999999999,
+      "bounds_sw_lng": 12.524625000000015,
+      "plus_code_global": "9F7JPG4F+WV",
+      "plus_code_local": "PG4F+WV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/867566271044992/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/316057926_657221262806683_1691852386417926134_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vummwHneHZYQ7kNvgFD322w&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AmR5qYmUg8wszZUzFKRMMuI&oh=00_AYCsAF4CppwvlyTSqgQKghVr6c_JLy5r7LoipmVSef2b5Q&oe=67A2BB66",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Støddæmperen",
+    "page_url": "https://www.facebook.com/StoedNV/events"
+  }
+]

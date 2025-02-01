@@ -1,0 +1,362 @@
+[
+  {
+    "id": "899043502275893",
+    "name": "VINCENT WOOD RELEASE PARTY @ HAVEN",
+    "date": {
+      "start_timestamp": 1726851600,
+      "end_timestamp": 1726866000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurd CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70368749999999,
+      "longitude": 12.555187500000002,
+      "bounds_ne_lat": 55.703749999999985,
+      "bounds_ne_lng": 12.555250000000001,
+      "bounds_sw_lat": 55.70362499999999,
+      "bounds_sw_lng": 12.555125000000004,
+      "plus_code_global": "9F7JPH34+F3",
+      "plus_code_local": "PH34+F3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/899043502275893/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/458286099_418375361262369_471413757205138900_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hcbZ3u_1vo8Q7kNvgHhn0IV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A7jswXjKRQQlSux-d5Sx-6I&oh=00_AYCs2LUC4pCTTYD0nYkIe1EwJF3pPNYeKBCW1pNhYwLwEQ&oe=67A2AB27",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
+  },
+  {
+    "id": "539203848580265",
+    "name": "KLUB WERKSTATT PRESENTS CRAZY C & FRIENDS",
+    "date": {
+      "start_timestamp": 1726941600,
+      "end_timestamp": 1726948800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Refshalevej 167A, 1432 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69306249999998,
+      "longitude": 12.610062499999984,
+      "bounds_ne_lat": 55.69312499999998,
+      "bounds_ne_lng": 12.610124999999982,
+      "bounds_sw_lat": 55.692999999999984,
+      "bounds_sw_lng": 12.609999999999985,
+      "plus_code_global": "9F7JMJV6+62",
+      "plus_code_local": "MJV6+62",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/539203848580265/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/459355172_982591847216395_700937214564243559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=weIS5RUuT1IQ7kNvgFQx8EX&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AmspD6abSvZc6KUKtjh9HcU&oh=00_AYD6YvdjwRY6pfqvIR3QFDkkUs9_RKIGxUV_gugfVQL5Iw&oe=67A2A5D5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Klub Werkstatt",
+    "page_url": "https://www.facebook.com/klubwerkstatt/events"
+  },
+  {
+    "id": "2573844716136207",
+    "name": "BACKYARD STREET FOOD PARTY x KLUB WERKSTATT",
+    "date": {
+      "start_timestamp": 1726844400,
+      "end_timestamp": 1726851600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Refshalevej 167A, 1432 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69306249999998,
+      "longitude": 12.610062499999984,
+      "bounds_ne_lat": 55.69312499999998,
+      "bounds_ne_lng": 12.610124999999982,
+      "bounds_sw_lat": 55.692999999999984,
+      "bounds_sw_lng": 12.609999999999985,
+      "plus_code_global": "9F7JMJV6+62",
+      "plus_code_local": "MJV6+62",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2573844716136207/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/458452745_979251297550450_2823730992004926099_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aTCY3AHSEHcQ7kNvgGyo6CP&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AOZkuJKic_XcYAPXLGhf2st&oh=00_AYCSpwGauwJHeAVV9PMPo3BsEX7R5SkJpmMa18zv9agXkQ&oe=67A2AE09",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Klub Werkstatt",
+    "page_url": "https://www.facebook.com/klubwerkstatt/events"
+  },
+  {
+    "id": "1417412395609944",
+    "name": "FATBOY SLIM: RIGHT HERE, RIGHT NOW // Musikfilm Festivalen 2024 // Cinemateket",
+    "date": {
+      "start_timestamp": 1727024400,
+      "end_timestamp": 1727031600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1417412395609944/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/456961595_912595217572507_3526292631780399639_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aqv9bCMwmooQ7kNvgGNZ03R&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AXOGa9badBz32AfcJKqmihH&oh=00_AYBp0q4ddTx3Ir_sQXOAmGSvvSNYRdhSN_O8jsOm06DbGg&oe=67A2B969",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "1856579411498128",
+    "name": "JANIS // Musikfilm Festivalen 2024 // Cinemateket",
+    "date": {
+      "start_timestamp": 1727015400,
+      "end_timestamp": 1727022600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1856579411498128/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457231412_912497070915655_823642012317299836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6MQbYDbA7yEQ7kNvgHVddWg&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AbJlolD3KlZMurUYyBFesZs&oh=00_AYDJ-G1wAfjF7ruKyHgw4SJugsGzAd43vlzhVZIPKUVpag&oe=67A2BAF5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "875115751208755",
+    "name": "SCREAM OF MY BLOOD: A GOGOL BORDELLO STORY // Musikfilm Festivalen 2024 // Cinemateket",
+    "date": {
+      "start_timestamp": 1727023500,
+      "end_timestamp": 1727030700,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/875115751208755/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457409181_912530287579000_8898328722644191035_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=daxgqlzy09EQ7kNvgELullv&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AEuusnznoBd7K1xDhi2MGuf&oh=00_AYApF-VHxP_xFW5F7AZgPnYNH-ju7h2OfsRzg0tnbjomGg&oe=67A2CA5D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "1244732930283257",
+    "name": "LET THE CANARY SING - CYNDI LAUPER // Musikfilm Festivalen 2024 // Cinemateket",
+    "date": {
+      "start_timestamp": 1726936200,
+      "end_timestamp": 1726943400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1244732930283257/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/457138872_911737934324902_8784099316050360143_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Of1eq3iLo7YQ7kNvgGump65&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ALqmwp5kJu4b43JrMsxRP7j&oh=00_AYCWNGdSU_vd8TXNzDOQGw1dCGshsXA3f_D9gy1gmQ7Qkw&oe=67A2B3EA",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "2254654494869127",
+    "name": "OMAR AND CEDRIC: IF THIS EVER GETS WEIRD // Musikfilm Festivalen 2024 // Cinemateket",
+    "date": {
+      "start_timestamp": 1726944300,
+      "end_timestamp": 1726951500,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/2254654494869127/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/457016663_911773290988033_8789847420674023193_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bos0ZWp2SfIQ7kNvgG8g_3X&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8NMdQkJwlNLvKTCdmqgkdX&oh=00_AYDmUoeKO2gE2TT7HFRwWdAJCH7Hn8fhG28CewvxxCq2Hg&oe=67A2C036",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "1186538319222318",
+    "name": "VIVA EDY! med livemusik og bar  // Musikfilm Festivalen 2024 // Cinemateket",
+    "date": {
+      "start_timestamp": 1726929000,
+      "end_timestamp": 1726936200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1186538319222318/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/457267768_911703787661650_4058637911929117247_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CzZHPRJxNqsQ7kNvgF-TbfG&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=Aww7inFwDGS3XAY2FIWAu_p&oh=00_AYAtcalfCMj5IEBa8nlNE9HfwuOCxOwDOkUmjTd19IF_3A&oe=67A29E4D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "1232156177731285",
+    "name": "NORTH CIRCULAR: A MUSIC TRIP THROUGH DUBLIN’S NORTH INNER CITY // MusikfilmFestivalen // Cinemateket",
+    "date": {
+      "start_timestamp": 1726859700,
+      "end_timestamp": 1726866900,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1232156177731285/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/456616948_911053924393303_8487055516754229107_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QaSTTvIq8xgQ7kNvgFtGxJm&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Ay0TIzYLhgCakhKFZ7VSEMI&oh=00_AYDfthMjICjns0yU1K0KCeDQBA5HaP7o4w70YgPtH1S4pw&oe=67A2B6D5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "1498954318166430",
+    "name": "ETT HJÄRTA ÄR ALLTID RÖTT + THÅSTRÖM SPECIAL MED INTRO // Musikfilm Festivalen 2024 // Cinemateket",
+    "date": {
+      "start_timestamp": 1726920000,
+      "end_timestamp": 1726927200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1498954318166430/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/457247852_911123291053033_4743050594451144912_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wznq_yjTkuoQ7kNvgGQnYg6&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8GZOCFb4Yi_KcMYH2nMTjz&oh=00_AYBtkPNButNeY-aa4ga4F_KX3pbPODH-dEKWZliOfEr9yA&oe=67A2A7C5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musikfilm Festivalen",
+    "page_url": "https://www.facebook.com/musikfilmfestivalen/events"
+  },
+  {
+    "id": "569507788966570",
+    "name": "BUSTER I NATUREN - Festival for børn på Amager Fælled 💚",
+    "date": {
+      "start_timestamp": 1726902000,
+      "end_timestamp": 1727013600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Artillerivej 167, 2300 København S, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65331250000001,
+      "longitude": 12.56843750000003,
+      "bounds_ne_lat": 55.65337500000001,
+      "bounds_ne_lng": 12.568500000000029,
+      "bounds_sw_lat": 55.653250000000014,
+      "bounds_sw_lng": 12.568375000000032,
+      "plus_code_global": "9F7JMH39+89",
+      "plus_code_local": "MH39+89",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/569507788966570/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457475900_1035406581919608_6493665926679500046_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GWpmLxxkBQUQ7kNvgGM19s5&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Ao6h6UzjuSivfDQAlhBEf-b&oh=00_AYAoyFEw9tdiX73mdvrefRr1LmkAp4ClUqXAGaFxHZuBIA&oe=67A2BF5C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  }
+]

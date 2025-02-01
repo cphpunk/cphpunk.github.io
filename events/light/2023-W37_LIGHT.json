@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1158430628377768",
+    "name": "TechBBQ 2023",
+    "date": {
+      "start_timestamp": 1694592000,
+      "end_timestamp": 1694710800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Lokomotivværkstedet",
+      "address": "Otto Bussesvej 5A",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.659687500000004,
+      "longitude": 12.549187500000002,
+      "bounds_ne_lat": 55.65975,
+      "bounds_ne_lng": 12.54925,
+      "bounds_sw_lat": 55.659625000000005,
+      "bounds_sw_lng": 12.549125000000004,
+      "plus_code_global": "9F7JMG5X+VM",
+      "plus_code_local": "MG5X+VM",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1158430628377768/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/326509449_620691586489317_965143373824616952_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RK8bcdAqgc8Q7kNvgF_Z3un&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AkYnncjJ8BoEbVUVxjkTxlR&oh=00_AYAx15sln6WGaJI5lDeEq_mhbnnPXwTjwrjUxRPhE_pcuQ&oe=67A2C418",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "TechBBQ",
+    "page_url": "https://www.facebook.com/TechBBQ/events"
+  }
+]
