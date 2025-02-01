@@ -1,5 +1,6 @@
 import { renderSite } from './render.js';
 import { setVenueEnabled, enableAllVenues, disableAllVenues } from './filters.js';
+import { DOM_IDS, DOM_CLASSES } from './constants.js';
 
 /*
 * This module handles all user interactions with the UI elements.
@@ -14,14 +15,14 @@ export function registerInteractions() {
 }
 
 function registerInfoModalInteraction() {
-  const infoButton = document.getElementById('infoButton');
-  const infoModal  = document.getElementById('infoModal');
+  const infoButton = document.getElementById(DOM_IDS.INFO_BUTTON);
+  const infoModal = document.getElementById(DOM_IDS.INFO_MODAL);
 
   console.assert(infoButton, 'Info button not found');
   console.assert(infoModal, 'Info modal not found');
 
-  const infoCloseButton = infoModal.querySelector('.close');
-  const infoModalContent = infoModal.querySelector('.modal-content');
+  const infoCloseButton = infoModal.querySelector(`.${DOM_CLASSES.MODAL_CLOSE}`);
+  const infoModalContent = infoModal.querySelector(`.${DOM_CLASSES.MODAL_CONTENT}`);
 
   infoButton.addEventListener('click', () => {
     infoModal.style.display = 'block';
@@ -69,7 +70,7 @@ function registerInfoModalInteraction() {
 * This includes individual venue toggles and the enable/disable all buttons.
 */
 function registerVenueFiltersInteraction() {
-  const container = document.getElementById('venueList');
+  const container = document.getElementById(DOM_IDS.VENUE_LIST);
 
   console.assert(container, "venueList not found");
 
@@ -80,11 +81,11 @@ function registerVenueFiltersInteraction() {
     });
   });
 
-  document.querySelectorAll('#enableAllVenues').forEach(button => {
+  document.querySelectorAll(`#${DOM_IDS.ENABLE_ALL_VENUES}`).forEach(button => {
     button.addEventListener('click', onEnableAllClick);
   });
 
-  document.querySelectorAll('#disableAllVenues').forEach(button => {
+  document.querySelectorAll(`#${DOM_IDS.DISABLE_ALL_VENUES}`).forEach(button => {
     button.addEventListener('click', onDisableAllClick);
   });
 }
