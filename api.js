@@ -55,7 +55,7 @@ export async function loadEvents() {
     tag: event.tag,
   }));
 
-  return processEvents(allEvents);
+  state.events = processEvents(allEvents);
 }
 
 /*

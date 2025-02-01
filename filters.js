@@ -6,7 +6,7 @@ import { STORAGE_KEYS, DOM_IDS } from './constants.js';
 * Data structure is simple: venue is the key, boolean is the value.
 * Stored in localStorage under pageFilters key.
 */
-export function saveVenuePreferences() {
+function saveVenuePreferences() {
   try {
     localStorage.setItem(STORAGE_KEYS.FILTERS, JSON.stringify({ [STORAGE_KEYS.PAGE_FILTERS]: state.pageFilters }));
     updateFilterIndicator();
