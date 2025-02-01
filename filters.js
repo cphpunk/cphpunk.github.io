@@ -1,33 +1,36 @@
 import { state } from './state.js';
-import { displayEvents } from './render.js';
 
 /*
 * Users can set which venues they want to see.
 * Data structure is simple: venue is the key, boolean is the value.
+* Stored in localStorage under pageFilters key.
 */
 export function saveVenuePreferences() {
   try {
-    const venues = [...state.pageFilters].reduce((acc, venue) => {
-      acc[venue] = state.pageFilters.has(venue);
-      return acc;
-    }, {});
-    localStorage.setItem('venueSettings', JSON.stringify(venues));
+    localStorage.setItem('filters', JSON.stringify({ pageFilters: state.pageFilters }));
     updateFilterIndicator();
   } catch (error) {
     console.error('Failed to save venue preferences:', error);
   }
 }
 
-export function loadVenuePreferences() {
-  const saved = localStorage.getItem('venueSettings');
+export async function loadVenuePreferences() {
+  /*
+  * First we load all of the possible venues from a JSON file.
+  */
+  const response = await fetch('data/uniqueVenues.json');
+  const venues = await response.json();
+  state.venues = venues;
+
+  const saved = localStorage.getItem('filters');
+  
   if (!saved) {
     enableAllVenues();
     return;
   };
 
-  const venues = JSON.parse(saved);
-  const currentVenues = new Set(state.events.map(e => e.venue));
-  state.pageFilters = new Set([...currentVenues].filter(v => venues[v] === true));
+  const filters = JSON.parse(saved);
+  state.pageFilters = filters.pageFilters || {};
   updateFilterIndicator();
 }
 
@@ -38,72 +41,28 @@ export function loadVenuePreferences() {
 function updateFilterIndicator() {
   const infoButton = document.getElementById('infoButton');
   if (infoButton) {
-    const available = new Set(state.events.map(e => e.venue));
-    infoButton.classList.toggle('has-filters', state.pageFilters.size < available.size);
+    const enabledCount = Object.values(state.pageFilters).filter(enabled => enabled).length;
+    const available = Object.keys(state.venues).length;
+    infoButton.classList.toggle('has-filters', enabledCount < available);
   }
 }
-
-function enableAllVenues() {
-  state.pageFilters = new Set(state.events.map(e => e.venue));
+export function setVenueEnabled(venue, enabled) {
+  state.pageFilters[venue] = enabled;
   saveVenuePreferences();
-  displayEvents();
-  // Update all checkboxes to checked state
-  document.querySelectorAll('.venue-toggle input[type="checkbox"]').forEach(checkbox => {
-    checkbox.checked = true;
-  });
 }
 
-function disableAllVenues() {
-  state.pageFilters.clear();
+export function enableAllVenues() {
+  state.pageFilters = Object.keys(state.venues).reduce((acc, venue) => {
+    acc[venue] = true;
+    return acc;
+  }, {});
   saveVenuePreferences();
-  displayEvents();
-  // Update all checkboxes to unchecked state
-  document.querySelectorAll('.venue-toggle input[type="checkbox"]').forEach(checkbox => {
-    checkbox.checked = false;
-  });
 }
 
-export function populateVenueList() {
-  const container = document.getElementById('venueList');
-  if (!container) return;
-
-  container.innerHTML = `
-    <div id="venueControls">
-      <button id="enableAllVenues">Enable All</button>
-      <button id="disableAllVenues">Disable All</button>
-    </div>
-    <h3>Venues</h3>
-    ${[...new Set(state.events.map(e => e.venue))].sort().map(venue => `
-      <div class="venue-item">
-        <div class="venue-info">
-          <a href="${state.events.find(e => e.venue === venue)?.venueUrl}" target="_blank">${venue}</a>
-        </div>
-        <label class="venue-toggle">
-          <input type="checkbox" ${state.pageFilters.has(venue) ? 'checked' : ''}>
-          <span class="slider"></span>
-        </label>
-      </div>
-    `).join('')}
-    <div id="venueControls">
-      <button id="enableAllVenues">Enable All</button>
-      <button id="disableAllVenues">Disable All</button>
-    </div>
-  `;
-
-  container.querySelectorAll('input').forEach(input => {
-    input.addEventListener('change', () => {
-      const venueName = input.parentElement.previousElementSibling.textContent.trim();
-      state.pageFilters[input.checked ? 'add' : 'delete'](venueName);
-      saveVenuePreferences();
-      displayEvents();
-    });
-  });
-
-  document.querySelectorAll('#enableAllVenues').forEach(button => {
-    button.addEventListener('click', enableAllVenues);
-  });
-
-  document.querySelectorAll('#disableAllVenues').forEach(button => {
-    button.addEventListener('click', disableAllVenues);
-  });
+export function disableAllVenues() {
+  state.pageFilters = Object.keys(state.venues).reduce((acc, venue) => {
+    acc[venue] = false;
+    return acc;
+  }, {});
+  saveVenuePreferences();
 }

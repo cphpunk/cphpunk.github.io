@@ -1,11 +1,16 @@
 import { state } from './state.js';
 
-export function displayEvents() {
+export function renderSite() {
+  displayEvents();
+  updateVenueToggles();
+}
+
+function displayEvents() {
   const eventList = document.getElementById('eventList');
   
   eventList.innerHTML = Object.entries(
     state.events
-      .filter(event => state.pageFilters.has(event.venue))
+      .filter(event => state.pageFilters[event.venue])
       .reduce((groups, event) => {
         const date = moment(event.start).format('MMMM D, YYYY');
         groups[date] = groups[date] || [];
@@ -29,4 +34,11 @@ export function displayEvents() {
       </div>
     </div>
   `).join('');
+}
+
+function updateVenueToggles() {
+  document.querySelectorAll('.venue-toggle input[type="checkbox"]').forEach(checkbox => {
+    const venue = checkbox.dataset.venue;
+    checkbox.checked = state.pageFilters[venue];
+  });
 }

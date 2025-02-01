@@ -2,7 +2,8 @@ import { EVENT_TAGS } from './constants.js';
 
 let allEvents = [];
 let activeTagFilters = new Set(EVENT_TAGS);
-let activePageFilters = new Set();
+let activePageFilters = {};
+let venues = {};
 
 /*
 * The site shows events from Today to Seven days from now.
@@ -21,7 +22,10 @@ export const state = {
   set tagFilters(filters) { activeTagFilters = new Set(filters) },
 
   get pageFilters() { return activePageFilters },
-  set pageFilters(filters) { activePageFilters = new Set(filters) },
+  set pageFilters(filters) { activePageFilters = filters },
+
+  get venues() { return venues },
+  set venues(v) { venues = v },
 
   get windowStart() { return today },
   get windowEnd() { return sevenDaysOut }

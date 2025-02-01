@@ -1,15 +1,25 @@
 import { state } from './state.js';
-import { normalizeString, getSimilarity } from './utils.js';
+import { normalizeString, getSimilarity, shareSubstringOfMinimumLength} from './utils.js';
+import { 
+  EVENT_VISIBILITY_HOURS_AFTER_START,
+  EVENT_FOLDER_BASE,
+  EVENT_FOLDER_LIGHT,
+  EVENT_FILE_SUFFIX_LIGHT,
+  EVENT_NAME_SIMILARITY_THRESHOLD,
+  EXCLUDED_VENUES,
+  DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH
+} from './constants.js';
 
 /*
 * Weeks are stored in JSON files with this naming convention: YYYY-WXX.json
-* Where XX is the week number (duh)
+* Where XX is the week number (duh).
+* stripDescription grabs a much smaller JSON file with the event description removed (usually the biggest thing in the file)
 */ 
 async function fetchWeekEvents(date, stripDescription = true) {
   const weekNumber = date.format('WW').padStart(2, '0');
   const year = date.format('YYYY');
-  const folder = `events/` + (stripDescription ? "light/" : "");
-  const file_name = folder + `${year}-W${weekNumber}` +(stripDescription ? "_LIGHT" : "") + ".json";
+  const folder = stripDescription ? EVENT_FOLDER_LIGHT : EVENT_FOLDER_BASE;
+  const file_name = folder + `${year}-W${weekNumber}` + (stripDescription ? EVENT_FILE_SUFFIX_LIGHT : "") + ".json";
 
   try {
     const response = await fetch(file_name);
@@ -53,7 +63,7 @@ function processEvents(events) {
 
   const filteredEvents = events.filter(event => {
     //If the event is not in the right time window, no need to consider it
-    if (moment(event.start).isBefore(moment()) || moment(event.start).isAfter(state.windowEnd)) {
+    if (moment(event.start).isBefore(moment().subtract(EVENT_VISIBILITY_HOURS_AFTER_START, 'hours')) || moment(event.start).isAfter(state.windowEnd)) {
       return false;
     }
     
@@ -86,22 +96,29 @@ function processEvents(events) {
 */
 function isDuplicate(newEvent, existingEvents) {
   return Array.from(existingEvents.values()).some(existing => {
-    if (existing.venue === "Dining Week") return true; //Skipping these for now, they have too many
+    if (EXCLUDED_VENUES.includes(existing.venue)) return true;
 
     // Quick checks first - if time or venue don't match, not a duplicate
-    if (existing.start !== newEvent.start) return false;
+    if (existing.start.getTime() !== newEvent.start.getTime()) return false;
     if (existing.venue !== newEvent.venue) return false;
 
     const newEventNormalizedName = normalizeString(newEvent.name);
     const existingEventNormalizedName = normalizeString(existing.name);
 
     // Check if one name contains the other
-    if (newEventNormalizedName(existingEventNormalizedName) || 
+    if (newEventNormalizedName.includes(existingEventNormalizedName) || 
       existingEventNormalizedName.includes(newEventNormalizedName)) {
       return true;
     }
 
-    // Finally, check similarity score
-    return getSimilarity(newEventNormalizedName, existingEventNormalizedName) > 0.45;
+    // Check similarity score with Levenshtein algorithm
+    if (getSimilarity(newEventNormalizedName, existingEventNormalizedName) > EVENT_NAME_SIMILARITY_THRESHOLD) {
+      return true;
+    }
+    
+    // Finally check if they share a substring
+    if (shareSubstringOfMinimumLength(newEventNormalizedName, existingEventNormalizedName, DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH)) {
+      return true;
+    }
   });
 }
