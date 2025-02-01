@@ -115,10 +115,11 @@ function isDuplicate(newEvent, existingEvents) {
       return true;
     }
 
-    // Check similarity score with Levenshtein algorithm
+    // Skipping the Levenshtein algorithm for now, as it has cost o(n*m)
+    /*
     if (getSimilarity(newEventNormalizedName, existingEventNormalizedName) > EVENT_NAME_SIMILARITY_THRESHOLD) {
       return true;
-    }
+    }*/
 
     // Finally check if they share a substring
     if (shareSubstringOfMinimumLength(newEventNormalizedName, existingEventNormalizedName, DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH)) {
