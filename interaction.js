@@ -74,9 +74,9 @@ function registerVenueFiltersInteraction() {
 
   console.assert(container, "venueList not found");
 
-  container.querySelectorAll('input').forEach(input => {
+  container.querySelectorAll('input[data-venue]').forEach(input => {
     input.addEventListener('change', () => {
-      const venue = input.parentElement.previousElementSibling.querySelector('a').textContent.trim();
+      const venue = input.dataset.venue;
       onVenueToggleClick(venue, input.checked);
     });
   });
