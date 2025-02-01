@@ -58,6 +58,9 @@ export async function loadEvents() {
   return processEvents(allEvents);
 }
 
+/*
+* Mostly removes duplicates and events that are now over.
+*/
 function processEvents(events) {
   const seenEvents = new Map();
 
@@ -93,6 +96,7 @@ function processEvents(events) {
 * Since Events are scraped from different sources, we might have duplicates.
 * Some duplicates can have similar titles to a human, but not to a computer,
 * so we try to overcome this by checking string similarity if the dates and venues are the same.
+* If all fails, we run an algorith to check if the strings share a substring of a minimum length.
 */
 function isDuplicate(newEvent, existingEvents) {
   return Array.from(existingEvents.values()).some(existing => {
@@ -115,7 +119,7 @@ function isDuplicate(newEvent, existingEvents) {
     if (getSimilarity(newEventNormalizedName, existingEventNormalizedName) > EVENT_NAME_SIMILARITY_THRESHOLD) {
       return true;
     }
-    
+
     // Finally check if they share a substring
     if (shareSubstringOfMinimumLength(newEventNormalizedName, existingEventNormalizedName, DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH)) {
       return true;

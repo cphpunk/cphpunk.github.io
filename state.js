@@ -2,7 +2,15 @@ import { EVENT_TAGS } from './constants.js';
 
 let allEvents = [];
 let activeTagFilters = new Set(EVENT_TAGS);
+
+/*
+* Dictionary, where key : venue name, value : enabled
+*/
 let activePageFilters = {};
+
+/*
+* List of all venues
+*/
 let venues = {};
 
 /*

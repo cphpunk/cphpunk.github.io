@@ -67,22 +67,23 @@ export const STORAGE_KEYS = {
 /*
 * DOM element IDs and CLASSES used for lookups
 */
-export const DOM_CLASSES = {
-  MODAL_CLOSE: 'close',
-  MODAL_CONTENT: 'modal-content'
-};
-
-
-/*
-* DOM element IDs and CLASSES used for lookups
-*/
 export const DOM_IDS = {
-  INFO_BUTTON: 'infoButton',  // Note: this was duplicated before
+  INFO_BUTTON: 'infoButton',
   INFO_MODAL: 'infoModal',
   VENUE_LIST: 'venueList',
   ENABLE_ALL_VENUES: 'enableAllVenues',
   DISABLE_ALL_VENUES: 'disableAllVenues',
-  EVENT_LIST: 'eventList'  // Added from render.js
+  EVENT_LIST: 'eventList',
+  VENUE_CONTROLS: 'venueControls'
+};
+
+export const DOM_CLASSES = {
+  MODAL_CLOSE: 'close',
+  MODAL_CONTENT: 'modal-content',
+  VENUE_ITEM: 'venue-item',
+  VENUE_INFO: 'venue-info', 
+  VENUE_TOGGLE: 'venue-toggle',
+  SLIDER: 'slider'
 };
 
 /*

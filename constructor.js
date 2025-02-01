@@ -1,30 +1,31 @@
 import { state } from "./state.js";
+import { DOM_IDS, DOM_CLASSES } from "./constants.js";
 
 export function populateVenueFilters() {
-  const container = document.getElementById('venueList');
+  const container = document.getElementById(DOM_IDS.VENUE_LIST);
   if (!container) return;
 
   try {
     container.innerHTML = `
-      <div id="venueControls">
-        <button id="enableAllVenues">Enable All</button>
-        <button id="disableAllVenues">Disable All</button>
+      <div id="${DOM_IDS.VENUE_CONTROLS}">
+        <button id="${DOM_IDS.ENABLE_ALL_VENUES}">Enable All</button>
+        <button id="${DOM_IDS.DISABLE_ALL_VENUES}">Disable All</button>
       </div>
       <h3>Venues</h3>
       ${Object.entries(state.venues).sort(([a], [b]) => a.localeCompare(b)).map(([venue, url]) => `
-        <div class="venue-item">
-          <div class="venue-info">
+        <div class="${DOM_CLASSES.VENUE_ITEM}">
+          <div class="${DOM_CLASSES.VENUE_INFO}">
             <a href="${url}" target="_blank">${venue}</a>
           </div>
-          <label class="venue-toggle">
+          <label class="${DOM_CLASSES.VENUE_TOGGLE}">
             <input type="checkbox" data-venue="${venue}" ${state.pageFilters[venue] ? 'checked' : ''}>
-            <span class="slider"></span>
+            <span class="${DOM_CLASSES.SLIDER}"></span>
           </label>
         </div>
       `).join('')}
-      <div id="venueControls">
-        <button id="enableAllVenues">Enable All</button>
-        <button id="disableAllVenues">Disable All</button>
+      <div id="${DOM_IDS.VENUE_CONTROLS}">
+        <button id="${DOM_IDS.ENABLE_ALL_VENUES}">Enable All</button>
+        <button id="${DOM_IDS.DISABLE_ALL_VENUES}">Disable All</button>
       </div>
     `;
   } catch (error) {
