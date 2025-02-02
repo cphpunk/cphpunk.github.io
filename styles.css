@@ -9,10 +9,11 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
-body.modal-open {
-    overflow: hidden;
-    padding-right: 17px; /* Compensate for the scrollbar width */
-}
+
+/*body.modal-open {*/
+    /*overflow: hidden;*/
+    /*padding-right: 17px; /* Compensate for the scrollbar width */
+/*}*/
 
 h1 {
     color: #1a1a1a;
