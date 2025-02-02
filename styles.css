@@ -41,6 +41,7 @@ h3 {
     padding: 0 20px;
 }
 
+/* Warning if No Events were found */
 .no-events {
     display: none;
     font-family: "Roboto Condensed", sans-serif;
@@ -71,6 +72,7 @@ h3 {
     background-size: 40px;
 }
 
+/* I disable the little logos on a phone as there's no space and they end up covering the settings button */
 @media screen and (max-width: 768px) {
     .header-content {
         background-image: none;
@@ -111,7 +113,7 @@ h3 {
 }
 
 /* ======================= */
-/*  Info button and Modal  */
+/* Info btn (opens Modal)  */
 /* ======================= */
 .info-button {
     width: 40px;
@@ -313,6 +315,10 @@ h3 {
 .tag-filter[data-tag="QUIZ"],
 .event-tag[data-tag="QUIZ"] { background-color: #4fc3f7; }
 
+.tag-filter[data-tag="YOGA"],
+.tag-filter[data-tag="COMMUNITY"] {
+    color: #333
+}
 .event-tag[data-tag="YOGA"],
 .event-tag[data-tag="COMMUNITY"] { color: #333; }
 

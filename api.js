@@ -105,7 +105,11 @@ function isDuplicate(newEvent, existingEvents) {
 
     // Quick checks first - if time or venue don't match, not a duplicate
     if (existing.start.getTime() !== newEvent.start.getTime()) return false;
-    if (existing.venue !== newEvent.venue) return false;
+
+    // Special case: HUSET and Husets Biograf are considered the same venue
+    const specialCase = (existing.venue === "HUSET" && newEvent.venue === "Husets Biograf") || (existing.venue === "Husets Biograf" && newEvent.venue === "HUSET");
+
+    if (existing.venue !== newEvent.venue && !specialCase) return false;
 
     const newEventNormalizedName = normalizeString(newEvent.name);
     const existingEventNormalizedName = normalizeString(existing.name);

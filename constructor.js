@@ -25,7 +25,7 @@ function populateVenueFilters() {
 
       <div class="filter-section">
         <div class="filter-header">
-          <h3>VENUES:</h3>
+          <h3>SOURCES:</h3>
           <div class="filter-controls">
             <button class="control-btn enable">All</button>
             <button class="control-btn disable">None</button>
