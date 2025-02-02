@@ -61,7 +61,8 @@ export const DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH = 10;
 */
 export const STORAGE_KEYS = {
   FILTERS: 'filters',
-  PAGE_FILTERS: 'pageFilters'
+  PAGE_FILTERS: 'pageFilters',
+  TAG_FILTERS: 'tagFilters'
 };
 
 /*
@@ -74,7 +75,9 @@ export const DOM_IDS = {
   ENABLE_ALL_VENUES: 'enableAllVenues',
   DISABLE_ALL_VENUES: 'disableAllVenues',
   EVENT_LIST: 'eventList',
-  VENUE_CONTROLS: 'venueControls'
+  VENUE_CONTROLS: 'venueControls',
+  TAG_LIST: 'tagList',
+  TAG_CONTROLS: 'tagControls'
 };
 
 export const DOM_CLASSES = {

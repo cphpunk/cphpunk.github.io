@@ -1,33 +1,36 @@
-.loading-spinner {
-    display: none;
-    width: 50px;
-    height: 50px;
-    border: 5px solid #f3f3f3;
-    border-top: 5px solid #3498db;
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
+/* ======================= */
+/*      Global Styles      */
+/* ======================= */
+body {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #1a1a1a;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    color: #2c3e50;
+    font-size: 1.2rem;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.container {
+    max-width: 1200px;
     margin: 20px auto;
+    padding: 0 20px;
 }
 
-@keyframes spin {
-    0% {
-        transform: rotate(0deg);
-    }
 
-    100% {
-        transform: rotate(360deg);
-    }
-}
-
-.roboto-condensed-title {
-    font-family: "Roboto Condensed", serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-}
-
+/* ======================= */
+/*      Header Styles      */
+/* ======================= */
 .site-header {
     background-color: white;
     padding: 10px 0;
@@ -35,36 +38,56 @@
 }
 
 .header-content {
+    display: flex;
     max-width: 1200px;
     margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 0 20px;
+    align-items: center;
+    justify-content: center;
     position: relative;
+}
+
+.roboto-condensed-title {
+    font-family: "Roboto Condensed", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-optical-sizing: auto;
 }
 
 .info-button {
     width: 40px;
     height: 40px;
+    padding: 0;
+    border: 2px solid #333;
     border-radius: 50%;
     background-color: white;
-    border: 2px solid #333;
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position: absolute;
     right: 20px;
     top: 50%;
     transform: translateY(-50%);
-    color: #333;
-    text-decoration: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    padding: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.info-button:hover {
+    background-color: #333;
+    border-color: #333;
+    color: white;
+}
+
+.info-button svg {
+    width: 20px;
+    height: 20px;
+    transition: transform 0.5s ease;
+}
+
+.info-button:hover svg {
+    transform: rotate(90deg);
 }
 
 .info-button::after {
@@ -78,7 +101,6 @@
     border-radius: 50%;
     border: 2px solid white;
     opacity: 0;
-    pointer-events: none;
     transition: opacity 0.3s ease;
 }
 
@@ -86,41 +108,275 @@
     opacity: 1;
 }
 
-.info-button svg {
-    width: 20px;
-    height: 20px;
-    transition: transform 0.5s ease;
+
+/* ======================= */
+/*      Filter Styles      */
+/* ======================= */
+
+.filter-section {
+    margin-bottom: 2rem;
 }
 
-.info-button:hover {
-    background-color: #333;
+.filter-section:not(:first-child) {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+}
+
+.filter-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.filter-controls {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.control-btn {
+    padding: 6px 12px;
+    border: 2px solid #eee;
+    border-radius: 16px;
+    background: white;
+    font-size: 0.9em;
+    cursor: pointer;
+    font-family: "Roboto Condensed", sans-serif;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.control-btn.enable:hover {
+    background: #4CAF50;
+    border-color: #4CAF50;
     color: white;
-    border-color: #333;
 }
 
-.info-button:hover svg {
-    transform: rotate(90deg);
+.control-btn.disable:hover {
+    background: #e74c3c;
+    border-color: #e74c3c;
+    color: white;
 }
 
-.container {
-    max-width: 1200px;
-    margin: 20px auto;
-    padding: 0 20px;
+.tag-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.5rem;
 }
 
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-    color: #333;
-}
-
-h1 {
+.tag-filter {
+    width: 150px;
+    height: 44px;
+    padding: 12px 16px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    font-size: 1em;
     text-align: center;
-    color: #1a1a1a;
+    font-family: "Roboto Condensed", sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
+.tag-filter.active {
+    opacity: 1.0;
+    transform: scale(1.0);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.tag-filter:not(.active) {
+    opacity: 0.4;
+    transform: scale(0.7);
+    filter: grayscale(100%);
+}
+
+.tag-filter:hover {
+    opacity: 1;
+    transform: translateY(-1px);
+}
+
+
+/* ======================= */
+/*      Tag Color Map      */
+/* ======================= */
+.tag-filter[data-tag="MUSIC"],
+.event-tag[data-tag="MUSIC"] { background-color: #e57373; }
+
+.tag-filter[data-tag="MOVIE"],
+.event-tag[data-tag="MOVIE"] { background-color: #81c784; }
+
+.tag-filter[data-tag="ACTIVISM"],
+.event-tag[data-tag="ACTIVISM"] { background-color: #64b5f6; }
+
+.tag-filter[data-tag="COMMUNITY"],
+.event-tag[data-tag="COMMUNITY"] { background-color: #ffd54f; }
+
+.tag-filter[data-tag="THEATRE"],
+.event-tag[data-tag="THEATRE"] { background-color: #9c27b0; }
+
+.tag-filter[data-tag="CULTURE"],
+.event-tag[data-tag="CULTURE"] { background-color: #ba68c8; }
+
+.tag-filter[data-tag="LGBTQ+"],
+.event-tag[data-tag="LGBTQ+"] { background-color: #4db6ac; }
+
+.tag-filter[data-tag="YOGA"],
+.event-tag[data-tag="YOGA"] { background-color: #fff176; }
+
+.tag-filter[data-tag="SPORTS"],
+.event-tag[data-tag="SPORTS"] { background-color: #ff8a65; }
+
+.tag-filter[data-tag="ART"],
+.event-tag[data-tag="ART"] { background-color: #9575cd; }
+
+.tag-filter[data-tag="COMEDY"],
+.event-tag[data-tag="COMEDY"] { background-color: #4dd0e1; }
+
+.tag-filter[data-tag="SHOPPING"],
+.event-tag[data-tag="SHOPPING"] { background-color: #f06292; }
+
+.tag-filter[data-tag="GAMES"],
+.event-tag[data-tag="GAMES"] { background-color: #7986cb; }
+
+.tag-filter[data-tag="QUIZ"],
+.event-tag[data-tag="QUIZ"] { background-color: #4fc3f7; }
+
+.event-tag[data-tag="YOGA"],
+.event-tag[data-tag="COMMUNITY"] { color: #333; }
+
+
+/* ======================= */
+/*      Event Styles       */
+/* ======================= */
+.event-day-divider {
+    margin: 20px 0;
+    margin-top: 50px;
+    padding-top: 10px;
+    border-top: 2px solid #ddd;
+    position: relative;
+    text-align: center;
+    font-family: "Roboto Condensed", serif;
+}
+
+.event-day-divider::before {
+    content: attr(data-date);
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0 10px;
+    background: #f0f0f0;
+}
+
+.event-day-container {
+    display: grid;
+    gap: 25px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.event-box {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.event-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.event-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.event-tag {
+    position: relative;
+    left: 50%;
+    bottom: -15px;
+    transform: translate(-50%, -50%);
+    width: 1;
+    height: 30px;
+    border-radius: 0%;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: "Roboto Condensed", serif;
+    font-size: 0.6m;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.event-details {
+    padding: 20px 15px 15px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.event-title {
+    color: #333;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: "Roboto Condensed", serif;
+}
+
+.event-date,
+.event-location {
+    color: #666;
+    font-size: 0.75em;
+    font-family: "Roboto Condensed", serif;
+}
+
+
+/* ======================= */
+/*     Emoji Decorations   */
+/* ======================= */
+.event-tag::before {
+    content: "";
+    margin-right: 4px;
+    margin-bottom: 2px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.event-tag[data-tag="MUSIC"]::before { content: "🎵"; }
+.event-tag[data-tag="MOVIE"]::before { content: "🎬"; }
+.event-tag[data-tag="ACTIVISM"]::before { content: "✊"; }
+.event-tag[data-tag="COMMUNITY"]::before { content: "🤝"; }
+.event-tag[data-tag="THEATRE"]::before { content: "🎭"; }
+.event-tag[data-tag="CULTURE"]::before { content: "🏛️"; }
+.event-tag[data-tag="LGBTQ+"]::before { content: "🏳️‍🌈"; }
+.event-tag[data-tag="YOGA"]::before { content: "🧘"; }
+.event-tag[data-tag="SPORTS"]::before { content: "⚽"; }
+.event-tag[data-tag="ART"]::before { content: "🎨"; }
+.event-tag[data-tag="COMEDY"]::before { content: "😂"; }
+.event-tag[data-tag="SHOPPING"]::before { content: "🛍️"; }
+.event-tag[data-tag="GAMES"]::before { content: "🎮"; }
+.event-tag[data-tag="QUIZ"]::before { content: "🧠"; }
+
+
+/* ======================= */
+/*     Venue Controls      */
+/* ======================= */
 #venueControls {
     display: flex;
     gap: 12px;
@@ -133,8 +389,8 @@ h1 {
     border-radius: 8px;
     font-family: "Roboto Condensed", sans-serif;
     font-weight: 600;
-    text-transform: uppercase;
     letter-spacing: 0.5px;
+    text-transform: uppercase;
     cursor: pointer;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -161,8 +417,8 @@ h1 {
 
 .venue-item {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
     padding: 16px;
     margin-bottom: 12px;
     background-color: white;
@@ -210,8 +466,8 @@ h1 {
     right: 0;
     bottom: 0;
     background-color: #e0e0e0;
-    transition: .4s;
     border-radius: 34px;
+    transition: .4s;
 }
 
 .slider:before {
@@ -222,9 +478,9 @@ h1 {
     left: 3px;
     bottom: 3px;
     background-color: white;
-    transition: .4s;
     border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: .4s;
 }
 
 input:checked + .slider {
@@ -235,133 +491,20 @@ input:checked + .slider:before {
     transform: translateX(24px);
 }
 
-#infoModal {
-    display: none;
-}
 
-#infoModal .modal-content {
-    max-width: 800px;
-    max-height: 80vh;
-    overflow-y: auto;
-}
-
-.event-day-divider {
-    border-top: 2px solid #ddd;
-    margin: 20px 0;
-    position: relative;
-    text-align: center;
-    font-family: "Roboto Condensed", serif;
-    font-style: normal; 
-    font-weight: normal;
-    padding-top: 10px;
-    margin-top: 50px;
-}
-
-.event-day-divider::before {
-    content: attr(data-date);
-    position: absolute;
-    top: -12px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: #f0f0f0;
-    padding: 0 10px;
-}
-
-.event-day-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 25px;
-    margin-top: 10px;
-    margin-bottom: 50px;
-}
-
-.event-box:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-}
-
-
-
-
-.event-title {
-    font-family: "Roboto Condensed", serif;
-    font-style: normal; 
-    color: #333;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
-
-.event-date,
-.event-location {
-    font-size: 0.75em;
-    font-family: "Roboto Condensed", serif;
-    color: #666;
-}
-
-
-.event-box {
-    position: relative;
-    background-color: #fff;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    cursor: pointer;
-}
-
-.event-image {
-    position: relative;
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
-
-.event-tag {
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border-radius: 0%;
-    font-family: "Roboto Condensed", serif;
-    font-style: bolder; 
-    font-size: .6m;
-    font-weight: bold;
-    color: white;
-    z-index: 1;
-    white-space: nowrap;
-    text-align: center;
-    width: 1;
-    height: 30px;
-    bottom: -15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.event-details {
-    padding: 20px 15px 15px;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    font-weight: normal;
-    overflow: hidden;
-}
-
-
+/* ======================= */
+/*      Modal Styles       */
+/* ======================= */
 .modal {
     display: none;
     position: fixed;
-    z-index: 1;
-    left: 0;
     top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
-    overflow: hidden;
     background-color: rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    overflow: hidden;
 }
 
 .modal-content {
@@ -369,9 +512,9 @@ input:checked + .slider:before {
     margin: 50px auto;
     padding: 20px;
     border: 1px solid #888;
+    border-radius: 10px;
     width: 80%;
     max-width: 600px;
-    border-radius: 10px;
     max-height: calc(100% - 100px);
     overflow-y: auto;
 }
@@ -379,138 +522,41 @@ input:checked + .slider:before {
 .close {
     color: #aaa;
     float: right;
-    font-size: 28px;
-    font-weight: bold;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Roboto Condensed", sans-serif;
     cursor: pointer;
+    line-height: 1;
+    padding: 8px 16px;
+    margin-top: -8px;
+    border-radius: 8px;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .close:hover,
 .close:focus {
-    color: black;
+    color: #333;
+    background-color: #f5f5f5;
+    transform: translateY(-1px);
     text-decoration: none;
 }
 
-.event-tag[data-tag="MUSIC"] {
-    background-color: #e57373;
+
+/* ======================= */
+/*    Loading Animation    */
+/* ======================= */
+.loading-spinner {
+    display: none;
+    width: 50px;
+    height: 50px;
+    margin: 20px auto;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
 }
 
-.event-tag[data-tag="MOVIE"] {
-    background-color: #81c784;
-}
-
-.event-tag[data-tag="ACTIVISM"] {
-    background-color: #64b5f6;
-}
-
-.event-tag[data-tag="COMMUNITY"] {
-    background-color: #ffd54f;
-}
-
-.event-tag[data-tag="THEATRE"] {
-    background-color: #9c27b0;
-}
-
-.event-tag[data-tag="CULTURE"] {
-    background-color: #ba68c8;
-}
-
-.event-tag[data-tag="LGBTQ+"] {
-    background-color: #4db6ac;
-}
-
-.event-tag[data-tag="YOGA"] {
-    background-color: #fff176;
-}
-
-.event-tag[data-tag="SPORTS"] {
-    background-color: #ff8a65;
-}
-
-.event-tag[data-tag="ART"] {
-    background-color: #9575cd;
-}
-
-.event-tag[data-tag="COMEDY"] {
-    background-color: #4dd0e1;
-}
-
-.event-tag[data-tag="SHOPPING"] {
-    background-color: #f06292;
-}
-
-.event-tag[data-tag="GAMES"] {
-    background-color: #7986cb;
-}
-
-.event-tag[data-tag="QUIZ"] {
-    background-color: #4fc3f7;
-}
-
-.event-tag[data-tag="YOGA"],
-.event-tag[data-tag="COMMUNITY"] {
-    color: #333;
-}
-
-/* Add emoji to event tags */
-.event-tag::before {
-    margin-right: 4px;
-    margin-bottom: 2px;
-    vertical-align: middle;
-    display: inline-block;
-}
-
-.event-tag[data-tag="MUSIC"]::before {
-    content: "🎵";
-}
-
-.event-tag[data-tag="MOVIE"]::before {
-    content: "🎬";
-}
-
-.event-tag[data-tag="ACTIVISM"]::before {
-    content: "✊";
-}
-
-.event-tag[data-tag="COMMUNITY"]::before {
-    content: "🤝";
-}
-
-.event-tag[data-tag="THEATRE"]::before {
-    content: "🎭";
-}
-
-.event-tag[data-tag="CULTURE"]::before {
-    content: "🏛️";
-}
-
-.event-tag[data-tag="LGBTQ+"]::before {
-    content: "🏳️‍🌈";
-}
-
-.event-tag[data-tag="YOGA"]::before {
-    content: "🧘";
-}
-
-.event-tag[data-tag="SPORTS"]::before {
-    content: "⚽";
-}
-
-.event-tag[data-tag="ART"]::before {
-    content: "🎨";
-}
-
-.event-tag[data-tag="COMEDY"]::before {
-    content: "😂";
-}
-
-.event-tag[data-tag="SHOPPING"]::before {
-    content: "🛍️";
-}
-
-.event-tag[data-tag="GAMES"]::before {
-    content: "🎮";
-}
-
-.event-tag[data-tag="QUIZ"]::before {
-    content: "🧠";
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }

@@ -11,7 +11,10 @@ function displayEvents() {
   
   eventList.innerHTML = Object.entries(
     state.events
-      .filter(event => state.pageFilters[event.venue])
+      .filter(event => 
+        state.pageFilters[event.venue] && 
+        state.tagFilters.has(event.tag)
+      )
       .reduce((groups, event) => {
         const date = moment(event.start).format(DATE_FORMATS.EVENT_DATE);
         groups[date] = groups[date] || [];

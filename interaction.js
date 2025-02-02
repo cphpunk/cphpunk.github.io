@@ -1,5 +1,5 @@
 import { renderSite } from './render.js';
-import { setVenueEnabled, enableAllVenues, disableAllVenues } from './filters.js';
+import { setVenueEnabled, enableAllVenues, disableAllVenues, setTagEnabled, enableAllTags, disableAllTags } from './filters.js';
 import { DOM_IDS, DOM_CLASSES } from './constants.js';
 
 /*
@@ -7,11 +7,12 @@ import { DOM_IDS, DOM_CLASSES } from './constants.js';
 * Primary responsibilities are:
 * 1. Modal interactions (open/close/scroll behavior)
 * 2. Venue filter interactions (toggle individual venues, enable/disable all)
+* 3. Tag filter interactions (toggle individual tags, enable/disable all)
 */
 
 export function registerInteractions() {
   registerInfoModalInteraction();
-  registerVenueFiltersInteraction();
+  registerFiltersInteraction();
 }
 
 function registerInfoModalInteraction() {
@@ -66,10 +67,10 @@ function registerInfoModalInteraction() {
 }
 
 /*
-* Sets up all event listeners for venue filtering functionality.
-* This includes individual venue toggles and the enable/disable all buttons.
+* Sets up all event listeners for venue and tag filtering functionality.
+* This includes individual venue toggles, tag toggles and their respective enable/disable all buttons.
 */
-function registerVenueFiltersInteraction() {
+function registerFiltersInteraction() {
   const container = document.getElementById(DOM_IDS.VENUE_LIST);
 
   console.assert(container, "venueList not found");
@@ -80,12 +81,40 @@ function registerVenueFiltersInteraction() {
     });
   });
 
-  document.querySelectorAll(`#${DOM_IDS.ENABLE_ALL_VENUES}`).forEach(button => {
-    button.addEventListener('click', onEnableAllClick);
+  // Handle both venue and tag controls
+  document.querySelectorAll('.filter-controls .control-btn').forEach(button => {
+    button.addEventListener('click', (e) => {
+      const section = e.target.closest('.filter-section');
+      if (section.querySelector('#tagList')) {
+        // Handle tag controls
+        if (e.target.classList.contains('enable')) {
+          enableAllTags();
+          document.querySelectorAll('.tag-filter').forEach(t => t.classList.add('active'));
+        } else {
+          disableAllTags();
+          document.querySelectorAll('.tag-filter').forEach(t => t.classList.remove('active'));
+        }
+      } else {
+        // Handle venue controls
+        if (e.target.classList.contains('enable')) {
+          enableAllVenues();
+        } else {
+          disableAllVenues();
+        }
+      }
+      refresh();
+    });
   });
 
-  document.querySelectorAll(`#${DOM_IDS.DISABLE_ALL_VENUES}`).forEach(button => {
-    button.addEventListener('click', onDisableAllClick);
+  // Tag filter interactions
+  document.querySelectorAll('.tag-filter').forEach(button => {
+    button.addEventListener('click', (e) => {
+      const tag = e.target.dataset.tag;
+      const isActive = e.target.classList.contains('active');
+      setTagEnabled(tag, !isActive);
+      e.target.classList.toggle('active');
+      refresh();
+    });
   });
 }
 
