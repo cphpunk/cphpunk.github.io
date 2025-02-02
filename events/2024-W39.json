@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/843099127887696/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457326030_940015254824553_8868256468735881165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3s1-Za-4DrAQ7kNvgGLVOyC&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AnjSsH0e6OrSzUUtJG3Lyq5&oh=00_AYAH0U70eFUHxgW1Kh8k019UU530c6grxJT4cHCmJF31GA&oe=67A2B48B",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457326030_940015254824553_8868256468735881165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3s1-Za-4DrAQ7kNvgGspING&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AcNj-QSnkYFjbdLRyO3G5N0&oh=00_AYBVX_XZX62E8NrXoQcphPj1Q3lL_N2bU5qZPmLS9SKaZg&oe=67A4768B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
@@ -43,7 +43,7 @@
       "name": "Refshalevej 167A, 1432 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.69306249999998,
       "longitude": 12.610062499999984,
       "bounds_ne_lat": 55.69312499999998,
@@ -55,10 +55,41 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/426868580506461/?event_time_id=426868583839794",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/459185469_982060843936162_40427392877270687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gcjV6k0CdrcQ7kNvgGKaNUt&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AOLDXDlRb8tHLZYNna7GOja&oh=00_AYAscz6f778PO2hXd_K61V0OY2PTOVOtiB6TjDSCegzIHQ&oe=67A2A066",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/459185469_982060843936162_40427392877270687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gcjV6k0CdrcQ7kNvgELJepo&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AuvhFXr_D0rOdVcLmLTSj1_&oh=00_AYBWuIP5_hL6t99iMitW3W9OOtIX7CthUyHfPj2_ZUrE-w&oe=67A49AA6",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Klub Werkstatt",
     "page_url": "https://www.facebook.com/klubwerkstatt/events"
+  },
+  {
+    "id": "1695260014369465",
+    "name": " Olla Común 🥘 - South American Community Kitchen ",
+    "description": "******ENGLISH BELOW******\nHola a todes\nLes esperamos este jueves a las 18.00 en el primer piso de La Casa del Pueblo para la Olla Comun de cada mes. La comida se sirve a las 18.30!\n\nEsta vez cocinaremos un plato del noreste de Brazil que se llama Baião de dois 😋 y como siempre lo haremos vegano.\n\nSi todo sale bien, de nuevo tendremos musiquita y unos drinks aperitivos. Los esperamos!! ;)\n\nLas donaciones de esta Olla iran a comunidades en Brazil y en el este de Bolivia. Durante las anteriores semanas, los incendios han arrasado con mucho del amazonas y como siempre la gente campesina e indigenas son las mas afectadas. Les contaremos mas en la Olla. Aqui un poco mas de informacion de los incendios:\n\nhttps://www.dw.com/es/humo-de-incendios-en-brasil-y-bolivia-asfixia-sudam%C3%A9rica/a-70183768\n\nNos vemos!!\n\nSe puede pagar con cash y tambien con MobilePay :)\n\n-----------------------------------\nHi everyone!\nJoin us this Thursday for the monthly Olla Comun at 18.00 at the first floor of FolketsHus. Food is served at 18.30\n\nThis time we'll do some food from the north of Brazil called Baião de dois 😋 we'll veganize it as always\n\nIf all works out, once again we'll have some music and drinks ;)))\n\nThe donations for this Olla will be sent to comunities in the east of Bolivia and in Brazil. Over the last weeks, the fires in the amazon have devastated a massive amount of land. It is very bad and we will tell you more about it at the Olla. If you would like to read about them, here is an overview article about the fires:\n\nhttps://www.wri.org/insights/amazon-forest-fires-2024\n\nSee you on Thursday! For donations we take cash and MobilePay",
+    "date": {
+      "start_timestamp": 1727366400,
+      "end_timestamp": 1727373600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1695260014369465/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/461070745_501749656039456_1235627404862153634_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AiHL7WswIngQ7kNvgG5cUf3&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AW9KaQbjxVU7wdGMXUP_Qt5&oh=00_AYAJBKTJ6cvXKRdAQ8PXiq_h5g78W8p5IdYLXhc5UiGM-g&oe=67A479B6",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

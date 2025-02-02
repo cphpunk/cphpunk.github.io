@@ -122,5 +122,36 @@
     "platform": "Facebook",
     "page_name": "Red Door",
     "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "926253139414528",
+    "name": "Broadway Baby by Evita Kedavra",
+    "description": "Get ready for a DOUBLE DOSE of the legendary Evita Kedavra. You do not want to miss out on her musical musings two Thursdays in a row🎭💃🏾💄💅❤️",
+    "date": {
+      "start_timestamp": 1732217400,
+      "end_timestamp": 1732224600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Studiestræde 24, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.678437500000015,
+      "longitude": 12.568687500000024,
+      "bounds_ne_lat": 55.678500000000014,
+      "bounds_ne_lng": 12.568750000000023,
+      "bounds_sw_lat": 55.67837500000002,
+      "bounds_sw_lng": 12.568625000000026,
+      "plus_code_global": "9F7JMHH9+9F",
+      "plus_code_local": "MHH9+9F",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/926253139414528/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473081098_122147308322359067_3524197738865937369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2-Dk8LUz1V8Q7kNvgEFgrkO&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A8jPxqrr9I64rPRimwT4ah6&oh=00_AYATZRlqd9TwMJ3V10Gf6tb9op2YEa1c4Mvg9r7G-tw9QQ&oe=679F0121",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Centre Stage CPH",
+    "page_url": "https://www.facebook.com/profile.php?id=61560772023333&sk=events"
   }
 ]

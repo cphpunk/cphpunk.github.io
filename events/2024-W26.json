@@ -24,10 +24,41 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1396658370997656/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/417480567_984869556972507_2759110622250052393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Nv0OklLEAhgQ7kNvgFaBizX&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AeVke5F6jFzE-F2w_aJVVAp&oh=00_AYCoWlEyQAzcNgdN5Twumx9hKNsI6ijPHhSZEGUpO7ARpQ&oe=67A2B9C0",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/417480567_984869556972507_2759110622250052393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eTpXsk-IlSIQ7kNvgHPFosq&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A1MlXVOVfs6E8nrRZIJ4McT&oh=00_AYCqHmCXPSfQ9xal3A0NLq5bav9fczaYcU2Ln7C88xsuNQ&oe=67A47BC0",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",
     "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+  },
+  {
+    "id": "326743970482327",
+    "name": "SUMMER PARTY: 🥘 Olla Común - South American Community Kitchen",
+    "description": "## Español ##\n\nHola a todes, esperamos que estén bien y estén disfrutando su verano 🌞\n\nLes invitamos a la Olla Común del mes, el viernes 28 de Junio a las 18.30. Esta vez tendremos DJs desde las 19.00 🎵🪩🕺🏾💃🏽\n\nEl programa será así:\n\n18.00 - Se ponen los parlantes y empezamos a preparar todo si pueden nos ayudan ;)\n18.30 - Se sirve la comida\n19.00 - Musica: Kip Analog\n21.00 - Musica: Iki dalga (Garlic Sound Collective)\\\n\nEsta vez serviremos Frijoles Colombianos:\n- Frijoles pinto\n- Arrozito\n- Bananos/platano *not guaranteed*\n- Salsa de aji colombiana, hecha con wai ya\n- Unas sangrías 👀\n\nLes contaremos un poco de como funciona la Olla y también recaudaremos fondos, ya sea para mandarlos a personas o organizaciones que luchan en el Abya Yala por la soberanía y liberación de los pueblos indigenas o tal vez para comprar una olla a presión grande para que podamos hacer que los porotos salgan mas ricos ;)))\n\nNos vemos!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n## English ##\n\nHi everyone, we hope you are doing well and enjoying the summer 🌞\n\nWe invite you to the monthly Olla Comun, this friday the 28th of June at 18.30. This time with live DJs! 😎\n\nThe program will go like this:\n\n18.00 - Set up of music and serving\n18.30 - Food is served\n19.00 - Music: Kip Analog\n21.00 - Music: Iki dalga (Garlic Sound Collective)\n\nAs for food, we know you love them beans so we got some Frijoles Colombianos:\n- Pinto beans\n- Rice\n- Fried plantain **no guarantee!**\n- Spicy colombian sauce made with wai ya\n- Sangria 🍷\n\nWe will also tell you how the Olla works and all your donations will either go to support groups and people that fight for the sovereignty and liberation of indigenous peoples in the Abya Yala, or to upgrade our kitchen equipment and get a big pressure cooker so we can make even better beans ;))\n\nSee you!",
+    "date": {
+      "start_timestamp": 1719590400,
+      "end_timestamp": 1719604800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Folkets Hus",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.687312500000004,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687375,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.687250000000006,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+WP",
+      "plus_code_local": "MHP3+WP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/326743970482327/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/448765165_442358918645197_5013362269212887895_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GH_qVaOsDyoQ7kNvgG0hGrU&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AaG08TIF8VmpdZ9lcTHdalQ&oh=00_AYCG3fd7mG5BXfdUn5Bz5CiowPNdTyMk37-3sE0b8ganRQ&oe=67A490D2",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

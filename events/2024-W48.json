@@ -11,7 +11,7 @@
     "location": {
       "name": "Blågårds Apotek",
       "address": "Blågårds Plads 2",
-      "city": "Copenhagen, Denmark",
+      "city": "Copenhagen",
       "country": "DK",
       "latitude": 55.6864375,
       "longitude": 12.557937499999994,
@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1302113784536634/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/467947696_540881568733160_3620332442352183794_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nMm8Wv3yixsQ7kNvgFSXQ9O&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AhSaxbUinhLPegdrHlCknRJ&oh=00_AYDH6mbJwZwHn2L3f3fb-rrLSTjRBwTrEORyIWzWQlNLQQ&oe=67A2BAC3",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/467947696_540881568733160_3620332442352183794_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5VqSROStXEkQ7kNvgEaq_ve&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AucfjlVCHif7BSiNRdCP-fw&oh=00_AYA15zqmTaT6yAmIO-CVcfbMKpyZVmAnH5wHqxRyuUfkEg&oe=67A47CC3",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",
@@ -55,7 +55,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/566757632680108/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/462619584_1397359421181800_3403634156317768801_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ph31bc8gnE4Q7kNvgHSH5k3&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Acq_FqWOGQ6OpZFLHCbkzce&oh=00_AYB0FQn1_wwnL0PcuVKu5L-vcA_EJjV5wLdkbmqQOYSzgA&oe=67A2A1DD",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/462619584_1397359421181800_3403634156317768801_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OWn-0YymrKMQ7kNvgHblr79&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Aut18SOesmzyYL9fuz3pr9O&oh=00_AYCP-6qaE8pNywYv7cCMUynlT8NOVv495QvNti5s1Qq9XQ&oe=67A49C1D",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -74,7 +74,7 @@
       "name": "Sundholmsvej 46, 2300 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.65956250000001,
       "longitude": 12.595687500000011,
       "bounds_ne_lat": 55.659625000000005,
@@ -86,10 +86,72 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/532496823001743/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/467504526_1102023355257126_5275598327581963634_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SHViX7GaCxwQ7kNvgGABupE&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AzqKV3lfwPdJFnIU7_JUrwu&oh=00_AYAFgxqHm38-whhb_Y9Ih_63BhfuUc4ZCBY1OWc38fAJFA&oe=67A2A9E0",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/467504526_1102023355257126_5275598327581963634_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=93-20JNVDG0Q7kNvgG_MwAF&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ArYWFeUOmFI94mDEbC0eyGw&oh=00_AYAYtEu3k1hj_KeDA7VMWsvOgPKOhGmvvWxtBRWYH6lo7Q&oe=67A4A420",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",
     "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+  },
+  {
+    "id": "1379462659693638",
+    "name": "Pub Quiz at Centre Stage",
+    "description": "Quiz Night at Centre Stage Sunday at 19.30 - bring a team of up to four people and come up with a fun name! Prizes from Jägermeister #centrestagecph #quiznight #jagermeister",
+    "date": {
+      "start_timestamp": 1733077800,
+      "end_timestamp": 1733085000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Studiestræde 24, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.678437500000015,
+      "longitude": 12.568687500000024,
+      "bounds_ne_lat": 55.678500000000014,
+      "bounds_ne_lng": 12.568750000000023,
+      "bounds_sw_lat": 55.67837500000002,
+      "bounds_sw_lng": 12.568625000000026,
+      "plus_code_global": "9F7JMHH9+9F",
+      "plus_code_local": "MHH9+9F",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1379462659693638/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472924305_122147330894359067_4673486710149780488_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7WCGwCG_bwkQ7kNvgFCiVeS&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A8GRkTq1ETT5aTwYTqGX0Tq&oh=00_AYC1BvyJ3kn6_DepAtEi6REX653iXq0oEebLfvVK5kJBlg&oe=679EF050",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "Centre Stage CPH",
+    "page_url": "https://www.facebook.com/profile.php?id=61560772023333&sk=events"
+  },
+  {
+    "id": "1322141099203015",
+    "name": " Olla Común 🥘 - South American Community Kitchen ",
+    "description": "******ENGLISH BELOW******\n\nHola a todes!\n\nLes esperamos el jueves 28 de Noviembre a las 18.00 en el primer piso de La Casa del Pueblo para la Olla Comunitaria de cada mes. La comida se sirve a las 18.30 masomenos\n\nComo esta sera la ultima Olla del año y el frio medio que ya esta empezando, les vamos a cocinar un Aji de Fideo Boliviano.(tambien conocido como Fideos Uchu). Como siempre veganizaremos el plato.\n\nEste mes aun no sabemos si habra un evento como una charla o algo pero les avisaremos pronto!\n\nEl dinero que se recaudo la ultima vez sera enviado a Bolivia para apoyar el trabjo de lxs bomberxs que luchan contra el fuego apocaliptico en el este del pais.\n\nEsta Olla, mandaremos el dinero recaudado a Mundo Verde (https://www.instagram.com/mundoverderdm) una organizacion de Palenque en Colombia que conserva los ecosistemas de la region y organizan programas educacionales de conservacion y proteccion al medio ambiente para niñes\n\nSe puede pagar con cash y tambien con MobilePay 🙂\n\nNos vemos!!\n\nUna cosita mas!! El 30 habra una fiesta para recaudar fondos para Crisis Mirror https://dukop.dk/en/event/crisis-mirror-support-party/7144/  y algunes del equipo de cocina haremos la comida ahi tambien! ;)\n\n-----------------------------------\nHi everyone!\n\nJoin us this Thursday *28th of Nov* for the monthly Olla Comun at 18.00 at the first floor of FolketsHus. Food is served at around 18.30\n\nIt's the last Olla and its getting cold so we'll make an Andean classic from Bolivia, Aji de Fideo (also known as Fideos Uchu)\n\nWe will let you know if an event like a talk or something will happen, stay tuned!\n\nThis time we will send the money to Mundo Verde, a group of people from a palenque, afrodescendent community by the North-West Caribbean coast, and have been working now for more than 20 years on recovering their mangrooves and implementing an educational program on ecosystem conservation for kids.\n\nSee you on Thursday! For donations we take cash and MobilePay\n\nAlso!! On the 30th it's Crisis Mirror's support party https://dukop.dk/en/event/crisis-mirror-support-party/7144/ and some of the kitchen team will be making the food for that event as well ;)",
+    "date": {
+      "start_timestamp": 1732813200,
+      "end_timestamp": 1732820400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1322141099203015/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/467608475_543842428496845_3568448925905818933_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=C2nQlKSdM1wQ7kNvgH-JBM0&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AsjwFthyUFZWlDkZnCQoDQy&oh=00_AYD3asnDYdxUiKNfYU-0SSbMtS9K18TqsDilgIMcCs416w&oe=67A4A9DF",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

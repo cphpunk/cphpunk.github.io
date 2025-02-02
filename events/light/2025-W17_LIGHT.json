@@ -30,6 +30,66 @@
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   },
   {
+    "id": "1783517029118554",
+    "name": "BUNKER 66 [IT] BOTTOMLESS [IT] (SPEED METAL/TRAD DOOM METAL)",
+    "date": {
+      "start_timestamp": 1745694000,
+      "end_timestamp": 1745701200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Lygten 29, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70306249999997,
+      "longitude": 12.537312499999999,
+      "bounds_ne_lat": 55.70312499999997,
+      "bounds_ne_lng": 12.537374999999997,
+      "bounds_sw_lat": 55.702999999999975,
+      "bounds_sw_lng": 12.53725,
+      "plus_code_global": "9F7JPG3P+6W",
+      "plus_code_local": "PG3P+6W",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1783517029118554/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/466667408_1062631952540388_6557013450394837088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hn2Y4zNCRM8Q7kNvgG6gTKV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AOGH4zkITkuuFtPSU_H0JMS&oh=00_AYBzOuRFrhAb4Fk9gSGjP9Wjd_WkmmMKkqKb8V_IIh9n-w&oe=67A48284",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Lygtens Kro",
+    "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "512629401792606",
+    "name": "FabLab Makers Meetup",
+    "date": {
+      "start_timestamp": 1745514000,
+      "end_timestamp": 1745524800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.709812499999984,
+      "longitude": 12.526937500000017,
+      "bounds_ne_lat": 55.70987499999998,
+      "bounds_ne_lng": 12.527000000000015,
+      "bounds_sw_lat": 55.709749999999985,
+      "bounds_sw_lng": 12.526875000000018,
+      "plus_code_global": "9F7JPG5G+WQ",
+      "plus_code_local": "PG5G+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/512629401792606/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470205246_983235773842636_4413228750136576777_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hk62gi-yiDsQ7kNvgEuvNdy&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AVxUG-CVrgXAZzS6s8gXb0o&oh=00_AYCGKHcyOKdU-xqi37CZs62rjSU5TIH-sg29YdXhcCnN5Q&oe=67A4A86D",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Fablab Nordvest",
+    "page_url": "https://www.facebook.com/fablabnordvest/events"
+  },
+  {
     "id": "kk-jeffrey-lewis-the-voltage-us-xenon",
     "name": "Jeffrey Lewis & the Voltage (US) | Xenon",
     "date": {
@@ -101,7 +161,7 @@
       "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70481249999999,
       "longitude": 12.581687500000001,
       "bounds_ne_lat": 55.70487499999999,
@@ -113,100 +173,10 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1528978991122879/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/475436185_1700604187385632_7663008065916868299_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uCTEduaEudsQ7kNvgGRykZ7&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A-1Bgi5HYWSuNj1VxCwX5Wh&oh=00_AYDRQ9yT-OBYiaQrlxSEPjiI6SFgeT-kAoT8QUjm-QGSyA&oe=67A2A68C",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/475436185_1700604187385632_7663008065916868299_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uCTEduaEudsQ7kNvgEXmAf3&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AqpQ5vLSSQAQ0yQx-AwoId4&oh=00_AYDIKB47iv1yBX7x61AWD9Lup9wI50SFNNh2BSiMM-tdpg&oe=67A4A0CC",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Villa Kultur",
     "page_url": "https://www.facebook.com/villakultur/events"
-  },
-  {
-    "id": "1783517029118554",
-    "name": "BUNKER 66 [IT] BOTTOMLESS [IT] (SPEED METAL/TRAD DOOM METAL)",
-    "date": {
-      "start_timestamp": 1745694000,
-      "end_timestamp": 1745701200,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Lygten 29, 2400 Copenhagen, Denmark",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.70306249999997,
-      "longitude": 12.537312499999999,
-      "bounds_ne_lat": 55.70312499999997,
-      "bounds_ne_lng": 12.537374999999997,
-      "bounds_sw_lat": 55.702999999999975,
-      "bounds_sw_lng": 12.53725,
-      "plus_code_global": "9F7JPG3P+6W",
-      "plus_code_local": "PG3P+6W",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/1783517029118554/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/466667408_1062631952540388_6557013450394837088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hn2Y4zNCRM8Q7kNvgFN8LKV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ATMSRaWrswX5Le4KgMzxb1Q&oh=00_AYB3658GLZqgu8G4sbhyj_sqaD-5E6ATKNF2USL1ixdvdg&oe=67A2C084",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "Lygtens Kro",
-    "page_url": "https://www.facebook.com/lygtenskro/events"
-  },
-  {
-    "id": "1325814131642796",
-    "name": "Dominance FC 3.0 // 26. APRIL 2025",
-    "date": {
-      "start_timestamp": 1745681400,
-      "end_timestamp": 1745688600,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "K.B. Hallen",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.67756250000001,
-      "longitude": 12.49481249999998,
-      "bounds_ne_lat": 55.677625000000006,
-      "bounds_ne_lng": 12.494874999999979,
-      "bounds_sw_lat": 55.67750000000001,
-      "bounds_sw_lng": 12.494749999999982,
-      "plus_code_global": "9F7JMFHV+2W",
-      "plus_code_local": "MFHV+2W",
-      "plus_code_locality": "Frederiksberg, Denmark"
-    },
-    "url": "https://www.facebook.com/events/1325814131642796/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473707048_1185405583586916_8371708114455470072_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ycUYVIKjoH4Q7kNvgGUPOtl&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AAQmQCnwB09LTdwxgcyur-2&oh=00_AYB_vFPm_1_toVWAR0ycCyfsDTIhmv0_Y3Fk-CJXqwqeNg&oe=67A2C59C",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "K.B. Hallen",
-    "page_url": "https://www.facebook.com/kbhallen/events"
-  },
-  {
-    "id": "512629401792606",
-    "name": "FabLab Makers Meetup",
-    "date": {
-      "start_timestamp": 1745514000,
-      "end_timestamp": 1745524800,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
-      "address": null,
-      "city": "",
-      "country": "DK",
-      "latitude": 55.709812499999984,
-      "longitude": 12.526937500000017,
-      "bounds_ne_lat": 55.70987499999998,
-      "bounds_ne_lng": 12.527000000000015,
-      "bounds_sw_lat": 55.709749999999985,
-      "bounds_sw_lng": 12.526875000000018,
-      "plus_code_global": "9F7JPG5G+WQ",
-      "plus_code_local": "PG5G+WQ",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/512629401792606/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470205246_983235773842636_4413228750136576777_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=REMlkFi0JzwQ7kNvgGfScXm&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ACv6nUQnEhhb2tPTCoQf9Tm&oh=00_AYB8QEQHovqaZz7x5AadBF40LVPzveYKx3aWCd8ECi3XmQ&oe=67A2AE2D",
-    "tag": "COMMUNITY",
-    "platform": "Facebook",
-    "page_name": "Fablab Nordvest",
-    "page_url": "https://www.facebook.com/fablabnordvest/events"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "id": "kk-lars-muhl-daisy",
-    "name": "Lars Muhl & Daisy",
+    "id": "kk-daisy-feat-lars-muhl",
+    "name": "Daisy feat. Lars Muhl",
     "date": {
       "start_timestamp": 1742065200,
       "end_timestamp": 1742072400,
@@ -22,42 +22,12 @@
       "plus_code_local": "MH8G+PG",
       "plus_code_locality": "Copenhagen, Denmark"
     },
-    "url": "https://kulturhusetislandsbrygge.kk.dk/program/lars-muhl-daisy",
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/daisy-feat-lars-muhl",
     "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-06/DaisyFeat.LarsMuhl_1920x1080.jpg?itok=MuJMBh_O",
     "tag": "MUSIC",
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
-  },
-  {
-    "id": "kk-final-descent-ryosuke-kiyasu-jp-sol-ey-is-xenon",
-    "name": "Final Descent: Ryosuke Kiyasu (JP) + Sól Ey (IS) | Xenon",
-    "date": {
-      "start_timestamp": 1742065200,
-      "end_timestamp": 1742079540,
-      "timezone": "Europe/Copenhagen"
-    },
-    "location": {
-      "name": "Huset-KBH, Xenon",
-      "address": "Rådhusstræde 13, 1466 København K",
-      "city": "København K",
-      "country": "Denmark",
-      "latitude": 55.67631250000001,
-      "longitude": 12.574687500000024,
-      "bounds_ne_lat": 55.67637500000001,
-      "bounds_ne_lng": 12.574750000000023,
-      "bounds_sw_lat": 55.67625000000001,
-      "bounds_sw_lng": 12.574625000000026,
-      "plus_code_global": "9F7JMHGF+GV",
-      "plus_code_local": "MHGF+GV",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://huset.kk.dk/en/events/final-descent-ryosuke-kiyasu-jp-sol-ey-is-xenon",
-    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-01/Ryosuke%20Kiyasu_0.png?h=f9e98fb2&itok=p9wyiuA_",
-    "tag": "MUSIC",
-    "platform": "KK",
-    "page_name": "HUSET",
-    "page_url": "https://huset.kk.dk/en/events"
   },
   {
     "id": "kk-stephanie-meincke-musikcafeen",
@@ -90,96 +60,6 @@
     "page_url": "https://huset.kk.dk/en/events"
   },
   {
-    "id": "1305191584077713",
-    "name": "A Banda @ Operaen",
-    "date": {
-      "start_timestamp": 1742072400,
-      "end_timestamp": 1742090400,
-      "timezone": "UTC+01"
-    },
-    "location": {
-      "name": "Pusher st., 1440 Christiania, Denmark",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.67375000000001,
-      "longitude": 12.598750000000024,
-      "bounds_ne_lat": 55.67500000000001,
-      "bounds_ne_lng": 12.600000000000023,
-      "bounds_sw_lat": 55.672500000000014,
-      "bounds_sw_lng": 12.597500000000025,
-      "plus_code_global": "9F7JMHFX+",
-      "plus_code_local": "",
-      "plus_code_locality": ""
-    },
-    "url": "https://www.facebook.com/events/1305191584077713/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475509657_1038991488272749_1941728321387021230_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=i3NcDHd6-RMQ7kNvgG0jNrb&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AM_nE_nglTReQbyuSNftiPM&oh=00_AYAnjX9XycK2ouFrAnsEiHE9bRtfCto2gtEr3VbZYWcmjg&oe=67A2BB8A",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "Operaen Christiania",
-    "page_url": "https://www.facebook.com/operaenscafe/events"
-  },
-  {
-    "id": "624656386603652",
-    "name": "DEATH METAL - HYPERDONTIA, DEAD VOID, PUSTULANT FLESH",
-    "date": {
-      "start_timestamp": 1741719600,
-      "end_timestamp": 1741726800,
-      "timezone": "UTC+01"
-    },
-    "location": {
-      "name": "Dortheavej 61, Copenhagen",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.70881249999998,
-      "longitude": 12.523562500000011,
-      "bounds_ne_lat": 55.70887499999998,
-      "bounds_ne_lng": 12.52362500000001,
-      "bounds_sw_lat": 55.70874999999998,
-      "bounds_sw_lng": 12.523500000000013,
-      "plus_code_global": "9F7JPG5F+GC",
-      "plus_code_local": "PG5F+GC",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/624656386603652/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/475126288_1028970215929196_1542528521222921385_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WVXMcnji3PoQ7kNvgGAqHkp&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AXUptjRx7AsZIx-0MMMnS5a&oh=00_AYAFZRYsWxEcMbUeudFJLEOkxbfTOJTFYgtLAGIiuaaONQ&oe=67A2B114",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "Ungdomshuset",
-    "page_url": "https://www.facebook.com/UngdomshusetD61/events"
-  },
-  {
-    "id": "3983484151972299",
-    "name": "Extremely Rotten Death Metal Vol.25 - BETA",
-    "date": {
-      "start_timestamp": 1742065200,
-      "end_timestamp": 1742072400,
-      "timezone": "UTC+01"
-    },
-    "location": {
-      "name": "BETA2300",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.65793749999999,
-      "longitude": 12.609312499999973,
-      "bounds_ne_lat": 55.65799999999999,
-      "bounds_ne_lng": 12.609374999999972,
-      "bounds_sw_lat": 55.65787499999999,
-      "bounds_sw_lng": 12.609249999999975,
-      "plus_code_global": "9F7JMJ55+5P",
-      "plus_code_local": "MJ55+5P",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/3983484151972299/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475079068_1191123676349804_3261077263338008231_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M8J-OEFhFu4Q7kNvgHal_Cr&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AqoZLrVc63knfTsTw7KQgBV&oh=00_AYB5LLke0X-7sOr2oRP_EaM3IOZfpAJHIf3Lknb_0iqj2Q&oe=67A2BBE6",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "BETA2300",
-    "page_url": "https://www.facebook.com/beta2300/events"
-  },
-  {
     "id": "1127733775568201",
     "name": "The Datsuns (NZ) - Support: Spiders (S) - BETA",
     "date": {
@@ -191,7 +71,7 @@
       "name": "BETA2300",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.65793749999999,
       "longitude": 12.609312499999973,
       "bounds_ne_lat": 55.65799999999999,
@@ -203,7 +83,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1127733775568201/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470006557_1152563070205865_5326317103484706823_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WpC7gxkZKAkQ7kNvgFeSS0-&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AbxmVevQlR3qezSXSntWpEA&oh=00_AYD9v1TSxCig75r_MOnrAFWSy3CT7dbjxY2s_OLV5TZXfA&oe=67A2D103",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470006557_1152563070205865_5326317103484706823_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WpC7gxkZKAkQ7kNvgFdEz63&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AG9S2grEm1SnjnVaSCnNEWx&oh=00_AYBBh1GRQIPqsA_K2z5qeGb5x_wsFO0SExTwAch0XpyHgg&oe=67A49303",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BETA2300",
@@ -221,7 +101,7 @@
       "name": "K.B. Hallen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -233,11 +113,41 @@
       "plus_code_locality": "Frederiksberg, Denmark"
     },
     "url": "https://www.facebook.com/events/3834315086814970/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/465544775_962248529269855_1831753560160195872_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lUkaTbsZEuIQ7kNvgFiWPbN&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AcAd43oVuGBv7zEanRZ04Eg&oh=00_AYAiwrxkYbiAHjsmRAFre1HFNoqrxgvy-uWgoUPHl_UKHA&oe=67A2A7E3",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/465544775_962248529269855_1831753560160195872_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lUkaTbsZEuIQ7kNvgEE9X8w&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ABoB0NC0n3_pNMoKqKSfMg5&oh=00_AYAe7n1p-jNtFzjBXWjjp09CD6YihHwzgkORL5BAyByC9g&oe=67A4A223",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "kk-lars-muhl-daisy",
+    "name": "Lars Muhl & Daisy",
+    "date": {
+      "start_timestamp": 1742065200,
+      "end_timestamp": 1742072400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/lars-muhl-daisy",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-06/DaisyFeat.LarsMuhl_1920x1080.jpg?itok=MuJMBh_O",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   },
   {
     "id": "1328005308380580",
@@ -263,10 +173,130 @@
       "plus_code_locality": "Herlev, Denmark"
     },
     "url": "https://www.facebook.com/events/1328005308380580/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/472771735_1003462695151453_3552046569755998854_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YClSwdRVcTUQ7kNvgFzkoeH&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A4tEpGsktCk0eAeNur9CAbV&oh=00_AYAW2jJVBvFccHCpmBOcU2LNDjQEnr8g9m0MCukrLsI4gw&oe=67A2A64E",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/472771735_1003462695151453_3552046569755998854_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YClSwdRVcTUQ7kNvgHRvi3H&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A41ERq9REliQkMazvCoOi3i&oh=00_AYCqIZLp1UjslNda5sszJVrcmSJwJrkf-fUm66TuwFqc1w&oe=67A4A08E",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
     "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  },
+  {
+    "id": "624656386603652",
+    "name": "DEATH METAL - HYPERDONTIA, DEAD VOID, PUSTULANT FLESH",
+    "date": {
+      "start_timestamp": 1741719600,
+      "end_timestamp": 1741726800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Dortheavej 61, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70881249999998,
+      "longitude": 12.523562500000011,
+      "bounds_ne_lat": 55.70887499999998,
+      "bounds_ne_lng": 12.52362500000001,
+      "bounds_sw_lat": 55.70874999999998,
+      "bounds_sw_lng": 12.523500000000013,
+      "plus_code_global": "9F7JPG5F+GC",
+      "plus_code_local": "PG5F+GC",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/624656386603652/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/475126288_1028970215929196_1542528521222921385_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9KifFB6bULwQ7kNvgGI_R9Z&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AoRu11G0c4i7ZD3vtC6b6JG&oh=00_AYCTQHXrIsfhnVjsaUb2maosIp2xcU3llMVM0dEsP6Gg0w&oe=67A4AB54",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Ungdomshuset",
+    "page_url": "https://www.facebook.com/UngdomshusetD61/events"
+  },
+  {
+    "id": "kk-final-descent-ryosuke-kiyasu-jp-sol-ey-is-xenon",
+    "name": "Final Descent: Ryosuke Kiyasu (JP) + Sól Ey (IS) | Xenon",
+    "date": {
+      "start_timestamp": 1742065200,
+      "end_timestamp": 1742079540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset-KBH, Xenon",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://huset.kk.dk/en/events/final-descent-ryosuke-kiyasu-jp-sol-ey-is-xenon",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-01/Ryosuke%20Kiyasu_0.png?h=f9e98fb2&itok=p9wyiuA_",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1305191584077713",
+    "name": "A Banda @ Operaen",
+    "date": {
+      "start_timestamp": 1742072400,
+      "end_timestamp": 1742090400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Pusher st., 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67375000000001,
+      "longitude": 12.598750000000024,
+      "bounds_ne_lat": 55.67500000000001,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.672500000000014,
+      "bounds_sw_lng": 12.597500000000025,
+      "plus_code_global": "9F7JMHFX+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1305191584077713/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475509657_1038991488272749_1941728321387021230_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=i3NcDHd6-RMQ7kNvgHHya-m&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AseLmKOHmZWgchRbLzbmDGE&oh=00_AYA5knJ-mQHovXv3pvio5FO3QLmMJKvcncYzUQgl_1fSvQ&oe=67A47D8A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Operaen Christiania",
+    "page_url": "https://www.facebook.com/operaenscafe/events"
+  },
+  {
+    "id": "3983484151972299",
+    "name": "Extremely Rotten Death Metal Vol.25 - BETA",
+    "date": {
+      "start_timestamp": 1742065200,
+      "end_timestamp": 1742072400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/3983484151972299/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475079068_1191123676349804_3261077263338008231_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M8J-OEFhFu4Q7kNvgGcJk4g&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Avp5V3cfZltzRFAHhNEUE6S&oh=00_AYDjPxZuLONpiJnXm6mue05ZMvFbZyf1KhaiQTyM71z88Q&oe=67A47DE6",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
   }
 ]

@@ -1,70 +1,10 @@
 [
   {
-    "id": "628723652984806",
-    "name": "Fællesmøde - Extinction Rebellion København",
+    "id": "kk-santa-cruz",
+    "name": "Santa Cruz",
     "date": {
-      "start_timestamp": 1743607800,
-      "end_timestamp": 1743615000,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.6659375,
-      "longitude": 12.5805625,
-      "bounds_ne_lat": 55.666,
-      "bounds_ne_lng": 12.580624999999998,
-      "bounds_sw_lat": 55.665875,
-      "bounds_sw_lng": 12.5805,
-      "plus_code_global": "9F7JMH8J+96",
-      "plus_code_local": "MH8J+96",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/628723652984806/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475717932_962728589321755_7382307486352603254_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YIJnN_R9enwQ7kNvgFAnkGx&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AR5-fAsg7wI9-vkxd28oso_&oh=00_AYDtzOHddo-xXrqanWK_lNOf6ToA2TZKAAvYE9w4l6t_lw&oe=67A2A765",
-    "tag": "COMMUNITY",
-    "platform": "Facebook",
-    "page_name": "Extinction Rebellion Danmark",
-    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
-  },
-  {
-    "id": "1744481343076459",
-    "name": "Intromøde til Extinction Rebellion København",
-    "date": {
-      "start_timestamp": 1743604200,
-      "end_timestamp": 1743607800,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.6659375,
-      "longitude": 12.5805625,
-      "bounds_ne_lat": 55.666,
-      "bounds_ne_lng": 12.580624999999998,
-      "bounds_sw_lat": 55.665875,
-      "bounds_sw_lng": 12.5805,
-      "plus_code_global": "9F7JMH8J+96",
-      "plus_code_local": "MH8J+96",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/1744481343076459/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475781222_962734965987784_6603539697144116754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wjdWpEOAAuYQ7kNvgF_sDiQ&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ANNg1yWvf9ydsQufP1Jx2qo&oh=00_AYCnwSNZ8esP8IPq5rYNleZ6DnyE9kXTiAQuJ0RI9vzi1A&oe=67A2CBC0",
-    "tag": "ACTIVISM",
-    "platform": "Facebook",
-    "page_name": "Extinction Rebellion Danmark",
-    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
-  },
-  {
-    "id": "kk-acdc-uk-europas-stoerste-tributeband-til-acdc",
-    "name": "AC/DC UK – Europas største tributeband til AC/DC",
-    "date": {
-      "start_timestamp": 1743876000,
-      "end_timestamp": 1743885000,
+      "start_timestamp": 1743703200,
+      "end_timestamp": 1743710400,
       "timezone": "Europe/Copenhagen"
     },
     "location": {
@@ -82,8 +22,8 @@
       "plus_code_local": "MH8G+PG",
       "plus_code_locality": "Copenhagen, Denmark"
     },
-    "url": "https://kulturhusetislandsbrygge.kk.dk/program/acdc-uk-europas-stoerste-tributeband-til-acdc",
-    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-05/Design%20uden%20navn%20%2816%29.png?itok=CTobqKq4",
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/santa-cruz",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/Design%20uden%20navn%20%282%29.png?itok=CvqYxumc",
     "tag": "MUSIC",
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
@@ -120,11 +60,11 @@
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   },
   {
-    "id": "kk-santa-cruz",
-    "name": "Santa Cruz",
+    "id": "kk-acdc-uk-europas-stoerste-tributeband-til-acdc",
+    "name": "AC/DC UK – Europas største tributeband til AC/DC",
     "date": {
-      "start_timestamp": 1743703200,
-      "end_timestamp": 1743710400,
+      "start_timestamp": 1743876000,
+      "end_timestamp": 1743885000,
       "timezone": "Europe/Copenhagen"
     },
     "location": {
@@ -142,8 +82,8 @@
       "plus_code_local": "MH8G+PG",
       "plus_code_locality": "Copenhagen, Denmark"
     },
-    "url": "https://kulturhusetislandsbrygge.kk.dk/program/santa-cruz",
-    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-10/Design%20uden%20navn%20%282%29.png?itok=CvqYxumc",
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/acdc-uk-europas-stoerste-tributeband-til-acdc",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2024-05/Design%20uden%20navn%20%2816%29.png?itok=CTobqKq4",
     "tag": "MUSIC",
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
@@ -161,7 +101,7 @@
       "name": "Råhuset",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.66981250000002,
       "longitude": 12.560312499999995,
       "bounds_ne_lat": 55.66987500000002,
@@ -173,18 +113,78 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/994989999342631/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/471429424_1190861326010216_2701080225857192055_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hbC-Y-aLm_gQ7kNvgG97OSX&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AwHq1gfNNwZQvFXj3VpGlYa&oh=00_AYAC886KDytfQuC1NFonYdUUHlsCyfGAY3_wolCkexJERQ&oe=67A2A7BD",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/471429424_1190861326010216_2701080225857192055_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hbC-Y-aLm_gQ7kNvgFdvTzP&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A387dbpcB1Hs0wVlWiBWKFc&oh=00_AYBpK1m86__9lq_9hE3AaGREr_qgzy0IBhTU2m4Vsp6A6Q&oe=67A4A1FD",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Punks Undead",
     "page_url": "https://www.facebook.com/PunksUndeadCPH/events"
   },
   {
-    "id": "1796040761232440",
-    "name": "URO [Support: Ella Augusta] - K.B. Hallen (UDSOLGT)",
+    "id": "628723652984806",
+    "name": "Fællesmøde - Extinction Rebellion København",
     "date": {
-      "start_timestamp": 1743870600,
-      "end_timestamp": 1743877800,
+      "start_timestamp": 1743607800,
+      "end_timestamp": 1743615000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6659375,
+      "longitude": 12.5805625,
+      "bounds_ne_lat": 55.666,
+      "bounds_ne_lng": 12.580624999999998,
+      "bounds_sw_lat": 55.665875,
+      "bounds_sw_lng": 12.5805,
+      "plus_code_global": "9F7JMH8J+96",
+      "plus_code_local": "MH8J+96",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/628723652984806/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475717932_962728589321755_7382307486352603254_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kpRStUj6tTcQ7kNvgGkodad&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AGTnPjy34ARb2_TQ90h4Lm8&oh=00_AYDJ-WDde9SkEkDqJdXr7dlSoiTN0mu1aRdMQyCIH9lBLQ&oe=67A4A1A5",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "1744481343076459",
+    "name": "Intromøde til Extinction Rebellion København",
+    "date": {
+      "start_timestamp": 1743604200,
+      "end_timestamp": 1743607800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6659375,
+      "longitude": 12.5805625,
+      "bounds_ne_lat": 55.666,
+      "bounds_ne_lng": 12.580624999999998,
+      "bounds_sw_lat": 55.665875,
+      "bounds_sw_lng": 12.5805,
+      "plus_code_global": "9F7JMH8J+96",
+      "plus_code_local": "MH8J+96",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1744481343076459/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475781222_962734965987784_6603539697144116754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kUDBC_Be-iYQ7kNvgH8_P-w&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A2LCJ5FgxRjz1zlwXQsemvo&oh=00_AYAd85H_vnCVH5aGe9R_nRnVRZ2wRPy4mhKo4r2TwPEZKQ&oe=67A48DC0",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "3693525844240634",
+    "name": "Thor Farlov – K.B. Hallen",
+    "date": {
+      "start_timestamp": 1743784200,
+      "end_timestamp": 1743791400,
       "timezone": "UTC+02"
     },
     "location": {
@@ -202,38 +202,8 @@
       "plus_code_local": "MFHV+2W",
       "plus_code_locality": "Frederiksberg, Denmark"
     },
-    "url": "https://www.facebook.com/events/1796040761232440/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/469403322_975403821276677_665613014721293722_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Qt-0vNhVjG0Q7kNvgFAXExu&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AV_nyk-BJJ-kn7MidkFnwcC&oh=00_AYCGkkCqTz2SxiV_IIcITVA_X4X9rgcr9T1f8OMARNsd0A&oe=67A2C73C",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "K.B. Hallen",
-    "page_url": "https://www.facebook.com/kbhallen/events"
-  },
-  {
-    "id": "3693525844240634",
-    "name": "Thor Farlov – K.B. Hallen",
-    "date": {
-      "start_timestamp": 1743784200,
-      "end_timestamp": 1743791400,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "K.B. Hallen",
-      "address": "Peter Bangs Vej 147",
-      "city": "Frederiksberg, Denmark",
-      "country": "DK",
-      "latitude": 55.67756250000001,
-      "longitude": 12.49481249999998,
-      "bounds_ne_lat": 55.677625000000006,
-      "bounds_ne_lng": 12.494874999999979,
-      "bounds_sw_lat": 55.67750000000001,
-      "bounds_sw_lng": 12.494749999999982,
-      "plus_code_global": "9F7JMFHV+2W",
-      "plus_code_local": "MFHV+2W",
-      "plus_code_locality": "Frederiksberg, Denmark"
-    },
     "url": "https://www.facebook.com/events/3693525844240634/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/460625342_913923170758076_5145350629017651273_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KsxK-jJFJVMQ7kNvgGxjzOB&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A3tt6kYyDGdraJNog3yN5xM&oh=00_AYCaZiLQe5CAHF-NpeduT7LFFE6V860RTSemOvHI3483dg&oe=67A2AFC0",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/460625342_913923170758076_5145350629017651273_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2qMHIsy6t-MQ7kNvgFcfjkQ&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AO9unggkmNcy3hmRgbDXjH2&oh=00_AYDufP9OsNBlnvPutesIMCygAJ-tIJSiQ1jJIM_TTeCZfw&oe=67A4AA00",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",

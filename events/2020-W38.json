@@ -1,36 +1,5 @@
 [
   {
-    "id": "2413281265577950",
-    "name": "TechBBQ Digital 2020",
-    "description": "After carefully evaluating the current circumstances, we decided to move our annual event to an online space. We introduce 🔥TechBBQ Digital! 🔥\n\nIt surely is a different version of our well-loved TechBBQ, but don’t worry - we will continue curating exciting programs and networking opportunities for startups, scaleups, investors, VCs, and tech talents!\n\nThe conference you love, from the comfort of your home. See you 💻 online, on the 17th and 18th of September 2020! \n\n🚀 The announcement of the program and platforms will begin on the 1st of August. As for our physical event, we are planning to have it in summer 2021. Keep an eye here for news! \n\n👉 Click here to book your tickets for TechBBQ Digital: https://fal.cn/techbbq0649\n\n👉 Click here to see our amazing speakers from TechBBQ 2019:  https://fal.cn/techbbq0624\n\n#TechBBQ2020 #TechBBQdigital\n",
-    "date": {
-      "start_timestamp": 1600329600,
-      "end_timestamp": 1600437600,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Online from Copenhagen",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.67500000000001,
-      "longitude": 12.575000000000017,
-      "bounds_ne_lat": 55.70000000000002,
-      "bounds_ne_lng": 12.600000000000023,
-      "bounds_sw_lat": 55.650000000000006,
-      "bounds_sw_lng": 12.550000000000011,
-      "plus_code_global": "9F7JMH00+",
-      "plus_code_local": "",
-      "plus_code_locality": ""
-    },
-    "url": "https://www.facebook.com/events/2413281265577950/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t1.6435-9/106360967_2938908702874282_6756951063685594922_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TvxDj5rmgPoQ7kNvgHgkWkN&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AOKC7Vax2rbS5uuKR8oO6FE&oh=00_AYDoqh31Z_ykfDinyABtjMPL7PU6zp4z-V3ljPhUytqMUQ&oe=67C468D6",
-    "tag": "LGBTQ+",
-    "platform": "Facebook",
-    "page_name": "TechBBQ",
-    "page_url": "https://www.facebook.com/TechBBQ/events"
-  },
-  {
     "id": "709375212948878",
     "name": "PreSeed Academy #24: Designing a Diversified Startup",
     "description": "Too often, we find that the diversity-talk stalls on gender equality. We're not talking down its importance, but we would like to approach the topic from a broader perspective, discussing the benefits and possibilities from also diversifying on other demographic parameters. We'll also cover just how you can design your organization/startup/culture for diversity on the get-go as an early stage founder.\n\nAs always at PreSeed Academy, we like to pull some strings and team up with knowledgeable founders. And who else than Nicolas Blier-Silvestri, founder of Platypus, could be more relevant?  Our very own Senior Investment Director Helle Uth will be moderating the 30-minute fireside chat.\n\nThis startup talk is part of the TechBBQ Digital 2020 program. If you purchase tickets through “Buy tickets” function on the event page at our website (follow the link), you’ll get a 30% discount.\n\n",
@@ -55,7 +24,38 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/709375212948878/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/118248809_1204514236575540_1366670458381035970_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XGFspucMiU8Q7kNvgHb5NzT&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AViOU6tXg02c3q6Xw1hQ5dL&oh=00_AYACWyh-zhoB0V5hj9A9efh4XUsGv93UVEknjzcl596wmw&oe=67C46380",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/118248809_1204514236575540_1366670458381035970_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XGFspucMiU8Q7kNvgFgUUTw&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ANd9iO0yCJxStZk9StN9gAN&oh=00_AYA-HOdEQH1bobv32cb6yt3SN7mHN-6gif1oJw7sqQ4uHQ&oe=67C62580",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "TechBBQ",
+    "page_url": "https://www.facebook.com/TechBBQ/events"
+  },
+  {
+    "id": "2413281265577950",
+    "name": "TechBBQ Digital 2020",
+    "description": "After carefully evaluating the current circumstances, we decided to move our annual event to an online space. We introduce 🔥TechBBQ Digital! 🔥\n\nIt surely is a different version of our well-loved TechBBQ, but don’t worry - we will continue curating exciting programs and networking opportunities for startups, scaleups, investors, VCs, and tech talents!\n\nThe conference you love, from the comfort of your home. See you 💻 online, on the 17th and 18th of September 2020! \n\n🚀 The announcement of the program and platforms will begin on the 1st of August. As for our physical event, we are planning to have it in summer 2021. Keep an eye here for news! \n\n👉 Click here to book your tickets for TechBBQ Digital: https://fal.cn/techbbq0649\n\n👉 Click here to see our amazing speakers from TechBBQ 2019:  https://fal.cn/techbbq0624\n\n#TechBBQ2020 #TechBBQdigital\n",
+    "date": {
+      "start_timestamp": 1600329600,
+      "end_timestamp": 1600437600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Online from Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/2413281265577950/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t1.6435-9/106360967_2938908702874282_6756951063685594922_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TvxDj5rmgPoQ7kNvgEeERJb&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AKF2rA0jGt6yhU-tqc3086c&oh=00_AYDwzy55ghjciA5DG2Cif3sUZqB4aGzhTNGrPAZCvcaHag&oe=67C62AD6",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "TechBBQ",

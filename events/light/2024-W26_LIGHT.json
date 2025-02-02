@@ -23,10 +23,40 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1396658370997656/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/417480567_984869556972507_2759110622250052393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Nv0OklLEAhgQ7kNvgFaBizX&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AeVke5F6jFzE-F2w_aJVVAp&oh=00_AYCoWlEyQAzcNgdN5Twumx9hKNsI6ijPHhSZEGUpO7ARpQ&oe=67A2B9C0",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/417480567_984869556972507_2759110622250052393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eTpXsk-IlSIQ7kNvgHPFosq&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A1MlXVOVfs6E8nrRZIJ4McT&oh=00_AYCqHmCXPSfQ9xal3A0NLq5bav9fczaYcU2Ln7C88xsuNQ&oe=67A47BC0",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",
     "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+  },
+  {
+    "id": "326743970482327",
+    "name": "SUMMER PARTY: 🥘 Olla Común - South American Community Kitchen",
+    "date": {
+      "start_timestamp": 1719590400,
+      "end_timestamp": 1719604800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Folkets Hus",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.687312500000004,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687375,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.687250000000006,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+WP",
+      "plus_code_local": "MHP3+WP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/326743970482327/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/448765165_442358918645197_5013362269212887895_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GH_qVaOsDyoQ7kNvgG0hGrU&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AaG08TIF8VmpdZ9lcTHdalQ&oh=00_AYCG3fd7mG5BXfdUn5Bz5CiowPNdTyMk37-3sE0b8ganRQ&oe=67A490D2",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

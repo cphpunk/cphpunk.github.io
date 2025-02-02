@@ -1,5 +1,35 @@
 [
   {
+    "id": "1076338084004786",
+    "name": "MARCUS GORDON ALBUM RELEASE @ HAVEN",
+    "date": {
+      "start_timestamp": 1728147600,
+      "end_timestamp": 1728158400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurd CPH",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70368749999999,
+      "longitude": 12.555187500000002,
+      "bounds_ne_lat": 55.703749999999985,
+      "bounds_ne_lng": 12.555250000000001,
+      "bounds_sw_lat": 55.70362499999999,
+      "bounds_sw_lng": 12.555125000000004,
+      "plus_code_global": "9F7JPH34+F3",
+      "plus_code_local": "PH34+F3",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1076338084004786/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/461834918_437405786025993_3270610182592714467_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JylPJBV6x8IQ7kNvgHSrkxi&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A4iPtIKrs2vA5wf11ujCa_k&oh=00_AYCsFGo6X2bx2lxIaAs3PEAQsyck9HfWkk5I76DXjaBi7A&oe=67A475FE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
+  },
+  {
     "id": "878270624248447",
     "name": "LE FIX X DICKIES X SIGURD CPH - JOIN THE RIDE! ",
     "date": {
@@ -23,38 +53,8 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/878270624248447/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/461921549_966717325487679_738292489659048928_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_HcsmUgSmV4Q7kNvgGOkUyR&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ALK0XnE7q10f9-57ptfJulj&oh=00_AYDRa3bVMM2-tjDtMbox77zeVy5cmq9WwzgZHru3pLwcEg&oe=67A2CAC8",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/461921549_966717325487679_738292489659048928_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_HcsmUgSmV4Q7kNvgH0e185&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Ay3CuhXBAP3RGlF4fx_4FoQ&oh=00_AYDelOv95rY_YUmImlC1a4a9cysgGwmupzcT6aSioKyw_A&oe=67A48CC8",
     "tag": "SHOPPING",
-    "platform": "Facebook",
-    "page_name": "Haven CPH",
-    "page_url": "https://www.facebook.com/havencph/events"
-  },
-  {
-    "id": "1076338084004786",
-    "name": "MARCUS GORDON ALBUM RELEASE @ HAVEN",
-    "date": {
-      "start_timestamp": 1728147600,
-      "end_timestamp": 1728158400,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Sigurd CPH",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.70368749999999,
-      "longitude": 12.555187500000002,
-      "bounds_ne_lat": 55.703749999999985,
-      "bounds_ne_lng": 12.555250000000001,
-      "bounds_sw_lat": 55.70362499999999,
-      "bounds_sw_lng": 12.555125000000004,
-      "plus_code_global": "9F7JPH34+F3",
-      "plus_code_local": "PH34+F3",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/1076338084004786/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/461834918_437405786025993_3270610182592714467_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=T7DBQ9SPyCAQ7kNvgG417v4&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A9naJL9LTtTRESjldxmHM5l&oh=00_AYD1e3hoKQlEKGsTsw4oseoWO7ks8GT1Pi-Vco3BzTEJgQ&oe=67A2B3FE",
-    "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
     "page_url": "https://www.facebook.com/havencph/events"
@@ -83,7 +83,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1218809345830408/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/459315375_1045227047604228_8668213003596128325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UsoJ2MmjTZMQ7kNvgH4mVms&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AbIKFvGCCu30VcHNcohQjt8&oh=00_AYDRwC8Kvm1j_Vm5H2e-XPrsivbhzsam_C9GzFLtVHp3cQ&oe=67A2B873",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/459315375_1045227047604228_8668213003596128325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UsoJ2MmjTZMQ7kNvgE6wpnv&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AgJjNK9xK6lDLbnUJg1y8bm&oh=00_AYAntxtLw0umsAhVo0OnsqCQ-FVQp0ko-oQ7Ig7SYfxXhg&oe=67A47A73",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",
@@ -113,7 +113,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/561712239520677/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/460912170_1055908196535309_6470657901701635593_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hsJI_7AYq54Q7kNvgG32QHq&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Aza94QN-NXX4jUP6CPElI2z&oh=00_AYCexyx7MreQFAMwNUyNfIUMmcYu5YEvAOWmZ8bMUX2dTg&oe=67A2D0D4",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/460912170_1055908196535309_6470657901701635593_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hsJI_7AYq54Q7kNvgFC2C9h&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AQX3po35plVKEozVFua99Gs&oh=00_AYCVuw3TLCtznYygUE3ci65OCRSJY-JGud_v5jK6T6kyTw&oe=67A492D4",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",

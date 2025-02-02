@@ -60,66 +60,6 @@
     "page_url": "https://huset.kk.dk/en/events"
   },
   {
-    "id": "958604582896971",
-    "name": "benspænd: Stephanie Meincke + Lea Eyðbjørg",
-    "date": {
-      "start_timestamp": 1744306200,
-      "end_timestamp": 1744313400,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.70481249999999,
-      "longitude": 12.581687500000001,
-      "bounds_ne_lat": 55.70487499999999,
-      "bounds_ne_lng": 12.58175,
-      "bounds_sw_lat": 55.70474999999999,
-      "bounds_sw_lng": 12.581625000000003,
-      "plus_code_global": "9F7JPH3J+WM",
-      "plus_code_local": "PH3J+WM",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/958604582896971/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475583957_1700605897385461_1127036992309642058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HTV56ZJJhqUQ7kNvgES9eV4&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A1DP_CTFbqt0LO-UtH54Tlp&oh=00_AYDHwSDRPEHRy94rrtflBfIi6Kk26psGoPmSh4rbm9WXfA&oe=67A29E0B",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "Villa Kultur",
-    "page_url": "https://www.facebook.com/villakultur/events"
-  },
-  {
-    "id": "486452864351576",
-    "name": "David Gray – K.B. Hallen",
-    "date": {
-      "start_timestamp": 1744475400,
-      "end_timestamp": 1744482600,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "K.B. Hallen",
-      "address": "Peter Bangs Vej 147",
-      "city": "Frederiksberg, Denmark",
-      "country": "DK",
-      "latitude": 55.67756250000001,
-      "longitude": 12.49481249999998,
-      "bounds_ne_lat": 55.677625000000006,
-      "bounds_ne_lng": 12.494874999999979,
-      "bounds_sw_lat": 55.67750000000001,
-      "bounds_sw_lng": 12.494749999999982,
-      "plus_code_global": "9F7JMFHV+2W",
-      "plus_code_local": "MFHV+2W",
-      "plus_code_locality": "Frederiksberg, Denmark"
-    },
-    "url": "https://www.facebook.com/events/486452864351576/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/459325069_909486277868432_7853693354615952033_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XQNIDHYuxcoQ7kNvgHrgtOC&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AljRDXvhDzgOL0SDrvRDF9h&oh=00_AYBEiYzEPfFgdEE2aQSV56rr4jUk_BDz1iyuwqeQOIvv6g&oe=67A2AE8F",
-    "tag": "MUSIC",
-    "platform": "Facebook",
-    "page_name": "K.B. Hallen",
-    "page_url": "https://www.facebook.com/kbhallen/events"
-  },
-  {
     "id": "436570836196936",
     "name": "Queer Wellness 🫧apr25🫧",
     "date": {
@@ -129,9 +69,9 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": "Sjællandsgade 12a",
-      "city": "Copenhagen, Denmark",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
       "bounds_ne_lat": 55.6935,
@@ -143,10 +83,40 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/436570836196936/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xbuRtjjt74AQ7kNvgFqr8cZ&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AeePKSHhqjWtFCWHNujragz&oh=00_AYCCfoQ-DXUnMqBK6ysScE03Hop6ajaPpGVSiI55AYpr8Q&oe=67A2AE4F",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xbuRtjjt74AQ7kNvgG9A5la&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Ao5tEwh9_IC3U2szMQpq2Kf&oh=00_AYBP_hrBLut5AuwNRIHa7_fmx-HpFO2EY7iyRxl2Bsv2Tg&oe=67A4A88F",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
     "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "958604582896971",
+    "name": "benspænd: Stephanie Meincke + Lea Eyðbjørg",
+    "date": {
+      "start_timestamp": 1744306200,
+      "end_timestamp": 1744313400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70481249999999,
+      "longitude": 12.581687500000001,
+      "bounds_ne_lat": 55.70487499999999,
+      "bounds_ne_lng": 12.58175,
+      "bounds_sw_lat": 55.70474999999999,
+      "bounds_sw_lng": 12.581625000000003,
+      "plus_code_global": "9F7JPH3J+WM",
+      "plus_code_local": "PH3J+WM",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/958604582896971/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475583957_1700605897385461_1127036992309642058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HTV56ZJJhqUQ7kNvgH6kqMT&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A6EIPS8mUMqsQRatGtgcjoD&oh=00_AYDJ_jx1fgCH8OivesAZ8lbmF8DTAjygC4A7BopubZGxiw&oe=67A4984B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Villa Kultur",
+    "page_url": "https://www.facebook.com/villakultur/events"
   }
 ]

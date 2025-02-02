@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1273187970466429/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470571122_999026332254795_6787415525240698183_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2LxmAmsF12kQ7kNvgE2fKUA&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AchHqI69CGzwgk63E88QsZi&oh=00_AYDH7wWoRthET5LxQA7EQ3BjTic2HhmNCInFNj4rDjcFgg&oe=67A2A5A4",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470571122_999026332254795_6787415525240698183_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xrEZ3qD7_9MQ7kNvgF58Q8g&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AbjteXeBwjSAUAPyrPaLfEu&oh=00_AYDpEd0FBGxNhvaxu7DzdbnvT4uo9CP-L7ailcGX2IIVaA&oe=67A49FE4",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Jægersborggade",
@@ -43,7 +43,7 @@
       "name": "jægersborggade, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6923125,
       "longitude": 12.5444375,
       "bounds_ne_lat": 55.692375,
@@ -55,10 +55,72 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/612799001313226/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470517351_998433065647455_4235889030398913365_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W-feeDCHacwQ7kNvgEriNAe&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ALRIUXcnMDO7CDB6gqNP10q&oh=00_AYB6YD79NQO7y1de6047u9oZ9QL4Sj0pr0TV0cdBUPRIGA&oe=67A2C9EF",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470517351_998433065647455_4235889030398913365_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ftQaXgUceVYQ7kNvgFRv3T2&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ARxW1_WP6pd3YN5f1CoemqD&oh=00_AYC_8RqDo_M-4hYtVk2MMUXgDztYhqSBw7MmecfUJ1wAnQ&oe=67A48BEF",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Jægersborggade",
     "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "1470059583700251",
+    "name": "Bøssehusets Juleshow",
+    "description": "Så er det igen den tid på året! Er du klar til Juleshow i Bøssehuset?\n🎄🍆🌟\n\nKom og mærk julefreden sænke sig i Bøssehuset med den velkendte duft af vodka med gløgg i og svedige polyesterkjoler mens du oplever et væld af byens billigste og bedste trash drags 💋\n\nDørene åbner kl. 19, og showet starter kl. 20.\nKøb tidlig-mis-billetter til 69,- kr via billetlink\neller 100,- kr. i døren\n\nAlle er velkomne - også på scenen! \nSkriv til info@boessehuset hvis du skal være Bøssehusets næste stjerne! \n🎭🎙️🌟",
+    "date": {
+      "start_timestamp": 1734807600,
+      "end_timestamp": 1734818400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mælkevejen 69, 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6743125,
+      "longitude": 12.600687500000006,
+      "bounds_ne_lat": 55.674375,
+      "bounds_ne_lng": 12.600750000000005,
+      "bounds_sw_lat": 55.67425,
+      "bounds_sw_lng": 12.600625000000008,
+      "plus_code_global": "9F7JMJF2+P7",
+      "plus_code_local": "MJF2+P7",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1470059560366920/?event_time_id=1470059583700251",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/463121509_1080534604080133_3671120727545488159_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=j_OE04Q7Yl4Q7kNvgEr9bYv&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AbwgwYx2zrhHteqnF69PoDs&oh=00_AYDmFownyp86rYaxaSDI8IgW-wZSw2AeFElbER6CVmdSEg&oe=67A4A228",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Bøssehuset",
+    "page_url": "https://www.facebook.com/boessehuset/events"
+  },
+  {
+    "id": "1068433171023767",
+    "name": "Schwanzen jul",
+    "description": "SÅ ER DET TID IGEN!\nSCHWANZEN JUL i BØSSEHUSET\n🌈🎅🏾🎄🎶🎉🕺🏿🎉🎶🎄🎅🏾🌈\n\nd. 10., 11., 12., 17., 18., 19. dec\nshow starter kl. 19:30, dørene åbner kl. 18:30\n\nEn uforglemmelig, hyggelig og grænsesøgende juleoplevelse ligger forude.\nSchwanzen Sänger Knaben, det sofistikerede og lille mandskor, der igennem 29 år har sunget sig ind i hjerterne på folk og sjofle sjæle, synger atter julen ind i Bøssehuset 🎄\n\nIgen i år vendes med skarpt vinklede tekster og blide introduktioner, alle tænkelige følelser og forventninger omkring julen. Hårdt, men kort sagt: De nødvendig sange. Det hele er pakket ind i smukke klange og med uimodståelige koreografier, noter af julegran, dunst af andefedt og duft af rødkål og kanel 🎅🏾🎵🎄🎵🎅🏾\n\nVi synger om gamle kendinge, som Børge, Bager Bolle, Masochisten og Sigurd på plejehjemmet. Vi synger nye sange om studenten Sofus Jensen fra Videbæk og hans økonomiske gennembrud i København, om skilsmissedrengen KENs faderkompleks og om den ældre mand der hjælper en frelser-mand til nye indsigter. \nVi synger om juleglæde og julesorger 🎭\n\nALT er pakket ind i de smukkeste a capella klange og uimodståelige koreografier under mottoet: \nSammen UD - sammen HJEM i Bøssehuset i Christiania\n\nEntré: 200,-\nBestil billetter på:\nBilletlink på denne side (ingen mulighed for refusion)\neller \nSchwanzenShow@gmail.com",
+    "date": {
+      "start_timestamp": 1734633000,
+      "end_timestamp": 1734640200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mælkevejen 69, 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6743125,
+      "longitude": 12.600687500000006,
+      "bounds_ne_lat": 55.674375,
+      "bounds_ne_lng": 12.600750000000005,
+      "bounds_sw_lat": 55.67425,
+      "bounds_sw_lng": 12.600625000000008,
+      "plus_code_global": "9F7JMJF2+P7",
+      "plus_code_local": "MJF2+P7",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1068433151023769/?event_time_id=1068433171023767",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/462619834_1080515164082077_6126004707887909539_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=yvtEkSv4LHsQ7kNvgFlKumF&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AFHV9rvk5EPrNugOZFfrJYO&oh=00_AYDkzRsUTuXkOLxk6eUvt6t-4vIcap6a0ZI98JDeOJTxpQ&oe=67A47C30",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Bøssehuset",
+    "page_url": "https://www.facebook.com/boessehuset/events"
   }
 ]

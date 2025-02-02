@@ -60,6 +60,126 @@
     "page_url": "https://huset.kk.dk/en/events"
   },
   {
+    "id": "1569710526987795",
+    "name": "Queer Wellness 🫧mar25🫧",
+    "date": {
+      "start_timestamp": 1742659200,
+      "end_timestamp": 1742673600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Sjællandsgade Bad",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6934375,
+      "longitude": 12.553437500000015,
+      "bounds_ne_lat": 55.6935,
+      "bounds_ne_lng": 12.553500000000014,
+      "bounds_sw_lat": 55.693375,
+      "bounds_sw_lng": 12.553375000000017,
+      "plus_code_global": "9F7JMHV3+99",
+      "plus_code_local": "MHV3+99",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1569710526987795/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/469021218_565606689543992_5904698596149031481_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BBYGmbt7Q-QQ7kNvgHf_K4g&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Ak3G-eGsYCtyErKtPV_B-gV&oh=00_AYCQgFdNHkGeCWZaSB7wv3Vil0GVozzQQ7BxlhKb3Rga2Q&oe=67A48FB7",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "FLINT kbh",
+    "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "9078305935585393",
+    "name": "Fotomarked med Copenhagen Photo Festival",
+    "date": {
+      "start_timestamp": 1742634000,
+      "end_timestamp": 1742652000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Absalon",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66543749999998,
+      "longitude": 12.550312500000004,
+      "bounds_ne_lat": 55.66549999999998,
+      "bounds_ne_lng": 12.550375000000003,
+      "bounds_sw_lat": 55.66537499999998,
+      "bounds_sw_lng": 12.550250000000005,
+      "plus_code_global": "9F7JMH82+54",
+      "plus_code_local": "MH82+54",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/9078305935585393/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473322803_663769979306476_5865946992225451039_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4f0DxxPzymMQ7kNvgHvQc6r&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AADMSJiqvXanxWscHBuvesi&oh=00_AYBd5Cvd7o1B5bRvtK0dnLyMS7RKqFp73I_1rZj60bzlWQ&oe=67A4A850",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Photo Festival",
+    "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
+  },
+  {
+    "id": "1118490709761586",
+    "name": "ATW presents Interplanetary Criminal & Main Phase",
+    "date": {
+      "start_timestamp": 1742680800,
+      "end_timestamp": 1742706000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1118490709761586/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474585029_1121640316327353_4308156561848425855_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jYTysV9gXAIQ7kNvgF4AG8z&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AcmRFzBVxcZxdDTRxf7Lx0B&oh=00_AYBu6LfwN42YAIePAKpnXfjnVTQNwaJunkwol1TS2u1vlw&oe=679BEF1D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hangaren",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "1276547023564551",
+    "name": "Workshop: Simple sound setups for small songwriter venues",
+    "date": {
+      "start_timestamp": 1742742000,
+      "end_timestamp": 1742749200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "LiteraturHaus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.555562499999994,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555624999999992,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.555499999999995,
+      "plus_code_global": "9F7JMHR4+86",
+      "plus_code_local": "MHR4+86",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1276547023564551/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473395668_1129473175853290_8295063349933033812_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Di7vvGOwPSsQ7kNvgE_S6f3&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AHuC3rcGokRyaGk_-cYYzBq&oh=00_AYAokiSb38jmoTBngsAa5CMcJz2_XARuv9rIYLQ7Qbb1tg&oe=679EE2DE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Cph Listening Room",
+    "page_url": "https://www.facebook.com/CopenhagenSundayOpenStageListeningRoom/events"
+  },
+  {
     "id": "2399186447087607",
     "name": "Moshpit Mayhem vol.3",
     "date": {
@@ -69,9 +189,9 @@
     },
     "location": {
       "name": "Ungdomshuset",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Dortheavej 61",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.70868749999998,
       "longitude": 12.523437500000014,
       "bounds_ne_lat": 55.70874999999998,
@@ -83,7 +203,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2399186447087607/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472798053_1003005668305352_8951621159181224439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SCS-G4t2B0cQ7kNvgEBHm2q&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AKjDLcaqHXpT8uy2lkBxoJ3&oh=00_AYDRY9ESf6DI95xfo8ISqd2EHpG8hUWLWliEwhyNR3tjcw&oe=67A2B6EA",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472798053_1003005668305352_8951621159181224439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Oi0GM5YVzF4Q7kNvgGm5Ix3&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ADiXP6IU6oODWYYnd1ROiJy&oh=00_AYAnKFyyeNyOoG2AxTCtXMIOxM8ha3xwtdynYN1VBkhcRw&oe=67A478EA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ungdomshuset",
@@ -113,70 +233,100 @@
       "plus_code_locality": "Frederiksberg, Denmark"
     },
     "url": "https://www.facebook.com/events/1108861313770716/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/464286704_955354306625944_1389626354003897999_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=N8ZRg-Q4otgQ7kNvgFhHLtG&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Anu9i-AcsXUTqFfYztSQhAa&oh=00_AYDgv-XJE18ZRjNY_Bv0Hxm8X1fjrE6eEskxqHrLS6TOsQ&oe=67A2B559",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/464286704_955354306625944_1389626354003897999_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PZ23zhYhUkAQ7kNvgE8RviV&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AwVQkBfSX7160Ti012-1SiW&oh=00_AYD__fDs8zWECNPzX6K5ZY46qcB61HZQWdVN4dkFh28XgA&oe=67A47759",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
   },
   {
-    "id": "1569710526987795",
-    "name": "Queer Wellness 🫧mar25🫧",
+    "id": "410381685054009",
+    "name": "Mercenary - BETA",
     "date": {
-      "start_timestamp": 1742659200,
-      "end_timestamp": 1742673600,
+      "start_timestamp": 1742670000,
+      "end_timestamp": 1742677200,
       "timezone": "UTC+01"
     },
     "location": {
-      "name": "Sjællandsgade Bad",
+      "name": "BETA2300",
       "address": null,
       "city": "",
       "country": null,
-      "latitude": 55.6934375,
-      "longitude": 12.553437500000015,
-      "bounds_ne_lat": 55.6935,
-      "bounds_ne_lng": 12.553500000000014,
-      "bounds_sw_lat": 55.693375,
-      "bounds_sw_lng": 12.553375000000017,
-      "plus_code_global": "9F7JMHV3+99",
-      "plus_code_local": "MHV3+99",
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
       "plus_code_locality": "Copenhagen, Denmark"
     },
-    "url": "https://www.facebook.com/events/1569710526987795/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/469021218_565606689543992_5904698596149031481_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BBYGmbt7Q-QQ7kNvgHx0yZE&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AQwpZwxKAwhtS7lS6ALwGxa&oh=00_AYC97ubFRQOSPv4LbEhBNg1eltVstYMq3yK6Ua-215XTeA&oe=67A2CDB7",
-    "tag": "LGBTQ+",
+    "url": "https://www.facebook.com/events/410381685054009/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460451747_10162074831218641_2313027564955611073_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R4JZDgdg10AQ7kNvgFUtoM2&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ArfUSuP--UZ36AGTOuAED3s&oh=00_AYDyGvT9HxAWWk3D0D74KcoXIrTkL094CZZ8ICZ4YpEOkA&oe=67A4942B",
+    "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "FLINT kbh",
-    "page_url": "https://www.facebook.com/flintkbh/events"
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
   },
   {
-    "id": "9078305935585393",
-    "name": "Fotomarked med Copenhagen Photo Festival",
+    "id": "2404378376564616",
+    "name": "WOLVES OF SATURN [GER] (FUZZED OUT DESERT ROCK)",
     "date": {
-      "start_timestamp": 1742634000,
-      "end_timestamp": 1742652000,
+      "start_timestamp": 1742500800,
+      "end_timestamp": 1742508000,
       "timezone": "UTC+01"
     },
     "location": {
-      "name": "Absalon",
+      "name": "Lygten 29, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
-      "latitude": 55.66543749999998,
-      "longitude": 12.550312500000004,
-      "bounds_ne_lat": 55.66549999999998,
-      "bounds_ne_lng": 12.550375000000003,
-      "bounds_sw_lat": 55.66537499999998,
-      "bounds_sw_lng": 12.550250000000005,
-      "plus_code_global": "9F7JMH82+54",
-      "plus_code_local": "MH82+54",
+      "country": null,
+      "latitude": 55.70306249999997,
+      "longitude": 12.537312499999999,
+      "bounds_ne_lat": 55.70312499999997,
+      "bounds_ne_lng": 12.537374999999997,
+      "bounds_sw_lat": 55.702999999999975,
+      "bounds_sw_lng": 12.53725,
+      "plus_code_global": "9F7JPG3P+6W",
+      "plus_code_local": "PG3P+6W",
       "plus_code_locality": "Copenhagen, Denmark"
     },
-    "url": "https://www.facebook.com/events/9078305935585393/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473322803_663769979306476_5865946992225451039_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0Lp20uy7CS0Q7kNvgG1u_Jx&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A_5fxWtewjpil5U6zJkrrik&oh=00_AYDsPbeoJUIuKaxOYn3yoJBOYPlatt1j0ltL3baE20-kkA&oe=67A2AE10",
-    "tag": "SHOPPING",
+    "url": "https://www.facebook.com/events/2404378376564616/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475681774_1123415169795399_5646003707955892576_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=r12m0nBhddYQ7kNvgEZj1KH&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AiaTNqGoGZrfm_5wnniyrXt&oh=00_AYB3rstUep7n6PYE9geCtxcW_9pKOB2e6Wjwd7NxhRdrxg&oe=67A4A5DA",
+    "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Copenhagen Photo Festival",
-    "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
+    "page_name": "Lygtens Kro",
+    "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "572267615351381",
+    "name": "Ryan Adams 'Heartbreaker '25 World Tour / K.B. Hallen 20. marts",
+    "date": {
+      "start_timestamp": 1742497200,
+      "end_timestamp": 1742504400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": "Peter Bangs Vej 147",
+      "city": "Frederiksberg",
+      "country": "DK",
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark"
+    },
+    "url": "https://www.facebook.com/events/572267615351381/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/466037560_990756089746557_8775354415643929316_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bvCLtnIPrOAQ7kNvgGXlKSJ&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AiRcFEBLquEoqs868x8qmOz&oh=00_AYDjQo5znsvj3s7oLjUWuXL3Oh3_x7Vk-k4Y7m18Hzcm4g&oe=67A4A715",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
   }
 ]

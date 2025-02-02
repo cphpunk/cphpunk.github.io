@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1072462113412713/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/469880828_592660423542184_4896005966302543926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=L6JFRDWTxEAQ7kNvgEEAlYX&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Az2SzXEGQwBOrZhQchYdcQJ&oh=00_AYB3IiPFuPxFwhpFBBash-2muG-LEZAjo64GBHlNO_1cHA&oe=67A29F2B",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/469880828_592660423542184_4896005966302543926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EhxtMvvj9GkQ7kNvgGJboHf&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A_3vZMkzSRjYCzgoB9vuD7G&oh=00_AYBS4tCvNeTTBV3bbI5WIlQoQcwuKNu-Yry1eirecUw7IQ&oe=67A4996B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",
@@ -41,9 +41,9 @@
     },
     "location": {
       "name": "Cinemateket",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Gothersgade 55",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -55,7 +55,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/438520781409554/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470040200_592661236875436_7265927911039565696_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YpmzIN9qbAgQ7kNvgH10SjD&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AalStsGnjNiDM_KYeVIa7Zx&oh=00_AYAf7zt4S2yd9nIk5WBowkX3EgRqT1RpRBKkZRrL7JeTPg&oe=67A2BDA1",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470040200_592661236875436_7265927911039565696_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6NJf5iRq2v8Q7kNvgFMwTri&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A1EwhTYPI6zmVSMJq83uzpH&oh=00_AYA996_Ed9Cs0duYO9_oRmXgRCm2Mg6VtbKgB9CpELStBQ&oe=67A47FA1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",

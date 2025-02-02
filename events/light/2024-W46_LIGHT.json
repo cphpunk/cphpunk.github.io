@@ -1,5 +1,35 @@
 [
   {
+    "id": "531402449830405",
+    "name": "Forfatteraften - Mød Jonas Eika, Malte Tellerup, Helene Johanne Christensen, Mette Kierstein og Rolf Sparre Johansson",
+    "date": {
+      "start_timestamp": 1731434400,
+      "end_timestamp": 1731441600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Wagnersvej 19, 2450 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.64681249999997,
+      "longitude": 12.529812500000006,
+      "bounds_ne_lat": 55.646874999999966,
+      "bounds_ne_lng": 12.529875000000004,
+      "bounds_sw_lat": 55.64674999999997,
+      "bounds_sw_lng": 12.529750000000007,
+      "plus_code_global": "9F7JJGWH+PW",
+      "plus_code_local": "JGWH+PW",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/531402449830405/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/462107650_951310147038483_8715956542453996941_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h8B3we64cYMQ7kNvgE1woPb&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AYXxlGL8k5bmvOmtEvgAbpY&oh=00_AYALz0fectIzJkggrVBr6VZdpjtpr6rR7ohb_NCGlxmG7g&oe=679EF5BA",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Sydhavnens Bibliotek",
+    "page_url": "https://www.facebook.com/sydhavnensbibliotek/events"
+  },
+  {
     "id": "1274118137107213",
     "name": "Jægersborggade Julelystænding 2024",
     "date": {
@@ -23,7 +53,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1274118137107213/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/465737691_971400811684014_5878783356809275405_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UJCmoiHeA-4Q7kNvgHtIkwc&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AOUR8CPpoGCto5E9Ht8Toef&oh=00_AYAoQANboNNqdilCM2TrsZNqs3oYCRwQlG3Q5ma7cUGNpA&oe=67A2AC79",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/465737691_971400811684014_5878783356809275405_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UJCmoiHeA-4Q7kNvgH1sOLJ&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A4wSfsdxnBDp7wlgoMLrSYB&oh=00_AYDpC26k3mYtfqvrit7wDpkZhrcBrMhW4GeRYUasekbuuQ&oe=67A4A6B9",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Jægersborggade",
@@ -41,7 +71,7 @@
       "name": "Operaen Christiania",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67381250000001,
       "longitude": 12.599437500000036,
       "bounds_ne_lat": 55.67387500000001,
@@ -53,7 +83,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/558487883535453/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/465850413_10233495472150824_6907420520162033451_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ERu3D9i1a3YQ7kNvgHK8ZmO&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Ab18bShr7juWcsdZKU6b8Af&oh=00_AYC75SsAtZRfCLn-SsMzeChnEEe2AhvXbrDwgMZF9QatBQ&oe=67A2C055",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/465850413_10233495472150824_6907420520162033451_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iUOXBwIdd2MQ7kNvgG5F3sH&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AuO1n113k59ixhmUbX-wxkI&oh=00_AYBmg24Jqv_gq9Tj846MWFXSyfnOa_5OJgm6L9CTAZuQtA&oe=67A48255",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",
@@ -71,7 +101,7 @@
       "name": "Operaen Christiania",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67381250000001,
       "longitude": 12.599437500000036,
       "bounds_ne_lat": 55.67387500000001,
@@ -83,10 +113,100 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1283438599760195/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/466419674_533445989476718_4232951284296260272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VHajswbea6cQ7kNvgGDlhRi&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=APSqitO39SMVnVWiDWNf--6&oh=00_AYDfAuAshYq4ZVghme3kfRrFSHjm-kc0t-xyJOvUebbphg&oe=67A29D17",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/466419674_533445989476718_4232951284296260272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VHajswbea6cQ7kNvgHtz7ZG&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A4nIyq5bbyQd_2FSfNAl_qG&oh=00_AYBtf7b0Dj7GLuTx_Z8hIeR2Z2r7lZ7USqqZMQEhlF--ig&oe=67A49757",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",
     "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "937354268451890",
+    "name": "(UDSOLGT) Forpremiere: No Other Land + Talk med Basel Adra, Yuval Abraham & Nagieb Khaja ",
+    "date": {
+      "start_timestamp": 1731693600,
+      "end_timestamp": 1731700800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/937354268451890/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/464791634_1082929529874691_8648164727752759115_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pWMSU5X8MSYQ7kNvgEMQH2I&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ax0Z8npWnIFnwLn1dR0mxDW&oh=00_AYC90YMUB0_j98lg1D_jw6nSPk8wHAe_yU1ZXMdHS48wNA&oe=67943F18",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "580217364417325",
+    "name": "EKSTRA Forpremiere: No Other Land – mød Basel Adra og Yuval Abraham",
+    "date": {
+      "start_timestamp": 1731684600,
+      "end_timestamp": 1731691800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/580217364417325/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/465705741_1088313816002929_4760260503577692581_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fCVVMmLLhuQQ7kNvgF4Uutk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=As3oDX6nV4iBvf88pVTd1fc&oh=00_AYBffg0MNrG7_yAEWxsXqh-T6F2Y21kJRZsaa4MlzZ2tOQ&oe=67943447",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "1126243145757903",
+    "name": "Forpremiere: No Other Land med instruktørbesøg ",
+    "date": {
+      "start_timestamp": 1731616200,
+      "end_timestamp": 1731623400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": -1,
+      "longitude": -1,
+      "bounds_ne_lat": -1,
+      "bounds_ne_lng": -1,
+      "bounds_sw_lat": -1,
+      "bounds_sw_lng": -1,
+      "plus_code_global": "",
+      "plus_code_local": "",
+      "plus_code_locality": ""
+    },
+    "url": "https://www.facebook.com/events/1126243145757903/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/464880164_1082903923210585_1287535386145148595_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7yBSvRh9TzEQ7kNvgHqd30Y&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ALmjMOSRfEhplGYQcgZtXGX&oh=00_AYDIyZXrkWym1yYqHUq7MgtCopJUXP6xMqa6qB4x7hNU-g&oe=67944F08",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
   }
 ]

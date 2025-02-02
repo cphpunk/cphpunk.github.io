@@ -1,0 +1,33 @@
+[
+  {
+    "id": "984280139707710",
+    "name": "Olla Común 🥘 - South American Community Kitchen ",
+    "description": "******ENGLISH BELOW******\n\nHola a todes!\nLes esperamos el jueves 25 a las 18.30 para la Olla Comun primaveral\nEsta vez vamos a servir un almuerzo dominicano de la receta que nos paso una amiga de DR. La comida sera:\n- Arroz tostado sofritado\n- Porotos rojos siguiendo la receta de la mama de Cesia\n- Ensalada de los vegetales que nos donaran\n- Vegetales al horno \n💸 para las donaciones por favor traigan efectivo pero tambien hay MobilePay :)\nSi quieren saber mas de la olla o unirse como voluntarios vean nuestra pagina web en https://ollacomun.org\n-----------------------------------\nHi everyone!\nJoin us Thursday 25th at 18.30 for the spring Olla Comun!!\nThis month we will make a typical dominican lunch, following the recipe of a dear friend of ours from DR. The food will be:\n- Toasted Rice cooked in sofrito broth\n- Red beans following Cesia's mom recipe\n- Salad from donated veggies\n- Oven roasted veggies\n💸 bring cash for donations pleaseeee otherwise we also have mobilepay\nIf you would like to know more or join us as volunteer check out our website for more info https://ollacomun.org",
+    "date": {
+      "start_timestamp": 1714062600,
+      "end_timestamp": 1714069800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Folkets Hus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.687312500000004,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687375,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.687250000000006,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+WP",
+      "plus_code_local": "MHP3+WP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/984280139707710/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/439906333_404837612397328_4634622076636105169_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0Sk5ndZVcxkQ7kNvgHRsz-M&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AD5IspWqxmZppUyixQlVVaN&oh=00_AYDOExw06yaD-B9rTEE4iwePbHE5PWXmZLiV4b27MydyBA&oe=67A47FE7",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
+  }
+]

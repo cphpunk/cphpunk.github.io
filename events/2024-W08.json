@@ -12,7 +12,7 @@
       "name": "Mayhem Kbh",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
       "bounds_ne_lat": 55.70749999999998,
@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/987852269546341/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/422269999_883972696761478_1466916912500886663_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sxSGrGhrresQ7kNvgHRgX9P&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AtvIpNeQYaYwzVBfwI8jQUi&oh=00_AYByIj4cbKKRTE-uSIJJN6r0JlAj5FY19tAUOU08u1mbzQ&oe=67A2BE8E",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/422269999_883972696761478_1466916912500886663_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0t-1uaQzlfYQ7kNvgFaG_HK&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A2Mi5x8XwqQ-_U0TUl5J63U&oh=00_AYDdindNdimbay0D9G99JxwpHrk7roo96W7z7BenI7QHFA&oe=67A4808E",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",

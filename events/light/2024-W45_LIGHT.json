@@ -11,7 +11,7 @@
       "name": "Wagnersvej 19, 2450 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.64681249999997,
       "longitude": 12.529812500000006,
       "bounds_ne_lat": 55.646874999999966,
@@ -23,7 +23,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1058109419139259/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465042998_970650315104466_8524368260839644449_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=muyD3CuUBOsQ7kNvgG8AzYW&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AQDm1j-6mNRtlRXudzsUnB7&oh=00_AYDu1TaSXBMpoKRRZL_Y8o4eJhz3CbeMUzRCppsxqnUJIQ&oe=679BEE90",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465042998_970650315104466_8524368260839644449_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=muyD3CuUBOsQ7kNvgH5sPke&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AnLgXVcCGurUbgExGbLKhrA&oh=00_AYDQ7ZuIZNCm5CehHsMXR9GSPq0NR9TufMDeZRY2gb8eHw&oe=679EC9D0",
     "tag": "GAMES",
     "platform": "Facebook",
     "page_name": "Sydhavnens Bibliotek",

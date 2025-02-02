@@ -23,10 +23,40 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1104066110666522/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/444784192_1056882815848674_289750665315584013_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kCbCA6mc-7sQ7kNvgFGSpyV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AEJXWM3JjHSBTZmN4r4-cSC&oh=00_AYDoI26SpPNkYmPEWcYvWuVIOkccle2uhc-r0gNbHIJb9g&oe=67A2C900",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/444784192_1056882815848674_289750665315584013_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kCbCA6mc-7sQ7kNvgHrSubT&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AANUGHp8g8WJn_aZzxoh8Ae&oh=00_AYCj_s3xgqxuI2ZmH6vfO7txEuwLSEZBiN2l7tlTSRecig&oe=67A48B00",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ricco's Kaffebar",
     "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
+  },
+  {
+    "id": "484204137372210",
+    "name": " Olla Común - South American Community Kitchen ",
+    "date": {
+      "start_timestamp": 1717691400,
+      "end_timestamp": 1717698600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/484204137372210/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/445751532_428919283322494_1398968225559518926_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gMWEezIQ_T4Q7kNvgFH1k86&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A1zwp6a2nHVM2Q8o93rREBe&oh=00_AYAL2xPzm6IrHoT6Ev9et0wcTQzUjZW1euyFttOIquEDdw&oe=67A4A687",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

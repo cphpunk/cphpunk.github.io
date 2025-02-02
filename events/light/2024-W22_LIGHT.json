@@ -5,13 +5,13 @@
     "date": {
       "start_timestamp": 1717232400,
       "end_timestamp": 1717239600,
-      "timezone": "UTC+02"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Amager Centret",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.662937499999984,
       "longitude": 12.603687499999992,
       "bounds_ne_lat": 55.66299999999998,
@@ -23,7 +23,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/834230535190321/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/441522367_959538962838900_9000073774481272827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=b5tpu0fTFnUQ7kNvgHVu7VP&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AZLbdd3WIpyRRKexE55hFmN&oh=00_AYBE5UFWG_fpbsIKKJ9KssD-DG3fmLA1Un7082OhPGyvKw&oe=67A2AA56",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/441522367_959538962838900_9000073774481272827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UPPaxzQmUVkQ7kNvgG9mjxP&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AP8bgj1R4DpMkhmhrKyjKb2&oh=00_AYCTpijHr8-AEj3dYRjfVBHa5HiK1cCosoxYbxUiNyx-zA&oe=67A4A496",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",

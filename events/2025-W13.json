@@ -31,6 +31,37 @@
     "page_url": "https://huset.kk.dk/en/events"
   },
   {
+    "id": "1103765154659536",
+    "name": "FabLab Makers Meetup",
+    "description": "Meet your fellow Makers at FabLab Nordvest last Thursday each month!\n\nThis is an opportunity to meet both new and old community-members, to spar with other members about your projects and to visit FabLab if you're just interested in getting to know the space. \n\nSee you!",
+    "date": {
+      "start_timestamp": 1743098400,
+      "end_timestamp": 1743109200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.709812499999984,
+      "longitude": 12.526937500000017,
+      "bounds_ne_lat": 55.70987499999998,
+      "bounds_ne_lng": 12.527000000000015,
+      "bounds_sw_lat": 55.709749999999985,
+      "bounds_sw_lng": 12.526875000000018,
+      "plus_code_global": "9F7JPG5G+WQ",
+      "plus_code_local": "PG5G+WQ",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1103765154659536/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nXPl7iFvkykQ7kNvgHPrKYG&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AFoRcXFkC3eW1nCalQKJNPt&oh=00_AYDCvQAZcRBdPiFumRPLNn-2t9MxyV80VPoLb5ADnlfOFg&oe=67A47998",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Fablab Nordvest",
+    "page_url": "https://www.facebook.com/fablabnordvest/events"
+  },
+  {
     "id": "kk-kendall-lujan-us",
     "name": "kendall lujan (US)",
     "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Portland, Oregon based artist, kendall lujan embarks on her first full length album “Lucky Penny’ it is set to be released Fall 2024. After releasing her Debut self titled EP last Spring, featured on official playlist for Spotify and Apple Music. Lujan also gaining attention from NPR’s Tiny Desk, MTV and winning the John Lennon Songwriting contest. Sharing the stage with Amos Lee, Frazey Ford (of The Be Good Tanyas), Allie Crow Buckley, Early James, and The Magnetic Fields. ‘Lucky Penny’ features many genres including Jazz, Folk, Bosa Nova and Indie-Rock. The natural singer and songwriter put together a studio band with Micah Hummel (drums), Colin Schmidt (bass) and Alex Milsted (piano) and recorded at the Map Room Studio in Portland, Oregon with Dominik Schmidt producing.\n  <br/>\n  <br/>\n  Her writing is real, introspective and reflective. After touring the songs in Europe twice this past Fall lujan is ready to show her versatility and growth as an artist.\n  <br/>\n  <br/>\n  The first single to be released late March 2024 titled ‘Goodbyes’. The song explores mourning and loss of important people in your world. In the sense of ending romantic relationships it explores the process of knowing when someone isn’t suited for your life or growth any longer. Lujan writes “I wrote this song to remind myself that even though things are hard you will meet those people who stick around eventually.” Even though people come and go in your world, remembering that there will be lots of cries and laughs on your journey to finding those people who see you for who you are. The main hook stating: ‘it takes a lot of goodbyes to get to forever.\n </p>\n</div>\n",
@@ -74,7 +105,7 @@
       "name": "Bremen Teater",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
       "bounds_ne_lat": 55.676625,
@@ -86,7 +117,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1128004235639421/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474150801_1139170244250619_5771595994633867145_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BQruxLVy2AcQ7kNvgHctYUa&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A1tFPeDddZgqhC8ufq9mq43&oh=00_AYAZHwOLXB8GQwxPfo3tr0o36oEuabp_9yjduGaOp2nfng&oe=67A29CF3",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474150801_1139170244250619_5771595994633867145_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BQruxLVy2AcQ7kNvgGg1pDM&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Awqm8Xs8V9Hm6KhztQLE_Vs&oh=00_AYAe_Cbk-LrySqHuBcmRt9lBJblSTTRDouiiDGVmIprIrA&oe=67A49733",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -105,7 +136,7 @@
       "name": "Bremen Teater",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
       "bounds_ne_lat": 55.676625,
@@ -117,42 +148,11 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/586891907601034/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/474874848_1139210344246609_8834822748911733996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dRY1c-IZBEIQ7kNvgGB7cVL&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AnS39aGrl4iR0QAme1EDXM1&oh=00_AYA1CvLUv6Cb_vjdV8BkCxG1tkFeiPGdVNuK_5QxTEsRzw&oe=67A2BF0D",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/474874848_1139210344246609_8834822748911733996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dRY1c-IZBEIQ7kNvgFFbvbO&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AkMKg9fIZFgHK1azWBagCbZ&oh=00_AYDQeKT0psTlrKDGTxdyC12yvDID3cByLQiYy_zbPLSMuQ&oe=67A4810D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
     "page_url": "https://www.facebook.com/cphdox/events"
-  },
-  {
-    "id": "1103765154659536",
-    "name": "FabLab Makers Meetup",
-    "description": "Meet your fellow Makers at FabLab Nordvest last Thursday each month!\n\nThis is an opportunity to meet both new and old community-members, to spar with other members about your projects and to visit FabLab if you're just interested in getting to know the space. \n\nSee you!",
-    "date": {
-      "start_timestamp": 1743098400,
-      "end_timestamp": 1743109200,
-      "timezone": "UTC+01"
-    },
-    "location": {
-      "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
-      "address": null,
-      "city": "",
-      "country": "DK",
-      "latitude": 55.709812499999984,
-      "longitude": 12.526937500000017,
-      "bounds_ne_lat": 55.70987499999998,
-      "bounds_ne_lng": 12.527000000000015,
-      "bounds_sw_lat": 55.709749999999985,
-      "bounds_sw_lng": 12.526875000000018,
-      "plus_code_global": "9F7JPG5G+WQ",
-      "plus_code_local": "PG5G+WQ",
-      "plus_code_locality": "Copenhagen, Denmark"
-    },
-    "url": "https://www.facebook.com/events/1103765154659536/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-k-oKe80PyEQ7kNvgGUJAiU&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AGjGc05HrN9pGHmv3sQJXcz&oh=00_AYD6ogW6l-a9RPr0-sPTXudk3DQkz11CbaiewJyWbZaWvQ&oe=67A2B798",
-    "tag": "COMMUNITY",
-    "platform": "Facebook",
-    "page_name": "Fablab Nordvest",
-    "page_url": "https://www.facebook.com/fablabnordvest/events"
   },
   {
     "id": "1063541145528918",
@@ -179,7 +179,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1063541145528918",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dNjKxvqqzQAQ7kNvgGyKf3o&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AuvQppte7gIpwM-UI1RjXcL&oh=00_AYB2Kakk205l2n6dfhVAevXRoXdMCwkH84uYvcITIkoN4A&oe=67A2AD3F",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473805351_1229778322483012_8929463910491551942_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dNjKxvqqzQAQ7kNvgFptUkl&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AmDLiixKmQQRYo5o6qBDBPs&oh=00_AYDsTBEqsvf8E_b9n8BnOjX03LPBfL-J3p7hkctfK9mhLA&oe=67A4A77F",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Red Door",

@@ -23,7 +23,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/843099127887696/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457326030_940015254824553_8868256468735881165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3s1-Za-4DrAQ7kNvgGLVOyC&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AnjSsH0e6OrSzUUtJG3Lyq5&oh=00_AYAH0U70eFUHxgW1Kh8k019UU530c6grxJT4cHCmJF31GA&oe=67A2B48B",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457326030_940015254824553_8868256468735881165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3s1-Za-4DrAQ7kNvgGspING&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AcNj-QSnkYFjbdLRyO3G5N0&oh=00_AYBVX_XZX62E8NrXoQcphPj1Q3lL_N2bU5qZPmLS9SKaZg&oe=67A4768B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
@@ -41,7 +41,7 @@
       "name": "Refshalevej 167A, 1432 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.69306249999998,
       "longitude": 12.610062499999984,
       "bounds_ne_lat": 55.69312499999998,
@@ -53,10 +53,40 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/426868580506461/?event_time_id=426868583839794",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/459185469_982060843936162_40427392877270687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gcjV6k0CdrcQ7kNvgGKaNUt&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AOLDXDlRb8tHLZYNna7GOja&oh=00_AYAscz6f778PO2hXd_K61V0OY2PTOVOtiB6TjDSCegzIHQ&oe=67A2A066",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/459185469_982060843936162_40427392877270687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gcjV6k0CdrcQ7kNvgELJepo&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AuvhFXr_D0rOdVcLmLTSj1_&oh=00_AYBWuIP5_hL6t99iMitW3W9OOtIX7CthUyHfPj2_ZUrE-w&oe=67A49AA6",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Klub Werkstatt",
     "page_url": "https://www.facebook.com/klubwerkstatt/events"
+  },
+  {
+    "id": "1695260014369465",
+    "name": " Olla Común 🥘 - South American Community Kitchen ",
+    "date": {
+      "start_timestamp": 1727366400,
+      "end_timestamp": 1727373600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1695260014369465/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/461070745_501749656039456_1235627404862153634_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AiHL7WswIngQ7kNvgG5cUf3&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AW9KaQbjxVU7wdGMXUP_Qt5&oh=00_AYAJBKTJ6cvXKRdAQ8PXiq_h5g78W8p5IdYLXhc5UiGM-g&oe=67A479B6",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

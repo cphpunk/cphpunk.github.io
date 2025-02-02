@@ -11,7 +11,7 @@
       "name": "2100 København Ø",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70874999999998,
       "longitude": 12.576250000000016,
       "bounds_ne_lat": 55.70999999999998,
@@ -23,7 +23,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/1097528345227826/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/464436043_1487574641991242_3340941982192236748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MEP-vNEr4lsQ7kNvgFBqSeA&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ADpBI5rBg0f4ewmuNU1Uswz&oh=00_AYDOkD-I3HvGZpBpY8J5TlHQrlXBE6yksDdR-fzamtMkQw&oe=67A2B247",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/464436043_1487574641991242_3340941982192236748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MEP-vNEr4lsQ7kNvgFywKj5&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AviIr3kyMb50e37kbza3Wq8&oh=00_AYAJME-YWbPXurPm60R7a0WyB4Qeje8KmLpdMpYU7Q0Yuw&oe=67A4AC87",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Half Marathon",

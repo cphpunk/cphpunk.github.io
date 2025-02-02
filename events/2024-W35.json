@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1904944246618986",
+    "name": "Olla Común - South American Community Kitchen",
+    "description": "******ENGLISH BELOW******\nHola a todes\nLes esperamos a las 18.00 en el primero piso de La Casa del Pueblo para la Olla Comun de cada mes. La comida se sirve a las 18.30!\n\nEsta vez les ofrecemos un delicioso Sancocho vegano 😋 les gusto mucho la anterior vez y esta vez probaremos una nueva receta de sancocho colombiano\n\nSi todo sale bien, de nuevo tendremos musiquita y unos drinks aperitivos. Los esperamos!!\n\nPara las donaciones por favor traigan efectivo pero tambien hay MobilePay (8258DM)\n\nEsta olla la dedicamos a la memoria de nuestra paisa a quien tragica e injustamente mataron aqui en Copenhague. Todo lo recaudado ira a los gastos de repatriacion y asistencia economica a su familia. Mas informacion aqui: https://www.gofundme.com/f/6krw5-a-beautiful-woman\n\n-----------------------------------\nHi everyone!\nJoin us for the monthly Olla Comun at 18.00 at the first floor of FolketsHus. Food is served at 18.30\n\nThis time we'll do a delicious vegan Sancocho 😋 we have done it before but this time we'll try a different recipe\n\nIn case you don't know Sancocho is a dish that can be found in most South American countries but particularly in the Caribbean. This time we'll attempt to do a colombian one\n\nIf all works out, once again we'll have some music and drinks ;)))\n\nFor donations please bring cash although MobilePay also works (8258DM)\n\nThis olla is in dedication and benefit of of a south american trans woman that was tragically and unjustly murdered here in Copenhagen. For more information please check this link: https://www.gofundme.com/f/6krw5-a-beautiful-woman",
+    "date": {
+      "start_timestamp": 1724947200,
+      "end_timestamp": 1724954400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Folkets Hus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.687312500000004,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687375,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.687250000000006,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+WP",
+      "plus_code_local": "MHP3+WP",
+      "plus_code_locality": "Copenhagen, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1904944246618986/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/457027857_483564077858014_5490214202781242563_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VlARoMsNz8UQ7kNvgFS2nUA&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A2D2ygKIKahmNWjtlbyZ00W&oh=00_AYBJyzfci_EBH5kOhYJa8E71kVsRcS6mchYYQGcFAlnOVQ&oe=67A4A357",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
+  }
+]
