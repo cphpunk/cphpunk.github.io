@@ -60,6 +60,26 @@ h3 {
     }
 }
 
+@media screen and (max-width: 480px) {
+    .header-content {
+        background-image: none;
+    }
+    
+    .roboto-condensed-title {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .header-content {
+        background-image: none;
+    }
+    
+    .roboto-condensed-title {
+        font-size: .95rem;
+    }
+}
+
 .roboto-condensed-title {
     font-family: "Roboto Condensed", serif;
     font-weight: 700;
