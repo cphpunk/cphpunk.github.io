@@ -26,6 +26,11 @@ async function updateEventsByFilters() {
       .some(event => event.style.display !== 'none');
     divider.style.display = hasVisibleEvents ? 'block' : 'none';
   });
+
+  // Show "no events" message if no events are visible
+  const hasVisibleEvents = Array.from(document.querySelectorAll(`.${DOM_CLASSES.EVENTBOX}`))
+    .some(event => event.style.display !== 'none');
+  document.getElementById('noEvents').style.display = hasVisibleEvents ? 'none' : 'block';
 }
 
 async function updateVenueToggles() {
