@@ -9,11 +9,19 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
+/* On Desktop, we need to compensate for the scrollbar disappearing when the modal's open */
+@media (min-width: 768px) {
+    body.modal-open {
+        overflow: hidden;
+        padding-right: 17px;
+    }
+}
 
-/*body.modal-open {*/
-    /*overflow: hidden;*/
-    /*padding-right: 17px; /* Compensate for the scrollbar width */
-/*}*/
+@media (max-width: 767px) {
+    body.modal-open {
+        overflow: hidden;
+    }
+}
 
 h1 {
     color: #1a1a1a;
