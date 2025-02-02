@@ -41,10 +41,34 @@ h3 {
     display: flex;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 20px;
     align-items: center;
     justify-content: center;
     position: relative;
+    background-image: url('assets/cph.png'), url('assets/cph.png');
+    background-position: calc(50% - 240px) center, calc(50% + 240px) center;
+    background-repeat: no-repeat;
+    background-size: 40px;
+}
+
+@media screen and (max-width: 768px) {
+    .header-content {
+        background-position: calc(50% - 180px) center, calc(50% + 180px) center;
+        background-size: 30px;
+    }
+    
+    .roboto-condensed-title {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .header-content {
+        background-image: none; 
+    }
+    
+    .roboto-condensed-title {
+        font-size: 1.2rem;
+    }
 }
 
 .roboto-condensed-title {
