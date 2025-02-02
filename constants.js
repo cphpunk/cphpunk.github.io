@@ -101,7 +101,7 @@ export const DATE_FORMATS = {
 * Default values and fallbacks
 */
 export const DEFAULTS = {
-  PLACEHOLDER_IMAGE: 'placeholder.jpg'
+  PLACEHOLDER_IMAGE: 'https://picsum.photos/400/300',
 };
 
 /*

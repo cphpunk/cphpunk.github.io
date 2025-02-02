@@ -189,7 +189,7 @@ h3 {
 
 .tag-filter:not(.active) {
     opacity: 0.4;
-    transform: scale(0.7);
+    transform: scale(0.9);
     filter: grayscale(100%);
 }
 
