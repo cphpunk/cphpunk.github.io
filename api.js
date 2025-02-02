@@ -42,6 +42,7 @@ export async function loadEvents() {
   ]);
 
   const allEvents = [...currentWeekEvents, ...nextWeekEvents].map(event => ({
+    id : event.id,
     name: event.name,
     description: event.description,
     start: moment.unix(event.date.start_timestamp).toDate(),

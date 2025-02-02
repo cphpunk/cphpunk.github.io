@@ -1,7 +1,12 @@
 import { state } from "./state.js";
-import { DOM_IDS, DOM_CLASSES, TAG_EMOJIS, EVENT_TAGS } from "./constants.js";
+import { DOM_IDS, DOM_CLASSES, TAG_EMOJIS, EVENT_TAGS,  DATE_FORMATS, DEFAULTS, EVENT_DISPLAY  } from "./constants.js";
 
-export function populateVenueFilters() {
+export function generateHTML() {
+  populateVenueFilters();
+  populateEvents();
+}
+
+function populateVenueFilters() {
   const container = document.getElementById(DOM_IDS.VENUE_LIST);
   if (!container) return;
 
@@ -54,4 +59,34 @@ export function populateVenueFilters() {
     console.error('Failed to load venues:', error);
     container.innerHTML = '<p>Failed to load venues</p>';
   }
+}
+
+function populateEvents() {
+  const eventList = document.getElementById(DOM_IDS.EVENT_LIST);
+  
+  eventList.innerHTML = Object.entries(
+    state.events
+      .reduce((groups, event) => {
+        const date = moment(event.start).format(DATE_FORMATS.EVENT_DATE);
+        groups[date] = groups[date] || [];
+        groups[date].push(event);
+        return groups;
+      }, {})
+  ).map(([date, events]) => `
+    <div class="event-day-divider" data-date="${date}">
+      <div class="event-day-container">
+        ${events.map(event => `
+          <div class="${DOM_CLASSES.EVENTBOX}" data-id="${event.id}" onclick="window.open('${event.url}', '_blank')" style="cursor: pointer">
+            <img src="${event.imageUrl || DEFAULTS.PLACEHOLDER_IMAGE}" class="event-image" loading="lazy" alt="${event.name}">
+            <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+            <div class="event-details">
+              <div class="event-title">${event.name}</div>
+              <div class="event-date">${EVENT_DISPLAY.ICONS.DATE} ${moment(event.start).format(DATE_FORMATS.EVENT_TIME)}</div>
+              <div class="event-location">${EVENT_DISPLAY.ICONS.LOCATION} ${event.venue}</div>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `).join('');
 }

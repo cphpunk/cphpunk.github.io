@@ -1,46 +1,34 @@
 import { state } from './state.js';
-import { DOM_IDS, DATE_FORMATS, DEFAULTS, EVENT_DISPLAY } from './constants.js';
+import { DOM_CLASSES } from './constants.js';
 
 export function renderSite() {
-  displayEvents();
+  updateEventsByFilters();
   updateVenueToggles();
 }
 
-function displayEvents() {
-  const eventList = document.getElementById(DOM_IDS.EVENT_LIST);
-  
-  eventList.innerHTML = Object.entries(
-    state.events
-      .filter(event => 
-        state.pageFilters[event.venue] && 
-        state.tagFilters.has(event.tag)
-      )
-      .reduce((groups, event) => {
-        const date = moment(event.start).format(DATE_FORMATS.EVENT_DATE);
-        groups[date] = groups[date] || [];
-        groups[date].push(event);
-        return groups;
-      }, {})
-  ).map(([date, events]) => `
-    <div class="event-day-divider" data-date="${date}">
-      <div class="event-day-container">
-        ${events.map(event => `
-          <div class="event-box" onclick="window.open('${event.url}', '_blank')" style="cursor: pointer">
-            <img src="${event.imageUrl || DEFAULTS.PLACEHOLDER_IMAGE}" class="event-image" loading="lazy" alt="${event.name}">
-            <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
-            <div class="event-details">
-              <div class="event-title">${event.name}</div>
-              <div class="event-date">${EVENT_DISPLAY.ICONS.DATE} ${moment(event.start).format(DATE_FORMATS.EVENT_TIME)}</div>
-              <div class="event-location">${EVENT_DISPLAY.ICONS.LOCATION} ${event.venue}</div>
-            </div>
-          </div>
-        `).join('')}
-      </div>
-    </div>
-  `).join('');
+async function updateEventsByFilters() {
+  document.querySelectorAll(`.${DOM_CLASSES.EVENTBOX}`).forEach(eventBox => {
+    const eventId = eventBox.dataset.id;
+    const event = state.events.find(e => e.id === eventId);
+    
+    console.assert(event, `Event with id ${eventId} not found`);
+
+    const venueEnabled = state.pageFilters[event.venue];
+    const tagEnabled = state.tagFilters.has(event.tag);
+    
+    // Show event only if both venue and tag filters are enabled
+    eventBox.style.display = venueEnabled && tagEnabled ? 'flex' : 'none';
+  });
+
+  // Hide empty date dividers
+  document.querySelectorAll('.event-day-divider').forEach(divider => {
+    const hasVisibleEvents = Array.from(divider.querySelectorAll(`.${DOM_CLASSES.EVENTBOX}`))
+      .some(event => event.style.display !== 'none');
+    divider.style.display = hasVisibleEvents ? 'block' : 'none';
+  });
 }
 
-function updateVenueToggles() {
+async function updateVenueToggles() {
   document.querySelectorAll('.venue-toggle input[type="checkbox"]').forEach(checkbox => {
     const venue = checkbox.dataset.venue;
     checkbox.checked = state.pageFilters[venue];

@@ -86,7 +86,8 @@ export const DOM_CLASSES = {
   VENUE_ITEM: 'venue-item',
   VENUE_INFO: 'venue-info', 
   VENUE_TOGGLE: 'venue-toggle',
-  SLIDER: 'slider'
+  SLIDER: 'slider',
+  EVENTBOX: 'event-box'
 };
 
 /*
