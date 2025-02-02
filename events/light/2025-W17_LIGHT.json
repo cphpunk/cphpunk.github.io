@@ -41,7 +41,7 @@
       "name": "Lygten 29, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.70306249999997,
       "longitude": 12.537312499999999,
       "bounds_ne_lat": 55.70312499999997,
@@ -53,7 +53,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1783517029118554/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/466667408_1062631952540388_6557013450394837088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hn2Y4zNCRM8Q7kNvgG6gTKV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AOGH4zkITkuuFtPSU_H0JMS&oh=00_AYBzOuRFrhAb4Fk9gSGjP9Wjd_WkmmMKkqKb8V_IIh9n-w&oe=67A48284",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/466667408_1062631952540388_6557013450394837088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hn2Y4zNCRM8Q7kNvgFN8LKV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AJMmHvEQEAhLd1zLt5O8HED&oh=00_AYAbg12of8Au70yZP6qywFl3BFQzJWWPtHPBh_SblFGg1w&oe=67A56384",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Lygtens Kro",
@@ -71,7 +71,7 @@
       "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.709812499999984,
       "longitude": 12.526937500000017,
       "bounds_ne_lat": 55.70987499999998,
@@ -83,7 +83,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/512629401792606/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470205246_983235773842636_4413228750136576777_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hk62gi-yiDsQ7kNvgEuvNdy&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AVxUG-CVrgXAZzS6s8gXb0o&oh=00_AYCGKHcyOKdU-xqi37CZs62rjSU5TIH-sg29YdXhcCnN5Q&oe=67A4A86D",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470205246_983235773842636_4413228750136576777_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hk62gi-yiDsQ7kNvgEtVD6c&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ANbD3FxCJMXfV7J1mc_XDQI&oh=00_AYAxOmDCaBLFLC8wyPkl01XTBV9j-nH1Spa4mNFzfofhPQ&oe=67A5512D",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -173,10 +173,40 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1528978991122879/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/475436185_1700604187385632_7663008065916868299_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uCTEduaEudsQ7kNvgEXmAf3&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AqpQ5vLSSQAQ0yQx-AwoId4&oh=00_AYDIKB47iv1yBX7x61AWD9Lup9wI50SFNNh2BSiMM-tdpg&oe=67A4A0CC",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/475436185_1700604187385632_7663008065916868299_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uCTEduaEudsQ7kNvgGRykZ7&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AhNMcBDlQ6HxxxjVnYrRQPq&oh=00_AYDrQpYyha9jbbJ4TBsh6IdFsnWXx247TdzSS2LuTRo1Yg&oe=67A5498C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Villa Kultur",
     "page_url": "https://www.facebook.com/villakultur/events"
+  },
+  {
+    "id": "1325814131642796",
+    "name": "Dominance FC 3.0 // 26. APRIL 2025",
+    "date": {
+      "start_timestamp": 1745681400,
+      "end_timestamp": 1745688600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark"
+    },
+    "url": "https://www.facebook.com/events/1325814131642796/",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473707048_1185405583586916_8371708114455470072_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ycUYVIKjoH4Q7kNvgGUPOtl&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A_MP-sEmfQdUAeZ6BMpMQPm&oh=00_AYAFoKNkBXfkAf0lI5vZKjjDJ4ssWsvBBYfaL1-RVU6r_Q&oe=67A5689C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
   }
 ]

@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Lokomotivværkstedet",
-      "address": "Otto Bussesvej 5A",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.659687500000004,
       "longitude": 12.549187500000002,
       "bounds_ne_lat": 55.65975,
@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/689362635520618/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/279196555_4899996876765445_6027561487655882154_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eBBuYjiAIAUQ7kNvgE81W3k&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A4NuzkxZ6KqRkkkmYisBdg-&oh=00_AYCXir1fqv711BPJDqlxNkyDVbBh7zZoyOT5Nz6RL2A3xg&oe=67A4A0E1",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/279196555_4899996876765445_6027561487655882154_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eBBuYjiAIAUQ7kNvgEttR6n&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AJAhMymkwPBDD9ysuksshS2&oh=00_AYDPVUi75Hr6NhB4ipETm2km_zLtuAgKbP-UNR8XslkAIg&oe=67A549A1",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "TechBBQ",

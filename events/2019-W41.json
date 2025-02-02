@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Copenhagen",
-      "address": "",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -24,7 +24,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/683677665436802/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/62546810_2969718736386762_8728713223081033728_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7-qoNnqNux8Q7kNvgHXdYsn&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AmT1AifOkvmRu3fP1uyn7Z9&oh=00_AYDlgfkLF07JdKb6nPsiXZaCR82h3I1cai6WopTqREAV_g&oe=67C6220B",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/62546810_2969718736386762_8728713223081033728_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JWSrplSHzAMQ7kNvgEsl6lB&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AMLJeiMFqditCip66KCIZht&oh=00_AYBTuS3_YkWD-e2qunNUVEiYMEiQS27z9AckG-HvxzGI_A&oe=67C7030B",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "Kulturnatten",

@@ -24,7 +24,7 @@
       "plus_code_locality": ""
     },
     "url": "https://www.facebook.com/events/470017107042987/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rfyldXT2kNcQ7kNvgEr5_WC&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AKFEWP_zK1zSylzHueoA9Gx&oh=00_AYAB7ugVfxnOhLr74E6dGCQbNBGgnPiaYMOzzdmCLBIRdA&oe=67C62608",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rfyldXT2kNcQ7kNvgH7j07G&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AMvsQBcDNu1OFdy9UubHoEa&oh=00_AYACHPF2otUDfesoI1HhDFmHovVBRNuCluGl57aLqrarLg&oe=67C70708",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -55,7 +55,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/4821630954526341/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h2XjtWW8h-EQ7kNvgHafyYB&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AwK3F4494PQ2X-MLDgDGk9B&oh=00_AYBq3hFB5NHims1FcsQoHxEIbLYrLx_GhUiDXAB6xqj7PQ&oe=67A49229",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h2XjtWW8h-EQ7kNvgENUOyV&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Als5wZyt8XQ70EhA_3x1oCC&oh=00_AYA-ivDXlwOrN1GS9uDCSkj17VgY1VvSU0VkeRynw3xF-w&oe=67A57329",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -73,7 +73,7 @@
     "location": {
       "name": "Det Ny Teater",
       "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
+      "city": "Copenhagen, Denmark",
       "country": "DK",
       "latitude": 55.673187500000026,
       "longitude": 12.5553125,
@@ -86,7 +86,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/388199572857663/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0zWshLfE_GcQ7kNvgHyg3YK&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Am-0OYUrfn-fJCCpN4tncgE&oh=00_AYBG_FIgGb5mPG5trrO7Pw0P2dxfcjGtCJ1uZXW9RebDrA&oe=67A48717",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0zWshLfE_GcQ7kNvgF6cv2t&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ABGEUvGtyODNTtSfURwP0j6&oh=00_AYDZ41j8JiiJqVTfkh980vLRM_JnWHQkTCqRvnxs_pjifg&oe=67A56817",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -103,9 +103,9 @@
     },
     "location": {
       "name": "Det Ny Teater",
-      "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.673187500000026,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.673250000000024,
@@ -117,7 +117,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/407678980803899/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-90c6J6Gsu4Q7kNvgG9K078&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ADngeoh2qApQHelX9_wykmD&oh=00_AYDND-Eh3v8Pn22OrzdLTAc9rqiDLm83U9rWbh2410dE5w&oe=67A47A3F",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-90c6J6Gsu4Q7kNvgGenMD2&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AVadO3As1FsNWEFLUqYh_ln&oh=00_AYDP9zpZpIirr7JYBuQBrEF_vby9qON6yaSZU9RXbetoTA&oe=67A55B3F",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -134,9 +134,9 @@
     },
     "location": {
       "name": "Det Ny Teater",
-      "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.673187500000026,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.673250000000024,
@@ -148,7 +148,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/842139303112377/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JouJPGkYkZ4Q7kNvgFNFhDv&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Afq0vt5rptBqlwCqdSg4m1j&oh=00_AYBhVfCQVvbNExDbgPe57c3G05wu1kcdAqqNJ2Xnz5We6g&oe=67A4A095",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JouJPGkYkZ4Q7kNvgFVdgzi&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Aiv37E1Po4sN-DiLyqwCiw7&oh=00_AYDOW7BmmULYphYMWv3DZsXdPJVEg7rAOJGStj1Yoi7TVQ&oe=67A54955",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",

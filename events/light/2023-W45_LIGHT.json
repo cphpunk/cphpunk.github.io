@@ -9,9 +9,9 @@
     },
     "location": {
       "name": "Empire Bio",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Guldbergsgade 29F",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -23,7 +23,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/296983533231538/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/394373483_1319585395614101_4323513139687736106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bVQZOJO_3aIQ7kNvgHWxgnR&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AmQ0Z8trPDsx8t069OVdNJg&oh=00_AYD_8XlOpSWwvmSqYvqEjkN2WujXX82rQRRsdk2h5kFlnQ&oe=67A4976F",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/394373483_1319585395614101_4323513139687736106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bVQZOJO_3aIQ7kNvgHL7NC1&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AxtUO0zpf4rgdgonhTvaBoF&oh=00_AYDV-GZvLmcrJkWc1AcczIPTja1az0QLY2d1UDTmv92f0A&oe=67A5786F",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -41,7 +41,7 @@
       "name": "Empire Bio",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -53,7 +53,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/220870810849822/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/395186716_1319577438948230_3684623969595027227_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_Io6RsZIsL4Q7kNvgE3_wfP&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AaSsfHsehujWSxS6rFX-hX1&oh=00_AYBAKUcORn7-3C5Pq75IO4x6rlCd9jxe4NW8jggwfMCXlA&oe=67A48874",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/395186716_1319577438948230_3684623969595027227_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_Io6RsZIsL4Q7kNvgG-xxg5&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AZo_3eaGd38EqzlVahdx6Za&oh=00_AYBTnuWF1hXr3-gEnGQe7sTaggHdBjCaT24twnd69Z8TAw&oe=67A56974",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -65,7 +65,7 @@
     "date": {
       "start_timestamp": 1699794000,
       "end_timestamp": 1699801200,
-      "timezone": "Europe/Copenhagen"
+      "timezone": "UTC+01"
     },
     "location": {
       "name": "Husets Biograf",
@@ -83,7 +83,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/24356637580601582/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/391698106_1313214306251210_5296754556672004870_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Qsa7tH45IP4Q7kNvgGsE17z&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AK7nts8nH2lUlUosSuupC_I&oh=00_AYCpyJccIOJjnuatwstRMLEEoLv2_uBonHQDNleaA34nnQ&oe=67A49A1A",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/391698106_1313214306251210_5296754556672004870_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Qsa7tH45IP4Q7kNvgF0Gn1R&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=APrLhfe-1RhJQ0nhxYurZ6F&oh=00_AYDqxfin041gsxUzB86xOX_jDITxm0A6Kjz7Z3HCIOUE7A&oe=67A542DA",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -113,7 +113,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/870520814419431/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/394066066_1319581402281167_2214105867180141464_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bTojshaTTBgQ7kNvgGsLYxD&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ABJAQ5oE6pe3Io5AA7VjZ4j&oh=00_AYCFWvy58-NPpqPZO8FLmdXkkeeS4AI1Yqn0W3-x8-tqaA&oe=67A4805E",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/394066066_1319581402281167_2214105867180141464_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bTojshaTTBgQ7kNvgEveyCD&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ACb3zoWWIi7tdfADESNqoJX&oh=00_AYAAPVvXOk4u13vnd7HN8yZ8ZsM3ZHiTAxplbbAFkxwBzA&oe=67A5615E",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -143,7 +143,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1157403118567271/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/394213398_1318989195673721_5513589512802987115_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nbFdmMADEK4Q7kNvgHK13Sf&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AlCsRbYmaOs56mbSMeJNmQL&oh=00_AYA5DBC_6fdnT4WOWNumHAH95QWDyuqa1lmQxP7aI71KOQ&oe=67A49EC0",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/394213398_1318989195673721_5513589512802987115_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gXmijM_Ad6sQ7kNvgHpkves&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A3XixhpWMbd8DXOa0Arf6Xa&oh=00_AYCrbTZ2kPYXgDX4HjOeXOgPAMd4UjUVMXMilfzG7vHDzQ&oe=67A54780",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -173,7 +173,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1560468161363829/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/394269001_1318983149007659_8446687604913297766_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RCHlAIC7ep4Q7kNvgFSTi4u&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AHL7iPn_ndwjR-agE9wjPNP&oh=00_AYBOLbAsORWwPut4h5CrQd6P1U4K-SyB30lqg-h5Jrb5OQ&oe=67A4A136",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/394269001_1318983149007659_8446687604913297766_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RCHlAIC7ep4Q7kNvgFpsSpb&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AeAPpMefZJIDdhT_c66BwW0&oh=00_AYCfnZ8ClIqLG1PS2xUTlRhxjENg0v2m5CrFizYPYfLIvA&oe=67A549F6",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -191,7 +191,7 @@
       "name": "Jolene Bar",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.667312499999994,
       "longitude": 12.561187500000003,
       "bounds_ne_lat": 55.66737499999999,
@@ -203,7 +203,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/307533141998860/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/393849254_1318370169068957_1369381156277441874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J_56W9Bt8EcQ7kNvgGVq-P_&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ACch9icINTMx03XPoXIqm_k&oh=00_AYAn_F1NPuPdNyD_B4WFpwy72G6MGzEy_fcTigDlzXZT0g&oe=67A4AB7E",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/393849254_1318370169068957_1369381156277441874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J_56W9Bt8EcQ7kNvgEzv9cp&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Av2lpARvugV3yx3CmAFefdI&oh=00_AYCZ2onJ2Sw_m-xJDCyAxA8SGAb85lnx60W2OtG6iJct5A&oe=67A5543E",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",

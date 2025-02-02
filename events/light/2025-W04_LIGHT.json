@@ -2051,7 +2051,7 @@
       "name": "Gothersgade 55, 1123 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578562500000018,
       "bounds_ne_lat": 55.683250000000015,
@@ -2063,7 +2063,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1134668714736850/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473222740_1015397910625570_5194881895549846919_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h5CdR69DkYMQ7kNvgH8G8it&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AjurKnTMVwqPq7zXRiS2oJI&oh=00_AYD3tsPVdnkkk2k8vAXS94e_F4fbF96yspfhyf1WcOsENw&oe=67A4AAEE",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/473222740_1015397910625570_5194881895549846919_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h5CdR69DkYMQ7kNvgGl9teC&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AcEkBx_0u4SrPN88MS_gK7p&oh=00_AYBrCd6oJ8YtYbf_Xzcn-61tpxija-_DolQVLpH0BZ9zPg&oe=67A553AE",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Cinemateket",

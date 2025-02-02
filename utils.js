@@ -83,6 +83,8 @@ export function shareSubstringOfMinimumLength(strA, strB, MIN) {
       longer = lowerA;
   }
 
+  console.log(shorter, longer);
+
   // Generate all possible target-length substrings from shorter string
   const substringSet = new Set();
   const maxStartShorter = shorter.length - targetLength;

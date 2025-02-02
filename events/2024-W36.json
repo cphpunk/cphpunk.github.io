@@ -12,7 +12,7 @@
       "name": "Amager Centret",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.662937499999984,
       "longitude": 12.603687499999992,
       "bounds_ne_lat": 55.66299999999998,
@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/825385439703457/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/457558757_1039784704814325_898316352415892070_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X69qgwt_grYQ7kNvgFZtPQX&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=A92gkNV-jB4xdpUlkSkm_lu&oh=00_AYB8quf8qDSoC151-1MHUeA3OIW9y0JZkJ4dI_etkzMh9Q&oe=67A48A56",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/457558757_1039784704814325_898316352415892070_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X69qgwt_grYQ7kNvgFj8PSa&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AJJrUXolUvfMFFTDtGREKny&oh=00_AYD1OXSGrCSyScTpCnQhE_ygcepv6amq3p7S4ffF1jj6zg&oe=67A56B56",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",

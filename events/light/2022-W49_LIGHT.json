@@ -9,9 +9,9 @@
     },
     "location": {
       "name": "Grand Teatret",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Mikkel Bryggers Gade 8",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
       "latitude": 55.676437500000006,
       "longitude": 12.571062500000025,
       "bounds_ne_lat": 55.676500000000004,
@@ -23,7 +23,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/468161942026244/?event_time_id=493889306120174",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/313122262_551062193691085_2843460111679046503_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wF0_TXvdfjUQ7kNvgFDxoqz&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AC9hsLzdGsAdbd1BmhByoaX&oh=00_AYDgyte6qhrNQJnVVMP4FGIENdfrqU_3EDXuwooWqAF4nA&oe=67A4A9F0",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/313122262_551062193691085_2843460111679046503_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bDGfUmGRAosQ7kNvgHjiRbB&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Alxw-UN8D4qyPzqNbr8eW1K&oh=00_AYDN2HTCDpP9BoEpuNkXc2QxjDcq9a_eF4nFH9o_-y4PzQ&oe=67A552B0",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Copenhagen Catalan Film Festival",
@@ -39,9 +39,9 @@
     },
     "location": {
       "name": "Grand Teatret",
-      "address": "Mikkel Bryggers Gade 8",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.676437500000006,
       "longitude": 12.571062500000025,
       "bounds_ne_lat": 55.676500000000004,
@@ -53,7 +53,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1297497344408243/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/309821576_523302373133734_7212675805350154119_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2G_SvGqH8moQ7kNvgFSfo8L&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AAQndy1wIGoAYCY06csUg7b&oh=00_AYD5PMFRjqOLn4dqTprGL2aAB2BvA5YluhijN7CJYMCqTQ&oe=67A477C8",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/309821576_523302373133734_7212675805350154119_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2G_SvGqH8moQ7kNvgHQFkWA&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=ALGGoXlG-rNf9Q14lKOhKTu&oh=00_AYAmVw7d5IohVGtycSVcFjuAYLogUrMCRrkLVZqHbG0k4Q&oe=67A558C8",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Catalan Film Festival",

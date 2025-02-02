@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Støddæmperen",
-      "address": "Rentemestervej 57",
+      "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.707312499999986,
       "longitude": 12.524687500000013,
       "bounds_ne_lat": 55.707374999999985,
@@ -24,7 +24,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/717928569305673/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/320932923_1286775402106829_2107310794970432947_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jNmj9PoMkxwQ7kNvgFk5Inz&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A9ZL5PGAhtjcVWk1LasBibH&oh=00_AYBRojFufs27uo6XKJmkK37OTXUBKBo2hEJ5Sw7ImHRGTA&oe=67A4A1BD",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/320932923_1286775402106829_2107310794970432947_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZUaRXBHFWUQQ7kNvgHliWNK&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AYIXcJCJ2t-KPQT3-pYxnUq&oh=00_AYA_hXZUN7gprXRcyLDbc9dU76npqhqXyOZ-aMQmnS2nSQ&oe=67A54A7D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Støddæmperen",

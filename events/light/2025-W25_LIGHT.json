@@ -11,7 +11,7 @@
       "name": "COPENHELL",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.693312500000005,
       "longitude": 12.614187499999971,
       "bounds_ne_lat": 55.693375,
@@ -23,7 +23,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/948350610566024/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460199799_978277010767627_181556454428213297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=654yFca--2wQ7kNvgHkZ4TK&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AV0NL45rToEWoZ1O22Vvkl7&oh=00_AYCvSUbPo2Q7itVTr3N-rcmWLpmQakf9fP1bQoA09PoYcg&oe=67A49215",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460199799_978277010767627_181556454428213297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=654yFca--2wQ7kNvgHp1zTP&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AJzmcAG6_edwykwcuj7YPko&oh=00_AYD33vGhgWml92a5FXjU-UxPaqGaq2TAktc-nUghyE5OeA&oe=67A57315",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "COPENHELL",

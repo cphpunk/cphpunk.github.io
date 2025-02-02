@@ -15,7 +15,7 @@ import {
 * Where XX is the week number (duh).
 * stripDescription grabs a much smaller JSON file with the event description removed (usually the biggest thing in the file)
 */ 
-async function fetchWeekEvents(date, stripDescription = true) {
+async function fetchWeekEvents(date, stripDescription = false) {
   const weekNumber = date.format('WW').padStart(2, '0');
   const year = date.format('YYYY');
   const folder = stripDescription ? EVENT_FOLDER_LIGHT : EVENT_FOLDER_BASE;

@@ -74,7 +74,7 @@
       "name": "Sjællandsgade Bad",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
       "bounds_ne_lat": 55.6935,
@@ -86,7 +86,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1569710526987795/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/469021218_565606689543992_5904698596149031481_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BBYGmbt7Q-QQ7kNvgHf_K4g&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Ak3G-eGsYCtyErKtPV_B-gV&oh=00_AYCQgFdNHkGeCWZaSB7wv3Vil0GVozzQQ7BxlhKb3Rga2Q&oe=67A48FB7",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/469021218_565606689543992_5904698596149031481_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BBYGmbt7Q-QQ7kNvgHx0yZE&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AZDl7L8RbOxxMmVmrDUZblP&oh=00_AYDk1PWU7R5QD6WXwTd94gevQ7-BkwOQWT-kEP3Vfg1zfQ&oe=67A570B7",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -117,7 +117,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/9078305935585393/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473322803_663769979306476_5865946992225451039_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4f0DxxPzymMQ7kNvgHvQc6r&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AADMSJiqvXanxWscHBuvesi&oh=00_AYBd5Cvd7o1B5bRvtK0dnLyMS7RKqFp73I_1rZj60bzlWQ&oe=67A4A850",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473322803_663769979306476_5865946992225451039_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4f0DxxPzymMQ7kNvgEYkraY&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AIBO_hbd5NegSsyfa07Cg1_&oh=00_AYBT84qEashzBsdPRafCOrH1VO-c9PIwN6x3skLkTMJrtg&oe=67A55110",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Photo Festival",
@@ -148,7 +148,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/1118490709761586/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474585029_1121640316327353_4308156561848425855_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jYTysV9gXAIQ7kNvgF4AG8z&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AcmRFzBVxcZxdDTRxf7Lx0B&oh=00_AYBu6LfwN42YAIePAKpnXfjnVTQNwaJunkwol1TS2u1vlw&oe=679BEF1D",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/474585029_1121640316327353_4308156561848425855_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FkY7iyp81usQ7kNvgEdAngD&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AOQTVeCw-CQ_XMDm9cIPRRR&oh=00_AYC3kFPAQ1k0Pk4EU4uZy5yiDe7rcZHPiFHVs_m_UlLlAA&oe=67A561DD",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -197,7 +197,7 @@
     "location": {
       "name": "Ungdomshuset",
       "address": "Dortheavej 61",
-      "city": "Copenhagen",
+      "city": "Copenhagen, Denmark",
       "country": "DK",
       "latitude": 55.70868749999998,
       "longitude": 12.523437500000014,
@@ -210,7 +210,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2399186447087607/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472798053_1003005668305352_8951621159181224439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Oi0GM5YVzF4Q7kNvgGm5Ix3&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ADiXP6IU6oODWYYnd1ROiJy&oh=00_AYAnKFyyeNyOoG2AxTCtXMIOxM8ha3xwtdynYN1VBkhcRw&oe=67A478EA",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/472798053_1003005668305352_8951621159181224439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Oi0GM5YVzF4Q7kNvgGq1G_X&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AbzOS78jjve2me7fHISWAcm&oh=00_AYCxmw3Cxb9sy5_A2bFH7o637yAhkSsRWOlH5S_mcPMc9g&oe=67A559EA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ungdomshuset",
@@ -241,7 +241,7 @@
       "plus_code_locality": "Frederiksberg, Denmark"
     },
     "url": "https://www.facebook.com/events/1108861313770716/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/464286704_955354306625944_1389626354003897999_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PZ23zhYhUkAQ7kNvgE8RviV&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AwVQkBfSX7160Ti012-1SiW&oh=00_AYD__fDs8zWECNPzX6K5ZY46qcB61HZQWdVN4dkFh28XgA&oe=67A47759",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/464286704_955354306625944_1389626354003897999_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PZ23zhYhUkAQ7kNvgFWVzRm&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ADom7HTXBPwMBJ-aodi50T2&oh=00_AYC6HVbrKuahKOu-OZbSUOv8JvahtPNRKTUWcVDNbWb_bw&oe=67A55859",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -272,7 +272,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/410381685054009/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460451747_10162074831218641_2313027564955611073_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R4JZDgdg10AQ7kNvgFUtoM2&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ArfUSuP--UZ36AGTOuAED3s&oh=00_AYDyGvT9HxAWWk3D0D74KcoXIrTkL094CZZ8ICZ4YpEOkA&oe=67A4942B",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460451747_10162074831218641_2313027564955611073_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R4JZDgdg10AQ7kNvgGOGSF4&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ANDfvtyOVmc0G2xbBEIADcN&oh=00_AYBxV_xB_9jKsve50PFe3x59_Z_sPv79ctYTDKRJL1cAbA&oe=67A5752B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BETA2300",
@@ -303,7 +303,7 @@
       "plus_code_locality": "Copenhagen, Denmark"
     },
     "url": "https://www.facebook.com/events/2404378376564616/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475681774_1123415169795399_5646003707955892576_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=r12m0nBhddYQ7kNvgEZj1KH&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AiaTNqGoGZrfm_5wnniyrXt&oh=00_AYB3rstUep7n6PYE9geCtxcW_9pKOB2e6Wjwd7NxhRdrxg&oe=67A4A5DA",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475681774_1123415169795399_5646003707955892576_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=r12m0nBhddYQ7kNvgEb-bDT&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A4ozP-UN7gtoEZP96RYLyiW&oh=00_AYBC7UAsJMl7gsR29m3W27L2vt9ZlZrAOXM4nIVtp05_HA&oe=67A54E9A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Lygtens Kro",
