@@ -28,12 +28,14 @@ function registerInfoModalInteraction() {
   infoButton.addEventListener('click', () => {
     infoModal.style.display = 'block';
     document.body.style.overflow = 'hidden';
+    document.body.classList.add('modal-open');
   });
 
   if (infoCloseButton) {
     infoCloseButton.addEventListener('click', () => {
       infoModal.style.display = 'none';
       document.body.style.overflow = '';
+      document.body.classList.remove('modal-open');
     });
   }
 
@@ -42,6 +44,7 @@ function registerInfoModalInteraction() {
     if (e.target === infoModal) {
       infoModal.style.display = 'none';
       document.body.style.overflow = '';
+      document.body.classList.remove('modal-open');
     }
   });
 
@@ -55,6 +58,7 @@ function registerInfoModalInteraction() {
       event.stopPropagation();
       infoModal.style.display = 'none';
       document.body.style.overflow = '';
+      document.body.classList.remove('modal-open');
     }
   }, { passive: false });
 
