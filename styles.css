@@ -52,22 +52,11 @@ h3 {
 
 @media screen and (max-width: 768px) {
     .header-content {
-        background-position: calc(50% - 180px) center, calc(50% + 180px) center;
-        background-size: 30px;
+        background-image: none;
     }
     
     .roboto-condensed-title {
-        font-size: 1.5rem;
-    }
-}
-
-@media screen and (max-width: 480px) {
-    .header-content {
-        background-image: none; 
-    }
-    
-    .roboto-condensed-title {
-        font-size: 1.2rem;
+        font-size: 1.6rem;
     }
 }
 
@@ -99,6 +88,7 @@ h3 {
     justify-content: center;
     align-items: center;
     transition: background-color 0.3s ease, border-color 0.3s ease;
+    color: #333;
 }
 
 .info-button:hover {
@@ -111,6 +101,7 @@ h3 {
     width: 20px;
     height: 20px;
     transition: transform 0.5s ease;
+    color: inherit;
 }
 
 .info-button:hover svg {
