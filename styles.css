@@ -56,6 +56,9 @@ h3 {
     font-optical-sizing: auto;
 }
 
+/* ======================= */
+/*  Info button and Modal  */
+/* ======================= */
 .info-button {
     width: 40px;
     height: 40px;
@@ -333,7 +336,7 @@ h3 {
 
 .event-title {
     color: #333;
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: bold;
     margin-bottom: 10px;
     font-family: "Roboto Condensed", serif;
