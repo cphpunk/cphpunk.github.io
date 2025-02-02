@@ -47,9 +47,11 @@ export async function loadVenuePreferences() {
 function updateFilterIndicator() {
   const infoButton = document.getElementById(DOM_IDS.INFO_BUTTON);
   if (infoButton) {
-    const enabledCount = Object.values(state.pageFilters).filter(enabled => enabled).length;
-    const available = Object.keys(state.venues).length;
-    infoButton.classList.toggle('has-filters', enabledCount < available);
+    const enabledVenueCount = Object.values(state.pageFilters).filter(enabled => enabled).length;
+    const availableVenues = Object.keys(state.venues).length;
+    const enabledTagCount = state.tagFilters.size;
+    const hasActiveFilters = enabledVenueCount < availableVenues || enabledTagCount < EVENT_TAGS.length;
+    infoButton.classList.toggle('has-filters', hasActiveFilters);
   }
 }
 
