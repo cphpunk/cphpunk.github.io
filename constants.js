@@ -95,7 +95,7 @@ export const DOM_CLASSES = {
 * Date and time format patterns
 */
 export const DATE_FORMATS = {
-  EVENT_DATE: 'MMMM D, YYYY',
+  EVENT_DATE: 'dddd, MMMM D, YYYY',
   EVENT_TIME: 'h:mm A'
 };
 
