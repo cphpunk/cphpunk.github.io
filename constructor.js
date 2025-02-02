@@ -31,6 +31,7 @@ function populateVenueFilters() {
             <button class="control-btn disable">None</button>
           </div>
         </div>
+        <div id="${DOM_IDS.FILTER_LIST}" class="filter-list">
         ${Object.entries(state.venues).sort(([a], [b]) => a.localeCompare(b)).map(([venue, url]) => `
           <div class="${DOM_CLASSES.VENUE_ITEM}">
             <div class="${DOM_CLASSES.VENUE_INFO}">
@@ -42,6 +43,7 @@ function populateVenueFilters() {
             </label>
           </div>
         `).join('')}
+      </div>
       </div>
     `;
 

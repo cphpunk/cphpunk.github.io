@@ -77,6 +77,7 @@ export const DOM_IDS = {
   EVENT_LIST: 'eventList',
   VENUE_CONTROLS: 'venueControls',
   TAG_LIST: 'tagList',
+  FILTER_LIST: "filterList",
   TAG_CONTROLS: 'tagControls'
 };
 
