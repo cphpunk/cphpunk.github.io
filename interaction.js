@@ -106,12 +106,16 @@ function registerFiltersInteraction() {
         if (e.target.classList.contains('enable')) {
           enableAllDistricts();
           document.querySelectorAll('path[data-district], circle[data-district]').forEach(element => {
-            updateDistrictStyle(element, true);
+            const district = element.dataset.district;
+            const labelRect = document.querySelector(`rect[data-district="${district}"]`);
+            updateDistrictStyle(element, true, labelRect);
           });
         } else {
           disableAllDistricts();
           document.querySelectorAll('path[data-district], circle[data-district]').forEach(element => {
-            updateDistrictStyle(element, false);
+            const district = element.dataset.district;
+            const labelRect = document.querySelector(`rect[data-district="${district}"]`);
+            updateDistrictStyle(element, false, labelRect);
           });
         }
       } else {
