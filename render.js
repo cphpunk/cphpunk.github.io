@@ -1,9 +1,28 @@
-import { state } from './state.js';
-import { DOM_CLASSES } from './constants.js';
+/**
+ * @fileoverview Updates the DOM based on available Events and Filters.
+ * @description Called once during site constructions, then upon event 'filtersChanged'.
+ * The class doesn't generate any HTML element, it simply show or hides the proper ones depending on filters.
+ * @author Mattia
+ */
 
-export function renderSite() {
+import { state } from './state.js';
+import { 
+  DOM_CLASSES,
+  DOM_IDS,
+  EVENTS_KEYS,
+  UNKNOWN_COPENHAGEN_DISTRICT,
+  ALL_COPENHAGEN_DISTRICTS, ALL_EVENT_CATEGORIES, ALL_COPENHAGEN_SOURCES
+} from './constants.js';
+
+export function initializeDOMRenderer() {
+  document.addEventListener(EVENTS_KEYS.FILTERS_CHANGED, updateDOM);
+  updateDOM();
+}
+
+function updateDOM() {
   updateEventsByFilters();
   updateVenueToggles();
+  updateFilterIndicator();
 }
 
 async function updateEventsByFilters() {
@@ -13,11 +32,15 @@ async function updateEventsByFilters() {
     
     console.assert(event, `Event with id ${eventId} not found`);
 
-    const venueEnabled = state.pageFilters[event.venue];
-    const tagEnabled = state.tagFilters.has(event.tag);
-    
+    const venueEnabled = state.sourceFilters[event.venue];
+    const tagEnabled = state.categoryFilters[event.tag];
+
+    const district = event.district;
+    if (district === "Anywhere Else") district = UNKNOWN_COPENHAGEN_DISTRICT;
+    const districtEnabled = state.districtFilters[district];
+
     // Show event only if both venue and tag filters are enabled
-    eventBox.style.display = venueEnabled && tagEnabled ? 'flex' : 'none';
+    eventBox.style.display = venueEnabled && tagEnabled && districtEnabled ? 'flex' : 'none';
   });
 
   // Hide empty date dividers
@@ -36,6 +59,34 @@ async function updateEventsByFilters() {
 async function updateVenueToggles() {
   document.querySelectorAll('.venue-toggle input[type="checkbox"]').forEach(checkbox => {
     const venue = checkbox.dataset.venue;
-    checkbox.checked = state.pageFilters[venue];
+    checkbox.checked = state.sourceFilters[venue];
   });
+}
+
+
+/*
+* If the user has set filters, we show them a little red dot on the gear icon.
+* Ideally this would allow them to notice that they have filters active.
+*/
+function updateFilterIndicator() {
+  const infoButton = document.getElementById(DOM_IDS.INFO_BUTTON);
+  if (infoButton) {
+    const enabledVenueCount = Object.values(state.sourceFilters).filter(enabled => enabled).length;
+    const availableVenues = Object.keys(ALL_COPENHAGEN_SOURCES).length;
+    const enabledTagCount = Object.values(state.categoryFilters).filter(enabled => enabled).length;
+    const enabledDistrictCount = Object.values(state.districtFilters).filter(enabled => enabled).length;
+    const hasDisabledDistrict = Object.values(state.districtFilters).some(enabled => !enabled);
+    const hasActiveFilters = enabledVenueCount < availableVenues || 
+                            enabledTagCount < ALL_EVENT_CATEGORIES.length ||
+                            enabledDistrictCount < ALL_COPENHAGEN_DISTRICTS.length ||
+                            hasDisabledDistrict;
+    infoButton.classList.toggle('has-filters', hasActiveFilters);
+  }
+}
+
+export function toggleLoadingSpinner(show) {
+  const spinner = document.querySelector('.loading-spinner');
+  if (spinner) {
+      spinner.style.display = show ? 'block' : 'none';
+  }
 }

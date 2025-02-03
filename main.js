@@ -1,18 +1,19 @@
-import { loadEvents } from './api.js';
+import { state } from './state.js';
+import { loadEvents } from './loader.js';
 import { loadVenuePreferences } from './filters.js';
-import { renderSite } from './render.js';
+import { initializeDOMRenderer, toggleLoadingSpinner } from './render.js';
 import { registerInteractions } from './interaction.js';
 import { generateHTML } from './constructor.js';
-import { toggleLoadingSpinner } from './ux.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
   toggleLoadingSpinner(true);
 
-  await loadEvents();
+  state.events = await loadEvents(state.timeWindowStart, state.timeWindowEnd);
+
   await loadVenuePreferences();
+  await generateHTML();
   
-  generateHTML();
-  renderSite();
+  initializeDOMRenderer();
   registerInteractions();
 
   toggleLoadingSpinner(false);

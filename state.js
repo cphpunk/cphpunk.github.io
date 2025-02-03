@@ -1,40 +1,48 @@
-import { EVENT_TAGS } from './constants.js';
+/**
+ * @fileoverview Holds current state (events, filters, date)
+ * @description Meant to hold only data! Ideally no functionality should be in here.
+ * @author Mattia
+ */
 
+/*
+* Events for the time window, ready to be displayed // loader.js
+*/
 let allEvents = [];
-let activeTagFilters = new Set(EVENT_TAGS);
 
 /*
-* Dictionary, where key : venue name, value : enabled
+* Dictionary, where key : tag name, value : enabled // filters.js
 */
-let activePageFilters = {};
+let categoryFilters = {}
 
 /*
-* List of all venues
+* Dictionary, where key : source name, value : enabled // filters.js
 */
-let venues = {};
+let sourceFilters = {};
+
+/*
+* Dictionary, where key : district name, value : enabled // filters.js
+*/
+let districtsFilter = {};
 
 /*
 * The site shows events from Today to Seven days from now.
 */
-let today = moment().startOf('day');
-let sevenDaysOut = moment().endOf('day').add(1, 'week');
+let today = Object.freeze(moment().startOf('day'));
+let sevenDaysOut = Object.freeze(moment().endOf('day').add(1, 'week'));
 
-Object.freeze(today);
-Object.freeze(sevenDaysOut);
 
 export const state = {
   get events() { return allEvents },
   set events(events) { allEvents = events },
 
-  get tagFilters() { return activeTagFilters },
-  set tagFilters(filters) { activeTagFilters = new Set(filters) },
+  get categoryFilters() { return categoryFilters },
+  get sourceFilters() { return sourceFilters },
+  get districtFilters() { return districtsFilter },
 
-  get pageFilters() { return activePageFilters },
-  set pageFilters(filters) { activePageFilters = filters },
+  set categoryFilters(filters) { categoryFilters = filters },
+  set sourceFilters(filters) { sourceFilters = filters },
+  set districtFilters(districts) { districtsFilter = districts },
 
-  get venues() { return venues },
-  set venues(v) { venues = v },
-
-  get windowStart() { return today },
-  get windowEnd() { return sevenDaysOut }
+  get timeWindowStart() { return today },
+  get timeWindowEnd() { return sevenDaysOut }
 };

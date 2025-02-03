@@ -1,13 +1,15 @@
-import { renderSite } from './render.js';
-import { setVenueEnabled, enableAllVenues, disableAllVenues, setTagEnabled, enableAllTags, disableAllTags } from './filters.js';
+import { setCategoryEnabled, enableAllCategories, disableAllCategories, enableAllDistricts, disableAllDistricts, setSourceEnabled, enableAllSources, disableAllSources } from './filters.js';
 import { DOM_IDS, DOM_CLASSES } from './constants.js';
+
+//this shouldn't be here:
+import { updateDistrictStyle } from './constructor.js';
 
 /*
 * This module handles all user interactions with the UI elements.
 * Primary responsibilities are:
 * 1. Modal interactions (open/close/scroll behavior)
 * 2. Venue filter interactions (toggle individual venues, enable/disable all)
-* 3. Tag filter interactions (toggle individual tags, enable/disable all)
+* 3. Category filter interactions (toggle individual categories, enable/disable all)
 */
 
 export function registerInteractions() {
@@ -71,8 +73,8 @@ function registerInfoModalInteraction() {
 }
 
 /*
-* Sets up all event listeners for venue and tag filtering functionality.
-* This includes individual venue toggles, tag toggles and their respective enable/disable all buttons.
+* Sets up all event listeners for venue and category filtering functionality.
+* This includes individual venue toggles, category toggles and their respective enable/disable all buttons.
 */
 function registerFiltersInteraction() {
   const container = document.getElementById(DOM_IDS.VENUE_LIST);
@@ -85,28 +87,41 @@ function registerFiltersInteraction() {
     });
   });
 
-  // Handle both venue and tag controls
+  // Handle venue, category and district controls
   document.querySelectorAll('.filter-controls .control-btn').forEach(button => {
     button.addEventListener('click', (e) => {
       const section = e.target.closest('.filter-section');
+      
       if (section.querySelector('#tagList')) {
         // Handle tag controls
         if (e.target.classList.contains('enable')) {
-          enableAllTags();
+          enableAllCategories();
           document.querySelectorAll('.tag-filter').forEach(t => t.classList.add('active'));
         } else {
-          disableAllTags();
-          document.querySelectorAll('.tag-filter').forEach(t => t.classList.remove('active'));
+          disableAllCategories();
+          document.querySelectorAll('.tag-filter').forEach(t => t.classList.remove('active')); 
+        }
+      } else if (section.querySelector('svg')) {
+        // Handle district controls
+        if (e.target.classList.contains('enable')) {
+          enableAllDistricts();
+          document.querySelectorAll('path[data-district], circle[data-district]').forEach(element => {
+            updateDistrictStyle(element, true);
+          });
+        } else {
+          disableAllDistricts();
+          document.querySelectorAll('path[data-district], circle[data-district]').forEach(element => {
+            updateDistrictStyle(element, false);
+          });
         }
       } else {
         // Handle venue controls
         if (e.target.classList.contains('enable')) {
-          enableAllVenues();
+          enableAllSources();
         } else {
-          disableAllVenues();
+          disableAllSources();
         }
       }
-      refresh();
     });
   });
 
@@ -115,9 +130,8 @@ function registerFiltersInteraction() {
     button.addEventListener('click', (e) => {
       const tag = e.target.dataset.tag;
       const isActive = e.target.classList.contains('active');
-      setTagEnabled(tag, !isActive);
+      setCategoryEnabled(tag, !isActive);
       e.target.classList.toggle('active');
-      refresh();
     });
   });
 }
@@ -127,8 +141,7 @@ function registerFiltersInteraction() {
 * Updates both the state and triggers a UI refresh.
 */
 function onVenueToggleClick(venue, enabled) {
-  setVenueEnabled(venue, enabled);
-  refresh();
+  setSourceEnabled(venue, enabled);
 }
 
 /*
@@ -136,8 +149,7 @@ function onVenueToggleClick(venue, enabled) {
 * Updates both the state and all checkbox UI elements.
 */
 function onEnableAllClick() {
-  enableAllVenues();
-  refresh();
+  enableAllSources();
 }
 
 /*
@@ -145,14 +157,5 @@ function onEnableAllClick() {
 * Updates both the state and all checkbox UI elements.
 */
 function onDisableAllClick() {
-  disableAllVenues();
-  refresh();
-}
-
-/*
-* Saves the current filter state and refreshes the event display.
-* Called after any filter changes to persist preferences and update UI.
-*/
-function refresh() {
-  renderSite();
+  disableAllSources();
 }

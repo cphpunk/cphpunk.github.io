@@ -1,4 +1,9 @@
-import { state } from './state.js';
+/**
+ * @fileoverview Loads events, automatically removing duplicates and events outside of the right time span
+ * @description In the future, it could be extended to support loading different cities.
+ * @author Mattia
+ */
+
 import { normalizeString, getSimilarity, shareSubstringOfMinimumLength} from './utils.js';
 import { 
   EVENT_VISIBILITY_HOURS_AFTER_START,
@@ -35,10 +40,10 @@ async function fetchWeekEvents(date, stripDescription = false) {
 * But events are separated by week - so we need to load both this week and the next week's events,
 * and then filter out anything outside this time window.
 */
-export async function loadEvents() {
+export async function loadEvents(timeWindowStart, timeWindowEnd) {
   const [currentWeekEvents, nextWeekEvents] = await Promise.all([
-    fetchWeekEvents(state.windowStart),
-    fetchWeekEvents(state.windowEnd)
+    fetchWeekEvents(timeWindowStart),
+    fetchWeekEvents(timeWindowEnd)
   ]);
 
   const allEvents = [...currentWeekEvents, ...nextWeekEvents].map(event => ({
@@ -54,20 +59,21 @@ export async function loadEvents() {
     venue: event.page_name,
     venueUrl: event.page_url,
     tag: event.tag,
+    district : event.location.copenhagen_district,
   }));
 
-  state.events = processEvents(allEvents);
+  return processEvents(allEvents, timeWindowEnd);
 }
 
 /*
-* Mostly removes duplicates and events that are now over.
+* Mostly removes duplicates and events that past the time window.
 */
-function processEvents(events) {
+function processEvents(events, timeWindowEnd) {
   const seenEvents = new Map();
 
   const filteredEvents = events.filter(event => {
     //If the event is not in the right time window, no need to consider it
-    if (moment(event.start).isBefore(moment().subtract(EVENT_VISIBILITY_HOURS_AFTER_START, 'hours')) || moment(event.start).isAfter(state.windowEnd)) {
+    if (moment(event.start).isBefore(moment().subtract(EVENT_VISIBILITY_HOURS_AFTER_START, 'hours')) || moment(event.start).isAfter(timeWindowEnd)) {
       return false;
     }
     

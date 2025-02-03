@@ -1,3 +1,9 @@
+/**
+ * @fileoverview Utils.
+ * @description Mostly string utils used to compare event names to see if they are duplicates.
+ * @author Mattia
+ */
+
 /*
 * Normalizes a string by converting to lowercase, removing special characters (★ and *),
 * and trimming whitespace. This helps with string comparison by removing common

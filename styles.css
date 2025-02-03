@@ -429,6 +429,61 @@ h3 {
 
 
 /* ======================= */
+/*     Map                 */
+/* ======================= */
+
+#map-container {
+    position: relative;
+    z-index: 1;
+}
+
+#map-container svg {
+    overflow: visible;
+}
+
+/* District Map Styles */
+.district-path {
+    cursor: pointer;
+    transition: transform 0.1s ease;
+}
+
+.district-path.selected {
+    fill: #000000;
+}
+
+path.district-path.unselected {
+    fill: #808080 !important;
+}
+
+.district-path.selected:hover {
+    fill: #1a1a1a;
+    transform: translateY(-5px);
+}
+
+.district-path.unselected:hover {
+    fill: #666666;
+    transform: translateY(-5px);
+}
+
+.district-label.unselected {
+    fill: #808080;
+    fill-opacity: 0.9;
+}
+
+#district-debug {
+    margin-top: 20px;
+}
+
+rect.district-label.selected {
+    fill: #000000;
+}
+
+rect.district-label.unselected {
+    fill: #808080;
+    fill-opacity: 0.9;
+}
+
+/* ======================= */
 /*     Emoji Decorations   */
 /* ======================= */
 .event-tag::before {
