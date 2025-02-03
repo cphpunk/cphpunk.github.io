@@ -47,9 +47,23 @@ export async function loadVenuePreferences() {
 
   const filters = JSON.parse(saved);
 
-  state.sourceFilters = filters[STORAGE_KEYS.PAGE_FILTERS];
-  state.categoryFilters = filters[STORAGE_KEYS.TAG_FILTERS];
-  state.districtFilters = filters[STORAGE_KEYS.DISTRICT_FILTERS];
+  if (filters[STORAGE_KEYS.PAGE_FILTERS]) {
+    state.sourceFilters = filters[STORAGE_KEYS.PAGE_FILTERS];
+  } else {
+    enableAllSources();
+  }
+
+  if (filters[STORAGE_KEYS.TAG_FILTERS]) {
+    state.categoryFilters = filters[STORAGE_KEYS.TAG_FILTERS];
+  } else {
+    enableAllCategories();
+  }
+
+  if (filters[STORAGE_KEYS.DISTRICT_FILTERS]) {
+    state.districtFilters = filters[STORAGE_KEYS.DISTRICT_FILTERS];
+  } else {
+    enableAllDistricts();
+  }
 }
 
 //===========
