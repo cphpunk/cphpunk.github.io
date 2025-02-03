@@ -72,7 +72,10 @@ function toggleDistrict(path) {
 export function updateDistrictStyle(path, isSelected, labelRect) {
   path.style.fill = isSelected ? LABEL_STYLE.SELECTED_COLOR : LABEL_STYLE.UNSELECTED_COLOR;
   path.style.cursor = 'pointer';
-  
+
+  //Disable IOS tap highlight
+  path.style.webkitTapHighlightColor = 'transparent';
+
   if (labelRect) {
     labelRect.setAttribute('fill', isSelected ? LABEL_STYLE.SELECTED_COLOR : LABEL_STYLE.UNSELECTED_COLOR);
     labelRect.setAttribute('fill-opacity', '0.9');
