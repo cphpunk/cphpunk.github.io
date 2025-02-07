@@ -166,17 +166,27 @@ function populateEvents() {
   ).map(([date, events]) => `
     <div class="event-day-divider" data-date="${date}">
       <div class="event-day-container">
-        ${events.map(event => `
-          <div class="${DOM_CLASSES.EVENTBOX}" data-id="${event.id}" onclick="window.open('${event.url}', '_blank')" style="cursor: pointer">
-            <img src="${event.imageUrl || DEFAULTS.PLACEHOLDER_IMAGE}" class="event-image" loading="lazy" alt="${event.name}">
-            <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
-            <div class="event-details">
-              <div class="event-title">${event.name}</div>
-              <div class="event-date">${EVENT_DISPLAY.ICONS.DATE} ${moment(event.start).format(DATE_FORMATS.EVENT_TIME)}</div>
-              <div class="event-location">${EVENT_DISPLAY.ICONS.LOCATION} ${event.venue + " (" + event.district + ")"}</div>
+        ${events.map(event => {
+          const venueEnabled = state.sourceFilters[event.venue];
+          const tagEnabled = state.categoryFilters[event.tag];
+          const district = event.district === "Anywhere Else" ? UNKNOWN_COPENHAGEN_DISTRICT : event.district;
+          const districtEnabled = state.districtFilters[district];
+          const display = venueEnabled && tagEnabled && districtEnabled ? 'flex' : 'none';
+          
+          return `
+            <div class="${DOM_CLASSES.EVENTBOX}" data-id="${event.id}" 
+                onclick="window.open('${event.url}', '_blank')" 
+                style="cursor: pointer; display: ${display}">
+              <img src="${event.imageUrl || DEFAULTS.PLACEHOLDER_IMAGE}" class="event-image" loading="lazy" alt="${event.name}">
+              <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
+              <div class="event-details">
+                <div class="event-title">${event.name}</div>
+                <div class="event-date">${EVENT_DISPLAY.ICONS.DATE} ${moment(event.start).format(DATE_FORMATS.EVENT_TIME)}</div>
+                <div class="event-location">${EVENT_DISPLAY.ICONS.LOCATION} ${event.venue + " (" + event.district + ")"}</div>
+              </div>
             </div>
-          </div>
-        `).join('')}
+          `;
+        }).join('')}
       </div>
     </div>
   `).join('');
