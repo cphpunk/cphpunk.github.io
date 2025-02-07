@@ -121,7 +121,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/994989999342631/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/471429424_1190861326010216_2701080225857192055_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ljc5GpMSEoIQ7kNvgG_rjV_&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AeDmC-Yol8l-VARyDQVa2RA&oh=00_AYD-xW_x1aJ57Y5hKUF1AH4Ytwo8DxHPhIYkRl6P4ENHIQ&oe=67A54ABD",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471429424_1190861326010216_2701080225857192055_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0rhP4CuW80YQ7kNvgGQIgV1&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AMh848s8CDxptqajt0hF_-0&oh=00_AYBzW7xYNpjPYqUFEwhZ9NikaoWSW4eNBuMa7sJrejtQhw&oe=67AC1A7D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Punks Undead",
@@ -140,7 +140,7 @@
       "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6659375,
       "longitude": 12.5805625,
       "bounds_ne_lat": 55.666,
@@ -153,7 +153,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/628723652984806/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475717932_962728589321755_7382307486352603254_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kpRStUj6tTcQ7kNvgHf902P&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A4W80e8iopfrUtvHyM4vAuw&oh=00_AYD7il_r7Ggo2P3H6dZJZTVGhk3anO6ei1f0P7_3oN_Tdg&oe=67A54A65",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475717932_962728589321755_7382307486352603254_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vz74lm6d6s0Q7kNvgF4Iqa4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A2NSc35YnVwEWncqvNv1Sbo&oh=00_AYBdwF1SvI4Kk1sAFPgScePJj0QaiSSZTsW1Fe0jskRdGw&oe=67AC1A25",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1744481343076459/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475781222_962734965987784_6603539697144116754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kUDBC_Be-iYQ7kNvgFADQuf&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AOf_iu7eVdD_JEgOy0Y5h0r&oh=00_AYCqBUvb7PhFepE9XMSBXBQtLlhK9w1T5Jb152qwkUOBrw&oe=67A56EC0",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475781222_962734965987784_6603539697144116754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=p0q5NE-fNrMQ7kNvgFCAESr&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AVeSVIbs0YdphgqtZW9pOLa&oh=00_AYDiq8Bpd09QhfnBNY7Qj1VIWjMIrH0_0xhmzn-_0Ag0HQ&oe=67AC0640",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
@@ -202,9 +202,9 @@
     },
     "location": {
       "name": "K.B. Hallen",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Peter Bangs Vej 147",
+      "city": "Frederiksberg",
+      "country": "DK",
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -217,7 +217,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/3693525844240634/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/460625342_913923170758076_5145350629017651273_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2qMHIsy6t-MQ7kNvgE6CFT6&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=ASkrMa74ToXDO-T3fxy9F-g&oh=00_AYBI2jLI37CH0iRoV4hO6X-cboDqMa6kSYRZJ_W5EXy5ow&oe=67A552C0",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/460625342_913923170758076_5145350629017651273_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xi-vkM00JzEQ7kNvgE5Y1p8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Aet5M3Pn7wbzgTn0heOoAfP&oh=00_AYBLb_wVkzwlgxJkSqHz4PMaYh_9-elEq41KDw2RwDK9PQ&oe=67AC2280",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -254,5 +254,69 @@
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "4141041729503725",
+    "name": "Zine Fest in Odense",
+    "description": "We’re coming once again to @ungdomshusetodense 5th of april 12-18 to celebrate the wonderful world of zines, small press and art books with you all, yay ✨ \n\nMore TBA \n\nOpen Call for zine-makers opens on wednesday 5th of february. We will make a post on how you can sign up, its free and the only requirement is: min. 1 zine\n\nGive some love to @christinelykkeh who made this badass poster 💟 thank you!!",
+    "date": {
+      "start_timestamp": 1743847200,
+      "end_timestamp": 1743868800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ungdomshuset Odense",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/4141041729503725/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474857778_640235841894018_6566668378261367346_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xC8ANs-WPwIQ7kNvgG8zot8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A_wNk4Y4WHpm-gx-I9rQZpp&oh=00_AYBoadTdwlYz1SM1hj9sdWvQnqb4C8S8TrkUr6gTknikyw&oe=67AC1D37",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "CPH ZINE FEST",
+    "page_url": "https://www.facebook.com/cphzinefest/events"
+  },
+  {
+    "id": "540971395630362",
+    "name": "Zine workshop #2",
+    "description": "Vær med til at lave zines og bidrag til 2730 Demotekets fælles udgivelse sidst på året.\n\nRebekka-Bernadette \"Benni\" Myttersen vil fortælle om sin tilgang til zines farvet af hendes baggrund som professionel tegneserie-tegner. \nHun præsenterer sin fremgangsmåde, magien ved 8-siders zines samt praktiske tips til zine-kreation.\n\nDu behøver ikke at kunne tegne eller skrive – så længe du har lyst til at udtrykke dig, er denne aften en god introduktion til at komme i gang.\n\nVi har (næsten) alt, du kunne ønske at bruge, til at lave flotte og særprægede tegninger, tekster og billeder.\n\nMan kan undervejs gå i gang med nye projekter eller arbejde videre på igangværende zines.\n\nI løbet af året vil vi afholde flere zine-events, og til sidst på året samler vi bidrag til et fælles 2730 Demoteket-zine.\n\nHvad er et zine?\nZine er selvproducerede hæfter med specielle temaer, som bliver brugt i ikke-kommerciel sammenhæng.\n\nZines varierer meget i format: De kan indeholde alt fra computerskrevet og håndskreven tekst til fotokopierede billeder, tegninger og tegneserier. \n\nZines fungerer som små bøger med enten politisk, personligt, socialt eller seksuelt indhold, som bidrager til et alsidigt kulturudbud.",
+    "date": {
+      "start_timestamp": 1743699600,
+      "end_timestamp": 1743706800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Herlev Bygade 70, 2730 Herlev Municipality, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.72531249999999,
+      "longitude": 12.435687500000014,
+      "bounds_ne_lat": 55.725374999999985,
+      "bounds_ne_lng": 12.435750000000013,
+      "bounds_sw_lat": 55.72524999999999,
+      "bounds_sw_lng": 12.435625000000016,
+      "plus_code_global": "9F7JPCGP+47",
+      "plus_code_local": "PCGP+47",
+      "plus_code_locality": "Herlev, Denmark",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/540971395630362/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475859801_1018690383628684_5113777137531612622_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PdpLdYfr5-wQ7kNvgHd1oMa&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=At5uxrnEotkUE4HgrR4W8lV&oh=00_AYBbjC8dytpOlpU9DKadQAnKO3HwfBWVNSdN1j2vsZcuXQ&oe=67AC1147",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
   }
 ]

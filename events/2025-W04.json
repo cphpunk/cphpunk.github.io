@@ -1996,7 +1996,7 @@
       "name": "Studiestræde 24, 1455 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.678437500000015,
       "longitude": 12.568812500000021,
       "bounds_ne_lat": 55.678500000000014,
@@ -2009,7 +2009,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/508897292207196/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472260607_122146040474359067_1851483202167495786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mgOqWSkLtkAQ7kNvgHZPZe-&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ao6x8Sdn7e553Hgy1iDqixe&oh=00_AYCdPl5d__57E6GJhqXAHkX6RK74CVLwd9c4QMDQpJ9EYw&oe=679EFEAA",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475678492_122150103320359067_4963271732414732196_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fVp3yyAGEPEQ7kNvgGZqOlq&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AbpXTjO8gsMMxkkT8j6MbGT&oh=00_AYB94R1OmH5OghSKK71zvAvSa4WPsEEUKcnDUisAlI42VQ&oe=67AC1C10",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",

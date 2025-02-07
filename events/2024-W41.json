@@ -12,7 +12,7 @@
       "name": "Mayhem Kbh",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
       "bounds_ne_lat": 55.70749999999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/2321658198182722/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/461593934_1194789405043245_3958747232115198143_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OTo-2eR1_qwQ7kNvgFFYyKf&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A_wbWFkjcQtIk5GiMijv1d9&oh=00_AYDqJw3naYFJ4UbAfv0SAfnw3BV_00EnAxqCA0z5XbkvIg&oe=67A54E84",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/461593934_1194789405043245_3958747232115198143_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=em-RPOOUL98Q7kNvgFLY-bU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AKnM9IdBwgs3tN4tjcKhNb9&oh=00_AYDH1Q-Fab7K3P23ub5_i3UTztT7T0ay8QjlXnWyiHtxvQ&oe=67AC1E44",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",
@@ -42,9 +42,9 @@
     },
     "location": {
       "name": "LiteraturHaus",
-      "address": "Møllegade 7",
-      "city": "Copenhagen, Denmark",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.69081250000001,
       "longitude": 12.555562499999994,
       "bounds_ne_lat": 55.690875000000005,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/462637786743446/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460215407_122185040498196821_760013300519114754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8oRyN4ubLHgQ7kNvgFT-tz8&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AAV01iFHUBoNuc62SQYCnfs&oh=00_AYB6kY2wLgCASmQ5weyEoiBAACz9UGfnsZVk2qxrUPj1Gg&oe=67A56E43",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475967339_122218891838196821_4675351773200824600_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FBeDotvDGHEQ7kNvgECpcY-&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AhZMahE_J4u0dEbfnNSe4b5&oh=00_AYAby-M5HSvLhqtUy6-I7zaF3vuB0tQvuec-2sZHeIr8Sw&oe=67AC2101",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -69,8 +69,8 @@
     "description": "KULTURNATTEN comes to Nørrebro's literature street. On October 11, from 16 to midnight, Møllegade will become the center of a cultural celebration that involves exhibitions, live music, author talks, poetry readings, art installations and a really good time. \n\nThis event is organized by Red Door and done in collaboration with Literatur Haus, Art Lab 21, and Ark Books, as well as with BAREN i Kronborggade 3, FIMARA, The Poetic Phonotheque, the Embassy of Colombia in Denmark, and done thanks to the support of Nordic Culture Point and the Kone Foundation, as well as Kulturnatten and Københavns Kommune. \n\nSave the date! Get your culture pass! See you there!\n\n15 – 15.20 pm. Nørrebro Choir\n\n15.20 – 16pm Poetry takeover: \nMagnus Grehn SE, Kristin Svava IS, Jonas Ellerström SE, Lalo Barrubia UR/SE, Pita Ochoa MX with Daniel Malpica MX/FIN, Stephen James Smith IR \n\n16-17pm DJ Circle Work (Australia / Denmark)\n17.00-17.20 Ark Books Poetry Takeover with Sebastian Nathan and Lesley-Ann Brown\n17.30-18.30pm  DJ Christian Pallin (Sweden)\n18.30-19.10pm   LIVE MUSIC by MAG (Sweden)\n\n19.30pm to 22pm LIVE BANDS curated by BAREN I KRONBORGGADE 3 \n22-23 Dj Morten Mejer (DK)\n23 – 24 DJ SPEAKERS CORNER \n24 – 2am \tcommunity clean-up of our street, Møllegade, and wrapup of evening.\n\n\nwww.resonansfringe.com",
     "date": {
       "start_timestamp": 1728651600,
-      "end_timestamp": 1728658800,
-      "timezone": "Europe/Copenhagen"
+      "end_timestamp": 1728683940,
+      "timezone": "UTC+02"
     },
     "location": {
       "name": "Møllegade, 2200 København N, Danmark",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/511437307945992/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/452203984_1083390507121795_8914393207737786809_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J8D-_9U2RT4Q7kNvgHEMSPO&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ArJ6DAQQcVv1XwqFeSy-t5F&oh=00_AYBGQRfy8CDxYVq6MyMMZh77jhIyrvVsndrvVdUAnpMVTQ&oe=67A579FA",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/452203984_1083390507121795_8914393207737786809_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Pz_DrO9dtq0Q7kNvgGUEsaC&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AxCMcmPntVqVze2vwpazHst&oh=00_AYA63YDud2ibKsjWrDqwtB6ksHk9MEUHMNWfFsM26X-gFQ&oe=67AC117A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -121,7 +121,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1043531517148413/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/451324220_1079783834149129_4070152119751733606_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CcalN6q5cOQQ7kNvgEo2qTv&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Ah_tkV2q8V6vLdSaHwpXZDc&oh=00_AYDTLC5iBgF1Lsr82agSO5x4C7aPo8N67fRMcpXJTVUlZA&oe=67A56D9E",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/451324220_1079783834149129_4070152119751733606_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xJR2wuaEWFAQ7kNvgGN2nBz&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AXU81Uz1AIkQzlI4glTABn9&oh=00_AYCnlqpEdIVKT0jtYq2ESkKBQUbaBogoBPptViX7UokLHQ&oe=67AC051E",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1972134899885590/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/452354294_1083908623736650_3704582282193232282_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LUuq4RlkwNYQ7kNvgFImZvm&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AR3hnIZpCU2AJTR_IkOgsUx&oh=00_AYCS09LSsYrxVBKh2xh-f3XG_cSmeFUhR49hfSUt8Pxc_g&oe=67A570DF",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/452354294_1083908623736650_3704582282193232282_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5cNTLQhH41cQ7kNvgHIUYzB&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AOqUXwulIPUlPC-VwI2Eyo4&oh=00_AYCLJyLbkctzGvjZGXhUb6tKMYU5V0ZAXOuZbaoxn6EdWA&oe=67AC085F",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1561988407726012/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/462789715_10103067219839058_282849054239898457_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=A6vIfoxYUPoQ7kNvgGSJyY_&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ARMp5v2-5p0tbqkz_OVSd_l&oh=00_AYBhFImiwYkFTvp4vHfKRdyRy3U3J46TXToGSVHm3aXntg&oe=67A56D7A",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/462789715_10103067219839058_282849054239898457_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cKDb6qaTLxcQ7kNvgFESSet&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Aj3hDKK3JC0F0n5oWQJMwUr&oh=00_AYBiFpH_8NMdoYNA8eD0r0qsRxmTBAowlXoARDryZGsRGw&oe=67AC04FA",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1030779088393555/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/453650869_1091332792994233_3805917231011378264_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=E58gOA1wCTgQ7kNvgE78j5m&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Al2xSFj2b3Av7NhsnkEZWlc&oh=00_AYC41KAm8EGGIWkU2QHd6swIYoesgXmn3hc3yow68eIDSg&oe=67A55686",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/453650869_1091332792994233_3805917231011378264_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=G_X89jq9m6oQ7kNvgGmNQMK&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=APrTS9fVTiMuH8J4ZVci2Bw&oh=00_AYCBVKqBZJyNkzlP7GpbuU8etdf2SQvD_e7QCVimxJMEpA&oe=67AC2646",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -249,7 +249,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/487552184149392/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/459982769_910036097822337_5681000382026797129_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DCQvIzTb19QQ7kNvgFUHOJ4&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A7R4NJZ03Ildx35SzEKFu9h&oh=00_AYCEaNtNRUwnuyn6YqFFfu2xk1ojB6hVwuC8Auz3Eskr_Q&oe=67A55478",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/459982769_910036097822337_5681000382026797129_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=V9Mz841NmRQQ7kNvgGxHHfT&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AhGTzqVEHqG8RMLRsEzGLPU&oh=00_AYBtISxToES_vXYmz1GcStxHwIiCcS7Mo3tvXQWh7StjAg&oe=67AC2438",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -281,7 +281,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1176372730076570/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/453070444_875559104603370_3505121474902358701_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zIKgTaBo7t4Q7kNvgFeoR5w&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Am4l75O-i7EMARKqeC-m43y&oh=00_AYDqX7btkNcPwSxk_0PhyRrUDs3QoC70Xv7j1UuwMo3JDQ&oe=67A56326",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/453070444_875559104603370_3505121474902358701_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=19YtN8E4DPIQ7kNvgGD0N6V&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A7HS316TqIX8X9x9tHyGpXC&oh=00_AYDfV_SkiXak3jnNMP52O9JJUp7EKQUouUVum2vq8EqnrQ&oe=67ABFAA6",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -313,7 +313,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/495177719989860/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/460121101_1338204664001816_9201973349411644057_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I4OxtYsmfOEQ7kNvgHvKZNq&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AcMoj8YoCbqtp38RvNTsWKb&oh=00_AYCOefR9BIUXdd0klj5xm7sIPO5hmh8g7A43cpGp7LldcA&oe=67A55993",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/460121101_1338204664001816_9201973349411644057_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4ZkneQ25zhwQ7kNvgFZaqhA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ArXIyY3Vsk8BxyIVZHAzqkA&oh=00_AYC4s6uNMuscKF8r-Uh3nRAiUGnX7H1ZtcRNOnQaJRcQng&oe=67AC2953",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Annual Copenhagen Film Festival",

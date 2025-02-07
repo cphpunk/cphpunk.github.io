@@ -41,7 +41,7 @@
       "timezone": "Europe/Copenhagen"
     },
     "location": {
-      "name": "Huset-KBH, Musikcaféen",
+      "name": "Huset, Musikcaféen",
       "address": "Rådhusstræde 13, 1466 København K",
       "city": "København K",
       "country": "Denmark",
@@ -73,7 +73,7 @@
       "timezone": "Europe/Copenhagen"
     },
     "location": {
-      "name": "HUSET, Musikcaféen",
+      "name": "Huset, Musikcaféen",
       "address": "Rådhusstræde 13, 1466 København K",
       "city": "København K",
       "country": "Denmark",
@@ -97,31 +97,31 @@
   },
   {
     "id": "533998839490626",
-    "name": "Debbie Sings x Basement [UDSOLGT]",
-    "description": "Debbie Sings er blandt de mest bemærkelsesværdige producere, popkunstnere og performere i landet. Til februar gæster Debbie Sings (og venner) Basement - samme måned som udgivelsen af sit længe ventede debutalbum.\n▄▄▄▄▄▄▄▄▄\nForsalg: 100kr. (+ gebyr) | Dørsalg: 120kr.\nDøre kl. 20.00 | Koncertstart kl. 20.30\nArrangementet er udsolgt, og der bliver ikke solgt billetter i døren.\n▄▄▄▄▄▄▄▄▄\n\nProducer og sangskriver Debbie Sings laver dansefremkaldende, hårdtslående, punk- og country-præget klubmusik, der lyder, som om den foregår på kanten af en afgrund. En solrig gåtur på stranden, der kunne blive afbrudt af en vildfaren tornado når som helst.\n\nMed blot et par singler ude er Debbie Sings hurtigt blevet et af de mest hypede navne i landet og har spillet store scener på store festivaler, gæstet SxSW og får strålende anmeldelser for hendes højoktan, fuldstændig uforudsigelige, imponerende og grundlæggende underholdende performances.\n\nDebutalbummet, med den passende titel \"Debbie's Songs\", udkommer på The Big Oil Recording Company i februar 2025.\n",
+    "name": "Debbie Sings x Basement [FLYTTET TIL LOPPEN!]",
+    "description": "Debbie Sings er blandt de mest bemærkelsesværdige producere, popkunstnere og performere i landet. Til februar gæster Debbie Sings (og venner) Loppen - samme måned som udgivelsen af sit længe ventede debutalbum.\n\n▄▄▄▄▄▄▄▄▄\nForsalg: 100kr. (+ gebyr) | Dørsalg: 120kr.\nDøre kl. 20.30 | Koncertstart kl. 21.30\nBilletlink: https://billetto.dk/e/debbie-sings-billetter-1079371\n▄▄▄▄▄▄▄▄▄\n\nProducer og sangskriver Debbie Sings laver dansefremkaldende, hårdtslående, punk- og country-præget klubmusik, der lyder, som om den foregår på kanten af en afgrund. En solrig gåtur på stranden, der kunne blive afbrudt af en vildfaren tornado når som helst.\n\nMed blot et par singler ude er Debbie Sings hurtigt blevet et af de mest hypede navne i landet og har spillet store scener på store festivaler, gæstet SxSW og får strålende anmeldelser for hendes højoktan, fuldstændig uforudsigelige, imponerende og grundlæggende underholdende performances.\n\nDebutalbummet, med den passende titel \"Debbie's Songs\", udkommer på The Big Oil Recording Company i februar 2025.\n",
     "date": {
-      "start_timestamp": 1740682800,
-      "end_timestamp": 1740690000,
+      "start_timestamp": 1740684600,
+      "end_timestamp": 1740691800,
       "timezone": "UTC+01"
     },
     "location": {
-      "name": "Enghavevej 42, 1674 Copenhagen, Denmark",
+      "name": "Musik Loppen",
       "address": null,
       "city": "",
-      "country": "DK",
-      "latitude": 55.66781250000001,
-      "longitude": 12.544062499999981,
-      "bounds_ne_lat": 55.66787500000001,
-      "bounds_ne_lng": 12.54412499999998,
-      "bounds_sw_lat": 55.66775000000001,
-      "bounds_sw_lng": 12.543999999999983,
-      "plus_code_global": "9F7JMG9V+4J",
-      "plus_code_local": "MG9V+4J",
+      "country": null,
+      "latitude": 55.67381250000001,
+      "longitude": 12.597062500000007,
+      "bounds_ne_lat": 55.67387500000001,
+      "bounds_ne_lng": 12.597125000000005,
+      "bounds_sw_lat": 55.67375000000001,
+      "bounds_sw_lng": 12.597000000000008,
+      "plus_code_global": "9F7JMHFW+GR",
+      "plus_code_local": "MHFW+GR",
       "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Vesterbro-Kongens Enghave"
+      "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/533998839490626/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/465652081_1334416117918493_956175577649189604_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RFPK1fmI37AQ7kNvgGyLQN1&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AtULelY1i-3ETnC6Mtk1j_c&oh=00_AYApbekR0KXdOGvse3Dfrvn_G27X9vUbR6tBHyqWhPXQ9A&oe=67A56815",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/476292358_1007697734725370_2188757876513495017_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RnCAV9ImZiYQ7kNvgFFBtL7&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AMtF3uygmm_UZiFGl-a1Ixu&oh=00_AYCP_fKKEZq_YgO7Vv2XGZaqlnxW_zBLTJxCIzgLN8x5wA&oe=67AC2118",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Basement CPH",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/937879548139875/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/449753311_1027331752728998_4093414721234720713_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=up7l-KTHxdwQ7kNvgFSPwG1&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Aw-Cn3KVp20eyGeHNQBH4DQ&oh=00_AYAccoYYwy-rNIsETbkEMg8cQqyTqlm_uKfxpzoszcYUCg&oe=67A55069",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/449753311_1027331752728998_4093414721234720713_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xREfBbtojrEQ7kNvgEdIL0h&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AVutj7P7CXPZX7fg4qqCQcz&oh=00_AYCwC1t8PRkNI2WhMSYFYpqM47l225-0u6cUZ5ZAaXEQ4w&oe=67AC2029",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BETA2300",
@@ -172,7 +172,7 @@
       "name": "Møllegade 7, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69081250000001,
       "longitude": 12.555687500000019,
       "bounds_ne_lat": 55.690875000000005,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1599860810712221/?event_time_id=1599860834045552",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473800256_1003814858459939_7897994206932001489_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FI9vHq3QZBwQ7kNvgFMgk_A&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AVTRhaKa8onanxxk9qV0C5J&oh=00_AYANPvxDBZH0EK_0c42wqGcykMdr4WpUs2EBlWC10yc7Wg&oe=679ECF08",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473800256_1003814858459939_7897994206932001489_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sJhYXixkONsQ7kNvgEkEZY0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A024LVmjP7w9_p2bDzQtRBQ&oh=00_AYB-YMaaQmjWail2MGITdrcouVVWgGvPNa3sTWr-kV7Vyg&oe=67ABFE08",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "LiteraturHaus",
@@ -198,7 +198,7 @@
     "date": {
       "start_timestamp": 1740600000,
       "end_timestamp": 1740607200,
-      "timezone": "Europe/Copenhagen"
+      "timezone": "UTC+01"
     },
     "location": {
       "name": "Lygten 29, 2400 Copenhagen, Denmark",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/1560479494662018/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/473221716_1106155158188067_3737063871408168082_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=csw7syax_rcQ7kNvgHAEaUA&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AuAnBSR2aOHiWy0X1M0EvCs&oh=00_AYBW1JcRhJ65c7OQcQdFCutKH99YDawA9UTaQmJJOP3QbQ&oe=67A54E29",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473221716_1106155158188067_3737063871408168082_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fBBNVDs7tHQQ7kNvgGZuSeY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AO3ugHwmzBbwim8CJWVhoUB&oh=00_AYD2MKfX06zVH-K9XFu2WP1Cr1b3es9tuebrDbxkM012-w&oe=67AC1DE9",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Lygtens Kro",
@@ -249,7 +249,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/1143067630799126/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474494996_1113606017442981_3208031936779297360_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PNkkiqWhlxMQ7kNvgG_ckyi&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AzcvOkMxRXQoTTpZUapsYGS&oh=00_AYCr5DvqHvgpSM_GL6zThi_f_UDzLicALxl9hrXH8Y5VmA&oe=67A561CD",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474494996_1113606017442981_3208031936779297360_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ry_kmaZvN48Q7kNvgF82M3H&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AewMRpzokZ-35JHMcZf2rut&oh=00_AYDzREXb1RGf2M8uci-r7vcEpUlBfbuK_mflRuN4u8zuRA&oe=67ABF94D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Lygtens Kro",
@@ -266,22 +266,22 @@
     },
     "location": {
       "name": "Musikcaféen",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Rådhusstræde 13, 3 th",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.676437500000006,
-      "longitude": 12.575187500000013,
+      "longitude": 12.574687500000024,
       "bounds_ne_lat": 55.676500000000004,
-      "bounds_ne_lng": 12.575250000000011,
+      "bounds_ne_lng": 12.574750000000023,
       "bounds_sw_lat": 55.67637500000001,
-      "bounds_sw_lng": 12.575125000000014,
-      "plus_code_global": "9F7JMHGG+H3",
-      "plus_code_local": "MHGG+H3",
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
       "plus_code_locality": "Copenhagen, Denmark",
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1617655052185804/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/473030816_122194796486182206_1990579998496339695_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GEHHTnMqKbgQ7kNvgGhyHPc&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AxBlGqppyFTRFn7oQ7K9JXr&oh=00_AYCNunkpzJzcBaHkDiGS304DrKzACRUGSt4gBJ5M7J_VdQ&oe=67A55CEA",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473030816_122194796486182206_1990579998496339695_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5C5lLzLT4NUQ7kNvgG7pWJC&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ao07nbq8942Xls8BTXnC06z&oh=00_AYAbmOaCTt6e-HYNB-2GKbGk4yxbvE9CHENILpewBou6Tg&oe=67ABF46A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musikcaféen",
@@ -300,7 +300,7 @@
       "name": "Oslo Plads 1, 2100 København Ø, 2100 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.691312499999995,
       "longitude": 12.587187500000013,
       "bounds_ne_lat": 55.691374999999994,
@@ -313,7 +313,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/560912683370416/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/471154632_1013706394120621_1579476017824359344_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KHXCvlXhNEMQ7kNvgHUsj5F&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Aml74yj0ceKlVHOrMyd-bpI&oh=00_AYAhBllSqMp-QlaYBjDso2x71Txs-bOBjqv8bSHPMTVdGw&oe=67A5690C",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471154632_1013706394120621_1579476017824359344_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bl1rC8bskEgQ7kNvgFRFfBh&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ADJp3CdKbMrClNswhlx0x5w&oh=00_AYCG1z9BasLPFMgkp5LJfgkgpa3RdUJhZkQUVwihsjNKJQ&oe=67AC008C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Den Frie Udstillingsbygning",
@@ -345,7 +345,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/624684833336753/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/473021705_1034838395353815_1132158999913829656_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MeT8sN9yIbMQ7kNvgEPE1h6&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=ApFUlpHNCvIAk0aA9v_0Eor&oh=00_AYDEAzAf9U_JwQvLPJCh7KX_4PiR9AJQzqCE8g3Th6tQcQ&oe=67A5770C",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473021705_1034838395353815_1132158999913829656_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Cz1BAFuazSsQ7kNvgHg2apR&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Az9RDKlQhAth_eT98fOvvCF&oh=00_AYDdLxWcZxmSa2-rzyw23-pkl58ypLcdSGSCUdRT1b9oag&oe=67AC0E8C",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Empire Bio",
@@ -377,7 +377,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/601687875571407/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/470563815_983234967176050_77071595601725887_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RSTt5TUMDEwQ7kNvgGiCxpR&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AMHXweXk5NDzvusdlpzE8o0&oh=00_AYAz3DizxmsC_V4QwCwpVMqdwocWV-2m8nLY1icM_5SzwA&oe=67A5686D",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/470563815_983234967176050_77071595601725887_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CFFJ6hG65xsQ7kNvgEnkQNZ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AlJXPnDnmnaZfXcu8hFTGUL&oh=00_AYCUblksvSo8ucm-t64LDgP1ZGZ6_cpXA4K50EFUu98rXQ&oe=67ABFFED",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -409,7 +409,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/940512934908137/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474499544_1120849996406385_5730918381516981625_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FtDr58K805kQ7kNvgFYLD01&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AElOtC5KwZsfUnovRZL4Qyh&oh=00_AYAH6R6pklKJShPa8LpA09Yh0FhXvkMhKVZi_lTcSh430w&oe=67A548BA",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474499544_1120849996406385_5730918381516981625_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RAP1rx5XhGcQ7kNvgHl5qvn&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AEiYVzAu3sTMGDl8LJD_i2e&oh=00_AYABLOOp4ZkNzHJF8FNnpzkeRHEZBbWa3gOYylKYewEP8Q&oe=67AC187A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -441,7 +441,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1268635877513955/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/471991022_1173747787639941_3653785929943173561_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5vTQkCnVfT4Q7kNvgG7VNgt&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=AjAckoGhtFG7T76uAZhoFJW&oh=00_AYCBvv-E6D8s0WRn4TRz6XaoOP7wBnT-dc8EcBRN2KFYYw&oe=67A56BA2",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471991022_1173747787639941_3653785929943173561_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3SmZOZ5uRfcQ7kNvgFBMyUj&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Agx0sPBgVO0KZAPByDf9cT-&oh=00_AYDEXYWTlAAgkjk-6bJRCCMZkb_75a9tfgNP05Zgf4j_Bw&oe=67AC0322",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Grand Teatret",
@@ -473,7 +473,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1474366500666234/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/474823914_1122293166262068_3060361429492111272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pwbeBx8PNCoQ7kNvgHxsO_a&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A9TPeCQF4-5JRpz2i-32iNy&oh=00_AYAzz5sIWPFXd4pUiFtlPl_fV3FPj4we7Gi7fLyZIgVDUQ&oe=67A56AC1",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474823914_1122293166262068_3060361429492111272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ObwYEON95z8Q7kNvgGyrqdS&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AeVRN5E1jRCXPBW85qMj75g&oh=00_AYALMRR05NKeA55eWdoNDw3GzAchSbq-kPhYindEg9grdA&oe=67AC0241",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -505,7 +505,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/1372960180535485/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/474595566_630553776199230_7587330995702242901_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ll4diD5wI4UQ7kNvgENxstP&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AQPtYNiZxpVN5guXN3OhUvi&oh=00_AYCNn_X0W0UDP_Ityruw35t03JUdu2bJvefn1Cfu3aELGQ&oe=67A54C93",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474595566_630553776199230_7587330995702242901_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pzNmY4sYQFoQ7kNvgGA-pnP&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AqDk8-BqoHK8-aocQcqaGzr&oh=00_AYCVnuTbcy_V-3OnJzeYOB7qyVVw0OEqdZGThKf0WFQjBw&oe=67AC1C53",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Villa Kultur",
@@ -524,7 +524,7 @@
       "name": "Nørre Allé 7, 2200 København N, Danmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.69156249999999,
       "longitude": 12.560437499999992,
       "bounds_ne_lat": 55.69162499999999,
@@ -537,7 +537,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/883748413868776/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/461770775_976642477825971_8519560896744375744_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rDtyD88HJukQ7kNvgF7OW-V&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=ADbC4lncLeKllDJYd7DMOvj&oh=00_AYBhfLcvt7SNyZP7n0LOqSxIcHA_-tZF-p8kfR__SgYZwQ&oe=67A5683C",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/461770775_976642477825971_8519560896744375744_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IcDLUxZ4cTsQ7kNvgHDWOi6&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AVsl1yKS1hL4jPn6dlLVt2R&oh=00_AYB9Qp_H1XA5tm8c0Fzw7WadpRoGnxigqiSemm8mgf6c9Q&oe=67ABFFBC",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "ALICE cph",
@@ -545,8 +545,8 @@
   },
   {
     "id": "3019160321555406",
-    "name": "Ethics // Dork // Shinyhunt x Basement ",
-    "description": "Den 1. marts slår Shinyhunt, Ethics og Dork kræfterne sammen og fylder Basement med melankoli, støj og lovende toner fra den danske undergrund.\n\n▄▄▄▄▄▄▄▄▄\n\nForsalg: 100 kr.. (+ gebyr) | Dørsalg: 120 kr.\nDøre kl. 20.00 | Koncertstart kl. 20.30\n\nBilletlink: https://billetto.dk/e/ethics-billetter-1157543?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1\n\n▄▄▄▄▄▄▄▄▄\n\n\nEthics (DK)\nEthics er en støjrock-duo fra København, der efter tre års indespærring i et lyserødt øvelokale har helliget sig et udtryk, der både er ambitiøst og skrøbeligt, kantet og medrivende, støjende og poppet.\nLive er bandet et udadvendt og underholdende bekendtskab, der allerede eksempelvis har taget Soundvenue med storm, da de konstaterede at Ethics \"fungerede overraskende godt\", hvilket jo er meget godt for et blad, der ellers primært beskæftiger sig med Noah Carter.\n\n\nDork (DK)\nDork leger anti-hero, når hun synger om ghosting og at lyve omkring det, på debut-EP’en\n‘I’m not a good person.’; En 4-track EP, som udforsker de grimme sider af jeg’et. \nPå sin debut-EP, kombinerer Dork groovy guitar-baseret indierock med dreampop og bittersød garagerock. Teksterne tegner et billede af en doven, asocial og selvironisk hovedperson i\nfeel-bad-indie universet. Her balancerer Dork mellem spydighed og sørgmodighed i nonchalante og charmerende sange om sin egen utilstrækkelighed.\nDork er det musikalske alias for sangskriver og musiker Lærke Simoni. For Simoni fungerer musikken både som eskapisme og som en form for terapi i et liv præget af overtænkning og følelser af fremmedhed.\n\nMed intime og dynamiske liveshows, inviterer Dork dig ind i sin melankolske verden\n\n\nShinyhunt (DK)\nShinyhunt er et Copenhagen based indie rockband der består af kæresteparret Signe Christoffersen og Frederik Winther Barkholt, som nu danner band med deres gode venner Mads Elsig Pedersen og Mads Refshauge.\nDe er aktuelle med deres sophomore album – 'sea-salt ice cream'  – et album bestående af 10 tracks skrevet med store, amplificerede følelser, hvor minderne fra en forladt barndom, den igangværende ungdom og håbet for fællesskabet og en lysere fremtid udforskes.  Med luftige vokaler og fuzzede guitarer inviterer shinyhunt lytteren ind i et nostalgisk univers, inspireret af 90'ernes alt rock og 00'ernes sentimentalitet.\n\n",
+    "name": "!!AFLYST!! - Ny dato TBA. Ethics // Dork // Shinyhunt x Basement ",
+    "description": "!!AFLYST!! - Ny dato TBA\n\nDen 1. marts slår Shinyhunt, Ethics og Dork kræfterne sammen og fylder Basement med melankoli, støj og lovende toner fra den danske undergrund.\n\n▄▄▄▄▄▄▄▄▄\n\nForsalg: 100 kr.. (+ gebyr) | Dørsalg: 120 kr.\nDøre kl. 20.00 | Koncertstart kl. 20.30\n\nBilletlink: https://billetto.dk/e/ethics-billetter-1157543?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1\n\n▄▄▄▄▄▄▄▄▄\n\n\nEthics (DK)\nEthics er en støjrock-duo fra København, der efter tre års indespærring i et lyserødt øvelokale har helliget sig et udtryk, der både er ambitiøst og skrøbeligt, kantet og medrivende, støjende og poppet.\nLive er bandet et udadvendt og underholdende bekendtskab, der allerede eksempelvis har taget Soundvenue med storm, da de konstaterede at Ethics \"fungerede overraskende godt\", hvilket jo er meget godt for et blad, der ellers primært beskæftiger sig med Noah Carter.\n\n\nDork (DK)\nDork leger anti-hero, når hun synger om ghosting og at lyve omkring det, på debut-EP’en\n‘I’m not a good person.’; En 4-track EP, som udforsker de grimme sider af jeg’et. \nPå sin debut-EP, kombinerer Dork groovy guitar-baseret indierock med dreampop og bittersød garagerock. Teksterne tegner et billede af en doven, asocial og selvironisk hovedperson i\nfeel-bad-indie universet. Her balancerer Dork mellem spydighed og sørgmodighed i nonchalante og charmerende sange om sin egen utilstrækkelighed.\nDork er det musikalske alias for sangskriver og musiker Lærke Simoni. For Simoni fungerer musikken både som eskapisme og som en form for terapi i et liv præget af overtænkning og følelser af fremmedhed.\n\nMed intime og dynamiske liveshows, inviterer Dork dig ind i sin melankolske verden\n\n\nShinyhunt (DK)\nShinyhunt er et Copenhagen based indie rockband der består af kæresteparret Signe Christoffersen og Frederik Winther Barkholt, som nu danner band med deres gode venner Mads Elsig Pedersen og Mads Refshauge.\nDe er aktuelle med deres sophomore album – 'sea-salt ice cream'  – et album bestående af 10 tracks skrevet med store, amplificerede følelser, hvor minderne fra en forladt barndom, den igangværende ungdom og håbet for fællesskabet og en lysere fremtid udforskes.  Med luftige vokaler og fuzzede guitarer inviterer shinyhunt lytteren ind i et nostalgisk univers, inspireret af 90'ernes alt rock og 00'ernes sentimentalitet.\n\n",
     "date": {
       "start_timestamp": 1740855600,
       "end_timestamp": 1740862800,
@@ -569,7 +569,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/3019160321555406/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/474584254_1095055975965074_7144831972539306341_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=21JwncdjEEQQ7kNvgGnK4vR&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AVUE5IUQRHRgFHxOFU4vz2W&oh=00_AYA-dY1HszwT6Z0bEzlGltQRjsqUnBLVhdBjOVb4i2hXzA&oe=67A57085",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474584254_1095055975965074_7144831972539306341_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XkNq0teIsG8Q7kNvgECLjap&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AIGkjYx53cf6m59t7g8PjEP&oh=00_AYCkMlDsPpRStAwZTg0FoWVRUykPyj9VTnyoWRmdpv0P8g&oe=67AC0805",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Basement CPH",
@@ -578,34 +578,34 @@
   {
     "id": "1625972491660538",
     "name": "Durance of Hate IV - New Money (DK) // Nils Gröndahl (DK) // Blodmåne (DK) // Kollapse (Aalborg) ",
-    "description": "Durance of Hate - IV \n\nTickets 200,-\nDoors 19:00\nShow start 19:30\n\nThe poster for this edition has been made by the talented Lars Hummelshøj and will be available to buy at the show. \n\nAll ticket sale goes directly to the performing artists. \n\nFor this edition of Durance of Hate we invited the following four bands:\n\nNew Money: \n\nThe trio behind NEW MONEY - Christian Bonnesen, Niclas Sauffaus, and Simon Tornby -\nhave cut their teeth in revered bands like LLNN, FOSSILS, Elitist, Piss Vortex, and Psyke\nProject. Their combined crucible of experience has moulded NEW MONEY into a menacing\nnew force. With their debut record, “DINERO NUEVO”, NEW MONEY prepares to step onto\nthe international stage. Recorded live at Dead Rat Studio under the watchful guidance of\nJacob Bredahl, this record is a blistering introduction to the band's capabilities.\n\nKollapse:\n\nNils Gröndahl:\n\nBlodmåne:\n",
+    "description": "NEW VENUE - THE EVENT HAS MOVED TO BETA2300!\n\nDurance of Hate - IV \n\nTickets 200,-\nDoors 19:00\nShow start 19:30\n\nThe poster for this edition has been made by the talented Lars Hummelshøj and will be available to buy at the show. \n\nAll ticket sale goes directly to the performing artists. \n\nFor this edition of Durance of Hate we invited the following four bands:\n\nNew Money: \n\nThe trio behind NEW MONEY - Christian Bonnesen, Niclas Sauffaus, and Simon Tornby -\nhave cut their teeth in revered bands like LLNN, FOSSILS, Elitist, Piss Vortex, and Psyke\nProject. Their combined crucible of experience has moulded NEW MONEY into a menacing\nnew force. With their debut record, “DINERO NUEVO”, NEW MONEY prepares to step onto\nthe international stage. Recorded live at Dead Rat Studio under the watchful guidance of\nJacob Bredahl, this record is a blistering introduction to the band's capabilities.\n\nKollapse:\n\nNils Gröndahl:\n\nBlodmåne:\n",
     "date": {
       "start_timestamp": 1740765600,
       "end_timestamp": 1740772800,
       "timezone": "UTC+01"
     },
     "location": {
-      "name": "Basement Vesterbro",
+      "name": "BETA2300",
       "address": null,
       "city": "",
       "country": null,
-      "latitude": 55.66781250000001,
-      "longitude": 12.544062499999981,
-      "bounds_ne_lat": 55.66787500000001,
-      "bounds_ne_lng": 12.54412499999998,
-      "bounds_sw_lat": 55.66775000000001,
-      "bounds_sw_lng": 12.543999999999983,
-      "plus_code_global": "9F7JMG9V+4J",
-      "plus_code_local": "MG9V+4J",
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
       "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Vesterbro-Kongens Enghave"
+      "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/1625972491660538/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/468777302_450498661429528_3558420858031313385_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mRyDnFv7Lc4Q7kNvgGS1HVq&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A-w_o7hlg0VBp4SM-m56qf_&oh=00_AYD6d1-dxoUOYBUKlg-vYopGSU2n9TFkGEmwwVdSstpnbw&oe=67A5414E",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/468777302_450498661429528_3558420858031313385_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=94WSh-TmEK4Q7kNvgEez7ni&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AA5kiaPJ6xdbdam0yyBeehN&oh=00_AYC9QyeDUEraDCCzrAypT8NsieDRsSS2ETmXhFv0Kh28kA&oe=67AC110E",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Basement CPH",
-    "page_url": "https://www.facebook.com/BasementKBH/events"
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
   },
   {
     "id": "573508342509244",
@@ -652,7 +652,7 @@
       "name": "LiteraturHaus",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69081250000001,
       "longitude": 12.555562499999994,
       "bounds_ne_lat": 55.690875000000005,
@@ -665,7 +665,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/630433009397179/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475983551_1142437697890171_4998582265572710380_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Xh0iYZqFChMQ7kNvgGJgjPc&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AeF587m0dnqPQGw9HpLcluw&oh=00_AYBk-NBv_UlUUJSXR948XfWiXKSSx5fzMiQe1wXMcRDikw&oe=67A5731A",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475983551_1142437697890171_4998582265572710380_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AGeNnzOpc2YQ7kNvgFr979L&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AW35FbHKcwf-EMcvv03XnEB&oh=00_AYD7KC-FaeEbkTjZ8rCTzSN7u0YtNvbsDf1DPkyGiDfAvg&oe=67AC0A9A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Cph Listening Room",
@@ -697,7 +697,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/4072826626283817/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475117091_1051381357032852_8862906581940366732_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LSThmFZFpHgQ7kNvgFd4yQK&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AwI3yH8nC6qQ3sqTrCsPhw1&oh=00_AYDPpr67amQFfSGQIjCyHoZ-r74llsoB2EHU0NbGpx8zaw&oe=67A569D4",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475117091_1051381357032852_8862906581940366732_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bbjMh354jNQQ7kNvgEBOpm3&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ATMAt1ygqja_nGVpaVtLuwT&oh=00_AYDunZ1T5DvsfYvjWHLgH3EUuWx76uE9gw0Ct54N0RVGeg&oe=67AC0154",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Empire Bio",
@@ -793,7 +793,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/451252641146269/?event_time_id=451252651146268",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/470677166_601443115871503_5754399872995548940_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RbGjYnElZ1cQ7kNvgGw7dNf&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=A0sJM_FhgD9h835V8iUxKh-&oh=00_AYCqxtmlupwFJJNSfGCP-G_bgA1SofBDpq2WvrU4QAGbSg&oe=67A55269",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/470677166_601443115871503_5754399872995548940_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=K2HDUM9GHKoQ7kNvgE8VOJd&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ABsd13HClijOq5lbckSgY96&oh=00_AYAR7_9aamebqVafMqRL-JDVBW2JdcZnpYeRWsTpndkxNA&oe=67AC2229",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Kulturhuset Islands Brygge",
@@ -825,10 +825,202 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/642965714740837/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475020795_1149650230500221_1978950973030268718_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=i_CY15BK9loQ7kNvgHXVEdn&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AMBSs8tWVuneCKGRzprFCYW&oh=00_AYDfFVkFpIBpnAIzxduK5syv-kpuHPveUJQtK-f4V5l9Qg&oe=67A55C28",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475020795_1149650230500221_1978950973030268718_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MuMWzn82GBQQ7kNvgFBEkFU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AOqMSgwW3dp_4h9oToe8I6X&oh=00_AYAv3W1e9jIrmNp9vk3pITi3HPFd0WDVxKiW2NEbA8q5cQ&oe=67AC2BE8",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Module",
     "page_url": "https://www.facebook.com/modulecph/events"
+  },
+  {
+    "id": "3861791674073550",
+    "name": "Operaen`s fastelavn`s Party",
+    "description": "//OPERAEN'S FASTELAVN'S PARTY//\n\n//PROGRAM//\n\n19:00 - Doors open\n21:00 - Music starts with DJ Clarification\n21:30 - \"Slå katten af tønden\" / Hit the pinata\n22:30 - Live band\n23:15 - After party with DJ Clarification \n00:00 - Best Costume will be announced and wins Champagne \n03:00 - Doors close\n\n//SLÅ KATTEN AF TØNDEN//\n\nIt's an old tradition in Denmark to once a year dress up and hit a barrel filled with treasure.\n\n//LIVE BAND//\n\nLooking for Duende\n\nThe mission is to spread the mythical Duende dust out into the Danish night sky.\nThe inspirations are African touareg desert blues, viby highlife, Danish 80’s pop, Latin rock and other styles from distant coastal lines.\nGet ready to be spellbound!\n\n//AFTERPARTY//\n\nDJ Clarification\n\nResident DJ at the Opera, most dancing and smiling DJ to host this nights afterparty.\n\n//COSTUME CONTEST//\n\nBest costume wins a bottle of champagne at 00:00\nSo better get creative\n\n//ENTRY/\n\n19:00 - 21:00 - Donations \n\n21:00 - 03:00 - 70 ,-\n\nCASH ONLY\n//OPENING HOURS//\n\n19:00-03:00\n\nMusic starts at 21:00\n\n\n\n\n\n",
+    "date": {
+      "start_timestamp": 1740765600,
+      "end_timestamp": 1740772800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Pusher st., 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67375000000001,
+      "longitude": 12.598750000000024,
+      "bounds_ne_lat": 55.67500000000001,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.672500000000014,
+      "bounds_sw_lng": 12.597500000000025,
+      "plus_code_global": "9F7JMHFX+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/3861791674073550/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475946119_1042222621282969_8401784468033466455_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EosY0Ni3jYMQ7kNvgGFd44f&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AHgRufNbe5jsfd0_3AOcftz&oh=00_AYApjamXEK04NysLTqieNX4HpqEdpdbN3mNIrVJzI2l9JQ&oe=67ABF746",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Operaen Christiania",
+    "page_url": "https://www.facebook.com/operaenscafe/events"
+  },
+  {
+    "id": "1126614592471583",
+    "name": "1 MARTS DEMONSTRATION!",
+    "description": "18 år er gået siden Nørrebro mistede ungdomshuset på jagtvej 69, og derfor samles vi igen i år nye som gamle brugere af huset for at vise at grunden på jagtvej stadig tilhører os, og at vi aldrig opgiver kampen for flere fristeder og plads til alle!\n\nRydningen af ungdomshuset markerede et afgørende øjeblik for gentrificeringens fremmarch på nørrebro og i København. Det var et skridt i Nørrebros transformation fra historisk at have været en mangfoldig arbejderklassebydel til en højborg for hipsteres forbrugsorienterede livsstil.\n\nUngdomshuset var ikke bare et hus, men et ikonisk samlingspunkt for den radikale venstrefløj, og et symbol for kampen mod det kapitalistiske byprojekt der nedprioriterer menneskers behov for autonomi og fællesskab til fordel for økonomisk vækst. Det var et hus for dem der ikke passede ind i kapitalismens snævre rammer, et sted hvor man kunne være sig selv uden at føle sig kvalt af samfundets normer og forventninger.\n\nVi begynder årets 1. marts med folkekøkken i vores nye ungdomshus på Dortheavej 61, kl 17:00. Derefter går vi i en demonstration fra det nye hus til den tomme grund på Jagtvej 69 for at slå fast at ingen kan tage Jagtvej 69 fra os. Selvom der ikke længere står et fysisk hus, er det stadig et sted hvor vi kan samles og fejre mangfoldighed og aktivisme.\nIntet glemt – Intet tilgivet!\n\nEfter demonstrationen fortsætter vi aftenen med fest og koncerter på Jagtvej 69, og programmet byder på:\n- PISTOL PISTOL PISTOL\n- RASKE PENGE\n- NEXØ\n- FEJL MED PH\n\nKAMPEN FORTSÆTTER 🖤❤️",
+    "date": {
+      "start_timestamp": 1740844800,
+      "end_timestamp": 1740852000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Ungdomshuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70868749999998,
+      "longitude": 12.523437500000014,
+      "bounds_ne_lat": 55.70874999999998,
+      "bounds_ne_lng": 12.523500000000013,
+      "bounds_sw_lat": 55.708624999999984,
+      "bounds_sw_lng": 12.523375000000016,
+      "plus_code_global": "9F7JPG5F+F9",
+      "plus_code_local": "PG5F+F9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://www.facebook.com/events/1126614592471583/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475965024_1036192288540322_1500694104060292143_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nOrCfbejwFUQ7kNvgEuETfa&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ATlUxhTn-7IBay6z37MX_Ut&oh=00_AYA_dUDpwDVH0I_thM81CPGWpH8prSi-1P45xnkNdXE0Eg&oe=67AC279B",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "Ungdomshuset",
+    "page_url": "https://www.facebook.com/UngdomshusetD61/events"
+  },
+  {
+    "id": "1985796845176919",
+    "name": "The Awesome Welles [SPECIAL GUEST: Nils Gröndahl] // Radar, Aarhus",
+    "description": "Efter genopstandelsen i begyndelsen af 2023 med succesalbummet Secular Age og tilhørende koncerter, er det hæderkronede og lovpriste rock noir-band igen at finde på landevejen, for sidste gang i en rum tid, med Sweet Mercies-Tour.\n___________\n\nDØRE: 19.00\nKONCERT: 20.00\nENTRÉ: 160,-\n___________\n\nDen skæbnesvangre pandemitid, der bestyrtede det meste af den danske musikbranche, markerede til trods en tilbagevenden for det atypiske rockband, der med Secular Age lige dele vakte begejstring hos eksisterende såvel som nye fans. På Secular Age skar The Awesome Welles ind til benet, men føjede samtidig nye nuancer til deres velkendte, tidløse univers.\n\n\"Mørkt og mesterligt. Endnu engang har ventetiden været det hele værd.\" - Gaffa, 5/6\n\n“Secular Age er et modent udspil fra et band, der med sine høje kvaliteter og stærke fremførsel bør ramme et bredere publikum. The Awesome Welles spiller sig ind i de højere luftlag med denne ret hurtigt lavede plade.\" - GFR\n\nDe 10 sange er forfriskende fri af tidens tendenser og dogmatikker. Det primale, monstrøse og ulmende kaos veksler med en hidtil uset overgivende og afdæmpet ro i et lydbillede – ofte smukt og håbefuldt, somme tider dunkelt og sværtet – hvor dansk-canadiske teolog og forsanger Adam Allen tager rocklyrikken med sig, hvor den sjældent opholder sig.\n\nMed den særegne forkærlighed for analoge og akustiske instrumenter, og en simpel, hårdtslående, håndspillet tilgang, blev mørkemændene – både på albumformat og live – spået en lys fremtid blandt rockmusikkens fornyere i ind- og udland, inden pladeselskabsproblemer kvalte bandet.\n\nSiden comebacket har det tidløse rockband dog – der, foruden dets to bærende medlemmer, for vane at overraske med musikere fra bl.a. Blaue Blume, Kellermensch, Brimheim og andre rockaktører – atter cementeret sig som et ledende must watch for fans af alternativ rock herhjemme, med deres særegne mørke og eksplosive, men følelsesladede rockudskejelser. \n\nSweet Mercies Tour bliver det sammenfattende navn for de optrædener i 2025, der vil føre band og publikum sammen på Radar, inden undfangelsen af nyt materiale påbegyndes:\n\n“Det har været en velsignelse for os de seneste år at komme ud og møde de mennesker, der giver liv til vores værker, og for hvem de har betydning. Derfor føles det både tillokkende og intuitivt at konsultere dem på tærsklen til, at vi lukker os om selv, og skabelsen af noget nyt begynder”, fortæller forsanger Adam Allen.\n\nSPECIAL GUEST:  Nils Gröndahl\n\nNils Gröndahl spiller alene på scenen. Med sin nedstemte violin og et hav af effektpedaler bygger han en intens blanding af dronede riffs, melankolske ballader med tyske tekster og storladne gotiske støjkatedraler. \n\nHan har også spillet solokoncerter i alt fra DR's koncerthus til belgiske kirker og Bremen Teaters dametoiletter. \n\nUdover sit solovirke har han været medlem af bandet Under Byen, og samarbejder med en lang række danske og internationale artister - blandt andet med strygerarrangementer for Sky Ferreira, Baby In Vain og Iceage og som violinist for bands som Kellermensch, Jacob Bellens, MØ og mange flere. \n\nVi glæder os til at se dig <3 ",
+    "date": {
+      "start_timestamp": 1740855600,
+      "end_timestamp": 1740862800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Radar",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1985796845176919/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/465224191_961626056004631_4422237650267918479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KsuZ1pwi5ucQ7kNvgEHZPCv&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AUagko4bKUn-lI0VJzUGwIv&oh=00_AYBn6Pq2NchGlyU1_7AXh1N9zWAB8ylX-uV8-TpKA7jmnw&oe=67AC23A4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Radar",
+    "page_url": "https://www.facebook.com/radarlive/events"
+  },
+  {
+    "id": "1268446674234114",
+    "name": "GRAND Teatret: Rejsen til Nurunien",
+    "description": "Kom til en filmisk hyldest til fantasi og passion.\nFilmvisning + Q&A med instruktør Magda Wyszynska og hovedperson Jens-Rune Gissel.\n\nJens-Rune Gissel lever for at skabe en fortryllende verden fuld af eventyr. I 40 år har han og hans venner udforsket den i Jens-Runes version af rollespillet Dungeons & Dragons. Trods sin imponerende bedrift med 40 bøger fyldt med fortællinger og fantasifulde tegninger mangler han stadig anerkendelse fra omverdenen, især hans døtre. Derfor beslutter han sig for at vise sit livsværk frem i en udstilling – men at navigere i \"den virkelige verden,\" især uden e-mail og internet, viser sig at være en udfordring.\nEn ærlig og humoristisk fortælling om en mand, som mener at “dem, som glemmer at lege, bliver meget hurtig gamle”.\n\nTIL ROLLESPILLERE: selv-opfundet verden og 40-år-lang kampagne med samme DM og spillere!\n\nTRAILER: https://youtu.be/C6f2Wiwj5Xc\n\nBILLETTER: https://grandteatret.dk/film/rejsen-til-nurunien/\n",
+    "date": {
+      "start_timestamp": 1740592800,
+      "end_timestamp": 1740600000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Grand Teatret",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.571062500000025,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.571125000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.571000000000026,
+      "plus_code_global": "9F7JMHGC+HC",
+      "plus_code_local": "MHGC+HC",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1268446674234114/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/476242851_122121001382637984_7802103400027422416_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=S15tQtnwjUsQ7kNvgHoE-kt&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Aoatse5fxwf2hso-nDGJ9-r&oh=00_AYA9k6rDEb8gukZpM3QAtU6oUeJNdTGVpXPGdtuvpLd9nw&oe=67AC02E9",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Grand Teatret",
+    "page_url": "https://www.facebook.com/grandteatret/events"
+  },
+  {
+    "id": "27849410177983543",
+    "name": "TUFTING ",
+    "description": "Kom og tuft dit helt eget og unikke vægtæppe!\n\nTufting er et gammelt håndværk, som de fleste måske kender fra ryatæpper. Tufting foregår ved, at du først tegner dit motiv på udspændt hessian på en ramme. Dernæst tufter du motivet med garn og en danellanål, som laver løkker på den anden side af hessianet, som bliver til dit vægtæppe. Det kræver ingen forudsætninger at tufte. \n\n\nUNDERVISER\n\nUnderviser Cathrine Svarre elsker den kreative proces ved tufting, og ikke mindst den ro og fordybelse som tufting kan give. Cathrine har Instagramprofilen @t_u_f_t_e_d_l_o_v_e, hvor du kan finde inspiration og masser af gode tuftetips.\n\n\nPRAKTISK INFO\n\nWorkshoppen tager 3 timer, og koster 350 kr. pr. person. Prisen inkluderer undervisning, lån af danellanål, ramme og øvrige materialer for at du kan tufte dit eget vægtæppe.\n\nI prisen indgår også kaffe og te.\n\nDu køber din billet via vores hjemmeside her: https://absaloncph.dk/event/tufting-lav-dit-eget-vaegtaeppe-8/2024-06-02/ \n\n\nMEDBRING\n\nDu skal medbringe eget garn, men der vil også være lidt forskelligt garn til rådighed, hvis du lige skulle stå og mangle en farve på dagen. Alle former for garn kan benyttes. Det er dog vigtigt, at garnet ikke er tykkere end pindstørrelse 4.\n\nFor at få mest ud af timerne, er det en god idé, hvis du forud for workshoppen har gjort dig nogle tanker om motivet. Det er en god ide, at vægtæppet har et enkelt motiv, hvor der ikke er for mange detaljer. Medbring evt. skitser eller udprint på max 20 cm i diameter. \n\n ",
+    "date": {
+      "start_timestamp": 1740924000,
+      "end_timestamp": 1740934800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Folkehuset Absalon, Sønder Blvd. 73, 1720 KBH V.",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66543749999998,
+      "longitude": 12.550312500000004,
+      "bounds_ne_lat": 55.66549999999998,
+      "bounds_ne_lng": 12.550375000000003,
+      "bounds_sw_lat": 55.66537499999998,
+      "bounds_sw_lng": 12.550250000000005,
+      "plus_code_global": "9F7JMH82+54",
+      "plus_code_local": "MH82+54",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/26166689862922258/?event_time_id=27849410177983543",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/444959972_779097784361897_5068796381951519439_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aZi-qdP87GwQ7kNvgHLctAY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A5QUdfu6QmMZUT6Zp3G772b&oh=00_AYDwoxImOdzQ8zt69mpqhfrZxcYrQJgamif0MtaFGsnhxA&oe=67AC0DDB",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
+  },
+  {
+    "id": "1297929488097473",
+    "name": "Mønstre og monstre – Glyptotekets lerværksted",
+    "description": "Skab din egen kunst på Glyptotekets lerværksted. Få hænderne ned i leret og brug små dimser til at trykke fine mønstre og mærkelige monstre. Find inspiration i museets gulve, lofter og vægge, der vrimler med detaljer og finurligheder.\nTil slut bliver jeres kreationer udstillet som en del af et stort fælles værk – en væg fuld af alle jeres mønstre og monstre.\n\n\nAF LER ER DU KOMMET...\nLerværkstedet var første gang åbent i 2022-23. I den periode brugte gæsterne næsten ti ton ler og lavede de smukkeste værker, som stod og tørrede i værkstedet. Til slut blev alt knust og æltet sammen til ler på ny. Af dette ler kan der nu laves værker igen.\nSe en video om genbrugsprocessen her: https://www.youtube.com/watch?v=mlI9Vj-ojFQ\n\n\nPRAKTISK\nMønstre og Monstre – Glyptotekets lerværksted er for børn i alle aldre og deres voksne.\n\n\nÅBNINGSTIDER\nLørdag og søndag kl. 11-15 og torsdag aften kl. 16-20.\nKom forbi værkstedet senest kl. 14.30 (i weekenden) og 19.30 (torsdag), hvis du vil nå at lave dit eget lerværk. \nEntré til Glyptoteket er gratis for børn og unge under 18, og det koster ikke noget at deltage i værkstedet.\nLerværkstedet er placeret i stueetagen i Henning Larsens bygning. I forhallen og billetsalget ligger der en folder, som viser vej til værkstedet.\nDer kan være 40 personer i værkstedet ad gangen. Vores værter er der for at hjælpe jer godt i gang.\n\n\nWEEKEND I VINTERHAVEN\nHør historierne om statuerne, udfold jer kreativt og gå på opdagelse på egen hånd. Hver lørdag og søndag mellem 11 og 15, samtidig med lerværkstedet, er vores værter klar til at modtage jer i Vinterhaven, hvor I kan få opgaver og inspiration til jeres besøg.\nLæs mere om Weekend i Vinterhaven: glyptoteket.dk/boern/",
+    "date": {
+      "start_timestamp": 1740668400,
+      "end_timestamp": 1740682800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Glyptoteket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6729375,
+      "longitude": 12.572562500000018,
+      "bounds_ne_lat": 55.673,
+      "bounds_ne_lng": 12.572625000000016,
+      "bounds_sw_lat": 55.672875000000005,
+      "bounds_sw_lng": 12.57250000000002,
+      "plus_code_global": "9F7JMHFF+52",
+      "plus_code_local": "MHFF+52",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1297929488097473/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475781103_1073222958182151_7130216026674872183_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M131U48QonUQ7kNvgHtGnaS&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AGOZnHF7Q_DzKaUIvlsYiq3&oh=00_AYCQpL0O9FGwBiGsFq4CntTADjblER3fQ0GRW1kERyUJqg&oe=67ABFA71",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Glyptoteket",
+    "page_url": "https://www.facebook.com/glyptotek/events/"
   }
 ]

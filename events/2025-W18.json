@@ -44,7 +44,7 @@
       "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6659375,
       "longitude": 12.5805625,
       "bounds_ne_lat": 55.666,
@@ -57,8 +57,40 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1247720022981286/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/475783702_962735459321068_7150424972155407764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J8D4uRoT3ikQ7kNvgFdELbC&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=A0xrzCu0UgZcD4GNKjp47jJ&oh=00_AYBzZsd1dc9Mi7q9SKE3sW4tHVsa8JYrvKHDvY6GIGa7KQ&oe=67A54CD8",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475783702_962735459321068_7150424972155407764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=o281nMwDdCAQ7kNvgEw1njH&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A8m8RKubGQCfCgD-YTBh-T3&oh=00_AYBp4ikSPRRiSWW1VmAQQTUOqmgg98S5FgAZNJL_aVu65A&oe=67AC1C98",
     "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "545505181843510",
+    "name": "Fællesmøde - Extinction Rebellion København",
+    "description": "(English below)\n\nHey! Er du klar til at skride til handling imod regeringens og magtens ødelæggende og manglende handlinger i et klima- og naturkollaps? Så kom med i fællesskabet i Extinction Rebellion København.\n\nFællesmødet er for alle. For dig der er helt ny i XR men også for dig, der har været med længe. For dig, der bare har lyst at spise med, og for dig, der har lyst til at planlægge aktioner eller holde møder om outreach, medie, logistik og meget mere.\n\nEt af målene med fællesmøderne er at skabe et stærkt fællesskab i XR København, hvor vi støtter og motiverer hinanden. Så kom forbi og vær med!\n\nDer vil være både engelsk- og dansk-talende grupper.\n\n🗓 TIDSPLAN\n17:30: Fælles spisning\n18:00: Fællesmøde\n19:30: Projektgruppemøder - grupper holder møder og folk hænger ud ❤\n\n/// English ///\n\nHey! Are you ready to take action against the climate crisis and the collapse of nature? Join the community of Extinction Rebellion Copenhagen.\n\nFællesmøde (common meeting) is for everyone. For those who are brand new to XR, but also for those who have been a part of the movement for a long time. For those who just want to join for dinner, and for those who want to plan actions or have meetings on outreach, media, logistics and much more.\n\nOne of the main goals with fællesmøder is to create a strong community in XR Copenhagen where we support and motivate each other. So join us and take part in the community!\nThere will be both english and danish speaking groups, and whisper translation for those who need it.\n\n🗓 AGENDA\n17:30: Common Dinner\n18:00: Common meeting\n18:30: Meetings in project groups - groups are meeting and rebels hang out ❤\n",
+    "date": {
+      "start_timestamp": 1746027000,
+      "end_timestamp": 1746034200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6659375,
+      "longitude": 12.5805625,
+      "bounds_ne_lat": 55.666,
+      "bounds_ne_lng": 12.580624999999998,
+      "bounds_sw_lat": 55.665875,
+      "bounds_sw_lng": 12.5805,
+      "plus_code_global": "9F7JMH8J+96",
+      "plus_code_local": "MH8J+96",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/545505181843510/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475512880_962729062655041_1170884869655604252_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_Pxp5dnlEbMQ7kNvgGxFgCm&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ag0PfuJufH4Yd4WG6MJxmGP&oh=00_AYDFXXf45lCdNvf0P3ySoqbIpvPz838xBJn1kAhyGgUEVg&oe=67AC0853",
+    "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
     "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"

@@ -41,7 +41,7 @@
       "timezone": "Europe/Copenhagen"
     },
     "location": {
-      "name": "Huset-KBH, Musikcaféen",
+      "name": "Huset",
       "address": "Rådhusstræde 13, 1466 København K",
       "city": "København K",
       "country": "Denmark",
@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": "Sjællandsgade 12a",
-      "city": "Copenhagen, Denmark",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
       "bounds_ne_lat": 55.6935,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/436570836196936/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9ZcRWTys_KAQ7kNvgG8pbvH&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=AdjvylqrEOP6mFpRt2uKHZR&oh=00_AYB0MG0S3LqjQRByMENIQDr-u-AChAemzxTTBQpF1tlmRA&oe=67A5514F",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c4JIiPm0szEQ7kNvgHshm_C&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A8pONjWDfApkvWB-3kY9nAv&oh=00_AYDPMCfMgpD9fzM9gTOoTBu9L9ofTq0AOUtVq2xF7wtWwA&oe=67AC210F",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -121,7 +121,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/958604582896971/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475583957_1700605897385461_1127036992309642058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=69EHB9GFPh8Q7kNvgHvBuKy&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A360YJThV3ryIO956F4D_Jz&oh=00_AYDa-1AgCk0g9s03mE40dmWLaoi_w2FcVg-BMyAPWxGKxg&oe=67A5410B",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475583957_1700605897385461_1127036992309642058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6u_nkz14eG0Q7kNvgEqKCB_&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ABOhjolL8teCEXODMBFWl7c&oh=00_AYCo4n807voGkWEA3hXAt6KAOYTouXl9cHUsNDsIPMMd2g&oe=67AC10CB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Villa Kultur",

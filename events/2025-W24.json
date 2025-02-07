@@ -12,7 +12,7 @@
       "name": "Kongens Nytorv , 1055, København K, Hovedstaden",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67993750000001,
       "longitude": 12.586187500000008,
       "bounds_ne_lat": 55.68000000000001,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/931688355756556/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/475538186_1249807556705486_6279060013861768067_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7vQu98cnp_EQ7kNvgF9UKeb&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=A3j7-5M1k-3621S4frwPXCs&oh=00_AYCG4zsY-o0jb-MU6ndCiCHsQiicpxRnlHoPxsddTJ9WcQ&oe=67A54956",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475538186_1249807556705486_6279060013861768067_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sqS2F_yp3n0Q7kNvgFMow9I&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AXGp4jZ8EMWkKzbh2SecOvI&oh=00_AYBJoUCAJyRe0q8NX8IdNVZ6vusQbUYAqr2Cnnj7qKAAEg&oe=67AC1916",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Photo Festival",
