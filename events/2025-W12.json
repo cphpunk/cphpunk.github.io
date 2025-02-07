@@ -446,5 +446,37 @@
     "platform": "Facebook",
     "page_name": "Amager Records",
     "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "1152983029876479",
+    "name": "Musical table read series",
+    "description": "A social series for musical lovers only. Come sing through the score of a musical, have a few drinks, and make some friends! Sign up by writing to cphmusicals@gmail.com to get more details.\n\nWe choose a musical in advance and send it to our mailing list. Those who wish to join sign up and will be assigned parts in advance so you can prepare. On the day of, we meet along with our wonderful piano accompanist and sing through the entire score, including reading the libretto (script) if applicable.\n\nRSVP - TICKET\nTo help ensure we cover our costs — and to try to avoid last-minute cancellations — we ask that you MobilePay 50 kr to our Box account: 5896PH\n\nWhen you arrive, you can get one free drink (wine, beer, or soda). If you can’t make it at the last minute, the 50 kr is not refundable. ",
+    "date": {
+      "start_timestamp": 1742232600,
+      "end_timestamp": 1742243400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/993180512523399/?event_time_id=1152983029876479",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475570904_610803234887550_4104565398834840575_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k8tjL_4pKj8Q7kNvgFzPFvL&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Al2UMz8tZ4F6yIscCGEDFea&oh=00_AYDDwAYPVXwU9KDT-XnBsUmLlkz5z3tSK4lk1IKldpgJbg&oe=67AC10EC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
   }
 ]

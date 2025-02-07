@@ -862,5 +862,37 @@
     "platform": "Facebook",
     "page_name": "Empire Bio",
     "page_url": "https://www.facebook.com/empirebio.dk/events"
+  },
+  {
+    "id": "877473660916542",
+    "name": "AAKJÆR - jeg bærer med smil min byrde",
+    "description": "Et cabaret-portræt af Jeppe Aakjær. Fortalt med hans egne sange og historier – og lidt til\n\nDigteren Aakjær\nJeppe Aakjær er en af vores største forfattere og digtere. I dag er han mest kendt for en række smukke og naturlyriske danske sange som Jeg bærer med smil min byrde, Se dig ud en sommerdag, Ole sad på en knold og sang, Sneflokke kommer vrimlende, Jeg er havren, Stille, hjerte, sol går ned, Spurven sidder stum bag kvist og Nu er dagen fuld af sang. En helt særlig popularitet har også den jyske gendigtning Skuld gammel venskab rejn forgo og så naturligvis hans måske allermest kendte sang: Jens Vejmand, der klart viser hans sociale indignation. Det er ikke uden grund, at Jeppe Aakjær er den, der har næstflest sange optaget i Højskolesangbogen.\n\nForestillingen Aakjær\nI forestillingen er ’Manden med Leen’ – en galgenhumoristisk charmetrold – dukket op i gården Jenle’s have for at høste Jeppe Aakjær. Inden leen kommer i brug, får Aakjær dog gennemtrumfet, at han må lade sit liv passere revu – og han synger og fortæller sin egen og dermed også tidens historie.\nCabaret-portrættet er sammensat af Jeppe Aakjærs fortællinger, selvbiografi og ikke mindst hans fantastiske sange.\nDet kunstneriske hold\nbag forestillingen er Allan Høier som sanger og fortæller og Allan Sjølin som guitarist i Bo Skødebjergs instruktion\n\nDenne opførelse er en del af K7 - se mere på k7k7.dk",
+    "date": {
+      "start_timestamp": 1741528800,
+      "end_timestamp": 1741535100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/838434241487151/?event_time_id=877473660916542",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/448252574_1014288100699775_1701168599183106351_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TdkK_oLnWOYQ7kNvgFzFD8T&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AZtm2EWQt2u7CtDoWOOtR1i&oh=00_AYA2uMsiJM0C8Kvu9yamXX5pVX2dI5UnQD-wn_s7e96FfQ&oe=67ABFA4D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
   }
 ]

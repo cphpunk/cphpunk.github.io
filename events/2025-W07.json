@@ -3998,5 +3998,37 @@
     "platform": "Facebook",
     "page_name": "Husets Biograf",
     "page_url": "https://www.facebook.com/HusetsBiograf/events"
+  },
+  {
+    "id": "874352508016859",
+    "name": "Wonderful Women - Mig & Mai",
+    "description": "Denne aften hylder Mig & Mai mange af de fantastiske kvinder i jazzen, som har inspireret os gennem tiden. \n\nTag med på en musikalsk tur gennem årtier, hvor vi spiller musik fra de stærkeste danske og udenlandske kvindelige komponister og sangere. Blandt andre Ella Fitzgerald, Nina Simone, Karen Jønsson, Joni Mitchell og mange flere.\n\nNogle af numrene har fået et nyt touch og fælles for dem alle er at de bliver fortolket og kælet for af Christina Mai (vokal) og Anne Truelsen (flygel, kor).\n\n\nKoncert: 10/2-25 kl. 19.00 \nDørene åbnes kl. 18.00\n\nEntré:\nKr. 125 (+ gebyr til Billetto)\n\nhttps://billetto.dk/e/wonderful-women-med-duoen-mig-mai-billetter-1123144?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2 \n",
+    "date": {
+      "start_timestamp": 1739210400,
+      "end_timestamp": 1739217600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/874352508016859/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/468511535_964043595753891_8391452582772958763_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Q6kuWCTCkXoQ7kNvgE_Kg7J&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A2R9AlNGl8SFkdHxBd60Erg&oh=00_AYDSvyyCtmpQ-jenUKqVznRBbXxhe3sgiU1Vmez7hT5aDQ&oe=67AC1FAC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
   }
 ]

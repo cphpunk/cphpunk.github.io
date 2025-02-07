@@ -124,7 +124,8 @@ export const ALL_COPENHAGEN_SOURCES = {
   "Glyptoteket": "https://www.facebook.com/glyptotek/events/",
   "Red Door": "https://www.facebook.com/reddoordk/events",
   "2730 Demoteket": "https://www.facebook.com/2730.Demoteket/events/",
-  "Science & Cocktails": "https://www.facebook.com/groups/161834943877755/events"
+  "Science & Cocktails": "https://www.facebook.com/groups/161834943877755/events",
+  "Metronomen": "https://www.facebook.com/metronomenfrb/events"
 };
 
 /*

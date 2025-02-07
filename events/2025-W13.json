@@ -414,5 +414,37 @@
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
     "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  },
+  {
+    "id": "754604350040777",
+    "name": "Emma Gads TAKT & TONE",
+    "description": "Begreberne ”Emma Gad” og ”Takt og Tone” er en del af vores kultur og noget vi alle, og måske især medierne, meget ofte refererer til. Men sjovt nok ved ret få af os, hvad der rent faktisk står i bogen – og de fleste ville blive overraskede hvis de læste den.\nTeatret OPtimis præsenterer derfor denne cabaret-forestilling, som skal lære os bogen og mennesket bag at kende – på en humoristisk, musikalsk og litterært-underholdende måde.\nSamtidig er danskerne kendt for at være noget nær verdens mest uhøflige folkefærd – og debatklimaet på de sociale medier sætter helt nye standarder i den henseende – måske kan Gad og forestillingen være med til at vi (igen) behandler hinanden lidt mere høfligt og hjertefuldt?\n\n\nForestillingen\nÅret er 1968. Vi befinder os i et af DRs TV-studier hvor underholdnings-programmet ”Kender De Deres Klassikere?” er ved at blive optaget. Ugens gæst er den kendte visesanger og entertainer Otto Schønberg, der til sin store forundring skal stifte bekendtskab med Emma Gads Takt & Tone.\nI starten er Schønberg uvidende og fordomsfuldt nedladende overfor både Gad og bogen, men efterhånden som han langsomt lærer dem at kende, forundres han over de tidløse kommentarer til vores opførsel, de mange, sjove betragtninger og det store menneskekendskab. Han – og med ham forhåbentlig publikum – ender således med at blive overrasket, nuanceret interesseret og varm om hjertet.\nI forestillingen er der sjove citater, oplæsninger fra bogen, alvorsord, afsnit om Emma Gad som person samt masser af kendte viser og sange, som på underholdende vis kommenterer indholdet.\nSangene og viserne er bl.a. ’Penge’, ’Bar’ det var mig’, ’Kys hinanden’, ’Jeg snakker med mig selv’ ’Månestrålen’, ’Konen, kællingen, madammen’ og ’Jeg sætter min hat som jeg vil’.\nDa publikum skal i fjernsynet, bedes de tage pænt tøj på.",
+    "date": {
+      "start_timestamp": 1743339600,
+      "end_timestamp": 1743345900,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/754604346707444/?event_time_id=754604350040777",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/456081513_1062934869168431_2448266419916020874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AUwjFpLiizIQ7kNvgGnswj1&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AtaAFUbzv4pJgWOZLgNecAn&oh=00_AYAXIS0pDJ5LRgswPPpAaesh4_Ujq0_XhR3x972Db8E4MA&oe=67AC2E37",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
   }
 ]
