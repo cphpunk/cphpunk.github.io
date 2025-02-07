@@ -88,9 +88,7 @@ export function shareSubstringOfMinimumLength(strA, strB, MIN) {
       shorter = lowerB;
       longer = lowerA;
   }
-
-  console.log(shorter, longer);
-
+  
   // Generate all possible target-length substrings from shorter string
   const substringSet = new Set();
   const maxStartShorter = shorter.length - targetLength;
@@ -104,6 +102,7 @@ export function shareSubstringOfMinimumLength(strA, strB, MIN) {
   for (let i = 0; i <= maxStartLonger; i++) {
       const sub = longer.substring(i, i + targetLength);
       if (substringSet.has(sub)) {
+          console.log(`Found duplicate strings:\nA: ${strA}\nB: ${strB}`);
           return true;
       }
   }

@@ -23,6 +23,7 @@ function updateDOM() {
   updateEventsByFilters();
   updateVenueToggles();
   updateFilterIndicator();
+  updateFiltersCount();
 }
 
 async function updateEventsByFilters() {
@@ -81,6 +82,31 @@ function updateFilterIndicator() {
                             enabledDistrictCount < ALL_COPENHAGEN_DISTRICTS.length ||
                             hasDisabledDistrict;
     infoButton.classList.toggle('has-filters', hasActiveFilters);
+  }
+}
+function updateFiltersCount() {
+  // Update Districts count
+  const totalDistricts = Object.keys(state.districtFilters).length;
+  const enabledDistricts = Object.values(state.districtFilters).filter(Boolean).length;
+  const districtHeader = document.getElementById('districtsHeader');
+  if (districtHeader) {
+    districtHeader.textContent = `DISTRICTS (${String(enabledDistricts).padStart(2, '0')}/${String(totalDistricts).padStart(2, '0')})`;
+  }
+
+  // Update Categories count
+  const totalCategories = ALL_EVENT_CATEGORIES.length;
+  const enabledCategories = Object.values(state.categoryFilters).filter(Boolean).length;
+  const categoryHeader = document.getElementById('categoriesHeader');
+  if (categoryHeader) {
+    categoryHeader.textContent = `CATEGORIES (${String(enabledCategories).padStart(2, '0')}/${String(totalCategories).padStart(2, '0')})`;
+  }
+
+  // Update Sources count
+  const totalSources = Object.keys(ALL_COPENHAGEN_SOURCES).length;
+  const enabledSources = Object.values(state.sourceFilters).filter(Boolean).length;
+  const sourceHeader = document.getElementById('sourcesHeader');
+  if (sourceHeader) {
+    sourceHeader.textContent = `SOURCES (${String(enabledSources).padStart(2, '0')}/${String(totalSources).padStart(2, '0')})`;
   }
 }
 

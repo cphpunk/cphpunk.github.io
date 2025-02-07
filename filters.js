@@ -35,7 +35,7 @@ function saveFiltersToLocalStorage() {
   }
 }
 
-export async function loadVenuePreferences() {
+export async function loadFilters() {
   const saved = localStorage.getItem(STORAGE_KEYS.FILTERS);
   
   if (!saved) {
@@ -49,6 +49,15 @@ export async function loadVenuePreferences() {
 
   if (filters[STORAGE_KEYS.PAGE_FILTERS]) {
     state.sourceFilters = filters[STORAGE_KEYS.PAGE_FILTERS];
+
+    // Add any new sources from constants that aren't in the loaded filters
+    Object.keys(ALL_COPENHAGEN_SOURCES).forEach(source => {
+      if (!(source in state.sourceFilters)) {
+        state.sourceFilters[source] = true;
+      }
+    });
+
+    saveFiltersToLocalStorage();
   } else {
     enableAllSources();
   }
@@ -61,6 +70,15 @@ export async function loadVenuePreferences() {
 
   if (filters[STORAGE_KEYS.DISTRICT_FILTERS]) {
     state.districtFilters = filters[STORAGE_KEYS.DISTRICT_FILTERS];
+
+    // Add any new districts from constants that aren't in the loaded filters
+    ALL_COPENHAGEN_DISTRICTS.forEach(district => {
+      if (!(district in state.districtFilters)) {
+        state.districtFilters[district] = true;
+      }
+    });
+
+    saveFiltersToLocalStorage();
   } else {
     enableAllDistricts();
   }

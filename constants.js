@@ -170,12 +170,12 @@ export const EVENT_NAME_SIMILARITY_THRESHOLD = 0.45;
 /*
 * Special venue names that need specific handling
 */
-export const EXCLUDED_VENUES = ['Dining Week'];
+export const EXCLUDED_VENUES = ['Dining Week', 'VEGA'];
 
 /*
 * The amount of exact characters in a sequence two event names have to share to be considered duplicates.
 */
-export const DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH = 10;
+export const DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH = 13;
 
 /*
 * Events used throughout the site

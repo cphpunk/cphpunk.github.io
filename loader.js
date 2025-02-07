@@ -108,7 +108,7 @@ function processEvents(events, timeWindowEnd) {
 function isDuplicate(newEvent, existingEvents) {
   return Array.from(existingEvents.values()).some(existing => {
     if (EXCLUDED_VENUES.includes(existing.venue)) return true;
-
+    
     // Quick checks first - if time or venue don't match, not a duplicate
     if (existing.start.getTime() !== newEvent.start.getTime()) return false;
 
@@ -132,6 +132,23 @@ function isDuplicate(newEvent, existingEvents) {
       return true;
     }*/
 
+    // Log event details for debugging
+    console.log('Comparing events:', {
+      newEvent: {
+        name: newEvent.name,
+        normalizedName: newEventNormalizedName,
+        start: newEvent.start,
+        venue: newEvent.venue,
+        url: newEvent.url
+      },
+      existingEvent: {
+        name: existing.name, 
+        normalizedName: existingEventNormalizedName,
+        start: existing.start,
+        venue: existing.venue,
+        url: existing.url
+      }
+    });
     // Finally check if they share a substring
     if (shareSubstringOfMinimumLength(newEventNormalizedName, existingEventNormalizedName, DUPLICATE_STRING_MIN_SUBSTRING_CHAR_LENGTH)) {
       return true;

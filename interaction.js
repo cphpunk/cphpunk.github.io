@@ -147,19 +147,3 @@ function registerFiltersInteraction() {
 function onVenueToggleClick(venue, enabled) {
   setSourceEnabled(venue, enabled);
 }
-
-/*
-* Enables all venues in the filter.
-* Updates both the state and all checkbox UI elements.
-*/
-function onEnableAllClick() {
-  enableAllSources();
-}
-
-/*
-* Disables all venues in the filter.
-* Updates both the state and all checkbox UI elements.
-*/
-function onDisableAllClick() {
-  disableAllSources();
-}

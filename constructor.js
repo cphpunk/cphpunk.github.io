@@ -29,7 +29,7 @@ async function generateMap() {
     container.innerHTML = `<br>
       <div class="filter-section">
         <div class="filter-header">
-          <h3>DISTRICTS:</h3>
+          <h3 id="districtsHeader">DISTRICTS: 00/00</h3>
           <div class="filter-controls">
             <button class="control-btn enable">All</button>
             <button class="control-btn disable">None</button>
@@ -65,7 +65,6 @@ function toggleDistrict(path) {
   const labelRect = document.querySelector(`rect[data-district="${district}"]`);
   
   updateDistrictStyle(path, !isSelected, labelRect);
-
   setDistrictEnabled(district, !isSelected);
 }
 
@@ -104,7 +103,7 @@ function populateVenueFilters() {
     container.innerHTML = `<br>
       <div class="filter-section">
         <div class="filter-header">
-          <h3>CATEGORIES:</h3>
+          <h3 id="categoriesHeader">CATEGORIES:</h3>
           <div class="filter-controls">
             <button class="control-btn enable">All</button>
             <button class="control-btn disable">None</button>
@@ -115,7 +114,7 @@ function populateVenueFilters() {
 
       <div class="filter-section">
         <div class="filter-header">
-          <h3>SOURCES:</h3>
+          <h3 id="sourcesHeader">SOURCES:</h3>
           <div class="filter-controls">
             <button class="control-btn enable">All</button>
             <button class="control-btn disable">None</button>
