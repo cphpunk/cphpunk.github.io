@@ -87,7 +87,10 @@ function processEvents(events, timeWindowEnd) {
     }
 
     const dateEvents = seenEvents.get(eventDate);
-    if (isDuplicate(event, dateEvents)) {
+    if (isDuplicate(event, dateEvents, event.venue === "Metronomen")) {
+      if (event.venue === "Metronomen") {
+        console.log('Failed Duplicate check:', event.name);
+      }
       return false;
     }
 
@@ -105,17 +108,25 @@ function processEvents(events, timeWindowEnd) {
 * so we try to overcome this by checking string similarity if the dates and venues are the same.
 * If all fails, we run an algorith to check if the strings share a substring of a minimum length.
 */
-function isDuplicate(newEvent, existingEvents) {
+function isDuplicate(newEvent, existingEvents, shouldLog = False) {
   return Array.from(existingEvents.values()).some(existing => {
-    if (EXCLUDED_VENUES.includes(existing.venue)) return true;
     
     // Quick checks first - if time or venue don't match, not a duplicate
-    if (existing.start.getTime() !== newEvent.start.getTime()) return false;
+    if (existing.start.getTime() !== newEvent.start.getTime()) {
+      return false;
+    }
 
     // Special case: HUSET and Husets Biograf are considered the same venue
     const specialCase = (existing.venue === "HUSET" && newEvent.venue === "Husets Biograf") || (existing.venue === "Husets Biograf" && newEvent.venue === "HUSET");
 
-    if (existing.venue !== newEvent.venue && !specialCase) return false;
+    if (existing.venue !== newEvent.venue && !specialCase) {
+      return false;
+    }
+
+    if (EXCLUDED_VENUES.includes(existing.venue)) {
+      if (shouldLog) console.log("Excluded Venue Checked");
+      return true;
+    }
 
     const newEventNormalizedName = normalizeString(newEvent.name);
     const existingEventNormalizedName = normalizeString(existing.name);
@@ -123,6 +134,7 @@ function isDuplicate(newEvent, existingEvents) {
     // Check if one name contains the other
     if (newEventNormalizedName.includes(existingEventNormalizedName) || 
       existingEventNormalizedName.includes(newEventNormalizedName)) {
+      if (shouldLog) console.log('Name inclusion match found');
       return true;
     }
 
