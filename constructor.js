@@ -182,7 +182,8 @@ function populateEvents() {
                 class="event-image" 
                 loading="lazy" 
                 alt="${event.name}"
-                onerror="this.onerror=null; this.src='${DEFAULTS.PLACEHOLDER_IMAGE}'"
+                data-uses-placeholder="false"
+                onerror="this.onerror=null; this.src='${DEFAULTS.PLACEHOLDER_IMAGE}'; this.dataset.usesPlaceholder='true'"
               >
               <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
               <div class="event-details">

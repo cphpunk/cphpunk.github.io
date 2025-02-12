@@ -703,7 +703,6 @@ input:checked + .slider:before {
 .adblocker-notice {
     text-align: center;
     padding: 10px;
-    margin: 10px 0;
     background-color: #fff3cd;
     border: 1px solid #ffeeba;
     border-radius: 4px;
