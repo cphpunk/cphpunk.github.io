@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "KoncertKirken",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Blågårds Plads 6A",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
       "latitude": 55.68681249999999,
       "longitude": 12.5576875,
       "bounds_ne_lat": 55.686874999999986,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1346848759054342/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/310072606_562934448966589_5921246115610112236_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KHeGchlylksQ7kNvgGF1xCL&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AliEb_ONCxRAOUKsSn9OYV9&oh=00_AYAVIFuKaHtmP4prYhTW5sd7hMfzxo-u-fGD9XnRNA_sAQ&oe=67ABF995",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/310072606_562934448966589_5921246115610112236_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_Ia8TDAP2ssQ7kNvgG7TcHp&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AQCMTdkRg1TSvgJiih_ybYu&oh=00_AYB7TrMepsrOTjPWQOIsBVHEwWu9oTkqoK6R0eIm8-xLpA&oe=67B2C955",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Polychrome",

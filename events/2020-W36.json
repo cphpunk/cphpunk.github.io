@@ -25,7 +25,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/355122818827923/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/117645408_10158877060287859_2555281806724207767_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oaEDlY9TLH4Q7kNvgFztViA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AWwRXlSmfXBFsB8EwmcL40I&oh=00_AYC1dLqkMzPGv2GUnBAP_zrtTHaC_qH_glnHatB9LlIuYg&oe=67CDC579",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/117645408_10158877060287859_2555281806724207767_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qT6y5D2YZqoQ7kNvgGAeRgl&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AvFjWS17ZDJ5M1jCHCtfqfw&oh=00_AYB7wIIL1mRkqvloJFF5N3B7yfVMcWjBPnqU4dolZQbbYA&oe=67D49539",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "3daysofdesign",
@@ -44,7 +44,7 @@
       "name": "Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/508178983167191/?event_time_id=528581561126933",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/83552426_1495383497305220_873842118919979008_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ezRO0kMAHooQ7kNvgFHeC7g&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AbV4540sFTHSxnMlgLmQoRQ&oh=00_AYBtcGEUUPSWFkSVpksaDcSuu640w_9wbDHNGM_M2kT02g&oe=67CDA439",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/83552426_1495383497305220_873842118919979008_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ISiyX-JrLcUQ7kNvgHI0d2S&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A7RXHx5-k8qQiA9sLf716Gq&oh=00_AYCx_pYqbFKZCUbUzcMUQh95etOo272vrqGYYql0cJ7L5A&oe=67D473F9",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "3daysofdesign",
@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Designmuseum Danmark",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Bredgade 68",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
       "latitude": 55.686562499999994,
       "longitude": 12.592812499999994,
       "bounds_ne_lat": 55.68662499999999,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/294806785092220/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/117218060_3095650203885713_7382167514145918187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bjUCi5CzN-AQ7kNvgHUenD6&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Az21yrU8n5FUNbhOw0EHnaS&oh=00_AYBb9hcIweYwTrxQcyoqddiTng86GzHeWFwzdRUCOIQ9Eg&oe=67CD969F",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/117218060_3095650203885713_7382167514145918187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=d8SqHez0U7sQ7kNvgFsFHQL&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AOFqBswzQDOcu5yOP2Ob2kj&oh=00_AYD6jN_vBrTq4erMpdojtzRw05Va4L80g6qZun-dQCKwrA&oe=67D4665F",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "3daysofdesign",

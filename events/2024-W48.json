@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Blågårds Apotek",
-      "address": "Blågårds Plads 2",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6864375,
       "longitude": 12.557937499999994,
       "bounds_ne_lat": 55.686499999999995,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1302113784536634/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/467947696_540881568733160_3620332442352183794_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X-eqHJoHW0kQ7kNvgEGIT1U&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AJc1U1ru49_B1XMHUUtLMfq&oh=00_AYDM5lqWbrFgCP8ZiZ6ysGyINF8ox5vkjEnrBHt-kcX4fQ&oe=67ABF543",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/467947696_540881568733160_3620332442352183794_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AtuTSVUKiPsQ7kNvgEuqxYY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AI8ejM2K2qkT-HbHG5fiOgR&oh=00_AYAojz-AVjOU96ePxmtyj3lE2DQJrP38jwqz5PkeDTh9zQ&oe=67B2FD43",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/532496823001743/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/467504526_1102023355257126_5275598327581963634_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JSTdxJkykv0Q7kNvgHfVSHy&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AHcxVnM2rovdTpO-cLKjqTb&oh=00_AYBqx37WYRPg7IbD3rimrxWhLWbPeEr65EuIcVAKTvHydQ&oe=67AC1CA0",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/467504526_1102023355257126_5275598327581963634_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=S20evuIMXhIQ7kNvgF9YbgW&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AksY84NSp-JDu0gqGvRS-jT&oh=00_AYAwgTYGF1HVgMupXuPle2KXQbA88cqEXHPl6LKs2kQ6Hg&oe=67B2EC60",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",
@@ -102,13 +102,13 @@
     "date": {
       "start_timestamp": 1733077800,
       "end_timestamp": 1733085000,
-      "timezone": "UTC+01"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Studiestræde 24, Copenhagen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.678437500000015,
       "longitude": 12.568687500000024,
       "bounds_ne_lat": 55.678500000000014,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1379462659693638/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/472924305_122147330894359067_4673486710149780488_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DJYENi934CMQ7kNvgGTpHPa&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A-PUJ20vygTgbkmj43npvOM&oh=00_AYAMIRpMEmHCpzuJeCfXA_I_QJ93pCO-bOVgxtsgT4t8bQ&oe=67AC1F50",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/472924305_122147330894359067_4673486710149780488_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=y0IzTqlj_gQQ7kNvgFA7pax&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A5_vy_ap987JxzPCfdzdPB0&oh=00_AYD-8QTVVg5tr5VTs4oZ1XgypBzLuCwHWln2VRWHRhzmWA&oe=67B2EF10",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",

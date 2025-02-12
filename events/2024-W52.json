@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1328168025009284/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/470640166_1099130091909032_8627741279292327178_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OcfES_8DKjYQ7kNvgGD4YLg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AyYj8HzQM1C4DFpkSwC9vq4&oh=00_AYBbYoFgYgql2NFm7x46U56oWeYfhzA1nKEmCoONH_DaTQ&oe=67ABF3FF",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/470640166_1099130091909032_8627741279292327178_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0WX87hk6bOUQ7kNvgEF0D30&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AqODH2kmCOyPIFC7CGAe3Xc&oh=00_AYDhN--Ly7zU4bBqO6gkbu0uH9fBH9eIMzOIoA5f0qsIQw&oe=67B2FBFF",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",
@@ -76,7 +76,7 @@
       "name": "Metronomen",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.686062500000006,
       "longitude": 12.533437500000005,
       "bounds_ne_lat": 55.686125000000004,
@@ -86,10 +86,10 @@
       "plus_code_global": "9F7JMGPM+C9",
       "plus_code_local": "MGPM+C9",
       "plus_code_locality": "Frederiksberg, Denmark",
-      "copenhagen_district": "Unknown / Not Copenhagen"
+      "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/585185440769187/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471194115_563152329839417_4814622389061731584_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HrWjHrbSfEsQ7kNvgF098pG&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AgajcQvGmnOPXxrDMnkJGE8&oh=00_AYDbtRPrS8QRlHnC9OQnEdNCQxSFxlWVdBt2KLDqN2Kkuw&oe=67AC299B",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/471194115_563152329839417_4814622389061731584_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zhSuFbB9r2wQ7kNvgH_69k3&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=At7J_EDhKUVKHoQ1bKdMbU3&oh=00_AYBPdloCmk6vVj_UJuIEbPw7EGYDFtvkv039pLzNvX706Q&oe=67B2F95B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",

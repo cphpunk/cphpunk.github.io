@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/470017107042987/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QJJSXkaR_tAQ7kNvgHORZm2&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ACJGLGtDH_V6KKGFd5h1RM8&oh=00_AYCUeKpBGACIB4O_IU6yeOjagaiPXrMZAxiQtRy2TCTn2g&oe=67CD9E88",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5qbKL-XqsIwQ7kNvgEVP0kO&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A_g2uu8Pz9Rmjqsh6FFiRAE&oh=00_AYA3dY-oIrgItCIUbtbAa58AkAMYKwNmok_AcAMjWd_qyg&oe=67D46E48",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -38,38 +38,6 @@
     "date": {
       "start_timestamp": 1634839200,
       "end_timestamp": 1634845500,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Det Ny Teater",
-      "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
-      "country": "DK",
-      "latitude": 55.673187500000026,
-      "longitude": 12.5553125,
-      "bounds_ne_lat": 55.673250000000024,
-      "bounds_ne_lng": 12.555374999999998,
-      "bounds_sw_lat": 55.67312500000003,
-      "bounds_sw_lng": 12.555250000000001,
-      "plus_code_global": "9F7JMHF4+74",
-      "plus_code_local": "MHF4+74",
-      "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Vesterbro-Kongens Enghave"
-    },
-    "url": "https://www.facebook.com/events/4821630954526341/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dFhWPZ0s28oQ7kNvgEhIS43&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AV4T1QCiFVgYQe9ILwAuXJu&oh=00_AYCbDRB0owwGB4MuQm6izqNvK3F89zghu9k8lAQGtCVr6Q&oe=67AC0AA9",
-    "tag": "COMEDY",
-    "platform": "Facebook",
-    "page_name": "Copenhagen International Improv Festival - CIIF",
-    "page_url": "https://www.facebook.com/cphimprofestival/events"
-  },
-  {
-    "id": "388199572857663",
-    "name": "CIIF'21 Premium Show Monday 18/10 at Det Ny Teater",
-    "description": "Come see the funniest English comedy shows happening in Copenhagen this autumn at Copenhagen International Improv Festival. Det Ny Teater is a perfect venue for comedy and you are guaranteed to have a good time when our world class comedy improvisers takes the stage.\n\nGet your ticket here: https://www.improvcomedy.eu/event/ciif21-premium-show-monday-18-october-2/\n\nDuring this CIIF21 Premium show there will be performances by:\n\nICC Short Form (DK)\n\nICC Short form will bring you fast-paced improv comedy that you will absolutely love. These guys know what they are doing and are bringing the heat, hotter than hell!\n\nICC – The Fallen Sundays (DK)\n\nLights! Action! Music! Our resident music improv troupe THE FALLEN SUNDAYS will dazzle you with a fully improvised musical improv comedy show, with lyrics and harmonies brilliantly created in the moment. Past shows include: “Shoes, The Musical!”and “Cookies, The Musical!”\n\nCIIF All-Stars (US & CA) \n\nThe CIIF All-start show cast is comprised of some of the most brilliant professional North American improvisers ever to step foot on European soil! The cast has 100 years+ of improv experience among them. Their Bios are some of the most impressive back home. If you want to see absolute top-shelf improv this is the show you can’t miss!",
-    "date": {
-      "start_timestamp": 1634580000,
-      "end_timestamp": 1634586300,
       "timezone": "UTC+02"
     },
     "location": {
@@ -88,8 +56,40 @@
       "plus_code_locality": "Copenhagen, Denmark",
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
+    "url": "https://www.facebook.com/events/4821630954526341/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4Fj6hjZgUnoQ7kNvgGUPuIl&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Artkg7NSwzjC6OmzH1Q2Eqk&oh=00_AYCK1NUC6kE99SEdVq5D0gNG7gxD0VVcEJxTTEXEgY9_9g&oe=67B2DA69",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Copenhagen International Improv Festival - CIIF",
+    "page_url": "https://www.facebook.com/cphimprofestival/events"
+  },
+  {
+    "id": "388199572857663",
+    "name": "CIIF'21 Premium Show Monday 18/10 at Det Ny Teater",
+    "description": "Come see the funniest English comedy shows happening in Copenhagen this autumn at Copenhagen International Improv Festival. Det Ny Teater is a perfect venue for comedy and you are guaranteed to have a good time when our world class comedy improvisers takes the stage.\n\nGet your ticket here: https://www.improvcomedy.eu/event/ciif21-premium-show-monday-18-october-2/\n\nDuring this CIIF21 Premium show there will be performances by:\n\nICC Short Form (DK)\n\nICC Short form will bring you fast-paced improv comedy that you will absolutely love. These guys know what they are doing and are bringing the heat, hotter than hell!\n\nICC – The Fallen Sundays (DK)\n\nLights! Action! Music! Our resident music improv troupe THE FALLEN SUNDAYS will dazzle you with a fully improvised musical improv comedy show, with lyrics and harmonies brilliantly created in the moment. Past shows include: “Shoes, The Musical!”and “Cookies, The Musical!”\n\nCIIF All-Stars (US & CA) \n\nThe CIIF All-start show cast is comprised of some of the most brilliant professional North American improvisers ever to step foot on European soil! The cast has 100 years+ of improv experience among them. Their Bios are some of the most impressive back home. If you want to see absolute top-shelf improv this is the show you can’t miss!",
+    "date": {
+      "start_timestamp": 1634580000,
+      "end_timestamp": 1634586300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Det Ny Teater",
+      "address": "Gammel Kongevej 29",
+      "city": "Copenhagen, Denmark",
+      "country": "DK",
+      "latitude": 55.673187500000026,
+      "longitude": 12.5553125,
+      "bounds_ne_lat": 55.673250000000024,
+      "bounds_ne_lng": 12.555374999999998,
+      "bounds_sw_lat": 55.67312500000003,
+      "bounds_sw_lng": 12.555250000000001,
+      "plus_code_global": "9F7JMHF4+74",
+      "plus_code_local": "MHF4+74",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
     "url": "https://www.facebook.com/events/388199572857663/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ag3Q_M5rR84Q7kNvgEDoxL3&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A_t9ohqazFGwZc_nll5rGVV&oh=00_AYBuUwPCmApnk0i_i8hFbn3DBJXfmeiwFUeY4Xp1WyqIxw&oe=67ABFF97",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YVjKbUUbSUEQ7kNvgH_iHwm&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AgNbYPcn6Evd8u5betb9lEG&oh=00_AYBxt3rqHN5Y38VCAJkQhrPZkmu4dIls404T0Sxn1kH34A&oe=67B2CF57",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -106,9 +106,9 @@
     },
     "location": {
       "name": "Det Ny Teater",
-      "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.673187500000026,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.673250000000024,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/407678980803899/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UsNaYkKpqyIQ7kNvgGPQAe6&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AQZbenMbQQSSmtS0U7SVZDy&oh=00_AYA5QNv7WRzuGCus8ymijsdnd4vZChBe5IWuJr4iK495yw&oe=67AC2AFF",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-LH-VtObjGsQ7kNvgEp_f_a&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AUdEWNA4W53dP5JgieFmggJ&oh=00_AYB-4N4RH7ngVigvRur9-QGBb3PQrNYFiQqMltH03GCQGg&oe=67B2FABF",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -138,9 +138,9 @@
     },
     "location": {
       "name": "Det Ny Teater",
-      "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.673187500000026,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.673250000000024,
@@ -153,7 +153,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/842139303112377/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6K0lr9n3ztoQ7kNvgFHP7_L&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ANCwtOp1sdmmSqKVYO7tF6b&oh=00_AYBydi4poI1sG3ikUFj2jCZlTFWYS6nXamPiE0cMtyigMA&oe=67AC1915",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9vgRW9ydL-UQ7kNvgG280fg&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AtYS-wLG4hGPjO-puTuRt8f&oh=00_AYDu809zwu7pmNVMkrzMVZra_Cz8D6s3fI1d3hUH-RqhQA&oe=67B2E8D5",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",

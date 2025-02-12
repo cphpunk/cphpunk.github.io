@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-salsa-jam-med-tiempo-cuba",
+    "name": "Salsa Jam med Tiempo Cuba",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Salsa Jam og Kulturhuset Islands Brygge inviterer til en aften i salsadansens tegn!\n </p>\n <p>\n  Vi begynder med salsa-opvarmning for alle, og i pausen er der show med professionelle dansere. Og så skal vi selvfølgelig danse hele aften til passioneret og uimodståelig livemusik fra Tiempo Cuba.\n </p>\n <p>\n  Bandet Tiempo Cuba, et af de mest dynamiske og energiske salsabands i regionen, vil tage dig med på en rejse gennem Cubas musikalske hjerte og sjæl. Bandet blev grundlagt i 2017 af cubanske musikere bosat i Norden. De har et bredt repertoire, der spænder fra traditionel cubansk musik til de nyeste trends inden for moderne cubansk musik.\n </p>\n <h3>\n  DATO &amp; TID\n </h3>\n <p>\n  Lør. 28. juni kl. 20.00-01.00\n </p>\n <h3>\n  BILLET\n </h3>\n <p>\n  Billet: 130 kr. + gebyr / Køb i døren: 150 kr.\n  <br/>\n  Studerende: 80 kr. + gebyr / Køb i døren: 100 kr.\n </p>\n <h3>\n  PROGRAM\n </h3>\n <p>\n  kl. 20.00 dørene åbner\n  <br/>\n  kl. 20.15 salsa-opvarmning (20 min.)\n  <br/>\n  kl. 21.15 Tiempo Cuba (1. sæt)\n  <br/>\n  kl. 22.00 salsatek + danseshow\n  <br/>\n  kl. 22.45 Tiempo Cuba (2. sæt)\n  <br/>\n  kl. 23.45 salsatek\n  <br/>\n  kl. 00.30 sidste omgang i baren\n  <br/>\n  kl. 01.00 tak for i aften\n </p>\n <h3>\n  Lineup:\n </h3>\n <p>\n  Rubens Millet – Slagtøj\n </p>\n <p>\n  Oldrich Gonzalez – Klaver\n </p>\n <p>\n  Alfonso Nuñez – Bas\n </p>\n <p>\n  Benii – Vokalist\n </p>\n <p>\n  Jakob Johansen – Trombone\n </p>\n <p>\n  DJ's: Sergio Bedoya og Jacob Speake spiller old-school salsa, timba, cubansk son samt lidt bachata og merengue.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1751133600,
+      "end_timestamp": 1751151600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/salsa-jam-med-tiempo-cuba",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-02/Design%20uden%20navn%20%2890%29.png?itok=IaTpyrM9",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/436570836196936/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c4JIiPm0szEQ7kNvgHshm_C&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A8pONjWDfApkvWB-3kY9nAv&oh=00_AYDPMCfMgpD9fzM9gTOoTBu9L9ofTq0AOUtVq2xF7wtWwA&oe=67AC210F",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lP7XYdjIxuYQ7kNvgE1CgiH&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AQNRBpJ_yIcAT2lks5q6y8t&oh=00_AYBWMtcYkc3_J51wiNlhIednRH6wTYu6aTgQN15GDNddEA&oe=67B2F0CF",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -138,9 +138,9 @@
     },
     "location": {
       "name": "K.B. Hallen",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Peter Bangs Vej 147",
+      "city": "Frederiksberg, Denmark",
+      "country": "DK",
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -153,10 +153,42 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/486452864351576/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/459325069_909486277868432_7853693354615952033_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nVdboZXEEuEQ7kNvgFBxd4R&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=AP2yPUrUPWD-dBPZOwTAlcB&oh=00_AYAM4kO4WTG8pInyKckuLYTLm2Lg9q5YwQRESrzSNnLg_A&oe=67A5518F",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/459325069_909486277868432_7853693354615952033_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Nikx65M4QtgQ7kNvgEd-LQ9&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=ASeYsUqhTyGRLYDYf709i1c&oh=00_AYBfnsWzmVlVegas2qXJnExW0uAaqtp2ODTGwoXDsrdeBQ&oe=67B2F10F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "1618407138795640",
+    "name": "Steelbenders - Opvarmning v. DJ Roan",
+    "description": "Oplev en intimkoncert med country-kvartetten Steelbenders. Ol’School country & folk music med pedalsteel.   \n\nSteelbenders spiller old school country musik fra den gyldne æra fra 50-60’ernes tidsperiode og op igennem tiden. \nDe mixer classic country med american folk music. \n\nKvintetten har base i København, og består af:\n\nAndré Preuthun : rhythm guitar og vokal. \nDavid klinke Jørgensen : Pedal steel \nPaolo Molinari : Kontrabas \nEbbe Lærke Hansen : Trommer \nYury Krivoshein : lead guitar \n\nVi varmer op med DJ Roan, når dørene åbner kl. 19. Han spiller både new country og helt oldschool country både mainstream og over I de mere obskure ting.\nGenremæssigt bliver det en blanding af Outlaw, bluegrass,  cosmic country,  Honky Tonk og meget meget andet.\nDet bliver støvet! 💥\n\nEntré 100 kr.",
+    "date": {
+      "start_timestamp": 1744306200,
+      "end_timestamp": 1744313400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1618407138795640/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476932014_1118096333660281_6655340607873130829_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xWxBOTV-L0UQ7kNvgGT4Yqa&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=ARrfxbPH8RNk_qdgoSWTOqd&oh=00_AYDzC0JzGplwDvhAFqBVIr0dX6lCA-nd6kzuszhwa0BK0Q&oe=67B2F7B5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
   }
 ]
