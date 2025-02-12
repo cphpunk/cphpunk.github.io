@@ -693,3 +693,23 @@ input:checked + .slider:before {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+
+
+
+/* ======================= */
+/*    Ad Blocker Notice    */
+/* ======================= */
+
+.adblocker-notice {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;
+    border-radius: 4px;
+    color: #856404;
+  }
+  
+  .adblocker-notice p {
+    margin: 0;
+  }
