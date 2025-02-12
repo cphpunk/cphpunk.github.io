@@ -177,7 +177,13 @@ function populateEvents() {
             <div class="${DOM_CLASSES.EVENTBOX}" data-id="${event.id}" 
                 onclick="window.open('${event.url}', '_blank')" 
                 style="cursor: pointer; display: ${display}">
-              <img src="${event.imageUrl || DEFAULTS.PLACEHOLDER_IMAGE}" class="event-image" loading="lazy" alt="${event.name}">
+             <img 
+                src="${event.imageUrl || DEFAULTS.PLACEHOLDER_IMAGE}" 
+                class="event-image" 
+                loading="lazy" 
+                alt="${event.name}"
+                onerror="this.onerror=null; this.src='${DEFAULTS.PLACEHOLDER_IMAGE}'"
+              >
               <div class="event-tag" data-tag="${event.tag}">${event.tag}</div>
               <div class="event-details">
                 <div class="event-title">${event.name}</div>
