@@ -1,0 +1,34 @@
+[
+  {
+    "id": "621849197200374",
+    "name": "Boesen City Group",
+    "description": "Kom med på en rejse til Boesen City. Her blandes lyriske nordiske elementer med fusionsmusikken inspireret af bl.a. Mezzoforte, Yellowjackets, Steps Ahead, Pat Metheny Group og Lars Jansson. Jazzimprovisation, modulationer og gode melodier fremført af fem fremadstormende talenter. \n\nEmil Boesen - alt og tenorsaxofon\nBrekkunum - bas\nCarl Zinssou - piano og keys\nSimon Hoffmann - guitar",
+    "date": {
+      "start_timestamp": 1746639000,
+      "end_timestamp": 1746646200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/621849197200374/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/475323352_1109936831142898_5037531184656915679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=y1qttPSVsCgQ7kNvgEagCUi&_nc_oc=Adj6-f3oziLEl7IomLccrCxM4Ofeq8KJmZZqpCiVuDM750ZKFhotX54QWbHTRUe7pBE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AV8Au8VY4lJT6fetnuZzFXA&oh=00_AYDKwMgar_itBjHtG6076ZJ50ZHTirYFZDz8SxstLL45Lw&oe=67B59DAD",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
+  }
+]

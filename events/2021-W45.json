@@ -12,7 +12,7 @@
       "name": "Gentofte Kino",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.74693749999999,
       "longitude": 12.541187499999992,
       "bounds_ne_lat": 55.746999999999986,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/1023928785052057/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/472984443_2788941771286316_206465494755686012_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8ch8YFvx3FcQ7kNvgHZYBSq&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AcEO7WDUqBOhbj68VY2RDuA&oh=00_AYDZR64thGpp9_ebWXWhBs7S9sttC3rcUMx1mo3LQwp3Gg&oe=67B2FEB8",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/472984443_2788941771286316_206465494755686012_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AGOLBwkBmPQQ7kNvgH8B6ZA&_nc_oc=AdiN5BjfxyTO6cyBBy2tzEbK4cWl8cC9lSgLFiMJImKJuT2d2Xwet9wcCV1VsfUi_58&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AXNBbJTlqGfRrB4vGzyIypl&oh=00_AYBhFE4-0Jov-NfXb6Q_1ir7h5mCFlsfLsxXzrzLWjToqw&oe=67B56978",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "VOID - International Animation Film Festival",

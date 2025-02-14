@@ -12,7 +12,7 @@
       "name": "Sigurdsgade 39, 2200",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.703812499999984,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.70387499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/913711340087487/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/464200600_453354361097802_4427962430508804415_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=z_-eHAtb_dUQ7kNvgExBAS5&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Ap1LTTO5zTTaP-eFsN8q3dM&oh=00_AYBTwfTOH2exEjUl75rpm8owAwJcmzdO_kFxHETaF9pN-A&oe=67B2F382",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/464200600_453354361097802_4427962430508804415_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=13ica2LQGKsQ7kNvgHd3rPo&_nc_oc=AdhTFGkL9QQvi-17zOD89vYMpvfarTXl_mmMxP3IiUUIHdZZdMXstVprpwHCjfYD9PU&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Afbh2AuUaiv7vn3slnpxE-w&oh=00_AYDaJGNCifx1L3ZFCayc4clyRraDzl4IkoLAV3UN00bE_w&oe=67B59682",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1065747751801391/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/463018883_1010911161051130_7206607421799083274_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=98-JQhLhqhcQ7kNvgELeE1R&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A0NAKVmRtrTESgIGEuOo1V1&oh=00_AYBo1Qhhh9GQtCfQieNe_n-kIL_EaxZVzVTHDOuPh_k8Sg&oe=67B2F3C6",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/463018883_1010911161051130_7206607421799083274_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M5NALp93vU8Q7kNvgGQ-2U8&_nc_oc=AdhXUw2vfX0B-s88hx7P65b4NH2fyzFkPZ_rRvg2dSK02f9HtMSlwBBVqzhGIjpG9Qw&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Ap1Q4LjhEI_J8u0dRpY-6Kj&oh=00_AYDrMWYFnX2kOFXt-ewu7pYIXXe_10LHw5wXWIMra47RIg&oe=67B596C6",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Klub Werkstatt",

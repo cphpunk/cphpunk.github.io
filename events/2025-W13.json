@@ -44,7 +44,7 @@
       "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.709812499999984,
       "longitude": 12.526937500000017,
       "bounds_ne_lat": 55.70987499999998,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/1103765154659536/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Es_oismkk04Q7kNvgH-IJQ1&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AI0Pc7DRtCiPUIfFprQYiTH&oh=00_AYAuSPPSL3-t-soBbAn_czxutHeZw0LmOKmCQi7ywLamlg&oe=67B2FA18",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/470219338_983235350509345_7349779898116166762_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5iCtoK4fpWcQ7kNvgERiA1w&_nc_oc=AdglC0a6PXHemdXDataNoi-r4VKWdAG-2FFeCSOR5UkqDdceVgAiBEZgaEFXmi52PGM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AxDILu4hDwfOb7AJrUBDQO-&oh=00_AYCxGHvs-NsozwfQluuTtbwokYxtlR2nXTAp7IEPCsYBRg&oe=67B59D18",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -121,7 +121,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1128004235639421/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474150801_1139170244250619_5771595994633867145_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SfJJVRNfbaMQ7kNvgG8vE-2&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AEFPd43X9sVead0-W4z04El&oh=00_AYBIIGhaJkhhtXPNXiKUtqOAlYkhMk_on9o5XZ_4eK4MlQ&oe=67B2DF73",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474150801_1139170244250619_5771595994633867145_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tX7td2dpNhUQ7kNvgF5zeLy&_nc_oc=Adhz0IIWmTCnkQMlbksb8kFbpr8G1wRldnlAyWhVkD2cv1unB7MrYG7v6FRSgvNHxGE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AeCJk2sSNscuGMvCkQOOMM5&oh=00_AYCTFBd34itVdwLOmxlqobMazh-RrqjKLFteutvOXss_8Q&oe=67B58273",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/586891907601034/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474874848_1139210344246609_8834822748911733996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6nA_f6Vz7hYQ7kNvgHpIKBc&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AWT1swWA_WPUieLoFkkVt0P&oh=00_AYBFAiM9PpSTeZPX0qEON44tJlG5vc-QEUnvkkozBosZ8Q&oe=67B2C94D",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/474874848_1139210344246609_8834822748911733996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iDjnU9yGYNAQ7kNvgFibIwj&_nc_oc=AdivznbTit0NWqvr1LAaxzUoVpjWla4vk-S6n9AC1DQgFbApx6p4P67Sl6SoH73XxLs&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AJwR6GKBj-yVNKMmznsr7Si&oh=00_AYCh4c5jxoh8Iu6XWnF75dQA7moQ9q8g7b3sBYFTULqGiQ&oe=67B56C4D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1063541145528918",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/475083292_10103256740478178_9138320998580744996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=phTHJCl-rEUQ7kNvgEvMvqt&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AtKNb0dNkJT2W0Wo77UP3qd&oh=00_AYCP35586iJEnvL6SyHtp_mdkBV72Du4LX4wi6mj4Xyepw&oe=67B2F6D6",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475083292_10103256740478178_9138320998580744996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QyyuBoLsuX8Q7kNvgF1fzDz&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A_C4cDLV2AWss8DJbFz5vdG&oh=00_AYCe-t7gO6IdIeh7A_n_PXrAL5nsLKIHLk_Oja8sLrmcGQ&oe=67B599D6",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Red Door",
@@ -204,7 +204,7 @@
       "name": "Rådhusstræde 13, 1466 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.676437500000006,
       "longitude": 12.574687500000024,
       "bounds_ne_lat": 55.676500000000004,
@@ -217,7 +217,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1087548139481258/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/466390866_888051406804758_4222104728007296314_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=spW1VFMilR0Q7kNvgGefJuV&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AShmOOMT3TVSBHRWB6P9mwy&oh=00_AYDB5JLz5IJhNECL8BmdDTaLaranYqVKyh9Qy8OkRwHPJw&oe=67B2CFBF",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/466390866_888051406804758_4222104728007296314_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aJeUKgaV-0cQ7kNvgFxqktx&_nc_oc=AdhEzagLhy2mpElQfFQFhldqIC3FTuiltxrXeRGmqU9zmrdHwRCCBj7j-Xef50Ek-7Q&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A-3Nh8DJMpkJrIsPWDMJKSh&oh=00_AYANcJziFCH1iwalZknO1Mv6v1OCGybUb7PDH2C3GbJ11w&oe=67B572BF",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musikcaféen",
@@ -249,7 +249,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1259377572162614/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/464197641_873410798268819_3556094056748402128_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8ok9Y-cUMzAQ7kNvgEXkYAf&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Agc8YTX57etvcvO_teGsPmD&oh=00_AYDIzF6ftgNwDZPSS4WXlCwJ9tTPbave_eEQP0IRiPzovg&oe=67B2FDAE",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/464197641_873410798268819_3556094056748402128_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8ok9Y-cUMzAQ7kNvgFuZz3q&_nc_oc=Adhz7x_AHttrwZ0Zo55baLOOFLU4nhqjWzd-i2QZbwkY6z6nVNaJODV915FEWziUd8I&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AHOa3o0YztbVSmsNvjr1oLe&oh=00_AYA49_-lLJtNQFG93rfiAkWn_U3Vz3VebT-xzGBiLEwAQA&oe=67B5686E",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musikcaféen",
@@ -268,7 +268,7 @@
       "name": "Vestergade 18E, 2. sal, 1456 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67743750000001,
       "longitude": 12.569437500000035,
       "bounds_ne_lat": 55.67750000000001,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1275352980550741/?event_time_id=1275353000550739",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/470225950_530849669980407_5329675420569561943_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pxqr8m-hFHAQ7kNvgFZPMnt&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A7RkKGVe_aODLuiEIGBRUr1&oh=00_AYDzidjsqfhBCJ0LAQow9wEdcF9hlqMshQZilRYbxBZp_A&oe=67B2E712",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/470225950_530849669980407_5329675420569561943_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hoEfieTCtwEQ7kNvgHoEv0B&_nc_oc=Adj727-Y4VQm-0FydbrXIRQO38ekifxmtnoQUuR25oRUGRG3HFnbpxnhIHE4DYIt4u0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AbIZNa3ieOdLMu61jH4ozqT&oh=00_AYBcm7N0AFpdnBLQApFkrlq-oHe2AxjfqtOGAt6N5Bn2lw&oe=67B58A12",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "LGBT+ Medborgerhuset i København",
@@ -300,7 +300,7 @@
       "name": "Bremen Teater",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
       "bounds_ne_lat": 55.676625,
@@ -313,7 +313,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1135649988252284/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476240031_1149897596511217_8983741374171294787_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4-7cFZoQumoQ7kNvgE-5aUN&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A4XzZGtCgDrSoUscbg_36Nb&oh=00_AYDSWrNLDlS1OTOINYlJhVK9EArKKUqhF4CKFj6LkELZCw&oe=67B2F9C9",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476240031_1149897596511217_8983741374171294787_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BuP2UHmoJvYQ7kNvgFny1Me&_nc_oc=AdgiW4ksj5cud3hK6Fb1GYhkPrHgZxrgUciX5aKDJWvIjMb9wpxAFk0fCpqU7ym9W_U&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Ay0khvHMBumuu1k9BgQtEox&oh=00_AYDaua8uyCY1s2MFrLdBkd9M6XaMEuoDZ0g_HL_SMh-DkQ&oe=67B59CC9",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -332,7 +332,7 @@
       "name": "Kunsthal Charlottenborg",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67993750000001,
       "longitude": 12.588312500000015,
       "bounds_ne_lat": 55.68000000000001,
@@ -345,7 +345,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1534934787183396/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476242854_1149182529916057_9134939046816281190_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Tr6D1OCMfQ8Q7kNvgE6yhDZ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AMx0rxTwDzXvrLvRVehOQFe&oh=00_AYD-sIGWzI23B2lviBw_sRSjln3I7srbzwdq32DihtbmCg&oe=67B2EE78",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476242854_1149182529916057_9134939046816281190_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Tr6D1OCMfQ8Q7kNvgHeI2Mv&_nc_oc=Adg8-Bxrn8LT1w9ZZCwVxBu7u6KQd6en3EG2qz9x2vcbhZveXuxR2ivRm_OruhUsi84&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A_wPl-1gdm54a-SQnU24ITQ&oh=00_AYC-ZODF4vpQDM6DSy0vODPWjzM7IEkz2g3_g7ixb1DJxA&oe=67B59178",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -363,7 +363,7 @@
     "location": {
       "name": "Bremen Teater",
       "address": "Nyropsgade 39-41",
-      "city": "Copenhagen, Denmark",
+      "city": "Copenhagen",
       "country": "DK",
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
@@ -377,7 +377,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1157499119093127/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476797580_1149179229916387_3388550907447318935_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8sRXSQ5ZcgkQ7kNvgEv2WJq&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AoZy6Dmln3HRQrIy4NhfDjc&oh=00_AYDOL8Iov4qhe1EMrmYRpKKk5HDuv1nveZvT7iWsD6d2CQ&oe=67B2F1B7",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476797580_1149179229916387_3388550907447318935_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZSeMPKciO-kQ7kNvgERPSmP&_nc_oc=AdjDeo0H7k7b8H-1w42C0O1vG_9Yy-bGAQn4akL4uoBNKvFsAJvm_PAE5rYXPnP4UeY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=An01N8gkcGdrK2WNqoHMmxJ&oh=00_AYDOsyJFh1yRN1gFjLEm9mLjcjyFfzBUsO_-d2lQ2NYLJg&oe=67B594B7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -409,7 +409,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/644845521264985/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476115816_1017376760426713_131875800780153538_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1n8uokmkwSIQ7kNvgGGEBFw&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AWvkLt76xXo9qd34kOPSAlZ&oh=00_AYB-Z2Yw4BJBiq93luTr4fN8-LTMWGBTHk781MUkvLo3-A&oe=67B2CCA2",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476115816_1017376760426713_131875800780153538_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=isvyRcibLokQ7kNvgEHL1pf&_nc_oc=AdinnHoWgE79xGoE8tZKVyPgz3r6x9dD8RiEZzJzGr6c-406CZ9-klqsRZIWudLUEK4&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AZGxGZM6vtgJ8pjnpR0kD6s&oh=00_AYDXFkwrcrLMqOvMqWSSaKi6NbfsYfXuAnbDu5_demefig&oe=67B56FA2",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
@@ -441,7 +441,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/754604346707444/?event_time_id=754604350040777",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/456081513_1062934869168431_2448266419916020874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Bc69DEM9Z-sQ7kNvgGBdTNv&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AX8Mog4ZOucp_ulLA8D3dTa&oh=00_AYD4DHd3XYj9UknPBpmejrN2XJQ19A5sy1rf9EgnhYTGLQ&oe=67B2C5B7",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/456081513_1062934869168431_2448266419916020874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-QyP0-hoUKYQ7kNvgFsWO3i&_nc_oc=Adi2QAMfx2vCfvl6SyrZWs6Bd8AlD7DIBFQEkdEIXU-HKCFAj_xw5PPvfoD6A3IqDS8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AVuqukuQBdtILh0oyf0qG_N&oh=00_AYBV52_DInJh1skjh0zS9qhMC2no2FRfYZTN9lXn747nJg&oe=67B568B7",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Metronomen",
@@ -460,7 +460,7 @@
       "name": "Cisternerne",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.669562500000026,
       "longitude": 12.524187499999996,
       "bounds_ne_lat": 55.669625000000025,
@@ -473,10 +473,42 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1575305659854687/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476723299_1152781002889543_3654759094497266380_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=668zl3wBuAQQ7kNvgHcoUil&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AL-b-TNT_7SK8jkxS6YETh3&oh=00_AYA5DGVnD2vOi5IjlL_0QTEoVlxlvGOAqNy9JNLmB9cSCw&oe=67B2F23D",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476723299_1152781002889543_3654759094497266380_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PyyQuDPZHRgQ7kNvgFItSZ7&_nc_oc=Adj3w3mMf5-Qxe87W0-oyoT6zciZiMo2zarZW8vZ72-7S4fZHtXG6h2sYkSZjEkDMVo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AJxHtFB-vlAf1Iai1fcQKB6&oh=00_AYAMmw9nMM0KebRjr55CpvJNvgJlxcAxnt8GThwu74FrFA&oe=67B5953D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
     "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "1334238587582474",
+    "name": "Poetry Takeover 2025: An open mic series by Red Door",
+    "description": "POETRY TAKEOVER\nBi-Monthly Open Mic by RED DOOR\nat La Fee Verte - H.C Ørsteds Vej 6, Frederiksberg\n\nFREE EVENT!\n\n\"Poetry Takeover\" is a bi-monthly open mic event by Red Door and its project The Poetic Phonotheque, held at La Fee Verte, an absinthe bar known for its unique ambiance and focus on music and poetic encounters. \n\nThe event provides a platform for both emerging and established poets to share their work in a relaxed, creative setting, so bring your latest writing, positive feedback is encouraged!\n\nWe welcome participants in all languages and often feature guest hosts and renowned writers. The evening is open to anyone who wishes to read, with sign-up available upon arrival. 3-4 min per round of reading per person, but we do several rounds.\n\nIf you don't want to read but enjoy poetry, you're welcome to come and enjoy!\n\nEvent Details:\n\nWhen: Every two months (last Thursday)\nWhere: La Fee Verte\nCost: Free to attend and participate, drinks available at the bar\nFormat: Open mic (sign up upon arrival)\n\nWhether you are here to read or listen, we invite you to join us for an evening of poetry in a welcoming, creative, welcoming environment. \n\nIf you're not in Copenhagen but would like to share your poetry with us, send it to poeticphonotheque.com, our international multimedia archive of poetry.\n\nSpecial thanks to La Fee Verte for this ongoing collaboration.",
+    "date": {
+      "start_timestamp": 1743094800,
+      "end_timestamp": 1743102000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Møllegade 23 A, kld.  tv, 2200 Kbh N.., 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.691687499999986,
+      "longitude": 12.557062500000015,
+      "bounds_ne_lat": 55.691749999999985,
+      "bounds_ne_lng": 12.557125000000013,
+      "bounds_sw_lat": 55.69162499999999,
+      "bounds_sw_lng": 12.557000000000016,
+      "plus_code_global": "9F7JMHR4+MR",
+      "plus_code_local": "MHR4+MR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1334238564249143/?event_time_id=1334238587582474",
+    "image_url": "",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
   }
 ]
