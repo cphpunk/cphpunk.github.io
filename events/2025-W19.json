@@ -12,7 +12,7 @@
       "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.65668749999999,
       "longitude": 12.609312499999973,
       "bounds_ne_lat": 55.65674999999999,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/621849197200374/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/475323352_1109936831142898_5037531184656915679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=y1qttPSVsCgQ7kNvgEagCUi&_nc_oc=Adj6-f3oziLEl7IomLccrCxM4Ofeq8KJmZZqpCiVuDM750ZKFhotX54QWbHTRUe7pBE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AV8Au8VY4lJT6fetnuZzFXA&oh=00_AYDKwMgar_itBjHtG6076ZJ50ZHTirYFZDz8SxstLL45Lw&oe=67B59DAD",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475323352_1109936831142898_5037531184656915679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RKS6Rp7SNasQ7kNvgHEvbro&_nc_oc=Adj6PUzgOcITLUCAwARscmvK8-rl5y3H7pe1CwzLSOqGcudmylg91_Qlrrj-vf4BZxo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AelwJ-jHlQnW-H-G4cVxozu&oh=00_AYBgqIM7KTIPtafCJIpk0BF9jURwSkggnG1QQyklqkU3LQ&oe=67BBC4AD",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",

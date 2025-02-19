@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "FABRIKKEN for Kunst og Design",
-      "address": "Sundholmsvej 46",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6598125,
       "longitude": 12.595937500000005,
       "bounds_ne_lat": 55.659875,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/855271039689477/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/421532342_825357829628211_6028235905079473612_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cAbJJsgmOz4Q7kNvgGf0Cpj&_nc_oc=AdivGZoR6VjaKqqcfFVhddBR0R6iDUMAAT4fmuacRv4P6E4eSWonng6g4DwBgyU3ixo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AkOYw8fiOpSBQefZYgUdYnC&oh=00_AYCo2GOHeGnZvw7Flh-w4-TrsSrlA7VPuyEerO4HrIAzrQ&oe=67B59B82",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/421532342_825357829628211_6028235905079473612_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Z-okAqBPm1AQ7kNvgHeuEKb&_nc_oc=AdgcoRWs14CTUpSDS1gF1RjoGY0kaux5NbwQjymW4pu4d97j79u--PzUAbDBRB16GvI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AyT2q8BznRNeTCRAuL0WrUT&oh=00_AYCJWpIYVEbYgh2GmRRLbfOysXdFHi-lfbVPJP28x_ShGw&oe=67BBFAC2",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",

@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": "Sjællandsgade 12a",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
       "bounds_ne_lat": 55.6935,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/436570836196936/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ToDkaGGc8XYQ7kNvgG4NpSx&_nc_oc=AdhN-KdH_D2NYzEMr7rtiGTXB9czc7B7r6BcpPzbEyCpKC1_3OfUvGJwOVWXks6Qxjo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=ATIVZf374YirDCtEbfMxuMT&oh=00_AYAUgawu-t5KL0357JwZBGfFsRVwcPeT5estuD_KBEE8NA&oe=67B593CF",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kDBNBxp0JacQ7kNvgH2FwBX&_nc_oc=AdjFS_iwP2Q4RILxb_6cbZmBrTg-V5JIEuk7NAT01VZmyiMRa24v3jwE8zg6KrIDado&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AzgbcHLytrMQnqlUp3ZwPg6&oh=00_AYBwtF2ByaECekC9BVHI-yDN6ew-8eYjxJG0x85C92WOgA&oe=67BBF30F",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/1618407138795640/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/476932014_1118096333660281_6655340607873130829_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xWxBOTV-L0UQ7kNvgHITJU4&_nc_oc=Adju7DOMA7gU3scEOU7yM6rXPRc59eD_n8dl22zwEM7u4c82BKY1Bazu0yW32PKXwQE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=AwgnPpIGaQOEwMI5Mtl0Jdl&oh=00_AYCtNNjUbYBydVgvcMAzdSqaW9Ac5K5dyxoxC3OHsNjLpQ&oe=67B59AB5",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/476932014_1118096333660281_6655340607873130829_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=z3_hChBbd3YQ7kNvgFmKRIR&_nc_oc=Adgj6oYk9Ci3fGSFobJhW0QZWXA8VqjZxX48GqUFymh-KvCXfeGtdxXI6GvHyiFBGP4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ASfq65w0uyh4V4acybprm8p&oh=00_AYB5uvSEzvKV3xOzRZwopl7UEv7nZqReQrVmN6uivq3mig&oe=67BBF9F5",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
@@ -217,10 +217,42 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/592881533901394/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/473770905_929312879345277_1983224287733942964_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=v3xEsgsvCFsQ7kNvgHUtmPK&_nc_oc=Adiq1d_BAckrcbx5Cds39zgida6R-vqxujqgEDTHkmeUrB4lB9nlzFiuaXz4WdJx0t0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=A7qfil4_AztEBITgG0xCYk3&oh=00_AYD2Ri2BUv8N3exsftatHMBhlmzXWZi5KQw56G9Rpc755Q&oe=67B569A1",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473770905_929312879345277_1983224287733942964_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NQabXjRJuY4Q7kNvgHzjIAU&_nc_oc=AdhiQJhS6de9k3CY7j_ICISW9XCfGOvms2z6k0YU4yaY1n5QNVly4_FFPGjwS7XKmfo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ax1nT1wUO_R8M_JJK-sQ0kE&oh=00_AYD00SVBhTcXK-ny9xhTJfWYWW2ZbzfMH0kKdme7KkX7qg&oe=67BBC8E1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musikcaféen",
     "page_url": "https://www.facebook.com/musikcafeenihuset/events"
+  },
+  {
+    "id": "654978413730198",
+    "name": "Room Room :  Finissage 9-5, 5-9 : performance 'hollow gram' by John F. Kennedy",
+    "description": "You no longer have to stand on a beer crate to speak. In a time when voice is often separated from body, what are the potentials and what are the pitfalls? What happens when words run wild?\n\nThe group exhibition 9-5, 5-9 explores our extensive online culture, and today is the last chance to experience it, but also to witness the premiere of artist, choreographer and dancer Justin F. Kennedy's site-specific and newly produced performance work hollow gram.\n\nThe event is part of 29 days at Thoravej 29. See the full program here: https://www.thoravej29.dk/en/events\n\n~\n\nParticipation is free, but requires that you book your ticket(s) through Billetto: https://billetto.dk/e/finissage-af-9-5-5-9-uropforelse-af-justin-f-kennedys-hollow-gram-billetter-1154690\n\nhollow gram will be performed twice during the finissage. There are a limited number of places.\n\n~\n\nABOUT THE PERFORMANCE\nhollow gram is a 40-minute performance and installation of holographic embodiments at Thoravej 29.  Soundtracked by psychedelia, this intricate choreography, performed by community dance artist, John F. Kennedy incorporates vocalization, animatronic movements and apocalyptic still images. hollow gram takes place on and around a floor installation, wrapped in holographic car vinyl, alongside other scenic objects. J. F. Kennedy incorporates the technologies of holography, a virtual three-dimensional image that can be viewed from multiple angles, as well as channeling, the process of revealing information and energy not limited by our conventional notions of space and time, to illuminate past, present and future versions of our/them-selves.  ",
+    "date": {
+      "start_timestamp": 1744383600,
+      "end_timestamp": 1744394400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Thoravej 29, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.706187499999984,
+      "longitude": 12.526562499999997,
+      "bounds_ne_lat": 55.70624999999998,
+      "bounds_ne_lng": 12.526624999999996,
+      "bounds_sw_lat": 55.706124999999986,
+      "bounds_sw_lng": 12.526499999999999,
+      "plus_code_global": "9F7JPG4G+FJ",
+      "plus_code_local": "PG4G+FJ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://www.facebook.com/events/654978413730198/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480188929_1245195793806709_8522162807732869736_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QQi50lqheT0Q7kNvgFkAIN0&_nc_oc=AdistcLtCcSl_671WpHzP7k6G4lN4uaCC3eee5x2eOS2WM-qDQz5xrhLrNUeCh3-COE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AYtdPVBuIcouGNKszvYPq5a&oh=00_AYBA4kw-oSu0rgkzbX4Lq6aXdpQwScendtAhjXKYagj97A&oe=67BBE0BE",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Art Hub Copenhagen",
+    "page_url": "https://www.facebook.com/arthubcopenhagen/events"
   }
 ]

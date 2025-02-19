@@ -12,7 +12,7 @@
       "name": "Union KBH",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69156249999999,
       "longitude": 12.560437499999992,
       "bounds_ne_lat": 55.69162499999999,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/322155957160674/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/378388091_833953632067275_2652984102894368005_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9vPJsO5qi8AQ7kNvgEGACCf&_nc_oc=AdjtBxdmEr4P-j9hIRsTaaPrvCn4iIHStYOypcxk8k148IqfLoqTqDCcnIWwZ0YLKTk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=APr9Rn8lbFKTKc3_9iZG1so&oh=00_AYBOmhgvz1gpQ_4aGqWJN428SMKTm9OCEaV1cTKTh2S5aQ&oe=67B594F2",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/378388091_833953632067275_2652984102894368005_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oLDUzKlo7wQQ7kNvgFrQEQA&_nc_oc=AdgOX9shd1ouIBAKa4TvI4W2yN8robfz7wc16e-bcA2OF4TQXYvd82qsBLE-2sBrUdg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AYEzSsS4ZI71_rpQJ30aujz&oh=00_AYDfw2Un98tJTl8v0HM716qLaFR3A3kjTb_r8vq3h1gFjg&oe=67BBF432",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",
