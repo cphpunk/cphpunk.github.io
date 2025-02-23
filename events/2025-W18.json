@@ -44,7 +44,7 @@
       "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6659375,
       "longitude": 12.5805625,
       "bounds_ne_lat": 55.666,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1247720022981286/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475783702_962735459321068_7150424972155407764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Oc1ao46EzwYQ7kNvgHNWhu2&_nc_oc=AdjtNTAeX-WavOJkVYfD_hvfE_JvmDfyMsBFo_Ow8Pkl6Cp7--gYu7kuzvsHklzeRpg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AbRbc6_CMiKfic2Hn8g_YvJ&oh=00_AYDuNCxzKSsJA7UIe6ckI8lJ0NaTtRCFKy3ff9f2jddhzA&oe=67BBEE98",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/475783702_962735459321068_7150424972155407764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4HzcKwHFX0YQ7kNvgGFx3Pm&_nc_oc=Adjl6tsBiBhrTgyo9Yj6lqn6ykh7yp31wymghYGgeokIWV__lWxJGb8JJzcUknHNOqg&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=A_xIg9HJQWqksZC3-Tor1ln&oh=00_AYBrhiAzGOLIfgKOW5X791l6hrOUyJn1hnOUNuh3-LUVXw&oe=67C16CD8",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
@@ -89,10 +89,42 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/545505181843510/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475512880_962729062655041_1170884869655604252_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5JZqTM0Y6RoQ7kNvgE67Yow&_nc_oc=Adi5nakBIxqwP87IlbSPHbnt87TpWgdgxl97Zp_TscCzBh7lg2sL3GA-QUKnKUW3PzA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AlxjxGLQgHPia-utyEVYZ3H&oh=00_AYB-1MhLRZM05umJVP9O7j1Ig9UgQeiM81rmm0mfYfWLYw&oe=67BBDA53",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/475512880_962729062655041_1170884869655604252_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=khsq_kjisxYQ7kNvgFmCbBk&_nc_oc=AdgszxVMD8K39lxiTER7OzG3O1IYK0CFmd8mDwQdFn0Cvu3enhuv9Ybd2ty5Hs6bZlw&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AloOB9VE1m3VZ7kHgnxkhPQ&oh=00_AYBroDxi3BjLVWpvaDT0QPsOED6orOfb3dFwRUzMK3jITw&oe=67C15893",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
     "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "972596147530384",
+    "name": "BACK TO BACH  !!             NGOC & NGOC VIOLIN DUOS / VIOLIN SOLO",
+    "description": "Program med musik af Bach og Bério.  Vi markerer Luciano Bério’s 100 år fødselsdag med at spille et par håndfulde af hans “duetti” og Stéphane vil spille soloværket  “Sequenza”. Anne spiller Bachs Ciaconna og sammen spiller de desuden evergreens af Bach!\nEntré :100kr\nStud/ ung under 26: 50kr\nStnviolin@com",
+    "date": {
+      "start_timestamp": 1745949600,
+      "end_timestamp": 1745956800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "KoncertKirken",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68681249999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.686874999999986,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68674999999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+P3",
+      "plus_code_local": "MHP5+P3",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/972596147530384/",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/475108485_8772865706156673_567497172626908103_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mEmED18dvYoQ7kNvgFBXuBB&_nc_oc=Adij2yE6I13Pgkgs2dWTHyXrAPfcYfXnMWuiEw2Qygm6vuP4NpMr6KJ63_QbwVZbeLs&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AjudYrG1XBWtTbLNOOLuU2O&oh=00_AYC3W1b0h8JAbOqIbFHa3wOYHqP7ABcVN-Fz9iKdZV_cHg&oe=67C15FBD",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "KoncertKirken",
+    "page_url": "https://www.facebook.com/koncertkirken/events"
   }
 ]

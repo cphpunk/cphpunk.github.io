@@ -12,7 +12,7 @@
       "name": "2100 København Ø",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70874999999998,
       "longitude": 12.576250000000016,
       "bounds_ne_lat": 55.70999999999998,
@@ -25,10 +25,42 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/1097528345227826/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/464436043_1487574641991242_3340941982192236748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iGRPKeaVMacQ7kNvgFoXFGl&_nc_oc=AdjOYh52LOaAnZnz0dtC3glJxFwLWjj4gHHSeErWEfoJgCjuoYwBDdBcvspdZKQ6aX0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AdP-aYhwO1zoa8j9lZ-m6WK&oh=00_AYD2FVbJPR_oLBXybpqr6T-PjJoaZF3vb47OET9-T-HCJg&oe=67BBF707",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/464436043_1487574641991242_3340941982192236748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jXBOBLFKDgkQ7kNvgGQBKgv&_nc_oc=Adhcd-8h631kcXz2Rym5HfilKveY1T82-cuBavdxLZRY0ofyskA2Jqf5VP5sZGg0o6s&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=A2b_qLM2KZpuJiicB2NuGRW&oh=00_AYAEM3m3JmDhCOKw-rVATcU-plf1IjjuFPYiXdtAMQpqgw&oe=67C17547",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Half Marathon",
     "page_url": "https://www.facebook.com/cphhalf/events"
+  },
+  {
+    "id": "kk-souvenirs-0",
+    "name": "Souvenirs",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Præcis 30 år er gået siden ”Han tog et Nattog” bragede igennem lydmuren og blev et kæmpe hit. Efterfølgende kom ”I et Sommerhus”, “Jeg troed’ du\n  <br/>\n  var hos Mikael”, ”Hannibal og Jerry”, “Jeg hader Susanne”, ”Ned til Mormor”og mange flere. Det er blevet til 10 albums og 30 år på landevejen indtil videre. Med så meget erfaring og så mange ørehængere, er festen klar, - syng-med-faktoren i top, og der er smil fra øre til øre.\n  <br/>\n  For Souvenirs er ikke bare musik for ørene men også for sjælen, og man bliver kort sagt glad inden i! Denne ”rockudgave” af Souvenirs er det Gitte K på trommer og velklingende kor, Nils Torp spiller elbassen i bedste Paul McCartney-stil samt lidt analog keyboard, der styres med fødderne! Sofie Bonde synger med sin karismatiske stemme og spiller en gedigen akustisk guitar. Mellem sangene funderer Sofie Bonde over livets mærkværdigheder så som arvelige nedgroede negle og valg af sovestillinger. Det er jysk humor af første skuffe.\n  <br/>\n  Nils Torp er en erfaren herre. Han var med i det legendariske orkester Kliché først i ’80’erne, og mon ikke der sniger sig et par sange fra dengang ind i koncerten.\n </p>\n <p>\n  SOFIE BONDE: vokal, guitar\n  <br/>\n  NILS TORP: el-bas\n  <br/>\n  Gitte K: trommer, keyboard, kor\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag 13/9\n  <br/>\n  Kl. 20.30 / Dørene åbner kl. 20\n  <br/>\n  Forsalg: 135 + gebyr / 150 kr. i døren\n  <br/>\n  Koncerten er med unummererede siddepladser\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1757788200,
+      "end_timestamp": 1757793600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/souvenirs-0",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-01/Design%20uden%20navn%20%2873%29.png?itok=Zzg-z1E0",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

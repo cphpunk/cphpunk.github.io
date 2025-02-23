@@ -12,7 +12,7 @@
       "name": "Sigurdsgade 39, 2200",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.703812499999984,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.70387499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/843099127887696/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/457326030_940015254824553_8868256468735881165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=z-kFG_ZUpVoQ7kNvgEWP20h&_nc_oc=Adh3g0BCidbB9VjpJfkJLVPbhf-6x2Kd6Y6rxJLmv4mHINZjhOWfFdVx1iHCrwlHYWo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AhbzWQ1kuyRtO2J9qbiennU&oh=00_AYAaL8uX27KqW7kF7ITTK7kcfYNQou4Hg8VkgGnlw-kRRw&oe=67BBF94B",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/457326030_940015254824553_8868256468735881165_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=v_EB5HU-lKgQ7kNvgFZeamf&_nc_oc=Adj9kL137mqi8GSjEJXczWhNNulOKyGvWfVNbIAxBWfsjT8X23p7aBpDtnzQ_Xz6jiY&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AweifqK7bmNLVBCZSRxTxlj&oh=00_AYCr9ky0uOVUx9_hH1zkeYg717ebVB0vYuPOcVJJyL2Y5g&oe=67C1778B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",

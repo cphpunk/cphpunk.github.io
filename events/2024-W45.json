@@ -12,7 +12,7 @@
       "name": "Wagnersvej 19, 2450 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.64681249999997,
       "longitude": 12.529812500000006,
       "bounds_ne_lat": 55.646874999999966,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1058109419139259/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465042998_970650315104466_8524368260839644449_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=muyD3CuUBOsQ7kNvgH5sPke&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AnLgXVcCGurUbgExGbLKhrA&oh=00_AYDQ7ZuIZNCm5CehHsMXR9GSPq0NR9TufMDeZRY2gb8eHw&oe=679EC9D0",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/465042998_970650315104466_8524368260839644449_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HVo5OS2banMQ7kNvgGfcpGy&_nc_oc=AdjPsRP_sYKJEYLSadv9xc7qYLr-00ke6OxCzRmIsKdNwsGOu0znjUsVylA5pud7Y94&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=Ax1CaP3lhDoaEYleNOeCncm&oh=00_AYCmgzu9KThM3qK412dSEj-vp-1eiAmNwjZnTOEZvq-zVQ&oe=67C18150",
     "tag": "GAMES",
     "platform": "Facebook",
     "page_name": "Sydhavnens Bibliotek",

@@ -2,7 +2,7 @@
   {
     "id": "621849197200374",
     "name": "Boesen City Group",
-    "description": "Kom med på en rejse til Boesen City. Her blandes lyriske nordiske elementer med fusionsmusikken inspireret af bl.a. Mezzoforte, Yellowjackets, Steps Ahead, Pat Metheny Group og Lars Jansson. Jazzimprovisation, modulationer og gode melodier fremført af fem fremadstormende talenter. \n\nEmil Boesen - alt og tenorsaxofon\nBrekkunum - bas\nCarl Zinssou - piano og keys\nSimon Hoffmann - guitar",
+    "description": "Kom med på en rejse til Boesen City. Her blandes lyriske nordiske elementer med fusionsmusikken inspireret af bl.a. Mezzoforte, Yellowjackets, Steps Ahead, Pat Metheny Group og Lars Jansson. Jazzimprovisation, modulationer og gode melodier fremført af fem fremadstormende talenter. \n\nEmil Boesen - alt og sopran saxofon\nBrekkunum - bas\nCarl Zinssou - piano og keys\nSimon Hoffmann - guitar\nDavid Schousboe - trommer\n\nFoto: Mads Hald Støvring-Nielsen",
     "date": {
       "start_timestamp": 1746639000,
       "end_timestamp": 1746646200,
@@ -25,10 +25,42 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/621849197200374/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475323352_1109936831142898_5037531184656915679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RKS6Rp7SNasQ7kNvgHEvbro&_nc_oc=Adj6PUzgOcITLUCAwARscmvK8-rl5y3H7pe1CwzLSOqGcudmylg91_Qlrrj-vf4BZxo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AelwJ-jHlQnW-H-G4cVxozu&oh=00_AYBgqIM7KTIPtafCJIpk0BF9jURwSkggnG1QQyklqkU3LQ&oe=67BBC4AD",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/475323352_1109936831142898_5037531184656915679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qckvw24oDMMQ7kNvgEDKGpK&_nc_oc=AdjIjj8YZpO72jEOiLu--_ZJ0sbwVM-7NAw1S39joDp_d6mYeEsuM-posXMyn7w8E_0&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=Aa32SLL6BSEfZC89vX7Xjdm&oh=00_AYBAfLAKFMRdZrAWIllirexTn5GvOmrvFpjMl1hXPe9p2g&oe=67C17B2D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
     "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "981776470116761",
+    "name": "Introduction to Resin 3D-print",
+    "description": "**Introduktionskursus til Resin 3D-print**\n\nDato & tid: Kurset afholdes over 2 gange. D. 8. og d. 15. maj fra 19-21.\n\nBillet: Der er begrænsede pladser, så sørg for at sikre dig en plads ved at købe din billet her: https://tickets.fablabnordvest.dk/pmkaq/\n\nPå de to kursusgange vil Jacob introducere dig til FabLabs Anycubic 3D (resin) printer, samt vejlede i, hvordan printeren bliver brugt hos os. Sammenlignet med vores Prusa FDM printere kan Resin printeren skabe væsentligt mere detaljerede objekter. Med resinprinteren kan du for eksempel printe små Dungeons & Dragons figurer.\n\nSe et eksempel på lidt tryl her:\nhttps://www.youtube.com/watch?v=uZrQO6pQS70\n\nPraktisk information\n- Medbring bærbar med STL-filer, som kan bruges til print\n- Medbring tøj der dækker arme og ben for at beskytte huden\n\n-------------------------------------------------------------------------\n\n**Introduction to Resin 3D-print**\n\nDate & time: May 8 and 15 from 7-9PM.\nLocation: FabLab Nordvest\n\nJacob will run an intro course in FabLabs Anycubic 3D (resin) printer and tell you how we use the printer at the FabLab.\nCompared to our Prusa FDM printers, resin printers can create significantly more detailed objects. Jacob have used it to print small Dungeons & Dragons figures for example\n\n**See an example of some magic resinprint here **\nhttps://www.youtube.com/watch?v=uZrQO6pQS70\n\nPractical information\n- Bring your laptop with STL-files which can be used for print\n- Bring clothes that cover your arms and legs to protect your skin",
+    "date": {
+      "start_timestamp": 1746723600,
+      "end_timestamp": 1747335600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.709812499999984,
+      "longitude": 12.526937500000017,
+      "bounds_ne_lat": 55.70987499999998,
+      "bounds_ne_lng": 12.527000000000015,
+      "bounds_sw_lat": 55.709749999999985,
+      "bounds_sw_lng": 12.526875000000018,
+      "plus_code_global": "9F7JPG5G+WQ",
+      "plus_code_local": "PG5G+WQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://www.facebook.com/events/981776470116761/",
+    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/480796251_1030849075747972_5813723291418718561_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xF4XYyDMMzIQ7kNvgF_tu27&_nc_oc=AdgV8RU8b4qeGOOvbEt5SozjrmRMzacWWwwBRVXIIuhmuaH1G2SXdDBpv7nLJ0WmGS0&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=APP5cIrY2ESxNjJ-3ZAGxhP&oh=00_AYAhz7ou2wMdmKKURsoN3V1cN5ztJE_NJYkyxmL5u9dGSQ&oe=67C14FCE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Fablab Nordvest",
+    "page_url": "https://www.facebook.com/fablabnordvest/events"
   }
 ]

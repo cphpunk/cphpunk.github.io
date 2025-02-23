@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-clearwater-creedence-revival-uk-the-all-star-tribute",
+    "name": "Clearwater Creedence Revival (UK) - The All-Star Tribute",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Clearwater Creedence Revival er et anset britisk band med en “All-Star”-bandbesætning bestående af professionelle rock-veteraner.\n </p>\n <p>\n  Creedence Clearwater Revival var et af 70’ernes største bands og deres utrolige sange som \"Proud Mary\", \"Rolling on the River\", \"Have you ever seen the Rain\", \"Down on the Corner\", \"Fortunate Son\" og \"Bad Moon Rising” huskes forevigt. Musikken elskes med samme intensitet af både unge og gamle, og med dette storslåede “All Star tribute band”, der hver især har været med til at forme rock og blues-musikken er der garanti for en uforglemmelig koncertoplevelse med masser af fællessang!\n </p>\n <p>\n  Det rutinerede Clearwater Creedence Revival tæller internationale rockveteraner selv har været en del af store bands som Bay City Rollers, The Animals, Big Country og The Hollies og som har optrådt eller indspillet med musikere fra acts som Paul McCartney, Wings, Jimi Hendrix Experience, The Kinks, Yes, Deep Purple, Ozzy Osbourne, Gary Moore, Thin Lizzy og mange flere!\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  3. oktober kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 250 kr. + gebyr / Dørsalg: 280 kr.\n  <br/>\n  Koncerten er med unummererede ståpladser.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1759514400,
+      "end_timestamp": 1759521600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/clearwater-creedence-revival-uk-the-all-star-tribute",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-02/Design%20uden%20navn%20%2814%29.png?itok=w2ykbX62",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]
