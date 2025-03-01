@@ -152,10 +152,42 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/926253139414528/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/473081098_122147308322359067_3524197738865937369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QQhm6vLV_zgQ7kNvgHg1yl_&_nc_oc=Adg1ffDJ_u_UH24jwDMzRoZS5rtuXI_GTZSwO9NnmUEKpKNE0x4_q0na1ydkX9HmwpU&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AFL11W7QQgpKBoWWW7AO4dz&oh=00_AYAoi6T3h-9he9ZRFNvb4EPJAprrjK8TKtDSycBxnSXIzQ&oe=67C18061",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/473081098_122147308322359067_3524197738865937369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U6ZWUrgU_QoQ7kNvgEOK5wh&_nc_oc=Adg0KElyvNo5eL15f4xkZmwrY0ZWo3-xeqHnjSOy97AlpOazGNBqcgHMWedHVuzBbtI&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=Am0THITnllbh5sFO46Xsshc&oh=00_AYA66Zd_E_UGjoayd92k54PequLeOOVG2we7dqJDTn08IQ&oe=67C93121",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",
     "page_url": "https://www.facebook.com/profile.php?id=61560772023333&sk=events"
+  },
+  {
+    "id": "889361992925880",
+    "name": "Rundvisning med Rune Bosse",
+    "description": "Torsdag den 21 november Kl 19 er der rundvisning ved kunstner og censor Rune Bosse.\n\nHan vil fortælle om censureringsprocessen og taler om udvalgte værker. Rune inddrager kunstnere og publikum.\n\nTilmelding er ikke nødvendig og rundvisningen er inkluderet i entré-prisen.\n\nEntré-priser\n\n+16 år: 70 kr.\n0-15 år: 0 kr.\nStuderende: 50 kr.\nPensionist: 50 kr.\nMedlem: 0 kr.\nGruppe (over 12 personer), pr. person: 50 kr.\nSkoleklasse, pr. person: 30 kr.\n\n",
+    "date": {
+      "start_timestamp": 1732212000,
+      "end_timestamp": 1732215600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Oslo Plads 1, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.691312499999995,
+      "longitude": 12.587187500000013,
+      "bounds_ne_lat": 55.691374999999994,
+      "bounds_ne_lng": 12.587250000000012,
+      "bounds_sw_lat": 55.69125,
+      "bounds_sw_lng": 12.587125000000015,
+      "plus_code_global": "9F7JMHRP+GV",
+      "plus_code_local": "MHRP+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/889361992925880/",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/466978483_582672500805268_3137767685301220595_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VcDIX59loZwQ7kNvgEVj0k4&_nc_oc=AdiANh-gfVy3ssTqrOe2MsSOX9qqObh5a7fiMAS7dybhj48r1_AM2YlV8fkKJpLfGfc&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AW5dwMbnrfYC6Mf_OvsjmL5&oh=00_AYBdKC2jTtVrVlXJ--N-YG3qfFJp9bSptI89WHEBjZQm5w&oe=67C921B2",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Den Frie Udstillingsbygning",
+    "page_url": "https://www.facebook.com/denfrieudstillingsbygning/events"
   }
 ]

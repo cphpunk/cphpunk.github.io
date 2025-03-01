@@ -12,7 +12,7 @@
       "name": "Empire Bio",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1134110091723737/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/475306188_1001219875376549_5105238493662310064_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iilGtHIraYAQ7kNvgGCEYqO&_nc_oc=AdilRFjxp3aOD5BFma7_TdBPF5TdCjzuk8oQoDdegLyJiEKPjx5h0iVFSxK6bhQhb6s&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=ANMpLmbl_EomfDzsnZb8Txz&oh=00_AYBykSV5swRLN9LvVyNkN4m4kFencO5_Wey305CnwkChNg&oe=67C16B1C",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/475306188_1001219875376549_5105238493662310064_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ywhropsRToMQ7kNvgHVENV5&_nc_oc=AdiIzf96e1lwRz-FUQsPG4OhrDgVTdVKBAWIiSqvZ2rZUIbirJHIdzkIFY69IgsHH6Q&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A0ZgZ91aFh41C1O_IedUDiY&oh=00_AYBYB7CEDW2dipHG99nvM88jyQP5vmmfnm6aZzwEq-rTWg&oe=67C91BDC",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Empire Bio",

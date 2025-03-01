@@ -12,7 +12,7 @@
       "name": "Sigurd CPH",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70368749999999,
       "longitude": 12.555187500000002,
       "bounds_ne_lat": 55.703749999999985,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1076338084004786/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/480344312_539549079144996_4861359149450905685_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pXgdstpgS7YQ7kNvgHk_JwG&_nc_oc=Adikp9x1N2Glc90vW84vePwIyUvtiWLio6Zjs595kzP-nIkiNw5a1PwOIJbq_x6xb6I&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=A7pz0fZFMaNzENgUgJ2walS&oh=00_AYCd7KVBF1pmQunY3kl5fk1yUkcXyQMiXaR8KDO-MvU5gw&oe=67C1592B",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/480344312_539549079144996_4861359149450905685_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fCW6zUO3078Q7kNvgFkcWBI&_nc_oc=AdgscQEJ5n8xz7fyAlloaMQgfpHwCHFs1OVoRq45jDijIbP2SYhjfg5kleI_KI3HTzI&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AMKv-qjEj2DFYujDyAZyWs8&oh=00_AYC_CMXcP909d9Msc75qw9ydu8059ni33FisCtkmwKdMDA&oe=67C9422B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/878270624248447/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/461921549_966717325487679_738292489659048928_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jDju92afXfcQ7kNvgERQ8Qu&_nc_oc=AdiRJuvKCuTNSLjUJ8t5Fek2vTOtzBO01smaKPBA9uwT82sGvBQUm5jj6FHuUHgFaRA&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AfQ6tNNHfxwLYboOuMO2aRM&oh=00_AYBxfxO1HtRi8msH1ymFOjuMffTAaPIq_tj114NlCTda5g&oe=67C15588",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/461921549_966717325487679_738292489659048928_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Vy8wfjqvtXgQ7kNvgGQMx-h&_nc_oc=Adjg7hGwb8E-kl49CXVkXyx5iagWVEPXeyXodtNsTX2UAYUoA1EOUya8PYFGqLcGohw&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AKGRWqlEETXEUU1O2XVIgQ5&oh=00_AYAWuiVex1FuiOfNRtvNDLDFMyNzDR958FA71G9QGhgl7Q&oe=67C93E88",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Haven CPH",
@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Bremen Teater",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Nyropsgade 39-41",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
       "bounds_ne_lat": 55.676625,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1218809345830408/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/459315375_1045227047604228_8668213003596128325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=roU1lyFOKHMQ7kNvgEe6xsv&_nc_oc=AdgvPIvv7Ys17eY8YvB6BxsgL2EH51RluDHAme5BquA2yiMxPaDqowAQTmEcHLOxqrs&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AiRwQ6QQOKm5Y_pAsis9iwh&oh=00_AYBBtIgVk6YxPCyBF7OgkSMASoT3RjUmMIFom1LEQNGzHA&oe=67C17B73",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/459315375_1045227047604228_8668213003596128325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EuHXKFnnqmEQ7kNvgFz_sjE&_nc_oc=AdjUE2YvCpDWGVh6414Y2cQ4cTMUWrgDZCMOnuVTUn1AkvIM8zy35FNDMd0CaiU3wtI&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=Aa2yBtjhETy2iQWzElzGzoC&oh=00_AYAy7GFGSyAQRLDIqdpZMwUJcUa2CD_ccfEAknd2-scABw&oe=67C92C33",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",
@@ -121,7 +121,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/561712239520677/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/460912170_1055908196535309_6470657901701635593_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vSppZVNBoUkQ7kNvgG_DaZH&_nc_oc=Adhg9FOOar9jVy5LERNthFujcvRx94qZ3dWLIBt1b-kCBkeytLrSX4UQhUCQo5nnxOI&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=A_mAZBbEU4Rju-ea-74jCFt&oh=00_AYBtBjsp8VJaZl_6L-A9adYsY1pWSRVSvXUC4s_QDJnK6g&oe=67C15B94",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/460912170_1055908196535309_6470657901701635593_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SLWnz8Kk3lMQ7kNvgFyWiNL&_nc_oc=Adj90BaHloY0RtxBysQgFL4-3SQrpw2Nm5Odz_up2si7g0KNopVKyVXAFwtmBZRsAB0&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AxyZD9LIeZ637nZ_pXno61T&oh=00_AYBddwHyK-py48W79JwxN3tR3GBqMGITrYuUcYp7PZ-bQQ&oe=67C94494",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",

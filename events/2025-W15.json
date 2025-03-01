@@ -75,7 +75,7 @@
     "location": {
       "name": "Sjællandsgade Bad",
       "address": "Sjællandsgade 12a",
-      "city": "Copenhagen, Denmark",
+      "city": "Copenhagen",
       "country": "DK",
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/436570836196936/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/458327341_502004122570916_6800012108465189905_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OhB4kJuaj18Q7kNvgH21Enr&_nc_oc=AdjLMtrH2gn-fCzRjQPvDwvu8BHA_izzrqEaz3IeH0DHgeiGpG4oAzr9CD_i2atKCuI&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=A4x-etv4rzD5cWE4axRxgVY&oh=00_AYBxZErFqBWFD6XYqUj_RYhcQyf65L6S7oUhS22CyUDBAA&oe=67C1714F",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/481116821_626097966828197_588117150465015614_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=u9AHdU3Q9CAQ7kNvgFbDPNu&_nc_oc=AdhSh5G_Qf7p45i8ii-e41a4BjDlcRsA0LX77sv1Uz5dc5149fhSn1FVM5liCbA3iKo&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AbttuKkqaMWjS_wPJzIB7lW&oh=00_AYBKXTBfabCsBYkCe31JdK49y42cRwbtTYwiJ5NS-pO25w&oe=67C924CE",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -138,9 +138,9 @@
     },
     "location": {
       "name": "K.B. Hallen",
-      "address": "Peter Bangs Vej 147",
-      "city": "Frederiksberg, Denmark",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -150,10 +150,10 @@
       "plus_code_global": "9F7JMFHV+2W",
       "plus_code_local": "MFHV+2W",
       "plus_code_locality": "Frederiksberg, Denmark",
-      "copenhagen_district": "Unknown / Not Copenhagen"
+      "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/486452864351576/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/459325069_909486277868432_7853693354615952033_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Nikx65M4QtgQ7kNvgEd-LQ9&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=ASeYsUqhTyGRLYDYf709i1c&oh=00_AYBfnsWzmVlVegas2qXJnExW0uAaqtp2ODTGwoXDsrdeBQ&oe=67B2F10F",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/459325069_909486277868432_7853693354615952033_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KVQc5blipMEQ7kNvgHLfbiw&_nc_oc=Adjak16RWp2IqKL42MDXbFVc0MfNum7EpcRV6XhwW5uO_wRSUUoLp4Sdt2OWxiwRngc&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A7-PC7tqs9hNqlgRK7gnnsC&oh=00_AYCwNjQbaPMTPgpM4QGKg9GddaE-g7-VEIS5m-7EYX6BkA&oe=67C9224F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/1618407138795640/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/476932014_1118096333660281_6655340607873130829_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PpuMHLvX3kAQ7kNvgH_8Bmo&_nc_oc=AdhlmY6f2rjNdpg2V2xXItV12iMgB6-lcw0FF3xCjbjdSSXMhXyS9BSzIQMw1UDxH-g&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AlogXQntph-5JBNws2xyKeI&oh=00_AYBgzJ011ZBRsmnyjQdlIbcrH7wDECO-6WAwX1-Pe8geKQ&oe=67C17835",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/476932014_1118096333660281_6655340607873130829_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5qolHM9YOLYQ7kNvgFhqaQ2&_nc_oc=Adhe1KsE0Bz-uLALabnoY_N-rkyOsFbn_hqjDHE2TRO7v1e31sfWKrvBOme4U9dtyYs&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AxoYBA-97e5HOyASdrVd-ib&oh=00_AYD9pakCCbloMCBEewMgnVtPOrPA4nbR7IYnJg10VLlRvQ&oe=67C928F5",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
@@ -204,7 +204,7 @@
       "name": "HUSET",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67631250000001,
       "longitude": 12.574687500000024,
       "bounds_ne_lat": 55.67637500000001,
@@ -217,7 +217,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/592881533901394/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/473770905_929312879345277_1983224287733942964_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NUgVNJeJlpEQ7kNvgGEJle9&_nc_oc=Adj-xHwK2Mv44UnBk3pwovi4BoG3L74o3agyWDWWvkp1kQjj_7jRHjUkHv4YD_UJY58&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AclxHbiJLoHY9Z63wTes2qT&oh=00_AYAXd6QIqXm08ATvHRZ7QXy4uTt81WPJFdTgpeCCDdcCqQ&oe=67C17F61",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/473770905_929312879345277_1983224287733942964_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KwwZ8vxTiz4Q7kNvgHsqDRK&_nc_oc=AdiRLIcVbTJjByU6aampY1GKurp3HQlyukno8tTjVmJbHnp0dsYDfnpOHAVlNUOK0DM&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AMMyylsin-LX-mh_Zv6OwKy&oh=00_AYAE1RMK8-ETe8hNvqHA54SSnDUeGYB5FBfM9oTYANmNJQ&oe=67C93021",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musikcaféen",
@@ -236,7 +236,7 @@
       "name": "Thoravej 29, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.706187499999984,
       "longitude": 12.526562499999997,
       "bounds_ne_lat": 55.70624999999998,
@@ -249,10 +249,42 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/654978413730198/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/480188929_1245195793806709_8522162807732869736_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uhdlX4yVcecQ7kNvgE1s4jB&_nc_oc=AdgMX3xYB9DOwnz8SkzblpOu9SH8EqxrouzhpPxIkRgPtdqYPKahAaXuUdUq_ZDMvlU&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=A-2Qw5u3-pEW2tzMROnSXo1&oh=00_AYBJT68PMKRBGPj5wwmGTjHxSFdN8ISNPtplKtF7NCLkTg&oe=67C15EFE",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/480188929_1245195793806709_8522162807732869736_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7teBghyBg5MQ7kNvgFInCu4&_nc_oc=Adh_QmAo8fLwguQZmgUYOWFbzgHm1v37pvwgeaCEcKDI614XlJhrAtMXGh93LpD79Zw&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AdqSQMNxE2ZPDPBje2yUfgN&oh=00_AYCCM9506uvWyq4eW4PaYtyWDNcNFZFQTPfb7qww8VOx_Q&oe=67C947FE",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Art Hub Copenhagen",
     "page_url": "https://www.facebook.com/arthubcopenhagen/events"
+  },
+  {
+    "id": "9270648523051467",
+    "name": "Lilith: Verdens Første Kvinde [Lilith: The First Woman]",
+    "description": "ENGLISH DESCRIPTION BELOW\n\nGud skabte Adam og sagde ‘Det er ikke godt for mennesket at være alene’. Derfor skabte han Lilith. Lilith nægtede at underlægge sig Adam, og blev smidt ud af Paradisets Have. Hun blev kaldt dæmon og levede udstødt blandt tidsler og nælder i stormændenes kongeriges ruiner, sammen med bukketrolde, hyæner og pilslanger.\n\nInspireret af den gamle myte har Livingstones Kabinet skabt en moderne, højaktuel forestilling om kvinder, køn og magt.\n\nForestillingen har en sanselig visuel æstetisk med smukt lysdesign og skønne kostumer.  Og det hele er ledsaget af nykomponeret live musik.\n\nOpført på både dansk og engelsk med engelske overtekster.\n\n----\n\nGod created Adam and said, ‘It is not good for man to be alone.’ Therefore, he created Lilith. Lilith refused to submit to Adam and was cast out of the Garden of Eden. She was called a demon and lived as an outcast among thistles and nettles in the ruins of the great man’s kingdom, along with goblins, hyenas and dart snakes.\n\nInspired by the ancient myth, Livingstone’s Cabinet has created a modern, highly topical performance about women, gender and power.\n\nThe performance has a sensual visual aesthetic with beautiful lighting design and beautiful costumes. And it is all accompanied by newly composed live music.\n\nPerformed in both Danish and English with English supertitles.\n\n----\n\nSPILLETID / RUNNING TIME: 60 minutes\n\nMEDVIRKENDE / CAST: Amia Miang, Kristina Sørensen Ougaard, Pete Livingstone\n\nKUNSTNERISK HOLD / ARTISTIC TEAM\nIscenesættelse & Liliths stemme: Nina Kareis\nKoreograf: Adelaide Bentzon\nKomponist: Pete Livingstone\nTekster: Kareis & Livingstone, Betty Jean Newsome, Bibelen, Andrea Rita Dworkin, Elliot Rodger\nScenografi og kostumer: Dorte Holbek\nLyddesign: Rasmus Månsson\nLysdesign: Magnus H. K. Hjortlund\n\n----\n\nANMELDELSER / REVIEWS\n\n“UIMODESTÅELIG” (Anne Middelboe-Information)\n \n\n★★★★★ “LIVINGSTONES KABINET OVERGÅR SIG SELV..scenekunst with a purpose” (Sceneblog.dk)\n \n\n★★★★★ “EN LILLE FULDENDT DIAMANT AF EN FORESTILLING.. SÆRT,SMUKT,STÆRKT OG SKRØBELIGT” (iscene)\n \n\n★★★★ “FORFØRENDE…superæstetisk…drivende ironisk…minder om en form for eksotisk ceremoni” (Politiken)\n \n\n★★★★ “HYPNOTISERENDE GODT” (Kulturbunkeren)\n \n\n★★★★“FASCINERENDE” (CphCulture)\n \n\n★★★★ “SMUK…IMPONERENDE…” (Kulturkupeen) \n \n\n★★★★ “MASSER AF MUSIKALITET” (POV Internationalt)",
+    "date": {
+      "start_timestamp": 1744221600,
+      "end_timestamp": 1744225200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Møllegade 7, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69081250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHR4+87",
+      "plus_code_local": "MHR4+87",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/9270632749719711/?event_time_id=9270648523051467",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/480868628_1177450107721879_1932886095570982447_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WU-Uc-eSIdwQ7kNvgHnQTgq&_nc_oc=AdhOozE4jXQHpIzRFKlmjTGV9tqqYnTGZL0f69XAraYL7KVr5fjgLKoR2Nzkh6YI8To&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A-z1ys0l1igTTW5a93mADWa&oh=00_AYBKtH27_iNEFpkvPzdBx5z1ySTlSaTM-Jqj_Tpgk7yxXw&oe=67C94881",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "LiteraturHaus",
+    "page_url": "https://www.facebook.com/literaturhauskbh/events"
   }
 ]

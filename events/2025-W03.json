@@ -139,7 +139,7 @@
       "name": "Studiestræde 24, 1455 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.678437500000015,
       "longitude": 12.568812500000021,
       "bounds_ne_lat": 55.678500000000014,
@@ -152,10 +152,74 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1294309398264424/",
-    "image_url": "https://scontent-pmo1-1.xx.fbcdn.net/v/t39.30808-6/473594177_122148150362359067_7721861911270128938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P_eHMO8olbQQ7kNvgF3JATS&_nc_oc=AdgkEbZ43yNufWPkRekVvMfcf0j7_sGA0z_Ez4m6ytkLcwxoHszqebwj7dxtYFMEMlk&_nc_zt=23&_nc_ht=scontent-pmo1-1.xx&_nc_gid=AF9hbQh8jnJhZOJboe3kX8h&oh=00_AYDGBfUdLpxgbiaKGAyueT72CUetXTnOTN6i4J6aCML4mg&oe=67C14F2E",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/473594177_122148150362359067_7721861911270128938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EUhFlhsOttAQ7kNvgHrGVUJ&_nc_oc=AdhY8D3C5qyoOE-KsKpzY_ACLmqhLPZtAsXouN3BdJG5U5P84osU_B9flGthMx3_XtM&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AodqSnjwAgpVsYZDB22dPSV&oh=00_AYCX-CSg9vmAqWNjg79cMTmFLSoPM4RJp_yoF-cwp6kJ8g&oe=67C9382E",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",
     "page_url": "https://www.facebook.com/profile.php?id=61560772023333&sk=events"
+  },
+  {
+    "id": "953203486252009",
+    "name": "Driving the Doubts Away — en info-komedie af Olof Olsson - UDSOLGT",
+    "description": "Den 16. og 17. januar 2025 vender Olof Olsson tilbage til Den Frie med to eksklusive fremvisninger af sin info-komedie – Driving the Doubts Away. Billetter er nu sat til salg.\n\nDriving the Doubts Away — en info-komedie* af Olof Olsson\n\nHvordan fungerer jokes?\n\nHvorfor hader folk performancekunst?\n\nHvad er forskellen mellem høj kultur og lav kultur?\n\nDriving the Doubts Away er en info-komedie* om en forvirret teenager (Olof Olsson), der ønsker at blive kunstner, på en eller anden måde kommer ind på kunstskole — og bliver endnu mere forvirret. Lys kastes over hovedhistorien gennem afstikkerer til milliardærer, Valhalla, Mars-barer, gratis kaffe, østrisk vin, danskvand og meget mere. I kernen af forvirringen står Marcel Duchamps Fountain, et urinal forvandlet til skulptur i 1917, som i 2004 blev kåret som det mest indflydelsesrige kunstværk i det 20. århundrede.\n\nDriving the Doubts Away indeholder 200 illustrationer og fem originale sange.\n\nVarighed: 60 minutter + en 15 minutters pause + 45 minutter = 120 minutter inklusive pause.\n\n \n*) En info-komedie består af 40% information, 30% komedie, 20% selvbiografi og 10% melodrama.",
+    "date": {
+      "start_timestamp": 1737052200,
+      "end_timestamp": 1737059400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Oslo Plads 1, 2100 København Ø, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.691312499999995,
+      "longitude": 12.587187500000013,
+      "bounds_ne_lat": 55.691374999999994,
+      "bounds_ne_lng": 12.587250000000012,
+      "bounds_sw_lat": 55.69125,
+      "bounds_sw_lng": 12.587125000000015,
+      "plus_code_global": "9F7JMHRP+GV",
+      "plus_code_local": "MHRP+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/953203486252009/",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/472815430_1028356239322303_2990050306688513832_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R4sTyhBrNBYQ7kNvgF5dDpA&_nc_oc=AdgK28k6585jiZhaSladYi5-ktu5sIsUG5c5WgWm9DyegUVw-XqHBTYwWOZ3KtRejws&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AQWCWJLFZI5WdibL3cHUr0R&oh=00_AYB-wevu03YceSQ9Y0Cl-Pjf99v3BKd_ysOIUOLKQInKAQ&oe=67C929B2",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Den Frie Udstillingsbygning",
+    "page_url": "https://www.facebook.com/denfrieudstillingsbygning/events"
+  },
+  {
+    "id": "9349609821758204",
+    "name": "Driving the Doubts Away - En info comedy af Olof Olsson - UDSOLGT",
+    "description": "Den 16. og 17. januar 2025 vender Olof Olsson tilbage til Den Frie med to eksklusive fremvisninger af sin info-komedie – Driving the Doubts Away. \n\nDriving the Doubts Away — en info-komedie* af Olof Olsson\nHvordan fungerer jokes?\nHvorfor hader folk performancekunst?\nHvad er forskellen mellem høj kultur og lav kultur?\nDriving the Doubts Away er en info-komedie* om en forvirret teenager (Olof Olsson), der ønsker at blive kunstner, på en eller anden måde kommer ind på kunstskole — og bliver endnu mere forvirret. Lys kastes over hovedhistorien gennem afstikkerer til milliardærer, Valhalla, Mars-barer, gratis kaffe, østrisk vin, danskvand og meget mere. I kernen af forvirringen står Marcel Duchamps Fountain, et urinal forvandlet til skulptur i 1917, som i 2004 blev kåret som det mest indflydelsesrige kunstværk i det 20. århundrede.\nDriving the Doubts Away indeholder 200 illustrationer og fem originale sange.\nVarighed: 60 minutter + en 15 minutters pause + 45 minutter = 120 minutter inklusive pause.\n\n*) En info-komedie består af 40% information, 30% komedie, 20% selvbiografi og 10% melodrama.",
+    "date": {
+      "start_timestamp": 1737138600,
+      "end_timestamp": 1737145800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Oslo Plads 1, 2100 København Ø, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.691312499999995,
+      "longitude": 12.587187500000013,
+      "bounds_ne_lat": 55.691374999999994,
+      "bounds_ne_lng": 12.587250000000012,
+      "bounds_sw_lat": 55.69125,
+      "bounds_sw_lng": 12.587125000000015,
+      "plus_code_global": "9F7JMHRP+GV",
+      "plus_code_local": "MHRP+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/9349609821758204/",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/472671598_1028358722655388_6834963277547793726_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VqSKjktB5Z4Q7kNvgGByqnD&_nc_oc=AdhxCkGUTybnm3RcAFG-9I60bJbj0R3x8zqmncaQZBxk5kZMXUxQKCL35D_HIbucBRo&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=Abf09mpM3czYu3LdwmDQJaG&oh=00_AYCfqETm_HqHLHMtb_jhZfAMd1MqyCL_XR2uf_9ej85dxw&oe=67C9238F",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Den Frie Udstillingsbygning",
+    "page_url": "https://www.facebook.com/denfrieudstillingsbygning/events"
   }
 ]
