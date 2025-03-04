@@ -1,0 +1,66 @@
+[
+  {
+    "id": "6788305931294639",
+    "name": "JUNKO // DUSTBREEDERS // TOMMI KERÄNEN",
+    "description": "TOCHNIT ALEPH & MAYHEM PRÆSENTERER:\n\nJUNKO (Japan) - voice\n\nDUSTBREEDERS (France) - guitars & electronics\n\nTOMMI KERÄNEN (Finland) - electronics\n\nDoor: 20.00\nEntrance: 80 kr.\n\n\n",
+    "date": {
+      "start_timestamp": 1711220400,
+      "end_timestamp": 1711227600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mayhem KBH",
+      "address": "Ragnhildgade 1",
+      "city": "Copenhagen",
+      "country": "DK",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/6788305931294639/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/428452012_909555484199828_7291423105312640404_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aLIT20OHSfEQ7kNvgH6H_zI&_nc_oc=Adi4jnUOqaUKhcbFK06FnmVLt4yhJHDtzYbrrkekiHHiGBTRizg3JEeDl2F-kmy6q-o&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AAZ-cdlIgQoaukg0TuZJfg5&oh=00_AYDOB_d8u7Z9oxMuzAJyelxkLQVnBPnZpWvXNXKVDWTisw&oe=67CCC240",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
+  },
+  {
+    "id": "784082876453031",
+    "name": "To Øl X CPH:DOX: Final Party",
+    "description": "Join us for our final party which will - true to tradition - happen at BRUS!\n\nCome drink delicious beer, dance your heart out and celebrate another great festival. \n\nLINE-UP \n\n20.00: WILDR \n20.30: DJ Aida Mai \n21.15: Tamara \n21.45: DJ Aida Mai \n22.30: TBA \n23.15; DJ VITA DOSA \n\nWe’ll announce one more artist on friday, so stay tuned. We can’t wait!\n\nEntrance is free. No ticket needed. ",
+    "date": {
+      "start_timestamp": 1711220400,
+      "end_timestamp": 1711242000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BRUS",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6921875,
+      "longitude": 12.556187500000007,
+      "bounds_ne_lat": 55.69225,
+      "bounds_ne_lng": 12.556250000000006,
+      "bounds_sw_lat": 55.692125000000004,
+      "bounds_sw_lng": 12.556125000000009,
+      "plus_code_global": "9F7JMHR4+VF",
+      "plus_code_local": "MHR4+VF",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/784082876453031/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/431495538_937147011119611_8035267764474000170_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zQIRGp6AAH0Q7kNvgGmYIvI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ATvq--lU44SVfBX5akWlUJ5&oh=00_AYAZWA90NYlVwo0MCgITrFfdx1cBQSys9StN84NGYST9OA&oe=67942BB5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
+  }
+]

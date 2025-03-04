@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1095805714424582",
+    "name": "Annual Copenhagen Film Festival 2022",
+    "description": "🎉 Welcome to the 6th edition of the Annual Copenhagen Film Festival! 🎉\n\n🎬 The two-day festival, as every year, aims at showcasing indie and short films and providing a platform from up and coming filmmakers from around the world.\n\n🎞️ In this edition, the ACFF team is excited to present a wide selection of 14 films, from intriguing short films, to touching dramas, music videos and odd comedies; films that can make you reflect, feel and connect.\n\n- Doors open at 18:00 on both days, admission free\n- The festival will operate on a first come first serve basis\n- All films will be screened in English or with English subtitles.\n\nMore information coming soon!\n\nSave the date: October 21-22 😍",
+    "date": {
+      "start_timestamp": 1666368000,
+      "end_timestamp": 1666465200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1095805714424582/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/309165764_808012987020989_4007593975769895050_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XCU3MvB0ZbkQ7kNvgH-pCoj&_nc_oc=Adga93q3eN2nP7pT5FrMKz9W5q3c3pwiRQ74QbOY5-loJAPeA09sF8qxgIVh7R8xsxQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A4_Qzpg5QmVAPxzurSUD1PA&oh=00_AYA25zrWeIuOrCg91xqkNhR46OT6Yr09fgicPinWT4W80A&oe=67CCEF17",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Annual Copenhagen Film Festival",
+    "page_url": "https://www.facebook.com/cphfestival/events"
+  }
+]

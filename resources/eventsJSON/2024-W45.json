@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1058109419139259",
+    "name": "Game On - Sydhavnens Store Spilledag",
+    "description": "På spilledagen kan du prøve kræfter med:\n\n- Nintendo Wii med sjove og interaktive spil.\n- Oldschool arcadespil, der bringer nostalgi til live.\n- Brætspil.\n- Spændende VR-spil, hvor du træder ind i helt nye verdener.\n- Oplev biblioteket på en ny måde med Bibliobitterne, der invaderer via augmented reality.\n\nArrangementet er gratis og for alle aldre.\n\nVi glæder os til at spille med dig! 🎮",
+    "date": {
+      "start_timestamp": 1731142800,
+      "end_timestamp": 1731157200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Wagnersvej 19, 2450 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.64681249999997,
+      "longitude": 12.529812500000006,
+      "bounds_ne_lat": 55.646874999999966,
+      "bounds_ne_lng": 12.529875000000004,
+      "bounds_sw_lat": 55.64674999999997,
+      "bounds_sw_lng": 12.529750000000007,
+      "plus_code_global": "9F7JJGWH+PW",
+      "plus_code_local": "JGWH+PW",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1058109419139259/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465042998_970650315104466_8524368260839644449_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=90pcWpDoE6MQ7kNvgGH7-0U&_nc_oc=AdhTThRjFj8kpDOjqUS6r_WzvQQH8v9fyKkwlwQvdmq00KhYBmbptZ4B95N3FSkcW14&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AJi9NqzlQL4iAAHLiuBHVAW&oh=00_AYCQN1NWn3_2Abiqvh6I27cS9wpO4RW0AVoQ_63bltre7A&oe=67CCEE50",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "Sydhavnens Bibliotek",
+    "page_url": "https://www.facebook.com/sydhavnensbibliotek/events"
+  }
+]

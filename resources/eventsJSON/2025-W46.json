@@ -1,0 +1,66 @@
+[
+  {
+    "id": "kk-albertine-sarges-de-musikcafeen",
+    "name": "Albertine Sarges (DE) | Musikcaféen",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Albertine Sarges' new album, Girl Missing, is the highly anticipated follow-up to her acclaimed 2021 debut, The Sticky Fingers.\n </p>\n <p>\n  The project emerged from personal loss—after a close friend abruptly cut ties, Albertine turned to songwriting, assembling a musical mosaic of love and longing. “I was crafting a sonic biography of love,” she reflects, intertwining themes of female friendship throughout. The missing girl of the title is not just someone lost, but someone longing.\n </p>\n <p>\n  Eclectic yet deeply personal, Girl Missing blends indie rock, blues, art pop, and 1970s influences with Albertine’s agile vocals. Alongside longtime collaborator Lo Selbo, she shaped intricate soundscapes with airy flutes, layered choirs, and vintage organs to create warmth and vulnerability. The album took shape in two contrasting locations: the industrial landscape of Berlin-Marzahn, where Albertine explored the confessional depths of her songs, and the coastal town of Margate, where she refined them at the PRAH Foundation studio.\n </p>\n <p>\n  Balancing whimsy with melancholy, Girl Missing closes with a wry joke—\"How do you call a fish with no i’s? A fsh.\"—yet remains a poignant meditation on loss and renewal. For her upcoming tour in fall 2025, Albertine will gather her full band, celebrating music as a reason to come together.\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763233200,
+      "end_timestamp": 1763244000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset, Musikcaféen, 3. sal",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/albertine-sarges-de-musikcafeen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-02/Albertine%20Sarge%20web%20foto%201920%20x%20554%20%28credit%20Sophie%20le%20Roux%29_0.png?itok=UrkKRNqE",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-lucy-yeghiazaryan-quartet-jazz-i-verdensklasse",
+    "name": "Lucy Yeghiazaryan Quartet – Jazz i verdensklasse",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Lucy Yeghiazaryan kombinerer den klassiske, elegante jazzvokal med en særlig intim kommunikation og kontakt med publikummet. Hendes repertoire består af jazzstandards, som altid resonerer med hendes egne livshistorie, samt egne kompositioner, som inviterer lyttere ind i hendes liv. Siden hun flyttede til New York i 2015, har hun udgivet 5 anmelderroste plader, turneret i Nordamerika og Europa med navne som Harold Mabern, Emmet Cohen, Houston Person og Rodney Whitaker, og etableret sig som en af fremtidens store navne indenfor jazzmusik.\n </p>\n <p>\n  Med på scenen er tre af Skandinaviens mest efterspurgt jazzmusikere: Pianist Magnus Hjorth (Marius Neset, Snorre Kirk, DR Big Band, m.fl), kontrabassist Graig Earle (Lars Jansson, Denzal Sinclaire, Niels Lan Doky, m.fl) og trommeslager Cornelia Nilsson (Mathias Landæus, Kenny Barron, Seamus Blake), hvis fælles kendetegn er et stærkt, virtuost, og solidt understøttende sammenspil og dybt swingende time feel.\n </p>\n <p>\n  Det bliver en jazzoplevelse du sent vil glemme, når de fire musikere optræder med jazz i verdensklasse!\n </p>\n <p>\n  Line-up:\n </p>\n <p>\n  Lucy Yeghiazaryan – Vokal\n  <br/>\n  Magnus Hjorth – Flygel\n  <br/>\n  Graig Earle – kontrabas\n  <br/>\n  Cornelia Nilsson – trommer\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den  15. november 2025\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Unummererede siddepladser\n  <br/>\n  Forsalg: 150 kr. + gebyr / 170 kr. i døren\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763233200,
+      "end_timestamp": 1763240400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/lucy-yeghiazaryan-quartet-jazz-i-verdensklasse",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-03/Lucy%20Quartet%20web_0.jpg?itok=frTFP6B3",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

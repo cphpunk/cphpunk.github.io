@@ -1,0 +1,66 @@
+[
+  {
+    "id": "907388794725161",
+    "name": "Rosa Anschütz // Stefan Węgłowski // Vanity Productions // Iron Sight",
+    "description": "Rosa Anschütz\n\nStefan Węgłowski\n\nVanity Productions\n\nIron Sight\n\nKl. 20.00\n50 kr.",
+    "date": {
+      "start_timestamp": 1710529200,
+      "end_timestamp": 1710536400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mayhem KBH",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/907388794725161/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/418986204_916969076791802_6569011905125000816_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VSsRVzEHFosQ7kNvgEawtWQ&_nc_oc=AdjRB3b7BevBjxgiAVY7USEj7dVdSHKV7wPXbHlWmMUZaum2wCHTjsnmEYNuR_f00yQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AvYF41TxUA41vw2nekqqOLG&oh=00_AYAA07QpTpOIbIMSzVXZuuiqjAFXmU7UjB6m2bysS5PBQQ&oe=67CCE455",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
+  },
+  {
+    "id": "429658252717370",
+    "name": "Den Lille Kulturnat 2024",
+    "description": "Velkommen til Den Lille Kulturnat 2024! 🎉\n\nFredag den 15. marts 2024 fra kl. 16 til 20 inviterer vi alle børn og deres voksne til en uforglemmelig dag fyldt med eventyr, spænding og sjove eksperimenter.\n\nDet er Kulturnatten, som du kender den, men udelukkende med arrangementer skræddersyet til de små og store børn i selskab med deres voksne. Vi lover en dag, hvor byen udforskes i børnehøjde, og hvor vi sammen skaber minder for livet.\n\nProgrammet vil rumme et væld af arrangementer for børn i alderen 2-5 år og 6-12 år, tilpasset så selv de mindste kan være med og stadig komme i seng til tiden.\n\nMuseer, gallerier, biblioteker, kirker, madhuse, slotte, teatre og biografer er alle arrangører og er travlt optaget af at planlægge underholdende og lærerige begivenheder, der kun finder sted under Den Lille Kulturnat.\n\nFra den 1. marts vil programmet blive tilgængeligt, så du kan læse om de spændende arrangementer, som det digitale Kulturpas giver adgang til.\n\nDet digitale Kulturpas kan ligeledes købes fra den 1. marts på kulturnatten.dk. Det koster 125 kr., når du er fyldt 12 år, og med et Kulturpas kan du gratis medbringe to børn under 12 år. Dit Kulturpas fungerer også som billet til fri transport med bus, tog og metro i Hovedstadsområdet zone 1-99 fra kl. 15.00 til 21.00.\n\nVi glæder os til at se jer alle til Den Lille Kulturnat!",
+    "date": {
+      "start_timestamp": 1710514800,
+      "end_timestamp": 1710529200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Københavns Kommune, Frederiksberg Kommune",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67625000000001,
+      "longitude": 12.513749999999987,
+      "bounds_ne_lat": 55.67750000000001,
+      "bounds_ne_lng": 12.514999999999986,
+      "bounds_sw_lat": 55.67500000000001,
+      "bounds_sw_lng": 12.512499999999989,
+      "plus_code_global": "9F7JMGG7+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/429658252717370/",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/424639520_932024035150069_2207574102003987748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=z1zurRkSMhEQ7kNvgGQZfjU&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=AmEzLhIol9fmQGG2KI7qeKh&oh=00_AYAp6NV4tyTgPgQvibowImOBEYP_8o1EefRHCKFFPAEIXA&oe=67A5778D",
+    "tag": "CULTURE",
+    "platform": "Facebook",
+    "page_name": "Kulturnatten",
+    "page_url": "https://www.facebook.com/Kulturnatten/events"
+  }
+]

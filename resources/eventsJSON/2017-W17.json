@@ -1,0 +1,34 @@
+[
+  {
+    "id": "424234257953738",
+    "name": "Debataften: Unge & Ensomhed",
+    "description": "I april, maj og juni sætter Sydhavn Sogn fokus på ensomhed & \nfællesskab gennem en række debataftener. Præst Per Ramsdal lægger ud på Café Riccos på Sluseholmen og har inviteret et par spændende oplægsholdere, der tager udgangspunkt i, hvad vi selv kan gøre, når vi føler os ensomme eller vil hjælpe folk, der oplever ensomhed:\n \nPatrick Cakirli, som er blevet kendt for det landsdækkende initiativ \"SMILET - Fællesskab mod Ensomhed\", vil fortælle om sine personlige erfaringer med ensomhed og tankerne bag initiativet, der nu har flere tusind medlemmer på facebook. \n\n2 oplægsholdere fra den sociale ungdomsorganisation Ventilen vil fortælle om omfanget af ensomhed blandt unge (og voksne), konsekvenser og årsager til ensomhed, og lidt om Ventilens tilbud til unge. \n\nEfter oplæggene er der mulighed for at debattere og stille spørgsmål til oplægsholderne.\n\nDer er fri entré og billig kaffe.",
+    "date": {
+      "start_timestamp": 1493229600,
+      "end_timestamp": 1493236800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ricco's Kaffebar",
+      "address": "Sluseholmen 28",
+      "city": "Copenhagen",
+      "country": "DK",
+      "latitude": 55.646437499999976,
+      "longitude": 12.5493125,
+      "bounds_ne_lat": 55.646499999999975,
+      "bounds_ne_lng": 12.549374999999998,
+      "bounds_sw_lat": 55.64637499999998,
+      "bounds_sw_lng": 12.54925,
+      "plus_code_global": "9F7JJGWX+HP",
+      "plus_code_local": "JGWX+HP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/424234257953738/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465745121_9335352643158668_98134627302788381_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hriaDKQYZEwQ7kNvgHZfgmA&_nc_oc=AdgCwcIOKqL4voIIUU0xcDVh57g9fOcxEXxidCatMebeM20LeA6xhw5QIFouiWWZKRA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AOKk1uweD64epPGyiMwOzHM&oh=00_AYCwBlVEmU07zEX3KcazcV5CfFIYrRiCI4A5eZyQ02peoQ&oe=67CCC802",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Ricco's Kaffebar",
+    "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1134110091723737",
+    "name": "Jacob Aksglæde // RUST Sleeps Around",
+    "description": "JACOB AKSGLÆDE // RUST SLEEPS AROUND\n\nFind billetter: https://www.ticketmaster.dk/event/613901327\n--------------------------------------\n• Døre: 19.00 • Koncertstart: 20.00\n• Billetter • Forsalg: 270 kr\n--------------------------------------\n\nRUST Sleeps Around rykker ind i biografsalens mørke, når vi byder velkommen til Jacob Aksglæde i Empire Bio!\n\nSiden sin debut i 2016 har Jacob Aksglæde markeret sig som en toneangivende dansk popkunstner. Med sit imponerende bagkatalog bestående af fire EP'er og to album, skaber han – som han selv formulerer det – digte som man kan danse til.\n \nMed numre som Giv Lys Igen, PromilleRomantikken, Næste Sommer, Fantomfølelser og senest Dem Der Forsvandt, har Aksglæde ramt en nerve i den danske musikscene. Hans sange indfanger både hverdagens små øjeblikke og de store følelser, hvilket skaber en nærværende poesi, der bevæger og forener lytterne. Aksglædes musik har en sjælden evne til at bygge bro mellem mennesker og give plads til både refleksion og fællesskab.\n \nNu får hans fans en enestående chance for at opleve hans sange i deres reneste form. Med sit poetiske univers, sin varme charme og sit gode humør inviterer Jacob Aksglæde publikum til en musikalsk rejse, hvor kærligheden og livets mange facetter er i centrum.\n",
+    "date": {
+      "start_timestamp": 1761760800,
+      "end_timestamp": 1761768000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1134110091723737/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475306188_1001219875376549_5105238493662310064_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8q3mwAckEcsQ7kNvgHGOPzU&_nc_oc=Adh0GCRy6ENR3LrsSdzDUoWh7jeYsJ4SVGNR_X15-pYCjTdVOSFfiAxyr_HNhgCLRQI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ASLe-129jPZjqwKg2TkkglD&oh=00_AYA-x36e6vrIMzj1GsK7670SZ_kNQ3hHxkV_MdEvnCJpdg&oe=67CCD81C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Empire Bio",
+    "page_url": "https://www.facebook.com/empirebio.dk/events"
+  }
+]

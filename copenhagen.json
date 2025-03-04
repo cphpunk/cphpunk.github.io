@@ -1,0 +1,487 @@
+{
+    "city" : "Copenhagen",
+
+    "filters" : [
+        {
+            "name" : "Categories",
+            "version" : 0.1,
+            "filters" : {
+                "MUSIC" : {
+                    "enabled" : true
+                },
+                "MOVIE" : {
+                    "enabled" : true
+                },
+                "ACTIVISM" : {
+                    "enabled" : true
+                },
+                "COMMUNITY" : {
+                    "enabled" : true
+                },
+                "THEATRE" : {
+                    "enabled" : true
+                },
+                "CULTURE" : {
+                    "enabled" : true
+                },
+                "LGBTQ+" : {
+                    "enabled" : true
+                },
+                "YOGA" : {
+                    "enabled" : true
+                },
+                "SPORTS" : {
+                    "enabled" : true
+                },
+                "ART" : {
+                    "enabled" : true
+                },
+                "COMEDY" : {
+                    "enabled" : true
+                },
+                "SHOPPING" : {
+                    "enabled" : true
+                },
+                "GAMES" : {
+                    "enabled" : true
+                },
+                "QUIZ" : {
+                    "enabled" : true
+                }
+            }
+        },
+        {
+            "name" : "Sources",
+            "version" : 0.1,
+            "filters" : {
+                "Extinction Rebellion Danmark": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+                },
+                "Olla Común Folkekøkken": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
+                },
+                "Nørrebrohallen og Nørrebro Bibliotek": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Noerrebrohallen/events"
+                },
+                "Sydhavnens Bibliotek": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/sydhavnensbibliotek/events"
+                },
+                "KraftWerket": {
+                    "enabled": true,
+                    "url": "https://kraftwerket.kk.dk/en/events"
+                },
+                "Kulturhuset Islands Brygge": {
+                    "enabled": true,
+                    "url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+                },
+                "HUSET": {
+                    "enabled": true,
+                    "url": "https://huset.kk.dk/en/events"
+                },
+                "Mayhem": {
+                    "enabled": true,
+                    "url": "https://mayhemkbh.dk"
+                },
+                "Villa Kultur": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/villakultur/events"
+                },
+                "Råhuset": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Raahuset/events"
+                },
+                "Spillestedet Stengade": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/spillestedetstengade/events"
+                },
+                "Mayhem KBH": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/mayhemkbh/events"
+                },
+                "ALICE cph": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/alicecphcom/events"
+                },
+                "Musik Loppen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/musikloppen/events"
+                },
+                "KoncertKirken": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/koncertkirken/events"
+                },
+                "RUST": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/RUSTkbh/events"
+                },
+                "Pumpehuset": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Pumpehuset/events/"
+                },
+                "HUSET  (Huset i Magstræde)": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Huset.Koebenhavn/events"
+                },
+                "Basement CPH": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/BasementKBH/events"
+                },
+                "VEGA": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/VEGAcph/events"
+                },
+                "Operaen Christiania": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/operaenscafe/events"
+                },
+                "Punks Undead": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/PunksUndeadCPH/events"
+                },
+                "Ungdomshuset": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/UngdomshusetD61/events"
+                },
+                "Radar": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/radarlive/events"
+                },
+                "DROP INN": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/dropinnmusic/events"
+                },
+                "Haven CPH": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/havencph/events"
+                },
+                "Hangaren": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/HangarenCopenhagen/events"
+                },
+                "Hotel Cecil": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/hotelcecilcph/events"
+                },
+                "Ukirke": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/uKirke/events"
+                },
+                "BETA2300": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/beta2300/events"
+                },
+                "Polychrome": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
+                },
+                "LiteraturHaus": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/literaturhauskbh/events"
+                },
+                "Lygtens Kro": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/lygtenskro/events"
+                },
+                "Amager Bio": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/amagerbio/events"
+                },
+                "Klub Werkstatt": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/klubwerkstatt/events"
+                },
+                "Støddæmperen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/StoedNV/events"
+                },
+                "Bolsjefabrikken": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Bolsjefabrikkerne/events"
+                },
+                "Den Anden Side": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/KlubDenAndenSide/events"
+                },
+                "CPH ZINE FEST": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphzinefest/events"
+                },
+                "Jægersborggade": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Jaegersborggade/events"
+                },
+                "Musikcaféen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/musikcafeenihuset/events"
+                },
+                "Madboks": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Madboks/events"
+                },
+                "MarmeladeCulture": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/JamCultureMusic/events"
+                },
+                "ICC Theatre - Improv Comedy Copenhagen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/improvcomedycph/events"
+                },
+                "Bøssehuset": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/boessehuset/events"
+                },
+                "Den Frie Udstillingsbygning": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/denfrieudstillingsbygning/events"
+                },
+                "Amager Records": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/amagerrecords/events"
+                },
+                "Centre Stage CPH": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/profile.php?id=61560772023333&sk=events"
+                },
+                "K.B. Hallen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/kbhallen/events"
+                },
+                "Module": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/modulecph/events"
+                },
+                "Cph Listening Room": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/CopenhagenSundayOpenStageListeningRoom/events"
+                },
+                "Empire Bio": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/empirebio.dk/events"
+                },
+                "Grand Teatret": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/grandteatret/events"
+                },
+                "Cinemateket": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cinemateket/events"
+                },
+                "Bastard Café - Board Games & Coffee": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/BastardCafe/events"
+                },
+                "Next House Copenhagen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/nexthousecopenhagen/events"
+                },
+                "FLINT kbh": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/flintkbh/events"
+                },
+                "LGBT+ Medborgerhuset i København": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/LGBTmedborgerhuset/events"
+                },
+                "Ricco's Kaffebar": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Riccos.Kaffebar/events"
+                },
+                "Sorte René": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/sorterene/events"
+                },
+                "TechBBQ": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/TechBBQ/events"
+                },
+                "DISTORTION": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphdistortion/events"
+                },
+                "MIX COPENHAGEN": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/mixcph/events"
+                },
+                "Copenhagen Jazz Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphjazzfestival/events"
+                },
+                "CPH:DOX": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphdox/events"
+                },
+                "Copenhagen Short Film Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/CopenhagenShortFilmFestival/events"
+                },
+                "VOID - International Animation Film Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/voidfilmfestival/events"
+                },
+                "Copenhagen Half Marathon": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphhalf/events"
+                },
+                "Nordic Adventure Film Festival - NAFF": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/nordicadventurefilmfestival/events"
+                },
+                "Musikfilm Festivalen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/musikfilmfestivalen/events"
+                },
+                "Resonans Fringe": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/resonans.fringe/events"
+                },
+                "CPH STAGE": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphstagedk/events"
+                },
+                "COPENHELL": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/copenhell/events"
+                },
+                "Copenhagen Photo Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
+                },
+                "BUSTER Filmfestival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/busterfilmfestival/events"
+                },
+                "Annual Copenhagen Film Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphfestival/events"
+                },
+                "Copenhagen Catalan Film Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+                },
+                "3daysofdesign": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/3daysofdesign.dk/events"
+                },
+                "Copenhagen Sakura Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/copenhagensakurafestival/events"
+                },
+                "Copenhagen International Improv Festival - CIIF": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/cphimprofestival/events"
+                },
+                "Carpark Festival": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/carparkfestival/events"
+                },
+                "Kulturnatten": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Kulturnatten/events"
+                },
+                "Dining Week": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/diningweek/events/"
+                },
+                "Folkets Hus": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/folketshus50/events"
+                },
+                "Absalon": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/absaloncph/events"
+                },
+                "Søhesten": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Sohestenbar/events/"
+                },
+                "Husets Biograf": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/HusetsBiograf/events"
+                },
+                "Kvarterhuset": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/Kvarterhusetamagerbro/events/"
+                },
+                "Fablab Nordvest": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/fablabnordvest/events"
+                },
+                "FABRIKKEN for Kunst og Design": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
+                },
+                "Art Hub Copenhagen": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/arthubcopenhagen/events"
+                },
+                "Glyptoteket": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/glyptotek/events/"
+                },
+                "Red Door": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/reddoordk/events"
+                },
+                "2730 Demoteket": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/2730.Demoteket/events/"
+                },
+                "Science & Cocktails": {
+                    "enabled": true,
+                    "url": "https://www.facebook.com/groups/161834943877755/events"
+                },
+                "Metronomen": {
+                    "enabled": true,
+                    "url" : "https://www.facebook.com/metronomenfrb/events"
+                }
+            }     
+        },
+        {
+            "name" : "Districts",
+            "version" : 0.13,
+            "svgPath" : "/resources/assets/copenhagen_districts.svg",
+            "filters" : {
+                "Amager Vest" : {
+                    "enabled" : true
+                },
+                "Vesterbro-Kongens Enghave" : {
+                    "enabled" : true
+                },
+                "Østerbro" : {
+                    "enabled" : true
+                },
+                "Valby" : {
+                    "enabled" : true
+                },
+                "Brønshøj-Husum" : {
+                    "enabled" : true
+                },
+                "Vanløse" : {
+                    "enabled" : true
+                },
+                "Indre By" : {
+                    "enabled" : true
+                },
+                "Nørrebro" : {
+                    "enabled" : true
+                },
+                "Bispebjerg" : {
+                    "enabled" : true
+                },
+                "Amager Øst" : {
+                    "enabled" : true
+                },
+                "Frederiksberg" : {
+                    "enabled" : true
+                },
+                "Anywhere Else" : {
+                    "enabled" : true
+                }
+            }
+        }
+    ]
+}
