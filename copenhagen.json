@@ -3,8 +3,53 @@
 
     "filters" : [
         {
+            "name" : "Districts",
+            "version" : 0.14,
+            "type" : "DistrictFilter",
+            "svgPath" : "/resources/assets/copenhagen_districts.svg",
+            "filters" : {
+                "Amager Vest" : {
+                    "enabled" : true
+                },
+                "Vesterbro-Kongens Enghave" : {
+                    "enabled" : true
+                },
+                "Østerbro" : {
+                    "enabled" : true
+                },
+                "Valby" : {
+                    "enabled" : true
+                },
+                "Brønshøj-Husum" : {
+                    "enabled" : true
+                },
+                "Vanløse" : {
+                    "enabled" : true
+                },
+                "Indre By" : {
+                    "enabled" : true
+                },
+                "Nørrebro" : {
+                    "enabled" : true
+                },
+                "Bispebjerg" : {
+                    "enabled" : true
+                },
+                "Amager Øst" : {
+                    "enabled" : true
+                },
+                "Frederiksberg" : {
+                    "enabled" : true
+                },
+                "Anywhere Else" : {
+                    "enabled" : true
+                }
+            }
+        },
+        {
             "name" : "Categories",
-            "version" : 0.1,
+            "version" : 0.14,
+            "type" : "CategoryFilter",
             "filters" : {
                 "MUSIC" : {
                     "enabled" : true
@@ -52,7 +97,8 @@
         },
         {
             "name" : "Sources",
-            "version" : 0.1,
+            "version" : 0.14,
+            "type" : "SourceFilter",
             "filters" : {
                 "Extinction Rebellion Danmark": {
                     "enabled": true,
@@ -439,49 +485,6 @@
                     "url" : "https://www.facebook.com/metronomenfrb/events"
                 }
             }     
-        },
-        {
-            "name" : "Districts",
-            "version" : 0.13,
-            "svgPath" : "/resources/assets/copenhagen_districts.svg",
-            "filters" : {
-                "Amager Vest" : {
-                    "enabled" : true
-                },
-                "Vesterbro-Kongens Enghave" : {
-                    "enabled" : true
-                },
-                "Østerbro" : {
-                    "enabled" : true
-                },
-                "Valby" : {
-                    "enabled" : true
-                },
-                "Brønshøj-Husum" : {
-                    "enabled" : true
-                },
-                "Vanløse" : {
-                    "enabled" : true
-                },
-                "Indre By" : {
-                    "enabled" : true
-                },
-                "Nørrebro" : {
-                    "enabled" : true
-                },
-                "Bispebjerg" : {
-                    "enabled" : true
-                },
-                "Amager Øst" : {
-                    "enabled" : true
-                },
-                "Frederiksberg" : {
-                    "enabled" : true
-                },
-                "Anywhere Else" : {
-                    "enabled" : true
-                }
-            }
         }
     ]
 }
