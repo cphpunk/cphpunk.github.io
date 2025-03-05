@@ -5,7 +5,7 @@ B: ${e}`),!0}return!1}const R=["Dining Week","VEGA"],w={HUSET:["Husets Biograf"]
           <div class="${E.EVENT_DAY_CONTAINER}">
             ${i.map(s=>`
                 <div class="${c.EVENTBOX}" data-id="${s.id}"
-                    onclick="window.open('${s.source.url}', '_blank')" 
+                    onmousedown="if(event.button === 0 || event.button === 1) { window.open('${s.source.url}', '_blank'); return false; }"  
                     style="cursor: pointer; display: none">
                  <img 
                     src="${s.media.imageUrl||S}" 
