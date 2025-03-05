@@ -10,11 +10,11 @@
     },
     "location": {
       "name": "Normann Copenhagen",
-      "address": "",
+      "address": null,
       "city": "",
-      "country": "DK",
-      "latitude": 55.679466681777,
-      "longitude": 12.577529605333,
+      "country": null,
+      "latitude": -1,
+      "longitude": -1,
       "bounds_ne_lat": -1,
       "bounds_ne_lng": -1,
       "bounds_sw_lat": -1,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/355122818827923/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/117645408_10158877060287859_2555281806724207767_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VeN1-bBBN8sQ7kNvgFU3f-6&_nc_oc=AdjPhajocEaOspiFeFzwT1MsCJLG-O_69OLxmJCs9vVuPoL8GPvQo-4VTTMy0q6omKw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AN3i7PiGVW1z33dDKxp3xt_&oh=00_AYCCiYm5uykAa6F9PxEkJdUyjWc_HUoZp-AQlAj6_KjQDw&oe=67EE82B9",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t1.6435-9/117645408_10158877060287859_2555281806724207767_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VeN1-bBBN8sQ7kNvgGKfMt3&_nc_oc=AdjVFIgqjPDr9_uWnqulgB5MgSmMGsEsaWdrQDNhzNkoL-7hJ93Lqb_IILcdcPoJBI0&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AP6dAClo4_qw-2XoRQaD9MO&oh=00_AYB7dMQqZhp03vZPWY7CzP0Wos0ypbQyjrb_MVPG4E92bA&oe=67EF9BF9",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "3daysofdesign",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/508178983167191/?event_time_id=528581561126933",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/83552426_1495383497305220_873842118919979008_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9O8cvYWWlkwQ7kNvgElpa9h&_nc_oc=AdilfIUs2ssqVPfSoq34U7g01pk1PaCM7rYeZF_3LQusODRFctPxypOvU_9sJSv62H8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A2-TFsZrx65Pu1HcPBqepyg&oh=00_AYA0OC8kyd2Y6YXRqzmHh1bNVlLkvSfWfhXjuB52A0BA5A&oe=67EE6179",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t1.6435-9/83552426_1495383497305220_873842118919979008_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9O8cvYWWlkwQ7kNvgFbeqja&_nc_oc=Adg3df9nikqv2UcWRhuLoETaYAGwtChL44jTWfteTzJ3m20FLBaHqeUxcANfWNdSKCs&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=Ay2p63PtT8Q46uav8oSDKwG&oh=00_AYCUruVePCBzntFHo9kz7HKYMWb4-NvxhWVsqKuAFBKJ0Q&oe=67EFB2F9",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "3daysofdesign",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/294806785092220/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/117218060_3095650203885713_7382167514145918187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=B2TPM_ZcNYkQ7kNvgHNhFZ3&_nc_oc=AdhO88vDzSLAZd8xH7ghChCfJI-F8OJAD5F8nIZrL50x5q6oOD41qQ7PkuRxBb2KPhI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AscBPb0sqFQF_z9mdo3pOXC&oh=00_AYD2sakIA6RnhARKFdv2D48X59v4__q5_CsOjEAL8vBcrA&oe=67EE8C1F",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t1.6435-9/117218060_3095650203885713_7382167514145918187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=B2TPM_ZcNYkQ7kNvgFuDjsf&_nc_oc=AdgeTLiEIoGJnV6TnfgEqoleiINAUPwtqmW2qeSnTvnF3Sh9z_Id_4r3gVkSz_JCkUU&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A60KIrSrYNx9bNZG4dAkqgv&oh=00_AYAreOnKrfpzVosyRdbOKTa3p9G0KClj98LfN7oO5r2wAA&oe=67EFA55F",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "3daysofdesign",

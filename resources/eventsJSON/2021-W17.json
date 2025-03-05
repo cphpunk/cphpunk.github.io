@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Cinemateket",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Gothersgade 55",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/2830445910501568/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/143875489_3737209329667603_8678794802974512662_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J0hkQTMqzj0Q7kNvgEjfz9o&_nc_oc=AdhoIws9xyCbuvvYBjPb7m1f0MPjvQlGf8NmIZJWjvQAEpSPJ7j-ozvOvu2y206QFY4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AurIz3LReLcKjbmrVRjLh2w&oh=00_AYD9AyfMWuZtrBqgr8-g8925Y1Z7gIEAxDoyQj-KXEsUEQ&oe=67EE785E",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t1.6435-9/143875489_3737209329667603_8678794802974512662_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J0hkQTMqzj0Q7kNvgGEy74a&_nc_oc=Adg4trvSsFTORIR5JxIiis-U3nfn9Qb7tz88cjPypy-3ndsno39-c7TIgU_vOqXtpvI&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AjPwoXEUoMzhfWv1rCMX9Lc&oh=00_AYAHGdQSRHGInowVT-2OJdqv2v6YBP6dkGcrf7nHGB9jSg&oe=67EFC9DE",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "VOID - International Animation Film Festival",

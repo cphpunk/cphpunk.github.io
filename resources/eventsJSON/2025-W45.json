@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-humleridderne-30-aars-albumjubilaeum",
+    "name": "Humleridderne - 30 års albumjubilæum",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Der fyres op for finurlige beats og god stemning, når Humleridderne endnu en gang indtager scenen fredag den 7. november 2025. Denne gang fejrer Dan, Jimmy, Daniel og DJ Stig 30-års jubilæet for succes-albummet 'Jeg gi'r en omgang hvis du gi'r to', som solgte over 100.000 eksemplarer og rummer en perlerække af hits, som de selvfølgelig også vil spille til koncerten.\n </p>\n <p>\n  Forvent en aften med fest, nostalgi og masser af hits! Support offentliggøres den 1. september.\n </p>\n <h3>\n  <strong>\n   Praktisk info\n  </strong>\n </h3>\n <p>\n  Fredag den 7. november 2025\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 225 kr. + gebyr / 250 kr. i døren\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1762542000,
+      "end_timestamp": 1762549200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/humleridderne-30-aars-albumjubilaeum",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-03/Humleridderne%20web_0.jpg?itok=DbY_Jim5",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

@@ -12,7 +12,7 @@
       "name": "Blågården",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68625,
       "longitude": 12.558750000000003,
       "bounds_ne_lat": 55.6875,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1311498576411493/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/344748254_906867307061983_182448309242299930_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fFofpmpTI98Q7kNvgHOAfih&_nc_oc=AdiSlAfs9HRRb8RcgMw-R5v6Rb10atyyjw3L4DWMnQjviBRRgWHi5gyvZBOlkRXeHr0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ACenW1ZWZK9lzgato1pekdP&oh=00_AYCzRlB71O0aWLFoZGHJsoxladG_7spTxDzLPmRJO58HkQ&oe=67CCDA59",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/344748254_906867307061983_182448309242299930_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fFofpmpTI98Q7kNvgFT2-so&_nc_oc=Adit0nUw-11EpIDzZ1kEe-HCtXh2shFeOuHE78peREy8fmFob1YUGOM3VYk885YP9IQ&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=Ar39uSJI4e0rwU-lltWd6tK&oh=00_AYBrgwhy3WEgZskmi5aUHoDwCzK0Lu9vI5hjYmqSwjXGJw&oe=67CE2BD9",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",

@@ -25,10 +25,42 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/948350610566024/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/460199799_978277010767627_181556454428213297_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EpFM3Z8fJakQ7kNvgEhX0zV&_nc_oc=AdghxNtC06EOAJlWqjxhJIH8EEL4Ut3gbvWj9nPDdhOcaZjyy-3LJU5euObtWmX7Wz4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AEoydglAenvXn_nc2eTbHYP&oh=00_AYBuHjSiYTea99xUQbZ0Ptmx2CxOomvTmDtgOgWiOgM6Cg&oe=67CCC7D5",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/481990627_1095943852334275_2347135204766744559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=S_0xNjB9fKYQ7kNvgHjG0l7&_nc_oc=Adiwhkc9emw1UjVLR5Y7CKgIewKi3QI4Sfd6BMtbBBLWeIW5eyjrOxHq38q7je72-Tw&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A0XQuN7nmSGUiBh4GEVPHtI&oh=00_AYAN95WoooKbSHsHW5JdsmJ9jH5H6QHaZwRq6HVkI-O3pA&oe=67CE03F5",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "COPENHELL",
     "page_url": "https://www.facebook.com/copenhell/events"
+  },
+  {
+    "id": "539085679001354",
+    "name": "See you at Festival & Friends 2025 ",
+    "description": "Oh yes, your favorite festival for classical music is back in 2025! \n\nExperience classical music with a twist of something else in a social and informal vibe.. \n& as usual the festival is enjoyed best with a cold drink and a friend by your side. \n\nStay tuned for more info ⚡\n\n",
+    "date": {
+      "start_timestamp": 1750266000,
+      "end_timestamp": 1750543140,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "2200",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.693749999999994,
+      "longitude": 12.548750000000013,
+      "bounds_ne_lat": 55.69499999999999,
+      "bounds_ne_lng": 12.550000000000011,
+      "bounds_sw_lat": 55.692499999999995,
+      "bounds_sw_lng": 12.547500000000014,
+      "plus_code_global": "9F7JMGVX+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/539085679001354/",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/467014262_1055742809896324_1979934173187521480_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4Eu1j8JUMR4Q7kNvgGxpJmp&_nc_oc=AdhweHXIZl0yCmwgwCpgbI0tB4_lK2aiK0pX78NnXMKlCPfnM1Nj6-UpUNcwTffDzKk&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AQnMcWdE5utTMOAmr8KP7Po&oh=00_AYDw0HRKe-4_qeUYDfyCk-YQEiOmtvwo4YQzl3xuNo5Z6A&oe=67CE0599",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "KoncertKirken",
+    "page_url": "https://www.facebook.com/koncertkirken/events"
   }
 ]
