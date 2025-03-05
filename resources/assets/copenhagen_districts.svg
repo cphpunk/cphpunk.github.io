@@ -33,6 +33,6 @@
 <rect x="118.57747500080612" y="247.93871772985472" width="164" height="32" rx="3" fill="#242424" fill-opacity="0.9" pointer-events="none" data-district="Frederiksberg" data-district-id="F"/>
 <circle cx="500.0" cy="550.0" r="80.0" data-district="Anywhere Else" data-district-id="X" fill="black" stroke="white" stroke-width="2"/>
 <text x="200.57747500080612" y="263.9387177298547" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20px" font-family="Roboto Condensed, sans-serif" pointer-events="none" data-district="Frederiksberg" data-district-id="F">FREDERIKSBERG</text>
-<rect x="418.0" y="534.0" width="164" height="32" rx="3" fill="#242424" fill-opacity="0.9" pointer-events="none" data-district="Anywhere Else" data-district-id="X"/>
+<rect x="425.0" y="534.0" width="150" height="32" rx="3" fill="#242424" fill-opacity="0.9" pointer-events="none" data-district="Anywhere Else" data-district-id="X"/>
 <text x="500.0" y="550.0" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20px" font-family="Roboto Condensed, sans-serif" pointer-events="none" data-district="Anywhere Else" data-district-id="X">ANYWHERE ELSE</text>
 </svg>
