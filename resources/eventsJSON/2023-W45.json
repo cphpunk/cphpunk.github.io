@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Empire Bio",
-      "address": "Guldbergsgade 29F",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/296983533231538/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/394373483_1319585395614101_4323513139687736106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TPT_HNw4zHsQ7kNvgH7urJC&_nc_oc=Adj7I1PxWGPCAL3E9JTDpQ3s0WabvECYt3LnrzuBCvjg99GJ3BAXIes_qDL2V0BOcUE&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AqMbKT1KzRBVdUWPocXmLHf&oh=00_AYDmuhJBIL_eHZSp1hlslYs-zCizJiyT_ClkuZZNzss0YQ&oe=67CE1EAF",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/394373483_1319585395614101_4323513139687736106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BiyzqEW-qsQQ7kNvgHkA1X5&_nc_oc=AdjsdL1Z4FnEZ_3lxo0pn37N28MgZbxCDte1khOAq4dZ65CYoQIpV9ENgx7pBFfQ5oo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Aj30IL2t1SOU1n6it8ivPfi&oh=00_AYFEhnqc87aUos3tsjwBmPj5g-fBB6IKrGDZDF6DRPPMZg&oe=67D1322F",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -44,7 +44,7 @@
       "name": "Empire Bio",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/220870810849822/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/395186716_1319577438948230_3684623969595027227_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Yqqy9vuWtdQQ7kNvgGp1Nw9&_nc_oc=Adg7wg7WU3vdrfqn_104Hi798ev5wAhZLkZoUCeW8xujzCt828vv9SppPpiZMySDBKI&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AaanCMuhex98EjZ3pOFmI7G&oh=00_AYCUYKLuojSvOgSSnTai8fAshY86b7tSb8pJcnJutnFZYg&oe=67CE0FB4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/395186716_1319577438948230_3684623969595027227_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZZKXpxYV95wQ7kNvgFzg6yT&_nc_oc=AdhcPptFnnkxKV9O5hQvnXp-1hF26lKV24Dqb1wT4hn31N09LwJ55TxWmPLBBFmlUjY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=APrQ20LBgPbaDbua-I_GSgr&oh=00_AYGkxBRTIlFRoUvlORk7xPZPhgiMrrPupr5TDpqrvZyWYA&oe=67D12334",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/24356637580601582/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/391698106_1313214306251210_5296754556672004870_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Oi1u5Dy-q0cQ7kNvgG_KEYI&_nc_oc=Adi50pjW6JSoTiJEK_r0q3BhxNcrsfTOcelltXEwHB10hhX33ojqpsnT7BRoY2Bn1Sc&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=ASyjSEvrw23AeXEy_kmj8LF&oh=00_AYBEGacvJI7AcxspxB6Mvo1R-T3s_QMhAwb1feLCeVReaQ&oe=67CE215A",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/391698106_1313214306251210_5296754556672004870_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Oi1u5Dy-q0cQ7kNvgExuB1Z&_nc_oc=Adh7w42z-Qk3l8Sv0ZOvhZ0SR8sg5c_-6LASwugM4dnjD4ugatQf-5kIkBO8Umk8vrk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AgkhZSdxomjPefYJKFA6Uz3&oh=00_AYHxrKYddgXZ0pa9tVeoClb-13zoj36qoWoDJtn6S32jlQ&oe=67D134DA",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -108,7 +108,7 @@
       "name": "Cinemateket",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/870520814419431/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/394066066_1319581402281167_2214105867180141464_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2YLnyJwo_CoQ7kNvgGzEg1R&_nc_oc=AdhQnmN37pKUDhJQfY9_pmC1fxJMVjNrL7PF-5DVTQNYVcdmdVZhvmFXf1zuUIq345Q&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A8_VstACRF6tVLAdYSH_jwB&oh=00_AYA9VBbjMu7VTLpnKfVI4ChpASFzIdubgqbwBqGLIHYXSg&oe=67CE079E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/394066066_1319581402281167_2214105867180141464_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=C-6MHh_t2u0Q7kNvgEZqmzQ&_nc_oc=AdgTq0sTNPArDFmP5V_eHnbN_lj4oAapnF-Xef93ghFufTWywkj-nq1eHUkafc_LvaI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ah_117mbm6E0A68b33eGET8&oh=00_AYGED_eJt6BjmoVajwX5glaTOur1Pe9Ezu04Lhi5sym7Dw&oe=67D11B1E",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1157403118567271/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/394213398_1318989195673721_5513589512802987115_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9BVs6_Nd270Q7kNvgHMM-_r&_nc_oc=AdhqBOOQSe_Uxa-ZNg0P-ou2FcVeeADxLyPTQEcMWsoNAPI-58XD_tM8yRU1P5FOpzg&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A8KxiIOhXunHc3pk2xZOUnP&oh=00_AYCfcWJ8z_usZoTpuQnqIU4Kqq6JFv01Om-NFGpA5iB6Qw&oe=67CE2600",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/394213398_1318989195673721_5513589512802987115_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NauX3TORCs4Q7kNvgHkHmuW&_nc_oc=Adj2eIYSSKTmhlxSzjA5oJipiNL57cSkQRsFDBp4CBZ3OzLEu2bDm2Kz68O_7jlm8pY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A0TkcOIDPtHLa5iL8lO7rSk&oh=00_AYF8FH6_ZBn7W6eYr82ZdgrcWJynvHlJ0s7Id_F302no4Q&oe=67D13980",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1560468161363829/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/394269001_1318983149007659_8446687604913297766_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=G4L5MgqHghIQ7kNvgHwDLjd&_nc_oc=Adg58H4p4XjiF9UR8x_2StV-rfQJ-fLURelJPgrLwlMEN6UBS0PUuuuyNK7ttLMfBkk&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A7HmqBbo8O2F-pdxp7WVTw7&oh=00_AYAbq5kSgcSkr9KgfrC2Z1j39o4ES_B9fhJ8pvkmQhGblg&oe=67CE2876",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/394269001_1318983149007659_8446687604913297766_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nl9XXCFD5oYQ7kNvgG80mP_&_nc_oc=AdjOev9Hr9pd19QOQBVJF_tZiHPa-2HGHL4IBnT0R_lpzzcotoSw9ZqKVu9jvRkicck&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AToxSMRro0x5M7zpjRz4TSb&oh=00_AYHewE2sNwX2I6lWYtFPfd6czFK7_Z4wwYxrvdNk1S9yXA&oe=67D13BF6",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/307533141998860/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/393849254_1318370169068957_1369381156277441874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tZ_kMrQaccUQ7kNvgHFZEBd&_nc_oc=AdjfM45LQzIL7zlAKhpotHzFQOFrFGXywOWqYQw3OIOTTfdIikyxBZ110-XrWtSZr6o&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AlxiFRG0L78spHgAMWncBGX&oh=00_AYAbx4Vp23OwpanDp5JdlM-SZYe9sziDcJv-KWqq2fE44Q&oe=67CDFA7E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/393849254_1318370169068957_1369381156277441874_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=stydgOcWN1oQ7kNvgGPkcT8&_nc_oc=Adh2a4Q-XXh3hIgBcAjwFwCnz5vwT7nj2hEEe5KuOQh5gZzkX1Lz_nTLtDagNEanJXY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AmIgerCEnswo4kRYXitbS8a&oh=00_AYHPqbU-VFTo4olZ9fJmlqBtzOfwojiP5nnA-KZMIHme6g&oe=67D1463E",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",

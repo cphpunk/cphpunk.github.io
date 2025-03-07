@@ -12,7 +12,7 @@
       "name": "Langelinie Park Nordre Toldbod 1259 København",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69081250000001,
       "longitude": 12.59931250000001,
       "bounds_ne_lat": 55.690875000000005,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/568633260346447/?event_time_id=569396040270169",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t1.6435-9/85156162_2457468341023647_2751008595553288192_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gGMSZRvVGKYQ7kNvgHcK9Y-&_nc_oc=AdjKZvQn6ZeUcbbIRrDonYLPbLd-ezVyjFD0rDHJOshlZ1yxGGaIEkm1sktoB7TV80c&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A4Q_2UErgdkNe_eUL94iU55&oh=00_AYC5OCojNB-SScaK0Rf7yrQ-IyX8-4P4Bs3LlH06Pv7Rdw&oe=67EF9FA4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/85156162_2457468341023647_2751008595553288192_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X78ouGCgZegQ7kNvgFmA10L&_nc_oc=AdgcQxqjNyZmvq7nvgF4Iiu3C3zfBsmnDHwMtmgqLtE7NX3Zk6N28zUi7QrkIm3E2nE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AQlNUUU5CZResc8utYlU3-A&oh=00_AYHKQ6Y-RiGnn9QeMXAu7VgUcmEaItVeikNTcqewdK0hoA&oe=67F2EB64",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "Copenhagen Sakura Festival",

@@ -30,5 +30,69 @@
     "platform": "Facebook",
     "page_name": "Ungdomshuset",
     "page_url": "https://www.facebook.com/UngdomshusetD61/events"
+  },
+  {
+    "id": "994660885820711",
+    "name": "Quizaften med Henrik Milling | Kulturhuset Islands Brygge",
+    "description": "Kom og test dig selv og din viden når Henrik Milling hiver dig og dine venner igennem en popkulturel tour de force af en quiz i Kulturhuset Islands Brygge.\n\nEn quiz om alle vores skønne fælles oplevelser indenfor film, tv, radio, musik, nyheder og alt det andet der har fyldt mediebilledet gennem de sidste 30 - 40 år.\n\nHar du styr på Back to the future, Matador, Friends, Familien på Bryggen, Polle fra Snave, Backstreet Boys, Bowie, Afrikas Stjerne, Eurovision Song Contest, Den Store Bagedyst, Harry Potter og alt under over og imellem?\n\nSå forvent at blive skiftevis henrykt og udfordret i denne hvirvelvind af stjernestunder fra det danske mediebillede gennem tiderne.\n\nMed andre ord: En quiz i cinemascope med 3-D stereo expansion pack\n\nQuizmaster: Henrik Milling\n\nHenrik Milling er kendt fra radioprogrammer som f.eks FONK - det er Lørdag på P4, er en af DRs mest brugte musik og kultureksperter, og har været kommentator på Eurovision Song Contest gennem de sidste par år.\n\nVigtigt:\n\nHvert hold må max have 6 deltagere!\nBilletprisen er pr deltager, ikke pr hold.\nQuizzen afvikles naturligvis uden brug af mobiltelefoner.\nKom evt. i god tid i forvejen og hent noget mad i cafeen som opvarmning. Vi åbner dørene kl 18 til salen, så man kan spise med sit hold.\nOg! - Cafeen er naturligvis åben så man kan hente fadbamser og skarphedskaffe o.l. når der er pauser\n \n\nVi quizzer på følgende datoer i vinter og forår 2025\n9 Januar\n5 februar\n6 marts\n16 april\n15 maj\n12 juni\n21 august\n18 september",
+    "date": {
+      "start_timestamp": 1744822800,
+      "end_timestamp": 1744830000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/994660865820713/?event_time_id=994660885820711",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470223169_601001745915640_4721019400228976728_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NcEX94p8XoYQ7kNvgF38_Oc&_nc_oc=AdieIiwfHBcLF_UalJEBhmiLccY9Eg5h0tKsSgPF6-lwf3MrYAYOvLyZ80gnYYiEWC8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Aqzg0N3ED4s-tKaO6wiLNYS&oh=00_AYHtE85c8-BOtUECiBCopoBdg3nZTtWdpI6EHokezkAnpw&oe=67D11855",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "1283660449411857",
+    "name": "MAISHA @ METRONOMEN",
+    "description": "MAISHA PLAYS METRONOMEN APRIL 14! BE THERE!",
+    "date": {
+      "start_timestamp": 1744653600,
+      "end_timestamp": 1744664400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": "Godthåbsvej 33",
+      "city": "Frederiksberg",
+      "country": "DK",
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1283660449411857/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481361851_613378924816757_6752250517441039996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eZd2kZ6t7WoQ7kNvgElBkGV&_nc_oc=AdjYIHlNYpnOGsEUhjtwtB9qbjIVk3tDKqsVY3u0asM131v3fnmyU_8Rh708Gm_cn6o&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AAD-GKEHIVRex0GnQv1ZZS2&oh=00_AYE0xZbre-cjJzuIB5CKmpHDqPfBnJPWu14ZNK2syU_NSQ&oe=67D136BA",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
   }
 ]
