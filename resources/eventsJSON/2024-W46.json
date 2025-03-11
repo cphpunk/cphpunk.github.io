@@ -44,7 +44,7 @@
       "name": "jægersborggade, Copenhagen",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6923125,
       "longitude": 12.5444375,
       "bounds_ne_lat": 55.692375,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1274118137107213/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465737691_971400811684014_5878783356809275405_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EwWv0PxMT0kQ7kNvgEeGrhM&_nc_oc=AdjjJkiOqUrt2SHpvjyl7WkyhrL0870AFQvO7wqQuwAGh4lbtaoyJ3uoFvOx9IeEjg4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AG-UfRGrUvf891RNcQXA243&oh=00_AYGgTTXFwob8BfNVmrHv6eFWmLhe35L3Ev37iN0SbleGbw&oe=67D14179",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465737691_971400811684014_5878783356809275405_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UdH6W2mXxpgQ7kNvgE2AFDO&_nc_oc=Adj8nWN1-UkV2WBb6WIOm-7v8_z-NRPNNhv14m2lsVWxou9HGZ_-zfhRfG4qkPVlJIs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AtziZ8L0ds-sgWu_RIHyKZS&oh=00_AYHxxIxOuX9ImOSu413vtttlfpbz9h1zrHlLcLUjKnlIEQ&oe=67D68779",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Jægersborggade",

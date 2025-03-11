@@ -12,7 +12,7 @@
       "name": "Ricco's Kaffebar",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70993749999998,
       "longitude": 12.56843750000003,
       "bounds_ne_lat": 55.70999999999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/1104066110666522/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/444784192_1056882815848674_289750665315584013_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PReno1j8j2UQ7kNvgFYXSzX&_nc_oc=AdjwjOaDHSRyTqbV7vP9YpAmhfd-R6DWGfSTdPNZ0GxO8iBa6okUcve2K1Jehm6U8EM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AaCo9G-JbIoUFx8r7kTvdX9&oh=00_AYE09vk7iUgSgTLGE6PMqhi7XZLjsjNaKYzaUStiJjagEQ&oe=67D125C0",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/444784192_1056882815848674_289750665315584013_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FbYqgzkPQ6AQ7kNvgHto0lk&_nc_oc=Adg9IEpyoeODHXVKx2QgOxKSACRJsw0UYnbi5d4lhZ2mNouW-v_SdSdarI0DLgbuoO8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AoMxerf0Ij-XbT3JmEkVm8Z&oh=00_AYFVsjaqCqlIukez24F6RWDIqVDbKUGUyXDoOdQTblG5Wg&oe=67D66BC0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ricco's Kaffebar",

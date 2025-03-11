@@ -12,7 +12,7 @@
       "name": "Flæsketorvet 43, 1711 København V, Danmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.66818750000003,
       "longitude": 12.560437499999992,
       "bounds_ne_lat": 55.66825000000003,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/347938308978635/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/463085767_3905382446409679_8729010739087131934_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c_t1mukhhzYQ7kNvgEh1yNp&_nc_oc=AdgwvoxnFMUSDtsoCLboEMXnENrR9Ubz3hFIkzbq0SBOtE9m-kpLPSVGjG2uDEpdIbA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A197LaR8J60MH3sWlhAm0n6&oh=00_AYES9-ycKv2JJOKafP4lW7UavFDCVyccRUSioPMP5fMs4g&oe=67D12698",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/463085767_3905382446409679_8729010739087131934_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SO20HPUkuL8Q7kNvgGi4LY_&_nc_oc=Adh55jGfDZiGdO7wSfJhkSgiSaEwbcs-pLJ15_HQxYs1qhjXE1xrTUooGJXjtQpeZlE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AO2g_0y9YboSH6pyKgUC6VH&oh=00_AYHfvPS9cq01eJomQYY1h0sx52QsrjDLeGRavX6KpgapTw&oe=67D66C98",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Ricco's Kaffebar",

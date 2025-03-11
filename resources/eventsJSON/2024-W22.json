@@ -12,7 +12,7 @@
       "name": "Amager Centret",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.662937499999984,
       "longitude": 12.603687499999992,
       "bounds_ne_lat": 55.66299999999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/834230535190321/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/441522367_959538962838900_9000073774481272827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J0n7d2KB_JsQ7kNvgGY0zkN&_nc_oc=Adiclj_rWbWiOjnEnw41JzIzn__zSclfptTzQ121cbgyoY6C4TJvJ5_LrNseqFe8otc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A-Gfq-7D_tBJCW4ANV8J5-x&oh=00_AYE09ze0mCru7InSeyY-CzNu0C_p-Z4tS56og8mKiwu-2Q&oe=67D13F56",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/441522367_959538962838900_9000073774481272827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RuLZ_4ix1OkQ7kNvgF9nXtc&_nc_oc=AdjxHEttJI-xZKIEn-cGlSNK6GYTqHSfym4NbzVIlMg5VkZ39eesLNlz6xYhTaDHWGU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ACOk19yiHr6sRg76tf3ReZV&oh=00_AYH08st-2js-CmakCUcQGdqWnpMIsrzQ8SdFk7I9vvbivA&oe=67D68556",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",

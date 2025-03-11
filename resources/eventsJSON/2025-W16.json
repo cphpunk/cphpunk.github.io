@@ -44,7 +44,7 @@
       "name": "Kulturhuset Islands Brygge",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.66681249999998,
       "longitude": 12.576312500000014,
       "bounds_ne_lat": 55.666874999999976,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/994660865820713/?event_time_id=994660885820711",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470223169_601001745915640_4721019400228976728_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=NcEX94p8XoYQ7kNvgF38_Oc&_nc_oc=AdieIiwfHBcLF_UalJEBhmiLccY9Eg5h0tKsSgPF6-lwf3MrYAYOvLyZ80gnYYiEWC8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Aqzg0N3ED4s-tKaO6wiLNYS&oh=00_AYHtE85c8-BOtUECiBCopoBdg3nZTtWdpI6EHokezkAnpw&oe=67D11855",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470223169_601001745915640_4721019400228976728_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Eal-UtoEl7MQ7kNvgEnViH4&_nc_oc=Adid_lidmnX5eciSMd65yWu7hrJJlannMtaU9dUKW2qz7tGDohhZ008GjtFDW-pAT_w&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Akscqv-SsM1Odn1chn27itk&oh=00_AYFhj8EzhGj3qKv4l8X7xWt5C4TzdDNqoq0--17QFuvNuw&oe=67D65E55",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "Kulturhuset Islands Brygge",
@@ -89,10 +89,42 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1283660449411857/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481361851_613378924816757_6752250517441039996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eZd2kZ6t7WoQ7kNvgElBkGV&_nc_oc=AdjYIHlNYpnOGsEUhjtwtB9qbjIVk3tDKqsVY3u0asM131v3fnmyU_8Rh708Gm_cn6o&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AAD-GKEHIVRex0GnQv1ZZS2&oh=00_AYE0xZbre-cjJzuIB5CKmpHDqPfBnJPWu14ZNK2syU_NSQ&oe=67D136BA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481361851_613378924816757_6752250517441039996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MwIPpzwB4UMQ7kNvgESUI1r&_nc_oc=Adg0D7PSAA42R4z03iaZBWfoRkAhUysbspLYKYEGsbmIQ0QJzDL4lFXRZTsRvXpygXc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AdlLnYBX2ZNpmjft6shUg0d&oh=00_AYEwmNJq6Q6Reiz2u3OfzXEz732GNNzSQIPnUZ30F3ikZw&oe=67D67CBA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",
     "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "3170496496425235",
+    "name": "Mambe & Rødderne's Eastern Global Bash Edition",
+    "description": "English here |  Española abajo\n\nGreetings Citizens of the World !\n\nMambe & Rødderne invites you on a global journey to experience the vibrant rhythms and sounds of the world through their music. \n\nThe Eastern Global Bash Edition will lift you through the continents with its fusion of countries, cultures, elements & electronic bass.\n\nIn the mix is DJ Sistema Bongolo, originally from Mexico, emerging from the transatlantic route. His limited edition selection from Caribbean reminiscences, rare grooves and percussive textures characterize his mixes, always emphasizing the influence of electronic music as an essential element on the dance floor.\n\n\"One of you (our guests) will win a Double Vinyl “MAMBE & DANOCHILANGO - KOSMOPOLÍTĒS”. \nThe winner will be randomly selected between the first and second music sets\"\n\nTime: 22:00, Happy Hour until 23:00 !\n\nEntrance : 100 DKK\n\n\nEspañola \n\nSaludos Ciudadanos del Mundo!  \n\nMambe & Rødderne los invita a un viaje global para experimentar los ritmos y sonidos nativos del mundo a través de su música. La Edición Eastern Global Bash te elevará a través de los continentes con su fusión de países, culturas, elementos y sobre todo el bajo electrónico.\n\nEn la mezcla nos acompaña DJ Sistema Bongolo, originario de México, emergiendo de la ruta transatlántica. Su selección de edición limitada, con reminiscencias caribeñas, grooves raros y texturas percusivas caracterizan sus mezclas, siempre enfatizando la influencia de la música electrónica como un elemento esencial en la pista de baile.\n\nUno de los invitados se ganará un Doble Vinilo “MAMBE & DANOCHILANGO - KOSMOPOLÍTĒS”. Esa noche El ganador será elegido al azar entre el primer y el segundo set de show.\n\nLas puertas abren - 22:00, (Desde las 22:00 hasta las 23:00) \n2 bebidas por el precio de una!!Happy Hour!!!\n\nEntrada - 100 DKK\n\n\n",
+    "date": {
+      "start_timestamp": 1745092800,
+      "end_timestamp": 1745110800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Operaen Christiania",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67381250000001,
+      "longitude": 12.599437500000036,
+      "bounds_ne_lat": 55.67387500000001,
+      "bounds_ne_lng": 12.599500000000035,
+      "bounds_sw_lat": 55.67375000000001,
+      "bounds_sw_lng": 12.599375000000038,
+      "plus_code_global": "9F7JMHFX+GQ",
+      "plus_code_local": "MHFX+GQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/3170496496425235/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481785107_1065711965600701_3269741199232693343_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SX6CKMZxLE8Q7kNvgHtJz3v&_nc_oc=AdjWGcXiMAdcPVDEOYgc7okbaBsF_b1Qms7TzMKwjPb-GGiHqplPAQ-X6jbiASq4c8g&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Aa9RdQk5Oyf_S1w1bFu1Hgy&oh=00_AYFk4p8LXsttJwLdwnmxM5VXjhXkmG98nGQLAAYzaMsXqw&oe=67D67B26",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Operaen Christiania",
+    "page_url": "https://www.facebook.com/operaenscafe/events"
   }
 ]

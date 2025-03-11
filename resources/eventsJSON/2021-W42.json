@@ -10,22 +10,22 @@
     },
     "location": {
       "name": "ICC Theatre - Improv Comedy Copenhagen",
-      "address": "Frederiksholms Kanal 2",
-      "city": "Copenhagen",
-      "country": "DK",
-      "latitude": 55.676062500000015,
-      "longitude": 12.574812500000021,
-      "bounds_ne_lat": 55.67612500000001,
-      "bounds_ne_lng": 12.57487500000002,
-      "bounds_sw_lat": 55.676000000000016,
-      "bounds_sw_lng": 12.574750000000023,
-      "plus_code_global": "9F7JMHGF+CW",
-      "plus_code_local": "MHGF+CW",
-      "plus_code_locality": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/470017107042987/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YdhE-4kiC2oQ7kNvgEvlBBq&_nc_oc=AdhJ9_7Iua0r2dW9mbQgSUqVDw9GnsQ747QdrQOmBYbKWckGc8wZKjfSNUn7qHU-LWY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AvwFlCsJeIvsOm6UvKOawRV&oh=00_AYH_m2eZZboJWY7yfMAStxm-x-ki9EioLD3cBMVpNTJH2g&oe=67F2C0C8",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AQQ8idU95nkQ7kNvgF5AhAK&_nc_oc=Adj9TJtLf5HdkEF8SsQrwP5wryP5ihyJY1OsKyn47GfE2SVS5mm4XnaUqlY1FlJKf3E&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AcuyQ7oJnDQFS5qlZWgpJs1&oh=00_AYFmVLo5Sgp6_6WO4dM8hpp9gCMkLvl-qGX2Oqjt8zbUhw&oe=67F806C8",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/4821630954526341/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OluTNjMJZqQQ7kNvgFZZsbt&_nc_oc=Adiibl2aRY7OhoG2e78WA9XC_sHoQtdq8D3bqaRVcJCOSC3X5VVwVNZ9O0ICrQWXRQs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AwV0edBvLGcPEOZtx94YCvL&oh=00_AYFK6WT9K8l7Oa0Hddn3maPprP6mTRmQelzzAo_JI83uyw&oe=67D12CE9",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MLMakt9SaCoQ7kNvgEHCGAs&_nc_oc=AdiY98zw9ELT2fB9PI9ciDIrNzgeDTvuTE6EFl2Sxq3yI6YvU04H3NiJw-2k1xlaOc4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AZFnyfXYBEht8AZIJCOZxe5&oh=00_AYG4nK-_qa3LbYGDPLmqPygSlWqJfk6wc3kZIDbJIN-6Xw&oe=67D672E9",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -70,38 +70,6 @@
     "date": {
       "start_timestamp": 1634580000,
       "end_timestamp": 1634586300,
-      "timezone": "UTC+02"
-    },
-    "location": {
-      "name": "Det Ny Teater",
-      "address": null,
-      "city": "",
-      "country": null,
-      "latitude": 55.673187500000026,
-      "longitude": 12.5553125,
-      "bounds_ne_lat": 55.673250000000024,
-      "bounds_ne_lng": 12.555374999999998,
-      "bounds_sw_lat": 55.67312500000003,
-      "bounds_sw_lng": 12.555250000000001,
-      "plus_code_global": "9F7JMHF4+74",
-      "plus_code_local": "MHF4+74",
-      "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Vesterbro-Kongens Enghave"
-    },
-    "url": "https://www.facebook.com/events/388199572857663/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cZNr0OwxKP8Q7kNvgE8chAc&_nc_oc=AdgA9nTcRvU27RnF4UWMYSjxPKE7K2i_sB3DBEa-uCDLCDqQcS1s0y1aPw5LDGv1PX8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AwA_kUvBUCk5gjn5kJVrnxK&oh=00_AYH3wWH8f2yN7N5E5H_cnYv77oYlskOmld9sy75d2OYT1Q&oe=67D121D7",
-    "tag": "COMEDY",
-    "platform": "Facebook",
-    "page_name": "Copenhagen International Improv Festival - CIIF",
-    "page_url": "https://www.facebook.com/cphimprofestival/events"
-  },
-  {
-    "id": "407678980803899",
-    "name": "CIIF’21 Premium Show Saturday 23/10 at Det Ny Teater",
-    "description": "Come see the funniest English comedy shows happening in Copenhagen this autumn at Copenhagen International Improv Festival. Det Ny Teater is a perfect venue for comedy and you are guaranteed to have a good time when our world class comedy improvisers takes the stage.\n\nGet your ticket here: https://www.improvcomedy.eu/event/ciif21-premium-show-saturday-23-october/\n\nDuring this CIIF21 Premium show there will be performances by:\n\nStranger Things Have Happened (NL)\n\nStranger Things Have Happened is proud to bring to Copenhagen their classic brand of razor fast, whip smart short form improv comedy. Incorporating musical numbers, murder, mildly irritating relatives, searches for love, communing with the occult and of course our beloved rubber duck, you never know what you will get at a Stranger Things Have Happened show! So get your weirdest and most wonderful\nsuggestions ready, and join us on an adventure into the unexpected.\n\nICC – Murder of Crows (DK) \n\nEverybody cheats and lies, in this dark and dingy world inspired by the film genre from the 1920’s and 40’s. No one can be trusted, or can they? All MURDER OF CROWS shows are uniquely different as you the audience provide the title which inspires the show. Past shows include “The Mystery of the Wet Chandelier,” “Sink the Blue Turtle” and “The Worst of the Two Deadly Sins.\n\nCIIF All-Stars (US & CA) \n\nThe CIIF All-start show cast is comprised of some of the most brilliant professional North American improvisers ever to step foot on European soil! The cast has 100 years+ of improv experience among them. Their Bios are some of the most impressive back home. If you want to see absolute top-shelf improv this is the show you can’t miss!",
-    "date": {
-      "start_timestamp": 1635013800,
-      "end_timestamp": 1635020100,
       "timezone": "UTC+02"
     },
     "location": {
@@ -120,20 +88,20 @@
       "plus_code_locality": "Copenhagen, Denmark",
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
-    "url": "https://www.facebook.com/events/407678980803899/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9yLkxCnc2tUQ7kNvgGyuubl&_nc_oc=AdiElZ92HWWFwTNIHPpzGXtsEWB9kyC7Th0_5Vj6Cp4t7QPcNdiT8IkN0otJW0VFJ1g&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ABUx46gyhHMIEZtlqCuquJy&oh=00_AYFo3Ybvpsd8jW1vaeaWhh4w39zeExEHZ-9LcNEW7q8Uew&oe=67D14D3F",
+    "url": "https://www.facebook.com/events/388199572857663/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6RLRQmQm0m8Q7kNvgEYOL_t&_nc_oc=AdgV4t501BYF1KuTpdkID9SNDd8FbShFCkCt_5dha2mQSSqn6Sa0itTB_1MM2Vb-vjQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AZqNaj87WFx2FigfjOg5ep3&oh=00_AYFx0e_daRMGEjEqFpCRBdVq4O9Q1Re1XyqTtsXdgXCXpQ&oe=67D667D7",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
     "page_url": "https://www.facebook.com/cphimprofestival/events"
   },
   {
-    "id": "842139303112377",
-    "name": "CIIF’21 Premium  Show Friday 22/10 at Det Ny Teater",
-    "description": "Come see the funniest English comedy shows happening in Copenhagen this autumn at Copenhagen International Improv Festival. Det Ny Teater is a perfect venue for comedy and you are guaranteed to have a good time when our world class comedy improvisers takes the stage.\n\nGet your ticket here: https://www.improvcomedy.eu/event/ciif21-premium-show-thursday-21-october-2/\n\nDuring this CIIF21 Premium show there will be performances by:\n\nFree Foxes (NO)\nA two-person improvised show that plays with humor, tension and dynamics – exploring the light and dark between us. Kristīne Slotina and Kevin Gow conjure suspenseful characters and scenarios out of thin air. Experience stories discovered before your very eyes.\n\nICC – Improv Made You a Mixtape (DK)\nRewind to your dearest, weirdest, most fabulous music memory and loop us in on why a certain song or album is so special to you.As the Rockstar that you are, expect to be interviewed about your song or album choice. We will take anything and everything:\n\nFrom songs you dance to with your sweetheart to the track you lost your virginity to. From that one album that gets you to do the extra burpee to a breakup anthem.From your current on-repeat tune to that thing you play when you miss home. The possibilities are endless! Next, sit back and watch us untangle the lyrics, vibe, and sound of your treasured tunes as we press play on an entirely improvised show based on your song or album suggestion. Frequencies are expected to range from AM(azing) to FM (fu&#ing memorable, duh). Fast forward to after the show, when your cheeks hurt from laughing and all of your song suggestions are bundled up into a mixtape, we made for you.\n\nCIIF All-Stars (US & CA) \n\nThe CIIF All-start show cast is comprised of some of the most brilliant professional North American improvisers ever to step foot on European soil! The cast has 100 years+ of improv experience among them. Their Bios are some of the most impressive back home. If you want to see absolute top-shelf improv this is the show you can’t miss!",
+    "id": "407678980803899",
+    "name": "CIIF’21 Premium Show Saturday 23/10 at Det Ny Teater",
+    "description": "Come see the funniest English comedy shows happening in Copenhagen this autumn at Copenhagen International Improv Festival. Det Ny Teater is a perfect venue for comedy and you are guaranteed to have a good time when our world class comedy improvisers takes the stage.\n\nGet your ticket here: https://www.improvcomedy.eu/event/ciif21-premium-show-saturday-23-october/\n\nDuring this CIIF21 Premium show there will be performances by:\n\nStranger Things Have Happened (NL)\n\nStranger Things Have Happened is proud to bring to Copenhagen their classic brand of razor fast, whip smart short form improv comedy. Incorporating musical numbers, murder, mildly irritating relatives, searches for love, communing with the occult and of course our beloved rubber duck, you never know what you will get at a Stranger Things Have Happened show! So get your weirdest and most wonderful\nsuggestions ready, and join us on an adventure into the unexpected.\n\nICC – Murder of Crows (DK) \n\nEverybody cheats and lies, in this dark and dingy world inspired by the film genre from the 1920’s and 40’s. No one can be trusted, or can they? All MURDER OF CROWS shows are uniquely different as you the audience provide the title which inspires the show. Past shows include “The Mystery of the Wet Chandelier,” “Sink the Blue Turtle” and “The Worst of the Two Deadly Sins.\n\nCIIF All-Stars (US & CA) \n\nThe CIIF All-start show cast is comprised of some of the most brilliant professional North American improvisers ever to step foot on European soil! The cast has 100 years+ of improv experience among them. Their Bios are some of the most impressive back home. If you want to see absolute top-shelf improv this is the show you can’t miss!",
     "date": {
-      "start_timestamp": 1634927400,
-      "end_timestamp": 1634933700,
+      "start_timestamp": 1635013800,
+      "end_timestamp": 1635020100,
       "timezone": "UTC+02"
     },
     "location": {
@@ -152,8 +120,40 @@
       "plus_code_locality": "Copenhagen, Denmark",
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
+    "url": "https://www.facebook.com/events/407678980803899/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=krZSdJnjNEsQ7kNvgEuKJ3e&_nc_oc=AdgMJr4Qn1_9CLtApgg6jrOnZPcU6HZFTJuQKHiRDOul1k-YfP2LdTRJzkHUtftR5Vc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Agn6uXuXJ2Q39HwZwJh9b0S&oh=00_AYH2LQsDmK0DO7LmVR2g54Kz3uPzYRxxQSoweJGkg7We1A&oe=67D65AFF",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Copenhagen International Improv Festival - CIIF",
+    "page_url": "https://www.facebook.com/cphimprofestival/events"
+  },
+  {
+    "id": "842139303112377",
+    "name": "CIIF’21 Premium  Show Friday 22/10 at Det Ny Teater",
+    "description": "Come see the funniest English comedy shows happening in Copenhagen this autumn at Copenhagen International Improv Festival. Det Ny Teater is a perfect venue for comedy and you are guaranteed to have a good time when our world class comedy improvisers takes the stage.\n\nGet your ticket here: https://www.improvcomedy.eu/event/ciif21-premium-show-thursday-21-october-2/\n\nDuring this CIIF21 Premium show there will be performances by:\n\nFree Foxes (NO)\nA two-person improvised show that plays with humor, tension and dynamics – exploring the light and dark between us. Kristīne Slotina and Kevin Gow conjure suspenseful characters and scenarios out of thin air. Experience stories discovered before your very eyes.\n\nICC – Improv Made You a Mixtape (DK)\nRewind to your dearest, weirdest, most fabulous music memory and loop us in on why a certain song or album is so special to you.As the Rockstar that you are, expect to be interviewed about your song or album choice. We will take anything and everything:\n\nFrom songs you dance to with your sweetheart to the track you lost your virginity to. From that one album that gets you to do the extra burpee to a breakup anthem.From your current on-repeat tune to that thing you play when you miss home. The possibilities are endless! Next, sit back and watch us untangle the lyrics, vibe, and sound of your treasured tunes as we press play on an entirely improvised show based on your song or album suggestion. Frequencies are expected to range from AM(azing) to FM (fu&#ing memorable, duh). Fast forward to after the show, when your cheeks hurt from laughing and all of your song suggestions are bundled up into a mixtape, we made for you.\n\nCIIF All-Stars (US & CA) \n\nThe CIIF All-start show cast is comprised of some of the most brilliant professional North American improvisers ever to step foot on European soil! The cast has 100 years+ of improv experience among them. Their Bios are some of the most impressive back home. If you want to see absolute top-shelf improv this is the show you can’t miss!",
+    "date": {
+      "start_timestamp": 1634927400,
+      "end_timestamp": 1634933700,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Det Ny Teater",
+      "address": "Gammel Kongevej 29",
+      "city": "Copenhagen",
+      "country": "DK",
+      "latitude": 55.673187500000026,
+      "longitude": 12.5553125,
+      "bounds_ne_lat": 55.673250000000024,
+      "bounds_ne_lng": 12.555374999999998,
+      "bounds_sw_lat": 55.67312500000003,
+      "bounds_sw_lng": 12.555250000000001,
+      "plus_code_global": "9F7JMHF4+74",
+      "plus_code_local": "MHF4+74",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
     "url": "https://www.facebook.com/events/842139303112377/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UCorP7UguLQQ7kNvgETWKoS&_nc_oc=AdiWaHTtRKCA9Ej4pBAX6w73MIYFlo3uYslnlM1wt4mA4vcbze1t7oU-uyucdkMGFck&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AJZ0Mxvd0ENOclcuF85iKTh&oh=00_AYH0G7X4Xp8gP9Pop6bkStYGWUYETxd81nXVBe6o_YF0LA&oe=67D13B55",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JIeKcdl1Tt4Q7kNvgGMISPm&_nc_oc=Adglm7vEnFPAE--aou7Xt9JYY1APr8NIkQV9Z5as6FO5mQjevoCwnPfVc0sSxHYfUvM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AR5VhqhBpaR2PUlKaesHglY&oh=00_AYFop3CW2hKmRoGNCJBxblmqaya1jy0UtwXfKDdlfSU8Zg&oe=67D68155",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",

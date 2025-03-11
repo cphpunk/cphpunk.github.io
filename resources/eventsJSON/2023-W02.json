@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Støddæmperen",
-      "address": null,
+      "address": "Rentemestervej 57",
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.707312499999986,
       "longitude": 12.524687500000013,
       "bounds_ne_lat": 55.707374999999985,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/1753815515019732/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/325482674_857400262163224_85094902180276663_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BbFrnQwKyE0Q7kNvgEL-zqA&_nc_oc=AdiV7hP_9OX1NUjeirp0G2dAaCHvBElS2-GHNQDI5uxl1hSI5bL2E6jvxAL8bilXxeg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AzDgvy_svYa4lGhQVQnD2xL&oh=00_AYE37-IACRwi408VORECjc7IlxK4kZ9FG5C_7vSHv6kUdQ&oe=67D133D4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/325482674_857400262163224_85094902180276663_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3k0PzFEpAEwQ7kNvgFfp-jg&_nc_oc=AdgaVpagS1Ovz_yW-8nGWCagAHp8uwo_lQdwhWIaU6fkhr7BmQgK-trWIVYNPlZyQJk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AOQfeZFCmnpax_u7glvKov5&oh=00_AYHv5mDGhliBCVr9L0ym7zMS6R6CehzX9-UP7LLHleDCGQ&oe=67D679D4",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Støddæmperen",

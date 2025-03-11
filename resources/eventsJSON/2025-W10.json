@@ -1004,7 +1004,7 @@
       "name": "Stengade 50, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68718750000001,
       "longitude": 12.554312499999995,
       "bounds_ne_lat": 55.687250000000006,
@@ -1017,11 +1017,11 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1973189189872167/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481467775_1196518699150027_4030577225471244067_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=33lSAk_undMQ7kNvgFAlxMv&_nc_oc=AdhoLZyUw-pKwjpnewW7QsGKkp94pXillPT3dSQSE6aA4Pu3ZyIM-lIilWul7aTrAJg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AiPpwYx7To3r7EMrWRzN9PH&oh=00_AYH1vbOddiuuIWhtv0zMRgAGnyt8WhE57F27eE_Iivzi9g&oe=67D13897",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/481467775_1196518699150027_4030577225471244067_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YX51j_RcWugQ7kNvgHRdJPC&_nc_oc=AdiyM4UroBNTy4x_7POlxgEeQwFVuhYe_ZEtTB3BrRKkev_jNflVLBNnmnz9y1hxY5k&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AMsccjseofQt3Av1HwXnoSW&oh=00_AYGcZgn4e3PHZJpUNcJzzwGFmZJYI2_UHXxwHS7X02wyog&oe=67D67E97",
     "tag": "ACTIVISM",
     "platform": "Facebook",
-    "page_name": "Folkets Hus",
-    "page_url": "https://www.facebook.com/folketshus50/events"
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   },
   {
     "id": "978062054261961",
@@ -1177,7 +1177,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1276367380105157/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/480179239_606833038864450_1753403013447013958_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pjPp4Sca7KkQ7kNvgFWP-jt&_nc_oc=Adg0IxefklZAlIRK0FwyZrR80lqJfuGTKagAVxabcFr8AxS5R8skcjbTflaKrTmlkG0&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=A1fHKBvaxEfNK15nJb1Mewg&oh=00_AYH-zoUxt36zUatjygxvn9amNpLLaIk7j-be7F3f4vgAcA&oe=67D12B8E",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/480179239_606833038864450_1753403013447013958_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YYmie4u41QwQ7kNvgGVC7e0&_nc_oc=AdjqEmNf3vnDEENzFjqxXtuwmNimU6R3Eu1CdLN-Fv1JACOuno5zrl1ZvDaDpj2_UTU&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=AjvG3_bs_dLRa-8_9YlVM2z&oh=00_AYGAW41pZBsg94gxWAlAAQ30_huMm-TQJBMuGARdUFhyWw&oe=67D6718E",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "Olla Común Folkekøkken",
