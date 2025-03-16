@@ -12,7 +12,7 @@
       "name": "Kongens Nytorv 9, 1055, København K, Hovedstaden",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67943750000002,
       "longitude": 12.586187500000008,
       "bounds_ne_lat": 55.67950000000002,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/931688355756556/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481172000_1267009131651995_8450062914300556369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lmJrMlf-yIQQ7kNvgEJUE4Y&_nc_oc=AdgS1AKP9fOljMB6svY_tdu7fqwEYREaGluK6UNEFYOjJL4BMPR0ZLVWzBa3eVblpQo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=A48krd4NryTD8UZpWVup7ms&oh=00_AYHXEIltN_jqAHvv6i3Whle42KGiEAMyED_L9yLFFLUhqA&oe=67D67546",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/481172000_1267009131651995_8450062914300556369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I9oy-fcfZNcQ7kNvgFHxB1f&_nc_oc=AdgnIXVRBkWfcSk9Pi8FodvZdJrb8CR3X2oRegOWXLKEfdaI9glbQvYe-XOEClrmW6s&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=jh5WQIMlEZ8DaOKAC0mO9g&oh=00_AYGXCmH7401IeHq8m99eCGop-REUNG6Y8X4STAn2mMo1Yw&oe=67DCD486",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Photo Festival",
@@ -57,8 +57,72 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1158989375702091/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481077026_1272006427818932_5855046313024868152_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZoZBDjvmNUQQ7kNvgFFe1NL&_nc_oc=Adh0IsbPUUprNnw_fWej8qIBltrSRDHIGVVYJmlEpyBE1GsD4KXgKf3pxn1czCFtWY4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ABVimw-9dK_hyrstBRoET6C&oh=00_AYFYzHUP5P-KTB9NmyOiucUPMfvEqDLXq3ZNeqCCI5OQ9Q&oe=67D67C4E",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/481077026_1272006427818932_5855046313024868152_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LgooczqzzBAQ7kNvgEaEeZ-&_nc_oc=Adi0nISn9Jq1ML4TkVm1Bnqn3Mq-FFTBlLuLQiqW-NqCIyRECMcCygl6Vb2Yp0S3fYY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=QyaaP6u9S_126os26qYrtg&oh=00_AYFDpySjMWb4f010XtZ3kuvZIqsnF3cQnQKnNTgyuLqvVA&oe=67DCA34E",
     "tag": "ART",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Photo Festival",
+    "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
+  },
+  {
+    "id": "1175567864099253",
+    "name": "Workshop · Polaroid Transfer · CPF +",
+    "description": " Tag med på 3 timers Polaroid Transfer workshop i festival centrum, hvor du vil lære at lave smukke Polaroid Transfer tryk. \n\n På workshoppen vil der være en kort introduktion til Polaroid kameraer, Polaroid Lab og Polaroid film, en demonstration af teknikken hvorefter deltagerne selv prøver teknikken og dens muligheder.\n\n Vi arbejder med at skille polaroidfotografiet fra hinanden og løfte den ultra tynde billedbærende emulsion fra polaroidfotografiet hen på fx et lækkert stykke papir, en lille flise eller andet.\n\n Teknikken er vanedannende og kalder på dybe vejrtrækninger, koncentration og kreativitet.\n\n Workshoppen kræver ikke nogen forkundskaber, blot mod på at lære nyt og lade sig inspirere. \n\n Underviser: Sille Juline Høgly Petersen\n\n Mødetid: kl. 11.00-14.00\n\n Sted: CPFs venue · Lille Mølle, Christianshavns Voldgade 52, 1432 København\n\n",
+    "date": {
+      "start_timestamp": 1749978000,
+      "end_timestamp": 1749988800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Christianshavns Voldgade 52, 1432, København, Hovedstaden",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67143750000001,
+      "longitude": 12.596312499999996,
+      "bounds_ne_lat": 55.67150000000001,
+      "bounds_ne_lng": 12.596374999999995,
+      "bounds_sw_lat": 55.67137500000001,
+      "bounds_sw_lng": 12.596249999999998,
+      "plus_code_global": "9F7JMHCW+HG",
+      "plus_code_local": "MHCW+HG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1175567864099253/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484114682_1279513263734915_4456124494079475564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mhKO1eDPfB4Q7kNvgGpeYbT&_nc_oc=AdgxoeN9kt7AHvVjFVM7vZpt4MkYHfoc8awtdkTuo7vug6--J3xA1NQxOHPfIh-mZNs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=yL48MKXdS5gNdmBicrTcog&oh=00_AYEbR-UPWfLeNYoGiei2dw17MwbdSgJA1RvYy3MWRAeTaQ&oe=67DCB9A3",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Photo Festival",
+    "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
+  },
+  {
+    "id": "508664072044436",
+    "name": "Workshop · Cyanotypi tryk",
+    "description": " Tag med til Cyanotypi workshop og lær at beherske en poetisk og meget taktil fotografisk teknik fra 1800-tallet, hvor du eksponerer billeder i det fri ved hjælp af solen og fremkalder dem med vand.\n\n Når du arbejder med Cyanotypi, er lyset nemlig din medspiller, og resultatet er kendetegnet ved sine smukke blå og violette farver. Processen er unik, idet det er en form for fotografering, der ikke kræver et kamera eller et mørkekammer. Og mulighederne for at udfolde sig kreativt er uendelige.\n\n Hvad er Cyanotypi? \n\n Cyanotypi stammer fra græsk og betyder ‘mørk blåt aftryk’, hvilket refererer til billedernes karakteristiske farveskala. Teknikken blev opfundet af Sir John Herschel i 1842 og er baseret på en lysfølsom emulsion, som reagerer på ultraviolet lys, for eksempel sollys.\n\n Man placerer blade, papirklip, negativer, mm direkte på papir, som er bestrøget med en lysfølsom emulsion og lader sollyset eksponere papiret, så der skabes en silhuet effekt. Ingeniørere brugte processen langt ind i det 20. århundrede som en enkel og billig proces til at producere kopier af tegninger, kaldet blåtryk. Teknikken bruges i dag primært af kunstnere. \n\n Undervisere: Barbara Katzin og Charlotte Siewartz fra Fotografi på Godsbanen\n\n Mødetid: kl. 11.00-14.00\n\n Sted: Lille Mølle, Christianshavns Voldgade 52, 1424 København K\n\n Pris: 550 kr. \n\n Find flere workshops på copenhagenphotofestival.com\n\n ",
+    "date": {
+      "start_timestamp": 1749891600,
+      "end_timestamp": 1749902400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Christianshavns Voldgade 52,, 1432, København, Hovedstaden",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67143750000001,
+      "longitude": 12.596312499999996,
+      "bounds_ne_lat": 55.67150000000001,
+      "bounds_ne_lng": 12.596374999999995,
+      "bounds_sw_lat": 55.67137500000001,
+      "bounds_sw_lng": 12.596249999999998,
+      "plus_code_global": "9F7JMHCW+HG",
+      "plus_code_local": "MHCW+HG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/508664065377770/?event_time_id=508664072044436",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484566729_1279561400396768_4621846349156848089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=awBRriBKvpgQ7kNvgGAaliH&_nc_oc=AdiS4-GQNook12KUXV9oHcfEmDWyhnfVmZroqswiEoOkDqEfvXf6T7Va5mK7dJ26MmY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=TELyUL9jEaAfVvH79z9REA&oh=00_AYGE94Mn6XI6l__h8qbbrDPF9WMmVeeK1UrxaI73BGHXaQ&oe=67DCB3C7",
+    "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Photo Festival",
     "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"

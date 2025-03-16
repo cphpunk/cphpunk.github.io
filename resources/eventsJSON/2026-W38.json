@@ -5,14 +5,14 @@
     "description": "On September 19-20, 2026, the World Athletics Road Running Championships will take place in Copenhagen for an unforgettable weekend.\n\nIt’s three iconic races in One Mile, 5K, and the Half Marathon distance. It’s a fierce battle for six iconic titles and a festive event for 65,000 runners.\n\nIn other words:\n3 iconic races\n6 world champions\nand 65,000 runners-up.\n\nFrom March 6 to March 20 you can submit your entry for the Half Marathon. One Mile and 5K will go for sale in late April.\n\nThe World Athletics Road Running Championships Copenhagen 26 is hosted for World Athletics by Danish Athletics and Sparta Athletics & Running, in collaboration with the City of Copenhagen, Sport Event Denmark, and Wonderful Copenhagen.\n\n\n",
     "date": {
       "start_timestamp": 1789803000,
-      "end_timestamp": 1789909200,
-      "timezone": "UTC+02"
+      "end_timestamp": 1789810200,
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Gunnar Nu Hansens Plads 11, 2100 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70468749999999,
       "longitude": 12.573812500000017,
       "bounds_ne_lat": 55.70474999999999,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/1142791363741706/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/479192142_122147760950499563_4016000071188734822_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Wk-NLf3z6MkQ7kNvgH-Q18d&_nc_oc=AdiJxViu1j-hMc0mLsnRanZ5hrPb1PyCIP25Jyp1sGOH5OMI2U5DfD_8pan5oITphOc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AqjfsN4_uJSyKsK2VIu4ESG&oh=00_AYGpyztCL4zLUD3QJzrzlwsjUz0DGr4LQUFBAExvhRaTqg&oe=67D66A29",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/479192142_122147760950499563_4016000071188734822_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4Vkr9NCcNhQQ7kNvgGqFeau&_nc_oc=AdiL6tHsDnPkpix1h5teLax4I6XE2HjW55uKPejuyI0gQV8RvVS0JBaS1BJXw7Lt0vE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=uip3-DVhRalNuhjGrnN4dw&oh=00_AYEafXpKlLGh8kBoAlpE7dJ2Bddomt-ezQWZ_FixaklJnw&oe=67DCC969",
     "tag": "SPORTS",
     "platform": "Facebook",
     "page_name": "Copenhagen Half Marathon",

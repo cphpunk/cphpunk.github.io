@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Øksnehallen",
-      "address": null,
+      "address": "Halmtorvet 11",
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.66943750000003,
       "longitude": 12.56206250000001,
       "bounds_ne_lat": 55.66950000000003,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/357557395932568/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/470187115_8623211917777237_7746078661005034763_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TXnNmXdtw3wQ7kNvgFVnkkt&_nc_oc=AdhkkA63sj52Ml94Ft-Y7RWXAyAEWwdRqthGXM8R5Rs8cJPr-luT6PtfgJFS6Ilu9Yk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AwLZ8DiVw45qpPm4vfAeLKm&oh=00_AYH2qHIvYjeCsuU0Vop3gtclWbKrsXQAqrhcDDb7h5k7ag&oe=67D65BB6",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/470187115_8623211917777237_7746078661005034763_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=yLYyRGAhowsQ7kNvgEzLlAc&_nc_oc=AdgP479wKH20JyQ6QPLRcu2mTfGlDgzy5GfezB2HF4HZ-CfgmA5zGR1HXt6bo4WMNqo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VOV1YmDD1GedwWA7LYJe7w&oh=00_AYH1zqJyPAK5htMxweyvpSv-Ox0A-TSDPr5rTeJ6y6-Qig&oe=67DCBAF6",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "TechBBQ",

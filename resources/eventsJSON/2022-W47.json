@@ -12,7 +12,7 @@
       "name": "Støddæmperen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.707312499999986,
       "longitude": 12.524687500000013,
       "bounds_ne_lat": 55.707374999999985,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/3127645387546705/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/467851856_536271305950183_6936385509656268735_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iFZxlD7xkQ4Q7kNvgEwY2H5&_nc_oc=Adg6OrQLq6jHKlMSfR71yOaadHQp0IfAlnW-ZVqZmfFPkntL1zi0DO9PATU6U89QsBg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AvDwiTcguogVpPwyyMFwHmZ&oh=00_AYFx4bG8QxBTPd3cbUg8Zdf_0sYlkifmH75CHvqnTjeacQ&oe=67D66330",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/467851856_536271305950183_6936385509656268735_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zNxtm-iA_rQQ7kNvgGBKEqg&_nc_oc=Adg_gNkhaJpLZpoI8Ur_YIsaLYBkn05wdIUd5UUKG4x7sy0J5Oh0RcLUo14YjKvIsFU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=RxKvJGNusllUEtjcrsqQ3A&oh=00_AYFEJ0847rcDu71WuCkcOm3U6FrYkXcTJv2Cmu_jbq5iHA&oe=67DCC270",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Støddæmperen",

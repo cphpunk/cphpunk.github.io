@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "URBAN 13",
-      "address": "Bispeengen 20A",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.694937499999995,
       "longitude": 12.535062499999995,
       "bounds_ne_lat": 55.69499999999999,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/906878519863514/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/283702905_2257623471082637_5520798202542873653_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=btfXyucVukoQ7kNvgFiJaiv&_nc_oc=Adg3XybVqRE3u_-Ghpl5KLe7m9A_eOVE5BiFwPd6T9rMihJllqplrbjuyYHD7-FTw48&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ak1Za1pAmaK2an8XbHHjBiQ&oh=00_AYEC9e1P5QIo1wc_Ehz2gcd0-o1SY_bDXzBhTIp_D89IYg&oe=67D66BBB",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/283702905_2257623471082637_5520798202542873653_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ba9kmvG8Y6MQ7kNvgE20__X&_nc_oc=AdhjxzhVBtXmifkLwAvXiVvP_FfLcNjOGKfboWCMJaaUtpJ5Pz9ssEiqU1OE5F_oCQU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=bqzDZ1i3vJ9SrcGqhm9J1w&oh=00_AYHegssYaK1QOkQvJ6T1AYH54Q6QRQKAHh3ELcLukiV-Ww&oe=67DCCAFB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Carpark Festival",

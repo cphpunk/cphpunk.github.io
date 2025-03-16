@@ -42,9 +42,9 @@
     },
     "location": {
       "name": "REBEL Work Space",
-      "address": "Dampfærgevej 27-29",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.69918750000001,
       "longitude": 12.594812500000003,
       "bounds_ne_lat": 55.699250000000006,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/629180220866113/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/53485377_2270912306302949_5377631180118032384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KogWghXYeSUQ7kNvgF7pFMr&_nc_oc=Adj81YKSRy7QDR3pzkS9nReZLNRXE2LKiaykFbmodwkem3eJ9dTfFTdn82wanfGRIeY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=A-5qMEV_OuWsCbbhqVClETe&oh=00_AYFcejpPXxcJND4V5YIUnqyGXE7bX0vQ_IUlAYSs37CzpQ&oe=67F7FE7A",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/53485377_2270912306302949_5377631180118032384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WuNsag_VqqEQ7kNvgGWFtop&_nc_oc=AdgzRThBVBx0Km_PBW8p0Rxjs1l6WSWbqc3mqozqu4A-XBxaAE9ijT0G8QknE8YMKF8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=yTDBTZaiDIgfSnETTltbJw&oh=00_AYGyLUNnPxe-00TtRnjiIBArq7njkkPnAanc4SRHo86wxg&oe=67FE5DBA",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Annual Copenhagen Film Festival",

@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-bo-evers-med-band",
+    "name": "Bo Evers med band",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Bo Evers er en moderne visesanger, der er kendt for sit umiddelbare sprog, sin karakteristiske nasale stemme, ekvilibristiske fingerspil og sine ærlige tekster. Bo Evers er netop aktuel med et nyt album “Liv”, som består af en samling numre der belyser livet fra forskellige vinkler i den vanlige, tragikomiske og poetiske stil, der er blevet Bo Evers adelsmærke: ”Det handler om at føle sig som en verdensmand, at være en bly viol med et glimt i øjet, at være for langt ude, at se verden fra et barns perspektiv og alt muligt andet der hører til et levet liv”, udtaler Bo Evers.\n </p>\n <p>\n  Nu er Bo Evers’ nye band, der tæller guitaristen Rune Funch, bassisten Emil Brun og trommeslageren Mads Andersen er klar til at præsentere de nye sange – og de gamle hits. Til koncerterne kombineres den legesyge musik og tekst, og det hele blomstrer op i en højere enhed, der sætter gang i både danseben, lattermuskler og tårekanaler, når drengenes musikalske nærvær strømmer fra instrumenterne og helt ned til de bagerste rækker.\n </p>\n <p>\n  Anmelderne roser Bo Evers’ koncerter som “en oplevelse ud over det sædvanlige” og “en aften, der går op i en højere enhed”.\n </p>\n <p>\n  Glæd dig til en intim og stemningsfuld koncert med musikalsk nærvær og gode historier.\n </p>\n <p>\n  Line-up:\n </p>\n <p>\n  Bo Evers – Vokal og guitar\n  <br/>\n  Rune Funch - Guitar\n  <br/>\n  Emil Brun - Bas\n  <br/>\n  Mads Andersen – Trommer\n </p>\n <h3>\n  Praktisk info:\n </h3>\n <p>\n  Torsdag den 23. oktober 2025\n  <br/>\n  Koncert kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg 150 kr. + gebyr / Dørsalg 170 kr.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1761242400,
+      "end_timestamp": 1761249600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/bo-evers-med-band",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-03/Bo%20evers%20med%20band.jpg?itok=eNrwZ7jf",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

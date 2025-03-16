@@ -12,7 +12,7 @@
       "name": "Langelinie Park, 1651 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69081250000001,
       "longitude": 12.59931250000001,
       "bounds_ne_lat": 55.690875000000005,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1152795679046331/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434453710_876529784484320_5510603626934875524_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Pa3ILK2fXocQ7kNvgErFqjQ&_nc_oc=Adg4H7JJovZifzmLneWC9mmk6U896y5qNOy9fwZZtvONLe8DFzMUJW-gcU5lqd7KwoQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AAClOAXI4UaPMI9Ae2QN-T8&oh=00_AYEGpeRaz3rcXmblJVxxXCY52Jb29i6kyHlUT6tLyskuHA&oe=67D66254",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434453710_876529784484320_5510603626934875524_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JPc-1LXUiMQQ7kNvgF_sFqO&_nc_oc=Adi9nUyverRcjDLImtnT-yRvmmqubj0TOXlL8M3vGOPG5n9Re5LfFU1INGFsJ1W8kO0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=_TOJ_bbR5S5f-Q-0AyguvQ&oh=00_AYEIGiFC8MNt-PA4zYkEznd1mBOayWgXsN-qwifn28cffQ&oe=67DCC194",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Sakura Festival",
@@ -37,14 +37,14 @@
     "description": "Do you already know which day you’ll be attending this year’s Copenhagen Sakura Festival? 👀\n\nHelp others anticipate the approx. number of participants by clicking ‘Attending’ on the day(s) you’d like to come by.\n\nOur team wish for everyone to be safe and to be able to move around freely on the limited space that Langelinie has to offer. \nWe thank you all for your understanding, cooperation and continued support! 💗\n\nThe festival's entrance is free as always.\n\n- Copenhagen Sakura Festival Team",
     "date": {
       "start_timestamp": 1713690000,
-      "end_timestamp": 1713697200,
-      "timezone": "Europe/Copenhagen"
+      "end_timestamp": 1713708000,
+      "timezone": "UTC+02"
     },
     "location": {
       "name": "Langelinie Park, 1651 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69081250000001,
       "longitude": 12.59931250000001,
       "bounds_ne_lat": 55.690875000000005,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/457506609983001/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/437534690_876530754484223_1362651740304492602_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pwkDJ6JZbmgQ7kNvgG40czN&_nc_oc=AdhhQMK7SYlaX5unofsbi5jsfybw2qTzMAQxD4F89NsvR73rw2MwHj2GKwD6cYTcm68&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AgYYfIgt31dDndAK-YgZsn4&oh=00_AYGrP0shNlA-uQ780URN7WmIQmewctPpjrbBjQ8E3XzJjA&oe=67D6560B",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/437534690_876530754484223_1362651740304492602_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I9SacdLKM0kQ7kNvgHuai_P&_nc_oc=AdhegAbzpbQU_ixPHJ8MunGiZPuSlV5DZ7wpX_0q5B3hEFFFAybiyYDu57DCkwaGGC0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=FNjmSjkozn0bXmw-9A2fFA&oh=00_AYGI1lv596ixEt0ph9IBnEMufA2NtvA1pbXRHfBewZDdWg&oe=67DCB54B",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Sakura Festival",
