@@ -1662,5 +1662,69 @@
     "platform": "Facebook",
     "page_name": "Glyptoteket",
     "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "cphdox-tv-2-kys-det-satans-liv",
+    "name": "TV-2: Kys det satans liv",
+    "description": "Irony is reined in and truths are revealed in a warm and openhearted film about Denmark's oldest (and in their own words most boring) band.\n\nJesper Skaaning / Denmark / 2025 / World Premiere / 54 min",
+    "date": {
+      "start_timestamp": 1743440400,
+      "end_timestamp": 1743444000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "DFI / Cinemateket",
+      "address": "DFI / Cinemateket, Copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://cphdox.dk/film/tv-2-kys-det-satans-liv/",
+    "image_url": "https://cphdox.dk/wp-content/uploads/2025/02/1688905-640x360.jpeg",
+    "tag": "MOVIE",
+    "platform": "CPH DOX",
+    "page_name": "CPH DOX",
+    "page_url": "https://cphdox.dk/schedule/?date=20250331"
+  },
+  {
+    "id": "cphdox-miyazaki-spirit-of-nature",
+    "name": "Miyazaki – Spirit of Nature",
+    "description": "A fascinating tour of Japanese animation genius Hayao Miyazaki's imaginative universes, his 40-year career and not least his spirited view of nature and the world around us.\n\nLeo Favier / France / 2024 / 82 min",
+    "date": {
+      "start_timestamp": 1743518700,
+      "end_timestamp": 1743523800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "DFI / Cinemateket",
+      "address": "DFI / Cinemateket, Copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578562500000018,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.578625000000017,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.57850000000002,
+      "plus_code_global": "9F7JMHMH+7C",
+      "plus_code_local": "MHMH+7C",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://cphdox.dk/film/miyazaki-spirit-of-nature/",
+    "image_url": "https://cphdox.dk/wp-content/uploads/2025/02/1711734-640x360.jpeg",
+    "tag": "MOVIE",
+    "platform": "CPH DOX",
+    "page_name": "CPH DOX",
+    "page_url": "https://cphdox.dk/schedule/?date=20250401"
   }
 ]

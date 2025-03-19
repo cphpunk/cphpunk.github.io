@@ -48,7 +48,7 @@
         },
         {
             "name" : "Categories",
-            "version" : 0.14,
+            "version" : 0.16,
             "type" : "CategoryFilter",
             "filters" : {
                 "MUSIC" : {
@@ -92,12 +92,15 @@
                 },
                 "QUIZ" : {
                     "enabled" : true
+                },
+                "CPH:DOX" : {
+                    "enabled" : true
                 }
             }
         },
         {
             "name" : "Sources",
-            "version" : 0.14,
+            "version" : 0.15,
             "type" : "SourceFilter",
             "filters" : {
                 "Extinction Rebellion Danmark": {
@@ -481,6 +484,10 @@
                     "url": "https://www.facebook.com/groups/161834943877755/events"
                 },
                 "Metronomen": {
+                    "enabled": true,
+                    "url" : "https://www.facebook.com/metronomenfrb/events"
+                },
+                "CPH DOX": {
                     "enabled": true,
                     "url" : "https://www.facebook.com/metronomenfrb/events"
                 }
