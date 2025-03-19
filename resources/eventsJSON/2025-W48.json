@@ -12,7 +12,7 @@
       "name": "Cinemateket",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/9214440812005193/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471795213_1139777191493323_1320941572941370602_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iH3xCL5oELAQ7kNvgGdtWbl&_nc_oc=AdiGxxHAfMamjv8zWDb-feNWFa6JpxO0l-K3U84aN38B7lSkb__xIDGjDyaMwe1DaDk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=l9A63-eq0RVNoFixquFDAQ&oh=00_AYFD0WlCVRkVOojg6Mfxe9Ofnbn1ZZci-sinok2O9u0t1g&oe=67DCCFD4",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471795213_1139777191493323_1320941572941370602_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=p4t6xiqPdYIQ7kNvgFYkgbI&_nc_oc=AdkLwKnlA3-Lq4NY-mHYRO5ddH0Gstcye59X8PwiPpcSTdbr-osKZIqrhPra8c1v120&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=tDFvZGh6UPb2K3VhjqyyGg&oh=00_AYFonAQ_hhKBL78Si39muFXwCP43KOLlv33020zQeiZXYg&oe=67E0FC94",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Nordic Adventure Film Festival - NAFF",

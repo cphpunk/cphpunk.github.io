@@ -57,7 +57,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1247720022981286/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475783702_962735459321068_7150424972155407764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=B-LAlDRep9UQ7kNvgHwh0n7&_nc_oc=AdgoYtYP6PSFghmyhu5-X-sFzIcXueJbn1X2gt3_fvVwn0V-7at0cA0pmfasEfVNOiQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=uVa-Rs-aTsdvjdLMe48rPg&oh=00_AYHuPNpsuhhL8kBDzKO1kT93QIc0ERbGJX6GlU4Rr6jI5A&oe=67DCABD8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475783702_962735459321068_7150424972155407764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Tt1X-D50qNcQ7kNvgHGWZuw&_nc_oc=Adn20Dl2mwkGyRzb-m4OiDthD9Vy3ApyDSVcfcaMVvjELPnh3fx-3JcKCaab3txJmuA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=qztQBaAXkAA-wRw-FD3Ytw&oh=00_AYH0wlc6UqCY1v6QAkijjMlchQxk4Z38DarW98hk0JhALg&oe=67E0D898",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
@@ -76,7 +76,7 @@
       "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6659375,
       "longitude": 12.5805625,
       "bounds_ne_lat": 55.666,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/545505181843510/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475512880_962729062655041_1170884869655604252_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tnLiFSe2d88Q7kNvgF0PKar&_nc_oc=AdgZ-R9NeUg33zw2ItnQ4aMi8EQlatYCQh9_KsMpPG2T_capLbS0GU96qOKUixyh5uo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=0P54azjiO7dLNKDj6i5Yzw&oh=00_AYF8WMVL8TOOKiq7Vh74ud4XP-OnRvi7tLp9n2ovLJMWfg&oe=67DCCFD3",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475512880_962729062655041_1170884869655604252_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WnCz67uXfw0Q7kNvgGOpr1A&_nc_oc=Adki-dYss6raA8Xzo8IdLkoD11XpP1BpZtwytPLDSThwxH2p6yJb0kat5yTBZQXmQ9A&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=YfC49onE49o4ncoJquKZ3w&oh=00_AYG9dKpWJ16qjHgn4cgbtMgQhH16sB4um4RuCZBJDazmoQ&oe=67E0FC93",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
@@ -106,9 +106,9 @@
     },
     "location": {
       "name": "KoncertKirken",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Blågårds Plads 6A",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.68681249999999,
       "longitude": 12.5576875,
       "bounds_ne_lat": 55.686874999999986,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/972596147530384/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475108485_8772865706156673_567497172626908103_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ui-3jyj-NBIQ7kNvgHlAu2S&_nc_oc=AdhGOmIcY3BSF5y-GlnLvL75zXEVhc-A-CaDE6-xTqOcAm8JBzkn2EoJXtxZSLr7S2Y&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=K-WiWtzp_leaI96_BKaXsA&oh=00_AYFB1sJgTy7PEvhK1_vQPS-J4s8mczlpk-Sxw-aNNcrY8A&oe=67DC9EBD",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475108485_8772865706156673_567497172626908103_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xNqKoiT3js0Q7kNvgFdQSpm&_nc_oc=Adlj_73xb4abhGpgxOAHqXjdPxU5QOYBEgQPdSuEpKNr8TnUY5w11od02A8GOuN4m5w&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=W-fgMV9PTWlHlsnaQoN39w&oh=00_AYFBpw64HQZiafUPiws08yBGibgo8eOMVPjFFTvIqRC1Qw&oe=67E103BD",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "KoncertKirken",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/3965344113737248/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474483874_1393383595355078_4452473708370893456_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eEs5GSP6U-IQ7kNvgHeM6jb&_nc_oc=Adgef7NkvurHA2LaSDziAdznAPWwfp4k-w8vXqME4vB8InZj2olxXMyDLyt4JkEw8wc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=mCZO8KL1OChuPJhVkQ0nZQ&oh=00_AYHxqlwRlWkaMSnIx-uMr54nZEP0zt8qfDrxVQOC-M1Arw&oe=67DCC265",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474483874_1393383595355078_4452473708370893456_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PiSuM1NhkxwQ7kNvgFLkS1L&_nc_oc=Adls3w6E2pXaG2l3O5D--7szVTIsqmMi0GIhwAARiFe4EvClv2KxHiTNJyruziFnX18&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=QGKNlFrW5jC3JlgWOjIq-A&oh=00_AYEPoPcXPAy1bAPPcdqo-7e9LryvT8oPC8NZoZRq9zZPgw&oe=67E0EF25",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Basement CPH",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1012762164051492/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480205655_1401514934248633_847703713826253571_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=98M5Y525hWMQ7kNvgFUBQqH&_nc_oc=AdhOUFVX9RulpkoGzz_iJC7N4qfAVaA9YCUd03EdRC1flOJ5Jwodwr9bZ-4LsrTiY-E&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=46Wyyy7M437PIGF7AgNUZw&oh=00_AYHQ9wZaqa2k0tOFj9BKW9iYmtWH7I3sz5DI0ZZww-oa5g&oe=67DCC9EF",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/484366067_1423428705390589_3095317327393516332_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=a_bpCMn7OjAQ7kNvgFdy8_k&_nc_oc=AdlaY16pEDIKVtVAOSDofeoFG6R_0SbBJww_QSoP1x1KQt65XRecl3MBY3RsG8cEcd4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=fvDyG4LaeORAyrT_VPpb8A&oh=00_AYH3s4SuiS1pdPbENvRr3-eUElxkC5AK8qbuPTLMx1_vZg&oe=67E0DAA9",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Basement CPH",
@@ -268,7 +268,7 @@
       "name": "K.B. Hallen",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/823669269265416/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480550408_1041008411393866_6528617166447293721_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1fhOhjuiAasQ7kNvgGctVtC&_nc_oc=AdjgB-l5GO7hn2xHVXggVVvEPzPj2lftTLAhFuUMKXTd6OnQqmruSMavNJ4U0Kz9X2A&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=emBj994ha8ZDHNjYx1TdNw&oh=00_AYFp6eowe1iDKXyHFhTIBcZdHp7rFsSWz9aiiJZSnAQ7cQ&oe=67DCCCAB",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480550408_1041008411393866_6528617166447293721_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X_o9A1TCQGMQ7kNvgH-jIGl&_nc_oc=Adl9THbtgGLxPvaV6bRrhqoCz-MPX-5aUiH70iSHIap3KAwyYod8ujjiOS2RC-GkPtI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VxhX9zazIoVEf_NIeG5_aQ&oh=00_AYEzDzwkeNqCkZBc-L4YjYeKEF0BtDhzH71cue0P_UsOVw&oe=67E0F96B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -298,9 +298,9 @@
     },
     "location": {
       "name": "Empire Bio",
-      "address": "Guldbergsgade 29F",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -313,10 +313,138 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/678647637830336/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/483580284_1169292438535640_4850341919799628177_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5IWSw3NI6K8Q7kNvgGjPqlo&_nc_oc=AdgJhqKr2EmSNUpvB-MYqXlFV21GVaCucW9Xf4750aeYqLg1rzuymMYXi1UUwAmLCJg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=-_j9iF8DC7vJ_hB27-1OTQ&oh=00_AYGo_HeUYmG8q8uAHslCBpPw1RwCrbJauo82pG8pbPrjpA&oe=67DCB46B",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/483580284_1169292438535640_4850341919799628177_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VTnGq3Q0ulcQ7kNvgHjPFRY&_nc_oc=Adn7UTGnwjhTSL7PzfUkLFpKrwWww_EXbe1000VlB2JBWepkNmnHN28KyN-HCRzM1n0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=yNeybrq7gVhb0Jx1MCIIaQ&oh=00_AYEnCp-lAjvrnfZmnRf1vBc7Bf6HrvNEHnYJrY0f1MSDjg&oe=67E0E12B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Empire Bio",
     "page_url": "https://www.facebook.com/empirebio.dk/events"
+  },
+  {
+    "id": "kk-dire-straits-jam-udsolgt",
+    "name": "Dire Straits Jam (UDSOLGT)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Dire Straits var et af de førende rockbands fra slutningen af halvfjerdserne og op igennem 80’erne med store hits som Sultans of Swing, Walk of Life, Money for Nothing, Brothers in Arms - og mange, mange flere.\n </p>\n <p>\n  Dire Straits Jam har spillet sammen i mere end 15 år og har sat sig som sit fineste mål at give sit publikum den bedste Dire Straits oplevelse - i hvert fald i Danmark. Med stor kompetence og indlevelse spiller Dire straits Jam alle de kendte hits, men også mange andre lækre perler fra Dire Straits lange, glorværdige karriere.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag den 3. maj kl. 21 / Dørene åbner kl. 20.30\n  <br/>\n  Unnumererede siddepladser\n  <br/>\n  Forsalg: 140 kr. + gebyr / Dørsalg: 160 kr.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1746298800,
+      "end_timestamp": 1746304200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/dire-straits-jam-udsolgt",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2021-10/pressefoto.dire_%20%281%29.jpg?itok=keDMUi0w",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "656127277100299",
+    "name": "Info meeting for new volunteers | Råhuset & Basement",
+    "description": "Råhuset and Basement are looking for new volunteers to join our community! 🙌🏽\n\nWe are looking for volunteers who are interested in working in our bar, entrance, as photographers or doing lights at our events at Råhuset and Basement. In the summer we furthermore have outdoor events at Onkel Dannys Plads. 🎪\n\nAt Råhuset and Basement we work with a wide range of music, art and cultural events. As a volunteer you get free access to events, discount in our bars, access to volunteer parties and activities and become a part of a diverse community of volunteers interested in music, art and culture.\n\nWant to know more? Please press “attend” and show up at Råhuset April 28 at 17.30-18:30.\n\nReady to sign up as a volunteer already? Just sign up here: https://onkeldannysplads.kk.dk/bliv-frivillig\n\nFeel free to contact our volunteer coordinator, Helene, at W26X@kk.dk for more information - also if you can't make it to the meeting.\n\n📍 Råhuset, Onkel Dannys Plads 7\n⏰ 17:30 - 18:30\n\nWe can't wait to meet you!\n\nSorry, you need to be at least 18 years old to volunteer.\n\n🔗 https://onkeldannysplads.kk.dk/raahuset\n🔗 https://basement.kk.dk/",
+    "date": {
+      "start_timestamp": 1745854200,
+      "end_timestamp": 1745857800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Onkel Dannys Plads 7, 1711 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66981250000002,
+      "longitude": 12.560312499999995,
+      "bounds_ne_lat": 55.66987500000002,
+      "bounds_ne_lng": 12.560374999999993,
+      "bounds_sw_lat": 55.66975000000002,
+      "bounds_sw_lng": 12.560249999999996,
+      "plus_code_global": "9F7JMH96+W4",
+      "plus_code_local": "MH96+W4",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/656127277100299/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485058653_1168485201945583_7132040388993813798_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uBuaLq50aL4Q7kNvgGtxny1&_nc_oc=Adl0erQUbItzoOSLNCX-4yBA7vWb9URMNZVHZNXfiQq13OkbcR1ElKZ67Mo5dnHadYY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=jCc2jKRlh27zv9y66gbw-w&oh=00_AYGqG6pL_v0N_thVUSql5xYzjjg0CdESE1OSsGeClojMkw&oe=67E0E505",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "1125983475786214",
+    "name": "KAYTRANADA: Timeless Tour 2025 / K.B. Hallen - Udsolgt",
+    "description": "KAYTRANADA: TIMELESS TOUR 2025\nK.B. HALLEN, KØBENHAVN\nONSDAG D. 30. APRIL 2025\n\nOBS. Der er meldt få udsolgt, der oprettet en venteliste, man kan skrive sig på via: https://www.livenation.dk/event/kaytranada-timeless-tour-2025-frederiksberg-tickets-edp1558690 \n\nDen GRAMMY-vindende DJ og producer, KAYTRANADA, bringer sin \"Timeless Tour\" til K.B. Hallen den 30. april 2025\n\nLouis Kevin Celestin, bedre kendt som KAYTRANADA, er en haitiansk-født, Montreal-baseret DJ og producer, der har sat sit unikke præg på musikscenen. Han fik sit gennembrud med det virale remix af Janet Jackson's \"If\" og har siden etableret sig som en af de mest anerkendte navne indenfor elektronisk musik. Hans debutalbum ”99.9% (2016)” blev mødt med massiv ros og vandt både Polaris Music Prize og en Juno Award for ”Årets Elektroniske Album”. Hans andet album ”BUBBA (2019)” debuterede som #1 på Billboards Electronic Albums chart og vandt 2 Grammy Awards, herunder ”Best Dance Album” og ”Best Dance Recording” for hit-singlen \"10%\" feat. Kali Uchis.\n\nI 2021 udgav KAYTRANADA ”Intimidated EP”, der blandt andet bød på samarbejdet med H.E.R. på titelsangen. Han har også turneret verden rundt, både som hovednavn og som support for The Weeknd på hans ”After Hours Til Dawn-tour”, hvor hans energiske live shows har skabt legendariske dansefester.\n\nI 2023 udgav han sit nyeste album ”TIMELESS”, der blev rost af både DJ Mag, Rolling Stone, NPR og Pitchfork, og cementerede hans plads som en af artist, man virkelig skal holde øje med. \n\nNu bringer han sin ”Timeless Tour” til Danmark, hvor du kan opleve hans dansefest i K.B. Hallen den 30. april 2025.\n\nBILLETINFORMATION: \nBilletpriser: 595 kr. + 40 kr. gebyr \n• Det officielle billetsalg starter fredag d. 13. december kl. 10.00 Livenation.dk og Billetlugen.dk\n\n• Mastercard-indehavere har særlig adgang til presale billetter i Danmark. Mastercard presale starter onsdag d. 11. december kl. 10.00 og slutter fredag d. 13. december kl. 09.00. Derudover er der reserveret billetadgang til nogle af de bedste billetter, som er tilgængelige fra fredag d. 13. december kl. 10.00. Tjek priceless.com/music for detaljer.\n\n• Live Nation presale starter torsdag d. 12. december kl. 10.00 for Live Nation nyhedsbrevsmodtagere og på livenation.dk \nBegrænsning på 8 billetter per køb. \n",
+    "date": {
+      "start_timestamp": 1746030600,
+      "end_timestamp": 1746037800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1125983475786214/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480780819_1064723729016459_3317283520441760195_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jrU4LF1V8NQQ7kNvgGM5ubL&_nc_oc=Adm0qYGfmRIkQ2DXYw6LmgdP5pa1sly7rXF9ooPcYlqYffIowiKRPBJMvMZXEoNikFU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=lxsosWj3qtbIbgW0CzMzDw&oh=00_AYGIgjxt_mmdODpBIsJgWwiAMhk9pzS3X8u9O9Jhav4yJw&oe=67E0E93C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "1761075827797900",
+    "name": "Warpigs 10 years anniversary - Big Birthday Bash! ",
+    "description": "Warpigs is turning 10 – and we’re going all in! \n\nThree days of heavy music, cold beers, and an epic lineup of events.\nExpect a market, metal bands, metal bingo, exclusive merch, competitions, MRC – and much more.\n\nFor now: Save the date and click “attend” to stay updated.\n\nDetails\n📅 May 1st - 3rd\n📍 Warpigs (of course)\n\nProgram\nMore info coming soon – stay tuned.\n\nMusic Lineup\nTo be announced.\n\nOther info - yes, we will inform you. ",
+    "date": {
+      "start_timestamp": 1746100800,
+      "end_timestamp": 1746308700,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Flæsketorvet 25-37, 1711 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66831250000003,
+      "longitude": 12.560187499999998,
+      "bounds_ne_lat": 55.668375000000026,
+      "bounds_ne_lng": 12.560249999999996,
+      "bounds_sw_lat": 55.66825000000003,
+      "bounds_sw_lng": 12.560125,
+      "plus_code_global": "9F7JMH96+83",
+      "plus_code_local": "MH96+83",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1761075827797900/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474529899_1011953810956020_2825161171186994159_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lH0cFcvr-3wQ7kNvgGA-zHU&_nc_oc=AdlftApBc5NpE0945Zs52KAgyorvxgWb4kl3fp7rEKqWvDEwnM8Tk-ZLf93Kwbett-U&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=WsPkC1oqAwYBmnwFxif9cQ&oh=00_AYFyOc1tNBb5RYRwpMlcGWrtxjqbXAnNE0m0tyPWFYpIEA&oe=67E0D581",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "COPENHELL",
+    "page_url": "https://www.facebook.com/copenhell/events"
   }
 ]

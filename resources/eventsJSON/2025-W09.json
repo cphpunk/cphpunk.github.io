@@ -300,7 +300,7 @@
       "name": "Oslo Plads 1, 2100 København Ø, 2100 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.691312499999995,
       "longitude": 12.587187500000013,
       "bounds_ne_lat": 55.691374999999994,
@@ -313,7 +313,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/560912683370416/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471154632_1013706394120621_1579476017824359344_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WCyvSMLFcDAQ7kNvgEr8yH9&_nc_oc=Adj8f6W1SHABagUpVkAMjgYjynIUFez44Frq_SX-Aofq814GSohwlHZOMlmHjBkSdDQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=1_xoXm60crMfKKYb4S3nvA&oh=00_AYFC7f-GxEJifxm3aci45ppIroKhDu_-jb_J2X8SAWF1nw&oe=67DCC80C",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/471154632_1013706394120621_1579476017824359344_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9ZgqfXzSd3wQ7kNvgFxPbs0&_nc_oc=Adkr2lPghMxs7mIJIbhDhT0sIWy1EsY36mPJHTn9d-6eg-tRm44RLhvYbPmU6e0_sgo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=3ierlCAwgryK1lVTbC1nng&oh=00_AYGAd2P4IFTbjGEty1T2kefBnhkYa-o4WVWZ-kfFYIBdBg&oe=67E0F4CC",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Den Frie Udstillingsbygning",

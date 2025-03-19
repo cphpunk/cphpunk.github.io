@@ -139,7 +139,7 @@
       "name": "Studiestræde 24, Copenhagen",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.678437500000015,
       "longitude": 12.568687500000024,
       "bounds_ne_lat": 55.678500000000014,
@@ -152,7 +152,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/926253139414528/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473081098_122147308322359067_3524197738865937369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eH08GGuYDNIQ7kNvgESu9c6&_nc_oc=AdgH2Vl4Gc5QrjLQ_4sTZB8PxGt4Ukbd2ZpI9BCQr6cM-MuDj5iBrRevfeRJ_STItcg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Y1kmHfodyoXOInek_tgIYg&oh=00_AYHUCQKfesj0dly8YVdaS4ao9FzPDDD-1j_zzLJYEOCSaA&oe=67DCBF61",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473081098_122147308322359067_3524197738865937369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pHDOAWoG3P0Q7kNvgEu4xQ-&_nc_oc=Adm0wuGz48rTloAWt3NSKiRkOaL66uwpgxNU0rNoPJfM5brD1gj-t4hCaoUcqF7ziqY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=UC33EZbHiuctuHB56f6L5g&oh=00_AYEY5-Hz1WWFpQTSNqxxNK7nVTBuz0cEl59qLGctYiKWMQ&oe=67E0EC21",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",
@@ -164,14 +164,14 @@
     "description": "Torsdag den 21 november Kl 19 er der rundvisning ved kunstner og censor Rune Bosse.\n\nHan vil fortælle om censureringsprocessen og taler om udvalgte værker. Rune inddrager kunstnere og publikum.\n\nTilmelding er ikke nødvendig og rundvisningen er inkluderet i entré-prisen.\n\nEntré-priser\n\n+16 år: 70 kr.\n0-15 år: 0 kr.\nStuderende: 50 kr.\nPensionist: 50 kr.\nMedlem: 0 kr.\nGruppe (over 12 personer), pr. person: 50 kr.\nSkoleklasse, pr. person: 30 kr.\n\n",
     "date": {
       "start_timestamp": 1732212000,
-      "end_timestamp": 1732219200,
-      "timezone": "Europe/Copenhagen"
+      "end_timestamp": 1732215600,
+      "timezone": "UTC+01"
     },
     "location": {
       "name": "Oslo Plads 1, Copenhagen",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.691312499999995,
       "longitude": 12.587187500000013,
       "bounds_ne_lat": 55.691374999999994,
@@ -184,7 +184,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/889361992925880/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482030710_662071212865396_852386315402348619_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SIHU_QeXvSQQ7kNvgFWg8tK&_nc_oc=AdgkQtE7COH6uBagsdJHCdi84PMtUsowUSNX1ju3NRe5sjDBZ917_RgxkEVScpZIWi4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=d3tAWZxWTfTdA5HpORrr3Q&oh=00_AYFUIDU2P6s5JDKwwsFyURZA0hovYoTucZIdVbZIwd3Clw&oe=67DCB352",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482030710_662071212865396_852386315402348619_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TetRiSOjCm8Q7kNvgGdy_JT&_nc_oc=AdlIDUvQEFnblFqwdR8M-RmpovN6i6-khwrAABEwfeSmBVvH0xHYA6pSH8ee-pwWtug&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=lhsXSLo7xylN88LRhfOK-w&oh=00_AYFyFcsivhYeUUpALB3VuzsTp869UOxC1jq_ebaiZHMfYQ&oe=67E0E012",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Den Frie Udstillingsbygning",
