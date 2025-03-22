@@ -48,7 +48,7 @@
         },
         {
             "name" : "Categories",
-            "version" : 0.16,
+            "version" : 0.18,
             "type" : "CategoryFilter",
             "filters" : {
                 "MUSIC" : {
@@ -94,7 +94,7 @@
                     "enabled" : true
                 },
                 "CPH:DOX" : {
-                    "enabled" : true
+                    "enabled" : false
                 }
             }
         },
