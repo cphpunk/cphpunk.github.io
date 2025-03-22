@@ -12,7 +12,7 @@
       "name": "COPENHELL",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.693312500000005,
       "longitude": 12.614187499999971,
       "bounds_ne_lat": 55.693375,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/948350610566024/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/481990627_1095943852334275_2347135204766744559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W5IMeR7jaAwQ7kNvgHQFKvq&_nc_oc=AdkJPbITwo3ZoIXeC9WBkObJWm1QcKiGSStlpAqfXYsUcNOclx-Bx6ikSOh5TgZyE_s&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=G9c9RxjmnTMe-LDEAIgT3g&oh=00_AYEtZqg8B63yXTHPDHVPC7g0Eda-PfGnbEpqtohYJmjzzg&oe=67E0E975",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/481990627_1095943852334275_2347135204766744559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2T_yov8CABsQ7kNvgFfK3l0&_nc_oc=Adk8Gh1xNkEmVlyFmkRZYUvaL7aQCgON5bWkT8hmh_tlqe2KajeRk_m13gOM7eqQhtc&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=MAHx6OHH6A-oJt2DT3N3lQ&oh=00_AYEDa6TZ6AZWJRLEjZ25tBmVbckGaG9HglOBFSRW__hgXw&oe=67E46D75",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "COPENHELL",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/539085679001354/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/467014262_1055742809896324_1979934173187521480_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fVZsbPoPoToQ7kNvgGV5G5P&_nc_oc=AdmpDfblpdzCweIMW8mF7pzDMrSbbM4G94oVx5RVJ6GC6nn8aoxQv0DYoOj-OaWZoas&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=hK8U4dy_XOeE1NDvqj9AXA&oh=00_AYEcKUVA4UryEkwBI328GVJbzUK73jp-AhqXcy3TUhCRVw&oe=67E0EB19",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/467014262_1055742809896324_1979934173187521480_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fVZsbPoPoToQ7kNvgGEWfVG&_nc_oc=AdnyckE4Q0iFd3zQAHQoQ7aBBjudTFcH0UCbKQnVTDSQHkmQBJvkumt3vij6WOJjoEU&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=lsR83kxyJzvVmdbazdEc1w&oh=00_AYFTJYjz8eZBeCLS-BsiSL2xwT2I0rSHigAXKtIWG_TUIg&oe=67E46F19",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "KoncertKirken",

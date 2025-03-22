@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Cinemateket",
-      "address": "Gothersgade 55",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1072462113412713/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/469880828_592660423542184_4896005966302543926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gKskKq8To8cQ7kNvgGMXRah&_nc_oc=Adm-aoTPqhRgN2noC2JbKEsjIbJ_l30wz25r6i_TxHROgpPwxuOwipWDTva10JPI1I4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=eEn4Lb00lWSXcLETFYG_7g&oh=00_AYEbHtYhhpcm4FFp1KKL-1PiTxukHdordTCQRT_Dt8_e4A&oe=67E1062B",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/469880828_592660423542184_4896005966302543926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JBFVj2HFpTUQ7kNvgF3-OE0&_nc_oc=AdnWlX2NEgTyWK2-zINaT1t_L7-ldpgUjWa3yTAyP9431gsWjjFfTN-u8IedW6sT8dA&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=oN-OzYqnNVkIfdcdz_U5cg&oh=00_AYHdwjz8XH9mDD9AfpFLZvJ6c9CLHYe-OkKIBoPQlV5N7Q&oe=67E48A2B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/438520781409554/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/470040200_592661236875436_7265927911039565696_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=V_bWml_tuMQQ7kNvgFKt6fx&_nc_oc=AdkVE9VQG5d2xGwRDfeoRhQlL8XIOR4y8qnSd8Vxx8DvmFAt3cfF5_ZxlLrunm_PppQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=O5_FWFYA0GS2gLSrjzUR2A&oh=00_AYEJrwq2e60PAhFgaViV3zQqVSemXpI2WFOdYiAk37VQaw&oe=67E0EC61",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/470040200_592661236875436_7265927911039565696_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WIX13CjqIeEQ7kNvgF088uc&_nc_oc=AdlcjnYtJkgQUfz632N8-oxYM1tQip4tG_CMP_0ApaQCk8OiaW6j2bgKrvkcWi5ZiGk&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=njuj8uK0fYlrsk7T0RzlMA&oh=00_AYFm05wur5IF-paikPuRL2mO0v2Z1udc0Az7XRmH0aZJFw&oe=67E47061",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",

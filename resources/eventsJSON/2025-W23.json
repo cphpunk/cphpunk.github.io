@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1801860830323214/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485361855_1179069050255713_3245742796704225408_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bGrGS-V-mtwQ7kNvgFtH-Wo&_nc_oc=AdmxFT8rvMVK2wUReTh-dWCGkaBLkkdrgGf3t843YKIzjA9T0lm0z7GNgFHpD9660cI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=zQ7yJuZuu81bzfzwa0KVww&oh=00_AYEFr21c2odjGBlRRIbvyrCuIqn5b8GlI4jLtiKihE818A&oe=67E0FF12",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/485361855_1179069050255713_3245742796704225408_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=soAOIPOiMggQ7kNvgEzYQvj&_nc_oc=AdmTwIKLBBQZBXncDwEMsC3a_zqQi3PLwEp8PetV9lEJY6yTeDU3V7-UOdu4uz33F4E&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=eBghnAEoOvbZM-NbKPjJxg&oh=00_AYFUouu7lBnJBytspOd4x9Nse6OFqm4boUEZ28AaCB_lXA&oe=67E48312",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Copenhagen, Denmark",
-      "address": "",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1586539025538149/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475836251_1148804553282163_2911656913874227846_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Z2uQ7E1Fb90Q7kNvgG02k6p&_nc_oc=AdmjKQ3VbJVe4FHvNwFVBK6U2vBmbP874m7isT9n6DMsV5JwQ5N5AzI1ZSg59EI9yUQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=1WVIatQsuAa6DyKDORsj8Q&oh=00_AYGPlc2Uilb54lLrjLQcERoYpQ1Tfc-WT02iCoKmiB8grA&oe=67E0FAC3",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/475836251_1148804553282163_2911656913874227846_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sHQEJ5gdG5cQ7kNvgGPCfFI&_nc_oc=AdmqVKS95C_R14OdkBuwNZTvzclyL67fGAGNwJ0VsPo6FRefe3XxeDOPGEX5oL1RbM8&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=pIjgHJ2_FaFjK35PcCJXvg&oh=00_AYH_Z49NpMKJS2yA1ZSKbJlu4nd1CVquUDBRaWZfcRCPVQ&oe=67E47EC3",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",

@@ -1,7 +1,7 @@
 [
   {
     "id": "1134110091723737",
-    "name": "Jacob Aksglæde // RUST Sleeps Around",
+    "name": "Jacob Aksglæde // RUST Sleeps Around [få billetter]",
     "description": "JACOB AKSGLÆDE // RUST SLEEPS AROUND\n\nFind billetter: https://www.ticketmaster.dk/event/613901327\n--------------------------------------\n• Døre: 19.00 • Koncertstart: 20.00\n• Billetter • Forsalg: 270 kr\n--------------------------------------\n\nRUST Sleeps Around rykker ind i biografsalens mørke, når vi byder velkommen til Jacob Aksglæde i Empire Bio!\n\nSiden sin debut i 2016 har Jacob Aksglæde markeret sig som en toneangivende dansk popkunstner. Med sit imponerende bagkatalog bestående af fire EP'er og to album, skaber han – som han selv formulerer det – digte som man kan danse til.\n \nMed numre som Giv Lys Igen, PromilleRomantikken, Næste Sommer, Fantomfølelser og senest Dem Der Forsvandt, har Aksglæde ramt en nerve i den danske musikscene. Hans sange indfanger både hverdagens små øjeblikke og de store følelser, hvilket skaber en nærværende poesi, der bevæger og forener lytterne. Aksglædes musik har en sjælden evne til at bygge bro mellem mennesker og give plads til både refleksion og fællesskab.\n \nNu får hans fans en enestående chance for at opleve hans sange i deres reneste form. Med sit poetiske univers, sin varme charme og sit gode humør inviterer Jacob Aksglæde publikum til en musikalsk rejse, hvor kærligheden og livets mange facetter er i centrum.\n",
     "date": {
       "start_timestamp": 1761760800,
@@ -12,7 +12,7 @@
       "name": "Empire Bio",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1134110091723737/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jOaeBhAARXIQ7kNvgGGOyaD&_nc_oc=AdnIRB_t_wEuL3fuUjAVm12ipagbYk2GD6CJ5hrkVJBpVfIP3bsDNs1O3epUB37yBxg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=EZVCuWExKdc61VUOIFqDBw&oh=00_AYEvLtU_RLmB_pRa368hTAZ5Ruo_m8Y0d1fbk2EDRTq8Nw&oe=67E0F62F",
+    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=e9MDsmPazqkQ7kNvgEp_BWx&_nc_oc=Adl3bNgS3TWYwNsJn79_1N71_UvKfi4ijlvmpxQBkvMBbf3QUkjGe40WDv57x3y_roY&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=chBbWQt5dhIpqN3l0AZjjA&oh=00_AYFx9h2T9iqP9AC1ngbnepsZ8hybviV6pa2FhWQ-QiGC3w&oe=67E47A2F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Empire Bio",
