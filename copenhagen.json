@@ -100,7 +100,7 @@
         },
         {
             "name" : "Sources",
-            "version" : 0.15,
+            "version" : 0.16,
             "type" : "SourceFilter",
             "filters" : {
                 "Extinction Rebellion Danmark": {
