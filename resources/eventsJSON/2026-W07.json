@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-night-terrors-film-festival-copenhagen-2026",
+    "name": "Night Terrors Film Festival - Copenhagen 2026",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  18:00 = Café opens / Tickets are 70 kr.\n </p>\n <p>\n  19:00 = Show starts\n </p>\n <p>\n  There will be a short intermission about halfway through the program.\n </p>\n <p>\n  All films screening will be either English language or subtitled in English.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771002000,
+      "end_timestamp": 1771020000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset, Husets Biograf",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/night-terrors-film-festival-copenhagen-2026",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-04/night%20terror_0.jpg?itok=VuT0ILa2",
+    "tag": "THEATRE",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  }
+]

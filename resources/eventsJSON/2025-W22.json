@@ -44,7 +44,7 @@
       "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.709812499999984,
       "longitude": 12.526937500000017,
       "bounds_ne_lat": 55.70987499999998,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/563120823164193/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/470181154_983236197175927_6496857986761633169_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YW7tT2v9daUQ7kNvgE2Ggfl&_nc_oc=Adh8C1gf5DKUJPS2hUyPCkXs8VM0h0mv0hkZv8EvUGWj0he6at8G-q8ozQQyQ5NgxvI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VN6Tr-yIK8jEqDF2xqJEjQ&oh=00_AYHPnJBnZskKHuZrqbk6sp7vI3x1FAgXP-Ur3JZw4ociNw&oe=67DCD5F7",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484730227_1047123027453910_1962856474880441213_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OrrF5uZcqiwQ7kNvwFDTCUk&_nc_oc=AdkhuBEz0GAxhjz5_pdssozeIiM5wE8BDPIyXxbgHejcudOfY7z53j953hwC1C3nmb4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AB0AFYHXrbL3SW5B3238nw&oh=00_AfHW6ul2dP2f8TE_qEtMiRPNIYvCZFvoOh4hN_gnGipVXw&oe=67FDA6ED",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1970401466803606/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/485338511_999719342289346_6269543725723909269_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lB5TmquRuKAQ7kNvgHmOrto&_nc_oc=AdnA_8pizoYg8OMSl1J4v65B3yKOjVJgEGODiC5zRG8cRBEQAqKnsQaoTFoh5kBcBYI&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=yKtmWMuBMxtiM63OZUJ3Bg&oh=00_AYGgX8JMhpv46Blj5uopnPLnI1SPp2j56BQvd4TacNiZvA&oe=67E46574",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485338511_999719342289346_6269543725723909269_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8vTo0aYEd8EQ7kNvwG0jrn0&_nc_oc=AdmkhPznplrXbyJyJSRQaUiTz158pdWjehxUb2JLbLYgWqmB1RLe5dPRnEK318nbvr0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=QzlSGkcvvdujoTIK8xKZxA&oh=00_AfHYJcg1FHrfyGOV8c1tbgHQ7N_Vujth4tvmfXZ4Nn0AkA&oe=67FDAA34",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
@@ -121,10 +121,74 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1116045236869988/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/485343710_999719608955986_5579935856246094254_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=24qv_X4NDBUQ7kNvgHS74Of&_nc_oc=AdnNIkmgk6wXzL_xKWPmUor6ozd1FhBd8vh8kajsc2dzb3WCX1J6JDficoAL8x62d7M&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=udmi_vF1y_MzGN1W1vJxsQ&oh=00_AYFo0AVdt4DB42y9RjohZ5CwWYdHFQNWfxCOcFW7jY3ajQ&oe=67E4632E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485343710_999719608955986_5579935856246094254_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ilqHGV9SBAkQ7kNvwFDGmP5&_nc_oc=AdnvkvN7W6qIrmhWxjqfQXmnEVHDustIVU0INFoSH7uGHaShdn5ShI0n5FJD4X9b-z8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=5_LGxYxbCdkWvWweu0QDIQ&oh=00_AfG_nModkQyscH1My6QNQuxvO9hOB2D-lW0kBIvDYDOREA&oe=67FDA7EE",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
     "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "kk-hermanssonbeldorf-duo-dese-north-folk",
+    "name": "Hermansson/Beldorf Duo (DE/SE)+ North Folk",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Næsten hver fredag hele sommeren kan du opleve livemusik lige ved vandet til Geyser by the Sea uden for Kulturhuset Islands Brygge.\n  <br/>\n  <br/>\n  Geyser by the Sea er en gratis og sommerlig udgave af kulturhusets månedlige singersongwriter-scene Klub Geyser, og musikprogrammet byder på bands og solister fra ind- og udland indenfor genrerne folk, rock, pop, blues og country.\n </p>\n <p>\n  Kom og hæng ud, få en kold en fra baren og hør god musik i godt selskab!\n </p>\n <h3>\n  Program fredag 30/5:\n </h3>\n <p>\n  kl. 16.30 Hermansson/Beldorf Duo (DE/SE)\n </p>\n <p>\n  kl. 17.30 North Folk\n  <br/>\n </p>\n <h3>\n  Carina Beldorf &amp; Tor Hermansson\n </h3>\n <p>\n  forener deres unikke musikalske stilarter og skaber en intim og medrivende koncertoplevelse. Deres optræden er et gnidningsløst samspil af egne sange og nøje udvalgte fortolkninger. De skiftes til at synge for og harmonere, hvilket resulterer i dynamiske duetter, der fremhæver deres stærke musikalske og personlige bånd. Kendt for deres tætte samspil og sans for detaljer, bemærker publikum ofte den særlige energi, de bringer til scenen. Uanset om de fremfører Tors tankevækkende sange, Carinas inderlige melodier eller deler fængslende fortællinger undervejs, skaber duoen en varm og uforglemmelig oplevelse for deres lyttere.\n </p>\n <h3>\n  North Folk\n </h3>\n <p>\n  North Folk er fem almindelige mennesker, dygtige musikere og rørende sangskrivere. Deres kontakt til publikum er sublim og rørende og vugges og skubbes af et prangende lydbillede som slidte vognhjul gennem præriens støv, den sørgmodige stund i de dybe skove og stormen der rusker i Rocky Mountains knejsende graner, som man siger.\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1748615400,
+      "end_timestamp": 1748622600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/hermanssonbeldorf-duo-dese-north-folk",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-04/Design%20uden%20navn%20%2834%29.png?itok=a7Sq4qWh",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "1386929766001018",
+    "name": "BurlesqueMania",
+    "description": "❤️‍🔥The Varieté Vixens proudly present our craziest show so far: BurlesqueMania, an event with so many surprises you won't be able to hold your excitement in! Join us May 31st at Operaen at Christiania for an evening with Burlesque Heroes and Heels, glitter and tease.❤️‍🔥\n\nGet your tickets NOW so you don't miss out!\n\nEarlybird tickets, until April 12th: DKK 150.\nRegular tickets: DKK 200.\n\n",
+    "date": {
+      "start_timestamp": 1748714400,
+      "end_timestamp": 1748721600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Operaen Christiania",
+      "address": "Pusher st.",
+      "city": "Copenhagen",
+      "country": "DK",
+      "latitude": 55.67381250000001,
+      "longitude": 12.599437500000036,
+      "bounds_ne_lat": 55.67387500000001,
+      "bounds_ne_lng": 12.599500000000035,
+      "bounds_sw_lat": 55.67375000000001,
+      "bounds_sw_lng": 12.599375000000038,
+      "plus_code_global": "9F7JMHFX+GQ",
+      "plus_code_local": "MHFX+GQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1386929766001018/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/480959130_586924557724544_4159062608239112989_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c3QG6u3JpXQQ7kNvwFONTTU&_nc_oc=Adkm21k725DLIzWekTxEjgfwAppiyXcle7lSopOOOzlVVNjFt4kP0QVJy6TTeYQiJTI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=m6umKTiPRiJSGcWvR2fLXA&oh=00_AfHcxQGcrjsF3cPMj6HjKaa_mukz1A0T_13Ncz1rMvvKhA&oe=67FDAB64",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Operaen Christiania",
+    "page_url": "https://www.facebook.com/operaenscafe/events"
   }
 ]

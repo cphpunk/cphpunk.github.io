@@ -202,9 +202,9 @@
     },
     "location": {
       "name": "Sigurd CPH",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Sigurdsgade 39",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.70368749999999,
       "longitude": 12.555187500000002,
       "bounds_ne_lat": 55.703749999999985,
@@ -217,10 +217,138 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/522062074015731/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/462842646_975958321230246_5720521773753167974_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QEWj3S5x-oUQ7kNvgG9-eFl&_nc_oc=AdmYZJfDt8kjEBWt4z13s6MIvIJRChsWgaLY_Zj7X9yYCL8vtF4ifn3Y-OZa_gDJlYk&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=ZAbMLiRtKRyGU7NMmTh3CA&oh=00_AYHEAaj0x0a30vQ95kxZ2eNnVHmjzURlD5Brk1r3FtLApg&oe=67E49004",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/486195232_1093884706104273_8635285824275924631_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jiOG6QotfKkQ7kNvwER3ANp&_nc_oc=AdmzraGzFsTpRTIE4ByEslAqI1RIQbx0sLW5nW7UUqjdHvELgzOnuzYQarbJbMTOEgE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=YFw9HwVLs6lmx68X-JlRMg&oh=00_AfEvLHDRuaW4SviJfBSUjNNCmSbtK8OB7ApEo7h43Ma88g&oe=67FD9041",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
     "page_url": "https://www.facebook.com/havencph/events"
+  },
+  {
+    "id": "705144691789034",
+    "name": "I AM TRASH ROYALTY!! SOLD OUT!! - FREE Zine Experiments & Moviescreening",
+    "description": "This cool-down event is inviting all zinesters and zinesters-to-be to come to Vildnis and throw themselves into experiments with unconventional materials in bookbinding and zines. There will be a few knowledgeable people around who will share their ideas and thoughts on making books and we have gathered lots of supplies for you to play with: trash, paper, markers, thread & fabric and so on. It will be a casual hygge-day with tea and coffee and chitchat. \n\nWe finish off with a short talk between the experienced comicbook artist Benni (@bennizone) and Jam (@surmulefyr) about expressing queerness through zines and books before we will screen ”No Straight Lines” at approx. 14.40. It is a movie that combines art, comedy and history to make you laugh and think about the remarkable stories of five pioneering comicbook artists who broke the doors open and made LGBTQIA+ lives visible through their art. \n\nSOLD OUT!!\n\nI AM TRASH ROYALTY!! is a part of CPH Zine Fest 10 year celebration week, you can find the rest of the program here: https://facebook.com/events/s/cph-zine-fest-10th-anniversary/4212346725658588/?",
+    "date": {
+      "start_timestamp": 1729411200,
+      "end_timestamp": 1729432800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Gartnergade 18",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68543749999999,
+      "longitude": 12.553312500000018,
+      "bounds_ne_lat": 55.68549999999999,
+      "bounds_ne_lng": 12.553375000000017,
+      "bounds_sw_lat": 55.68537499999999,
+      "bounds_sw_lng": 12.55325000000002,
+      "plus_code_global": "9F7JMHP3+58",
+      "plus_code_local": "MHP3+58",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/705144691789034/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482022739_665309406053328_2189321231964980133_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OEbUcw4fAOcQ7kNvwH9RcD4&_nc_oc=AdmGphFsUMJ_MLu41tjpyOSjbmY3gP8BZTP8SYl81mINc8KvSRbWu9I3AXch7CYmtsw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=LJS5s6DoyEPGjBYk2dorKQ&oh=00_AfEDKvzjisuwpBGMVpO5qT_vSXIyzucXDim9HMnp2AszkA&oe=67FDBAA5",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "CPH ZINE FEST",
+    "page_url": "https://www.facebook.com/cphzinefest/events"
+  },
+  {
+    "id": "1547557386642269",
+    "name": "Longest Night VS Cult Pump",
+    "description": "Cult Pump opens the doors to the workshop and invites the Swedish collective \"Longest Night\" from Gothenburg to an exhibition and silkscreen workshop! \nLongest Night is an artist-run silkscreen workshop based in Gothenburg, founded by Anne Ehrlemark and Mileta Mijatovic.\nLongest night organizes exhibitions, publishes posters, zines and artist books, and is also a concert venue in the district of Kortedala, which houses some of the most interesting names in avant-garde, noise etc. Longest Night thus shares a lot of similarities with the Copenhagen workshop Cult Pump, which offers welcome our Swedish guests to a wild and chaotic day in the DIY spirit, of course strongly spiked with concerts at the noisy end of the spectrum.\n\n-PROGRAM-\n\nALL DAY+EVENING Longest Night & Cult Pump Exhibition\n\nFREE/DONATION BASED WORKSHOPS:\n14.00-19.00: Woodcut workshop with professor Oliver Maarup\n14.00-19.00: Bookbinding workshop with professor Oline Jessen\n14.00-19.00: Screen printing masterclass with professor Mileta Mijatović and professor Zven Balslev\n FULLY BOOKED SORRY!\n\n\n-CONCERTS 50kr-\n19.00-00.00:\nDUNGEON ACID\nALBERT SEVERIN\nKLAPJAGT\nHEKSEHYL\n\n+ djs, drinks\n\nLongest Night X Cult Pump is a part of CPH Zine Fest 10 year celebration week, you can find the rest of the program here: https://facebook.com/events/s/cph-zine-fest-10th-anniversary/4212346725658588/?",
+    "date": {
+      "start_timestamp": 1729166400,
+      "end_timestamp": 1729173600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Mayhem Kbh",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1547557386642269/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484065538_666011619316440_4161959753359567817_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lv2hpbUr1hwQ7kNvwG0jNsA&_nc_oc=AdkuzxvdzyYZjxabbiOKitvymDHgyqbyA3vdJ_UT_qN7JtQZ7Spv-zIvcpR7wBD89IU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=mtA-6tUH3ZSPChE7m4RmlA&oh=00_AfFE5R8GNL2vUneLET68f3evpvUR8rygLr-xbsN112aDSQ&oe=67FD9BF1",
+    "tag": "CULTURE",
+    "platform": "Facebook",
+    "page_name": "CPH ZINE FEST",
+    "page_url": "https://www.facebook.com/cphzinefest/events"
+  },
+  {
+    "id": "1068549014829594",
+    "name": "Zine Tunes - A Night of Music by Zine Makers",
+    "description": "✨ZINE TUNES✨\n\nPerformers (will also have tables):\nVOID KIDS BUDDIBUDDI (se), KEJSERBARN (dk), LAMBIEC (dk), PELTS (se/dk), HOUSEBROKE(dk) \nDJS: SOFIE JACOBI, SECOND WAVE\n\nTablers:\nMIO VOISIN, DITTE KRØYER, SAYO SENOO, \n\nfood prepared by Food Not Bombs \n\n\nEntre: 30kr.\n\n\nCome get an earful of zines when a bunch of zinesters take the stage to make noises big and small. Let's celebrate cph zine fest at the place where it started - ungdomshuset. \nMusic, zines and dj's all night long\n \n\nVOID KIDS BUDDIBUDDI (SV)\nVisual, art, digital, music, cassette, trash\n(link: https://open.spotify.com/artist/16z7CNOLw4yFdJb6tQGWtS)\n\n\nLAMBIEC (DK)\nExperimental electronic music, conceptual poetry, comic books, and animation\n(link: https://lambiec.bandcamp.com/)\n\n\nKEJSERBARN (DK)\nalt pop / ice phonk / grime\n(link: WWW.INSTAGRAM.COM/KEJSERBARN/)\n\n\nHOUSEBROKE (DK)\nDIY indie/alt-rock band / sensitive and rowdy / debut concert\n(link: www.instagram.com/housebrokeband)\n\n\nPELTS (SV/DK)\nAries trio plays post-punky, k-records/Electrelane-ish music\n(link: https://pelts.bandcamp.com/album/demo-2)\n\n \n\nDJ’s:\n\nSOFIE JACOBI\nqueer discoutopia\n\n\nSECOND WAVE\n70’s funk, post-punk and eastern European sounds\n\n\nThis event is supported by Københavns Musikudvalg and Bispebjerg Lokaludvalg\n\nZine Tunes is a part of CPH Zine Fest 10 year celebration week, you can find the rest of the program here: https://facebook.com/events/s/cph-zine-fest-10th-anniversary/4212346725658588/?",
+    "date": {
+      "start_timestamp": 1729269000,
+      "end_timestamp": 1729296000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ungdomshuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70868749999998,
+      "longitude": 12.523437500000014,
+      "bounds_ne_lat": 55.70874999999998,
+      "bounds_ne_lng": 12.523500000000013,
+      "bounds_sw_lat": 55.708624999999984,
+      "bounds_sw_lng": 12.523375000000016,
+      "plus_code_global": "9F7JPG5F+F9",
+      "plus_code_local": "PG5F+F9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://www.facebook.com/events/1068549014829594/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482030797_666023259315276_1897217777660919924_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PQyb-UkGLc0Q7kNvwHM75cL&_nc_oc=Adn5b7A0DIINxobotaVbG8kfx08LgtQH4As7mtLGeiXfzvoqAXK2pC9YlxQY6j3-lVc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=1jlmp5kDNP5kqqU8cUDyiA&oh=00_AfGBehd_cl6a7HJ9EDh8jcsLmMfowAg1MF6VFRSvuTw_LQ&oe=67FDB1DC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "CPH ZINE FEST",
+    "page_url": "https://www.facebook.com/cphzinefest/events"
+  },
+  {
+    "id": "513761817796685",
+    "name": "CPH Zine Fest Market",
+    "description": "CPH Zine Fest Market is filled with artists who does selfpublished DIY magazines (zines), art books and small press. We’re so excited to celebrate our 10 year anniversary with you and we have packed Kapelvej 44 with zine stalls, so you can explore the rebellious artistic expression of the “little artist”.\n\nFREE ENTRANCE!!\n\n-TABLERS-\n📓Christine Lykke - @christinelykkeh\n📓Christine Reinwald - @Christine_reinwald\n📓Tykzine - https://www.instagram.com/tykzine/ \n📓Erica Engdahl - @erica.engdahl\n📓Junki Magazine - @Junkimag\n📓Francesca Tiziani - @fra__tak\n📓Never Brush My Teeth - @neverbrushmyteeth\n📓Florinda Pamungkas - @florinda_pam\n📓Lys - @lys_laver_ting / @lyzsander\n📓Raiain - @raiain.art\n📓Emilie Røndal - @emilieroendal and emilieroendal.com \n📓Lambiec- @Lambiec00\n📓María Carreras - @marias_planet\n📓Christopher Falkenberg - https://www.instagram.com/falconidays/ \n📓Giulia - @24karatti\n📓Pilar Sanchez Yun - https://www.instagram.com/pilarsayu/ \n📓Wil Holta - @they_illustrate\n📓Ditte Brøns-Frandsen - @ditfrans\n📓Kristine Tiedt - @kristinetiedt and www.kristinetiedt.com\n📓Alvi von Reybekiel - @alvi__rey \n📓Joakim Drescher - https://www.instagram.com/joakimdrescher/\n📓Rosa Leunbach - @Rosaleunbach\n📓Kran Fotozine - @kranfotozine\n📓Monica Nielsen - @drawingbambi\n📓Triss Baranyai - @trissdraws\n📓Milla - @milla_cm21 @millacm.dk\n📓Brauh - @brauh_art\n📓Athanasia Dekouli - @oh.snapdragons\n📓Vasileia Kakavou - @confort_me\n📓Veruschka Haas - @letterstoloverszine @v.e.r.u\n📓KBJ Publishing - @kbj.enterprises\n📓Marcus Melo - @marcusmelo.design\n📓Max Mailund - @_maxgenial_ \n📓Kuriosa - @kuriosazine\n📓AA an Co. - @unregisteredcat @ymirarnarson\n📓Inkling of Thunder - @Inkling_of_Thunder\n📓Taikasana - Taikasana.tumblr.com\n📓Anna Johannson - @_anna_johannson_\n📓Atte - @art.with.atte  \n📓Alex - @Spoonsarefancy\n📓Fritz - @risengrdd\n📓CJ - @blacklodgepress\n📓Jacob Rask Nielsen - Instagram.com/jacobrasknielsen\n📓Radostina Kazakova - @forindet and www.forindet.com\n📓Kræn Aa.-Løvstad - http://www.xn--krn-zla.com/\n📓Kulkælderen - @kulkaelderen\n📓Bennizone - @thebennizone and www.bennizone.net\n📓Marita - Marita.dk\n📓URIEL - @MONGHOUSE\n📓Hannah Woetmann Bitton - @Hwbversions and mellemrum.dk\n📓BXTH Studio - @bxthstudio\n📓Rage Zine - @ragezine\n📓Æsel Distro\n📓Julie Rau - julierau_comics\n📓Hvasseline - @hvassselinehvasseline\n📓Marie Høegh - @mariehoeegh\n📓Echo Yoma\n📓Kig Kollektiv - @KigKollektiv @objectofdisinterest @BarbaraHryciuk @enkeltstudio\n📓Prantip - @powerpuffpanti\n📓Ida Lilja - @kantastudio\n📓Romen - Arterrante.wordpress.com\n📓Cult Pump - @cultpump\n📓Dylan Cawthorne/Art Squad - @dylanlikebobdylan and www.dylancawthorne.com\n📓Longest Night - https://www.longestnight.se/\n📓Danni Storm - @danni_storm \n📓Rasmus Høyer Husted - @rasmushoyerhus\n📓Helena Melin - @vehementa\n📓Henrik Kublick - @henrikkublick\n📓Tom Zelger - www.tzelger.com\n📓Gymnoten - https://www.instagram.com/gymnoten/\n📓Ikaro - @ikarorbayu and @woodland_wonderland_store\n📓Olivia - @Nectarinesfieldnotes\n📓LMS - @lms42kfm\n📓Lille sovster - @Vulkarno\n📓Elin Holst - @seamonsterart\n📓Mori Press - www.moripress.se\n📓Monique Sonego - @gnomonique\n📓Klara Lopez - @klaralopezz Hannah Coffey - @hannahcoffey Alma Akua - @almaakua\n📓Pil aka SalaWillow - @chunky_skede\n📓Anna Dea - @feverinthebrain\n📓Cæcilie Emborg - @kejserbarn\n📓Sandra Sundquist - @sa.un\n📓Felix Drott\n📓Gamle venner - https://www.instagram.com/gamle.venner\n📓Bored wolves - https://www.instagram.com/boredwolves\n\n\nCPH Zine Fest Market is a part of CPH Zine Fest 10 year celebration week, you can find the rest of the program here: https://facebook.com/events/s/cph-zine-fest-10th-anniversary/4212346725658588/?",
+    "date": {
+      "start_timestamp": 1729332000,
+      "end_timestamp": 1729353600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Kapelvej 44",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/513761817796685/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484180617_666023682648567_4744182677500261332_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=olTWpHIG0pwQ7kNvwFjGmvj&_nc_oc=AdmBsOTaYAl3tkUAlJCoK8Fy4T3o960PJj82Ubf_fPxRwDZIy1oNnAerT3YGXzMoMNg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=8QbO0fRzlefuKt1HbfGwJw&oh=00_AfGuQGh3T-0gRCnSqjHVr2RrAwBv4kXtY-DB530msD_0ew&oe=67FDA387",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "CPH ZINE FEST",
+    "page_url": "https://www.facebook.com/cphzinefest/events"
   }
 ]

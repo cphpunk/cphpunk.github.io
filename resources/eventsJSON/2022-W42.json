@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Husets Biograf",
-      "address": "Rådhusstræde 13, 2 th",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.676437500000006,
       "longitude": 12.574687500000024,
       "bounds_ne_lat": 55.676500000000004,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1095805714424582/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/482973691_1476861930136088_8652102289487886463_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3rQZ4BzgLp0Q7kNvgF70Xy-&_nc_oc=AdksLb6-21hKZLSaa4xEgxAbgQbv8oxztIddwoyohadfKRr7HHBmyR-68Qzop5GPni8&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=6v65cg9lOWwsWLoC9mbD3w&oh=00_AYFznUweAAb19kh2JXPvVNOgud_hyRCfcmJH-ANPJcs-Dg&oe=67E47A02",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482973691_1476861930136088_8652102289487886463_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ti5lPr72vf4Q7kNvwER5ulR&_nc_oc=AdlweJjwU0lXLHlyCtAQxUugFZekTe2q9IDP6WiwPyChj1qoWnOxLo-vylk0HNUCqQg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=U8kFdHPPunb4qCApKpCKuw&oh=00_AfEwVj0V2skx2xHrWPPLlU0Dok7DCVhn4XmBXDHXFHAogQ&oe=67FDBEC2",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Annual Copenhagen Film Festival",

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-black-money-orchestra",
+    "name": "Black Money Orchestra",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Black Money Orchestra har eksisteret siden 2008 og er kendte for koncerter med swing og blæs i! Bandet har gennem årene haft en fast kerne med saxofonist og orkesterleder Mads Egetoft, trommeslager David Besiakov, altsaxofonist Mia Dyberg og senere også guitarist Mads Nørgaard. De seneste år har bandet fået et nyt løft med stærke musikere i blæsersektionen: Jesper Løvdal, Søren Siegumfeldt og Simon Spang-Hansen.\n </p>\n <p>\n  I dag stiller bandet sig reflekterende over genrens historiske rødder og betydning. Musik er mere end blot lydbølger – det er et kulturelt sprog, der kan bygge broer og skabe fællesskaber.\n </p>\n <p>\n  Med inspiration fra Fela Kuti, Miles Davis, Charles Mingus, Depeche Mode og Maroon 5, kan du forvente en aften fyldt med både sjæl og rytmisk intensitet. Hvis du elsker old school afrobeat og fantastisk livrigt sammenspil, må du ikke gå glip af denne koncert!\n </p>\n <p>\n  Line-up:\n </p>\n <p>\n  Mads Egetoft, Jesper Løvdal, Søren Siegumfeldt, Simon Spang-Hansen, Mia Dyberg – saxofoner.\n </p>\n <p>\n  Erik Kimestad og Claus Højensgård - trompeter.\n </p>\n <p>\n  Petter Hängsel - trombone.\n </p>\n <p>\n  David Besiakov – trommer. Anton Langebæk - bas.\n </p>\n <p>\n  Mads Nørgaard og Taus Bregnhøj-Olesen – guitarer.\n </p>\n <p>\n  Simon Eskildsen – keyboard.\n </p>\n <p>\n  Rune Kofoed og Morten Dalhoff – percussion\n </p>\n <p>\n </p>\n <h3>\n  Praktisk info:\n </h3>\n <p>\n  Lørdag den 11. oktober 2025\n </p>\n <p>\n  Kl. 20.30 / Døre åbner kl. 20.00\n </p>\n <p>\n  Entré 100 kr. + gebyr / Dørsalg: 120 kr.\n </p>\n <p>\n  Koncerten er med ståpladser\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1760205600,
+      "end_timestamp": 1760212800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/black-money-orchestra",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-03/Hjemmeside%20KIB%201200%20x%20554.jpg?itok=djSuRMfs",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

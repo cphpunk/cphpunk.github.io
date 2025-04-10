@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-veronica-rud",
+    "name": "Veronica Rud",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Veronika Rud is a singer and composer from Aarhus who has gained attention with her debut EP Mens Jeg Venter, which has been featured on P8 JAZZ. With deep respect for musical traditions and a playful approach to genres, she creates a unique soundscape where softness meets energy, and improvisation breathes life into the music.\n </p>\n <p>\n  Through curious melodies and dynamic rhythms, Veronika Rud invites the audience on a musical journey that touches and connects people across experiences and backgrounds. Look forward to a concert where presence and music take center stage.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1758391200,
+      "end_timestamp": 1758405540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset, Xenon",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/veronica-rud",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-03/IMG_3682.JPG?h=51f99442&itok=WRzrGZke",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

@@ -12,7 +12,7 @@
       "name": "COPENHELL",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.693312500000005,
       "longitude": 12.614187499999971,
       "bounds_ne_lat": 55.693375,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/948350610566024/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/481990627_1095943852334275_2347135204766744559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2T_yov8CABsQ7kNvgFfK3l0&_nc_oc=Adk8Gh1xNkEmVlyFmkRZYUvaL7aQCgON5bWkT8hmh_tlqe2KajeRk_m13gOM7eqQhtc&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=MAHx6OHH6A-oJt2DT3N3lQ&oh=00_AYEDa6TZ6AZWJRLEjZ25tBmVbckGaG9HglOBFSRW__hgXw&oe=67E46D75",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/481990627_1095943852334275_2347135204766744559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=j21zNgdIWB4Q7kNvwHbUQig&_nc_oc=Adk4Fv27zoQh8_Wv8asGS4u6IUecybAe9sdNMMs6_BaLj2YbNWSmrelFcIgazABKukw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=o_5gfCCGh4bR4eecAS38SQ&oh=00_AfHFikP5NRJx_HwmZmSbNvruSSRq1rbbprIpcQnL_ybSaw&oe=67FDB235",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "COPENHELL",

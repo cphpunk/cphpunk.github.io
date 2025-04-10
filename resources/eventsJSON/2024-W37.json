@@ -57,7 +57,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/476092015327069/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/481124269_539323465834224_1245909531386243519_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7eTaxH2dGfkQ7kNvgGI8DdE&_nc_oc=Adkma0Wc3d_jzVIRKtHjSN-uvkfWWFKM_S9iro0XqeRO0WMHSO3j1tfmcBSDXJe-Hz0&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=Y3siHhn4qvAt1iU36tOvGw&oh=00_AYHGd_krNP1WFwOZgDRuf3euLGogm5GpCqckUHK1gk3K-Q&oe=67E4911D",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481124269_539323465834224_1245909531386243519_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_4iXBbOf4boQ7kNvwHa9tQ_&_nc_oc=Adn3zg8X-x4dG6lxf333jvJY_DSo6Z9QxozknUGN5HZcBYPwpCErkfAMZ-_jFhARsSk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=HgEGl4q1rZso9fAlalXEBQ&oh=00_AfHldjeUUNa-999RnO7JuQ3l0lirasREAfV-WTDi0xO8fw&oe=67FD9D9D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
@@ -170,9 +170,9 @@
     },
     "location": {
       "name": "Matrikel1",
-      "address": "Højbro Plads 8-10",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6779375,
       "longitude": 12.579562500000023,
       "bounds_ne_lat": 55.678,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1543349583263454/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/453484361_899029562250993_1762914546109207053_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TZY0E_7iSGcQ7kNvgEKb9Mo&_nc_oc=AdliNenec-LvzoYEivESDXjXTZ5jvLNirr-ztO2Hc4EQAc1MF8390A2yTtH7XfZ9YAc&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=y59q9bzmcUstsWExrK1PFQ&oh=00_AYGd_ynXVGl4BAS3m8eisCx7oJp7U4n9g3irySsnx_tUMw&oe=67E48438",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487476882_1074935254660422_3135216565889740037_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zqTTyL02948Q7kNvwEAfJk-&_nc_oc=AdlKmcFt_27URImDDSY6tS9fys2L-VrdC7PzUYCyd8KnKjhnBNfa_T5fqlEtE-d0YrE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=5ClO57oWxKrAAUmEr8N6Wg&oh=00_AfHwxDTE7EYUz136OdTOU7wBFmyf9hDc42es-nIpfvLh1A&oe=67FDAFCB",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "TechBBQ",
@@ -217,10 +217,42 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1553984278691377/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/485177979_1069167151903899_4492103648118810349_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ftn9h0a4zqMQ7kNvgG5IpYu&_nc_oc=Adn3JIb2eKBmEqc11IuiRE9WSm2tXi9C3JtFxSk1spLN8TrzzzadTw-ZzBCCNSgpWL4&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=YIwy2EK46qmJbjZazxbqTg&oh=00_AYFnh81dqizHgUlx3G6a9Guh9l08XyR0Vr7Lu-UtV_cr5g&oe=67E47921",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485177979_1069167151903899_4492103648118810349_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3BbOK2gK2pcQ7kNvwHZgM43&_nc_oc=AdmuU6y6w4JVzV97wH9fKIOVo0zZ1lfiwLYmUbY_tmAt27YLVZxWSR_Bdbp3S2DNaSQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=_7BDLAMXXXD_G6hYTnJS4g&oh=00_AfFxp0Hc8UnLSnuUWlZNNI_ehx6ggd4xU9G7EtkEZCzbhg&oe=67FDBDE1",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "TechBBQ",
     "page_url": "https://www.facebook.com/TechBBQ/events"
+  },
+  {
+    "id": "777456484357460",
+    "name": "Punks Undead Vol. 115 ",
+    "description": "Next show at Underwerket is Friday the 13th and we are looking forward to seeing all of you there!!\n\nWet Dream War Machine - Punk/Noise from Berlin, Germany \nhttps://wetdreamwarmachine.bandcamp.com/album/songs-of-joy-and-recreation\n\nSpiritual Law - Punk mayhem from Bavaria/Austria\nhttps://spirituallaw.bandcamp.com/album/promo-2024\n\nDødssejler- Garage Punk fra KBH\n\nDoors open at 20// show start at 21\n40 DKK - Remember to bring cash!!",
+    "date": {
+      "start_timestamp": 1726250400,
+      "end_timestamp": 1726257600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Valgårdsvej 2, 2500 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66143749999999,
+      "longitude": 12.518562500000016,
+      "bounds_ne_lat": 55.66149999999999,
+      "bounds_ne_lng": 12.518625000000014,
+      "bounds_sw_lat": 55.66137499999999,
+      "bounds_sw_lng": 12.518500000000017,
+      "plus_code_global": "9F7JMG69+HC",
+      "plus_code_local": "MG69+HC",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Valby"
+    },
+    "url": "https://www.facebook.com/events/777456484357460/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/489259525_1259870482442633_6181620230041199699_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CAiHMQf2JLkQ7kNvwE-w9fo&_nc_oc=AdmgfWBP3SljcDsMLB6R3xMDqRYdBZgv_Wa9LtVPC3aCgawEG-Dq3hqGeAS8aKZ0zMY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=hnG133BCk96LUynM91Efgw&oh=00_AfHCYzO2ZLcnpnhMsPmLwq-3LZsEILm3M_cqPFK-JgjbKw&oe=67FDBB13",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Punks Undead",
+    "page_url": "https://www.facebook.com/PunksUndeadCPH/events"
   }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1036831388012541",
+    "name": "Punks Undead Vol. 114",
+    "description": "We're back after an unproductive and drunken summer vacation, with a bunch of local punk bands!! Enjoy!\n\nBxS Proof (HC/Skatepunk - CPH)\nhttps://www.facebook.com/profile.php?id=61559800619480\n\nINVEKTIV (Punk/Hardcore - CPH)\nhttps://www.facebook.com/invektivband\n\nTackle (Melodic Hardcore- CPH)\n\nDoors open at 20:00 and 40kr! Bring cash for the door! Cheers",
+    "date": {
+      "start_timestamp": 1723226400,
+      "end_timestamp": 1723233600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Valgårdsvej 2, 2500 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66143749999999,
+      "longitude": 12.518562500000016,
+      "bounds_ne_lat": 55.66149999999999,
+      "bounds_ne_lng": 12.518625000000014,
+      "bounds_sw_lat": 55.66137499999999,
+      "bounds_sw_lng": 12.518500000000017,
+      "plus_code_global": "9F7JMG69+HC",
+      "plus_code_local": "MG69+HC",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Valby"
+    },
+    "url": "https://www.facebook.com/events/1036831388012541/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/488417683_1258963602533321_7828327378579999845_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ev7ZlnzKnnMQ7kNvwFQbQvb&_nc_oc=AdnOr3UupdTRi7orTwRU1jgP12Sxoo2Rv96lrW2PfsQhVOG45Se7b1hTiW6Ip9iLwsg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=GnAbLC0qpoXvjBcXd9QSpw&oh=00_AfGacMIaRC0k_fyr5rESBTvM-2NdDUZfwZqwoxIRULb2RA&oe=67FD9EA0",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "Punks Undead",
+    "page_url": "https://www.facebook.com/PunksUndeadCPH/events"
+  }
+]

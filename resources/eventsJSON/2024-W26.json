@@ -12,7 +12,7 @@
       "name": "Sundholmsvej 46, 2300 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.65956250000001,
       "longitude": 12.595687500000011,
       "bounds_ne_lat": 55.659625000000005,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1396658370997656/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/417480567_984869556972507_2759110622250052393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=H3yOpj-juBAQ7kNvgGMMw5-&_nc_oc=AdkJw-nOY5rt4uCj92BqhzcSGYgAZR05sM2MScfhvmpPCMZIOnUXqdh1Dr156eX9XwA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=-K0fUWOqXspVQd7A0VXRDw&oh=00_AYGj3fIqbagUI5fA7bgWftsC5lsEyNaBGtr62msjZ7bmfg&oe=67E0E880",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/417480567_984869556972507_2759110622250052393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tnT04yD4TQUQ7kNvwHBH_SD&_nc_oc=AdmorRcEXAqh6FWR7WBqT8nqxMNKAKyOloPuhQchSNCXRWKTkV9KdaulyfFfLG_vAfc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=l9VZzkjIW_B5k93uzniumQ&oh=00_AfFcc3FsvWqUxDjSS3RdwQq9FWxG8jq9-aR_5ucEJ9D6og&oe=67FDB140",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",
