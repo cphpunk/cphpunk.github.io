@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Copenhagen, Denmark",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1586539025538149/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475836251_1148804553282163_2911656913874227846_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3r1O3McbPlIQ7kNvwHswa9o&_nc_oc=Adnr7gYQyie7_wSnGmlv0LDML3cLP0h0qZxzijD0ecdcqkP83WHdRjuO_IpS86W-t7Q&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=TwgkGDCVCEoH1_n7kas84g&oh=00_AfEtKGYosAItT1UD5GzvrIWalvQ8e_NSWGM9Ke0XnRZTMg&oe=67FD8B43",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475836251_1148804553282163_2911656913874227846_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6Ye0IwKgYi8Q7kNvwGxK2IW&_nc_oc=AdkII5q2StLtFg4XvqTsnA6SiuQHIAXoUFNma9Dxn91AY2u3cs67VRA20BtHXhf2Ilc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=UJIFlvL7ooTU4zdO_23KEA&oh=00_AfFY-g7bTyPrzpKbLxLqFGhe9R5MkLc6gucMFGwg9MHsLg&oe=680422C3",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -140,7 +140,7 @@
       "name": "Åboulevard 50, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6851875,
       "longitude": 12.552562500000008,
       "bounds_ne_lat": 55.685249999999996,
@@ -153,7 +153,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1010452587713932/?event_time_id=1010452614380596",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488306452_1181345213682341_8279017725609140965_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SIUYeCc-OawQ7kNvwH25-Pj&_nc_oc=AdkzAkrxvZAObYUpRMLZ9lSbAXbAGO-9sy66QsJHMnOhG_CMqieZO9DbuGHu5-RfRGc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=JdkzjlRB2cdbO0PaqB-VLQ&oh=00_AfHJWZ0U7LEt-0u1KFi-JV2b8PmFG3wDojGeWd4RfwM_VA&oe=67FDBFF5",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488306452_1181345213682341_8279017725609140965_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QM_0KecAu5MQ7kNvwHXQ8bQ&_nc_oc=AdmHm2LIUDj-XG5uKbJV6Z-VpGqP7086NeBM3DBiXpYmZ5_DNxHfcUkPNegK9jmT5Uw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Koo3-xhnuJg9lVl6Nfx_lA&oh=00_AfFaprOM_zluLKNNW9fpcObaNtVAW6vpU5sqf7vvql2fJg&oe=68041F35",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Sorte René",
@@ -170,9 +170,9 @@
     },
     "location": {
       "name": "Rådhuspladsen København",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.67631250000001,
       "longitude": 12.569562500000032,
       "bounds_ne_lat": 55.67637500000001,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1727838408151644/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487240426_1186521289510489_3903156913697157417_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uoZNSJdQoYAQ7kNvwH19bqG&_nc_oc=AdmPiuG6AmVknT4s0KgLUluGzJwTI8UJPn-mRKeu5_12jEdH4qJqI9Nc1cao5ChdGwU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=gzVtjxZHfdI-Vwy8hx5dCw&oh=00_AfFs4u68aaNEMOIhScSu8q-MMmMntH-M433ZF2DSF0iKbg&oe=67FDA85C",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487240426_1186521289510489_3903156913697157417_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Gt2viMtBDaUQ7kNvwEzScYO&_nc_oc=AdlNxvyS-WQexCV_EHCNExQevMpY9pJGyx9CaMAKA_kJ4Z0tn2tFmZoHt7Sq-qBYiuo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=8difVD94WdGc2jRDVrxBiw&oh=00_AfFOHZQHsivHyMSeOeyPg6QLX5-O4Ys_LJFmgP3yQtkTXw&oe=68043FDC",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/4040405936193477/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489672057_1196711571824794_5466015340130635560_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oDrLiirUCucQ7kNvwHke1U3&_nc_oc=AdmEvE-uQ18D5sT9quxXn-_FHP0Kd58xBkmuUyVCw-x-rxNxWPAvk6ASzLCLvM-lJUQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=dT6GvmWu9PUblR47EIBo2A&oh=00_AfGxdfjvEDTqjCXH4IU5EKX-GaCZkmzMpwrNpYT7dXbUtQ&oe=67FDBAEC",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489672057_1196711571824794_5466015340130635560_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-t0IbRY7olgQ7kNvwFDlppg&_nc_oc=Adn5H9ZVidKGBTLHlXR7kqupYcbw7hk-VQw-mjvloVjyf4AaQ2jegZ-I62uqEapmj1w&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=BlQNjybybmaXlOE1gfgmCg&oh=00_AfHzstk4vwfE8SPac0g0CQF69wkU7zIw0fx2hHByWK3gHQ&oe=68041A2C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -236,7 +236,7 @@
       "name": "Nørrebrogade, 2200 København N, Danmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.693749999999994,
       "longitude": 12.548750000000013,
       "bounds_ne_lat": 55.69499999999999,
@@ -249,7 +249,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/601394782926282/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490264275_1196743498488268_2655647545237464582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=u6Mv08MakhQQ7kNvwGvWot3&_nc_oc=AdlCN2wnaiFy7jrJ7L93GJg-xQLHiL7MQJStykYpnPBXxetRvslmwSs6gv8oJ8WjjLU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=CPS9wNKqs4ns20rT8tR7Ag&oh=00_AfFZCxV5IzOwCAqM9MDLtPO5q6qXZDCwhH4gSjHd_D2ERA&oe=67FD9F51",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490264275_1196743498488268_2655647545237464582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kSrzOxASfFIQ7kNvwGXOThe&_nc_oc=AdknaWkd8NdH-abJp-JGontf8kXUijodjL6k91UR8Vq3Iko5wwfrRvwD2o-FJ4HGU0s&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=gukOT_crAUlGir7K-0yEog&oh=00_AfGs2lKDSKzAIdeKGN6mJcdK3Rz71MNOsH1r9mEwqEFt-Q&oe=680436D1",
     "tag": "SPORTS",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -281,7 +281,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/632950632998342/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489875642_601915479558976_5482797189429557468_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=58HvVZ8nXEUQ7kNvwHA-8h-&_nc_oc=AdldphcNq_wMcFUclbQHMgXbP88tkuaxIBxb_DzKgpxWMQ-PHBPW7RtrNrk5smASXsA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ia9ZmD8oPfLc4N5i7OoPsw&oh=00_AfE7pG3EhCKkqdlDx26U6yiChJ-ZVtns9MBm-Y1YRMJ5XA&oe=67FDAC37",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489875642_601915479558976_5482797189429557468_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Pgba2_JwvbAQ7kNvwGX_9SD&_nc_oc=Adn9LvYyOYZ8Z57En8FmNfXEh2stnRmIw4n0z1UK7Q59go2PtFpu72cOLbTGQLmEyKs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=iFVQntK0B1zFWjtloa8G7Q&oh=00_AfEobmzPqrFRbGUYF0iIFZBDUjw-scoHm_N7Cc3kXrVgIA&oe=680443B7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -300,7 +300,7 @@
       "name": "Den Bemandede Legeplads ByOasen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.692937499999985,
       "longitude": 12.557562500000003,
       "bounds_ne_lat": 55.692999999999984,
@@ -313,7 +313,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1165667211522142/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490353221_1196713338491284_7397950314728003682_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4LeooCjK-d4Q7kNvwFnLbNl&_nc_oc=AdkeDABjdXJ4Cp5dKo60AY1G6nNPFxy_gD3YFuYRvvZzTdzGF9ufg4Th6TIRlWdh6D4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=pHymZRazvm5JRBvAT35c8g&oh=00_AfHw4AsbQO3LfmLbYDk6nDJEQUX8yOIL91v8LO5R1Gm17Q&oe=67FDB897",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490353221_1196713338491284_7397950314728003682_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=V62vXlphOAAQ7kNvwE0tQDS&_nc_oc=Adk0u0fRYHfyy9lQ9kpZlTiiVb0SoqWQMsf2MdzxJqu3eRWAetB4YdjIuXpN4L1xce4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=oMswd4vyCzruy56SbO5Jag&oh=00_AfFtIlXjh0wmgySxuc4ZBtAelTYPWWNJ2WPHh7w47b6qvA&oe=680417D7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -345,7 +345,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1578215962882970/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489987949_1196738095155475_5173789838477196861_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-Oz6MavFxqQQ7kNvwFbVrNK&_nc_oc=Adkz4JJOrxTWkLKJWqA25BYoMbbs7aoJ0DK07AarMvUZW7iu0OXeX3tJAAf8PIpMY_8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ymAUcezhulgyfhuAQCQ0AA&oh=00_AfG2xmomsmi7A2fGisTCu5o9bQIS6vF30bXob_pj-fk7cQ&oe=67FDA851",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489987949_1196738095155475_5173789838477196861_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P1c8VM2aq2gQ7kNvwHbzP1u&_nc_oc=AdlPXqMNn9Ad4RklE5Xo4miUbNRXwS4jNEvtaXDpE-I0H1y6g8gowpxQUBTIiyi0V_A&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VfqKf0bgghL80Pn-0bqhZg&oh=00_AfFggugynnbERqD911a_N4Ub7q3wNai9gDaqITaPtiIXKw&oe=68043FD1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -377,10 +377,42 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/654387390561886/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489991141_1096494389163075_2813453295346877225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qBHNxKpru-8Q7kNvwGBENsl&_nc_oc=AdkYU1YxpQPldGMrF7Aanozey_VujeM7JxkJuiPA5BZNHwujZB6AeIECTIYpCbVex0g&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=WA1y_ZQp8a0pVqVAu6NevQ&oh=00_AfH75pn1EtOjjoo8X6RCTsAHK6Mg2dtZ-w8rclRmf19C7w&oe=67FD8A2B",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489991141_1096494389163075_2813453295346877225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YrxjWyxwexcQ7kNvwEsATv6&_nc_oc=AdndF7K_-eBhcL2sipl1xJVAd9-S3smMtcZX9WxLnWzDvmdb4XjV9Ui3RTpH-yItXlQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ZwJdSJz64Smsi0JGiAczcQ&oh=00_AfE0a1P4DrQpmPMLUCnY-XOCZ3btsenTg_vqU9YKfddzaQ&oe=680421AB",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "DISTORTION",
     "page_url": "https://www.facebook.com/cphdistortion/events"
+  },
+  {
+    "id": "1019788319601932",
+    "name": "Howe Gelb Solo (US)",
+    "description": "Howe Gelb returns to Amager Records!!\n\nHowe Gelb har længe været omtalt som 'the godfather of alt-country' og 'ambassadør for ørkenrock'. I tre årtier har den tidligere frontfigur i Giant Sand formået at blande elementer af rock, country, blues, punk, garage, lo-fi, jazz, gospel, avantgarde-støj og flamenco-sigøjnermusik.\n\nOplev en af hjørnestenene i amerikansk rock i helt intime rammer.",
+    "date": {
+      "start_timestamp": 1749060000,
+      "end_timestamp": 1749067200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1019788319601932/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490573269_1169143588555555_859567770957317570_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IPGc8dtgEcEQ7kNvwFhSao5&_nc_oc=Adks5Vfju7kQ9FK83EVZio6n9QEZqUcsIdoyiKcnY8dbriE4RP21gBz3O-exig1aLx4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Pi-DeqYyABe2tRPyHFPs8w&oh=00_AfG5tgaMCjHR9xxwewHOsYkQrjRlR6wvAnevZW2YwlIalg&oe=6804364F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
   }
 ]

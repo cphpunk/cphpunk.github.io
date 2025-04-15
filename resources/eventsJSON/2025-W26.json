@@ -57,7 +57,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1143797654062067/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485339337_999719588955988_5825987245575182202_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2pKXZv06ex8Q7kNvwGSj8qN&_nc_oc=AdnQk_VHiANN76RC6oFWqt03Vvq9xDVbZ_LyJUThyKKeFquruKsDQTOInUZIxTxe4OE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=XZ0gIDqo_ZMZ1O8ZuE7O4g&oh=00_AfE7uqGYtInTUOlb4nx2AbIOiw0NgUpgGag4Uo84O3MC_w&oe=67FDA3D7",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485339337_999719588955988_5825987245575182202_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Z4GhHEEn0V0Q7kNvwGL-ydM&_nc_oc=AdnDopysoaI3txETnAiR_zxddothzuB3hPEs3FafpzKxIRDa6WCbPeuGYU8hxT2DY_k&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=XxE6ihrfFR2MexUZBkOSHA&oh=00_AfFtjZEfclELg2glvTlxkyFkKVCHf8tgHzekNSeHct9VOQ&oe=68043B57",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
@@ -76,7 +76,7 @@
       "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6659375,
       "longitude": 12.5805625,
       "bounds_ne_lat": 55.666,
@@ -89,10 +89,42 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/1129368105338489/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485147860_999719425622671_8211337399820894034_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OsjQqYVI6rIQ7kNvwH9t5Rn&_nc_oc=Admz0Qv22W0W7TDyZjcs91hR0F7KECYCtonrocWIQBUynlcr3waJXgNiIHzq714Ucp0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=AIiX86Vt94VulN4-hwdcqw&oh=00_AfEliLbcy4ypylH4M3rWEhC477aIsRB9leDJRFEx3Iv_bA&oe=67FDB333",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485147860_999719425622671_8211337399820894034_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mha3WIKIKzkQ7kNvwEaG887&_nc_oc=AdluoQ_XLjMdaLu6K4R5-IbiU6ECWmVH3Pc26NZtGrtylqFl6N3RidouzHBHonI-Ib4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=9HinFp3MGq7taRwbrlZhwA&oh=00_AfGClBH7uSeHNyCDFxvc2rL2UJhOfo75gYTmFbg3slVuoA&oe=68041273",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Extinction Rebellion Danmark",
     "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "965301855499604",
+    "name": "Friday Night Skate 4 tur. (Foreløbig dato)",
+    "description": "Opdateringer og ændringer offentliggøres kun på FNS's egne begivenheder!\n\nÅrets 4. tur på rulleskøjter gennem København, hvor vi igen starter og slutter ved Next House. Ruten bliver lagt op i løbet af ugen op til turen.\n\nVi skal nå igennem turen på ca. 20 km på 2 timer inkl. pause, så du skal kunne rulle med mindst 15 km/t i snit og have god styr på dine rulleskøjter, dvs. være god til at kunne bremse og dreje.\n\nVi er mange i feltet og alle skal have en god tur, så følg reglerne med kun at køre på vejbanen, vis hensyn til hinanden og hjælp blockerne, når de giver anvisninger til feltet.\n\nHvis du ikke kan følge med, bliver du sat af feltet af vores bag-blockere med et pænt: Fortsat god aften og så må du hjem og øve dig. Du er meget velkommen igen, når du er hurtig nok\".\n\nOg så er det ikke tilladt at være påvirket af alkohol eller andre rusmidler, når man ruller med.\n#EWOSDK #BeActive",
+    "date": {
+      "start_timestamp": 1751045400,
+      "end_timestamp": 1751052600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Next House Copenhagen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.669562500000026,
+      "longitude": 12.570937500000028,
+      "bounds_ne_lat": 55.669625000000025,
+      "bounds_ne_lng": 12.571000000000026,
+      "bounds_sw_lat": 55.66950000000003,
+      "bounds_sw_lng": 12.57087500000003,
+      "plus_code_global": "9F7JMH9C+R9",
+      "plus_code_local": "MH9C+R9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/965301855499604/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484071318_1173580527546274_5994794765945663999_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jyUi6TiInqwQ7kNvwFyOSWD&_nc_oc=AdkM9RTLngepNIraQAJDJ6tv93ohETH8yHe4AaxRmv-rG87Q2K1RqTNkrV7nFrLO7fM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=q6xUMYaHSH8p7TgncqEvYw&oh=00_AfESCm8omhBhpjwj6pE0xBo5fsHdOFCLP3fGmnhVlmfoHA&oe=68042A5C",
+    "tag": "SPORTS",
+    "platform": "Facebook",
+    "page_name": "Next House Copenhagen",
+    "page_url": "https://www.facebook.com/nexthousecopenhagen/events"
   }
 ]

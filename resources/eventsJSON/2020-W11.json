@@ -12,7 +12,7 @@
       "name": "Københavns kommune, Frederiksberg kommune",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67625000000001,
       "longitude": 12.513749999999987,
       "bounds_ne_lat": 55.67750000000001,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/550826409106829/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/80685207_3561575457201084_2875633088895909888_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=poXcExtcfBoQ7kNvwH7pUtE&_nc_oc=Adnmdp8DECV7zeeMJH2LyUbyK9oCOGIxTqHTZKxbL2QVQgwo0wfEm_WyxclI0TmwTDo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=H6NDQ_fCH3IPQJIcxBUcLA&oh=00_AfEUPSvuLBaBsWBvrY3D6Noy0ncY_LfcPKkxar5q2xiTEA&oe=681F30A2",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/80685207_3561575457201084_2875633088895909888_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SKe5qhGAVrQQ7kNvwE2K2uV&_nc_oc=Adkp-YQloURH-IJ5-LUsQQO9DiYQjxWPZgMOZIPEnsIoxqV2Vv4_VeNZD8a0zpMjUDg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=2cSeSGZiBI2IPHQauZPSJw&oh=00_AfGDt1_zrCPWYVomcCgJzOwjd9iVCMH1n-sMcWyBZLKEEQ&oe=6825C822",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Kulturnatten",

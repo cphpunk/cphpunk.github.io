@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "URBAN 13",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Bispeengen 20A",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.694937499999995,
       "longitude": 12.535062499999995,
       "bounds_ne_lat": 55.69499999999999,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/472026684406122/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485030287_3068295270015449_4932361074540918657_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BDKaax0z3u4Q7kNvwFaQCW9&_nc_oc=AdkpI49SRYj9Khv1DAENoiPecXXOIBblOYpLVQdjOMJevAetOnB0EEYU32lySQmDB-U&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=hzUt98cKanZ7BM74_hqCCA&oh=00_AfFrgX6qq8Mc56Qs48twTsF6TJ_Rc1dZM0okqvjmq7Oyrg&oe=67FDA116",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485030287_3068295270015449_4932361074540918657_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Y_-gxAvYf14Q7kNvwGbbNiL&_nc_oc=Adk2Ebud1wg3VGrcUYnchN4DnlydTLG86xFLX0RFR5L8auZUEkLO9zBHjfo1yezcCKQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=3DAY3Dtkd-zi9pfujc2KRA&oh=00_AfGPuVcQOdWCYN-gRZ72GYg0PiO0u2r6QImkIjnmJNXFeQ&oe=68043896",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Carpark Festival",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/448249746634748/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475265500_3866626713588353_2811866654276549469_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xHPbMPkJ52cQ7kNvwEPkV6C&_nc_oc=AdndAjwU8vjglDnpMy0r-uUxYcVpoJx1SG2mSJfE5ECLvmgYY-wrEfhsEi5Wtvev1Fk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=cOsA1Q_neGjAwZswcyAk5Q&oh=00_AfFCuGaNAhhYc_oYPhjUieI56HaQRU5_SVlXf4mDRU0xvQ&oe=67FDC15E",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475265500_3866626713588353_2811866654276549469_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LFnJPV9QbxwQ7kNvwGVJhpG&_nc_oc=Admso3yfnC5lsGPYhI8VzQCYyeKqYuuHXb3BSmj9LsCPyLikzS9LsY7txRjtKFAn-3k&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=PJdCKN8Qfl2Myg5ajPNJlw&oh=00_AfFa96RH9C9IFGrc8ewkBVGNylVjG_CQT_EpY8tme5eSJQ&oe=6804209E",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Science & Cocktails",

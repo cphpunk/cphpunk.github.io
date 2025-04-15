@@ -12,7 +12,7 @@
       "name": "Underwerket",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.66143749999999,
       "longitude": 12.518562500000016,
       "bounds_ne_lat": 55.66149999999999,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Valby"
     },
     "url": "https://www.facebook.com/events/1194755908243626/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/489696314_1219708820154721_8038881300351435131_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R02_KCxo_7gQ7kNvwE_m-EB&_nc_oc=AdkIfQ0kiEVglpUlrqPpQlS8lg1s-FQ1nHyceHW9R3tIYC74uWGtd9ZTzcIdlHovLMY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=KeJQ1f2hPMVnM-S4n96wmA&oh=00_AfG_fEgh0Y8WoXcXOd97p0r0exep6QtAovWfCsPxNgIdMg&oe=67FD9640",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489696314_1219708820154721_8038881300351435131_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zoKEfEDGbVIQ7kNvwGfiKD4&_nc_oc=AdkJaWycOdzPE5JY3cn-IWHdH4RmQzIXe2JUDqw3BH__MNMEyzeMRSYft5EeJFJ1dbQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=RwPrwIq53JT7uLSBZCXINA&oh=00_AfE7kDwEf93yr-tMkp4AHMdM0dDCbEApO7i1vBLDC3vwtQ&oe=68042DC0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Punks Undead",

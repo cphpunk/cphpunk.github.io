@@ -12,7 +12,7 @@
       "name": "København",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/277002317053893/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/202634116_5995008017191137_147557121806268487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ERuJ1_kaZekQ7kNvwG-F47v&_nc_oc=AdlkZK0IMWGxAUnjO90_kocfHDPdxZeiuX1RMTkNUJHMqnpkrvuR-FwJG5iCLzLoHNw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=gaD5Z0SWwuQRJbFe6dWo6A&oh=00_AfFvWmfkTyool3UzEHDjig9PrrsrwYCtL4p7F4bzsJPdSQ&oe=681F43B3",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/202634116_5995008017191137_147557121806268487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mWp67RhZRLsQ7kNvwFGpyEN&_nc_oc=Adnnrln3MVpAfdjCpB-jluTp5DtiOpNE1Iz90dlzI-zWfP8X3QfLIuWtUUJIxfC2_Zo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=2B1ufDanTo9XGfc85ix8oQ&oh=00_AfFaoOVqFy7zcf27VHdBH7JqehnRSJAvaJu1WWTFqKjb_w&oe=6825DB33",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "Kulturnatten",
