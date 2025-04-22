@@ -76,7 +76,7 @@
       "name": "Sjællandsgade Bad",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
       "bounds_ne_lat": 55.6935,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1569710526987795/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/481133704_627242406713753_4108814532391748361_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EkZHCMbNe6EQ7kNvwELvIUR&_nc_oc=AdloQRBM0EDp_Nu76DZ3yXWRfO1mdB3RxLhkcKq6FnTfgIyOMUN8QfATi06ITGTu0es&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=fOMKcDkFRUCRRsRWY6EllQ&oh=00_AfGPgcgpqKtWAhtqmazO50Qa8OuAEbj58OQFdCzupdWz_Q&oe=6804206E",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/481133704_627242406713753_4108814532391748361_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=APamGe7rtHUQ7kNvwG6N8Dm&_nc_oc=Adl4-i1QuYNBZ22AU1KU2yrf_CtNPjZ6_UpznxUnPGtfT6pZ8ZPLygEV1Sxq-drMoTo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Frmuu6lSN5e1OI5y1Ag8cw&oh=00_AfGR-FNCEVBqhpQnJyTxJtmWhzpbDTUu-xe05dC1K5W94A&oe=680C41AE",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",

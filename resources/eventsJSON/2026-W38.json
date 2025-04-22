@@ -12,7 +12,7 @@
       "name": "Gunnar Nu Hansens Plads 11, 2100 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.70468749999999,
       "longitude": 12.573812500000017,
       "bounds_ne_lat": 55.70474999999999,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/1142791363741706/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/479192142_122147760950499563_4016000071188734822_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TgquJnj7cqoQ7kNvwG_XtO6&_nc_oc=AdkJ3YCHqIgxClKgQJmxzaziqmup1sxBzbHo845PyxE3qDkRwV98DrBM8swo8xEr_cc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=cLMupZU2K_MKZHaFOvJOfQ&oh=00_AfHzawTobWsS6HQHiLJwv-8WKD56PAUKlKk9i9t5YgAVKw&oe=68041E29",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/479192142_122147760950499563_4016000071188734822_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Wrj99UHk6IcQ7kNvwHamvGT&_nc_oc=AdnpKlu7TUNJD0qklxr5lRXGUUvCl3w6Vi23pPojMRAHi7AcVgr0jVTtMzS9DX8DaSk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=qJr6p1ZLYGqIkXI3NJFNgg&oh=00_AfEUS8idKx9vK3c-0mPeU-6zwVvMF8fP4RPVMLbhKjHJsA&oe=680C3F69",
     "tag": "SPORTS",
     "platform": "Facebook",
     "page_name": "Copenhagen Half Marathon",

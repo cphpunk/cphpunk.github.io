@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Copenhagen, Denmark",
-      "address": "",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1586539025538149/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/475836251_1148804553282163_2911656913874227846_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6Ye0IwKgYi8Q7kNvwGxK2IW&_nc_oc=AdkII5q2StLtFg4XvqTsnA6SiuQHIAXoUFNma9Dxn91AY2u3cs67VRA20BtHXhf2Ilc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=UJIFlvL7ooTU4zdO_23KEA&oh=00_AfFY-g7bTyPrzpKbLxLqFGhe9R5MkLc6gucMFGwg9MHsLg&oe=680422C3",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/475836251_1148804553282163_2911656913874227846_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XRuoj2LOf0UQ7kNvwGwto9h&_nc_oc=AdmZH4VLrmkRfPfLfr4SUcvdRwFgwMs62wEDTl4U1FyQipeunSGavkS9hMqTkHnX-zY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=0XLdVw3Rs-ITPzn5dYdX0g&oh=00_AfEbMmsyHDI3f9RPFvGveWA29QDUnPhPo0dwWcjiMs1SMw&oe=680C4403",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1010452587713932/?event_time_id=1010452614380596",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488306452_1181345213682341_8279017725609140965_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QM_0KecAu5MQ7kNvwHXQ8bQ&_nc_oc=AdmHm2LIUDj-XG5uKbJV6Z-VpGqP7086NeBM3DBiXpYmZ5_DNxHfcUkPNegK9jmT5Uw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Koo3-xhnuJg9lVl6Nfx_lA&oh=00_AfFaprOM_zluLKNNW9fpcObaNtVAW6vpU5sqf7vvql2fJg&oe=68041F35",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/488306452_1181345213682341_8279017725609140965_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pqYu5waaLW0Q7kNvwFM_ovr&_nc_oc=AdkAUJBqrTvG_UMn1PAGAWt6hQCf7TeKIxnXPOljQvU61by8HDO9HRbDXyItGOiAWhw&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=eOL7oAJ68aUg8Vg02jF_mw&oh=00_AfHMUyXuSo5r6XvsrfpJneUhPl1CslWFophiKZvfTxVK_g&oe=680C4075",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Sorte René",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1727838408151644/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487240426_1186521289510489_3903156913697157417_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Gt2viMtBDaUQ7kNvwEzScYO&_nc_oc=AdlNxvyS-WQexCV_EHCNExQevMpY9pJGyx9CaMAKA_kJ4Z0tn2tFmZoHt7Sq-qBYiuo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=8difVD94WdGc2jRDVrxBiw&oh=00_AfFOHZQHsivHyMSeOeyPg6QLX5-O4Ys_LJFmgP3yQtkTXw&oe=68043FDC",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/487240426_1186521289510489_3903156913697157417_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8kGDXIfr-hEQ7kNvwFZRVfp&_nc_oc=Adni3FF3fpkWZHtZ8sEawYKpSR1xpPl0Fp2xcGBooSgI3rkCRKQEa-1x1wcNPgIPUNA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=dBqwPqVIMkXPl7DLQpjoKQ&oh=00_AfFBcxEOW_o1z3_fDRfngg1-ElnnN_ujpigf04-9R9v0ZQ&oe=680C28DC",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/4040405936193477/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489672057_1196711571824794_5466015340130635560_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-t0IbRY7olgQ7kNvwFDlppg&_nc_oc=Adn5H9ZVidKGBTLHlXR7kqupYcbw7hk-VQw-mjvloVjyf4AaQ2jegZ-I62uqEapmj1w&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=BlQNjybybmaXlOE1gfgmCg&oh=00_AfHzstk4vwfE8SPac0g0CQF69wkU7zIw0fx2hHByWK3gHQ&oe=68041A2C",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/489672057_1196711571824794_5466015340130635560_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IfuhHQUCu7MQ7kNvwFYVCAq&_nc_oc=AdnPWMIHPIbU01gm5Vk5tV9ha02PujCXDXaRwNrcoRRXhZhNhx3OP5buBXM4F0M6jZI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=wHMIZP0UN3wt3E6o5d-YXQ&oh=00_AfEOg5wz-VLRB312luYJ94AVnuPwLmW4i2l3wF6bWTitsQ&oe=680C3B6C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -249,7 +249,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/601394782926282/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490264275_1196743498488268_2655647545237464582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kSrzOxASfFIQ7kNvwGXOThe&_nc_oc=AdknaWkd8NdH-abJp-JGontf8kXUijodjL6k91UR8Vq3Iko5wwfrRvwD2o-FJ4HGU0s&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=gukOT_crAUlGir7K-0yEog&oh=00_AfGs2lKDSKzAIdeKGN6mJcdK3Rz71MNOsH1r9mEwqEFt-Q&oe=680436D1",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490264275_1196743498488268_2655647545237464582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-fcqmfnnlLoQ7kNvwEolc6t&_nc_oc=AdmKxzwaDSp5tZz0Xi7tlGSLwL4biFWLPq5PS3WkYOroyqgDCtFUiJYbXET8845HuCI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Ozb1gGul3KEdISZp0P5W4A&oh=00_AfGLyiyWdc9dX_OJ6TeU75e4T9dkd5Vdq-0z6Unmu_ChNg&oe=680C1FD1",
     "tag": "SPORTS",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -258,7 +258,7 @@
   {
     "id": "632950632998342",
     "name": "ALORS ON DANSE DISTORTION NØRREBRO 2025",
-    "description": "Alors On Danse Festival is back—in the heart of Distortion Nørrebro Street Party! Join us at Sankt Hans Torv for an unforgettable evening of dance with live showcases, a salsa party, the Smooth Operator Dance Battle, and a special guided dance class to Amapiano with Datif. Hosted by Brice Johnson with DJ Indigo on the decks—get ready for great vibes, throwback tunes, and some smooth dancing! Check the detailed schedule below! \n\n🌟 16.00-17.15 SALSA with Maria Isabel Cupull & Ricardo Axel Castillo \n\n🌟 17.15 - 18.30 Dance School Get Down \nTalents from:\n• World Dance Academy\n• CPHdans \n• All in one Youngest \n• Beatjump Dance Studio \n• STEPZ Dansestudie \n• Danseplaneten \n• Hotstepper Dance Studio \n• Gaardbodans \n• House of Momentum \n\nHOST: Brice Johnson aka Professor Lock \n\n🌟 18.30 - 21.00 DANCE BATTLE \nSmooth Operator Vol. 3\nFormat: 3vs3 - all styles are welcome \nPreselection in battle format, judges pick Top 8. \nMusic: R’n’B & throwbacks \n\nJudge panel: \n• Griimsenn \n• Theresa Gustavsson \n• Laura Yoneyama \n\nHost: Brice Johnson \nDJ: Indigo \n\nWinners prize: 6000 DK \nSign up (mandatory, limited amount of spots - 16): https://forms.gle/3GDRqj5u97REHcmM9\n\n🌟 21.00-22.00 Amapiano with Datif \n\nAlors On Danse is a collective gathering that brings together diverse dance genres, schools, performances, expressions, and cultures. With a focus on unity, appreciation, and inclusivity, this event is made to create a welcoming space for everyone to participate. Alors On Danse is part of Distortions initiative AktionHygge that promotes party with dance and culture! We hope to see many of you joining us for the day of dance! \n\nWith Love,\nToniah & Anastasija :) \n💕🌟",
+    "description": "Alors On Danse Festival is back—in the heart of Distortion Nørrebro Street Party! Join us at Sankt Hans Torv for an unforgettable evening of dance with live showcases, a salsa party, the Smooth Operator Dance Battle, and a special guided dance class to Amapiano with Datif. Hosted by Brice Johnson with DJ Indigo on the decks—get ready for great vibes, throwback tunes, and some smooth dancing! Check the detailed schedule below! \n\n🌟 16.00-17.15 SALSA with Maria Isabel Cupull & Ricardo Axel Castillo \n\n🌟 17.15 - 18.30 Dance School Get Down \nTalents from:\n• World Dance Academy\n• CPHdans \n• All in one Youngest \n• Beatjump Dance Studio \n• STEPZ Dansestudie \n• Danseplaneten \n• Hotstepper Dance Studio \n• Gaardbodans \n• House of Momentum \n\nHOST: Brice Johnson aka Professor Lock \n\n🌟 18.30 - 21.00 DANCE BATTLE \nSmooth Operator Vol. 3\nFormat: 3vs3 - all styles are welcome \nPreselection in battle format, judges pick Top 8. \nMusic: R’n’B & throwbacks \n\nJudge panel: \n• Griimsenn \n• Theresa Gustavsson \n• Yoni Mercury \n\nHost: Brice Johnson \nDJ: Indigo \n\nWinners prize: 6000 DK \nSign up (mandatory, limited amount of spots - 16): https://forms.gle/3GDRqj5u97REHcmM9\n\n🌟 21.00-22.00 Amapiano with Datif \n\nAlors On Danse is a collective gathering that brings together diverse dance genres, schools, performances, expressions, and cultures. With a focus on unity, appreciation, and inclusivity, this event is made to create a welcoming space for everyone to participate. Alors On Danse is part of Distortions initiative AktionHygge that promotes party with dance and culture! We hope to see many of you joining us for the day of dance! \n\nWith Love,\nToniah & Anastasija :) \n💕🌟",
     "date": {
       "start_timestamp": 1749132000,
       "end_timestamp": 1749153600,
@@ -268,7 +268,7 @@
       "name": "Sankt Hans Torv, 2200 København N, Danmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69068750000001,
       "longitude": 12.560937500000009,
       "bounds_ne_lat": 55.69075000000001,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/632950632998342/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489875642_601915479558976_5482797189429557468_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Pgba2_JwvbAQ7kNvwGX_9SD&_nc_oc=Adn9LvYyOYZ8Z57En8FmNfXEh2stnRmIw4n0z1UK7Q59go2PtFpu72cOLbTGQLmEyKs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=iFVQntK0B1zFWjtloa8G7Q&oh=00_AfEobmzPqrFRbGUYF0iIFZBDUjw-scoHm_N7Cc3kXrVgIA&oe=680443B7",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/489875642_601915479558976_5482797189429557468_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Uujr0tS8Hq8Q7kNvwEDE_-l&_nc_oc=AdlC30WnjzAbywR-EGcV_UpIK7RvS3qEP-5miBvtyQzNl1jzvSLyJ5J4xX_FXQRRfS8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=R-B_JFYvAygHBZ837eRkvg&oh=00_AfFqpCd8TW0lh4YXad_8sKPODS6_8peNjJ10JjettbSXAA&oe=680C2CB7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -313,7 +313,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1165667211522142/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490353221_1196713338491284_7397950314728003682_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=V62vXlphOAAQ7kNvwE0tQDS&_nc_oc=Adk0u0fRYHfyy9lQ9kpZlTiiVb0SoqWQMsf2MdzxJqu3eRWAetB4YdjIuXpN4L1xce4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=oMswd4vyCzruy56SbO5Jag&oh=00_AfFtIlXjh0wmgySxuc4ZBtAelTYPWWNJ2WPHh7w47b6qvA&oe=680417D7",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490353221_1196713338491284_7397950314728003682_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AtNgoP8FliEQ7kNvwEqgI_m&_nc_oc=AdnfXGKafPy5gaWGNJ7ri_730Uz9HPzig6Xk99eeBocx0hwd_UQJTQR8_5_QntdckKU&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=S3_ohPPP0vGj9fNaDoxWjg&oh=00_AfEG2uYfDYNGb2Fu9o7cBsxwf_4LZ4Y8EOM55i1MOqfO_w&oe=680C3917",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -345,7 +345,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1578215962882970/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489987949_1196738095155475_5173789838477196861_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P1c8VM2aq2gQ7kNvwHbzP1u&_nc_oc=AdlPXqMNn9Ad4RklE5Xo4miUbNRXwS4jNEvtaXDpE-I0H1y6g8gowpxQUBTIiyi0V_A&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VfqKf0bgghL80Pn-0bqhZg&oh=00_AfFggugynnbERqD911a_N4Ub7q3wNai9gDaqITaPtiIXKw&oe=68043FD1",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/489987949_1196738095155475_5173789838477196861_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iDSyqyQp7QYQ7kNvwHuvXuA&_nc_oc=AdmrGXtYAFzjyBqlsFeJiKieMF85Cf_S7clytBm1n_f7r9HAlqsFibbu592QSwb9esE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=VX11ito98IedGUXh1y10ag&oh=00_AfEQQ1lusFvtoPhBhBY4XtLKnIuGzlG6GoCEoJyqPxRDAA&oe=680C28D1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -377,7 +377,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/654387390561886/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489991141_1096494389163075_2813453295346877225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YrxjWyxwexcQ7kNvwEsATv6&_nc_oc=AdndF7K_-eBhcL2sipl1xJVAd9-S3smMtcZX9WxLnWzDvmdb4XjV9Ui3RTpH-yItXlQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ZwJdSJz64Smsi0JGiAczcQ&oh=00_AfE0a1P4DrQpmPMLUCnY-XOCZ3btsenTg_vqU9YKfddzaQ&oe=680421AB",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/489991141_1096494389163075_2813453295346877225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iJxV4MMTmSgQ7kNvwEL7fz_&_nc_oc=AdmDp8vHHDSp-Lqj-kRCbXYQVihUFcsSp9wzAXwGog-6aZq6xJxvKlS-si6ScNQcX0E&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=FOL_W4Jme2256OXhZOQKyA&oh=00_AfGZ4LYppQsZ_6EMSOMYJTgqS2VegOu7evR5HOLxOvGwXg&oe=680C42EB",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -386,7 +386,7 @@
   {
     "id": "1019788319601932",
     "name": "Howe Gelb Solo (US)",
-    "description": "Howe Gelb returns to Amager Records!!\n\nHowe Gelb har længe været omtalt som 'the godfather of alt-country' og 'ambassadør for ørkenrock'. I tre årtier har den tidligere frontfigur i Giant Sand formået at blande elementer af rock, country, blues, punk, garage, lo-fi, jazz, gospel, avantgarde-støj og flamenco-sigøjnermusik.\n\nOplev en af hjørnestenene i amerikansk rock i helt intime rammer.",
+    "description": "Howe Gelb returns to Amager Records!!\n\nHowe Gelb har længe været omtalt som 'the godfather of alt-country' og 'ambassadør for ørkenrock'. I tre årtier har den tidligere frontfigur i Giant Sand formået at blande elementer af rock, country, blues, punk, garage, lo-fi, jazz, gospel, avantgarde-støj og flamenco-sigøjnermusik.\n\nOplev en af hjørnestenene i amerikansk rock i helt intime rammer.\n\nDJ Roan varmer op fra kl. 19.30",
     "date": {
       "start_timestamp": 1749060000,
       "end_timestamp": 1749067200,
@@ -409,10 +409,42 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/1019788319601932/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490573269_1169143588555555_859567770957317570_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IPGc8dtgEcEQ7kNvwFhSao5&_nc_oc=Adks5Vfju7kQ9FK83EVZio6n9QEZqUcsIdoyiKcnY8dbriE4RP21gBz3O-exig1aLx4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Pi-DeqYyABe2tRPyHFPs8w&oh=00_AfG5tgaMCjHR9xxwewHOsYkQrjRlR6wvAnevZW2YwlIalg&oe=6804364F",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490573269_1169143588555555_859567770957317570_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5Q29wbWrNlwQ7kNvwFpQm7w&_nc_oc=AdmKLcr5bJY5eZYqpx80XL3AIpBOYSepmc8_ps9fp8zvExD8oOBGyleQzBPZCW3NyTM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=yhKz-FceS-o2oaLi237Dzg&oh=00_AfF7EJgq5nRbe8Cxo31zARWUYGDQNDdsExa-r5GMXLn-0A&oe=680C1F4F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
     "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "797612182570437",
+    "name": "Dirty Dancing Workshop i Absalon",
+    "description": "Kom og dans ligesom Baby og Johnny til Dirty Dancing workshop i Absalon.\n\nDet bliver en dansetime hvor “nobody puts baby in the corner”. Vi danser koreografien til den ikoniske afslutningsscene i Dirty Dancing, yes det er den med løftet. Bare rolig, vi laver ikke løftet, men der bliver helt sikkert grin og sjove trin. Så hiv din kæreste, nabo eller Tinder-date med til en uforglemmelig dansetime.\n\n \nPRAKTISK INFO\n\nPris: 75 kr. pr. person\nKøb billet her: https://absaloncph.dk/event/dirty-dancing-workshop-2/2024-05-18/\nLokale: ‘Klubben’ på 1. sal\n\nKom i god tid, vi starter til tiden.\n\nOBS: Husk inde-sko til dans og bevægelse, da vi ikke må have udesko på i klubben.",
+    "date": {
+      "start_timestamp": 1749306600,
+      "end_timestamp": 1749310200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Absalon",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66543749999998,
+      "longitude": 12.550312500000004,
+      "bounds_ne_lat": 55.66549999999998,
+      "bounds_ne_lng": 12.550375000000003,
+      "bounds_sw_lat": 55.66537499999998,
+      "bounds_sw_lng": 12.550250000000005,
+      "plus_code_global": "9F7JMH82+54",
+      "plus_code_local": "MH82+54",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/645210897810567/?event_time_id=797612182570437",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484351624_948015500871801_7065329147630202573_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7II4mBHKQ7YQ7kNvwGd0bb0&_nc_oc=Adl3HSgfuaEbIW5ueqYFkyJFHjfF6Wi61eR85DxR8Y-kMYEmWfB4A_eCM5L8LUnz1GA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=SI025wadjaRsbDIxkM8dNQ&oh=00_AfFEjOycPz-Hi0xKNSoVRtdpJ-ziI6ZLr3x5Ty6g3O1jUw&oe=680C3ABF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
   }
 ]
