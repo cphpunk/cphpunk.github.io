@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Mayhem KBH",
-      "address": "Ragnhildgade 1",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
       "bounds_ne_lat": 55.70749999999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1328168025009284/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/482234973_1160436142445093_7039748305856573263_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ukyeCXNbFjsQ7kNvwG7oqao&_nc_oc=Admus-q2zT3YmyAarHDmr_OJmZUUsRKiGC-hv_YmkyH1sFdHnxGWfFzdni6fOH2F-7A&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=sCwryszr1utos10cYIihjQ&oh=00_AfH5ZogtyY359e65hCKZCbx0EXxqSb9uPgpo_hLAmYDomg&oe=680C3E27",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/482234973_1160436142445093_7039748305856573263_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6KuixU8GtRgQ7kNvwErIJMp&_nc_oc=AdnGqye8QpJREUFPlcZ2kLXLJCZiw_eHVhyccorhPtOgvAQ3zHTyXq5Q4e9lI9Hi2LQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=X5slfk8AyRBRxEAJsDxgaA&oh=00_AfFJxAnAIzQM9sFyKjPKMgdC1aYn7dL7M58VmZRUjTiZfA&oe=6813EEE7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/585185440769187/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/480305097_600285602792756_154169310444818799_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hqW7mkz0dwMQ7kNvgFgHBwX&_nc_oc=Adikn6itxwghgtt7RwriVBoKBsKmlIeyMl8iAAY6WNncTB3ULEGcBJ-6L1Yuhe3D6Rw&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=At3yfXGELUWjxUQpp3V0nZu&oh=00_AYDwxoBAE5MTFhoqbAcU2wysM04xXp5-3UhOHOPfsUKtNQ&oe=67CE1556",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480305097_600285602792756_154169310444818799_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gB8e9WpmhpwQ7kNvwEiSIFA&_nc_oc=AdnnXFdqJH0HtICtFJE45qtTAczr-s3khwNi62dPCtcOxYmSpByYaqOY-zOTM0dm6hM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=_tVI78eVGLYuE1o86Z8aow&oh=00_AfF2Cd5m50cIDjxqcHnh384vYgL31WEpdzJ1BJct0zxLpw&oe=6813F4D6",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",

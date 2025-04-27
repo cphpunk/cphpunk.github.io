@@ -76,7 +76,7 @@
       "name": "Stengade 50, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.68718750000001,
       "longitude": 12.554312499999995,
       "bounds_ne_lat": 55.687250000000006,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1695260014369465/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484890975_628832379997849_376621716249936241_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PMM38i7E7HoQ7kNvwHBmqpw&_nc_oc=Adkz5jNaOoPeyidPzIP7Oaxb-mHv7YmZSN2VouwAmlVW1_pCwYjuMsEp42GToxl7dOw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=_X8xROnazB4POJDBtzrRPQ&oh=00_AfESq1Mcsmoqz95OJ0yBlrHnhcGlpZhQLT3M4ejHDcn_yw&oe=68040FDA",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484890975_628832379997849_376621716249936241_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CL0ifOVqkI4Q7kNvwEIlpuX&_nc_oc=Adm9XtkYaxXFG1n-EHDDCvmkpRWfb9pR66ks9ypV1HcdSzx_PYOVnrQe_LQv01jHgI4&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Y--XrysJcGpffx733AtMLw&oh=00_AfEMr6dwfPxLIllJUKRjjG2X_HTO5E7hXpkDkU-UilraPw&oe=6813E1DA",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Olla Común Folkekøkken",

@@ -12,7 +12,7 @@
       "name": "Møllegade 23 A, kld.  tv, 2200 Kbh N.., 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.691687499999986,
       "longitude": 12.557062500000015,
       "bounds_ne_lat": 55.691749999999985,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/2102650116830241/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/488657076_1292304236230420_8904531450274064180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Bfjp9xZLt5sQ7kNvwFvkWhP&_nc_oc=AdmyjaIXv3PVZiYRpjmTFyOTMTzsaRYnjqsDzqEuIKaRpLtNz_ghfz-M2GpNQo1AuV0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=27ijEYq9y0puciby9M9zvQ&oh=00_AfEFlrNTd_jY7Kesjp-kf2Rc04N2PdrXOmv_NIxNeJ2efA&oe=680C1B11",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/488657076_1292304236230420_8904531450274064180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Tgbk4LsfyZcQ7kNvwFFFDNK&_nc_oc=AdmQg-xSSJFRW__rxgTl99GhvNrvAaQmiuEU2NFQqRqc39Lcb6dq0GXCpVSK9poxdq8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Xfm6AWYJMHBfCWHJ4nUovA&oh=00_AfEM9c0PRAlNAQdPBZTEJUJ5GPY9Ut4Knv6rSORWQa2StA&oe=68140411",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Red Door",

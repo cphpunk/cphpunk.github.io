@@ -140,7 +140,7 @@
       "name": "Cinemateket",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -153,7 +153,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/549035310862585/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480627438_1490935335157541_6257325121569160749_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fmRFLHX6o9YQ7kNvwFW3OQT&_nc_oc=AdngNcu9JHhi8d4BWK76KnVrYZq3bsOd3GJMCrw_P8V8b8tAY_QBLhCGBbuE0x7hUJQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=vfS9x-hMjZkqebyaijncTQ&oh=00_AfG7Wnzhi9NWK1H36vQ8Ymy2U7tm_ykuvsFHVXpreOtCSQ&oe=680C24C2",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480627438_1490935335157541_6257325121569160749_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=trQwa01kRE0Q7kNvwGV1XlR&_nc_oc=Adn-Sj57jCwEyObvM_yXmfGFwjL1SXLzlr33m5JtvTxuap8uyoBDx36HYVzyMei3auo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=wsKZsN6QyPnhv0QQickU9g&oh=00_AfHCCZO9oX7CU3VciQQyt24bPObg3KzX_0ZgK7EDYSg0Hw&oe=68140DC2",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/8526044604152273/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/481015603_1490863461831395_250751365162129109_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2jo3XMxwaREQ7kNvwGnezTs&_nc_oc=Adn03Yap5UHJS_BlHUVvJQzQdVm52OfnC-5m0hxw3BiZeFN_V9mQpu7pMhFuJ-mc6H4&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=os22SXuMobIWLR1ymnjpPg&oh=00_AfFZhqxjGJrAnN0ZknhsfCKasIeanwf4jaqNmOsAg4E_kg&oe=680C32F2",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/481015603_1490863461831395_250751365162129109_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8K7c11EozSkQ7kNvwHxWvuy&_nc_oc=AdkujEjPgzaBKzwIX3867gl_U550TVBC01jIBCEwy9F9TYSJNmBAplQg-Zx5qG-dpM8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=w8H8DtKJgCqT1ZKBDJfDrQ&oh=00_AfGfMPMZxQTSZCVaCc0z4nHvUe1qSR5jWDgEpufQD4uU0w&oe=6813E3B2",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -230,13 +230,13 @@
     "date": {
       "start_timestamp": 1730666700,
       "end_timestamp": 1730673900,
-      "timezone": "UTC+01"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Cinemateket",
-      "address": "Gothersgade 55",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -249,7 +249,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/504270142384608/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480881762_1490863498498058_6886153854779951217_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jw5469fpscMQ7kNvwEQFFuw&_nc_oc=AdnqP2r2ALgBGyWu8UFloJE-GBrQ-LMduWXQgTnhvRomcrIbLOTV9isY2l-16yCS_qE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=R0ttWA12y4wDMY6iRHta0g&oh=00_AfEdbZXOeshiROg21DJ8eD72Kbv3PIOxqEhitrxNcwjcSg&oe=680C484C",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480881762_1490863498498058_6886153854779951217_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kfhl-xI_6tkQ7kNvwFBSo8l&_nc_oc=Adn53cujJwTowP6hhQXhP7pM43PMajLJHC4lrZHFdBvfCs8vSN7hGqCVygPd-trtASA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=CxHmpHFz3eOmSv8SSgE2aQ&oh=00_AfEDiX_Zq_AphkyzCyC3iNzEB44Nm3TWBs5nNzYfWAwlcA&oe=6813F90C",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -281,7 +281,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/3947743382120909/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/481547050_1490864098497998_8667081325678546346_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YtcG3zvtsZwQ7kNvwFAaxZx&_nc_oc=AdnLkYswNTmGHNNUXRRZU0VDj7InTZ6otRcnB3p__MmCW4nMYa9C1vzdH0onXeo6GX0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=8p4bYvRsYOF7idzD1AetmA&oh=00_AfHHQR3pEJ_iLQuGUkTfS6VSonzfixTHOkL0ShiYL4NHDg&oe=680C13E5",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/481547050_1490864098497998_8667081325678546346_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ApYetvr3iqIQ7kNvwEuVbly&_nc_oc=AdnX7acXT81uxXQKBgsAdqWNDvV4Rt418ag5TvvIu50RgRdnxlp4QIcKfOzmfq_p3gA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=LkY7bW4qB4STMz7V4VfPJA&oh=00_AfFESoAAFxDC0tGKnUUq79caWM4cLGs2NonHTVj3gvYSjA&oe=6813FCE5",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -345,7 +345,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/570039712136117/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485726781_629359449945142_7694500743707125656_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kMBdmviTrJIQ7kNvwGGXmCw&_nc_oc=AdncZmnU2Eiwcc7uVDeHJ8agGrCRfduSv9gI_mnxJ800e2_pfdP4XCdKa28t9n2xC-4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=NBGTOrkxgR9D4dXr01qrtg&oh=00_AfHzJ-OARTKYi4uk7lcYhZPC-jFQbsb3dLQeNmsjIMehkg&oe=680426A4",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/485726781_629359449945142_7694500743707125656_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BDBlXUu_iiMQ7kNvwEdjVeO&_nc_oc=AdmEE4b6ZdnFzlxr7eFDFtgTDxIIVvy-ghDuS1khhrCyOOXn174gi1pU9OIL7wsDePY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Ev3Nn2FqtKBt99v8d-REQg&oh=00_AfEZ1sgHjKHhrOd5kq3s8gCGxvm-q43SOQd5mtfAJH_XBg&oe=6813F8A4",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Olla Común Folkekøkken",

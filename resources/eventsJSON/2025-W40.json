@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-bryan-rice-20-aars-jubilaeumskoncert",
+    "name": "Bryan Rice 20 års jubilæumskoncert",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Bryan Rice åbner 20-års jubilæumsår med ny single: “LOUDER” og en nærværende akustisk koncert sammen med sine musikere på Kuturhuset Islands Brygge. Koncerten bliver et genhør med alle de kendte hits og nye sange, bl.a. den nye single \"LOUDER\", der udkom 31. januar 2025 og er skrevet i samarbejde med Christoffer Stjerne og Tina Harris.\n </p>\n <p>\n  Singlen, som er den femte fra hans kommende syvende album, markerer starten på et særligt år, hvor Bryan Rice fejrer sit 20-års jubilæum som artist. Bryan Rice fortæller: “Sangen tager afsæt i dengang, jeg ikke stod frem, som den jeg er, ikke åbnede munden, og ikke var en god rollemodel, primært fordi jeg blev rådet til det af mit bagland. Nu handler det om min vilje til at ændre netop det. Jeg ønsker at bruge min stemme til at være noget for andre, der har brug for støtte, og til at løfte dem, der føler sig uden stemme. Vi lever i en tid, hvor der heldigvis er fokus på, at der skal være plads til alle, og hvor forskellighed og lighed ses som noget godt og vigtigt. Desværre er der stadig meget misforståelse og had i verden, og derfor er det afgørende, at vi alle gør den forskel, vi kan. Jeg bliver ofte spurgt, hvorfor jeg overhovedet gider blande mig, eller får at vide, at jeg som kunstner bare skal holde mig til at synge. Men sådan ser jeg det ikke. Jeg har en stemme, og den skal bruges!” Med stærke linjer som “Can’t call it a riot if everyone is quiet / So I’m gonna use my voice” opfordrer Bryan Rice lytteren til at bryde stilheden og tage del i kampen for mangfoldighed, tolerance og sammenhold.\n </p>\n <p>\n  Med singlen \"LOUDER\" og det kommende syvende album fortsætter Bryan Rice sin mission om at bruge sin musik og platform til at gøre en positiv forskel og så sætter han tonen an for en tid med masser af musik, koncerter og fejring.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Søndag den 5. oktober kl. 14.00 / Dørene åbner kl. 13.30\n </p>\n <p>\n  Forsalg: 200 kr. + gebyr / 240 kr. i døren\n </p>\n <p>\n  Koncerten er med unummeret siddepladser\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1759665600,
+      "end_timestamp": 1759672800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/bryan-rice-20-aars-jubilaeumskoncert",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-04/Hjemmeside%20KIB%201200%20x%20554%20%282%29.jpg?itok=j8Nfa-xG",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

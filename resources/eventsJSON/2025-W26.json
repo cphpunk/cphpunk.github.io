@@ -108,7 +108,7 @@
       "name": "Next House Copenhagen",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.669562500000026,
       "longitude": 12.570937500000028,
       "bounds_ne_lat": 55.669625000000025,
@@ -121,10 +121,42 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/965301855499604/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484071318_1173580527546274_5994794765945663999_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3fK33ntECf0Q7kNvwHG7WHM&_nc_oc=AdmMuUzxilAZs-hiYL1WgHYEWU-n6nPtrm-gNsoYLD8nTKHvZAd4w5pwV0C2MEiDXuM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=uNiKUuHpFxBqkFZ1mVLGZw&oh=00_AfFngp2-W7D2dczQW9AovnyvoXJmSM16ZbGTbyVFMCUhyw&oe=680C135C",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484071318_1173580527546274_5994794765945663999_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5xvgX2O7IpcQ7kNvwFwX7jL&_nc_oc=Adnq1gRnIs3oBbQzh5EzumSSP-TI8XKCTr2h7TVAmvGSWVi9hrSjd0OVqzgczUX7ELQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=rozPQxdSPYmkXB2iKrPzFw&oh=00_AfHubZl3dhufk5HY_DGCBm22ySA5YpASdzhbCVDTq8sH4g&oe=6813FC5C",
     "tag": "SPORTS",
     "platform": "Facebook",
     "page_name": "Next House Copenhagen",
     "page_url": "https://www.facebook.com/nexthousecopenhagen/events"
+  },
+  {
+    "id": "612844538168855",
+    "name": "Mad&Musik",
+    "description": "Mad&Musik er sofaer, bar, musik og fællesspisning. Vi har besøg af to skønne bands og der er altid et tema for aftenen.\n\nFølg med på uKirkes Facebook og Instagram for offentliggørelse af aftenens husband.\n\nTEMAER I FORÅRET\nFebruar: Banalitet\nMarts: Ubekymring\nApril: Barndom\nJuni: Krop\n\nArrangementet starter kl.18 med fællesspisning, tema og spændende koncerter. Det koster 25 kr. at spise med, men ellers er resten af aftenen gratis og åben for alle.\n\nMad: 25kr\nØl/sodavand: 20kr\nVin: 25kr\nKaffe og te: donation\n\nuKirke er et sted, der er åbent for alle. Kom som du er, uanset hvem du er, hvad du tror på, og hvem du elsker. Vi accepterer ikke diskrimination!",
+    "date": {
+      "start_timestamp": 1750953600,
+      "end_timestamp": 1750968000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Dannebrogsgade 53, 1660 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.667687500000014,
+      "longitude": 12.553812500000006,
+      "bounds_ne_lat": 55.66775000000001,
+      "bounds_ne_lng": 12.553875000000005,
+      "bounds_sw_lat": 55.667625000000015,
+      "bounds_sw_lng": 12.553750000000008,
+      "plus_code_global": "9F7JMH93+3G",
+      "plus_code_local": "MH93+3G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/612844528168856/?event_time_id=612844538168855",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/486628940_662006122860941_4481123527835331099_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gOwXbMYffGoQ7kNvwFG8PFN&_nc_oc=AdnK8oMk0DDvqXdu23f-7NMl2G5E8bDm0Zxsv5Kq1Ls--5dnf_tcL3AzOdRN9-Tpae0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=gD0kY4YZYPrKkqggfSrlWg&oh=00_AfH23AuPcgZRkfTYe9wKO4lHRgBsgrvjbUKIUV_9e8bwOw&oe=6813FF38",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Ukirke",
+    "page_url": "https://www.facebook.com/uKirke/events"
   }
 ]
