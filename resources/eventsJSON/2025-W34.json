@@ -1,0 +1,66 @@
+[
+  {
+    "id": "682661400954744",
+    "name": "Bob Log III | Basement",
+    "description": "Bob Log III er møgbeskidt blues fremført ene mand på slide-guitar, vokal, skrabede trommer og kanonkonge-outfit. Musikalsk kan oplevelsen beskrives som en blanding af Mississippi Fred McDowell, Hasil Adkins og Tom Waits.\n\nManden turnerer nærmest ustandseligt med sine blues-punk dansefester, der kan opleves cirka 150 gange årligt. Hans koncerter er berygtede for deres publikumsinddragelse, hvor publikum blandt andet inviteres til at sidde på Bobs knæ mens han spiller.\n\nBob Log III startede solokarrieren med at varme op for blandt andet R.L. Burnside, Franz Ferdinand og Jon Spencer Blues Explosion, men har siden 1999 turneret primært som headliner i både Nordamerika og Europa. \nhttps://www.facebook.com/boblog111\n\n▄▄▄▄▄▄▄▄▄\nForsalg: 120kr. (+ gebyr) | Dørsalg: 140kr.\nDøre kl. 20.00 | Koncertstart kl. 20.30\nBilletlink: https://billetto.dk/e/bob-log-iii-billetter-1257610\n▄▄▄▄▄▄▄▄▄",
+    "date": {
+      "start_timestamp": 1755540000,
+      "end_timestamp": 1755547200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Basement CPH",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/682661400954744/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/493937392_1476417073718396_5857377953700006484_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pJMm1et2Ql4Q7kNvwFY-XVL&_nc_oc=Adl5I6wCwa6OHK_6HNjMQ5LzpN2DB2hw4_j4QUhunJ-dRiKS1PgJt7q1YmBodBC6TTM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=T_6pnO6YtWsvDosMymdKtg&oh=00_AfIZzx9AZ9CfRVUhFzdrvLE3qp5g_GBSMpWDtidj3QS-9Q&oe=68283969",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "699737879182556",
+    "name": "Theis Coermann Kvartet",
+    "description": "Theis Coermann er en ung jazztrommeslager oprindeligt fra Møn. Han har netop afsluttet sine studier på Syddansk musikkonservatorium i Odense. Med sin unikke lyd og sin modne musikalitet, formår Theis Coermann at præge musikken omkring sig, på sin helt egen måde. Theis har spillet med artister som bl.a. Kimberly Gordon, Simon Thorsen & den canadiske trompetist Ingrid Jensen.\n\nTil denne koncert medbringer Theis sin kvartet.\nBandet vil hovedsageligt spille deres egne sange med plads til et par enkelte genfortolkede standarder. \n\nKlaver: Carl-Emil Dons Christensen\nGuitar: August Hasbirk\nTrommer: Theis Coermann\nBas: TBA",
+    "date": {
+      "start_timestamp": 1755797400,
+      "end_timestamp": 1755804600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/699737879182556/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/493939874_1184675323669048_6893296102005278749_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RMicl1Eo3tUQ7kNvwHFzKrc&_nc_oc=AdmRQT7musgX_3TJ9XW_ufm-DNyZMVxoEOoFsdhxkDePQP4T91cRWuFy8g2WPNRpyuw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=4MV6oXFFL2rF2UhpQLAE-g&oh=00_AfKM_b5bf3t1WCIETo_Pz3ey03Ckckf0XA_2muSMbyFimg&oe=682847B9",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
+  }
+]

@@ -62,5 +62,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "8981941985232132",
+    "name": "Cannonball 2025 - 2 days of raw rock'n'roll!",
+    "description": "CANNONBALL PRÆSENTERER I 2025\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nMAGTENS KORRIDORER - GRAVEYARD - THE UNDERTONES - BUZZCOCKS -  BAD TOUCH - WEIRD OMEN - ELECTRIC MARY og flere..... \n\nFind spilletider her:\nhttps://cannonballfestival.dk/program\n\nDagbillet: 549 incl gebyr\nParotutbiller 909 incl gebyr \n\nhttps://www.billetlugen.dk/noapp/eventseries/3739362/?affiliate=CB0\n\nFire nye navne, spilledatoer og endagsbilletter klar til Cannonball 2025🤘🔥🖤\n\nCannonball stempler for alvor ind i årets festivallandskab med annonceringen af en potent bandpakke, der tæller Graveyard, The Undertones, Weird Omen og Bad Touch til festivalen i K.B. Hallen 26. og 27. september. Derudover kan man nu købe endagsbilletter, ligesom spilledagene for de offentliggjorte bands er frigivet.\n\nDet trækker efterhånden op til en solid rockfest i K.B. Hallen den 26. og 27. september. Her byder Cannonball Festival som bekendt nok engang op til dans med potent rock, kolde fadøl og brandvarm energi på scenen.\n\n28 Marts slap festivalen navnene på fire nye bands til årets plakat, og der begynder efterhånden at være noget for enhver smag. I år vil man udover de tre i forvejen bekræftede navne kunne opleve de svenske hardrockere fra Graveyard, nordirsk post-punk fra The Undertones, dual-guitar dirty rock fra Bad Touch og reverbed garage-psych fra Weird Omen.\n\nSærligt Graveyard har gennem tiden opbygget en stærk følgerskare i Danmark og har optrådt på både Roskilde Festival og Copenhell samt flere gange i Pumpehuset og Amager Bio. Koncerten i K.B. Hallen bliver dog bandets største spillestedskoncert nogensinde i Danmark. For The Undertones er det første gang i to og et halvt år, at det nordirske kultband kommer til Danmark med sine “Teenage Kicks”.\n\nDerudover venter der en oplevelse fra den franske garage-psych-trio Weird Omen, som syv album inde har bevaret deres unikke og svært definerbare lyd. Ligeledes bliver der fart over feltet, når Norfolk-kvintetten Bad Touch spiller op til klassisk rockfest. \n\nOveni de fire nye navne annoncerer Cannonball også, hvornår de foreløbigt præsenterede kunstnere spiller deres koncerter. Det vil også være muligt at købe endagsbilletter via linket. Information om spilletider kan findes på hjemmesiden.\n\nDer følger endnu en bandpakke, som offentliggøres senere på foråret, før 2025’s program ligger fast.\n\nFrem til 1. april er der early bird billetter i salg med en besparelse på mindst 150 kroner per billet til de hurtige. 🔥⚡️\n\nI 2025 byder festivalen igen på en autentisk totaloplevelse med rock i verdensklasse, rodeotyr, flippermaskiner, biler, fotoudstillng, og meget mere.",
+    "date": {
+      "start_timestamp": 1758891600,
+      "end_timestamp": 1759009500,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "K.B. HALLEN - Peter Bangs Vej 147, 2000 Frederiksberg, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/8981941985232132/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488396536_1009116871407242_140434782492951231_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ugzBp09xCksQ7kNvwHz2Wnh&_nc_oc=AdkvnGKnHIHKJcoVqg0B60XzgBnrdQSPEIsC8-5287Rxm3FWdZt1OH20zsHF_-ijEWQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=RPHPF5B9uhlEtrqC3qcGSA&oh=00_AfKIqiJsi-8cnQAHfoDGTO5XUMOxg4dcdjCu3PzXUioPfg&oe=68283A0C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
   }
 ]

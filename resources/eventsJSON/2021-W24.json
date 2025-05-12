@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Empire Bio",
-      "address": "Guldbergsgade 29F",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/137016038411593/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/198093536_10158768059842663_4749109937550112193_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8ZOpO-UHGIUQ7kNvwHE_QSt&_nc_oc=Adk9Fgrm0HGSy6E0wBcU_t8QotlVCFibeov8cOvaw-_OV8CjxR5o0ysm98B1NUmxekc&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=EZvHvvEMkeznKrPqVJJtUw&oh=00_AfFQ7ZCH03jICFds1WHfjr_LgYQ1jVXtRys1cjHU0bElbg&oe=6835AFBF",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/198093536_10158768059842663_4749109937550112193_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=j56xWx5yMUEQ7kNvwFzpVZj&_nc_oc=AdkBFjjeAxPqoYK2WstfgEH_B9IkNXejg-A_F4S4ZIg4igEX9Mf0MhZZltmMyVpAocY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=OzaNQP5mypzQglTygQA-IQ&oh=00_AfLTnbzFv32W5o63sS0zuf90HocaexeUaKsuhi36yCpHrA&oe=6849E6BF",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "VOID - International Animation Film Festival",

@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Metronomen",
-      "address": "Godthåbsvej 33",
-      "city": "Frederiksberg",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.686062500000006,
       "longitude": 12.533437500000005,
       "bounds_ne_lat": 55.686125000000004,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1283660449411857/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/481361851_613378924816757_6752250517441039996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hANych7x4c0Q7kNvwEbBItd&_nc_oc=AdnYbjOPLrMd4BRyCYH3-4Q-UQ2iSeWHZMFNjBbh3MPf4jG6nmtt-MQwAC2YPxRyZd8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=3d2GF9QfTCg5pI7Auz2EsA&oh=00_AfH0ZtdQ4QhbVF_Y-Ekxiz4OWd72m1hfoPa8IiBVixY4LQ&oe=681402BA",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/481361851_613378924816757_6752250517441039996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=K0j3acAp678Q7kNvwFxScA0&_nc_oc=AdlHjT9DArqcsm_SCrO4kVFkZ9fEI3GBHZFoAFT-62j9F7DdnEMqOk7JBhB9r7KGPP8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=7hddyEkGHoEeB4XS3Zq_Mw&oh=00_AfJ0oOvF09uR8lwmzBpbkB0xnDiVyWud6_meW0wOMdBF6g&oe=682839BA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",
@@ -249,7 +249,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1701787294107531/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490764066_1185075133314527_6222637478572915914_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kkdmJAhabCsQ7kNvwHsO9E5&_nc_oc=AdmFu9Ye6FemHAtHyULl9K8gT6Sl2l-Xn6Nhy-tWcEvVXTVXTHk3q-3iZnwRrHrimvo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=kJ6kAhdWgp2cvxZHtL2Gog&oh=00_AfHPnAOK_bwtE6e3GjkEndmtSZ-wc1DWEuHrq1mZIWSQ2g&oe=6814017F",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490764066_1185075133314527_6222637478572915914_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=802UdZQlwQYQ7kNvwH7QWPP&_nc_oc=AdkNi7ppQ3e5E55CXGviwyBm7TaxAS6ezvCd7cFnnI2TSgAU3yo0Mg1L7emq7dEDXuU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=mtm1r8jO4m413twbFM2nZg&oh=00_AfLk1wTCor2243dCkvjZK3OeWk6rCsexyZyNdS87uVbEWg&oe=6828387F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",
@@ -268,7 +268,7 @@
       "name": "Ragnhildgade 1, 2100 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.707312499999986,
       "longitude": 12.553562500000012,
       "bounds_ne_lat": 55.707374999999985,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/9394143317306013/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484508878_1162955535526487_4594205847858275289_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dl-xGN74gUgQ7kNvwFAGgjO&_nc_oc=AdnIuSqIgF-FpE5_uXaxBnrY6kmhblQjZQ2Nv5ugDv8YE5h7friGiUSC-lTnSfzDXOo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=v88jmQYnpOYpQyIwj8LSuA&oh=00_AfGUyA17ZhfVBdghe2EiDfB5u85FsHf-slAbByOsJQq6bQ&oe=6813EC11",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484508878_1162955535526487_4594205847858275289_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=liIXYBk7nRwQ7kNvwH9-ne3&_nc_oc=Adnx1__2K6rs9rQ-0snn7dZmJ7tnXRkSD9Oa9epMm8y0NE2WF9PvefeyMkVGCWpadQo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=QDQASHkBNmUdu_UlZt4r_A&oh=00_AfIifpOT03V0wFkPWE0VsMH4ZEGhLp7hU_cA8awYmIOHaA&oe=68285B51",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",

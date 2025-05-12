@@ -12,7 +12,7 @@
       "name": "Mayhem KBH",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
       "bounds_ne_lat": 55.70749999999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/443407311628913/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480652774_1159516002535925_2486769083756637464_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3payhj_0PDMQ7kNvwEMGKtU&_nc_oc=Adm5d6Js9sX6nCHrrBsVnNRMFoPg0LQ-GCQKhKLbwHS54T3D4yj3rcr3tHz5e_RoWBA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=_1X-or4v54EMG-mowVafcQ&oh=00_AfG4K55zQyhQRYjqi0v1JYxqSs1N9arJHLeJ50MOfXny2w&oe=6813F75B",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480652774_1159516002535925_2486769083756637464_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TKptUYDje3EQ7kNvwHLVzTV&_nc_oc=AdnOB1jOzMLyNiFf6NL7YEZkfyZx4bVUPJg1Yw7YT0wqt6JcGUnttCxhSWeE9eiFZtc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Th9vbbbrxmi0SVdCjXrYXQ&oh=00_AfJSFh7F9kA98FSEva0HX3u1wRi8dJqkLZ2upbuDzrNYjA&oe=6828669B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",
@@ -170,9 +170,9 @@
     },
     "location": {
       "name": "Matrikel1",
-      "address": "Højbro Plads 8-10",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.6779375,
       "longitude": 12.579562500000023,
       "bounds_ne_lat": 55.678,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1543349583263454/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/487476882_1074935254660422_3135216565889740037_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=v2EIs775UFIQ7kNvwG-OPSJ&_nc_oc=Adlc87hSxrp0MN_8BcCYDYVW89zjuGoqP-jouGcJsJxLvVwU0x5yxVgsXLS8i4JA6iY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=E3gQopConZZvJ05RQZoPPg&oh=00_AfHnPGWzzlJ_1hOldH4gZGE9MqNl2Wves9CH9X2y3gDDLw&oe=6813E10B",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487476882_1074935254660422_3135216565889740037_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M6Xxu-X6YrsQ7kNvwFCygaH&_nc_oc=Adlzbk0P75lz7BHLeiabhe1_uJleqSM-bm8_c6if_bGXXCoiD10maYSI0ajC6ETo-xw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=YpIuI85Vx0Xi1zSOfViq5w&oh=00_AfInGk-JUwpXaFGPnVD98A7CXrS2ek4xQRNO2o2SDQBcFw&oe=6828504B",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "TechBBQ",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1553984278691377/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/485177979_1069167151903899_4492103648118810349_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FV9VboDRHkMQ7kNvwFOfIZE&_nc_oc=AdnWuFFHg4wu4-yr8frK2X_3jKi2oOVdPAhmWxkb24tsQeU_2klYC-oQuy_glHcIbOk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=bbZ30YsWRPFz1U5I52xyjQ&oh=00_AfFtodg6Z9pcOFqPq0wKK4qGdiAuPjvbn6MlINugUu8Jvw&oe=6813EF21",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485177979_1069167151903899_4492103648118810349_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3dYaQdSxtTkQ7kNvwF8pMbv&_nc_oc=AdlbrnFWIrLsIXlmmjlyvJSehXEGPpmK5UDVYHohLTCZm3YWX4g_9OmuIO9DhBYLNaA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=bRiNXxN5Vw0MP18FZ_xNeQ&oh=00_AfIhFoy2uoGkjKEe11_qIOd3cYCwYxrrHLY643cN_wPH3Q&oe=68285E61",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "TechBBQ",

@@ -57,7 +57,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/981776470116761/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/486504367_1053318973500982_2331247383495193541_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aHSeLtAtiFMQ7kNvwHl-8tr&_nc_oc=Adkiw0ETCFpAClnRJOalJXxMrjE3LpIi2NUVEE8rrmKfV0Pi6EwwUwimBmTraNFtnss&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=-uWE5DeBybrWcjR0IrL0_g&oh=00_AfGlf6ehqiyPee_rOvHnMpxw63hWYYmVhjVStDk-Ep3N0A&oe=6813F28B",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/486504367_1053318973500982_2331247383495193541_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DMmJyI0zDYIQ7kNvwFMLkgc&_nc_oc=AdkQmjygEgNFIAO79cqqgkeqgpSPrCejHdAeVXzgrGhgBvxv84Lkmbc8nrIAqKvlvdU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=agOoCyZpNiIAZIS5tSg-MQ&oh=00_AfJV8OB17cL_qBGoqfaZHwQRebhWzGpFTcP_AEjx2TNVAQ&oe=682861CB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -2750,5 +2750,261 @@
     "platform": "Facebook",
     "page_name": "Glyptoteket",
     "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "1402870047384066",
+    "name": "Madboks food distribution - Urmagerstien 28",
+    "description": "Hello food savers! \n\n\nJoin us to save food waste and become more aware of how to prevent food from going to the bin prematurely.\n\n\nOn Wednesdays, you can find us at Urmagerstien 28. \n\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste.\n\nIn order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent wasting food. Thank you!\n\n\nTo BOOK A BOX, please follow this link: \nhttps://forms.gle/sis9i4F6LvPhvG4V7\n\n\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\n\n\nPlease bring 2 bags to carry the food in. \n\n\nPro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\n\n\nPlease also consider becoming a volunteer ❤ We need a lot more helping hands to make these food distributions happen weekly!\n\nTo register as a volunteer please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe?u=21366f082c5af1add473caecc&id=35fa4efaa0&fbclid=IwAR3s9b--DMro1EeYEtST0XlUMclBywow1p1EUv__o92Coi1M1WcumRmlJLY",
+    "date": {
+      "start_timestamp": 1746631800,
+      "end_timestamp": 1746635400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Urmagerstien 28, 2300 København S, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6490625,
+      "longitude": 12.595812500000008,
+      "bounds_ne_lat": 55.649125,
+      "bounds_ne_lng": 12.595875000000007,
+      "bounds_sw_lat": 55.649,
+      "bounds_sw_lng": 12.59575000000001,
+      "plus_code_global": "9F7JJHXW+J8",
+      "plus_code_local": "JHXW+J8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/1402870047384066/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/493819253_973656318268982_9014680646349417177_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=m8r3TEmKwUcQ7kNvwHbnmAl&_nc_oc=Adk4u-4rMd0kVL1mWLu0G-y44DsemP1ZCMMGasZBTjoC1GCKsi8zNh2bjvZLrtVbR00&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=uXrpmJhQqghwMWZusCQRcw&oh=00_AfIaUrFvYCdrx6Kj5FSO8cuQO22xzN9_lwMuQY1lUd3CsA&oe=682857EB",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "716921297444022",
+    "name": "Madboks food distribution - Kapelvej 44",
+    "description": "Hey food savers! Join us at our weekly food distribution in Nørrebro at Kapelvej 44. Our events are open to everyone, no matter the financial status or conditions.\nTo BOOK A SPOT, please follow this link:\nhttps://forms.gle/FYqf81Nd882pySnb9\nBOOK ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 15 minutes, after that the food will be given to other people. If you know you would be late for picking up your box, please contact us on Facebook in advance so we hold on to your box.\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\nPlease bring 2 bags to carry the food in. Pro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\nPlease also consider becoming a volunteer ❤ It takes a small village to make these food distributions happen weekly! To register as a volunteer please sign up here: https://myshopify.us7.list-manage.com/subscribe",
+    "date": {
+      "start_timestamp": 1746882000,
+      "end_timestamp": 1746885600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Kapelvej 44, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/716921297444022/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495828563_975676774733603_5402958919723298456_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I0tGHmYFINgQ7kNvwGaKcR_&_nc_oc=Adn7GCqCUuYWx212GZPa-tPNKN466dEVXf3-sMI2NBaBh7fOkKnoCKwDw_gso0qKS30&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=fqHC8sHcKS-q7gDbQVNW4w&oh=00_AfKgTB7bsabpmKgxfKW4Zsj1O-fpdGx8o0oZHxM6dSjqLw&oe=68285B8E",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1641598079883098",
+    "name": "Madboks weekly food distribution 11.05 - Sundholmsvej 28a",
+    "description": "Join us to save food from going to waste at Sundholmsvej 28a, where you can join us to collect some food for yourself and/or become a volunteer!\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent food from going to waste.\n\nTo BOOK A BOX, please follow this link: \nhttps://forms.gle/UE6XSUTUgw9dJXNb6 \n\nOur food boxes are given out on a donation basis - Everyone can donate what they can afford for the food boxes, however, the minimum recommended donation is 25 DKK, so that we can cover the costs of each food distribution event.\n\nPlease bring a bag to carry the food in. \nPro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily bruise-able items safely.\n\nIf you want to register as a volunteer, please sign up here: \nhttps://myshopify.us7.list-manage.com/subscribe?u=21366f082c5af1add473caecc&id=35fa4efaa0&fbclid=IwAR3s9b--DMro1EeYEtST0XlUMclBywow1p1EUv__o92Coi1M1WcumRmlJLY",
+    "date": {
+      "start_timestamp": 1746968400,
+      "end_timestamp": 1746973800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/1641598079883098/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/496642425_976292878005326_8877199158857456873_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Si3BzRMCmuoQ7kNvwGfBu_I&_nc_oc=AdmLNfP8-NTyXej0wAqaJ7zArz_PrQ7ldw-fOfXRdqWLpt5AmggJhWvUBDuoHVAbWLE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=3cYXbU8CmSTx-nxhLUg0Dw&oh=00_AfJdN0-EPNfO9qdqu_TRK16fGsOajAzDUtrZ_xG-cvfWDw&oe=68285249",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "678137051635758",
+    "name": "Marmelade 4tallet",
+    "description": "On May 6. Marmelade Culture presents some of the most talented musicians in the Copenhagen scene at 4tallet.\n\nABOUT THE ARTISTS:\n\nILMO\nIlmo is a multitalented Danish/Finnish artist. Apart from having a career as a professional tap dancer, Ilmo is also a sounddesigner, DJ, teacher, and composer. For this evening Ilmo will be presenting some of their more uplifting groovy tunes with greasy basslines.\n\nCREATURA\nCreatura's music is a multilingual patchwork of feelings, experiences and fantasy tales that crosses different genres such as folk, bossa-nova, and more.\n\nJACOB REINHARDT\n\nJacob Reinhardt of Cloud Heist is a singer songwriter out of Albuquerque, New Mexico specializing in intricate folk and jazz grooves. @Cloudheist\n\n\nCOMET GIRL\n\nComet Girl is the creative voice of Alexandra Brøndum, an artist whose music feels like an open journal—intimate, authentic, and unapologetically honest. Her discography of heartfelt indie songs has amassed millions of streams, with fans praising her music as beautiful, relatable, and timeless.\n\nSOPHIE JULLY\n\nIn a world where we often get lost in noise and superficiality, a new young artist appears, armed with a voice which tears us out from the shallow and into the core of strong emotions.\n19 year old Sophie Jully is the next upcoming indie pop singer and songwriter who grabs the depths of your soul with her music. Her music is like a journey through the labyrinths of the soul, where the listener explores the strong, hard and honest feelings, about both sorrow, happiness, anger, love and injustice.\nWith increasing momentum and a dedication to sharing her talent with the world, Sophie Jully is not only an artist, but stands as a strong feminist role model for other young girls who relate to the issues and emotions she expresses through her art. \nWith a lyrical depth and a musicality that evokes deep emotions in the listener, Sophie Jully creates an experience that goes beyond just entertaining - it moves and diversifies.\n\n\nTIYER w. Marmelade Culture\nTiyer is a Copenhagen based composer drawing upon many genres in his music, pulling the listener into a dreamy yet energetic world of stories, dynamic expression and surprises, where a longing for unity is a recurring theme, in a versatile musical landscape where truthful expression is prioritized over anything else. The music is a approached as an open canvas where the only goal is meaningful exploration of reality, and where the idea of \"good\" and bad\" music doesnt exist. Tiyer began his career as a musician in the Copenhagen electronic music scene as a part of the music collective Marmelade Culture, creating communities around experimental and electronic music with other producers, with new concepts such as Electronic Sessions and Mics that up until that point had only been seen in the UK. This debut was well recepted, and within a short timespan catapulted its creators into the entire Copenhagen music scene, teaming up with fellow Zealots from the Songwriter scene, Jazz scene, Poetry Slam, Demo and Impro scene, and eventually reached international ground, with several shows throughout Europe every year, and the first US concerts to take place in March 2025. Lately the Marmelade movement has reached danish television on Kanal 1 and radio at 97,7 FM with the shows “Marmelade Magasine” and “Marmeladio”, focusing on artistic discussion, live collaboration and interviews. Tiyer is currently working on music for several video game titles to be released in 2025, and has worked on concerts, releases and workshops with a string of legendary musicians such as Elias Bendix, Tobias Trier, Malene Mortensen, Rikke Bjerre, Hannah Muir, Niklas Timmer Kristensen, Laust Eberhardt Bonnesen, Jesper Pyskow, Daniel Carlos Goldfield, Frederik Moth, Frederik Hjulmand, Christopher And The Lost Binocular, Mucky Kid and Normal Original, Ulrik Lindgren, Monika Banyte, Bjarke Treufeldt, Oscar Schjerbeck, Pernille Isedora, Kathrine Brøndsted and the list continues. Tiyer is also working as a booker and arranger for unique and innovative show concepts, such as \"Forest Concerts\" a concept created by multi-musician Oscar Schjerbeck, and personalised private concerts with pop acts like Tim Schou. Lately Tiyer has been focusing on personal, introspective songwriting, and will this night be combining that work with an eclectic set of different styles, performed with a full orchestra, consisting of musicians from the beaming new skyrocketing community of artists in Copenhagen, now often just referred to The Marmelade Culture .\n\n\n\n",
+    "date": {
+      "start_timestamp": 1746550800,
+      "end_timestamp": 1746568740,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "4Talletlive",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/678137051635758/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495024744_655848947236421_2695003652550660716_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bSTnzUXUWCsQ7kNvwELLBcD&_nc_oc=Adnm53YlVYt8i0d_Z_LEoMvaz0R0vRO9pdlEkJS_iEWCHbW22qJs3G4YZhXjq4bXII4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=wKlYUotoqPn_JHzX2jRk4g&oh=00_AfJADtQstdjpFECcM1dIV1GoHu1z2x5hQOFpm5ORiQVzRg&oe=68284654",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "1205646767669898",
+    "name": "Bøssehusets Kønspolitiske MelodiGrandPrix",
+    "description": "Bøssehuset maler byen lyserød og giver regnbuen et ekstra penselstrøg. Kom og bekend kulør når husets skønne kunstnere fremfører nye kønspolitiske hits i et orgie af glimmer og pailletter.\n\nDørene åbner kl. 19. Show starter kl. 20. \n\nBilletpris via billetlink: 69,-\nBilletpris i døren: 100,-",
+    "date": {
+      "start_timestamp": 1746896400,
+      "end_timestamp": 1746913500,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Mælkevejen 69, 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6743125,
+      "longitude": 12.600687500000006,
+      "bounds_ne_lat": 55.674375,
+      "bounds_ne_lng": 12.600750000000005,
+      "bounds_sw_lat": 55.67425,
+      "bounds_sw_lng": 12.600625000000008,
+      "plus_code_global": "9F7JMJF2+P7",
+      "plus_code_local": "MJF2+P7",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1205643954336846/?event_time_id=1205646767669898",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/491197284_1235154211951504_6803004711929241119_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nMFQFI3p5v4Q7kNvwFvQwQi&_nc_oc=AdmLXnstxXqtMBTixBsuLh_w89XOUY5Z8ys11ThgunDHl-XKo84Gvw3S4pwTYU8S0kI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=GQaT7hEnztNTMdTnFLMO_A&oh=00_AfLQjbhSikc2XufbzEWUKU36zGWlKNzsVQPXMdgHZWGR2A&oe=68285D46",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Bøssehuset",
+    "page_url": "https://www.facebook.com/boessehuset/events"
+  },
+  {
+    "id": "2395280757518588",
+    "name": "BEFRIELSESBILLEDER // 6. - 24. maj 2025 // Cinemateket",
+    "description": "BEFRIELSESBILLEDER\n6. - 24. maj 2025\n\nLevende billeder af befrielsen i Danmark er viftende flag og jublende menneskemylder i gaderne. Den berusende glæde over friheden i maj dominerer det dokumentariske spor i den kollektive erindrings filmgalleri. Delvist fordi statens egen filmcentral lugede de ubekvemme sider af besættelseshistorien ud af alle tiders mest sete skolefilm ‘De fem år’. \n\nEntydig glorificering af modstandshelte og berøringsangst over for krigens skyggesider kender vores nabolande også. Vi kaster et kritisk blik på, hvordan kampen om historien har udspillet sig i skandinavisk film på vores nordiske platform ’Norden på film’ (www.nordenpaafilm.org) – og på Cinematekets store lærred.\n\nNoget mere modsatrettede følelser præger spillefilmenes landskab. De brusende glædesudbrud er få, de grædende efterladte mange, byer og mennesker ligger i ruiner og hævntørsten florerer.\n\nDenne serie favner sorgen og de arrede sjæle, som vendte hjem fra slagmarkerne, den næsten dokumentariske realisme i de store klassikere fra ruinerne af sønderbombede og krigshærgede Berlin og Rom. Hævntørsten i den statslige kortfilm ‘Livsfare – Miner!’ danner optakt til det historiske drama om minerydningen på den jyske vestkyst, ‘Under sandet’. Ungdom, modstand og humanisme fejres i polske Andrej Wajdas ubestridelige hovedværk ‘Aske og Diamanter’. Det eksperimentelt fabulerende kunstneriske livtag med befrielsen kan opleves i Lars von Triers sjældent viste ‘Befrielsesbilleder’.\n\nLars-Martin Sørensen, forskningsleder / Filminstituttet\nSophie Engberg Sonne, programredaktør / Cinemateket\n\n------------------------------------\nFILMVISNINGER\n------------------------------------\n\nTirsdag den 6. maj\n16.45: Befrielsesbilleder (Lars von Trier, 1982)\n21.30: Aske og diamanter (Andrzej Wajda, 1958)\n\nOnsdag den 7. maj\n21.30: Tyskland år nul (Roberto Rossellini, 1948)\n\nLørdag den 10. maj\n19.15: De bedste år (William Wyler, 1946)\n\nSøndag den 11. maj\n14.00: Under sandet m. forfilm\n16.45: Rom - åben by (Roberto Rossellini, 1945)\n\nOnsdag den 14. maj\n16.45: De fem år m. intro v. Lars-Martin Sørensen\n\nTorsdag den 15. maj\n16.45: Aske og diamanter (Andrzej Wajda, 1958)\n\nSøndag den 18. maj\n19.15: De bedste år (William Wyler, 1946)\n\nTirsdag den 20. maj\n19.15: Tyskland år nul (Roberto Rossellini, 1948)\n\nLørdag den 24. maj\n16.45: Rom - åben by (Roberto Rossellini, 1945)\n\n\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\n\nSted: Cinemateket, Gothersgade 55, Kbh K\nTid: 6. maj 2025 - 14. maj 2025\nOrdinær billetpris: 85 kr. (dog 55 kr. for Cinematekets medlemmer). Særpris på udvalgte arrangementer.\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/filmserier/serie/befrielsesbilleder\n\nLæs mere om Cinemateket og medlemsfordele på: https://www.dfi.dk/cinemateket/medlemmer",
+    "date": {
+      "start_timestamp": 1746542700,
+      "end_timestamp": 1747752300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/2395280757518588/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/493503011_1095255505973143_6806541087240915617_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=H5oo_RN9trAQ7kNvwGBP-Fc&_nc_oc=AdmyY9ndUxH-zmj8pjLz-rzILmlb23tPSa71Uln2j7Gmw84fcbZ22ja5L4EI_VZ5OJY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ts4EdmGg56GD21XJHP_4gw&oh=00_AfJ2LsUbppV5gRszsY3OdvQA373lmKT9TNxAeipaAY3P1Q&oe=682844EF",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1469153037400189",
+    "name": "ELAINE MAY // 11. maj - 25. juni 2025 // Cinemateket",
+    "description": "ELAINE MAY\n11. maj - 25. juni 2025\nNew Hollywoods oversete geni\n\nDe senere års cinefile genopdagelseskultur har dog skabt en nyfunden værdsættelse af Mays karriere som instruktør, cementeret med sidste års store biografi ’Miss May Does Not Exist: The Life and Work of Elaine May, Hollywood’s Hidden Genius’. I dag er der blandt filmhistorikere og fans bred enighed om, at May er et komisk geni – samt at hun er kriminelt overset. Årsagerne er mange, men det er svært at overse sexisme som én af de mest centrale: Som mange kvinder i Hollywood før og siden, fik May en stedmoderlig behandling af samtidens studiesystem og eftertidens historieskrivning.\n\n“Hvis alle, der hader ‘Ishtar’, havde set den, ville jeg være en rig kvinde i dag“, har Elaine May selv sagt om sin farce fra 1987. Filmen skulle have været hendes store comeback med Warren Beatty og Dustin Hoffman i hovedrollerne, men i stedet har floppet i dag kultstatus som en misforstået stopklods for instruktørens i forvejen tumultariske karriere.\n\nKun fire film blev det til. Udover ’Ishtar’ er der den morbide overklassesatire ’A New Leaf’ (1971), den uromantiske komedie ’The Heartbreak Kid’ (1972) og gangsterfilmen ’Mikey & Nicky’ (1976). Hver film var en kamp. May var tæt på fyring under alle produktioner, og hun fik et karrieredræbende ry for at være ”besværlig”. Ikke desto mindre er det en lille håndfuld idiosynkratiske og nyskabende sorte komedier, der både afspejler den iderigdom og oprørstrang, der prægede 1970’ernes New Hollywood, men også viser samme miljøs snæversynethed, dobbeltmoral og machismo.\n\nDe fire film er fortsat svært tilgængelige, og denne filmserie er derfor en unik mulighed for at opleve Elaine Mays skjulte, oversete og glemte geni på det store lærred i Danmark. Med fire arrangementer i forbindelse med filmvisningerne indføres vi i Mays filmiske og komiske varemærker, i hendes forbindelser til New Hollywood, i hendes kampe med studiesystemet som kvindelig instruktør og i hendes forhold til den særlige amerikansk/jødiske komedietradition.\n\nSerien er kurateret i tæt samarbejde med filmtidsskriftet Skuelyst, der i forbindelse med serien udgiver et online-dossier med nye, dansksprogede tekster om Elaine Mays film.\n\nNiels Bonde Jensen og Nick Bruhn-Petersen, filmjournalister / Skuelyst\nChristian Hansen, programredaktør / Cinemateket\n\n------------------------------------\nFILMVISNINGER\n------------------------------------\nSøndag den 11. maj\n19.00: I lyst og død (A New Leaf) m. intro til Elaine Mays filmværk\n\nLørdag den 17. maj\n19.45: Mikey og Nicky – jaget af fortiden m. intro\n\nTirsdag den 20. maj\n21.45: I lyst og død (Elaine May, 1971)\n\nTorsdag den 29. maj\n16.30: Mikey og Nicky – jaget af fortiden (Elaine May, 1976)\n\nOnsdag den 4. juni\n20.30: Hjerteknuseren (The Heartbreak Kid) m. intro om jødisk humor\n\nTirsdag den 10. juni\n17.00: Ishtar m. intro\n\nLørdag den 14. juni\n19.00: Hjerteknuseren (Elaine May, 1972)\n\nOnsdag den 25. juni\n16.45: Ishtar (Elaine May, 1987)\n\n\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\n\nSted: Cinemateket, Gothersgade 55, Kbh K\nTid: 11. maj 2025 - 25. juni 2025\nOrdinær billetpris: 85 kr. (dog 55 kr. for Cinematekets medlemmer). Særpris på udvalgte arrangementer.\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/filmserier/serie/elaine-may\n\nLæs mere om Cinemateket og medlemsfordele på: https://www.dfi.dk/cinemateket/medlemmer",
+    "date": {
+      "start_timestamp": 1746974700,
+      "end_timestamp": 1748184300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1469153037400189/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/492398587_1095296155969078_5468380769525683246_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rxJBS6myYXgQ7kNvwGv6sdD&_nc_oc=AdmIOzTOdLoiyA26n-WzBZDfjlAf9rcaNj3_8sc6R6tPjsutqGqdSij2xEZv7taGOXg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=qN0y8z2E09t21d5BYefnjg&oh=00_AfLRv24is-EjV79ub9CW9xXNjEeAJbIbkYXmeQJO0LVRiA&oe=68285CFC",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1009038368002639",
+    "name": "FRANSK SOMMER: På Filmtaget og i Cinemateket // 11. maj - 29. juni",
+    "description": "FRANSK SOMMER\n‘The Big Blue’, ‘Amélie’ og andre filmperler – bl.a. på Filmtaget! \n\nFlere af visningerne finder sted under åben himmel i vores Himmelbio på Filmtaget, hvor sommeraftenernes bløde skumring bliver den perfekte kulisse for storladen filmkunst. Men de kan også opleves indenfor i Cinematekets biografsale.\n\nFind billetter: https://www.dfi.dk/cinemateket/biograf/filmserier/serie/27795#all \n\nFå farver og passion for alle pengene, når vi med 'Fransk sommer' præsenterer en serie filmperler – fra Jacques Demys farvemættede musical 'Pigen med paraplyerne' til Luc Bessons dybsindige undervandsdrama 'The Big Blue' og Jean-Pierre Jeunets eventyrlige 'Den fabelagtige Amélie fra Montmartre'.\n\nHver film rummer en drys af den franske films særlige magi, der blander det poetiske, det højstemte og det rebelske.\n\nSærligt glæder vi os til at vise ‘Betty Blue’ fra 1986 i to versioner – både i Himmelbio (originalversionen på to timer) og indendøre (Director’s Cut på tre timer).\n\nSerien hylder især den såkaldte cinéma du look – en uformel fransk filmbevægelse fra 1980’erne, der satte stil og æstetik i højsædet. Instruktører som Luc Besson, Jean-Jacques Beineix og Léos Carax skabte her stærkt visuelle, følelsesladede fortællinger med drømmende karakterer, der ofte slås med både sig selv og omverdenen. Det er film, der kombinerer popkultur, neonoplyste storbyer og en intens sanselighed.\n\nFlere af visningerne finder sted under åben himmel i vores Himmelbio, hvor sommeraftenernes bløde skumring bliver den perfekte kulisse for storladen filmkunst. Flere titler, bl.a. 80’er-perlen ‘Diva’, følger i august!\n\nKom og lad dig rive med af store følelser, smukke billeder og fransk film, når den er allerbedst.\n\n------------------------------------\nFILMVISNINGER\n------------------------------------\n\nSøndag den 11. maj\n17.00: The Big Blue / Himmelbio\n\nTirsdag den 13. maj\n19.00: Pigen med paraplyerne (Jacques Demy, 1964)\n\nOnsdag den 14. maj\n20.00: Betty Blue - 37,2 om morgenen / orig. version i Himmelbio\n\nTorsdag den 15. maj\n17.00: Den fabelagtige Amélie fra Montmartre / Himmelbio\n\nLørdag den 17. maj\n17.00: The Big Blue / Himmelbio\n\nSøndag den 18. maj\n17.00: Pigen med paraplyerne / Himmelbio\n\nSøndag den 25. maj\n20.00: Pigen med paraplyerne / Himmelbio\n\nTorsdag den 29. maj\n17.00: Betty Blue - 37,2 om morgenen / orig. version i Himmelbio\n\nTorsdag den 5. juni\n20.00: The Big Blue / Himmelbio\n\nLørdag den 7. juni\n19.30: Betty Blue - 37,2 om morgenen - Director's Cut (Jean-Jacques Beineix, 1986)\n\nSøndag den 8. juni\n14.00: Den fabelagtige Amélie fra Montmartre / Himmelbio\n\nFredag den 20. juni\n20.00: Betty Blue - 37,2 om morgenen / orig. version i Himmelbio\n\nTorsdag den 26. juni\n19.15: The Big Blue (Luc Besson, 1988)\n\nLørdag den 28. juni\n19.15: Pigen med paraplyerne (Jacques Demy, 1964)\n\nSøndag den 29. juni\n19.00: Betty Blue - 37,2 om morgenen - Director's Cut (Jean-Jacques Beineix, 1986)\n20.00: Den fabelagtige Amélie fra Montmartre / Himmelbio\n\n\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\n\nSted: Cinemateket, Gothersgade 55, Kbh K\nTid: 11. maj 2025 - 29. juni 2025\nBilletpris: 95-110 kr. (dog 65-75 kr. for Cinematekets medlemmer).\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/filmserier/serie/27795#all\n\nLæs mere om Cinemateket og medlemsfordele på: https://www.dfi.dk/cinemateket/medlemmer",
+    "date": {
+      "start_timestamp": 1746975600,
+      "end_timestamp": 1748185200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1009038368002639/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488601335_1078064351025592_3709414986890754971_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1HZ2F7733Y4Q7kNvwE7Ylt0&_nc_oc=AdnCIGOJNjNa1WEsT8xg1WTj5FOFgjYKYMn-gMSAJ7yvb2m-PE5-HIs7mQSdir6Ywqs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=5HcrNRttRakxkzGNbZHSnw&oh=00_AfIE4Lxopm8c7jfMUwnRubw4VAcu9vyuaovFQGmXrF-n1g&oe=68283B41",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
   }
 ]

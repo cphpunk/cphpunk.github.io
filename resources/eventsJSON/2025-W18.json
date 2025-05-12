@@ -889,7 +889,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1006228128278256/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490333769_1085079243649503_5725335891530345469_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wp3xekfz6gQQ7kNvwF3hof9&_nc_oc=AdkvHv5FUTfguFPb-214ezq_60OY2OMzNVt1W9KpIHBHNMxITzHXI4xQgIJDcGFYzPQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=b3uT67LjlVLlKuYcfiA8Kg&oh=00_AfFSvXbZbm9mmMXrew3IZ0h9uWI3As0aOloZPMrrbCQQDg&oe=6813F1E1",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490333769_1085079243649503_5725335891530345469_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kCiJmX2E9j8Q7kNvwEkN1cc&_nc_oc=AdkuCs_x3xl5EhgY5GmZGzOjldq8ACkF_YosTXUjiW91ElxoHsPjtDTm9ExXkC6e8Jg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=i_kapkWqfRIslYCWiuaGig&oh=00_AfK-ZJITlfnXvinVyHxJmEmJC6EtdqJ38Hy6uQQKiEuVRQ&oe=68286121",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Jægersborggade",
@@ -4510,5 +4510,133 @@
     "platform": "Facebook",
     "page_name": "Glyptoteket",
     "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "1716094042318052",
+    "name": "Madboks food distribution - Urmagerstien 28",
+    "description": "Hello food savers! \n\n\nJoin us to save food waste and become more aware of how to prevent food from going to the bin prematurely.\n\n\nOn Wednesdays, you can find us at Urmagerstien 28. \n\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste.\n\nIn order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent wasting food. Thank you!\n\n\nTo BOOK A BOX, please follow this link: \nhttps://forms.gle/sis9i4F6LvPhvG4V7\n\n\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\n\n\nPlease bring 2 bags to carry the food in. \n\n\nPro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\n\n\nPlease also consider becoming a volunteer ❤ We need a lot more helping hands to make these food distributions happen weekly!\n\nTo register as a volunteer please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe?u=21366f082c5af1add473caecc&id=35fa4efaa0&fbclid=IwAR3s9b--DMro1EeYEtST0XlUMclBywow1p1EUv__o92Coi1M1WcumRmlJLY",
+    "date": {
+      "start_timestamp": 1746027000,
+      "end_timestamp": 1746030600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Urmagerstien 28, 2300 København S, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6490625,
+      "longitude": 12.595812500000008,
+      "bounds_ne_lat": 55.649125,
+      "bounds_ne_lng": 12.595875000000007,
+      "bounds_sw_lat": 55.649,
+      "bounds_sw_lng": 12.59575000000001,
+      "plus_code_global": "9F7JJHXW+J8",
+      "plus_code_local": "JHXW+J8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/1716094042318052/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/494552163_968826502085297_4005204752436360194_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nqU0rqf8lIkQ7kNvwGiXkKF&_nc_oc=Adla5Jbep1sNDzDhsGbvX8Wtv0Rk5PTZyVoRYCrv7O91tl7lpTYMom55VeWSjXlHtd4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=MQT_kP2dBIqar4BPfZKhaw&oh=00_AfJ49-e8rxm_2GEmRRypJE2XTOl6VQlpdIxnUVPPfPPluw&oe=682857B8",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "23920189044241865",
+    "name": "Madboks weekly food distribution 4.05 - Sundholmsvej 28a",
+    "description": "Join us to save food from going to waste at Sundholmsvej 28a, where you can join us to collect some food for yourself and/or become a volunteer!\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent food from going to waste.\n\nTo BOOK A BOX, please follow this link: \nhttps://forms.gle/UE6XSUTUgw9dJXNb6 \n\nOur food boxes are given out on a donation basis - Everyone can donate what they can afford for the food boxes, however, the minimum recommended donation is 25 DKK, so that we can cover the costs of each food distribution event.\n\nPlease bring a bag to carry the food in. \nPro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily bruise-able items safely.\n\nIf you want to register as a volunteer, please sign up here: \nhttps://myshopify.us7.list-manage.com/subscribe?u=21366f082c5af1add473caecc&id=35fa4efaa0&fbclid=IwAR3s9b--DMro1EeYEtST0XlUMclBywow1p1EUv__o92Coi1M1WcumRmlJLY",
+    "date": {
+      "start_timestamp": 1746363600,
+      "end_timestamp": 1746369000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/23920189044241865/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495008113_971858075115473_7935883962674441111_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bm3WCeVEsqkQ7kNvwFdo5te&_nc_oc=Adm6tWQWdqqTDOo36vHw08_LE9AfQic4_CMxKc8x4Ez3ucJ_39zbEM74MJySQ-oPULM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=XhTJ5-mTfbxLYr2cY_OvQA&oh=00_AfJ6XX6CoYyYauJwBxMTQlTOyqsPAwK6BV5W_Pza5Ot9_w&oe=68286312",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1713361116232647",
+    "name": "Madboks food distribution - Kapelvej 44",
+    "description": "Hey food savers! Join us at our weekly food distribution in Nørrebro at Kapelvej 44. Our events are open to everyone, no matter the financial status or conditions.\nTo BOOK A SPOT, please follow this link:\nhttps://forms.gle/BDzaDUeDf2KdqjF66\nBOOK ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 15 minutes, after that the food will be given to other people. If you know you would be late for picking up your box, please contact us on Facebook in advance so we hold on to your box.\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\nPlease bring 2 bags to carry the food in. Pro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\nPlease also consider becoming a volunteer ❤ It takes a small village to make these food distributions happen weekly! To register as a volunteer please sign up here: https://myshopify.us7.list-manage.com/subscribe",
+    "date": {
+      "start_timestamp": 1746277200,
+      "end_timestamp": 1746280800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Kapelvej 44, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1713361116232647/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495334328_970914975209783_197689746442131320_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P7r43d7dNoMQ7kNvwFnjxiu&_nc_oc=Adn_YD27iQTLnj7nl0PNYAteau91SeDeURYBR4__XWgDJf63JJ7N2nAy0a0mUU531ho&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=KmHlTDPOEgJTt2uSs6yU3w&oh=00_AfIz68PhRs4Ozdt3R5lu0byjSl3-gcUdhjnpNFA73G8UeQ&oe=68284288",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1173842200886140",
+    "name": "ROMAN POLANSKI // 1. maj - 26. juni 2025 // Cinemateket",
+    "description": "Roman Polanski\n1. maj - 26. juni 2025\n\nInstruktøren med fremtiden bag sig\nRoman Polanski (f. 1933) planter virtuost følelser af ubehag under huden på os – ofte i en forsonende, personlig tone. For ham er utrygheden og det uventede dét, der skaber forandring. Han beskæftiger sig bl.a. med parforholdet og risikoen forbundet med at komme tæt på andre. Men det er i skildringen af ensomhedens terror, vi tydeligst mærker hans personlige tone.\n\nHan udnytter det klaustrofobiske rum med stor effekt, bl.a. i ’Apartment-trilogien’: ’Chok’, ’Rosemarys baby’ og ’Den nye lejer’.\n\nMed ‘Chok’ demonstrerer han dét vanvid, der kan opstå af ensomhed: Rystende, ubønhørlig og sitrende af en næsten pervers fremstilling af desperation.\n\nI 1969 bliver hans højgravide kæreste Sharon Tate myrdet. Polanskis næste film er en blodig udgave af Shakespeares ’Macbeth’. Hollywoodkarrieren bliver kronet med ’Chinatown’.\n\nI 1979 kommer ‘Tess’, et periodedrama med 18-årige Nastassja Kinski (hans nye kæreste) i titelrollen. Senere indspiller han ’Pianisten’, der taler dybt ind i hans egen historie.\n\nPolanski er en filmmager med fremtiden bag sig. Måske er hans egen betegnelse ”forhenværende instruktør” ikke helt ved siden af?\n\nMorten Tang + Tobias Lynge Herler, programredaktører / Cinemateket\n\n------------------------------------\nFILMVISNINGER\n------------------------------------\n\nTorsdag den 1. maj\n19.15: Rosemarys baby (Roman Polanski, 1968)\n\nFredag den 2. maj\n18.45: Frantic (Roman Polanski, 1988)\n\nLørdag den 3. maj\n20.00: Chinatown / Himmelbio\n\nTirsdag den 6. maj\n21.45: Death and the Maiden (Roman Polanski, 1994)\n\nOnsdag den 7. maj\n21.45: Vampyrernes nat (Roman Polanski, 1967)\n\nTorsdag den 8. maj\n19.30: Chinatown m. intro v. Bo Tao Michaëlis\n\nLørdag den 10. maj\n16.15: Pianisten (Roman Polanski, 2002)\n\nSøndag den 11. maj\n20.00: Chok (Roman Polanski, 1965)\n\nTirsdag den 13. maj\n21.15: Macbeth (Roman Polanski, 1971)\n\nOnsdag den 14. maj\n19.45: Tess (Roman Polanski, 1979)\n\nTorsdag den 15. maj\n18.30: Den nye lejer - bog og film m. intro v. forlægger Karsten Wind Meyhoff\n\nFredag den 16. maj\n19.00: Chinatown (Roman Polanski, 1974)\n\nLørdag den 17. maj\n17.15: Frantic (Roman Polanski, 1988)\n\nSøndag den 18. maj\n16.00: Pianisten (Roman Polanski, 2002)\n\nLørdag den 24. maj\n20.00: Frantic / Himmelbio\n\nSøndag den 25. maj\n19.15: Rosemarys baby (Roman Polanski, 1968)\n\nOnsdag den 28. maj\n21.30: Den nye lejer (Roman Polanski, 1976)\n\nLørdag den 31. maj\n16.15: Tess (Roman Polanski, 1979)\n\nTirsdag den 3. juni\n16.45: Death and the Maiden (Roman Polanski, 1994)\n\nFredag den 6. juni\n20.00: Frantic / Himmelbio\n\nOnsdag den 11. juni\n20.00: Chinatown / Himmelbio\n\nTorsdag den 12. juni\n20.00: Frantic / Himmelbio\n\nTirsdag den 17. juni\n19.30: Macbeth (Roman Polanski, 1971)\n\nTorsdag den 26. juni\n21.30: Vampyrernes nat (Roman Polanski, 1967)\n\n\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\nSted: Cinemateket, Gothersgade 55, Kbh K\nTid: 1. maj 2025 - 28. maj 2025\nOrdinær billetpris: 85 kr. (dog 55 kr. for Cinematekets medlemmer). Særpris på udvalgte arrangementer.\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/filmserier/serie/roman-polanski\n\nLæs mere om Cinemateket og medlemsfordele på: https://www.dfi.dk/cinemateket/medlemmer",
+    "date": {
+      "start_timestamp": 1746119700,
+      "end_timestamp": 1747329300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1173842200886140/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/486110044_1080455474119813_3172858294480649896_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=F1HHmm7shgIQ7kNvwFDX_sV&_nc_oc=AdnfMOA44CFuGh8F6Sp5GWs0zFskYal9QF10XIAfNuWGhNX0Z5J89rPdxnjpXdh3oCc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=r5fzSIkZVFqvqfJLVymT4w&oh=00_AfK32aMNr6M-ppX69EMW4_rZ5n-BDRFkfDoKplKNYtUIYg&oe=6828565C",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
   }
 ]

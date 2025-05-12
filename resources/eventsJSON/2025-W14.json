@@ -268,7 +268,7 @@
       "name": "Ungdomshuset Odense",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/4141041729503725/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484059052_669286265655642_2850450490731752089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YGI-dopiJREQ7kNvwFdjTXY&_nc_oc=Admb7QxWAK7r4Vhs-IePdF-XZVnvApWe-6KUgBkRQhYdEHR4KpKVHnoyLUuApfXVbQk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=wU4vJyLhtiBY8mArLs08bQ&oh=00_AfHEAE2ff58s3iXmziI7Nfsg-ApJubidZmAbYuManIpHlQ&oe=6813E62D",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484059052_669286265655642_2850450490731752089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=G5QbCA6a-ewQ7kNvwFpCivf&_nc_oc=AdmBdV8z39j9zuXTFLNosMjHlYxaI010Hp5CzT7huuWyYc43Sn4tojOed1CsrOOSrUg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=f2NVyaVH0keIGaVXDfMLAg&oh=00_AfJa57k65jD9inmzrMN0iQ7urpc0KJkbYv4MGQ248Xe9QA&oe=6828556D",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "CPH ZINE FEST",
@@ -300,7 +300,7 @@
       "name": "Herlev Bygade 70, 2730 Herlev Municipality, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.72531249999999,
       "longitude": 12.435687500000014,
       "bounds_ne_lat": 55.725374999999985,
@@ -313,7 +313,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/540971395630362/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/482032539_672323648685237_6186518368281978387_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=N_j87eAA0W8Q7kNvwGRpBUc&_nc_oc=AdmynxIf1H_xqXhRO2kSFkTj3tPaKmXOGFNfZatdBJzLXxwojCTKKMt1LS0D5GZASQY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=ThNPw4Iupfrii8W1PwCNkA&oh=00_AfFNi-PyF97ReOQrL9-hQhomLh0Eb18RAW6ldn-z8yGtEg&oe=6813D9E4",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482032539_672323648685237_6186518368281978387_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TRTlZrQhHMYQ7kNvwFMdwnB&_nc_oc=Adn9plRY5vtvmAAYcdkkwoLgC6-JCoQGZWvsYkQ7Y6XcmLF0dr1WuF7DLVGOfj15AaU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=m5BO8mjmquCvq7eJ6f4zAg&oh=00_AfL2HC89EfeSAhu20hz1asW06lmXW3gJ9mQ1aRr1sWsBKw&oe=68284924",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "CPH ZINE FEST",
@@ -1858,7 +1858,7 @@
   {
     "id": "2029941434174870",
     "name": "Live Rebetiko at Wilgart – Greek Blues & Classic Hats ",
-    "description": "🎩 Live Rebetiko at Wilgart – Greek Blues & Classic Hats 🎶\n\nJoin us for a special evening of Rebetiko – the soulful “Greek Blues” – performed live in the cozy atmosphere of Wilgart Hat Shop in Copenhagen.\n\n✨ Featuring Karayagini:\n🎶 Maria Papadimitraki – Bouzouki, Rabab\n🎸 Christian Simonsen –Lavta, Tanbur\n🎻 Thanos Kandylas – Cello\n \n@karayagini.band \n\nRebetiko is a powerful genre born in the 1920s, reflecting the stories of Greek refugees from Asia Minor. It speaks of love, loss, and resilience – a musical journey that still resonates today.\n\nBut this event is more than just music! Wilgart will share the fascinating history of Fedora and Panama hats—iconic styles that, like Rebetiko, have deep cultural roots and connections to music traditions.\n\n\n",
+    "description": "🎩 Live Rebetiko at Wilgart – Greek Blues & Classic Hats 🎶\n\nJoin us for a special evening of Rebetiko – the soulful “Greek Blues” – performed live in the cozy atmosphere of Wilgart Hat Shop in Copenhagen.\n\n✨ Featuring Karayagini:\n🎶 Maria Papadimitraki – Bouzouki, Rabab\n🎸 Christian Simonsen –Lavta, Tanbur\n🎻 Thanos Kandylas – Cello\n\nLimited capacity (40)\n\nTickets : 119DKK \n\nBuy the tickets through Biletto, or at the place.\n \n@karayagini.band \n\nRebetiko is a powerful genre born in the 1920s, reflecting the stories of Greek refugees from Asia Minor. It speaks of love, loss, and resilience – a musical journey that still resonates today.\n\nBut this event is more than just music! Wilgart will share the fascinating history of Fedora and Panama hats—iconic styles that, like Rebetiko, have deep cultural roots and connections to music traditions.\n\n\n",
     "date": {
       "start_timestamp": 1743872400,
       "end_timestamp": 1743881400,
@@ -1868,7 +1868,7 @@
       "name": "Jægersborggade 4, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.69193750000001,
       "longitude": 12.54531249999998,
       "bounds_ne_lat": 55.69200000000001,
@@ -1881,7 +1881,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/2029941434174870/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/480256462_1138921634911013_5175864112782430044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=COZbPY1UMEUQ7kNvgFyoyuP&_nc_oc=AdkwYT6zUy0Ik66dxbdtdN6yJwLNhfGbL8y9ChGr9NGNwNLgRldTsg814InDYbH5f1M&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=yUdZX97jGZMNLAeHww7OmA&oh=00_AYGL2p1mKz04XOg1zPFNtIyoNI_sAI3_jz_bmRMcKJK2VA&oe=67E47EC0",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/492572685_1176228167847026_2044013437510190488_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EYem6z8uyIkQ7kNvwGfmaNT&_nc_oc=AdmmlVgJFzQpP9G8_6otf_yotigwLdL2U5xa03khTEEt1l80JRIlwbQNKE3Rf_PsVr4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=o7f6FbUGPqgJpUT80mO_8w&oh=00_AfIldWkJD3Ip1Rrza2m22d8Z_FceHjgiKlA_JCjshByJlA&oe=68285F4B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Jægersborggade",

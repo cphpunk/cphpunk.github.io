@@ -25,7 +25,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/1097528345227826/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484782672_1587030758712296_911995206517396324_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RIrh_dp1hCYQ7kNvwEI_BBz&_nc_oc=AdndMbuO5Qf23L03nADgqNQBDVOhLH_wQ2goC-OHqH-cX6oP_qJu0W_XcPAx-Fnw0lk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=dx4yy0WDoOJtoldB2SNsPA&oh=00_AfEOPywHB1USM9l0uIib9mZwkRxC00zAG5Og9W2EiVXpyw&oe=6813EA12",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484782672_1587030758712296_911995206517396324_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jIcsgqrBvW8Q7kNvwG8p9Bl&_nc_oc=AdlHAiMqUHEcvsnz8TlJttpBQPcn2MRjZZjMVxmcfR8hjcLghpNvdcMLe6NpywRWElA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=zjnsVwlavZUQGTjd95X_dQ&oh=00_AfIfzPYsgYdAgL-E6_uTE2Pq7urOI9rWTAGMpTd78L0HGA&oe=68285952",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Half Marathon",
@@ -62,5 +62,101 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "2962287867270241",
+    "name": "Lil Baby - WHAM World Tour",
+    "description": "Lil Baby – WHAM World Tour \nK.B. Hallen, København.\nSøndag 14. september 2025.\n\nDøre: Kl. 18.30\nShow: 20.00\n\nBilletpriser: PL1: 545 kr. + gebyr / GA: 525 kr. + gebyr.\n• Det officielle billetsalg starter fredag 21. februar kl. 10.00 via livenation.dk og Billetlugen.dk\n• Mastercard giver dig særlig adgang til presale billetter. Køb dine billetter til Lil Baby i K.B. Hallen. Presale starter onsdag d. 19. februar kl. 10.00, og slutter fredag d. 21. februar kl. 09.00, kun med dit Mastercard. Tjek priceless.com/music for detaljer. \n• Live Nation presale starter torsdag 20. februar kl. 10.00 for Live Nation nyhedsbrevsmodtagere og på livenation.dk \n• Begrænsning på 8 billetter per køb.\n\nLIL BABY ANNONCERER 2025 'WHAM WORLD TOUR' MED DATOER I NORDAMERIKA, EUROPA, AUSTRALIEN OG NEW ZEALAND\n\nI dag annoncerer rap-superstjernen Lil Baby sin globale 2025-turné, der omfatter Nordamerika, Europa/UK, Australien og New Zealand. Den kommende verdensturné kommer i kølvandet på Lil Babys fjerde studiealbum WHAM [Who Hard As Me], som blev udgivet den 3. januar 2025. Albummet blev Lil Babys fjerde nummer ét på Billboard 200-albumlisten. WHAM [Who Hard As Me] debuterede også som nummer ét på Billboards Top R&B/Hip-Hop Albums og Top Rap Albums hitlister, hvilket cementerer hans position som en af raps mest succesfulde hitmagere.\n\nWHAM World Tour er Lil Babys første headliner-turné siden hans It’s Only Me Tour i 2022, som omfattede udsolgte shows over hele Nordamerika.\n",
+    "date": {
+      "start_timestamp": 1757867400,
+      "end_timestamp": 1757874600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/2962287867270241/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/486678868_1092406572914841_2168086493482949564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WMB1VcGYjvsQ7kNvwFdWKeY&_nc_oc=AdnOCriNoQt5JhPg1YCmyo2cKTdrX-D0BSjqAb1kLHRmfX9U9-P3lyyHurOfFeDwZyw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=SSAxKN7n2RaDTJ0_EpiVmA&oh=00_AfLSkKb-7vLCOQt8h-dk6f9UGMnBIvzb5N4Z1lXArFJiEA&oe=68286CE9",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "703547925680296",
+    "name": "Lauren Spencer Smith / K.B. Hallen 13. september",
+    "description": "LAUREN SPENCER SMITH\n‘THE ART OF BEING A MESS TOUR’\nK.B. HALLEN \nLØRDAG 13. SEPTEMBER 2025\nSupport: Henry Moodie\n\nBILLETINFORMATION\nPRISER\nPL1: 410 kr. + 40 kr. billetgebyr \nGA (stå): 380 kr. + 40 kr. billetgebyr\nKørestol: 410 + 40 kr. billetgebyr\n•\t10 kr. ordregebyr pr. transaktion\n\nBILLETSALG\n– Officielt billetsalg begynder fredag 9. maj kl. 09.00 via livenation.dk og billetlugen.dk\n– Live Nation presale starter torsdag 8. maj kl. 09.00 for nyhedsbrevsmodtagere på livenation.dk.\n– Mastercard kortholdere har særlig adgang til presale billetter i Danmark. Mastercard presale starter onsdag 7. maj kl. 09.00 og slutter fredag 9. maj kl. 09.00. Derudover er der reserveret billetadgang til nogle af de bedste billetter, som er tilgængelige fra fredag 9. maj kl. 09.00. Tjek priceless.com/music for detaljer.\n\nBEGRÆNSNINGER\n• Maks. 6 billetter pr. køb.\n\n\nDen fremadstormende sanger og sangskriver Lauren Spencer Smith drager til efteråret ud på sin THE ART OF BEING A MESS headliner-turné. Turnéen starter den 3. september i Madrid og omfatter 29 koncerter i Europa, Storbritannien, Australien og New Zealand – med stop i blandt andet Paris, London, Berlin, Dublin, Glasgow med flere. Se den fulde liste over datoer nedenfor.\n\nHendes længe ventede andet album, THE ART OF BEING A MESS, udkommer den 27. juni via Island Records/Republic Records. \n\nOm Lauren Spencer Smith:\nSpencer Smith udgav for nylig “IF KARMA DOESN’T GET YOU (I WILL)” fra det nye album — lyt/del HER og se/del den officielle lyric-video HER.\n\n\"‘IF KARMA DOESN’T GET YOU (I WILL)’ bevæger sig i en lyd, der er mere kantet, mørk og ærlig end noget, jeg tidligere har udgivet,\" forklarer Spencer Smith. \"Den afspejler den vrede, styrke og ild, jeg har følt – og er et tegn på, hvor meget jeg er vokset, både personligt og musikalsk. Denne sang er kun begyndelsen på at udforske dybere, mere kompromisløse følelser af vrede og på at være ærlig omkring de sider af os selv, vi ikke altid viser.\"\n\nTro mod sin titel indfanger THE ART OF BEING A MESS den følelsesmæssige rutsjebanetur, Spencer Smith oplevede, mens hun skrev sit andet album. Hver sang rører ved en følelse – vrede, ødelæggelse, kærlighed, fred, forvirring og alt derimellem, nogle gange alt på én gang. Med afsæt i menneskets kaotiske natur genbesøger Spencer Smith ægte historier og oplevelser fra sit eget liv. Med dette album minder hun lytterne om at omfavne deres følelser og føle sig trygge i dem – at ikke alt er sort-hvidt.\n\n\"THE ART OF BEING A MESS handler om at omfavne op- og nedturene, kaosset og skønheden i at føle alt – uanset hvilken følelse det er,\" siger Spencer Smith. \"Livet er rodet, og det er okay at være vred, trist, forvirret – eller endda usikker på, hvad man føler. Jeg vil have, at dette album skal føles som en guidebog, der hjælper dig med at forstå dine egne følelser og føle, at det er i orden at tage med på den rejse, de fører dig ud på.\"\n\nTHE ART OF BEING A MESS følger op på hendes debutalbum Mirror (2023), som indeholder RIAA-certificerede platin-singler som “Flowers” og “Fingers Crossed” – sidstnævnte nåede en 19. plads på Billboard Hot 100 og har fået over 875 millioner streams globalt.\nFra en lille by på Vancouver Island begyndte Spencer Smith sin musikalske rejse i 2019 og opbyggede hurtigt en stor online-fanskare. Gennem sin musik har hun udforsket kærestesorger og komplekse følelser omkring skole, familie og venskaber. Spencer Smith har optrådt ved MTV Video Music Awards, The Tonight Show Starring Jimmy Fallon og People’s Choice Awards – hvor hun også var nomineret som Bedste Nye Kunstner.\n\nLauren Spencer Smith har indgået et samarbejde med PLUS1, så en del af indtægterne fra hver billet går til organisationer, der hjælper unge mennesker, som står over for boligusikkerhed, sult og afhængighed.\n\n\n",
+    "date": {
+      "start_timestamp": 1757781000,
+      "end_timestamp": 1757788200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/703547925680296/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/494102845_1120080430147455_6784919851267599058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Rd1TPKcGT1gQ7kNvwEJgZs9&_nc_oc=AdnJN48xofRfY-pTePw4sBxCtr6I1RYqqNWvF-3l3bmkDZAGj4tmmLo7VTsttpx5GKk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=QT6BhudAwm3ikuJTJoBrwA&oh=00_AfIvYQsWJ63387zJbEcboBiWKaNF_09isbVo01Wlj1ADaw&oe=6828695F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "953317286315744",
+    "name": "Friday Night Skate 8. tur. (Foreløbig dato) ",
+    "description": "Opdateringer og ændringer offentliggøres kun på FNS's egne begivenheder!\n\nÅrets 8. og sidste tur på rulleskøjter gennem København, hvor vi igen starter og slutter ved Next House. Ruten bliver lagt op i løbet af ugen op til turen. \nVi skal nå igennem turen på ca. 20 km på 2 timer inkl. pause, så du skal kunne rulle med mindst 15 km/t i snit og have god styr på dine rulleskøjter, dvs. være god til at kunne bremse og dreje.\n\nVi er mange i feltet og alle skal have en god tur, så følg reglerne med kun at køre på vejbanen, vis hensyn til hinanden og hjælp blockerne, når de giver anvisninger til feltet.\n\nHvis du ikke kan følge med, bliver du sat af feltet af vores bag-blockere med et pænt: Fortsat god aften og så må du hjem og øve dig. Du er meget velkommen igen, når du er hurtig nok\".\n\nOg så er det ikke tilladt at være påvirket af alkohol eller andre rusmidler, når man ruller med.\n#EWOSDK #BeActive",
+    "date": {
+      "start_timestamp": 1757698200,
+      "end_timestamp": 1757705400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Next House Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.669562500000026,
+      "longitude": 12.570937500000028,
+      "bounds_ne_lat": 55.669625000000025,
+      "bounds_ne_lng": 12.571000000000026,
+      "bounds_sw_lat": 55.66950000000003,
+      "bounds_sw_lng": 12.57087500000003,
+      "plus_code_global": "9F7JMH9C+R9",
+      "plus_code_local": "MH9C+R9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/953317286315744/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484034625_1173580520879608_3441825365046968186_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UG1Pm-kd3rMQ7kNvwHIASgu&_nc_oc=AdlDowWenZ8GXPFC-S6VKx93C-yeVz5YGvmrPStHPsT6wiQFXz26EzjwZf7A5hutuFI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=RIr_KO8TX6hClrG3fNE-_Q&oh=00_AfLHI6H48HaXf1_aKcGcxtGJ-Wrp_SylIN4lWrw_Bgl3Ng&oe=68283C61",
+    "tag": "SPORTS",
+    "platform": "Facebook",
+    "page_name": "Next House Copenhagen",
+    "page_url": "https://www.facebook.com/nexthousecopenhagen/events"
   }
 ]

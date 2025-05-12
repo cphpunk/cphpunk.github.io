@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1240096450394201",
+    "name": "Friday Night Skate 7. tur. (Foreløbig dato) ",
+    "description": "Opdateringer og ændringer offentliggøres kun på FNS's egne begivenheder!\n\nÅrets 7. tur på rulleskøjter gennem København, hvor vi igen starter og slutter ved Next House. Ruten bliver lagt op i løbet af ugen op til turen.\n\nVi skal nå igennem turen på ca. 20 km på 2 timer inkl. pause, så du skal kunne rulle med mindst 15 km/t i snit og have god styr på dine rulleskøjter, dvs. være god til at kunne bremse og dreje.\n\nVi er mange i feltet og alle skal have en god tur, så følg reglerne med kun at køre på vejbanen, vis hensyn til hinanden og hjælp blockerne, når de giver anvisninger til feltet.\n\nHvis du ikke kan følge med, bliver du sat af feltet af vores bag-blockere med et pænt: Fortsat god aften og så må du hjem og øve dig. Du er meget velkommen igen, når du er hurtig nok\".\n\nOg så er det ikke tilladt at være påvirket af alkohol eller andre rusmidler, når man ruller med.\n#EWOSDK #BeActive",
+    "date": {
+      "start_timestamp": 1756488600,
+      "end_timestamp": 1756495800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Next House Copenhagen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.669562500000026,
+      "longitude": 12.570937500000028,
+      "bounds_ne_lat": 55.669625000000025,
+      "bounds_ne_lng": 12.571000000000026,
+      "bounds_sw_lat": 55.66950000000003,
+      "bounds_sw_lng": 12.57087500000003,
+      "plus_code_global": "9F7JMH9C+R9",
+      "plus_code_local": "MH9C+R9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1240096450394201/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482058479_1173580490879611_4191742273593105430_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=E15DZe_RMF8Q7kNvwHQnW68&_nc_oc=AdnMpFO5Jqk5iqjmsLezV99MeVEd5rQf0x0hJaKW0DXDq2mwhALsQ90hXtqNx18zhhk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=vrgr4cWmYnhcSWcTGl4Pbw&oh=00_AfKjsjg_YdqNoT2hTMhg3-NOs_7Dd4pcSe9Y3lCEx4w9pw&oe=682864ED",
+    "tag": "SPORTS",
+    "platform": "Facebook",
+    "page_name": "Next House Copenhagen",
+    "page_url": "https://www.facebook.com/nexthousecopenhagen/events"
+  }
+]
