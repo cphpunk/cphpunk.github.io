@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1315663772812014",
+    "name": "FILOSOFISK FILMFESTIVAL 2026 / Cinemateket 1.-28. februar",
+    "description": "✨ FILOSOFISK FILMFESTIVAL 2026 ✨\n\nJa - Vi vender tilbage i februar næste år. \n\nProgrammet følger i december 2025 – men med drypvise annonceringer inden.\n\nGlæd jer allerede nu til bl.a. kultdokumentaren ’The Parking Lot Movie’, der følger en gruppe studerende, mestendels filosofistuderende, mens de, ja, holder vagt ved en parkeringsbom. Det er både begivenhedsløst og dybsindigt – og underholdende.\n\nSes vi?👀",
+    "date": {
+      "start_timestamp": 1769943600,
+      "end_timestamp": 1771153200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1315663772812014/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/487974364_1077782304387130_7145691228870311981_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=reWAqilu-PEQ7kNvwHlh_cE&_nc_oc=AdmwVvbHDEH9_iTkqkOQnJIhwAxrLWUyjy4ikCwGNjjaXGO8KUeRzsalNUdHBbd5SBI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=h-i0JaH5-SqQ4tXGNOwSOQ&oh=00_AfOiSb7wMc6b5YRZc1T51G4re78oc6woTe_CQ0Ra8NB_4g&oe=686708AE",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  }
+]

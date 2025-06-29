@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/470017107042987/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uytx9F3HzQIQ7kNvwGE3aVn&_nc_oc=Adn03X1ZbIjlnL-0PmytJ7fcMciSc0mJLmlvJBTkCsX3qEhUB-S5VX6moQcUPY0f43U&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ArtC62pTEpQcL8c0wt9cig&oh=00_AfL68cTXiMKjWAjUYvc7lEuPnkwMRHX52GtbVPcDK7QFDQ&oe=6849FC08",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/157252875_2793247147581549_2141558724194259435_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wiYesgd-AMoQ7kNvwHqfyMs&_nc_oc=AdmbJORlwDSmbCBwB7urpXZcY0KfeTxD75PCazpwYRRJzVq_GTyoUlCAT74W581aNNk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=y6D-hXU4-G7GC-DYqECGiA&oh=00_AfPRV_tGhxui4tYZYOKxK9kMRrLoA1kEmVITqHap_I_Jzw&oe=6888D388",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/4821630954526341/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fQl2EZ9-8AoQ7kNvwE_-fQx&_nc_oc=Adl6VBMDzkiyvNqm-FwKO-iXYP8cr004lLCWT5DbCnRo_wvF0kYWe_XTHoBCFOC7qQ8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=b_73_jPkBJ3-2wBY2k3ceA&oh=00_AfL1VmYYgrxGimaWAuvXje5vLOd4kJc_VubaNj3KXsNINw&oe=68286829",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520533645998_8687107390316045024_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=o0lRCjcj8OUQ7kNvwF6WtpO&_nc_oc=AdlNpx7pe1ywRLm_JfUqH6RLiKBu9iSa4TI6NY6gtwlTrAhUPFq0yYIrXnLrf4xOabQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=2UgKzjUrTkPQ9WAuHVTUJw&oh=00_AfN0f-FWXEhz4c-w8y7ah1nvhDaJ9vYvcZH6ek7j5wvKiQ&oe=68673FA9",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -74,9 +74,9 @@
     },
     "location": {
       "name": "Det Ny Teater",
-      "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.673187500000026,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.673250000000024,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/388199572857663/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ywssG4ESiscQ7kNvwFPbx76&_nc_oc=AdmiNCZ2Y6bg5qraf_UCjmxmTk085_-7flAm5pt79rymk66CtEbvQZaVqU-zv0_OBLw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=9bzqfhYsUmmLXUPNdIYL2Q&oh=00_AfK126sQzt3kIQP6LCak-h1_myfQ-kL15c6Ojn9U-yH9fQ&oe=68285D17",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474240327_2433520526979332_9140118144707049836_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FJn_95gJvIUQ7kNvwEC-VPe&_nc_oc=AdmRC2tMa2s4tslp2KSE16HgHf_5uz68lBr-nZrCjpwrFxidYHBIJYlRbMewolNylC4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Mrb0WwBr5XY08cYC9uNfwQ&oh=00_AfO9qMbR8rN5f9I3e0WajyKrfcYvy_S4vbHLHHTApekl_Q&oe=68673497",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -106,9 +106,9 @@
     },
     "location": {
       "name": "Det Ny Teater",
-      "address": "Gammel Kongevej 29",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.673187500000026,
       "longitude": 12.5553125,
       "bounds_ne_lat": 55.673250000000024,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/407678980803899/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IuifgCBG7aoQ7kNvwEfKOmI&_nc_oc=Adnawn_DZyqyG5GnWr1hUSdI45PQPdlvot6_FV6XGNwikDyilA_fb6IASHG8n-HgYIc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=yj8Ok4ApKBT_UuMkkV9FiQ&oh=00_AfLukc1vlvzRHE2FAa-XhFhXfi0IeY6ZuTc6Pfposd-M9Q&oe=6828503F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474078441_2433520890312629_184035775409218225_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4bnAyBSvaLcQ7kNvwEyLm-4&_nc_oc=AdkTgMYg3WFzp6CzpK8-X6sMFr_sQ_oXwzEjJZuWOl-nm4XNy4B1n8rUXGWWGTk9uRg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=vWzKkR6SNcbzsI95Z_g5zw&oh=00_AfNSPx5rXKZVLrPXYH_cjtu1g-rD7co0T87PgUWPAylqow&oe=686727BF",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/842139303112377/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9i__12_XJYQQ7kNvwHO7V4r&_nc_oc=Adnbjn88IbSTwDViKI6NmwbaYkg0hpBW3syIrfPb7gTPzzpe0YgOmKmGS2EWL6Es2wQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=CLdW5l7IM9e20T6eN9zyUw&oh=00_AfJhcc_9I7v2GU24T4Z6EeHt2YKK7yjyf8Kyf5zzlhE1Fw&oe=68283E55",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/474042039_2433520846979300_218631971772048163_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eVMFV8lyXC4Q7kNvwEuo7aF&_nc_oc=Adm-XtSBKQ1sNs3s5tWXewdWuq-Ho3zCwJe7IXXpIE_AR2SBYzZn_00hHN_MrVj_vLM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Endt9gS3GMryUiWLKoucfg&oh=00_AfP-uc0lWw0mFWcsAWSQleN3N2m_7j-E7ExcUX_-bpBxxg&oe=686715D5",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",

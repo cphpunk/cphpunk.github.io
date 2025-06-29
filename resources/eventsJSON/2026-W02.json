@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-the-bowie-tribute",
+    "name": "the BOWIE tribute",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Luk øjnene – og du kunne tro, det var ham selv. Med karismatiske Michael Bjørn i front leverer the BOWIE tribute intense, nærværende og respektfulde versioner af David Bowies største hits. Bandet er kendt som et af Europas bedste Bowie-tribute acts og giver dig både klassikere og overraskelser fra det enorme Bowie-katalog.\n </p>\n <p>\n  Koncerten begynder i mørke med damp og lyden af et tog, og snart fyldes salen af tonerne fra Station to Station. Publikum står tæt, og stemningen sitrer, når musikken for alvor tager fat.\n </p>\n <p>\n  Glæd dig til en aften med stor lyd, kærlighed til originalen og masser af nerve – en koncert for både inkarnerede Bowie-fans og nye lyttere.\n </p>\n <p>\n  Musikmagasinet GAFFA skriver begejstret om bandet:\n  <br/>\n  ”Forsanger Michael Saxe Bjørn får et naturligt fokus, for her er det HAM, ”som er” Bowie – eller noget, der\n  <br/>\n  ligner. Det bliver gjort så fint, nogen gange ligefrem underspillet, og med dyb respekt for det foreliggende\n  <br/>\n  materiale. Ind i mellem kunne et par lukkede øjne godt snyde, for ”er det ikke…?”.\n  <br/>\n  Det må have krævet timer alene på badeværelset for at få stemmen så tæt op ad Bowies unikke vokal ”\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1768071600,
+      "end_timestamp": 1768078800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/the-bowie-tribute",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-06/theBOWIEtribute_2-3_logo_2.jpg?itok=bXutKhVs",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

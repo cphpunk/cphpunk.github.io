@@ -30,5 +30,101 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "28646472828329875",
+    "name": "Hellcrash (Inferno Crematörio Tour) + Support - Copenhagen, DK",
+    "description": "130 kr. i forsalg / 150 kr. i døren  \nDøre kl. 19.00 / show kl. 20.00\n\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nItalienske Hellcrash vender tilbage til Beta og serverer endnu en omgang hæsblæsende og ægte dæmonisk speedmetal af den helt gamle skole! Med sig i bagagen har de deres tredje fuldlængde ”Inferno Crematörio” der udkommer 25. maj via Dying Victims Productions.\n\nDer var drøn på da de væltede Amager under oktober-stormen i 2023 – og tempoet bliver ikke sat ned denne gang.\n",
+    "date": {
+      "start_timestamp": 1760032800,
+      "end_timestamp": 1760040000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/28646472828329875/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/503366626_1305380621590775_7005855442281485725_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mJT57lUNdLYQ7kNvwE6EJW_&_nc_oc=AdmOVx7tZD_B3ajV3ZWxCYa6OAA-jUCGLT_dW9Ah0h7cnk5F9BUxfEZzSFV-QZcwmgs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=_Gw36blB-cLL6kSi5OKy0g&oh=00_AfMtMilUrzWg-o8DSnnEuKWgNLQWuo90ocWs6xME7Imtog&oe=6867084E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "2523161438036528",
+    "name": "The Mukherjee Development - BETA",
+    "description": "220 kr. i forsalg / 235 kr. i døren\nDøre kl. 19 / show kl. 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nEt indie-, rock- og folk-band, der maner til både fordybelse og fest i en fortravlet verden\n\n”De danske Coldplay, bare bedre end originalen”, lød det for nyligt fra GAFFA i en femstjernet koncertanmeldelse af bandet The Mukherjee Development. Navnet ”Mukherjee” er indisk og tilhører den dansk/amerikansk/indiske forsanger Oscar Mukherjee, hvis californiske opvækst får bandets engelske lyrik til at flyde ubesværet og frit. Bandet består desuden af erfarne kræfter, som bl.a. kendes fra Jonah Blacksmith og Peter Sommer & Tiggerne, og som i The Mukherjee Development udfolder sig med musikalsk overlegenhed og kreativitet.\n\n”Gennem vores musik og historiefortælling ønsker vi at imødegå polarisering og i stedet opfordre til fællesskab – både med hinanden og med vores publikum. Vi vil skabe et rum for kreativitet og nærvær i en tid med et lidt for højt tempo”, fortæller Oscar Mukherjee.\n\nThe Mukherjee Development evner som få at fylde et rum med nærvær og dynamik. Når de går på scenen, leverer de tidsløs guitarstøjrock à la Neil Young og The War On Drugs, håndspillede folk/pop-sange som Sheryl Crows og The Cardigans’, og underspillede og skrøbelige indie-ballader som man hører dem hos Phoebe Bridgers.\n\nTeksterne præges af en skarpsynet surrealisme, som giver plads til lytterens fortolkning, og som bringer et poetisk klarsyn over albummets store temaer: kærlighed, venskab og søgen efter identitet i en tid præget af usikkerhed og storpolitiske udfordringer, som overstiger den enkeltes kapacitet. Når albummets mere eksperimenterende numre spiller, går tema og musik op i en højere enhed.\n\nThe Mukherjee Development udgiver nyt album til august 2025 – det tredje i rækken siden bandets debut i 2022. Oscar Mukherjee har tidligere været den primære sangskriver, men på det kommende album har bandet skrevet størstedelen af sangene i fællesskab. Det kan høres. Her mødes storladne brit-pop-melodier, håndspillede indie/folk-sange og gedigen rock, hvis variation og sammenhængskraft skaber en sprudlende synergi.\n\n\n\n\n\n",
+    "date": {
+      "start_timestamp": 1759946400,
+      "end_timestamp": 1759953600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/2523161438036528/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/498020589_1127684142733475_6019955304544909085_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2dMt87-H4F8Q7kNvwER_98i&_nc_oc=AdlCaNrrC8sfUHmAhRE_KcmkekPK1Vrbp6ifcNGRhqnmNM0nm7ZT93gcdChXaN1z5eY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=r2Fm3vOYwccPrP7MliEkwA&oh=00_AfMmSioDtZedCmOkL8bFRwsJkiz-H29z7W7TPP7WDXFEgg&oe=68671788",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "982940713984396",
+    "name": "Matt Schofield (UK) - BETA",
+    "description": "250 kr. i forsalg / 265 kr. i døren  \nDøre kl. 19.00 / show kl. 20.00\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nMatt Schofield er oprindeligt fra Storbritannien og nu bosiddende i USA. Han udfordrer og omformer rammerne for den britiske blues-tradition. Som en multi-prisvindende guitarvirtuos, sanger, sangskriver, producer og bandleder har Schofield, med mere end 30 års erfaring som udøvende musiker og 20 år som soloartist, gjort et uudsletteligt indtryk som en af sin generations mest markante og indflydelsesrige guitarister. \n\nHans bemærkelsesværdige karriere har ført ham og hans band til næsten 30 lande verden over, og han har modtaget adskillige priser og anerkendelser, herunder tre gange titlen som “British Blues Guitarist of the Year”, “British Blues Album of the Year” samt æren som den første guitarist optaget i “British Blues Awards Hall of Fame”. Desuden er han blevet hædret med Mojo Magazines “Blues Album of the Year” og anerkendt som en af Guitar & Bass Magazines “Top Ten British Blues Guitarists of All Time” sammen med Eric Clapton og Peter Green.\n\nSchofields flydende, melodiske spil og hans ikoniske tone har inspireret utallige guitarister, og hans signaturinstrumenter og -udstyr, herunder en Two-Rock Matt Schofield-forstærker, er blevet eftertragtede. En af de mest imponerende aspekter ved Schofield er dog hans optrædener live. Uanset om det er på store festivaler som Montreal og North Sea Jazz eller på legendariske klubber som Londons Ronnie Scott’s og New Yorks Iridium, er hans evne til at etablere en øjeblikkelig og dyb forbindelse med sit publikum uforglemmelig. Hans autenticitet, hans mestring af guitaren, hans følelsesladede vokal og hans improvisatoriske genialitet kommer til udtryk i hans nyskabende og originale kompositioner.\n\nSom anerkendt musikpædagog udgav Matt i 2018 den roste undervisningsserie “BluesSpeak” via TrueFire. Han har som kliniker undervist verden over, fra Tokyo til Texas og mange steder derimellem. Hans kommende album, med den lovende titel Many Moons Volume 1, markerer 20-års jubilæet for albummet og bandet, der satte gang i hans solokarriere, og bringer ham sammen med sit oprindelige og meget værdsatte organtrio, bestående af Evan Jenkins på trommer og Jonny Henderson på Hammond-orgel.",
+    "date": {
+      "start_timestamp": 1760119200,
+      "end_timestamp": 1760126400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Øresundsvej 6, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/982940713984396/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/503353679_1305379558257548_3115064435018750171_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5c_0wUwT25gQ7kNvwEr04n1&_nc_oc=AdlCIhpBXZNtgDrWSg_Ci-hGNmruhneuid8K2OWcC1WDMZLL6W10MWaeJ-S8D3wG_OY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=IABe62_0tJ6mPHiwJlkzWQ&oh=00_AfOm-AGpEIlSIG11QJN5wlbzSsjCHHRxLSxFhlZU9L2epw&oe=68673398",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
   }
 ]

@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1035728510344271/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/481250938_9183821501694722_6583261998711838178_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sFzLgbjjI0UQ7kNvwHJxT72&_nc_oc=AdlhQEBVSs_-kpGKMICNrh8YwJav1tZF4cmjzgFwOjZuIVDjupWH2_rthk7CFZ2Cntc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ejL8s7R6kpsONrD70JbqcQ&oh=00_AfI8WMuWtjkx04-M-wrzXl1iGRAvFaPbTG5AQyQE1EcAvg&oe=68283D50",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481250938_9183821501694722_6583261998711838178_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=G9p32zR_hb8Q7kNvwHZh9OU&_nc_oc=Adnk33giuxxXWeprf3jAlwTIXDCHHOmGj7ipcIDXaf7Ewqmm0Yv_wpyjk5lc1jnU45c&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=4-cPwIycNY9lO7TmZpdq5g&oh=00_AfMWGpJv8TKOxaxZDHdH35kcQAVkQ8C1IrMiNyV_bp4x0Q&oe=686714D0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Sakura Festival",
@@ -42,9 +42,9 @@
     },
     "location": {
       "name": "URBAN 13",
-      "address": "Bispeengen 20A",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.694937499999995,
       "longitude": 12.535062499999995,
       "bounds_ne_lat": 55.69499999999999,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/530850888454100/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/473248584_1729593494552322_5863533149140023594_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EDA64CSP1aMQ7kNvwHptPPR&_nc_oc=Adm9dLAiIXEKyq_SNL_yp_5MuaBO3Ub-2YL_1e6p9K3DPOw6u6Q0v7yHv67VLiMT-Ho&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=kbLzeBgS_AV0G44vbovZ2g&oh=00_AfITNmtXV3ztDnzi_qljcWTWYROQWlCkfOFbrK5qMumIqA&oe=6828539C",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/473248584_1729593494552322_5863533149140023594_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eZHwzBorwwEQ7kNvwH0GcV1&_nc_oc=AdmavztlBFJifHKo0cO4ou7_x4p15ZTZB4RwNp757bg3mqKQNy6nkn8AQqJoKjnfPOs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=f4G1FPPYtBigFMFMVntTbg&oh=00_AfOLeUKqQmXcF8qvYHXxI2nv2wbi8EwkArX1BqXG-3K89A&oe=68672B1C",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Carpark Festival",

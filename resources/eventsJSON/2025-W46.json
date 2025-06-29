@@ -62,5 +62,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-lucy-yeghiazaryan-quartet",
+    "name": "Lucy Yeghiazaryan Quartet",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Lucy Yeghiazaryan kombinerer den klassiske, elegante jazzvokal med en særlig intim kommunikation og kontakt med publikummet. Hendes repertoire består af jazzstandards, som altid resonerer med hendes egne livshistorie, samt egne kompositioner, som inviterer lyttere ind i hendes liv. Siden hun flyttede til New York i 2015, har hun udgivet 5 anmelderroste plader, turneret i Nordamerika og Europa med navne som Harold Mabern, Emmet Cohen, Houston Person og Rodney Whitaker, og etableret sig som en af fremtidens store navne indenfor jazzmusik.\n </p>\n <p>\n  Med på scenen er tre af Skandinaviens mest efterspurgt jazzmusikere: Pianist Magnus Hjorth (Marius Neset, Snorre Kirk, DR Big Band, m.fl), kontrabassist Graig Earle (Lars Jansson, Denzal Sinclaire, Niels Lan Doky, m.fl) og trommeslager Cornelia Nilsson (Mathias Landæus, Kenny Barron, Seamus Blake), hvis fælles kendetegn er et stærkt, virtuost, og solidt understøttende sammenspil og dybt swingende time feel.\n </p>\n <p>\n  Det bliver en jazzoplevelse du sent vil glemme, når de fire musikere optræder med jazz i verdensklasse!\n </p>\n <p>\n  Line-up:\n </p>\n <p>\n  Lucy Yeghiazaryan – Vokal\n  <br/>\n  Magnus Hjorth – Flygel\n  <br/>\n  Graig Earle – kontrabas\n  <br/>\n  Cornelia Nilsson – trommer\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag den  15. november 2025\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Unummererede siddepladser\n  <br/>\n  Forsalg: 150 kr. + gebyr / 170 kr. i døren\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763233200,
+      "end_timestamp": 1763240400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/lucy-yeghiazaryan-quartet",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-03/Lucy%20Quartet%20web_0.jpg?itok=frTFP6B3",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

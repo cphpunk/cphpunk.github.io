@@ -140,7 +140,7 @@
       "name": "Cinemateket",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -153,7 +153,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/549035310862585/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480627438_1490935335157541_6257325121569160749_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=trQwa01kRE0Q7kNvwGV1XlR&_nc_oc=Adn-Sj57jCwEyObvM_yXmfGFwjL1SXLzlr33m5JtvTxuap8uyoBDx36HYVzyMei3auo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=wsKZsN6QyPnhv0QQickU9g&oh=00_AfHCCZO9oX7CU3VciQQyt24bPObg3KzX_0ZgK7EDYSg0Hw&oe=68140DC2",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/480627438_1490935335157541_6257325121569160749_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1KOZpB8iNVIQ7kNvwElC_Qk&_nc_oc=AdltHYVfLnHgYsUCXErkTkofitt8Ax3u2h19fv8yEFnb4VAioy0dyCBK9NzleGU-mHE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=3M5gm6BAnuA0xHcMmvQC2A&oh=00_AfMLuB5FIiHjahQiurO8hvJcreLRNG7_JIP5A5TzDghPJQ&oe=68671C42",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -230,13 +230,13 @@
     "date": {
       "start_timestamp": 1730666700,
       "end_timestamp": 1730673900,
-      "timezone": "Europe/Copenhagen"
+      "timezone": "UTC+01"
     },
     "location": {
       "name": "Cinemateket",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Gothersgade 55",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -249,7 +249,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/504270142384608/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/480881762_1490863498498058_6886153854779951217_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kfhl-xI_6tkQ7kNvwFBSo8l&_nc_oc=Adn53cujJwTowP6hhQXhP7pM43PMajLJHC4lrZHFdBvfCs8vSN7hGqCVygPd-trtASA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=CxHmpHFz3eOmSv8SSgE2aQ&oh=00_AfEDiX_Zq_AphkyzCyC3iNzEB44Nm3TWBs5nNzYfWAwlcA&oe=6813F90C",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/480881762_1490863498498058_6886153854779951217_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=m3X-I_KspCEQ7kNvwHj7iJ1&_nc_oc=AdmxunroWTXU58jH0rGcjaucTUzx5PIHXKp-igyZcYi3W1QvrlhQUXEAmDdwz88_Wy8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Ym9zYawEEvY5aJnMaFT2Ag&oh=00_AfNqIqPMJQO8DkF-fyiJHhBmfjC0h2f7E2SIk4cLRtYLgA&oe=6867078C",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -377,7 +377,7 @@
       "copenhagen_district": "Valby"
     },
     "url": "https://www.facebook.com/events/9050552711663247/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488904294_1261718408924507_1662684327804343398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=r1fD2xLErYcQ7kNvwHRm25k&_nc_oc=Adnd24w2uHwQ7-8p4XwjFS_TmBI4hkXNoYtHu5i-Z2Pj5-GNV5lEArEqrwpbl_VZnp8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=5mK8iOupQmQ9B7b7iGo0XQ&oh=00_AfEnI_biQFjmtnaTeTasiurpYsn-9qXE8KVj-ncAke3AaA&oe=680439B0",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488904294_1261718408924507_1662684327804343398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=v1EPTeMe3gwQ7kNvwEZ6eoC&_nc_oc=AdkgF8RobB6ib7SGAr9QVfqa6RmP3nZx--46_EQGEsjo-BdzS5IKzvtb_py80OXqi_Q&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=E5S21u4rP__WC4pbiDdB3Q&oh=00_AfO22cBFL7RKPv8Oiohv_SpjiguHTv6-3Yk97tyTE8pGzg&oe=68671A30",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Punks Undead",

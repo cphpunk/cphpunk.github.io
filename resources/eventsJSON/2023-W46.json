@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Empire Bio",
-      "address": "Guldbergsgade 29F",
-      "city": "Copenhagen",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/870339297601323/",
-    "image_url": "https://scontent.fcph5-1.fna.fbcdn.net/v/t39.30808-6/394179585_1319589618947012_5853020508315042322_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ibNtiYU25DkQ7kNvgG-DaK-&_nc_oc=AdkeCh0CmEyz3omJ4CesmkPBLFXqslmfpVBKPBKeG8Oluyp0YGn8AbTcoImUaJWkBmE&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&_nc_gid=wi92R2szNbltieIMZ9KoUA&oh=00_AYHKDC1Aq-G_ZBr_6t4bhvn1veRWJhp1uPWP1UYdIky5xA&oe=67E4907A",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/488411787_1715247119381258_4607527170609253217_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9ZnjFxlCkMoQ7kNvwHM2u83&_nc_oc=Adk-FJa_3Y4y8NFc9CEPzYnokMSoap3RFnGPLXIlwsyYedWiYVON7NJxHD9w1WjZ6QE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=VDL-P3N8Ux3fWf5lppfieQ&oh=00_AfNsA1MYGwztpmSAs78NeM6oAv8B-uWRNDey1Gy4M9AaFw&oe=686717A1",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Copenhagen Short Film Festival",

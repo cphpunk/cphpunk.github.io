@@ -12,7 +12,7 @@
       "name": "Empire Bio",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -25,10 +25,42 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1134110091723737/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CWGmQyP9djEQ7kNvwHgAvGY&_nc_oc=Admt9DTbhwC2bE3xEs60-co5yntVxrzmZes2jSaM9isnMRMppcmuedyHoNFu6kbN-mk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=nPlYlFsVBnvc4G9PIHGQkg&oh=00_AfJBlZrsTDaVKmUqV_1KzJmzuAD47bREdZTP3KbbN6Fyxw&oe=68285F6F",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7RCXSMgovf4Q7kNvwHiqfmT&_nc_oc=Adkij57voxdZQLQeTU9I8VnDg--c7GmENL_78cZrogj9LCQ2RdDjsX2L-upPNZqGZ6M&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=70IfNI8VPV2zRedSEaLHqQ&oh=00_AfMSUKXW_hDqh3TDUHE2DACn_Iug03LFtj3ldLP_BJSmEg&oe=686736EF",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Empire Bio",
     "page_url": "https://www.facebook.com/empirebio.dk/events"
+  },
+  {
+    "id": "495654106822831",
+    "name": "Joey Moe live i K.B. Hallen - Ekstra dato!",
+    "description": "Joey Moe, en af Danmarks mest markante popstjerner, er tilbage og klar til at skabe magi på scenen, når han indtager K.B. Hallen i efteråret 2025.\n\nEfter mere end to årtier som en fast del af den danske musikscene, cementerer Joey Moe sin position som en af landets mest elskede artister. Fra de tidlige dage som Nik & Jay’s musikalske opdagelse i 2005 til en imponerende karriere med over en kvart milliard streams, massiv airplay og mere end 50 certificeringer, er han en kunstner, der har præget dansk popmusik som få andre.\n\nPublikum kan glæde sig til en aften fyldt med ikoniske hits og uforglemmelig energi, når Joey Moe omdanner K.B. Hallen til en fest, der spænder over både de højenergiske beats og de mere eftertænksomme øjeblikke. Kendt for sin fænomenale karisma og nærvær på scenen, skaber Joey Moe en eksklusiv liveoplevelse, der forbinder alle generationer.\n\nMed hits som ”Smukkest på en søndag”, ”Yo-Yo” og ”Million” har Joey Moe skabt soundtracket til utallige fester, kærlighedshistorier og sommerminder. Hans unikke evne til at forene pop, R&B og elektroniske beats har gjort ham til en uomgængelig del af dansk musik, og hans livekoncerter er kendt for at skabe øjeblikke af ren magi.\n\n25.10.25: UDSOLGT\n31.10.25: EKSTRA DATO\n01.11.25: UDSOLGT\n\nFind billetter her: https://www.billetlugen.dk/campaign/joeymoe",
+    "date": {
+      "start_timestamp": 1761937200,
+      "end_timestamp": 1761948000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/495654106822831/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485293931_1058950132928713_6462700429666396842_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gHnx3x_WGigQ7kNvwGjpJAB&_nc_oc=AdmW9OAZmb_pxRbZGBXglkh8VAH3mJwgjFOzJccsNF_xaxJksbFJYqRwrnoxFHuvvP4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ub4ELV4AmSNJAsy55pKI7g&oh=00_AfPLKpIEaTEYFDk9kFgeo6jxE9xy9n5B26aTK6HB9rbdBA&oe=68673C71",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
   }
 ]

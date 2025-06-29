@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1011973100926383",
+    "name": "Distortion 2026",
+    "description": "Distortion\nAll over Copenhagen\n3–7 June 2026\n\n🍒 Get your cheap blind bird ticket now www.cphdistortion.dk/tickets\n\nDistortion is a 5 day journey through Copenhagen celebrating the atmosphere, music and spaces of our beautiful city.\n\nTickets: www.cphdistortion.dk/tickets\nInstagram: www.instagram.com/cphdistortion\nNewsletter: www.cphdistortion.dk\nDistortion Ø 2026 FB event: https://fb.me/e/3aXReyQkd\nResident Advisor event: https://ra.co/events/2191591\n\nThank you all for coming in 2025 – hope to see you again next summer ❤️‍🔥",
+    "date": {
+      "start_timestamp": 1780495200,
+      "end_timestamp": 1780862400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Denmark Copenhagen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1011973100926383/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/502591890_1242338590595425_3066278952744493205_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UepYs5Nh_5cQ7kNvwHHOr-D&_nc_oc=AdluMscpoY1Vek4h778tQ3csvpoqfXWOc0Uxl2BnQh_wdYaJUjzzWuuyfJ1TJxQHb60&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Q85MkjScRF9OLsij-P62_w&oh=00_AfP202YVcB0uq6AvJi58RTgMh_8KfYMgyeLDe3W3my8GUQ&oe=68671B7A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DISTORTION Verified account",
+    "page_url": "https://www.facebook.com/cphdistortion/events"
+  },
+  {
+    "id": "736522908709624",
+    "name": "Distortion Ø 2026",
+    "description": "Distortion Ø\nCopenhagen, Refshaleøen\n5–6 June 2026\n\n🍒 Get your cheap blind bird ticket now www.cphdistortion.dk/tickets\n\nDistortion Ø is the weekend finale of Distortion with artists from all over the world. You will be dancing in the forest until sunrise.\n\nHours:\nFriday 5 June 2026: 18.00-04.00.\nSaturday 6 June 2026: 18.00-06.00.\n\nAddress:\nRefshalevej 198, Refshaleøen, Copenhagen.\n\nTickets: www.cphdistortion.dk/tickets\nInstagram: www.instagram.com/cphdistortion\nNewsletter: www.cphdistortion.dk\nOverall 2026 FB event: https://fb.me/e/3b4gvnBG0\nResident Advisor event: https://ra.co/events/2191591\n\nThank you all for coming in 2025 – hope to see you again next summer ❤️‍🔥",
+    "date": {
+      "start_timestamp": 1780675200,
+      "end_timestamp": 1780804800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Refshaleøen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.693749999999994,
+      "longitude": 12.61624999999998,
+      "bounds_ne_lat": 55.69499999999999,
+      "bounds_ne_lng": 12.617499999999978,
+      "bounds_sw_lat": 55.692499999999995,
+      "bounds_sw_lng": 12.61499999999998,
+      "plus_code_global": "9F7JMJV8+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/736522908709624/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/506089659_1242339977261953_4548010788931109715_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1lHXIoxFekIQ7kNvwEZNhxa&_nc_oc=Adl-XY2k_oOrMEOF4tWDGyY5RFgqUYeC_li-6PyIt6ZxJ7VOm8qTWXtEATch3d1OLDI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=jp178uULdxzsp6yPrF7Ihw&oh=00_AfPnchX22jlGUfyGJh7w5g72rwivwZOiSHInEbvNIVmQ8Q&oe=686729EE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DISTORTION Verified account",
+    "page_url": "https://www.facebook.com/cphdistortion/events"
+  }
+]

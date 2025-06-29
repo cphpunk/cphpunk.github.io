@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-powersolo",
+    "name": "PowerSolo",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Siden 1996 har PowerSolo været garant for fandenivoldsk garagepunk og uforudsigelige koncertoplevelser. Bandet, anført af Kim Kix, leverer aldrig det samme show to gange – og publikum efterlades sjældent med benene på jorden.\n </p>\n <p>\n  Nu er PowerSolo på vej med nyt materiale – en opfølger til det anmelderroste album JAMBALAYA – EXTRA SPICY, som udkom på Crunchy Frog i 2023. Der er en overraskelse på vej, og en helt ny drejning, som vil blive afsløret for første gang netop her. Glæd dig til et sæt, der både hylder bandets 30 år lange karriere og peger fremad.\n </p>\n <p>\n  Med ti albummer, et væld af singler og optrædener på soundtracks som True Blood og American Horror Story, er PowerSolo ikke bare et band – det er en oplevelse. Deres rå, teatralske stil og internationale gennemslagskraft har gjort dem til en kultfavorit i både Danmark og udlandet.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag 21/3 - 26\n  <br/>\n  Kl. 20.30 / Dørene åbner kl. 20.00\n  <br/>\n  Forsalg: 145 kr. + gebyr / 160 kr. i døren\n  <br/>\n  Koncerten er med ståpladser.\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774121400,
+      "end_timestamp": 1774126800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/powersolo",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-06/Design%20uden%20navn%20%2820%29.png?itok=rwm0LJIC",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

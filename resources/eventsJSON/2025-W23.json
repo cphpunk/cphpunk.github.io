@@ -1022,5 +1022,229 @@
     "platform": "Facebook",
     "page_name": "DISTORTION",
     "page_url": "https://www.facebook.com/cphdistortion/events"
+  },
+  {
+    "id": "646924315068533",
+    "name": "Talk: What \"Artificial Intelligence\" Means for Politics, Civil Society, and the Climate",
+    "description": "In this talk, Denise Utochkin will zoom out of ChatGPT and take a look at 'Artificial Inteligence' (AI) as a sociotechnical system and political project dating back 70 years.\n\nDenise will present an analysis of 'AI' as an articulation of capitalist, white supremacist, and state violence and attempt to demonstrate that many negative side-effects of this set of technologies are not a bug, but a feature. Among them its growing contribution to the climate collapse, its reliance on blood minerals and devalued, traumatising labour, its gleeful adoption by authoritarian regimes and greedy corporations.\n\nBased on this analysis, Denise will argue that we, as climate activists, have an imperative to oppose, resist, and refuse 'AI' and that doing so may open up new possibilities for mitigating the worst excesses of the ongoing climate breakdown.\n\nCome join us for this interesting talk! There will also be snacks and space for discussion afterwards :)",
+    "date": {
+      "start_timestamp": 1749051000,
+      "end_timestamp": 1749054600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Greenpeace Danmark - Njalsgade 21G, 2. sal, København",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6659375,
+      "longitude": 12.5805625,
+      "bounds_ne_lat": 55.666,
+      "bounds_ne_lng": 12.580624999999998,
+      "bounds_sw_lat": 55.665875,
+      "bounds_sw_lng": 12.5805,
+      "plus_code_global": "9F7JMH8J+96",
+      "plus_code_local": "MH8J+96",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/646924315068533/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/500157654_693913226704872_8727515076509511332_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Cxik4mX-MREQ7kNvwEe2CPS&_nc_oc=Admv5dqdecfVTwiv3bNpo8I5QsyzNFkNPi-XZlRSwj7kjiXavEdHaLr442NewPU0c9o&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=DZCbUoQNbHrcFb6lKPXU5w&oh=00_AfP5VfOI19Ri07H8jh7lLalUCsjViggqE2TIezDyjWdmEQ&oe=68672174",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "1437629634320417",
+    "name": "Marmelade@HUSET",
+    "description": "On June 7, the music collective Marmelade Culture invites you to a magical evening of music, where some of the most talented acts in the Copenhagen scene today will play. Join the movement!",
+    "date": {
+      "start_timestamp": 1749297600,
+      "end_timestamp": 1749308400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Rådhusstræde 13, 1466 København K, Danmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574812500000021,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.57487500000002,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574750000000023,
+      "plus_code_global": "9F7JMHGF+HW",
+      "plus_code_local": "MHGF+HW",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1437629634320417/",
+    "image_url": "",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "1888228742015039",
+    "name": "Songwriters Night At Operaen",
+    "description": "On June 5, Operaen and Marmelade Culture invites to a songwriter evening, featuring some of the most talented artists in the scene today. Join The Movement!:)\n\nEntre: 90",
+    "date": {
+      "start_timestamp": 1749142800,
+      "end_timestamp": 1749159900,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Operaen Christiania",
+      "address": "Pusher st.",
+      "city": "Copenhagen",
+      "country": "DK",
+      "latitude": 55.67381250000001,
+      "longitude": 12.599437500000036,
+      "bounds_ne_lat": 55.67387500000001,
+      "bounds_ne_lng": 12.599500000000035,
+      "bounds_sw_lat": 55.67375000000001,
+      "bounds_sw_lng": 12.599375000000038,
+      "plus_code_global": "9F7JMHFX+GQ",
+      "plus_code_local": "MHFX+GQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1888228742015039/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/498670875_666563582831624_5840679489107920926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=C8n_XWC-GjEQ7kNvwFcyjMC&_nc_oc=Admd3eydMbWx4iEelaWdjBnE6OJJo1LeWjJpOE1iWL62afqJYVlOZhR-EzXeOBti2e0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Gew92KUDLI7ovg2CAisCiw&oh=00_AfPSSaaj_LbW8kCYtHN_QdBEumBjZjPPRyG3ACSoDGhWaw&oe=68673062",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "1417321879619391",
+    "name": "Louis Anton RELEASECONCERT — Support: Creatura Duo I HUSETS BIOGRAF",
+    "description": "Hey alle sammen. Jeg udgiver min 3. single \"Journey\" d. 6. juni og fejre det d. 7. juni med en releasekoncert! Håber at se jer til en skøn aften på Huset. Bandet og jeg spiller et sæt af nyere sange og self dem i kender <3 Creatura kommer som duo og spiller med lækre håndspillede Bossa vibes!\n\nLOUIS ANTON RELEASE & CREATURA I HUSETS BIOGRAF\n\nABOUT THE ARTISTS \n\nLOUIS ANTON\n\nLouis Anton writes songs of an existential nature. About being, evolving, confronting the truth and maintaining hope. In a world that often only moves on the surface, Louis Anton tries to reach a layer deeper. In his songs there is always a message - which leaves the listener with something to think about. With his present, warm vocals, melodic compositions and sophisticated production, Louis Anton provides a musical experience that you will remember - for his messages and his expression. \n\nWith just two two singles releases like “Let Me Back” and “The Day Will Come\" , Louis Anton has already created attention in Denmark as well as abroad: “Anton’s intricate production and heartfelt lyrics promise a bright future” - Scandinavian Soul. \n\nOn June 6, Louis Anton’s 3rd single “Journey” will be released - a journey through the mind. This is a more introspective and spiritual expression than his previous releases, which marks the start of a new artistic direction. The audience is invited to join this journey when Louis Anton celebrates its release in HUSETS BIOGRAF on June 7th.\n\nCREATURA DUO\n\nCreatura Duo's music is a multilingual patchwork of feelings, experiences and fantasy tales. Having recently released their debut EP, this night 2 of the members from the band will perform a duo set, bound to take the listener on an epic journey.\n\n\nBilletter købes via link\nhttps://billetto.dk/e/louis-anton-release-x-creature-duo-billetter-1309719?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2",
+    "date": {
+      "start_timestamp": 1749315600,
+      "end_timestamp": 1749332700,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1417321879619391/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/499604484_670299595791356_5260906788481122164_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JXBaJH8DtQEQ7kNvwE9NLtH&_nc_oc=AdmQOCCSgtiRADN3d0KSXWV352ukOgUYffR6Mq-tB5HOIYQBTT7KG3AW1t8lauD8DDw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=0xabcG3xKL52kPgK92PLBg&oh=00_AfOTQha7tV4-vAB5L--VxYmmZwmK2GPSODJAM8uqMefyKw&oe=686733FE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "1334993177591978",
+    "name": "Marmelade@Husets biograf ",
+    "description": "On June 7, the music collective Marmelade Culture invites you to a magical afternoon of music in HUSETs cinema, where some of the most talented acts in the Copenhagen scene today will play. Join the movement!\n\nABOUT THE ARTISTS:\n\n\nSOPHIE JULLY\nIn a world where we often get lost in noise and superficiality, a new young artist appears, armed with a voice which tears us out from the shallow and into the core of strong emotions.\n19 year old Sophie Jully is the next upcoming indie pop singer and songwriter who grabs the depths of your soul with her music. Her music is like a journey through the labyrinths of the soul, where the listener explores the strong, hard and honest feelings, about both sorrow, happiness, anger, love and injustice.\nWith increasing momentum and a dedication to sharing her talent with the world, Sophie Jully is not only an artist, but stands as a strong feminist role model for other young girls who relate to the issues and emotions she expresses through her art. \nWith a lyrical depth and a musicality that evokes deep emotions in the listener, Sophie Jully creates an experience that goes beyond just entertaining - it moves and diversifies.\n\n\nILMO\n\nIlmo is a multitalented Danish/Finnish artist. Apart from having a career as a professional tap dancer, Ilmo is also a sounddesigner, DJ, teacher, and composer. For this evening Ilmo will be presenting some of their more uplifting groovy tunes with greasy basslines.\n\n\nCELINA CALI\n\nCopenhagen based singer/songwriter focusing on beautiful harmonies and lyrics, quiet sensitive music based on piano and guitar. “I write music as therapy for myself and hope that it will touch others too. My songs are hope, heartbreak and social criticism.”\n\n\nTIR & EA\n\n\nTir and Ea writes introspectively and with attention to detail. Their songs are deepfelt ventures towards a sense of inner truth, in an endless quest for a meaningful expression of the themes that are prevalent in their lives. Ea has a soulful unique sound, and a love for elegance and the bigger picture. Tir is a harmonybuff and wordsmith, singing with an intense and precise silky bariton/tenor voice.\n\n",
+    "date": {
+      "start_timestamp": 1749297600,
+      "end_timestamp": 1749308400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1334993177591978/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/503156552_10236042920915451_3047010845150371598_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qcs_kqN9kmsQ7kNvwEZRFWC&_nc_oc=AdkskBADBm6lsFmL4vMKRqcqgTtqAqgeg0LE71otr9zAzYjBgbdcVLrbv3b61h13w2Y&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=4aIJHaYNtRRFBQvxNYQncA&oh=00_AfMMg_vXR5CLdaGz5WqnXdCj5RWoxN9gEyIO2RwwERj1vQ&oe=68671C71",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
+  },
+  {
+    "id": "2671518313045319",
+    "name": "The Performance Bulletin",
+    "description": "After months of anticipation, it’s finally happening — The Performance Bulletin is here! From June 5th to June 8th, we invite you to join us for four vibrant days filled with artistic actions, collective experiments, and embodied interventions by over 50 artists and performers.\n\nPresented by Den Frie and Toaster, the festival explores how site-specific, situational performances can open new ways of experiencing contemporary art. You’ll witness artistic actions that challenge your gaze, awaken your senses, and invite new understandings through body, space, and process.\n\nFrom feminist reinterpretations of urban monuments to ecstatic group dances, vocal experiments, communal dinners, and explorations of the city’s infrastructure — the program is a celebration of movement, improvisation, and social engagement in public spaces.\n\nCatch performances by: Sara Sjölin (DK/SE), Rasmus Røhling (DK), Éva Mag (SE), Frédéric Gies (FR), Aske Thiberg (DK), Teo Ala-Ruona (FI), Kristoffer Akselbo (DK), Sofie Winther (DK), Seimi Nørregaard (DK), Elisabeth Molin (DK/UK), Kasper Hesselbjerg (DK), Persona Non Grata (DK/JP), Eau Pernice (DK), Claudia Lomoschitz & Alex Franz Zehetbauer (USA/AUS) & Beyond Darkness (DK/LU).\n\nDiscover the full program and secure your tickets here: https://toastercph.dk/program/\n\nSee you out there!",
+    "date": {
+      "start_timestamp": 1749124800,
+      "end_timestamp": 1749409200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Oslo Plads 1, 2100 København Ø, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.691312499999995,
+      "longitude": 12.587187500000013,
+      "bounds_ne_lat": 55.691374999999994,
+      "bounds_ne_lng": 12.587250000000012,
+      "bounds_sw_lat": 55.69125,
+      "bounds_sw_lng": 12.587125000000015,
+      "plus_code_global": "9F7JMHRP+GV",
+      "plus_code_local": "MHRP+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/2671518313045319/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/502686957_1145400967617829_4323781399570229056_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YydTNA0Ww4sQ7kNvwGL_8c9&_nc_oc=AdkHkncQU6s72Xha-q92vEAusht768Z3QsUcmGrsZR_j6v0iL_o3GVTpQ9Y3T3HxI6k&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=nd6anPvHcGvFNge1yOMfwQ&oh=00_AfPP0Mm8lP96pr8YZ80jpWDoDUtuQa0t8cRFiqk0wCW3fg&oe=6867236E",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Den Frie Udstillingsbygning",
+    "page_url": "https://www.facebook.com/denfrieudstillingsbygning/events"
+  },
+  {
+    "id": "734763322215832",
+    "name": "Joiners Meeting: Jewellery Makers Collective CPH\n\n\n",
+    "description": "Fablab NV invites you to join a new Jewellery Makers Collective in Copenhagen. We are soon opening a space for those learning and working with the crafts of silversmithing and jewellery-making in a collective and social environment.\n\nTools and workspace will be provided and for those who take on certain responsibility, the workshop will be open for use any time. In this collective we will share knowledge, build skills, invite teachers to hold workshops, and make decisions on what the space needs together.\n\nThere will be limited spaces, so email to reserve a spot: cmakoteigen@gmail.com, or join the meeting to reserve a place! ",
+    "date": {
+      "start_timestamp": 1748966400,
+      "end_timestamp": 1748970000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Ringertoften 2, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.709812499999984,
+      "longitude": 12.526937500000017,
+      "bounds_ne_lat": 55.70987499999998,
+      "bounds_ne_lng": 12.527000000000015,
+      "bounds_sw_lat": 55.709749999999985,
+      "bounds_sw_lng": 12.526875000000018,
+      "plus_code_global": "9F7JPG5G+WQ",
+      "plus_code_local": "PG5G+WQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://www.facebook.com/events/734763322215832/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/495457272_1099337078899171_1084818265686373352_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pFbbAkLDGWEQ7kNvwExusUE&_nc_oc=AdkzALZ2jTNSgbReQbQlKKpvcQ62ZBGSlUCV4sEq1uqoQXAu39cbU-Bm2YaDZSg_ruc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=erC4aMzFyytEfI2oWQXPKQ&oh=00_AfNzhZ4M_E1AW_X8LaM107QY44XPSSmfS_9hUADNKJYGug&oe=68673761",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Fablab Nordvest",
+    "page_url": "https://www.facebook.com/fablabnordvest/events"
   }
 ]

@@ -76,7 +76,7 @@
       "name": "Christianshavns Voldgade 52, 1432, København, Hovedstaden",
       "address": null,
       "city": "",
-      "country": null,
+      "country": "DK",
       "latitude": 55.67143750000001,
       "longitude": 12.596312499999996,
       "bounds_ne_lat": 55.67150000000001,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1175567864099253/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484114682_1279513263734915_4456124494079475564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vUQ00exBg1UQ7kNvwExdWFe&_nc_oc=AdmZCpx4sdWWLS2VO-jyxp-CF7cLKSBOG39-mcuF7CzbJ9HUKfyjrVfgT5JxdfKZ4jA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=pGTvj5wo7yUbKjdukOHezA&oh=00_AfJ4OyqLRCRjrkSUdkBO4kIud6rWczj_TK02QWqwDT5p9w&oe=68284FA3",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/484114682_1279513263734915_4456124494079475564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xRwwdOyL1hcQ7kNvwEZ29bG&_nc_oc=AdkNIg-P3tGXVRPkDyW-uKHES7qCtuxkJORLEO0Y_2EKeRHapoTVUOD04Taj1x6AlaQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=K37hXLEVjmAB684dgtF_KQ&oh=00_AfMF-R_bX06cKsyf6msghfuro3MuLaYO-B-Mh-nU4ClLbg&oe=68672723",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Photo Festival",
@@ -994,7 +994,7 @@
   {
     "id": "720572293689582",
     "name": "Produceraften - equalizer",
-    "description": "Mikkel Engel Gemzøe, mixing & mastering tekniker og trommeslager, deler ud af sin viden om EQ.\nMikkel har siden 00’erne haft fingrene dybt begravet i lyd – som trommeslager, komponist, lydtekniker og kreativ sparringspartner. \nHan har leveret mix og masters til i omegnen af 2000 musikprojekter verden over med mange store navne i blandt.\nDesuden har han skabt lyduniverser til alt fra mobilspil, brætspil og podcasts til dans, teaterforestillinger og tv-serier\nBag sig har han både en klassisk tonemesteruddannelse, et hav af samarbejder med kunstnere, artister, spiludviklere og teaterfolk – og et brændende engagement i at få lyd til at leve og løfte fortællinger.\nMikkel arbejdede i en årrække i Studio C4 med Anders Schumann.\nNu arbejder han primært i sit eget digitale, højtalerløse og online-baserede studio Varibeat Audio.\n\nOm produceraftener i 2730 Demoteket\nVores produceraftener er musikkens svar på læse- og skrivekredse.\nSammen udforsker vi alle dele af musikproduktion og deler ud af egne projekter og erfaringer. Et nærværende og tæt musikfællesskab.\n\nHusk billet!\n",
+    "description": "Mikkel Engel Gemzøe, mixing & mastering tekniker, deler ud af sin viden om EQ.\nMikkel har siden 00’erne haft fingrene dybt begravet i lyd – som trommeslager, komponist, lydtekniker og kreativ sparringspartner. \nHan har leveret mix og masters til i omegnen af 2000 musikprojekter verden over med mange store navne i blandt.\nDesuden har han skabt lyduniverser til alt fra mobilspil, brætspil og podcasts til dans, teaterforestillinger og tv-serier.\nBag sig har han både en klassisk tonemesteruddannelse, et hav af samarbejder med kunstnere, artister, spiludviklere og teaterfolk – og et brændende engagement i at få lyd til at leve og løfte fortællinger.\nMikkel arbejdede i en årrække i Studio C4 med Anders Schumann.\nNu arbejder han primært i sit eget digitale, højtalerløse og online-baserede studio Varibeat Audio.\n\nOm produceraftener i 2730 Demoteket\nVores produceraftener er musikkens svar på læse- og skrivekredse.\nSammen udforsker vi alle dele af musikproduktion og deler ud af egne projekter og erfaringer. Et nærværende og tæt musikfællesskab.\n\nHusk billet!\n",
     "date": {
       "start_timestamp": 1749747600,
       "end_timestamp": 1749754800,
@@ -1017,10 +1017,170 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/720572293689582/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495381957_1089335376564184_6475674829001251272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3jflkF9JYMUQ7kNvwFZpbJR&_nc_oc=AdnPrAazszAfvCtx83ZnWdMH5DMiZX2TZZddEWJaMneAnPCJ2-xe9ZUI5-bGeyWKo4k&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=dP8o2qVGHZ80yZq0P9PqTQ&oh=00_AfJqAqA-lHLXIu0ccNkF23dE-T2FxlK0K-6ExafLSb_7hQ&oe=68286E6B",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/495381957_1089335376564184_6475674829001251272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7tEBZE_CnB8Q7kNvwF7Fddf&_nc_oc=Adl3G4JPOSNO3pAW5OHUpaP6Izu0gCuKwt5CfStGZpjRoQeIlKndWucTasH46nP1FSM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=u9be6UcJfyETdjdCAPFX4g&oh=00_AfPiz9J4buX-nimcOxsPO9H8oQAv0yHl-7UTxcpc-KjFgg&oe=68670DAB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
     "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  },
+  {
+    "id": "3092154477606465",
+    "name": "Jorden Kalder: How to blow up a pipeline (2022) - filmvisning og diskussion",
+    "description": "[English below]\n\nJorden kalder på handling, på fællesskab og på forandring - vi svarer ved at mødes, se og tale sammen. Titlen er en opfordring – et kald fra vores planet i krise. Gennem filmene lytter vi til de stemmer, der i fortid, nutid og fremtid råber op om uretfærdighed, ødelæggelse og håb. \n\nI samarbejde med Husets Biograf inviterer Extinction Rebellion Danmark dig til en månedlig filmaften, hvor vi sammen dykker ned i fortællinger om civilt modstand og klima- og biodiversitetskollaps.\n\nHver måned viser vi en film, der sætter fokus på vores fortid, samtid og fremtid – og bagefter åbner vi op for en fælles samtale, hvor vi sammen reflekterer, deler perspektiver og finder håb og handlekraft i fællesskabet.\n\n💥 Nogle gange er det dokumentarer. Andre gange er det spillefilm, kortfilm eller noget helt fjerde – men de vil altid give forskellige perspektiver på samfundets store spørgsmål og danne grundlag for vores efterfølgende diskussion.\n\nDenne gang har vi valgt \"How to blow up a pipeline\" - en film af Daniel Goldhaber som er inspireret af Andreas Malms bog med samme titel. Vi har valgt den for at sætte spørgsmålstegn ved, hvor langt vi er villige at gå som individer og fællesskab for at redde vores livsgrundlag.\n\n📍 Hvor: Husets Biograf, Rådhusstræde 13, København\n📅 Hvornår: Mandag d. 19/5 kl. 19.30\n🎟️ Entré: Gratis - kom til tiden og få en billet i døren!\n\nProgram:\n18.30 Dørene åbner\n19.30 Film: How to blow up a pipeline (2022)\n21.30 Diskussion (dansk/engelsk, vi prøver at imødekomme begge sprog)\n\nEfter filmen holdes en pause inden vi samles for en samtale, og siger tak for i aften senest kl 22.00.\n\nOm filmen\nEr tiden i virkeligheden inde til storstilet sabotage i klimakampens navn? Det er spørgsmålet, som Daniel Goldhaber stiller i sin seneste film, ’How to Blow Up a Pipeline’, inspireret af den svenske forsker Andreas Malms kontroversielle politiske manifest af samme navn.\n\nVi følger en gruppe unge økoaktivister fra hele USA, der beslutter sig for at sprænge en rørledning langt ude på landet i Texas i luften for på den måde måske at trænge igennem til de magthavere, der hidtil har siddet deres nødråb overhørig. \n\nSe trailer her: https://www.youtube.com/watch?v=bSb585bGYmQ\n\nKom som du er, og tag gerne en ven (eller flere!) med. Vi glæder os til at se dig til en aften med film, fællesskab og forandring!\n\n______________________________________________________________\n\nENGLISH\n\nEarth is calling for action, for community and for change - we respond by meeting, seeing and talking together. The title can be translated to \"Earth is calling\", and there is truly a call - a call from our planet in crisis. Through the films, we listen to the voices of the past, present and future calling out injustice, destruction and hope. \n\nIn collaboration with Husets Biograf, Extinction Rebellion Denmark invites you to a monthly film night where we dive into stories of civil resistance and climate and biodiversity collapse.\n\nEach month we show a film that focuses on our past, present and future - and afterwards we open up for a shared conversation where we reflect together, share perspectives and find hope and action in the community.\n\n💥 Sometimes it's documentaries. Other times it's feature films, short films or something else entirely - but they will always provide different perspectives on society's big questions and form the basis for our following discussion.\n\nThis time we have chosen \"How to blow up a pipeline\" - a film by Daniel Goldhaber inspired by Andreas Malm's book of the same title. We chose it to question how far we are willing to go as individuals and communities to save our very existence.\n\n📍 Where: Husets Biograf, Rådhusstræde 13, Copenhagen\n📅 When: Monday 19 May at 19.30\n🎟️ Tickets: Free - arrive on time and get a ticket at the door!\n\nProgramme:\n18.30 Doors open\n19.30 Film: Suffragette (2015)\n21.30 Discussion (Danish/English, we try to accommodate both languages)\n\nAfter the film, there will be a break before we gather for a conversation and say thank you for tonight by 22:00.\n\nAbout the film\nIs it really time for large-scale sabotage in the name of climate change? That's the question Daniel Goldhaber asks in his latest film, ‘How to Blow Up a Pipeline’, inspired by Swedish scientist Andreas Malm's controversial political manifesto of the same name.\n\nWe follow a group of young eco-activists from across the United States who decide to blow up a pipeline in the middle of the Texas countryside in order to perhaps get through to the powers that be who have so far ignored their cries for help. \n\nWatch the trailer here: https://www.youtube.com/watch?v=bSb585bGYmQ\n\nCome as you are and feel free to bring a friend (or more!). We look forward to seeing you for an evening of film, community and change!",
+    "date": {
+      "start_timestamp": 1749490200,
+      "end_timestamp": 1749497400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/3092154477606465/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/500791472_1049793587281921_331149567818515951_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pWhJ51VYrs4Q7kNvwEAkMkZ&_nc_oc=AdlOBOeR1aOKj37IMIK5TDsqTKG-tWkz-oTjgn2L3e4s1X6FouHhF2TNNqaa1eR1gfg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=b7_DJqzsm1tukO2FwjtZ2g&oh=00_AfMBScHdenFyR7qq6G8EjUTvkOg4dVBYiDs8Jb4v5N0mVg&oe=6867021B",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "1203931027680315",
+    "name": "Jægersborggade Loppemarked",
+    "description": "Kom og vær med når Jægersborggade forvandles til ét stort loppemarked fyldt med genbrugsguld og sommerstemning! \nHvis du vil sælge lopper kan du Købe din plads på Billetto.dk",
+    "date": {
+      "start_timestamp": 1749974400,
+      "end_timestamp": 1749996000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "jægersborggade, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1203931027680315/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/502663604_1126970746127019_4036806625416465590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I6mElhz2IggQ7kNvwFf3EQw&_nc_oc=Adkiuq3AtrDGrHFUIbI6bXPxYzxXYlfTYsZgVdeWqVvq_2u7Lf_IGW6v0MnxQLVTPmY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=4aXpLfPPffXo15O3fxSrpw&oh=00_AfN0iVcTm-MWhKfg1n_PRDD5CNRpDra8kkR-B_nxPaHlsQ&oe=68671046",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "709503792022420",
+    "name": "Forpremiere - Andrea Arnolds BIRD med Barry Keoghan og Franz Rogowski",
+    "description": "Kom til forpremiere i samarbejde med vores gode venner WIFT (Women in Film & Television) på Andrea Arnolds seneste mesterstykke BIRD, der havde premiere i hovedkonkurrencen ved Cannes sidste år.\n\nBIRD handler om den 12-årige Bailey (spillet mesterligt af debutanten Nykiya Adams), som bor sammen med sin unge far Bug (Barry Keoghan). Da Baileys far forelsker sig i den enlige mor Peyton, forsvinder han endnu mere fra hendes liv, end han var i forvejen. Bailey søger ud i et forsøg på at undslippe sin vanskelige livssituation, hvor hun møder den mystiske figur Bird (Franz Rogowski), som kan tilbyde hende noget af den varme og omsorg, hun savner derhjemme.\n\nEfter filmen vil der være en samtale med forfatter og filmforsker Eva Novrup Redvall omkring Andrea Arnold og hendes karriere som filminstruktør samt hendes drømmende blik på genren af britisk socialrealisme, som vi også kender fra instruktører som Ken Loach og Mike Leigh. Samtalen modereres af filmjournalist og kulturformidler Maria Månson. \n\nBilletter til visningen findes her - og BIRD har almindelig premiere landet over fra d. 12. juni: https://buy.ebillet.dk/billetter/34382/545482?org=108",
+    "date": {
+      "start_timestamp": 1749661200,
+      "end_timestamp": 1749668400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Mikkel Bryggers Gade 8, 1460 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6765625,
+      "longitude": 12.570562500000008,
+      "bounds_ne_lat": 55.676625,
+      "bounds_ne_lng": 12.570625000000007,
+      "bounds_sw_lat": 55.676500000000004,
+      "bounds_sw_lng": 12.57050000000001,
+      "plus_code_global": "9F7JMHGC+J6",
+      "plus_code_local": "MHGC+J6",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/709503792022420/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/499698857_1119753990198444_5287605891271890296_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kkqCcAPTDTUQ7kNvwHN_YuP&_nc_oc=AdlN-DADiuErJ2C-YENS9kp8q50O0mC1PmH1XRnb4_G-IqJoKFTC9vGiR1h6qZ9OxJY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=R-fSyGBoeaRQ66_FIpHSIw&oh=00_AfMIJB3GFtQM6cPAXCPwDUzZBNX37I5v8u26iyipukqiWw&oe=6867110B",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Grand Teatret Verified account",
+    "page_url": "https://www.facebook.com/grandteatret/events"
+  },
+  {
+    "id": "481953578302647",
+    "name": "15. -18. juni: Cinema Made in Italy",
+    "description": "Danmarkspremiere på i alt syv af det sidste års bedste italienske film.\n\nEkstra festligt bliver det til åbningen søndag den 15. juni i Grand Teatret, hvor ’Gloria!’ byder på både fest og musik – indledt af hovedrolleindehaver Galatea Bellugi.\n\nBENVENUTI A TUTTI!\n\nCinema Made in Italy af arrangeres i samarbejde med Cinecittà, Den italienske Ambassade i Danmark og Det Italienske Kulturinstitut i Danmark\n\nProgram:\n\nSØNDAG 15. JUNI KL. 19.00\nGloria!\n\nMANDAG 16. JUNI KL. 17.00\nQuell’estate con Irène\n\nMANDAG 16. JUNI KL. 19.00\nVermiglio\n\nTIRSDAG 17. JUNI KL. 18.30\nDiamanti\n\nTIRSDAG 17. JUNI KL. 21.00\nIl tempo che ci vuole\n\nONSDAG 18. JUNI KL. 19.00\nCampo di battaglia\n\nONSDAG 18. JUNI KL. 21.00\nFamilia",
+    "date": {
+      "start_timestamp": 1750006800,
+      "end_timestamp": 1750273200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Mikkel Bryggers Gade 8, 1460 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.6765625,
+      "longitude": 12.570562500000008,
+      "bounds_ne_lat": 55.676625,
+      "bounds_ne_lng": 12.570625000000007,
+      "bounds_sw_lat": 55.676500000000004,
+      "bounds_sw_lng": 12.57050000000001,
+      "plus_code_global": "9F7JMHGC+J6",
+      "plus_code_local": "MHGC+J6",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/481953578302647/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/502626157_1122022973304879_2505281890051583413_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=b3TE5boVkNkQ7kNvwGRP2z7&_nc_oc=Adku10P1_nDr7jNF2RXEWoUBjQpxAXCFrb3LcdU2SwytwrBH71Ck7mXvkcmjWaWuUVg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=J6YtnmtkxHeEji-NIGupew&oh=00_AfNX6yxeXpVz8H8ee8hRuyCGAYmBklhSPQO9QNdFOs9zfA&oe=686720E0",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Grand Teatret Verified account",
+    "page_url": "https://www.facebook.com/grandteatret/events"
+  },
+  {
+    "id": "508664075377769",
+    "name": "Workshop · Cyanotypi tryk",
+    "description": " Tag med til Cyanotypi workshop og lær at beherske en poetisk og meget taktil fotografisk teknik fra 1800-tallet, hvor du eksponerer billeder i det fri ved hjælp af solen og fremkalder dem med vand.\n\n Når du arbejder med Cyanotypi, er lyset nemlig din medspiller, og resultatet er kendetegnet ved sine smukke blå og violette farver. Processen er unik, idet det er en form for fotografering, der ikke kræver et kamera eller et mørkekammer. Og mulighederne for at udfolde sig kreativt er uendelige.\n\n Hvad er Cyanotypi? \n\n Cyanotypi stammer fra græsk og betyder ‘mørk blåt aftryk’, hvilket refererer til billedernes karakteristiske farveskala. Teknikken blev opfundet af Sir John Herschel i 1842 og er baseret på en lysfølsom emulsion, som reagerer på ultraviolet lys, for eksempel sollys.\n\n Man placerer blade, papirklip, negativer, mm direkte på papir, som er bestrøget med en lysfølsom emulsion og lader sollyset eksponere papiret, så der skabes en silhuet effekt. Ingeniørere brugte processen langt ind i det 20. århundrede som en enkel og billig proces til at producere kopier af tegninger, kaldet blåtryk. Teknikken bruges i dag primært af kunstnere. \n\n Undervisere: Barbara Katzin og Charlotte Siewartz fra Fotografi på Godsbanen\n\n Mødetid: kl. 11.00-14.00\n\n Sted: Lille Mølle, Christianshavns Voldgade 52, 1424 København K\n\n Pris: 550 kr. \n\n Find flere workshops på copenhagenphotofestival.com\n\n ",
+    "date": {
+      "start_timestamp": 1749978000,
+      "end_timestamp": 1749988800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Christianshavns Voldgade 52,, 1432, København, Hovedstaden",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67143750000001,
+      "longitude": 12.596312499999996,
+      "bounds_ne_lat": 55.67150000000001,
+      "bounds_ne_lng": 12.596374999999995,
+      "bounds_sw_lat": 55.67137500000001,
+      "bounds_sw_lng": 12.596249999999998,
+      "plus_code_global": "9F7JMHCW+HG",
+      "plus_code_local": "MHCW+HG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/508664065377770/?event_time_id=508664075377769",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/505830266_1349580410061533_835958057267571901_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sKlrApmFvW4Q7kNvwEOHMZZ&_nc_oc=AdloIPnDGmzPUZBfma41mEO0hP8FA4sjYpWlDeQUZyYjwYc1DF_I3t85kS3NzCVfiqM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=qc4MXRtqoxtuDFMyxi_wLQ&oh=00_AfNFQYaQhjfrzLbb50ULty0tHBB2Ef2xgb7XaajyOJT0Sw&oe=68672296",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Photo Festival",
+    "page_url": "https://www.facebook.com/CopenhagenPhotoFestival/events"
   }
 ]

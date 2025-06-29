@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "KoncertKirken",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "Blågårds Plads 6A",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.68681249999999,
       "longitude": 12.5576875,
       "bounds_ne_lat": 55.686874999999986,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/526594532383289/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480541432_1103046151622080_6152600756475029679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kTg1bwaJmzcQ7kNvwHJiIrV&_nc_oc=AdkUkrI9N5TCjsygsuP7eBPRXbmad2gspIxQJijT8QbWKF0GNJOKkXJqQZamDD7CELw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=wIqkhC7eZ80qFx5c8f_Ojg&oh=00_AfLdfGa8MuI8kCmtw_boFEvBbCEvVkY_5FYNLnd3TRGQzw&oe=68283E30",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/480541432_1103046151622080_6152600756475029679_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=58Rd3t6-LUsQ7kNvwF1Ibp1&_nc_oc=AdkQQ5bV2OnfgA1cevKG1D07XuNv_r8EbJa7Qs4HiVWWkey9hi0v68NwkpdJSR8I8Ls&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=PoHMCvqd2koqy5N8fbPHlA&oh=00_AfOQP8NV2eB9k_fHJcviQospmEw0QZ2zCryhilFE9bIypg&oe=686715B0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Polychrome",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/830424838172064/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484806399_1184954680033336_3159213149254342930_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M14Kwk42wV4Q7kNvwEMY-Vu&_nc_oc=AdlUbHAb1Zy_yVs83-sVWQmZC5zoWQvy1Jc9MkCK_VQS_rpgltn5fnoEE2gPtuodBrQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=mRTQXmJxnxcQkGT0iiBWpA&oh=00_AfIl7KTB7vSJ-xoP23o8gnCVkRGVqIJvmz82FHqAJaJY6w&oe=682863DF",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/484806399_1184954680033336_3159213149254342930_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_er4cLeD2y8Q7kNvwFVynKG&_nc_oc=AdlC1-vCI4xpFpVdHF2RKgpE72F3PiPFmaz3ntdqGxgtIxEcKJxN2oQDMt0x6eBXdr0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=G0zvrHdMdBsEuV9zwEmXWQ&oh=00_AfN-9XCPi2av1oA-R1Jugfo0p7xaJ2HQLm2dWsPHJEZ-FA&oe=68673B5F",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Støddæmperen",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/638986984596752/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/472911624_616846661017775_7198718991440262545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=57Zvhcq_NiIQ7kNvwHIWUql&_nc_oc=AdkE-lJsbQ_TmsTnKNGfMleQ4FdScUEF5y2lQj-whzoBbGv8Ax4qQ2tvlpDPCDzo8Ac&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=E8ie0K7FTKUe2OBy_GFIhQ&oh=00_AfIGj7kyqGSoM_w53mx2jaTJjZ5C41PP0f5izoQk-8702g&oe=68283BA8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472911624_616846661017775_7198718991440262545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5QSeBBcsxPMQ7kNvwEg416g&_nc_oc=AdkMUbXgZ05m8eekh1yO8HvWObC5D22P_Z45szR7-hib-11yA1EyZI78UDPnJAHDxms&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=bHdLH_DR0Cs8zQoRJXRuEg&oh=00_AfPNSNjKuv_IaIfBwLUOh5oBWEepSO88zkRk26Vf9abX5w&oe=68671328",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Støddæmperen",
@@ -121,7 +121,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/2204517369730029/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485798701_1232899505510870_6292589720364078339_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wPArZ67zHSIQ7kNvwHt7-av&_nc_oc=Adn1EnjAsLvVdBd2_D9HQuq7k80iqUJSHffBAuR-qStKE8DJDCGmUvlUvs5vM9WB2iY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ZBcsVLYcnX5eNxG4oz_Njw&oh=00_AfIXaBxf5QNb9ovjw7B8Uvqxw5VHyC4Tt2bOU4nRm-P9sg&oe=68284F6E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485798701_1232899505510870_6292589720364078339_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xDfsMxNwo0gQ7kNvwH-HtF9&_nc_oc=Adk9RjRU7RftBu1XYuCKZlOpGkOr8if8lQqjS70yLl40WjJoXxhVurnkz1JyENWFr90&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=QPJ4VR1j19ZKcjUx4mgBHg&oh=00_AfMjotbJlUNQej-PPj55aXDwlFr73_khlZh9JROedC3Kjg&oe=686726EE",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Støddæmperen",

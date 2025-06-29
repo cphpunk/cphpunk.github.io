@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "Copenhagen, Dennmark",
-      "address": null,
-      "city": "",
-      "country": null,
+      "address": "",
+      "city": "Copenhagen",
+      "country": "DK",
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
       "bounds_ne_lat": 55.70000000000002,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/469137944864949/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/472946551_1226124079038931_5733051730852428841_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zRDeCZeSID0Q7kNvwECdWjY&_nc_oc=Adl5gmod0MdFPgctLdtjs2_POMBxlhIbwtrZimmip06k-hVBNTGKGCeiTTM9cIHWSoU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=vwNanDc2b7-BFkbo8Ufh_Q&oh=00_AfLwv_x5RecdJQEfG4Zn8tVyN_tShw5CZAWeAZCyhN_WQw&oe=68284CF0",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/472946551_1226124079038931_5733051730852428841_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7wukNE7vcg4Q7kNvwFOKt5G&_nc_oc=Adk1eASqmFqt6ri9KpqDhjF21z5YqSKGZyelI8MkUGkG-l7UlNjGY4xY4dw9Il-4ZIk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=4GlLIvoeg-fImNqMNe29uA&oh=00_AfMCyvwehezyH8T0m2_szZ2M6PctMAMqlWbpjrO0tHmA6g&oe=68672470",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "3daysofdesign",

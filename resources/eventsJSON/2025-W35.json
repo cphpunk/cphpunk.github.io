@@ -1,7 +1,7 @@
 [
   {
     "id": "1240096450394201",
-    "name": "Friday Night Skate 7. tur. (Foreløbig dato) ",
+    "name": "Friday Night Skate 7. tur",
     "description": "Opdateringer og ændringer offentliggøres kun på FNS's egne begivenheder!\n\nÅrets 7. tur på rulleskøjter gennem København, hvor vi igen starter og slutter ved Next House. Ruten bliver lagt op i løbet af ugen op til turen.\n\nVi skal nå igennem turen på ca. 20 km på 2 timer inkl. pause, så du skal kunne rulle med mindst 15 km/t i snit og have god styr på dine rulleskøjter, dvs. være god til at kunne bremse og dreje.\n\nVi er mange i feltet og alle skal have en god tur, så følg reglerne med kun at køre på vejbanen, vis hensyn til hinanden og hjælp blockerne, når de giver anvisninger til feltet.\n\nHvis du ikke kan følge med, bliver du sat af feltet af vores bag-blockere med et pænt: Fortsat god aften og så må du hjem og øve dig. Du er meget velkommen igen, når du er hurtig nok\".\n\nOg så er det ikke tilladt at være påvirket af alkohol eller andre rusmidler, når man ruller med.\n#EWOSDK #BeActive",
     "date": {
       "start_timestamp": 1756488600,
@@ -25,10 +25,458 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1240096450394201/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482058479_1173580490879611_4191742273593105430_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=E15DZe_RMF8Q7kNvwHQnW68&_nc_oc=AdnMpFO5Jqk5iqjmsLezV99MeVEd5rQf0x0hJaKW0DXDq2mwhALsQ90hXtqNx18zhhk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=vrgr4cWmYnhcSWcTGl4Pbw&oh=00_AfKjsjg_YdqNoT2hTMhg3-NOs_7Dd4pcSe9Y3lCEx4w9pw&oe=682864ED",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/482058479_1173580490879611_4191742273593105430_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IMXA9Z-LicMQ7kNvwGfM0ZV&_nc_oc=AdkfzDax2lXwQDFK3qUALaJ9vaiToKgZem6853TxtGKqEsuWFM5yFWq7x-YrgCy5OLE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=plhCH7XGkti9aiWZGwstag&oh=00_AfOfzMdVZspzIylamE9KlLdm4opH-5Mfris_P4jP9cGgWA&oe=68673C6D",
     "tag": "SPORTS",
     "platform": "Facebook",
     "page_name": "Next House Copenhagen",
     "page_url": "https://www.facebook.com/nexthousecopenhagen/events"
+  },
+  {
+    "id": "1122924099188825",
+    "name": "Koncert med Jazz7tetten",
+    "description": "Jazz7tetten har i 6 år leveret enestående jazzkoncerter på Metronomen-scenen. Med en blanding af klassiske jazznumre og originale kompositioner, har de formået at tiltrække et publikum, der sætter pris på autentisk og live jazzmusik.",
+    "date": {
+      "start_timestamp": 1756645200,
+      "end_timestamp": 1756652400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1122924075855494/?event_time_id=1122924099188825",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/510975736_1016800053959547_6316562130274695189_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=t8_-4lC3stUQ7kNvwFh9h61&_nc_oc=Adky6HWd8OW1LhTs2CkiH25KvxUcON-68zBHcWwQTnFleJoDffOtbY9Yyuiq3w80Qyc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=aKl-KUqLjCe1eHVgsnfOGA&oh=00_AfMIi16wriPEsQNzFzbysXAYEruBiORjHDIsiTjZOz9MIA&oe=686709EB",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "kk-brett-perkins-maans-se-lunn-og-vang-ret-og-vrang",
+    "name": "Brett Perkins + Måns (SE) + Lunn og Vang - ret og vrang",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Næsten hver fredag kan du opleve både danske og internationale bands og solister inden for folk, rock, pop, blues og country. Geyser by the Sea er sommerudgaven af den populære singer-songwriter-scene Klub Geyser – nu rykket ud i det fri.\n </p>\n <p>\n  Tag vennerne med, snup en kold drink i baren og nyd musikken med udsigt til vandet. Vi ses ved havnen!\n </p>\n <h3>\n  Fredag 29/8\n </h3>\n <p>\n  kl. 16.30 Brett Perkins\n  <br/>\n  kl. 17.00 Måns (SE)\n  <br/>\n  kl. 17.40 Lunn og Vang - ret og vrang\n  <br/>\n  <br/>\n  Brett Perkins har optrådt i 29 lande og medvirker på over tyve kommercielle udgivelser, blandt andet Mads Langers debut-single ‘Breaking News’. Hans pop/folk-sange er blevet beskrevet som musik, der omfavner lytteren som et varmt tæppe på en kold vinterdag (BT, Danmark). Med sin varme stemme og nærværende tekster skaber Brett Perkins en intim og stemningsfuld oplevelse.\n </p>\n <p>\n  Måns Williamson er en singer-songwriter, der kombinerer inderlige tekster, udtryksfuldt guitarspil og soulfyldte vokaler. Hans musik bevæger sig i krydsfeltet mellem country og folk med strejf af jazz, blues og soul. Inspireret af countrylegender som Guy Clark og Jon Randall udforsker Måns universelle temaer om livet, båret af hans dybe og varme barytonstemme. Hans melodiske og rytmiske guitarspil, inspireret af kunstnere som Eric Bibb og Raul Midón, giver musikken dens karakteristiske lyd.\n </p>\n <p>\n  To af Danmarks spændende bluesscene-talenter, Morten Lunn og Fabian Vang, har slået sig sammen for at udforske deres fælles fascination af alt fra Mississippi Delta og Hill Country til Chicago Blues. Morten Lunn, frontmand i det alternative bluesband Fried Okra, og Fabian Vang, kendt fra bl.a. Unikum Trio og Sonic Saliva, udgør en velspillende duo med to guitarer og sang – enkelt og intenst. Nogle gange erstattes den ene guitar af den enstrengede diddley bow, hvilket giver musikken en rå og autentisk lyd. Duoen tager udgangspunkt i bluesens gamle mestre som Jimmy Reed, Bo Diddley og den ukronede Hill Country Blues-dronning Jessie May Hemphill – alt sammen fortolket med deres helt eget udtryk. Og måske bliver der også plads til lidt Fried Okra – det må publikum glæde sig til at opleve!\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1756477800,
+      "end_timestamp": 1756485000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/brett-perkins-maans-se-lunn-og-vang-ret-og-vrang",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-06/Design%20uden%20navn%20%2819%29.png?itok=CQaGy4Qe",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-salsa-jam-feat-suwalski-y-buena-gente",
+    "name": "SALSA JAM feat. Suwalski y Buena Gente",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Forvent en storslået musikalsk oplevelse når Suwalski Y Buena Gente gæster SALSA JAM 30/8 i Kulturhuset Islands Brygge. Det store orkesters sanselige blanding af Habanas svedige rytmer og New Yorks jazzede harmonier, sender fantasien på rejse – og publikum ud på dansegulvet. Aftenen forvandles til en cubansk fiesta med varme rytmer, dans og mojitos på bardisken, når Suwalski y Buena Gente møder frem med et stjernespækket hold af musikere fra Latin Amerika og Danmark.\n </p>\n <p>\n  Orkestrets repertoire spænder vidt og går fra traditionel cubansk son med kor over jazzinspireret New Yorker-salsa til funky cubansk timba. De samlende elementer er korarrangementerne og den pulserende rytmiske bund, der danner en dansabel baggrund for de jazzede harmonier.\n </p>\n <p>\n  Først på aftenen er der som sædvanlig salsa-opvarmning (for alle) samt danseshow i pausen.\n </p>\n <p>\n  DATO &amp; TID\n  <br/>\n  Lør. 30. august kl. 20.00-01.00\n </p>\n <p>\n  BILLET:\n  <br/>\n  Billet: 130 kr. + gebyr / Køb i døren: 160 kr.\n  <br/>\n  Studerende: 90 kr. + gebyr / Køb i døren: 120 kr.\n </p>\n <p>\n  PROGRAM\n  <br/>\n  kl. 20.00 dørene åbner\n  <br/>\n  kl. 20.15 salsa-opvarmning (20 min.)\n  <br/>\n  kl. 21.15 Suwalski y Buena Gente (1. sæt)\n  <br/>\n  kl. 22.00 salsatek + danseshow\n  <br/>\n  kl. 22.40 Suwalski y Buena Gente (2. sæt)\n  <br/>\n  kl. 23.40 salsatek\n  <br/>\n  kl. 00.30 sidste omgang i baren\n  <br/>\n  kl. 01.00 tak for i aften\n </p>\n <p>\n  MUSIKERE:\n </p>\n <p>\n  Rolf Thofte: Trompet &amp; kor – Niels Gerhardt: Trombone &amp; kor – Simon Thorsen: Sax &amp; kor – Theo Hjorth: Piano – Alejandro Gisparo (Cuba): Bas &amp; kor – TBA: Trommesæt/Timbales – Peter Suwalski: Congas, orkesterleder – Camila Viancos (Chile): Lead vokal, kor og percussion.\n </p>\n <p>\n  DJ's: Sergio Bedoya og Jacob Speake spiller old-school salsa, timba, cubansk son samt lidt bachata og merengue.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1756576800,
+      "end_timestamp": 1756594800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/salsa-jam-feat-suwalski-y-buena-gente",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-05/Suwalski%20y%20Buena%20Gente%20al%20muro%20%E2%80%93%20redigeret.jpg?itok=XvzlRhdO",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-nova-concerts-afro-electric-mash-up-jackson-wahengo-na-alan-apaloo-tg",
+    "name": "Nova Concerts: Afro Electric Mash-Up – Jackson Wahengo (NA) & Alan Apaloo (TG)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Though hailing from opposite ends of the African continent, Wahengo and Apaloo share a singular passion: pushing the boundaries of their musical heritage through the language of the electric guitar. For this unique Copenhagen appearance, they will meet on stage to present a carefully crafted performance — a musical dialogue where each artist interprets and responds to the other's compositions in a dynamic interplay of tradition and innovation.\n </p>\n <h3>\n  From Windhoek to Copenhagen: Jackson Wahengo\n </h3>\n <p>\n  A master of rhythm and narrative, Jackson Wahengo is one of Namibia’s most respected musical voices. Deeply rooted in the protest folk traditions of Shambo and Kawina, his playing blends traditional melodies with the urban flair of Afro-jazz and township music. Having studied and performed across Southern Africa and Europe, Wahengo brings to the stage a politically conscious sound — elegant, groovy, and full of purpose.\n </p>\n <h3>\n  Electric Spirit from Lomé: Alan Apaloo\n </h3>\n <p>\n  From the coastal city of Lomé, Alan Apaloo has forged a unique path through highlife, jazz, and spiritual funk. Known for his textured sound and inventive phrasing, Apaloo has become a reference in the Nordic jazz scene, while remaining deeply connected to the traditions of his native Togo. His music is as introspective as it is joyful, driven by improvisation and storytelling.\n </p>\n <h3>\n  A Conversation in Sound – Composed, Rehearsed, and Alive\n </h3>\n <p>\n  Afro Electric Mash-Up is not a loose jam session, but a curated musical experience. Wahengo and Apaloo will perform each other’s compositions — exploring their distinct cultural roots while creating something entirely new together. The result is a performance that is at once thoughtful and vibrant, rehearsed and spontaneous, where heritage meets innovation, and dialogue becomes music.\n </p>\n <p>\n  Expect soulful melodies, intricate rhythms, and the powerful synergy of two artists listening deeply — not just to each other, but to the continent that shaped them.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1756566000,
+      "end_timestamp": 1756573200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset, Courtyard",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/nova-concerts-afro-electric-mash-up-jackson-wahengo-na-alan-apaloo-tg",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-06/nova.png?itok=dYVmXoQl",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "mayhem-20250830-a-noisy-evening",
+    "name": "A NOISY EVENING",
+    "description": "OLYMPIC SHIT MAN\n\n\nPUTREFIER\n\n\nEVIL MOISTURE\n\n\nKERäNEN\n\n\nVANITY PRODUCTIONS",
+    "date": {
+      "start_timestamp": 1756576800,
+      "end_timestamp": 1756584000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Mayhem",
+      "address": "Ragnhildgade 1, 2100 København Ø",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://mayhemkbh.dk",
+    "image_url": "https://mayhemkbh.dk/wp-content/uploads/2025/06/osm-533x700.jpeg",
+    "tag": "MUSIC",
+    "platform": "Mayhem",
+    "page_name": "Mayhem",
+    "page_url": "https://mayhemkbh.dk"
+  },
+  {
+    "id": "3588805181424520",
+    "name": "Saigon Soul Revival (VN) at ALICE",
+    "description": "Saigon Soul Revival er på en erklæret mission. De vil bringe den groovy, psykedeliske og næsten glemte lyd Vietnam i årene før 1975 tilbage på scenen. Nemlig fusionsgenren nhạc vàng, der forener rock og soul med traditionel, vietnamesisk musik og instrumenter med et yderst dansabelt resultat.\n\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\n\nDøre kl 20:00 / Show kl 21:00\nKøb billet i forsalg: 200 dkk eksl. gebyr / ungebillet: 160 ung dkk eksl. gebyr \nKøb billet: https://alicecph.com/event/saigon-soul-revival-vn/\nLyt: https://www.youtube.com/watch?v=YCWF4MPIf5U\nNB: Koncerten er stående\n\nSCROLL DOWN FOR ENGLISH\n\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\n\nI tresserne og halvfjerdserne fyldte sange om kærlighed, hjertesorg, håb og frihed Saigons gader og klubber. For midt i Vietnamkrigens uro var en ny musikgenre opstået, hvor rock, soul og bolero blev fusioneret med traditionel, vietnamesisk musik og sang – nhạc vàng. Efter Saigons fald i 1975, blev denne form for musik gjort forbudt, og forsvandt næsten. Men fire årtier senere opstod Saigon Soul Revival i 2016 med en erklæret mission. De ville være med til at bringe den groovy og dansable musikgenre tilbage på scenen.\n\nEfter en række liveoptrædener udsendte Saigon Soul Revival i 2019 deres debutalbum, “Họa Âm Xưa”, som er et hyldestalbum til de nhạc vàng-artister og -komponister, som har inspireret bandets lyd: En medrivende, rå og psykedelisk rock forenet med traditionelle instrumenter og fremført med masser af energi. I 2024 udkom efterfølgeren ‘Mối Lương Duyên’. På ALICEs scene vil lineuppet bestå af Minh Anh Nguyễn på vokal, Đăng Nguyễn Khoa på keyboard, Indy Laville på Guitar og det traditionelle instrument Đàn Nguyệt, Gabriel Kaouros på bas, Hiếu Nguyễn Hương Bảo på trommer og Hải Phượng på de traditionelle instrumenter Đàn Tranh & Đàn Bầu. Sammen vækker de en del af Vietnams musikalske arv, som har ligget i dvale alt for længe.\n\n⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛\n\nIn English:\n\nSaigon Soul Revival is on a mission. They want to bring back the groovy, psychedelic, and almost forgotten sound of Vietnam in the years before 1975, nhạc vàng, back on the stage. The fusion genre brings together rock, soul and traditional Vietnamese music and instruments. The result is lively, enchanting, and hard not to dance to!\n\nIn the sixties and seventies, songs love, heartache, hope, and freedom filled the streets and clubs of Saigon. Amongst the turmoil of the Vietnam War, a new musical fusion had come to life, one that combined rock, soul, and bolero with traditional Vietnamese music and lyrics, nhạc vàng. After the fall of Saigon, the musical genre became forbidden and almost vanished. But four decade later Saigon Soul Revival arose to bring back the groovy and captivating musical genre back to the stage.\n\nAfter numerous live performances, Saigon Soul Revival released their debut album in 2019. ‘Họa Âm Xưa’ is a tribute to the artists and composers that have inspired their sound: An enchanting, raw and psychedelic rock fused with traditional, Vietnamese instrumentation and performed with loads of energy. Last year, they released its successor, ‘Mối Lương Duyên’. On ALICE’s stage the lineup will be: Minh Anh Nguyễn on vocals, Đăng Nguyễn Khoa on keyboard, Indy Laville on guitar and the traditional instrument Đàn Nguyệt, Gabriel Kaouros på bas, Hiếu Nguyễn Hương Bảo on drums, and Hải Phượng on the traditional instruments Đàn Tranh & Đàn Bầu. Together they invoke a part of Vietnam’s cultural history that has been dormant for too long!",
+    "date": {
+      "start_timestamp": 1756490400,
+      "end_timestamp": 1756497600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Nørre Allé 7, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69156249999999,
+      "longitude": 12.560437499999992,
+      "bounds_ne_lat": 55.69162499999999,
+      "bounds_ne_lng": 12.56049999999999,
+      "bounds_sw_lat": 55.69149999999999,
+      "bounds_sw_lng": 12.560374999999993,
+      "plus_code_global": "9F7JMHR6+J5",
+      "plus_code_local": "MHR6+J5",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/3588805181424520/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/502585045_1142428901247327_2634677579267282949_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mX4vgxhf1zYQ7kNvwFMakFP&_nc_oc=Adn0SaXbfoekgyuIkemTWMk3r3H08-y4zTxqb2nrdOuQD3TeaTF4snvg3xu6tUw6K3M&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=dYkw4U4uUc-bH1wQSBpIeQ&oh=00_AfPRjN7_as2Gxif_RjxsHiGC4hg_AV_3L_pcp0F1ZhBMNg&oe=68671485",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "ALICE cph",
+    "page_url": "https://www.facebook.com/alicecphcom/events"
+  },
+  {
+    "id": "2108047903040754",
+    "name": "Lou Hazel (US) // Loppen",
+    "description": "Lou Hazel laver enkel, poetisk folk for dem, der selv har måttet lære at lytte. Har du lært at lytte? Så kom med på Loppen den 26. august og lyt til historier fra et sted i glemslens grænseland.\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\nEntré: 120 kr. (inkl. gebyr)\nForsalg: https://bit.ly/4416nsY\nDøre: 20.30 // Koncertstart: 21.30\nhttps://loppen.dk/kalender/lou-hazel\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nLou Hazel voksede op langs Allegheny-floden, hvor New York møder Pennsylvania, og det nordlige Appalachia glider over i stille obskuritet. I et landskab med kolde småbyer, en træt arbejderklasse og tidlige møder med modgang var musik ikke noget, man fik ind med modermælken – det var noget, man selv måtte finde frem til. Der var ingen spillesteder, ingen mentorer, ingen egentlig musikscene… kun det, man selv kunne skrabe sammen med nysgerrighed og en kassettebåndoptager.\n\nDenne mangel – på retning, på vejledning, på kunst – prægede Lous sange lige så meget som nogen musikalsk inspiration. Hans musik genlyder af ensomheden i de glemte byer og den mærkelige styrke, det kræver at skabe noget, hvor intet før har været. Med en blanding af folk, indie og et blik for det oversete, skriver Lou som én, der har lært at være opmærksom. Hans sange er enkle, levende og præget af en varm, vejrbidt ægthed.\n\nEfter flere år med solo-turneer og hjemmestudieoptagelser fandt Lou fodfæste i Durham, North Carolina, hvor en sprudlende musikscene og et valgt fællesskab har sat sit præg på hans nyeste værker. Hans seneste album, Riot of the Red, indfanger længslen efter at flygte fra det hele – nyhederne, støjen, tyngden af en verden ude af kurs – og finde ro i de mest enkle ting: en lang køretur, en tom himmel, en velkendt akkord.\n\nDen 26. august kommer Lou Hazel til Loppen og spiller musik for dem, der har måttet lære sig selv at lytte.",
+    "date": {
+      "start_timestamp": 1756233000,
+      "end_timestamp": 1756240200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sydområdet 4B, 1. sal, 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.674062500000005,
+      "longitude": 12.597312500000001,
+      "bounds_ne_lat": 55.674125000000004,
+      "bounds_ne_lng": 12.597375,
+      "bounds_sw_lat": 55.67400000000001,
+      "bounds_sw_lng": 12.597250000000003,
+      "plus_code_global": "9F7JMHFW+JW",
+      "plus_code_local": "MHFW+JW",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/2108047903040754/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/508559900_1108899294605213_6727829645213213825_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ziWb7AronF0Q7kNvwGN92Pi&_nc_oc=AdkpLniyi56860wiEboGz1bH8upb4CJcgAuD9TbyASNPdDWnqxDzoJngV3eX4h_bQ4I&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=UwSZHDcokPHX2_CJVzWNqw&oh=00_AfOWPt2HqOmZn7HB35bu-gBppRv8V_k-qvf24xe_2-2xvQ&oe=686728C6",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musik Loppen",
+    "page_url": "https://www.facebook.com/musikloppen/events"
+  },
+  {
+    "id": "551105260599889",
+    "name": "Conflict (UK) + support: Dead Pollys (SE) // Loppen",
+    "description": "De britiske anarcho-punk pionerer, Conflict, udgiver deres første album i 20 år den 25. april. Kom og oplev dem på Loppen den 31. august sammen med Dead Pollys - mere kompromisløse, intense og relevante end nogensinde før!\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\nEntré: 145 kr. (inkl. gebyr)\nForsalg: https://tinyurl.com/conflictloppen\nDøre: 20.30 // Koncertstart: 21.30\nhttps://loppen.dk/kalender/conflict\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nConflict har været med på den engelske anarcho-punk scene fra start. Bandet er kendt for deres modstand mod autoritet og kamp for lighed, retfærdighed og inklusion for både mennesker og dyr. Deres budskab er lige så skarpt som deres musik, der konfronterer samfundsproblemer lige på og hårdt. I over 40 år har de inspireret anarkister og rebeller verden over.\n\nBandet har haft skiftende flere line-ups, men den nuværende femmandsgruppe præsenterer bandet i sin mest stabile og modne form. Efter mere end 20 års stilhed, udgiver Conflit nu et nyt album This Much Remains den 25. april.\n\nConflicts tidlige udgivelser, såsom The House That Man Built (1982) og It’s Time to See Who’s Who (1983), etablerede dem som centrale figurer i anarcho-punk bevægelsen. Bandet er åbent om emner som dyrevelfærd, anarchisme og anti-krigsaktivisme, og deres musik afspejler stadig deres kompromisløse holdninger til disse emner.\n\nEfter trommeslageren Paco’s død i 2015 og bassist Hoddy’s pensionering i 2019, består den nuværende lineup af Colin, Gav, Stu, Fran og Fi. De har været på turné siden 2021, og et livealbum, Live in Dublin, blev udgivet i 2024. Deres nye studiomateriale markerer en spændende tilbagevenden, med et fuldt album forventet i begyndelsen af 2025.\n\nOplev Conflict på Loppen den 31. august – kompromisløse, intense og stadig relevante.",
+    "date": {
+      "start_timestamp": 1756659600,
+      "end_timestamp": 1756666800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sydområdet 4B, 1. sal, 1440 Christiania, Denmark",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.674062500000005,
+      "longitude": 12.597312500000001,
+      "bounds_ne_lat": 55.674125000000004,
+      "bounds_ne_lng": 12.597375,
+      "bounds_sw_lat": 55.67400000000001,
+      "bounds_sw_lng": 12.597250000000003,
+      "plus_code_global": "9F7JMHFW+JW",
+      "plus_code_local": "MHFW+JW",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/551105260599889/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/486665393_1045778167583993_946434353546280825_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5rPGkGTOOU0Q7kNvwGpRLIP&_nc_oc=AdlKho58M-KMoBYl9NPop_FT8eN_fxTwnx1e2i6OM-NKz_qoE36QuJXYCM19h4LOGW4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=M85hFMIPO04QvWqAfdT5hQ&oh=00_AfORdiYl2afYYvqEYtr_d3p8gUzvu7RwysGgX1RCdN8New&oe=68670D4A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Musik Loppen",
+    "page_url": "https://www.facebook.com/musikloppen/events"
+  },
+  {
+    "id": "627214623053960",
+    "name": "Basement: MILLER",
+    "description": "Miller kommer igen til København!\n\nMed en mission om at genoplive dansksproget rockmusik, tager Miller alt det gode fra 90'ernes teenage-skate-punk med ind i et moderniseret udtryk.\n\nBandet er lige gået ind i deres tredje år i branchen, og har skrabet over 500.000 streams sammen.\n\nDer loves høj energi og masser af dårlig far-humor, så sæt kryds i kalenderen.\n\nBilletter:\n100kr (+ gebyr) online\n130kr (+ gebyr) i døren",
+    "date": {
+      "start_timestamp": 1756576800,
+      "end_timestamp": 1756584000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Enghavevej 42, 1674 København V, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/627214623053960/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/506451088_569416046239978_4110610508692128267_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=l9UVsofAYU0Q7kNvwFEzEqS&_nc_oc=AdnhwisfTj9sxMeX_xEtv36sh5qDc91vjOOFYh_Ku6E7OsMFcHHZ5QQTrb9xoc5YCYM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=umOg-9bQ9hz87pZp_HxC9A&oh=00_AfN5f5IQjVAui0TKZiUawvQksw1TNbTJoV3RPmN14uEg4Q&oe=686709D8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "741954484950718",
+    "name": "BÅKBÅK Festival for Vokal Musik",
+    "description": "BÅKBÅK Festival for Vocal Music\n\nYou want vocal music? We give you vocal music!\n\nThe loud, the silent, the usual, the weird, the collective, the solitary, the traditional, the radical.\n\nBÅKBÅK Festival showcases vocal music in its broad spectrum. The one night Festival brings together vocal enthusiasts of different scenes, genres and ages. One of a kind, the evening offers a deep dive into what the voice has to say. A fun, fast pace night, of known and unknown sounds. \n\nARTISTS TO BE ANNOUNCED 0.0 -o- 0.0 -o- 0.0 -o- 0.0 -o- 0.0 -o- 0.0 -o- \n\nDoor 20:00\nConcerts 20:30\n\nBasement\nEnghavevej 42, 1674 København V\n\nSupported by Korsangernes Fællesråd Gramex Middler\n",
+    "date": {
+      "start_timestamp": 1756490400,
+      "end_timestamp": 1756497600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Basement CPH",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/741954484950718/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/506597303_29992746913706791_1865060134804544023_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DzyS6B8VfesQ7kNvwEjq9WF&_nc_oc=Admm0AiA2NyS2P1_aLl4siwmksjg9jRmfo0QwIpKWrKkeHWaDKuKoV3hjnCkcQS7PaY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=anuBB9e-1LDN772j-9kNeA&oh=00_AfOy0pVdnaimKi7TkKWjZJ8lfM-mi2tj-_R4H_x-EFCLUw&oe=686704E0",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "9856556611080714",
+    "name": "Carl Coleman + Howl Baby Howl | Basement",
+    "description": "Carl Coleman og Howl Baby Howl inviterer til en aften med nærvær, akustiske toner og stærke sange i Basement.\n\n▄▄▄▄▄▄▄▄▄\nForsalg: 120kr. (+ gebyr) | Dørsalg: 140kr.\nDøre kl. 20.00 | Koncertstart kl. 20.30\nBilletlink: https://billetto.dk/e/carl-coleman-howl-baby-howl-billetter-1288304\n▄▄▄▄▄▄▄▄▄\n\nCarl Coleman \nCarl Coleman er en australsk singer-songwriter og frontfigur i det anerkendte danske indieband Palace Winter. I 2023 udgav Coleman sin første musik under eget navn i form af den selvbetitlede EP via Midnight Confessions. \n\nMed nye sange i lommen kommer Coleman nu til Basement med sin intime americana, akustiske ballader og traditionelle folk.\nLyt: https://open.spotify.com/artist/3XSSbCAIs4BzdCNBMbwCfA?si=aGuLcBNgSNKFtX1ZKvmS4A\n\n\nHowl Baby Howl\nDen københavnske duo Howl Baby Howl udgav den 9. maj deres femte studiealbum, '5 in Your Eye', på Midnight Confessions. Dette album repræsenterer et stilskifte fra duoens tidligere udgivelser og omfavner en mere akustisk og introspektiv tilgang. Med dybere vægt på sangskrivning afslører de en skrøbelig og mere nærværende side af Howl Baby Howl. Det nye materiale byder på et nuanceret lydunivers med blæsere, strygere og åbne arrangementer, som giver musikken en mere direkte, organisk og ærlig stemning.\n\nDenne aften på Basement byder på dybdegående rejse rundt i deres ekspansive bagkatalog. Vi skal frem med luppen og undersøge deres sange fra nye vinkler - og muligvis også græde sammen til en romantisk ballade eller to.\nLyt: https://open.spotify.com/album/4pSlmdx7lrK2eqHVO1oBZd?si=E40I6vRgSxCbNWrweK1JvA\n",
+    "date": {
+      "start_timestamp": 1756404000,
+      "end_timestamp": 1756411200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Basement CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/9856556611080714/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/497471269_1490908332269270_8578381016415983949_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=liPhOd6_X0wQ7kNvwH27aCU&_nc_oc=AdmpZGiv--NnKD6XmtOteqKz4RItcV4VtlEZGc0vCsY51CjEGkWzCyFQtH3BjaYzors&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=GkNR5BVcZFH740r47_77Kw&oh=00_AfPSXXO3ax3KlPC5k7hJm4-QM31XqQ9sZ-_cEm_GBnPfuQ&oe=68672630",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "719311200745741",
+    "name": "Brett Perkins + Måns (SE) + Lunn og Vang - ret og vrang 〰️ Geyser by the Sea",
+    "description": "Hele sommeren inviterer Kulturhuset Islands Brygge til Geyser by the Sea – gratis livekoncerter under åben himmel på havnescenen.\nNæsten hver fredag kan du opleve både danske og internationale bands og solister inden for folk, rock, pop, blues og country. \n\nGeyser by the Sea er sommerudgaven af den populære singer-songwriter-scene Klub Geyser – nu rykket ud i det fri.\n\nTag vennerne med, snup en kold drink i baren og nyd musikken med udsigt til vandet. Vi ses ved havnen!\n\nFredag 29/8                                                                                                        \n〰️ kl. 16.30 Brett Perkins             \n〰️ kl. 17.00 Måns (SE)                                    \n〰️ kl. 17.40 Lunn og Vang - ret og vrang       \n    \nBrett Perkins har optrådt i 29 lande og medvirker på over tyve kommercielle udgivelser, blandt andet Mads Langers debut-single ‘Breaking News’. Hans pop/folk-sange er blevet beskrevet som musik, der omfavner lytteren som et varmt tæppe på en kold vinterdag (BT, Danmark). Med sin varme stemme og nærværende tekster skaber Brett Perkins en intim og stemningsfuld oplevelse.\n\nMåns Williamson er en singer-songwriter, der kombinerer inderlige tekster, udtryksfuldt guitarspil og soulfyldte vokaler. Hans musik bevæger sig i krydsfeltet mellem country og folk med strejf af jazz, blues og soul. Inspireret af countrylegender som Guy Clark og Jon Randall udforsker Måns universelle temaer om livet, båret af hans dybe og varme barytonstemme. Hans melodiske og rytmiske guitarspil, inspireret af kunstnere som Eric Bibb og Raul Midón, giver musikken dens karakteristiske lyd.\n\nTo af Danmarks spændende bluesscene-talenter, Morten Lunn og Fabian Vang, har slået sig sammen for at udforske deres fælles fascination af alt fra Mississippi Delta og Hill Country til Chicago Blues. Morten Lunn, frontmand i det alternative bluesband Fried Okra, og Fabian Vang, kendt fra bl.a. Unikum Trio og Sonic Saliva, udgør en velspillende duo med to guitarer og sang – enkelt og intenst. Nogle gange erstattes den ene guitar af den enstrengede diddley bow, hvilket giver musikken en rå og autentisk lyd. Duoen tager udgangspunkt i bluesens gamle mestre som Jimmy Reed, Bo Diddley og den ukronede Hill Country Blues-dronning Jessie May Hemphill – alt sammen fortolket med deres helt eget udtryk. Og måske bliver der også plads til lidt Fried Okra – det må publikum glæde sig til at opleve!\n\nGeyser by the Sea 〰️ august - september\n\nFredag 8/8                                                      \nkl. 16.30 Transplendant          \nkl. 17.30 Brown Mountain Lightning Bugs (US)\n\nFredag 15/8\nkl. 16.30 Adam Finchler (US)   \nkl. 17.30 Voodoo Child (IT)      \n\nFredag 22/8 \nkl. 16.30 En:1          \nkl. 17.00 Jessie England\nkl. 17.50 Monica and the Explosion (SE)   \n\nFredag 29/8                                                                                                        \nkl. 16.30 Brett Perkins             \nkl. 17.00 Måns (SE)                                    \nkl. 17.40 Lunn og Vang - ret og vrang\n\nFredag 5/9                                                      \nkl. 16.30 Toni Bergenhammer                    \nkl. 17.30 Tobitalt                                       \n\nFredag 12/9\nkl. 16.30 Francesca (UK)           \nkl. 17.10 Juanchi Biedma \nkl. 18.00 Jacob Speake  ",
+    "date": {
+      "start_timestamp": 1756477800,
+      "end_timestamp": 1756485000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/719311200745741/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/508879758_735710982444715_8750699490222666997_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xM95c7UORQ0Q7kNvwGmu3Cd&_nc_oc=Adl8z7BJ5X7hhkeAeIWp72OM7F8fJlRQGwYXZ-Rymnhh4z_tPYs9IzwJ-jXPjgPahCw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=N3AL3D8kz01WzgEhtWT3wA&oh=00_AfM2rPkn47LZbEuh7ahqcm22V9pR3yvons-5lIHlMWe91Q&oe=68672B74",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "728508313465460",
+    "name": "SALSA JAM feat. Suwalski y Buena Gente",
+    "description": "Glæd dig til en aften med musik, der spænder fra traditionel cubansk son med kor over jazzinspireret New Yorker-salsa til funky cubansk timba 〰️\n\nForvent en storslået musikalsk oplevelse når Suwalski Y Buena Gente gæster SALSA JAM 30/8 i Kulturhuset Islands Brygge. Det store orkesters sanselige blanding af Habanas svedige rytmer og New Yorks jazzede harmonier, sender fantasien på rejse – og publikum ud på dansegulvet. Aftenen forvandles til en cubansk fiesta med varme rytmer, dans og mojitos på bardisken, når Suwalski y Buena Gente møder frem med et stjernespækket hold af musikere fra Latin Amerika og Danmark.\n\nOrkestrets repertoire spænder vidt og går fra traditionel cubansk son med kor over jazzinspireret New Yorker-salsa til funky cubansk timba. De samlende elementer er korarrangementerne og den pulserende rytmiske bund, der danner en dansabel baggrund for de jazzede harmonier.\n\nFørst på aftenen er der som sædvanlig salsa-opvarmning (for alle) samt danseshow i pausen.\n\nDATO & TID\nLør. 30. august kl. 20.00-01.00\n\nBILLET:\nBillet: 130 kr. + gebyr / Køb i døren: 160 kr.\nStuderende: 90 kr. + gebyr / Køb i døren: 120 kr.\n\nPROGRAM\nkl. 20.00 dørene åbner\nkl. 20.15 salsa-opvarmning (20 min.)\nkl. 21.15 Suwalski y Buena Gente (1. sæt)\nkl. 22.00 salsatek + danseshow\nkl. 22.40 Suwalski y Buena Gente (2. sæt)\nkl. 23.40 salsatek\nkl. 00.30 sidste omgang i baren\nkl. 01.00 tak for i aften\n\nMUSIKERE:\n\nRolf Thofte: Trompet & kor – Niels Gerhardt: Trombone & kor – Simon Thorsen: Sax & kor – Theo Hjorth: Piano – Alejandro Gisparo (Cuba): Bas & kor – TBA: Trommesæt/Timbales – Peter Suwalski: Congas, orkesterleder – Camila Viancos (Chile): Lead vokal, kor og percussion.\n\nDJ's: Sergio Bedoya og Jacob Speake spiller old-school salsa, timba, cubansk son samt lidt bachata og merengue.",
+    "date": {
+      "start_timestamp": 1756576800,
+      "end_timestamp": 1756594800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18",
+      "city": "Copenhagen",
+      "country": "DK",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/728508313465460/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/509360112_734937922522021_6483059686730762895_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=a9HnEsXLADMQ7kNvwGVF5pz&_nc_oc=AdkSjfeziIeYLmJf_uGYeq2AAy0et7Fc7P-Vc8q6w5KPNuHgTpe-S5VbcGktBDIsJoI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=mFihInpvyOuAVVGQCr8B9g&oh=00_AfP-fKnIIihQo262VZ_MV-6k5EadSie3RcOPT_hW2-tg1w&oe=68671CC8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "24436662145937013",
+    "name": "Wrath of Belial releasefest + Special Guests Chronicle & Hour of Chaos",
+    "description": "Wrath of Belial lyder som at blive ramt af et godstog – lige når du tror, at den nådesløse tæsk er forbi, får du endnu et slag lige i fjæset.\n\nDe fejrer udgivelsen af \"Embers of Dead Empires\" med venner fra Aarhus og Aalborg.\n_________\n\nDØRE: 19.00\nKONCERT: 20.00\nENTRÈ: 100,-\n_________\n\nFødt ud af den danske undergrunds-metal-scene har Wrath of Belial sine rødder i dødsmetal-bandet Pariah Syndicate, der stammer fra Aarhus og blev dannet i 2007. Kort efter dannelsen vandt bandet Danish Metal Contest ved deres allerførste liveoptræden.\n\nPariah Syndicate udgav EP’en \"…And Blood Shall Rain From Heaven\", som blev bredt anerkendt af forskellige webmagasiner og i GAFFA. Bandet spillede en bred vifte af koncerter sammen med navne som Decapitated, Evergrey, Hatesphere, The Psyke Project og Artillery, for blot at nævne nogle få.\n\nWrath of Belials debutalbum \"Bloodstained Rebellion\" blev udgivet i maj 2017. Anmeldelserne var positive, med ros og højdepunkter fra blandt andre Angry Metal Guy, Pavilion Magazine, Powermetal og en anbefaling fra No Clean Singing. Udgivelsen blev fulgt op med en række koncerter rundt om i Danmark, hvor bandet delte scenen med blandt andre de norske Blood Red Throne og italienske Fleshgod Apocalypse.\n\n\"Embers of Dead Empires\", Wrath of Belials kommende andet udspil, er et monument over den mørkere side af menneskelig adfærd og den ligegyldighed, vi udviser over for vores omgivelser.\n\nMed inspiration fra blandt andre Aborted, Suffocation, Cannibal Corpse og Mastodon, består Embers of Dead Empires af 10 numre fyldt med tunge riffs, hæsblæsende soloer og hektiske, gennemtrængende vokaler. Med mindre vægt på groove og mere fokus på hooks, viser pladen en mere raffineret og fokuseret sangskrivning, som giver en mere tilgængelig og stram lytteoplevelse.\n\nBandet har rekrutteret tromme-powerhouse Bastian Thusgaard (Soilwork, Dawn of Demise, The Arcane Order) og tilføjet den lokale guitarvirtuos Alex Bossen fra OXX som leadguitarist for at færdiggøre sangskrivningen og bringe numrene til live. Trommefænomenet Robin Stone har også bidraget med sine evner på et enkelt nummer. Mendel bij de Leij (Aborted, Severe Torture) har stået for mix og mastering, mens Jacob Bredahl har styret knapperne under trommeindspilningerne.\n\n\"Embers of Dead Empires\" markerer et nyt kapitel for Wrath of Belial, og det kapitel bliver fejret på Radar den 30. august!\n\n〰️ Chronicle 〰️\n\nChronicle er særligt kendte for deres energiske og medrivende koncerter, store tekniske færdigheder, øresønderrivende vokaler og fængende guitarmelodier.\n\nBandet blev dannet i 2012, og har over et årtis erfaring med at optræde foran menneskemængder i alle størrelser. Deres dynamiske liveshows er et vidnesbyrd om deres dybe forbindelse til musikken, og hvert enkelt bandmedlem er dedikeret til at gøre hver koncert til en uforglemmelig og unik oplevelse.\n\nChronicle har markeret sig på den danske metalscene, optrådt på en række af landets største metalbegivenheder og -festivaler og var for nylig rundt i alle afkroge af kongeriget med Hatesphere på deres ”Hatred Reborn Tour 2023”. Chronicle har også gjort sig bemærket internationalt og satte i 2024 alle kræfter ind på at besøge nyt territorie rundt omkring i Europa.\n\nI maj 2023 udkom bandets tredje album \"Where Chaos Thrives\". Det har høstet positive anmeldelser i metalmedier over hele verden, og har løftet bandets lyd til et helt nyt niveau af brutalitet og teknikalitet. \n\n〰️ Hour of Chaos 〰️\n\nFødt i 2023 i hjertet af Århus, er Hour of Chaos et nyt og kompromisløst navn på den danske metalscene. Bandet blev skabt med én mission: at levere brutal, upoleret thrash/death metal – råt, ærligt og uden filter. Men midt i kaosset finder du også solide riffs og melodier, der klæber sig fast i hukommelsen.\n\nInspireret af genreikoner som Carcass, Entombed, In Flames, Slayer, Testament, Obituary og Sylosis, leverer Hour of Chaos et eksplosivt mix af klassisk aggression og moderne kant. I april 2024 sparkede bandet døren ind med debut-EP’en Death, som hurtigt blev fulgt op af intense koncerter i København, Odense, Aalborg og naturligvis Århus. Publikum blev blæst bagover af den kompromisløse energi og det tætte sammenspil.\n\nHour of Chaos har allerede delt scenen med tunge navne som Blood Red Throne (NO) og Carnosus (SE), og i foråret 2025 gik de i studiet for at indspille deres første fuldlængdealbum.\n\nDebutalbummet Bred to Fail udkommer den 29. august 2025 og er – ligesom EP’en – produceret af den anerkendte Jacob Bredahl i Dead Rat Studio. Forvent en sonisk knytnæve, der både respekterer genrens rødder og river fremtiden i stykker.\n\nBandets medlemmer er garvede kræfter fra den danske metalscene og har tidligere spillet i navne som Panzerchrist, The Burning, Diamond Drive, Among Phantoms og Embittered.\n\nVi glæder os til at se dig <3",
+    "date": {
+      "start_timestamp": 1756576800,
+      "end_timestamp": 1756584000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Radar",
+      "address": null,
+      "city": "",
+      "country": "DK",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/24436662145937013/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/499871687_1113912797442622_2326264210910937199_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EY3FRBcLx5kQ7kNvwFu8yh9&_nc_oc=AdkAWWeRPCzc2TlcwF8f_DkXaz56qJq4AR85J1QLQr3OH4B_4FK4dBvN52cmxvX6eVc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Z7opkCwBCgNVsT4IVZkDSQ&oh=00_AfMp7dXpsZERI24E24KLrsnnLndLNIlGrjPEnVo-yn4xAQ&oe=68670CC0",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Radar",
+    "page_url": "https://www.facebook.com/radarlive/events"
   }
 ]
