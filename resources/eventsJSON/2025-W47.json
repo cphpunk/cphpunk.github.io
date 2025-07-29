@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-night-journeys-rachika-nayar-nina-keith-present-disiniblud-us",
+    "name": "Night Journeys: Rachika Nayar & Nina Keith present Disiniblud (US)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  --- Tickets for sale may 30th 10 am ---\n </p>\n <p>\n  Rachika Nayar and Nina Keith join forces as composers, producers, and multi-instrumentalists on the self-titled debut of their new collaborative project Disiniblud. The two artists were first drawn to one another five years ago like mirror images or two sisters reuniting after a lifetime of separation. Rachika and Nina met in Brooklyn's two-block–by–two-block Maria Hernandez Park after fan-girling each other’s music online. Dishing about messy post-lockdown long-distance lesbianism, heartfelt investments in Buddhist and Hindu philosophies, and a shared high-school love of the Eternal Sunshine OST, the two found their surface similarities gesturing toward a deeper shared existential worldview.\n </p>\n <p>\n  This kinship—which Rachika describes originating from some “inner-child sisterhood place”—is the heart of their fairytale-like self-titled LP, due out July 18 via Smugglers Way. The two’s self-described “wordless conversation,” the album orbits such themes as mortality, reinvention through destruction, and sublimating fractured histories into music—all resulting in a work that suggests sweeping transformation can come from embracing old wounds with childlike wonder.\n </p>\n <p>\n  Rachika Nayar and Nina Keith meet on complementary but seemingly disparate musical grounds. On her 2022 breakout LP Heaven Come Crashing, Nayar departed from her usual ambient guitar in favor of maximalist synths, sub-bass, and flickers of Amen breaks. Her distinct fusion of post-rock and electronica received Pitchfork's Best New Music designation, landed on several best of the year lists (The New York Times, Stereogum, Fader, GQ, Bandcamp, etc), and earned her an opening slot on tour with M83.\n </p>\n <p>\n  Keith, meanwhile, is best known for her self-trained approach to composition, as evident on her 2019 debut MARANASATI 19111 and its delicate medley of cello, piano, clarinet, and flute, used to explore a personal history marked by community tragedy and paranormal incidents. She expands into new territories on recent releases, like the single “Come Back Different” featuring Julie Byrne, by incorporating modular synths and intricate vocal arrangements with the help of various collaborators.\n </p>\n <p>\n  Their combined artistic strengths exalt together on Disiniblud.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763838000,
+      "end_timestamp": 1763852340,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Huset, Xenon",
+      "address": "Rådhusstræde 13, 1466 København K",
+      "city": "København K",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/night-journeys-rachika-nayar-nina-keith-present-disiniblud-us",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-05/Disiniblud%20web%201200%20x%20554.png?itok=nNPSZvkT",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  }
+]

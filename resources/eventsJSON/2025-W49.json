@@ -1,0 +1,34 @@
+[
+  {
+    "id": "788288780221061",
+    "name": "Småfolkets Hus",
+    "description": "Småfolkethus is a self-oganised legestue. Everyone is welcome! The cafè will be open for children together with an adult.",
+    "date": {
+      "start_timestamp": 1765015200,
+      "end_timestamp": 1765026000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/788288780221061/",
+    "image_url": "",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Folkets Hus",
+    "page_url": "https://www.facebook.com/folketshus50/events"
+  }
+]

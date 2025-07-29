@@ -172,7 +172,7 @@
       "name": "Herlev Bygade 70, 2730 Herlev Municipality, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.72531249999999,
       "longitude": 12.435687500000014,
       "bounds_ne_lat": 55.725374999999985,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/1328005308380580/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/484814480_1049198600577862_866305646432810346_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7-CvjizaxqYQ7kNvwEMO61Z&_nc_oc=AdlP9pgLLl4CSLytMkAUbUy-6CITjAzxNnLIq468YvG3XaAgJdICms3tFIVuQmZgVok&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=cyPnFTOGx_ajMfUfN1CirQ&oh=00_AfMAa2FvAhM3YdLc13NYrurpqc0yVVd0mCrcDL5Il_Rvvg&oe=68672211",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/484814480_1049198600577862_866305646432810346_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=u5tvZwk0n-gQ7kNvwENr4Hs&_nc_oc=Adkm8w_64vvcpq7K_WJXkBU-3_xMlDek0XKKAefXv0BQRKC_C8fz1qx_jG7EbxIhyAc&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=wjxmNkPf0Y4P0vdlG8fpZg&oh=00_AfRpz9L_9jiK_pNhY4oFYR6hBaZkDzpzKAYSfFvdPAChQA&oe=688EAF11",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",

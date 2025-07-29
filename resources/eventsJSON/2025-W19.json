@@ -44,7 +44,7 @@
       "name": "Ringertoften 2, 2400 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.709812499999984,
       "longitude": 12.526937500000017,
       "bounds_ne_lat": 55.70987499999998,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/981776470116761/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/486504367_1053318973500982_2331247383495193541_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zfJreBhWEyYQ7kNvwGZPIVT&_nc_oc=Adks9bZKTQgfzVznV7t3Rb4mwZ_luo1KQ1vUKmcj3PnO3eWc9dbEcjyIdcTO3n7smFo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=FxgkHLso1Ga__ab-ayvYoQ&oh=00_AfMNDkFxZrs7Y1HeLK1s3Berf2AfuJG0D1iubHAmAbAJ-A&oe=6867394B",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/486504367_1053318973500982_2331247383495193541_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gBAz0MsuOI4Q7kNvwEqJSrv&_nc_oc=AdmZhisBMNN3Lbbz8tkxZ6IQKCi4vg5x-MB-6DU1E_Rv1qKgeYq9VRcpTCLzmuVf7Og&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=Egs01E2mb_QMZ6icS7KjxQ&oh=00_AfSW9OMfu-gfdIYealZxygaM4FcM5XqG1vSCjZT6pjcejA&oe=688E8E0B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -3006,5 +3006,37 @@
     "platform": "Facebook",
     "page_name": "Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "671952098937977",
+    "name": "Sunrise Conversations #1: Daniel Shanken & Antti Turkko",
+    "description": "Join us for the good-morning-event 'Sunrise Conversations #1' with Artists in Residence Daniel Shanken (US/SE) & Antti Turkko (FI)\n\nWhen: Thursday, May 8th from 9 am – 10 am\nWhere: FABRIKKEN for Kunst og Design, Sundholmsvej 46, 2300 Cph S. The Kitchen, located on the first floor.\n\nSunrise Conversations is a series of early morning gatherings and informal sharing sessions, highlighting the work and voices of our international residents. \nStop by before work for coffee and croissants - and meet FABRIKKEN’s Residents who will present their practice, and join in conversation with the attendees. Everyone intereseted is welcome. Participation is free – incl. coffee and croissants.\n\nAbout the artists\nAntti Turkko is an artist and architect, based in Finland, with an interest in the ways and narratives through which space is experienced, produced and consumed. \nDaniel Shanken is an artist and researcher based in Sweden whose practice focuses on the interplays between technology and cognition, tracing their ongoing effects on the environment, consciousness, and culture.\n\nSunrise Conversations is arranged in collaboration with curator and art consultant Robin Frederiksen/Another Public. \n\nFABRIKKEN’s Residencies are supported by The Finnish Cultural Foundation, Nodic Culture Point, Det Obelske Familiefond and The Danish Art Foundation.\n",
+    "date": {
+      "start_timestamp": 1746687600,
+      "end_timestamp": 1746691200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sundholmsvej 46, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65956250000001,
+      "longitude": 12.595687500000011,
+      "bounds_ne_lat": 55.659625000000005,
+      "bounds_ne_lng": 12.59575000000001,
+      "bounds_sw_lat": 55.65950000000001,
+      "bounds_sw_lng": 12.595625000000013,
+      "plus_code_global": "9F7JMH5W+R7",
+      "plus_code_local": "MH5W+R7",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/671952098937977/",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/494279598_1236249455167848_3589798745987240826_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2nZTVnbCtUIQ7kNvwG1ZWXx&_nc_oc=AdmZTM8_vzfX_8xj22yL91kOSxlWvKc3Ht5u3iz4zlsDOPfqMrM1NbqaR_zqMEd-oRI&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=QqacweETxJl5T8fB-mjtqQ&oh=00_AfRDvDc7eo4b7Wp_cqQroN292P0RiCnxI6JCtegAg800nw&oe=688E8B55",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "FABRIKKEN for Kunst og Design",
+    "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
   }
 ]

@@ -1228,7 +1228,7 @@
       "name": "Ringertoften 2, Copenhagen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.709812499999984,
       "longitude": 12.526937500000017,
       "bounds_ne_lat": 55.70987499999998,
@@ -1241,7 +1241,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/734763322215832/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/495457272_1099337078899171_1084818265686373352_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pFbbAkLDGWEQ7kNvwExusUE&_nc_oc=AdkzALZ2jTNSgbReQbQlKKpvcQ62ZBGSlUCV4sEq1uqoQXAu39cbU-Bm2YaDZSg_ruc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=erC4aMzFyytEfI2oWQXPKQ&oh=00_AfNzhZ4M_E1AW_X8LaM107QY44XPSSmfS_9hUADNKJYGug&oe=68673761",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/495457272_1099337078899171_1084818265686373352_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tjpmsPkxMn4Q7kNvwG2m38y&_nc_oc=AdkmsljdtGOozQJgCDH4gvBwQl4_rtYCRTvNGnRrT4YVGBJro0OVq7_PL35ocsYGLAg&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=2nwdazDaf9MKkf7x9dxrIQ&oh=00_AfRnLe3qxqDROlYWX3nQSCfW5jrR2huxrBwHoBWKs_IHEw&oe=688E8C21",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",

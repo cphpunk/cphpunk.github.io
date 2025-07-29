@@ -94,5 +94,37 @@
     "platform": "Facebook",
     "page_name": "Husets Biograf",
     "page_url": "https://www.facebook.com/HusetsBiograf/events"
+  },
+  {
+    "id": "kk-nordlys",
+    "name": "Nordlys",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Nordlys tolker og udforsker den skandinaviske folk- og jazztradition. Med indlevelse, inderlighed og ærlighed deler de ud af deres musikalitet, og publikum bliver kortvarigt en del af den verden, bandet skaber. Med et særligt fokus på melodi og sound tager Nordlys publikum i hånden, holder fast og slipper først, når koncerten når sin ende.\n </p>\n <p>\n  Jazzskribent Niels Overgård beskriver det præcist i : “De er blandt frontløberne i en stille revolution af dansk jazz. De laver ikke larm med musikken. De laver larm med det inciterende nærvær og en holdning til den verden og tid som de befinder sig i” (\n  <a href=\"https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.jazzney.com%2F&amp;data=05%7C02%7C%7C9657b42a9693431e261d08ddae53090b%7C769058ab4487418f8b6cf4b48243edd7%7C0%7C0%7C638858393877831839%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=eP8HMOSUtVqOMkrvvzA%2BPQxnScJtv0kpuY07XzPA4%2BA%3D&amp;reserved=0\" target=\"_blank\">\n   www.jazznyt.com\n  </a>\n  )\n </p>\n <p>\n  Nordlys består af fire dedikerede musikere, der gennem årene har spillet koncerter over hele Danmark og i Europa, og som har flere albumudgivelser bag sig.\n  <br/>\n  <br/>\n  Jon Askjær – trompet\n  <br/>\n  Lasse Damsgaard – altsaxofon\n  <br/>\n  Harald Hagelskjær – kontrabas\n  <br/>\n  Magnus Munk Tækker – elguitar og pedal steel\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 13/2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med unummererede siddepladser.\n  <br/>\n  Forsalg: 125 kr. + gebyr / 140 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771009200,
+      "end_timestamp": 1771014600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/nordlys",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/4.png?itok=kZvkgBRn",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

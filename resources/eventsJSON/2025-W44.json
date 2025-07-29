@@ -12,7 +12,7 @@
       "name": "Empire Bio",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
       "bounds_ne_lat": 55.69187499999998,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1134110091723737/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7RCXSMgovf4Q7kNvwHiqfmT&_nc_oc=Adkij57voxdZQLQeTU9I8VnDg--c7GmENL_78cZrogj9LCQ2RdDjsX2L-upPNZqGZ6M&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=70IfNI8VPV2zRedSEaLHqQ&oh=00_AfMSUKXW_hDqh3TDUHE2DACn_Iug03LFtj3ldLP_BJSmEg&oe=686736EF",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k514CHPCBaEQ7kNvwHE6wsi&_nc_oc=Adm9tczO6NA21otZTudodhyb2WsRwhfxk8dHFERda7OcF9hZQSvviaGiRj5csWuOxas&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=IwrvkD-1Y_5tIDMGDSRcrA&oh=00_AfRDQseGaFhM-MiAb-1IGj9nnnsZxPQBzTAiKbijjBP9bg&oe=688E8BAF",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Empire Bio",
@@ -44,7 +44,7 @@
       "name": "K.B. Hallen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -57,10 +57,42 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/495654106822831/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485293931_1058950132928713_6462700429666396842_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gHnx3x_WGigQ7kNvwGjpJAB&_nc_oc=AdmW9OAZmb_pxRbZGBXglkh8VAH3mJwgjFOzJccsNF_xaxJksbFJYqRwrnoxFHuvvP4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Ub4ELV4AmSNJAsy55pKI7g&oh=00_AfPLKpIEaTEYFDk9kFgeo6jxE9xy9n5B26aTK6HB9rbdBA&oe=68673C71",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/485293931_1058950132928713_6462700429666396842_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hyFpNppIRU4Q7kNvwFgTPZE&_nc_oc=Adl26E9Z0fSlpcX1htWn1frPeB79irQm1F_YYo7g8G71tsKLdFWpi7tMW3UKmHRhOZ8&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=-hqy83Zea9APtHNQHroeUA&oh=00_AfSZdBmwqiAy4FDOv3HT1xFTssYNSK0M3PeI6ds0FX84IA&oe=688E9131",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "1375857340150487",
+    "name": "Småfolkets Hus",
+    "description": "Småfolkethus is a self-oganised legestue. Everyone is welcome! The cafè will be open for children together with an adult.",
+    "date": {
+      "start_timestamp": 1761991200,
+      "end_timestamp": 1762002000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1375857340150487/",
+    "image_url": "",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Folkets Hus",
+    "page_url": "https://www.facebook.com/folketshus50/events"
   }
 ]

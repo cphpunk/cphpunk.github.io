@@ -1,0 +1,66 @@
+[
+  {
+    "id": "kk-blaaly",
+    "name": "Blåly",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Med flydende trommegrooves, lyriske klavermønstre og æteriske klange fra strøget kontrabas skaber Blåly et åbent og ærligt lydlandskab. Trioen er drevet af musikkens evne til at forandre og fordybe, og deres udtryk balancerer mellem jazz, nordisk folk, klassisk kammermusik og poetisk minimalisme.\n </p>\n <p>\n  Blåly bygger deres lyd på fællesskab og nærvær – og inviterer publikum med ind i en musikalsk verden, hvor hver tone ånder. Musikken er melankolsk og lys, enkel og kompleks på samme tid, og den rammer både hjerte og intellekt.\n </p>\n <p>\n  I 2024 udkom deres anmelderroste debutalbum Nystalgi på April Records. Albummet blev Ugens Album på DR P8 Jazz og høstede både fire og fem stjerner i Politiken og GAFFA. I 2026 er trioen aktuel med nyt materiale og en kommende opfølger.\n </p>\n <p>\n  Barbara Fiig: Klaver\n  <br/>\n  Timon Matern: Trommer\n  <br/>\n  Johan Kjær Houver: Kontrabas\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 6/2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med unummererede siddepladser.\n  <br/>\n  Forsalg: 125 kr. + gebyr / 140 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1770404400,
+      "end_timestamp": 1770409800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/blaaly",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/1.png?itok=ooHho6l9",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-copenhagen-jazzexperience-celebrating-john-coltrane-100-years",
+    "name": "Copenhagen Jazzexperience - Celebrating John Coltrane 100 years",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Copenhagen Jazzexperience består af fire af dansk jazz’ største profiler – og sammen udgør de en kvartet med både international gennemslagskraft og musikalsk dybde. Deres to anmelderroste album Lazy Afternoon (2023) og Everything I Love (2024) har tilsammen rundet over 12 millioner streams verden over.\n </p>\n <p>\n  I 2026 fejrer gruppen 100-året for saxofonisten John Coltranes fødsel med en særlig hyldestturné. Coltrane står som en af jazzhistoriens mest indflydelsesrige skikkelser, og hans legendariske kvartet med McCoy Tyner, Jimmy Garrison og Elvin Jones har sat standarden for generationsskiftet i 60’ernes jazz.\n </p>\n <p>\n  Koncerten byder på både Coltranes egne kompositioner, udvalgte standards og stemningsfulde ballader – krydret med fortællinger om manden bag musikken. Det hele leveres med overskud, nerve og kærlighed til jazztraditionen.\n  <br/>\n  <br/>\n  Claus Waidtløw – saxofon\n  <br/>\n  Jacob Christoffersen – piano\n  <br/>\n  Daniel Franck – kontrabas\n  <br/>\n  Jeppe Gram – trommer\n </p>\n <p>\n  De fire musikere har spillet med nogle af verdens største navne og modtaget adskillige priser, herunder Ben Webster Prisen og Danish Music Awards. Når de står på scenen sammen, er der garanti for storswingende samspil, melodiøs improvisation og nærvær i særklasse.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag den 7/2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med unummererede siddepladser.\n  <br/>\n  Forsalg: 150 kr. + gebyr / 170 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1770490800,
+      "end_timestamp": 1770496200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/copenhagen-jazzexperience-celebrating-john-coltrane-100-years",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/3.png?itok=bdtCBxKp",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

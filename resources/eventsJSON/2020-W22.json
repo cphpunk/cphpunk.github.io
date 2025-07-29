@@ -12,7 +12,7 @@
       "name": "ICC Theatre - Improv Comedy Copenhagen",
       "address": "Frederiksholms Kanal 2",
       "city": "Copenhagen",
-      "country": "DK",
+      "country": null,
       "latitude": 55.676062500000015,
       "longitude": 12.574812500000021,
       "bounds_ne_lat": 55.67612500000001,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/678358802942155/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/98350367_1198862873778443_3749636548262363136_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=g8HFlgtlTWgQ7kNvwEzNjLT&_nc_oc=Adkn25Fck2o1lrMoGqUQHJaZ4NmI_SGgE_1fwPbCXBvR8QP3Giqy--nrRozVcin47IQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=JRsrkD8pZb6H8jmChSGzsA&oh=00_AfPOquISsBSDmCmREObrfNijiuImoU91eYDwBdbD2mbfwQ&oe=6888B37C",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t1.6435-9/98350367_1198862873778443_3749636548262363136_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MUIEyTQXaW4Q7kNvwG6K-4h&_nc_oc=AdlUUju43h8DxMhg3yowpt7zAWjCZ7txGAm5xSHIDkak86OfDhBfKsKLuo8lg3s5EHk&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=1UwnDClgCMsPBKPqCIYrgw&oh=00_AfTR-RCUKrprQoIAa9Pegh1oTjMfx9fmLP6kZunVXZMTkA&oe=68B0407C",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Copenhagen International Improv Festival - CIIF",

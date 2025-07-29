@@ -30,5 +30,37 @@
     "platform": "Facebook",
     "page_name": "Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "kk-the-orgelheimers",
+    "name": "The Orgelheimers",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  \"I kommer aldrig til at spille 3 år i træk til Vinterjazz Festival på Kulturhuset Islands Brygge!\", er der aldrig nogen, der har sagt, men de tog gruelig fejl.  Med mindre du læser dette før d. 30. januar, 2026.  I så fald har de stadig ret, hvis de havde udtalt sig således. Læser du dette efter d. 30. januar, 2026 er svaret nej, du kan ikke få dine penge tilbage. The Orgelheimers er stadig 2 orgler, trommer og guitar, stadig lige så langt fra at få et rigtigt arbejde, og stadig lige så tæt på næsten at kunne temaet i 'Tequila'.\n  <br/>\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 30/1 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med ståpladser.\n  <br/>\n  Forsalg: 100 kr. + gebyr / 120 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1769799600,
+      "end_timestamp": 1769806800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/the-orgelheimers",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/Design%20uden%20navn%20%284%29.png?itok=nGz-7qf0",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

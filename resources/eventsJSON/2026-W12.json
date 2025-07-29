@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-charlotte-skadhauge",
+    "name": "Charlotte Skadhauge",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Charlotte Skadhauge er et levende bevis på, at det aldrig er for sent at forfølge sin passion. I en alder af 58 år udgav hun debutalbummet 'Ræk ud' til flotte anmeldelser og stor publikumsbegejstring. GAFFA skrev blandt andet: \"Skadhauge sender en flaskepost fyldt med gode vibrationer ud på musikkens hav.\"\n </p>\n <p>\n  Nu drager hun på turné med et stærkt hold af musikere, der tæller navne fra blandt andre The Savage Rose, Lis Sørensen og Jonah Blacksmith. Sammen skaber de en koncertoplevelse, hvor inderlig pop og intens rock går hånd i hånd – alt sammen båret af Charlottes sikre vokal og nærværende tekster.\n </p>\n <p>\n  Sangene kredser om forbundethed, længsel og håb, og formidler en tro på, at vi alle kan finde vores plads – også selvom vejen dertil kan være lang. Det er ærligt, modent og fuld af livsmod.\n </p>\n <p>\n  Glæd dig til en inspirerende aften i selskab med Charlotte Skadhauge og hendes band:\n  <br/>\n  Søren Bigum (guitar), Mikkel Riber (bas), Anders Holm (trommer) og Christian Vuust (saxofon og keyboard).\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 20. marts '26\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 125 kr. + gebyr på billetto.dk  / 150 kr. i døren\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774033200,
+      "end_timestamp": 1774040400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/charlotte-skadhauge",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/Design%20uden%20navn%20%282%29.png?itok=bIiKBpME",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

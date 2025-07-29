@@ -364,7 +364,7 @@
       "name": "Artillerivej 167, 2300 København S, Danmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.65331250000001,
       "longitude": 12.56843750000003,
       "bounds_ne_lat": 55.65337500000001,
@@ -377,7 +377,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/569507788966570/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/491685349_1224314293028835_6979616706831587345_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=H6nJFWoqgLAQ7kNvwFufpL3&_nc_oc=AdmIefW6CBXpg8ssDsP4bc2S2JCBmIgEchuSl3eYJEyEh1FWVcc_tXcaDYpWL5gflR0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=5F17E7bcTXfZ9l7hFtrR9g&oh=00_AfMvKRZ7Jg2mlSKj3hKfmIkG3LqUJleK7AlLxe076AyTqg&oe=68670D43",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/491685349_1224314293028835_6979616706831587345_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SfIlBLq_8iYQ7kNvwHUJ1SY&_nc_oc=AdlZAEiq64jYGbcK4x_WgXmqpPOXsnltvrtDlgEIEU1_soXTMW1vJtxvgess51UN1pc&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=8OgdtL82yuL_IUQKLgyDwQ&oh=00_AfQagQfAtnNnI1mJtWqqHlCV6Ew6YEge_lAzyZspeo2ZkQ&oe=688E9A43",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",

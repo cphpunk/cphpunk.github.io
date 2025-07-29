@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-a-rush-of-coldplay-paradise-tour-2026",
+    "name": "A Rush of Coldplay – Paradise Tour 2026",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Coldplays konceptuelle mesterværk Mylo Xyloto fylder 15 år, og det fejrer tribute-bandet A Rush of Coldplay med en koncert spækket med hits og lysmagi. Publikum kan se frem til en aften fyldt med Coldplays mest elskede numre – fra Paradise og Every Teardrop Is a Waterfall til klassikere som Fix You, The Scientist og Viva La Vida.\n </p>\n <p>\n  A Rush of Coldplay har siden 2012 begejstret publikum som Nordens eneste dedikerede Coldplay-tribute. Med mere end 100 koncerter i bagagen formår bandet at genskabe den særlige Coldplay-stemning med autentisk lyd, visuelle effekter og scenografi inspireret af de originale liveoptrædener. De farverige instrumenter og lysopsætningen skaber en atmosfære, der minder om at stå midt i et Coldplay-show.\n </p>\n <p>\n  Paradise Tour 2026 er ikke en kopi af Mylo Xyloto, men en stemningsfuld og energisk fejring af albummets stærkeste numre – kombineret med højdepunkter fra hele Coldplays karriere. Det er en koncertoplevelse for både hardcore fans, nye lyttere og alle, der savner den særlige følelse af fællesskab, når tusindvis synger med på sange, der samler generationer.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag 30. maj 2026\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 225 kr. + gebyr / Køb i døren: 250 kr.\n  <br/>\n  Koncerten er med ståpladser.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1780164000,
+      "end_timestamp": 1780171200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/a-rush-of-coldplay-paradise-tour-2026",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/AROC-landscape.jpg?itok=Q4YI1tcH",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

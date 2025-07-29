@@ -1388,7 +1388,7 @@
       "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.70481249999999,
       "longitude": 12.581687500000001,
       "bounds_ne_lat": 55.70487499999999,
@@ -1401,7 +1401,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/719682133768469/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/504207578_1813671506078899_7012750536528830547_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cajf-VkNnXkQ7kNvwEvW57Z&_nc_oc=Adn26B6_pesQyh6rW6PgnxAAcR5u8xHJhH5o81WJZ2cBCm69S5ZpibJLrX-9OTKJgFw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=BOPzuYYYbJ7mJfKzbXqfTg&oh=00_AfMaNNtSGa0v5O0ieXeuS2if1HMUtFT-YHcLH6sdmVTHxw&oe=686725EB",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/504207578_1813671506078899_7012750536528830547_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7UncwT_A9JwQ7kNvwGr-Acp&_nc_oc=AdngCCjfSeZOdD2K-IpfoA8j39-Fhh_DtsmsaIx-x9N20-qH_SLFq2Bomic_vd2YprI&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=F0XYD7ByQ8nQdolQ1N90mQ&oh=00_AfSNEvUzhHdI9m-nphKImCbftuzzd9u22FvGfsrG3AUefg&oe=688EB2EB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Villa Kultur",

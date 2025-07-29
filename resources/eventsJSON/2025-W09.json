@@ -4012,7 +4012,7 @@
       "name": "Jægersborggade 52, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.693687499999996,
       "longitude": 12.542812499999982,
       "bounds_ne_lat": 55.693749999999994,
@@ -4025,7 +4025,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/2495204647569079/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490763807_1241504667976267_8897966264621419198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VQU5TgizRSIQ7kNvwH4nx3p&_nc_oc=AdmQ-fyxGB15W8ErWLCrXtnq7v9FMngJ-sDvgD7Cdnzgqy9KQEm3qn-6WEEm1nIEfcU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VxmsVLLba6d6Q5fsvXrH5Q&oh=00_AfOIrDqSQYtskwRTwQsLLLaYxAWNa3LuyY8VeMq3UzfjHA&oe=6867158B",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/490763807_1241504667976267_8897966264621419198_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vpFSdj_4omUQ7kNvwG8NqE_&_nc_oc=AdmcjGT4fIX9uVgrv5fkV_3p9avcFYbrNMODYc1y7TWstVosLvzxvGUfv-1cyalvbok&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=-6NfdK9SiwgyFVu3bxucJw&oh=00_AfRwxvLt_lDdAvY-_aU01Op3JpnAhPhtpFoQOMNefF6WGw&oe=688EA28B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Jægersborggade",

@@ -76,7 +76,7 @@
       "name": "Bremen Teater",
       "address": "Nyropsgade 39-41",
       "city": "Copenhagen",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
       "bounds_ne_lat": 55.676625,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1218809345830408/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/491717788_1224654909661440_2147984412451758934_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rLlqzLhj6hMQ7kNvwHLfLCO&_nc_oc=AdkcTndejsNjnKaCIBkf55L0w_PAoSuKMrm-crUxs4KGGgFKiYQAliIIv4MrJtuwcvA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=SVrhj8TKCEkUNjXoC_wnEA&oh=00_AfOCx3eEWRpjMAFL6cUHbica-M4PWNBer8CNwvNZCzUGjQ&oe=68673F39",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/491717788_1224654909661440_2147984412451758934_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k61K6i3hOHkQ7kNvwGv6yga&_nc_oc=AdldicXig3je04NDZ61e-KUlrT4UcLrneZHreJkg11VkrgNftKKxkFkSiIGk0NF4xfI&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=66i69Zobxg4y6GvoyWgu1A&oh=00_AfQdLJcZDMu522n2NL-eWvtWeaSYSM5JHxp83wX1jY4FGw&oe=688E93F9",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "BUSTER Filmfestival",
@@ -121,7 +121,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/561712239520677/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490668890_1223690423090418_1573947715403175179_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iSCu-vsM02UQ7kNvwG-Z0Qb&_nc_oc=AdnkY8Vd0PBKJVOXxJq4gU_MCsPVzuz-Bw7ELoqQVd8arckAQN4Bs0ECQZUxVBGsAMM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=_9mP9czOHQhVY20ByxId_Q&oh=00_AfGXUS1vGsYcannGG88epLnZ9EPLzWGc2JMCs-9MAmDG0Q&oe=680C1710",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/490668890_1223690423090418_1573947715403175179_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mLF7s_3ThdkQ7kNvwH123PF&_nc_oc=AdkVJA5fAypy6N_bRO5M5O9cWLZ_-_6E_ZKc_ODGE1GehEGuT9ZmiZCE_o7TigFuZ0k&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=5vrhSb8hSkooX9-09ErGJQ&oh=00_AfRiYLedrR4VTcFKkEyuiPPdP_fQMOpKTfCa9R7shjJZFQ&oe=688E9B90",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",

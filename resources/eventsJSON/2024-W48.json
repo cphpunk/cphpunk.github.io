@@ -44,7 +44,7 @@
       "name": "Cinemateket",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
       "bounds_ne_lat": 55.683250000000015,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/566757632680108/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481277380_1490935791824162_8367935473509692666_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2E4Q08m1TMgQ7kNvwESmmTA&_nc_oc=AdlCquU7f6ElNdGUTFnFngqPDnkRYZU9sEqpSIT2ftvzznNRrkeLtqI-ruYQ-7z_exM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=NtoIR6WHsdt3D3lvyBaM_g&oh=00_AfPnbjGR46hl5XeJKVke9jqzgFaqawiObJkesruCjXBgZA&oe=6867305A",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/481277380_1490935791824162_8367935473509692666_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SwlEV5CFH0UQ7kNvwHFpx7u&_nc_oc=Adn_pu9rYCqQam04pW5uhh0ohMcBtQ6fPgqzTkOxvhrdS_LODvFX3Utnut8o5gl-R3o&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=RhMSr7vhNblpDbaLco2Pxw&oh=00_AfQ3n6KKAzH7ukmP3WI8Mg25wlXam66joa3Jw0MJBo4QbQ&oe=688E851A",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",
@@ -76,7 +76,7 @@
       "name": "Sundholmsvej 46, 2300 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.65956250000001,
       "longitude": 12.595687500000011,
       "bounds_ne_lat": 55.659625000000005,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/532496823001743/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/492189605_1225920279534099_2326160123085579120_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=L1cOMI3XeIQQ7kNvwHapTbG&_nc_oc=AdlPmboMrFpEqCowUKhN2k40dHZkQ5iLl2rZyi5jfIAT-nkLjMFB4TMVAASILscktbA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=FyGG5eMZtj9Eh59ZxU5AAw&oh=00_AfFs4YaYIuuLNmoQZGzNbXuJAmYyGgMni-fGj-6sAdYyag&oe=680C11F7",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/492189605_1225920279534099_2326160123085579120_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HeCspWsaCzUQ7kNvwE4d9yF&_nc_oc=AdkAzQ9wSd4tgLzTp0giABWced5sVkB3LVBzeV_pLouuiq1LBwha4usWEFHOlfq3d0M&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=Hv9PSXjDJGfJVjDBzGl-Rg&oh=00_AfTVb0rb1DbvpycLxGEEZRBaMAADM4ldEvsLdQ-sFv0huw&oe=688E9677",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "FABRIKKEN for Kunst og Design",
@@ -102,13 +102,13 @@
     "date": {
       "start_timestamp": 1733077800,
       "end_timestamp": 1733085000,
-      "timezone": "UTC+01"
+      "timezone": "Europe/Copenhagen"
     },
     "location": {
       "name": "Studiestræde 24, Copenhagen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.678437500000015,
       "longitude": 12.568687500000024,
       "bounds_ne_lat": 55.678500000000014,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1379462659693638/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/472924305_122147330894359067_4673486710149780488_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dAFIMweufXoQ7kNvwEMZkCb&_nc_oc=Adnvk0OlOIgpqFRk9MSetNYnVfIM_QYzMi6AzFNgcFNFrOdVUvvwRSgkkSmgo5ecnYg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=f7hL86jkgweylQENklx74Q&oh=00_AfNNc0tVTXr4UMLjkpbwbMo1jVsX3XDawkm3vLNOikD3Yg&oe=68671C10",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/472924305_122147330894359067_4673486710149780488_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IXPSk797IfcQ7kNvwGv_icj&_nc_oc=AdlswOhcDJqvnOG59nrgUsBQvgYVb4ZNbLJ-XMDW01feOybLrF3CWykHJWD2FXyuB9E&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=c7nTko2Mmp5t4ttmD8TAvA&oh=00_AfRlUaLqfswLsEW_cQi6NKl7dgru40M9PHoZ3eVJEih64g&oe=688EA910",
     "tag": "QUIZ",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH Verified account",

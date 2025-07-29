@@ -1,0 +1,98 @@
+[
+  {
+    "id": "kk-soeren-baun-kvartet",
+    "name": "Søren Baun kvartet",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Glæd dig til en aften i selskab med den danske jazz- og soulartist Søren Baun – også kendt som BAUN – som med sin karismatiske stemme, funky tangentspil og smittende energi skaber en nærværende koncertoplevelse. Med sig har han sit stærke liveband, og sammen tager de publikum med ind i et musikalsk univers af jazz, soul, R&amp;B og funk.\n </p>\n <p>\n  Repertoiret består af sange fra det anmelderroste album Beginnings (2024), helt nye numre samt BAUNs egne versioner af udvalgte evergreens. Musikken er både groovy og melodisk – og appellerer til dem, der værdsætter varme, håndspillede og livsbekræftende koncertoplevelser.\n </p>\n <p>\n  Søren Baun har optrådt på scener i New York, Madrid og Rio de Janeiro og samarbejdet med navne som Mathias Heise, Thomas Fonnesbæk og Jakob Dinesen. Han har også markeret sig som bandleder i Acoustic Lounge, der har rundet tre millioner streams med moderne jazzfortolkninger af bl.a. Sting og Pharrell Williams.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 20/2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med unummererede siddepladser.\n  <br/>\n  Forsalg: 150 kr. + gebyr / 170 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771614000,
+      "end_timestamp": 1771621200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/soeren-baun-kvartet",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/Design%20uden%20navn%20%287%29.png?itok=rX63jSfr",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-sinne-eeg",
+    "name": "Sinne Eeg",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Sinne Eeg er kendt og elsket for sin sikre intonation, rytmiske præcision og karismatiske sceneoptræden – og betager publikum i hele verden. Hendes repertoire spænder fra den amerikanske jazztradition til egne stemningsfulde kompositioner med en nordisk, melankolsk tone.\n </p>\n <p>\n  På scenen tager Sinne Eeg chancer med frydefuld musikalitet. Hun mestrer scat og frasering med en overskudsfyldt lethed, og hendes sjældne indlevelsesevne skaber et nærvær, der rækker helt ned til bagerste række i salen.\n </p>\n <p>\n  Med sig har hun sin faste kvartet – en samling af nogle af Skandinaviens mest rutinerede jazzmusikere. Sammen skaber de en koncertoplevelse, hvor både musikalitet og humør er i top, og hvor niveauet er fuldt ud internationalt.\n </p>\n <p>\n  Sinne Eeg har udgivet 10 albums i eget navn og modtaget en lang række priser – herunder fem Danish Music Awards for Årets Vokaludgivelse, Ben Webster Prisen og Dronning Ingrids Hæderslegat.\n  <br/>\n  <br/>\n  Sinne Eeg – vokal\n  <br/>\n  Jacob Christoffersen – piano\n  <br/>\n  TBA – bas\n  <br/>\n  TBA – trommer\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag den 22/2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med unummererede siddepladser.\n  <br/>\n  Forsalg: 220 kr. + gebyr / 250 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771786800,
+      "end_timestamp": 1771792200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/sinne-eeg",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/7.png?itok=NGgCDkug",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-bobo-moreno-celebrating-tony-bennett",
+    "name": "Bobo Moreno - Celebrating Tony Bennett",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Bobo Moreno – Danmarks førende crooner – indtager scenen med charme, overskud og en stemme, der favner hele følelsesregisteret. Denne aften er dedikeret til én af jazzens allerstørste stemmer: Tony Bennett. Med stor kærlighed til originalmaterialet og sin egen karakteristiske stil fører Bobo publikum gennem en perlerække af klassikere fra det amerikanske sangskatkammer.\n </p>\n <p>\n  På scenen flankeres han af et stjernespækket hold af jazzmusikere: Claus Waidtløw på saxofon, Søren Møller på piano, Matthias Petri på bas og Janus Templeton på trommer. Sammen skaber de en levende, swingende og rørende hyldest til en kunstner, der formåede at forbinde generationer gennem sin stemme.\n </p>\n <p>\n  Bobo Moreno – vokal\n </p>\n <p>\n  Claus Waidtløw – saxofon\n </p>\n <p>\n  Søren Møller – piano\n </p>\n <p>\n  Matthias Petri – bas\n </p>\n <p>\n  Janus Templeton – trommer\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag den 21/2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med unummererede siddepladser.\n  <br/>\n  Forsalg: 220 kr. + gebyr / 250 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771700400,
+      "end_timestamp": 1771705800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/bobo-moreno-celebrating-tony-bennett",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-07/Design%20uden%20navn%20%2810%29.png?itok=Zrm3wdwp",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

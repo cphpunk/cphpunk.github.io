@@ -76,7 +76,7 @@
       "name": "Christianshavns Voldgade 52, 1432, København, Hovedstaden",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67143750000001,
       "longitude": 12.596312499999996,
       "bounds_ne_lat": 55.67150000000001,
@@ -89,7 +89,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1175567864099253/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/484114682_1279513263734915_4456124494079475564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xRwwdOyL1hcQ7kNvwEZ29bG&_nc_oc=AdkNIg-P3tGXVRPkDyW-uKHES7qCtuxkJORLEO0Y_2EKeRHapoTVUOD04Taj1x6AlaQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=K37hXLEVjmAB684dgtF_KQ&oh=00_AfMF-R_bX06cKsyf6msghfuro3MuLaYO-B-Mh-nU4ClLbg&oe=68672723",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/484114682_1279513263734915_4456124494079475564_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jn8C5lVWOj4Q7kNvwFvOQny&_nc_oc=Admq9jwKxZNriWOKoRwdtjrN8Cu2U4FROf8L-B8aZ9Ty3GM2GrpCDpKMEKsCulZKCPg&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=D9o26RnkCGh38Cwd8Da5xA&oh=00_AfTsLDz0GJRL62WkAzIE6c5AfynmcTQ2G0hBQtjdW3uiPw&oe=688EB423",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Photo Festival",
@@ -162,7 +162,7 @@
   {
     "id": "990592479828318",
     "name": "Reception for ellevte og sidste nummer af MÅL",
-    "description": "MÅL inviterer til reception på den nyeste udgave af tidsskriftet, som også bliver den sidste. Efter fem år og mere end 800 sider om fodbold, er det på tide at stille støvlerne. Ellevte nummer fuldender vores startopstilling, og vi slutter med et brag: oplæsninger, drinks og bladsalg i Villa Kultur. Alle er velkomne, og det er ganske gratis.\n\nSiden det moderne fodboldspil opstod i 1863, har sporten undergået talrige forvandlinger. I dag er fortidens sorte støvler overtrukket med farver, linjedommeren afløst af semiautomatisk offside, og spillerne er begyndt at klippe huller i de lange strømper for at lette trykket på lægmuskulaturen.\n\nMåske er det netop disse ubetydelige detaljer, som nutidens børn en dag vil mindes, når de skal forklare deres børnebørn, hvorfor netop dette årti var noget særligt i fodboldhistorien. Det er som regel ens formative år, der huskes i et særligt lys.\n\nNogle ser nostalgisk tilbage på dengang, hvor boldene blev fremstillet af svineblærer og pustet op med munden, mens andre sukker efter tiden før VAR. Generationerne X, Y og Z har hver deres opfattelse af, hvornår fodbolden var på sit højeste. \n\nNostalgi kommer af det græske nostos (hjemkomst) og algos (smerte). I dette ellevte og sidste nummer af MÅL har vi bedt skribenter fra forskellige generationer om at udforske nostalgiens bittersøde smerte. \n\nHvornår var fodbolden egentlig på sit højeste? Kan vi tale om en gylden epoke, eller vil svaret altid være generationsbestemt? Og var alting virkelig bedre engang?\n",
+    "description": "MÅL inviterer til reception på den nyeste udgave af tidsskriftet, som også bliver den sidste. Efter fem år og mere end 800 sider om fodbold, er det på tide at stille støvlerne. Ellevte nummer fuldender vores startopstilling, og vi slutter med et brag: oplæsninger, drinks og bladsalg i Villa Kultur. Alle er velkomne, og det er ganske gratis.\n\nPROGRAM\n17:00 Redaktionen byder på fadøl\n17:30 Oplæsning: Asker Hedegaard Boye\n18:00 Oplæsning: Madame Nielsen\n18:30 Oplæsning: Onkel Hawaii\n19:00 Forlænget spilletid\n\nOM ELLEVTE UDGAVE\nSiden det moderne fodboldspil opstod i 1863, har sporten undergået talrige forvandlinger. I dag er fortidens sorte støvler overtrukket med farver, linjedommeren afløst af semiautomatisk offside, og spillerne er begyndt at klippe huller i de lange strømper for at lette trykket på lægmuskulaturen.\n\nMåske er det netop disse ubetydelige detaljer, som nutidens børn en dag vil mindes, når de skal forklare deres børnebørn, hvorfor netop dette årti var noget særligt i fodboldhistorien. Det er som regel ens formative år, der huskes i et særligt lys.\n\nNogle ser nostalgisk tilbage på dengang, hvor boldene blev fremstillet af svineblærer og pustet op med munden, mens andre sukker efter tiden før VAR. Generationerne X, Y og Z har hver deres opfattelse af, hvornår fodbolden var på sit højeste. \n\nNostalgi kommer af det græske nostos (hjemkomst) og algos (smerte). I dette ellevte og sidste nummer af MÅL har vi bedt skribenter fra forskellige generationer om at udforske nostalgiens bittersøde smerte. \n\nHvornår var fodbolden egentlig på sit højeste? Kan vi tale om en gylden epoke, eller vil svaret altid være generationsbestemt? Og var alting virkelig bedre engang?\n",
     "date": {
       "start_timestamp": 1749740400,
       "end_timestamp": 1749747600,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/990592479828318/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/489926117_1217587843693838_4877515481954496441_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=32-QcoPGsJsQ7kNvwEtgpgi&_nc_oc=AdneRqpctTksYiQGUHHlLXeXDl2zCxEH8IYxjwZHvdNYqdptVYlliljbDeYmMmGD0Sk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=op8L4Ms41WF_KIh20dNzNw&oh=00_AfGlsLg8BgklXhOwxn8fGPB0c1F9nKA48v-S6s05zLbaUg&oe=68041E4E",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/496873387_1242220857897203_9062896706473963112_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2NyIDqirnWgQ7kNvwHPL-oD&_nc_oc=Adl-NQkpqs9URL59giS_sb7ehfG2EVqbHCXlEHAymSup70n8Z-OSHPiHsJuujQQ5fFI&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=UxRWoT_iNx8B0ncHw6qljw&oh=00_AfS-MTPpX1lQIPbPKA657X5RhHI2e-uNrSI9NUJVB9aAUg&oe=688E9969",
     "tag": "SPORTS",
     "platform": "Facebook",
     "page_name": "Villa Kultur",
@@ -569,7 +569,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/23971596002424389/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495051466_1787213182058065_7938834123498039208_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kcvgYRibKxAQ7kNvwHhgG08&_nc_oc=Adkus0H4pxP4nl7VsKX21sACNubAY1k-v6kkKSsyx63uDCmHN9FXvgkZUPIr7GwD_JE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=XReD0cFXYLgNP4cfPqAPAw&oh=00_AfL9Zzxh1caL7N_VAkmd-4L1M7sked02SNCJm42BH4kmDQ&oe=68284DA2",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/503808874_1811145906331459_4230150638492997909_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9oJwvZ8pCOsQ7kNvwFxVyFd&_nc_oc=AdkbtXs1cIK8LWufiGM07pELYKVgpPqMrG20wKoTFp2E0pNJCPFHzVBx7bXfn45uhI4&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=5UvpoAolVHyhT9LV2xSbFg&oh=00_AfRWu6rMvCFly1GKB3e0Qg-saY9FmtHgsJnziGpykHwKhg&oe=688E8081",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Villa Kultur",
@@ -1017,7 +1017,7 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/720572293689582/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/495381957_1089335376564184_6475674829001251272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7tEBZE_CnB8Q7kNvwF7Fddf&_nc_oc=Adl3G4JPOSNO3pAW5OHUpaP6Izu0gCuKwt5CfStGZpjRoQeIlKndWucTasH46nP1FSM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=u9be6UcJfyETdjdCAPFX4g&oh=00_AfPiz9J4buX-nimcOxsPO9H8oQAv0yHl-7UTxcpc-KjFgg&oe=68670DAB",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/495381957_1089335376564184_6475674829001251272_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CXRnxyeXv0cQ7kNvwGzuGU3&_nc_oc=AdnresuTpENfh06kcJ1DWpLzrx8MnTTjVoDZydJdFW4CxHx2dnb6f1zSaFl-3lbYTrI&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=UX4PezbVhs6QgMnyRgEb0g&oh=00_AfTiTMxmhU9mYXBAoMABpRubAG6ToV45fyVUmKXNaeK7-A&oe=688E9AAB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
@@ -1068,7 +1068,7 @@
       "name": "jægersborggade, 2200 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.6923125,
       "longitude": 12.5444375,
       "bounds_ne_lat": 55.692375,
@@ -1081,7 +1081,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1203931027680315/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/502663604_1126970746127019_4036806625416465590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I6mElhz2IggQ7kNvwFf3EQw&_nc_oc=Adkiuq3AtrDGrHFUIbI6bXPxYzxXYlfTYsZgVdeWqVvq_2u7Lf_IGW6v0MnxQLVTPmY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=4aXpLfPPffXo15O3fxSrpw&oh=00_AfN0iVcTm-MWhKfg1n_PRDD5CNRpDra8kkR-B_nxPaHlsQ&oe=68671046",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/502663604_1126970746127019_4036806625416465590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lOaCHChPZm4Q7kNvwFS1asM&_nc_oc=Adn5YjMHFDzazgxhHnFPvJh39FOo4z9eeJhF1-WDnp2iVhOI08o6gj8RBQRIuRMwyio&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=7YAGTEfOk1uVYWXp4AYGRg&oh=00_AfSJoq-VX8BDqMawh5q_QHF4nej4sb4fzy0q8PyNlVQ1bw&oe=688E9D46",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Jægersborggade",
@@ -1164,7 +1164,7 @@
       "name": "Christianshavns Voldgade 52,, 1432, København, Hovedstaden",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67143750000001,
       "longitude": 12.596312499999996,
       "bounds_ne_lat": 55.67150000000001,
@@ -1177,7 +1177,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/508664065377770/?event_time_id=508664075377769",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/505830266_1349580410061533_835958057267571901_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sKlrApmFvW4Q7kNvwEOHMZZ&_nc_oc=AdloIPnDGmzPUZBfma41mEO0hP8FA4sjYpWlDeQUZyYjwYc1DF_I3t85kS3NzCVfiqM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=qc4MXRtqoxtuDFMyxi_wLQ&oh=00_AfNFQYaQhjfrzLbb50ULty0tHBB2Ef2xgb7XaajyOJT0Sw&oe=68672296",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/505830266_1349580410061533_835958057267571901_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IhgIIZbJo1AQ7kNvwE0Kyj1&_nc_oc=Adk4U1T0WBbmw80E1NNi39iTD1clKXTR3Fc6uAJalp9gv25-nIH10purfBwnoaQSC1A&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=wvrrFr4SL0313bvj4tbLcw&oh=00_AfQvqRFOsucLk5GEMAggEw4zz2ofJ0YSpU52WcEwLV7QmQ&oe=688EAF96",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Photo Festival",

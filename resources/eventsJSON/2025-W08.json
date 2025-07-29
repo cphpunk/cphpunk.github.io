@@ -524,7 +524,7 @@
       "name": "Herlev Bygade 70, 2730 Herlev Municipality, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.72531249999999,
       "longitude": 12.435687500000014,
       "bounds_ne_lat": 55.725374999999985,
@@ -537,11 +537,11 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/1342275473431819/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484983036_672322022018733_1128173658088281418_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=X-GTTbXpo6UQ7kNvwFDnD_W&_nc_oc=AdlHUBIsgGsIWNl72BRbDTnraveuIgl90kZn4ONXW_9OtObXfVrWQhfDHO2lL7iUtkA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=sxMBvn_z65MtYItYEgBJnw&oh=00_AfMQ35y3yoPYcan7-G4YFxQLO-bsSNoWZY1JVeySsqoveg&oe=68671701",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/484983036_672322022018733_1128173658088281418_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PBcxaW0XK38Q7kNvwHvXe6x&_nc_oc=AdmHw4MzcHjna3gIWDHZnle9SHPhV9LMd4gDV6UZwm9WOtS6K6fJcdKtWl3Aa1mcEfU&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=MrMb5950lID022BYDSR9Kg&oh=00_AfQkW2_DeMWj11KnbRhsT9iLxiM-1m3jgm4PfkXbJaUb9w&oe=688EA401",
     "tag": "QUIZ",
     "platform": "Facebook",
-    "page_name": "CPH ZINE FEST",
-    "page_url": "https://www.facebook.com/cphzinefest/events"
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
   },
   {
     "id": "1821465218673360",
@@ -1932,7 +1932,7 @@
       "name": "Ungdommens Demokratihus",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.668812500000016,
       "longitude": 12.560187499999998,
       "bounds_ne_lat": 55.668875000000014,
@@ -1945,7 +1945,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1175110234197135/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/487942509_1084721693697360_6327920450535994838_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5FXEGOBsc6gQ7kNvwEilt17&_nc_oc=AdktSdMB6a88iueOttZ8BCDCUOBscvq6T7njA727zy42NP3jIeu6i0Y7NXR-gUF69Mw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=U1O23ZxPpc7Yaj4FW6AWPw&oh=00_AfP3Kl5FnL0C7zWQVySFP0A9V-n7By7ii7XPQa-u_fxpEw&oe=68671F53",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/487942509_1084721693697360_6327920450535994838_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QRwj5kJKRdcQ7kNvwGK1Mf5&_nc_oc=Adn39Ff1I6Qg5duK7qbpWtv7iIis_0fDEBxRlBuQcsjdGcjv8S5DNlP3_MX8ggm2A38&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=fXM9lzHNj1DeFnIcqxAiUw&oh=00_AfTs_2Y684pVK0tOw7kKKuWOW9J9hgFaG4cJlHJ4fTuI7w&oe=688EAC53",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "MIX COPENHAGEN",

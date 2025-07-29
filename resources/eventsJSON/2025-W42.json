@@ -10,9 +10,9 @@
     },
     "location": {
       "name": "K.B. Hallen",
-      "address": "Peter Bangs Vej 147",
-      "city": "Frederiksberg",
-      "country": "DK",
+      "address": null,
+      "city": "",
+      "country": null,
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/3995354624040697/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/492716593_1115475177274647_6894731915009081504_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=McdQw3Y7S4UQ7kNvwHlqjFE&_nc_oc=AdnzkcmLreKN9oDAFp5zRBVyPbi7tt6T770kM3dkeK64ySSEji5hKeKNTxJOpfNTz60&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=yqziZQnB3euFEjQ4nXZGsQ&oh=00_AfNdGc_aErOoG1I06ew2NLGAgTHvSWa5ESfLNR3-P0u0Xg&oe=68670D6F",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/492716593_1115475177274647_6894731915009081504_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9KSYO5cae_AQ7kNvwFk6ZyI&_nc_oc=Adm-NznQDeqv8dvgeH0idOO2psQSoawAjQIlvdfEtkpuxQXKvAYcxjdDmmIydiHacG0&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=G984_LxW9fprPwrDqvU4sw&oh=00_AfT2RCwCGNTfmrbKkW5iAiQGZad8HyjHf-riXEJIWhlwNQ&oe=688E9A6F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -57,7 +57,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1391484798667253/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/497738857_1110574244437282_5396790212967654827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ap6VT6lNsGQQ7kNvwHvy9Wk&_nc_oc=AdlbQIxL3pTU3Nn6UUbL4jivWLQm2rRXu3J4h2zTCcWyqGD3e6cmJ17t0GaFbWX0Jy8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=X4Dh9e6WiMWgh_yrpdg4mg&oh=00_AfP7jDc_sfTJ5lwJ11lCMVjgJkVZrm9GzxyvjY4Ka7TpvQ&oe=686718D0",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/497738857_1110574244437282_5396790212967654827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SbdCYJCJ2SIQ7kNvwGPealW&_nc_oc=AdnabDGRZj8_ZCV5AfkdWJ_yQSRIy0K4BWlY8ACplg5bOVyMArqPRBhyDvozQT5NykU&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=Uh6vpf-8MJcV6BmMHxKqeg&oh=00_AfQ2rbkY_CZvfGOK2e8Ev6zszp0NeaXn5wlFHI6E_T-QoA&oe=688EA5D0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -172,7 +172,7 @@
       "name": "KB Hallen",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
       "bounds_ne_lat": 55.677625000000006,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1117296193282854/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/485140996_1058170496340010_680429645026358826_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0kVPU3qTVDkQ7kNvwFL3VBF&_nc_oc=AdkK8lYnELWHCxN2idMCflCFSpV6tUZw0iHfOKW6yQZCE9QbqUGRAvreO78NwV_PcE8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=HwzP6ETTO3OdDdUQQ_Au7w&oh=00_AfO5oDWSIHI3DkPX8s2sK4rXPYGXPC5C-evqNCyNmLlvBw&oe=68673718",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/485140996_1058170496340010_680429645026358826_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U09kBbinQ-QQ7kNvwFFbrpm&_nc_oc=Adm0Gmx_j9AtI6OG03XNUUaaa2LGTeYanvNH83dkDNl2-nOR-cByaH05X90NF_iXfa4&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=faWZipWeAyabeA7skSmzWQ&oh=00_AfSaDci5EPNqugS1pRYTB42LlEliwIKCt07V3A5_pbncvw&oe=688E8BD8",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",

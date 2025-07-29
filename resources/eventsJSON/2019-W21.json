@@ -12,7 +12,7 @@
       "name": "Embassy of Switzerland in Denmark / Schweizisk ambassade i Danmark",
       "address": "Store Kongensgade 128",
       "city": "Copenhagen",
-      "country": "DK",
+      "country": null,
       "latitude": 55.68956250000001,
       "longitude": 12.589437500000017,
       "bounds_ne_lat": 55.68962500000001,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/399433443988640/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/59632721_2054423581530123_5446848014066909184_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XkkOrwtfsbYQ7kNvwFhiAyG&_nc_oc=AdkbVPEpXkJRs2si5pIZfXDoIGpWlmV1Q9rVuA62D2eS3fwbDBfcfwx5ZlTcxQO5yVI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=qBdYHJQI0QQwIf_Ryzc9sw&oh=00_AfN2Kp2xPJ_mlmWFTj2jxp86l2a6W5ZM1zH7VmycDHtkOw&oe=6888C145",
+    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t1.6435-9/59632721_2054423581530123_5446848014066909184_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fa21s2EOk1gQ7kNvwF77M-z&_nc_oc=Admu7_FpDuTY5K5ulYga4uVYDColpiLyJCHFsZ5MPSgt0c50mfGfnECnAuAkPvXawmE&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=HVSHBiOcaxP8Wj1QU6gfhg&oh=00_AfQOngx3judTuRu6N6RAM8PNhbxXmI24rD_XxNPsrjJg8Q&oe=68B04E45",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "3daysofdesign",
