@@ -254,5 +254,37 @@
     "platform": "Facebook",
     "page_name": "Red Door",
     "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "657275790703697",
+    "name": "FAMILY DINNER @ HAVEN",
+    "description": "Why cook at home when you can eat better, for less?\n\nFamily Dinner is back at Haven 🌿✨\n\nA relaxed, no-fuss evening of generous, family-style food at a price that’s almost too good to be true. Delicious, cozy, and cheaper than making it yourself.\n\nTogether with Noels Restaurant & Vinbar, our head chef Nilas is serving up the comfort of a homemade meal, just better (and with no dishes to clean after).\n\nThis round’s menu:\n• Grilled lamb skewers with feta and herbs\n• Tomato salad with chickpeas and lemon vinaigrette\n• Tzatziki with flatbread\n\nAlternatives:\n• Grilled halloumi skewers (vegetarian)\n• Chicken skewers (kid-friendly)\n\nWhether you’re coming with kids, friends, or just yourself, there’s a seat at the table for you.\n\nAdults dine for 75 DKK, and children (under 12) eat for 35 DKK.\nGrab your spot here: https://shop.fresto.io/en/noels/booking/signup?expID=a80bed2d-f33d-42f5-a54d-5a2351bcc309\n\nLet’s make midweek dinners something to look forward to.\n\nSigurdsgade 39, 2200\n16 - 23\nDinner served from 17:30\nFree entrance – buy a ticket to join the dinner\nNo age limit",
+    "date": {
+      "start_timestamp": 1753365600,
+      "end_timestamp": 1753390800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurdsgade 39, 2200",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.703812499999984,
+      "longitude": 12.5553125,
+      "bounds_ne_lat": 55.70387499999998,
+      "bounds_ne_lng": 12.555374999999998,
+      "bounds_sw_lat": 55.703749999999985,
+      "bounds_sw_lng": 12.555250000000001,
+      "plus_code_global": "9F7JPH34+G4",
+      "plus_code_local": "PH34+G4",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/657275790703697/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/518292446_650082984758271_2080290315166235375_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jFKkPTY6wGgQ7kNvwFEGx-r&_nc_oc=Adnf2RhXTU7Edxm24W7Yu8TvynzmIIDAwAVSG6ZuoO8IuBUwjPMPH8v5Byb7bzzrQvE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=aek1Ya6SZMAQdryl49sDPQ&oh=00_AfZBXozb-7XIC_7FjjQp7pB733fmHbdnbnYIs9ie5UAgBw&oe=68D06090",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
   }
 ]

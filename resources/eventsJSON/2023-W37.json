@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Lokomotivværkstedet",
-      "address": "Otto Bussesvej 5A",
-      "city": "Copenhagen",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.659687500000004,
       "longitude": 12.549187500000002,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1158430628377768/",
-    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/484906513_9155740917857665_4038536275268796904_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0OwKUN2zzDgQ7kNvwGAHhev&_nc_oc=Adk1uA9HhUiVG63XKOg5mYz5fsqxKl-1ZKamzIPslbXEbEw34mqyKwdl-VxQ-pMKVAw&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=s5drSUWhsftIpvlryygfKQ&oh=00_AfTQfMd0BM3GCAmajosBkP0Oa8nYEQLIaf-JnzIbXApznw&oe=688E91F8",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484906513_9155740917857665_4038536275268796904_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pUwFUFZLxJEQ7kNvwEF4a8c&_nc_oc=Adm9n6TrHxx6UM0gfNgS6eUYI0B7gbyFLFCW1vc_f4FHWidZUNWbRGxFD-5i1qF8ADE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=SGY9i5n41kz6YxWiY63O_Q&oh=00_AfaMKzZS3Lkt-Tdnn4UIBRXSd6oXtYugyXSKmz5Ltg90Ug&oe=68D044B8",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "TechBBQ",

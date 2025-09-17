@@ -1342,5 +1342,37 @@
     "platform": "Facebook",
     "page_name": "Art Hub Copenhagen",
     "page_url": "https://www.facebook.com/arthubcopenhagen/events"
+  },
+  {
+    "id": "1544087399547422",
+    "name": "LIVE JAZZ - Every Wednesday",
+    "description": "Easy deal, jazz!\n\nProgram: https://livejazz.dk/venues/shesten-11808\n\nWednesdays from 20:00\n60 DKK entry\nCome early for good seats\nNo presale\n\nGood vibes only and respect the music.",
+    "date": {
+      "start_timestamp": 1755712800,
+      "end_timestamp": 1755723600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sølvgade 103, 1307 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69043749999999,
+      "longitude": 12.57206250000003,
+      "bounds_ne_lat": 55.690499999999986,
+      "bounds_ne_lng": 12.572125000000028,
+      "bounds_sw_lat": 55.69037499999999,
+      "bounds_sw_lng": 12.572000000000031,
+      "plus_code_global": "9F7JMHRC+5R",
+      "plus_code_local": "MHRC+5R",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1544086902880805/?event_time_id=1544087399547422",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/494104823_1352723783160284_8159924735639820588_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4lmKfZVpPPwQ7kNvwG5sSrx&_nc_oc=AdktYbqY14hD7ZbMHIeXlwj4rBgyldoqox8HxSFWDJA6x6R9MZhEVnvx1rAyRyMdrKI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=csCdRdd6YzbwRaR8ZAz4yg&oh=00_AfZXBzzmPLVj9PquGVohTJoO4F8Fdf8TNU7YiRZjQSzZYQ&oe=68D06125",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Søhesten",
+    "page_url": "https://www.facebook.com/Sohestenbar/events/"
   }
 ]

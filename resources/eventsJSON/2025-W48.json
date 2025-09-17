@@ -25,10 +25,42 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/9214440812005193/",
-    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/495516113_1249556183848756_1343953839498782798_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_rTZakN4fM0Q7kNvwEnmAFL&_nc_oc=AdlF6U-oVeWPQ0e2kqeJ3DvEoI1gqQNLXoyQ-u5NJ-7lVHiROzXf0QOYtI0qHchhbHs&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=q26flepMTMxb2WlkSXRchw&oh=00_AfQ_7JJgr2iAmWK99g4FHizEb-P2G4thwOiiGxFtP8G4jA&oe=688E8844",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495516113_1249556183848756_1343953839498782798_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pvkTkGVH9SgQ7kNvwEYwudG&_nc_oc=Adkvsc4vGqTWCSX9uY-X5g_T-5vFii1_H6xHWaHToAidEql76bfqEHpy3X1l6Ci6Zm0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=XSY4lp-TwbtlalvC2LYlDQ&oh=00_AfaicarreAsUfXwd2O1c_nA8Ax6BICdNSPovaV53mYQCQg&oe=68D03B04",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Nordic Adventure Film Festival - NAFF",
     "page_url": "https://www.facebook.com/nordicadventurefilmfestival/events"
+  },
+  {
+    "id": "787243510575724",
+    "name": "Lyden af ild – lydbad",
+    "description": "Slap af i et udforskende univers med improvisationer over ildlyde.\nSlagtøjsspilleren og komponisten Irene Bianco (IT/DK) vil stå for denne en helt særlige fordybelseskoncert.\n\nIrenes musik er blevet beskrevet som lydpoesi, der med varm nysgerrighed inviterer lytteren til at udforske det spontane, usædvanlige og unikke.\n\nInspireret af bibliotekets sæsontema vil Irene i koncerten reflektere musikalsk over temaet \"Ild\" som et symbol på lys og kraft og samtidig på ødelæggelse og renselse.\n\nIrene Bianco er italiensk percussionist og begyndte at spille trommer i en tidlig alder. Hun er uddannet klassisk slagtøjsspiller, og hendes musikalske inspiration spænder over alt fra barok og orkestermusik til 90’ernes rock og klubmusik.\n\nIrene er en aktiv slagtøjsspiller i den danske avantgarde- og eksperimentelle musikscene – både solo og i projekter som Damkapellet, Wolfskin Ensemble og Pio.\n\nHun udgav sit solodebutalbum “Kronblade” i oktober 2024.\n\nDu kan vælge om du vil ligge på madras eller sidde i lænestol, når du henter billet.",
+    "date": {
+      "start_timestamp": 1764181800,
+      "end_timestamp": 1764187200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Herlev Bygade 70, 2730 Herlev Municipality, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.72531249999999,
+      "longitude": 12.435687500000014,
+      "bounds_ne_lat": 55.725374999999985,
+      "bounds_ne_lng": 12.435750000000013,
+      "bounds_sw_lat": 55.72524999999999,
+      "bounds_sw_lng": 12.435625000000016,
+      "plus_code_global": "9F7JPCGP+47",
+      "plus_code_local": "PCGP+47",
+      "plus_code_locality": "Herlev, Denmark",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/787243510575724/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/542732312_1181904333973954_1398602648136824434_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k5hNMDqSgfEQ7kNvwFF5WEg&_nc_oc=AdmoXW-D88ZIXUmBIQa69DFQbU-Pjv0_wm0grmRCZ94Qu92T8c_ea1f7IlYRomLxvWU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=sAR7QJd_AKF1Ca6auI062Q&oh=00_AfbifF1AwgYwQJDJSgZ3Nim_YgE5lw2Tn9Cv5NbkcHDQ1w&oe=68D03A3A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
   }
 ]

@@ -734,5 +734,37 @@
     "platform": "Facebook",
     "page_name": "Folkets Hus",
     "page_url": "https://www.facebook.com/folketshus50/events"
+  },
+  {
+    "id": "1298346491947616",
+    "name": "CONCERT AT H15 ",
+    "description": "On the 4th of september, H15 and Marmelade Culture presents a colourful night of music with a diverse selection of acts from the Copenhagen scene. The acts will play 30 min sets. The doors open at 18.00 and music starts between 18.00 and 19.00\nEntre 75.\n\n\nABOUT THE ARTISTS: \n\n\nTRUTH RAY\n\nTruth Ray is a Copenhagen ghost floating in space. And indie outfit centered around the songwriting of lead figure, singer and guitarist Mads B D\n\nInto the corridor’s of modern british rock. Songs of love, loss and paranoia of imminent death. Blue guitar-swirls, hard hitting drums.\nPoetic lyrics clashing together in a tropical storm across the ocean.\n\n3 songs have been released digitally with praise and airtime from danish radio p6 beat. The band performance showcase the upcoming releases from Truth Ray.\n\n\nTIR & EA\nTir and Ea write introspectively and with attention to detail. Their songs are deepfelt ventures towards a sense of inner truth, in a genuine quest for meaningful expression of the themes that are prevalent in their lives. Ea has a soulful, unique and authentic sound, poetic lyrics and a love for elegance and the bigger picture. Tir is a harmonybuff and wordsmith, singing with an intense and precise silky bariton/tenor voice.  \n\n\nKÆRLIGHEDSPROLETAREN\n\nMed rå energi, overraskende tekster og pophooks, der sætter sig fast, leverer Kærlighedsproletaren koncerter fulde af nærvær, humor og intensitet. Hans sange bevæger sig mellem det sårbare og det vilde, hvor publikum både kan danse, grine og mærke efter.\n\n\nNORTHFALL\n\nNorth Fall er et københavnsk indie-projekt. Musikken bevæger sig i krydsfeltet mellem lo-fi folk, americana og drømmende indie-rock med vægt på stemning og stærke melodier. Debuten Outside It’s Growing Light (2014) høstede flotte anmeldelser, og opfølgeren Tie The Ends Tying Me (2016) udvidede lydbilledet og bandets koncertkalender. Efter en flerårig pause er North Fall tilbage for at skabe et nærværende univers, hvor sårbare tekster og atmosfæriske arrangementer folder sig ud i intime, men intense koncerter.”\n\n\nSWI$HA ICE\n\nSwi$ha Ice bevæger sig ind i et univers, hvor nostalgi møder fremtid. Med synthtunge lydflader, spacey arpeggios og farverige effekter skaber han en atmosfære, der føles både drømmende og eksplosiv. Hans musik er et astralt lydlandskab fyldt med ambience, ear candy og pulserende energi – inspireret af alt fra retro synths til moderne, futuriske klange.\nLyden er hverken bundet af mørke eller lys, men svæver frit et sted imellem – et sted hvor lytteren kan forsvinde væk, danse eller bare flyde gennem farverne. Swi$ha Ice’ mission er at skabe en oplevelse, der føles som at træde ind i en ny dimension, hvor man både kan mærke nostalgien og fremtidens uendelige muligheder.\n\n\nLILZTITCH\n\nLil Ztitch er en dansk artist med en energisk personlighed som bevæger sig i Pop, Hiphop og R&B genren. Han formår at skabe catchy hooks og ungdommelige tekster. blandt andet har han ramt top 50 virale hits med sangen “Drinks Med Citroner I”\n\nPå livescenen kan man forvente et show med fuldt fart over feltet, energi og gode vibes. \n\nLil Ztitch Har siden barnsben været en del af musik da han er opvokset i et hjem hvor musik var en del af dagligdagen. Hans bror har spillet klaver siden han var 4 år gammel og han begyndte selv på trommer som 12 årig.     \n\nLil Ztitch fokuserer nu på at udgive nyt musik, og har på seneste været med til en audition i Chatrecords som er stiftet af streameren Søndergaard.  Audition kan ses via instagram.\nUdvalget af dommerne var Boc rapperen Kesi, Rasmus Søndergaard, og produceren/musikeren Anton Westerlin. J",
+    "date": {
+      "start_timestamp": 1757001600,
+      "end_timestamp": 1757022300,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Slagtehusgade, 1715 København V, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66868750000002,
+      "longitude": 12.560937500000009,
+      "bounds_ne_lat": 55.66875000000002,
+      "bounds_ne_lng": 12.561000000000007,
+      "bounds_sw_lat": 55.66862500000002,
+      "bounds_sw_lng": 12.56087500000001,
+      "plus_code_global": "9F7JMH96+F9",
+      "plus_code_local": "MH96+F9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1298346491947616/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/542753051_10237364109504340_1214349493226760504_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=o6jTr84J5WgQ7kNvwGdbGt6&_nc_oc=AdnznjOxPPs-0SIZXKklla5C1QHWr3hcWbZUwde02zIrlLXo3YfVBTRYxYCOdUiUwrs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VQpWUyGHyndAL4_e6x0MOw&oh=00_Afagl5Kra0_ufFGjQQETzKpkzxIg1PYYecgz_zrm_lztng&oe=68D04602",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
   }
 ]

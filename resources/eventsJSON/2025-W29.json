@@ -268,7 +268,7 @@
       "name": "Vestergade 18E, 2. sal, 1456 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.67743750000001,
       "longitude": 12.569437500000035,
       "bounds_ne_lat": 55.67750000000001,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/722089053495554/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/497373874_648038014928238_3791948803834459270_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uabTHMauJeEQ7kNvwE8rSXb&_nc_oc=Adlkqez6NvBX_U9qf7Tr_WYi2e-UcT56V-vo-G_xFeQfX-Za5FrB8VTuS4o_IFY8MCQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=_vaUxFCQGW4V0GW7mm7hbw&oh=00_AfMBggzIUzJt2ANht6Sd-IRVyLuwZSkI7YnSmXMach4iPA&oe=686708EF",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/497373874_648038014928238_3791948803834459270_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=A0yRD-RhzBwQ7kNvwFjNr9V&_nc_oc=Adk9hMnqrlQarnp8y3NqpVKssLSZL0Bya617YQYshQ3xNUl6a9MQkvrhUu-z7FHGlTE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=G5xcS93poHYiDPVc4O08cA&oh=00_AfbknS_Wiljps0j5Pt0_vQbG-9GFntWz86WHlpit7WkGBA&oe=68D048AF",
     "tag": "YOGA",
     "platform": "Facebook",
     "page_name": "LGBT+ Medborgerhuset i København",
@@ -446,5 +446,37 @@
     "platform": "Facebook",
     "page_name": "Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1064048785618337",
+    "name": "SHE'S THE MOON CONCERT @ HAVEN",
+    "description": "We’re slowing time down at Haven with a live acoustic performance from one of Denmark’s most captivating new voices.\n\n🌕 SHE'S THE MOON brings her atmospheric alt-pop to the open air on Thursday, July 17 — weaving together tales of heartbreak, friendship, self-doubt, and fragile hope in a sound that feels both raw and refined. Expect hypnotic vocals, an emotional pull you can’t explain, and the kind of presence that makes you forget where you are.\n\nHer debut EP “What I Thought I Wanted” turned heads in 2024, landing her spots on playlists like Uimodståelige and Best of 2023 — and now, she’s ready to take over Haven with a full-length evening show.\n\nSigurdsgade 39, 2200\nDoors open 16\nEvent starts 19\nConcert starts 20.30\nFree entrance\nNo age limit before 22 \n21+ age limit after 22",
+    "date": {
+      "start_timestamp": 1752760800,
+      "end_timestamp": 1752786000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurdsgade 39, 2200",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.703812499999984,
+      "longitude": 12.5553125,
+      "bounds_ne_lat": 55.70387499999998,
+      "bounds_ne_lng": 12.555374999999998,
+      "bounds_sw_lat": 55.703749999999985,
+      "bounds_sw_lng": 12.555250000000001,
+      "plus_code_global": "9F7JPH34+G4",
+      "plus_code_local": "PH34+G4",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1064048785618337/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/502551512_612907928475777_8396825220432312990_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-yn1sTBuct4Q7kNvwEDraNj&_nc_oc=AdnCRe9uD4CKV_sFcmdUs6mp3klAdjaF4lQSyWo8TltIWIAYbnwl9t1xF9w_7WKYd8k&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=OATCQjnjKmNbqEFEGVoAgQ&oh=00_Afb4DSNexxfqu80cXYhX5PrOYf8gIb53l4cSZV-kgKDdTg&oe=68D05E9A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
   }
 ]

@@ -94,5 +94,101 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-poetry-unleashed-0",
+    "name": "Poetry Unleashed",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Poetry Unleashed is an open mic format where 12–16 poets present their own texts to the audience. The evening features two sets of poetry, a short break, and the chance to stay afterwards for a drink and conversation.\n </p>\n <p>\n  The event was established in Copenhagen in August 2023 and has quickly become a gathering point for poets, authors, zine creators, and anyone seeking a creative community around poetry. Each month, Poetry Unleashed brings together voices from across the world, offering the audience a unique glimpse into today’s diverse poetry scene.\n </p>\n <p>\n  The program is divided into two parts: the first set runs from 20:00 to 20:50, followed by a short break, and the second set from 21:05 to 22:00.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763145000,
+      "end_timestamp": 1763154000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Stardust",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/poetry-unleashed-0",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/Poetry_Unleashed_Huset%20%284%29.JPG?itok=ocab1dXk",
+    "tag": "COMEDY",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-triptides-us-the-sonic-dawn-dk",
+    "name": "Triptides (US) + The Sonic Dawn (DK)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  From sun-drenched Los Angeles,\n  <strong>\n   Triptides\n  </strong>\n  bring their kaleidoscopic brand of psychedelic rock, where shimmering guitars, airy vocals, and hallucinogenic fuzz melt into timeless sonic landscapes. On stage, the band is pure transformation – a trip that lifts the audience from the first note and never quite lets them down again.\n </p>\n <p>\n  Copenhagen’s own\n  <strong>\n   The Sonic Dawn\n  </strong>\n  have, across five albums and hundreds of shows, earned a reputation as one of Europe’s most explosive psych-rock bands. Their blend of soulful vocals, swirling guitar, and pulsing grooves has the power to turn a venue into a euphoric, dancing frenzy.\n </p>\n <p>\n  This double concert unites two bands who channel psychedelic traditions in their own unique ways – together promising an evening of sonic journeys where reality vibrates in tune with the music.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763316000,
+      "end_timestamp": 1763333940,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/triptides-us-the-sonic-dawn-dk",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-08/triptides%20%2B%20the%20sonic%20dawn%20web%201200%20x%20554.png?itok=uRE5QhlI",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "791465539942239",
+    "name": "Åbningsfilm - Empire Bio - The Toxic Avenger",
+    "description": "THE TOXIC AVENGER ER ÅBNINGSFILM PÅ BLODIG WEEKEND😎\n\nKom med til den legendariske og forrygende åbning af Blodig Weekend!\n\nDer er underholdningsgaranti, når vi sparker festen i gang med den vanvittige genindspilning af den i forvejen vanvittige kultklassiker ”The Toxic Avenger”🎬\n\nVi byder på øl fra vores samarbejdspartner Dry & Bitter Brewing Company, du vil kunne købe årets T-shirt og andet merch, det vamle og stinkende program venter på dig og så vil der være uhyggelig velkomsttale og gruopvækkende intro til filmen🍺👕",
+    "date": {
+      "start_timestamp": 1762970400,
+      "end_timestamp": 1762981200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": "Guldbergsgade 29F",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/791465539942239/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/544812592_1300130051905726_4308360530387848021_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XqWTmplj1swQ7kNvwFf5p05&_nc_oc=AdlmAEq5nElvNNuOyvC-_wbZT6-LQT-_0_ksFOh96vhsaqtPAuKYwKo5-5wtxzwsR3s&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=uFvwIdGbc7yAFbN8HpZDBw&oh=00_Afa9qOSp3fnzdpHuMyOj7wLTixsE-Fb01dePE_vM_rIgKA&oe=68D04E40",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Empire Bio",
+    "page_url": "https://www.facebook.com/empirebio.dk/events"
   }
 ]

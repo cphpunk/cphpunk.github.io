@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1090835736103229",
+    "name": "COPENHELL 2026",
+    "description": "See you next year! 💀🤘🔥",
+    "date": {
+      "start_timestamp": 1782295200,
+      "end_timestamp": 1782596700,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Refshaleøen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.693749999999994,
+      "longitude": 12.61624999999998,
+      "bounds_ne_lat": 55.69499999999999,
+      "bounds_ne_lng": 12.617499999999978,
+      "bounds_sw_lat": 55.692499999999995,
+      "bounds_sw_lng": 12.61499999999998,
+      "plus_code_global": "9F7JMJV8+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1090835736103229/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545764556_1239586534636672_1762638617613682825_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Kympcf_x-ssQ7kNvwHzvNaH&_nc_oc=Adn1FlHw2ib4PHPkO6zt5mdmHSnwEg_NMXedy0jWt8Jr-rCS_v0ZPq1Uur9j2tU-Nnw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=3hNcgOIPYjJ-YVy0iOF1jQ&oh=00_AfayxqFWq0k5LnIiwHpLpTaC1k_4-uQiljV94Uh3TXcV2Q&oe=68D06CA5",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "COPENHELL Verified account",
+    "page_url": "https://www.facebook.com/copenhell/events"
+  }
+]

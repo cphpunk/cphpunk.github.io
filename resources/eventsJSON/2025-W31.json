@@ -345,7 +345,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1077864097190149/",
-    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/522164632_725321500348936_2939152364083861758_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ol3sIUBxHlQQ7kNvwGHYJXb&_nc_oc=AdnMd2CDGMOJdHYJQyETrkorik3dcxvCCSv9lAI3yCH3x6oBD5o2uaQH9X7TgBuWU9s&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=v_dfZ7svYj7dMlqY_BUsNw&oh=00_AfRPA2XaTNSeMCR2jOHRzMcx6n3eiaPf9dQ3GS6ud0YBXg&oe=688EA72D",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/522164632_725321500348936_2939152364083861758_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bL85iwRf1UcQ7kNvwE01KCa&_nc_oc=AdlNYC1y0s-6zM9q2HuRMG43B2Cnmzj4JsAWrXVk-r2jBUAu-LuRjok8cM28mZ6V9dc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=VUDbV04HzwSYUnDLeq3HfA&oh=00_AfZdc5JkctvmXOUJKV-GfcfkkuzBJsTLOW2vltWdQT82-w&oe=68D059ED",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Olla Común Folkekøkken",
@@ -1854,5 +1854,37 @@
     "platform": "Facebook",
     "page_name": "Red Door",
     "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "1464126724615126",
+    "name": "Lightsdownlow_fergus & 2000F all night ",
+    "description": "Update news ! Master player 2000F joining tonight for your dance. Back from the Islands inspired and ready to kick off a new season of music and dancing. Free in as always. Lovely folks at the bar, man like Django on the door and us on the floor. Come dance and get your movement, rest and replenishment 🔊☮️🔊",
+    "date": {
+      "start_timestamp": 1754168400,
+      "end_timestamp": 1754190000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Søhesten",
+      "address": "Sølvgade 103",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.69031249999999,
+      "longitude": 12.57206250000003,
+      "bounds_ne_lat": 55.69037499999999,
+      "bounds_ne_lng": 12.572125000000028,
+      "bounds_sw_lat": 55.69024999999999,
+      "bounds_sw_lng": 12.572000000000031,
+      "plus_code_global": "9F7JMHRC+4R",
+      "plus_code_local": "MHRC+4R",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1464126724615126/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/526570220_1693204751418903_3220780523532440993_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=28yDz4u6MHwQ7kNvwFcE1Jv&_nc_oc=AdnELwqOS7GfkAJufln2wUplto3PgvNiKXELGUWjQOpP0rD-A7Ylf5OIVSLPZXnQSSg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=vl2_dP-t1GZwWRs95XKuSg&oh=00_AfYoRKJv5aEwhDW_a7B9TrTtEbQq0vcRDLc5ijNDjUUjyw&oe=68D06F0C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Søhesten",
+    "page_url": "https://www.facebook.com/Sohestenbar/events/"
   }
 ]

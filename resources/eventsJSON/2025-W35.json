@@ -766,5 +766,37 @@
     "platform": "Facebook",
     "page_name": "FLINT kbh",
     "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "1753308728558907",
+    "name": "BIO BIO @ HAVEN",
+    "description": "Bio Bio — Open Air Cinema at Haven 🎦🍿\n\nThis summer, Haven transforms into a backyard cinema under the sky 🌃 Welcome to Bio Bio — our new open-air film series where we’re screening cult classics, hidden gems, and unforgettable stories for free.\n\nWe’ve set the scene with a big screen, cozy seating, and a brand new popcorn machine ready to fire. The bar will be open, the evenings long, and the atmosphere casual — come by solo, with friends, or drop in midway through. \nIt’s cinema without the rules, just how we like it.\n\n\nUPCOMING DATES\n\n📽️ May 21 | 17 - 00\nPusher I–III (Nicolas Winding Refn)\nOur first night is Wednesday, May 21, and we’re kicking things off with a bang — all three films in Nicolas Winding Refn’s Pusher Trilogy. Raw, gritty, and iconic, these films helped define the Danish crime genre and launched Mads Mikkelsen's career.\nPlease note: These films contain graphic violence and are recommended for ages 15 and up.\n__________\n\n📽️ June 11\nValhalla (1986) vs Valhalla (2019)\nTwo films. One myth.\nFor the second edition of Bio Bio, we travel from Midgård to Asgård in the company of Thor, Loke, and two mortal children: Tjalfe and Røskva. First in the 1986 animated cult classic based on Peter Madsen’s beloved comics — then in Fenar Ahmad’s 2019 reimagining, where the gods are falling, and belief is breaking apart.\nIt’s a story about giants, goats, cosmic mischief, and the quiet power of ordinary mortals — told in two very different cinematic languages, across more than 30 years of Danish film history.\n__________\n\n📽️ June 25 |\nGammel Dansk\nThis Wednesday, we’re heading back to the good old Danish days — or were they really that great? Join us under the summer sky for a nostalgic comedy double feature, packed with commune dreams and crumbling fishing empires.\n\nTo help ease the flashbacks, we’ll be serving 𝑑𝑒𝑙𝑖𝑐𝑖𝑜𝑢𝑠 Gammel Dansk — the kind of shot people actually drank in the 70s and 80s, before we figured out alcohol could taste nice.\n\n🎞 Det Store Flip (1997)\nCopenhagen, 1972. Christoffer’s parents dive headfirst into hippie life with hash, communes, and Marx — much to his teenage dismay. \n\n🎞 Bornholms Stemme (1999)\nEarly 1980s Bornholm. Captain Lars Erik rules the waves — until fishing quotas and shifting tides threaten everything the island’s fishing kings hold dear.\n\nDet Store Flip will feature English subtitles.\n\n__________\n\n📽️ July 16 |\nHurt men hurt men\nWe’re diving into the gritty side of Copenhagen with two modern Danish classics:\n🎞 Nordvest (2013) and 🎞 Ækte Vare (2014).\n\nBoth films capture the raw pulse of the city’s streets, following young men caught between ambition, loyalty, and the harsh realities of the underground. It’s street-level storytelling with heart, violence, and a soundtrack that slaps – perfect for a summer night under the stars.\n\n__________\n\n📽️ July 30\nDruk (2022)\n__________\n\n📽️ August 13\nDen Eneste Ene (1999)\n__________\n\n📽️ August 27\nFidibus (2006)\n__________\n\nSigurdsgade 39, 2200\nFree entrance\nID required when purchasing alcohol at the bar",
+    "date": {
+      "start_timestamp": 1756306800,
+      "end_timestamp": 1756332000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sigurd CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70368749999999,
+      "longitude": 12.555187500000002,
+      "bounds_ne_lat": 55.703749999999985,
+      "bounds_ne_lng": 12.555250000000001,
+      "bounds_sw_lat": 55.70362499999999,
+      "bounds_sw_lng": 12.555125000000004,
+      "plus_code_global": "9F7JPH34+F3",
+      "plus_code_local": "PH34+F3",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1753308701892243/?event_time_id=1753308728558907",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/492569704_586592161107354_2583123254223131535_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zdrzDeG7URYQ7kNvwFaggjZ&_nc_oc=AdkRPJ8bpUiW8OuPragz38z_antxmVBDjwiyhhqWkidBeNfqSqPuZ0GRMlFyyJ_NYKg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Gsitt_ylPVZGhmblKeBRZw&oh=00_AfZc36WMUtLl2zzKR5G5Z-BRQ8stRPJWhv4pcsorrJZo3w&oe=68D058A8",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Haven CPH",
+    "page_url": "https://www.facebook.com/havencph/events"
   }
 ]

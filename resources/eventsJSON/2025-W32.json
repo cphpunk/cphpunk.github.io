@@ -1817,7 +1817,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/699299866602203/",
-    "image_url": "https://scontent.fcph2-1.fna.fbcdn.net/v/t39.30808-6/518408130_10236804992686769_6382770373872504049_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_LdEp58SlWgQ7kNvwGk2JI3&_nc_oc=AdlKCEDXSDUEknKnysQee55DGeN6aNeVOGXEbnnAlWqb26J-tSs8JOYeaqMHvyyz16w&_nc_zt=23&_nc_ht=scontent.fcph2-1.fna&_nc_gid=gYURLH9kvTN4UkDT3rQnrQ&oh=00_AfQ52enjt5m8uscxJ04_KMWLYStprUDJ1EDGNGibZzcFhw&oe=688E94C7",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/518408130_10236804992686769_6382770373872504049_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k41PgR1daKgQ7kNvwG8vrvM&_nc_oc=AdlsOY8yaLk8E4yAgo-SivJ2tYGrujAzPVduIL3lcNf0nRJdkzjeQedoWvknde4mQog&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=BMSc-NDdc-u1WPbUNDPLGw&oh=00_AfacQmIJid_jWRK-s71BUwOc_CxH8_u8Bh0GXYlacDY-cg&oe=68D04787",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "MarmeladeCulture",
@@ -2174,5 +2174,37 @@
     "platform": "Facebook",
     "page_name": "Sorte René",
     "page_url": "https://www.facebook.com/sorterene/events"
+  },
+  {
+    "id": "426548389721050",
+    "name": "QUIZ NIGHT - Every Tuesday at Søhesten",
+    "description": "WHAT:\nAmazing Trivia Quiz where you get the chance to let your inner genius run loose! Free entry and cheap beers, what else do you really need?\n\nWHEN:\nBar opens at 17:00, Quiz starts at 8pm.\nCome 15 minutes before and join in.\nAfter the quiz we get our hygge on until midnight.\nEvery Tuesday. 20:00 - 22:00\n\nNeed-to-knows:\nQuiz is in English.\nTeams from 2 to 5 members\n4 Rounds in total, 10 questions every round, different themes every tuesday!\n\nPRIZES: A bottle of our best Cava to the winners, a round of beer to the runner up\nAnd for the losers there's a special comfort prize!\n\nWHERE:\nSøhesten on Sølvgade 103, near the lakes.\nSee you at Søhesten for the weekly quiz! Take home a bottle of Cava or at least the answers you didn't know.\n\nAll the best,\nSeahorse Family!",
+    "date": {
+      "start_timestamp": 1754416800,
+      "end_timestamp": 1754427600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sølvgade 103, 1307 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69043749999999,
+      "longitude": 12.57206250000003,
+      "bounds_ne_lat": 55.690499999999986,
+      "bounds_ne_lng": 12.572125000000028,
+      "bounds_sw_lat": 55.69037499999999,
+      "bounds_sw_lng": 12.572000000000031,
+      "plus_code_global": "9F7JMHRC+5R",
+      "plus_code_local": "MHRC+5R",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/426548336387722/?event_time_id=426548389721050",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/494218928_1352724083160254_6022104727484367539_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gYfwtcy_jEIQ7kNvwHpXo-o&_nc_oc=Adk5QZT1pq4vJ1qoc2Va8L-QewyPto8Y6j9-czeun8W7lRrmVVf8cdj5140CBDzU_iE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=KTyraUbN1FiinlVjBGIv7A&oh=00_Afb_SLzZa-Dyw6TpUG6T_2pj4gBkJVLJYCip7DwmDLrYRw&oe=68D03C54",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "Søhesten",
+    "page_url": "https://www.facebook.com/Sohestenbar/events/"
   }
 ]
