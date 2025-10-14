@@ -106,8 +106,8 @@
     },
     "location": {
       "name": "Mayhem KBH",
-      "address": "Ragnhildgade 1",
-      "city": "Copenhagen",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1159151475768934/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/499246410_4977547142471072_293800427686503032_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Y1ubWIxvDG4Q7kNvwEgqLtY&_nc_oc=Adng_G7iy7M8ww5kcvPdGVG6I45O3u9aCnw5i8NbAyqw0qJGFVPg9lKCjzgbov-Qglw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=PrrbcuG2bezwhWCPAcMfHg&oh=00_AfYesmqMqIAam1M-mmv5mLApYRGJlB1Ns2dtQNRAJr3sCg&oe=68D05A31",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/499246410_4977547142471072_293800427686503032_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=me1kDJGD6XQQ7kNvwETt4nQ&_nc_oc=Adl4FmVWSycJliguIQtVDYavFeBQ8FkegEBCORxOjh8cwAG5Muo2n-_2cWzJ2RyUlEM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=wh_vwBKLxGTO9xJK3WzVPQ&oh=00_AfecZceJGp4WrFQWLTl9wX7Bm5-FStI8fgtNO3-C174XzA&oe=68F3F2B1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1070818278060564/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487875305_1076958807794880_3696636033216979964_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SGGQ9t_Jv54Q7kNvwGxi_5Z&_nc_oc=AdkJYDJJ2nQBX4KZHIC2pgaUY4Tgef1zs6RMh1SNnx8BbTO2fnHJ_OtfgKjdg-LGJXw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=p3-J8ENmoBILG_yPG1r7tg&oh=00_Afb0mXdzklFRyBCUVZ3uYzytBa09bJ2OQTIWod1GugFXcQ&oe=68D059C2",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487875305_1076958807794880_3696636033216979964_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FwJ0QeiSzxgQ7kNvwG5XZYf&_nc_oc=AdlNT2g8KQdUMUyiFslKpzoqmG7udg8PUGD6e7PuwyVoykTFBf63e-_jt3AXmN4ndPU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=-_BXFhpR8-QNwkdDQjuEtA&oh=00_Aff7itGGlw_XO6rVHObnfeSGUQjCasKybp972OAZY8CRIw&oe=68F3F242",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Jægersborggade",

@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://huset.kk.dk/en/events/night-terrors-film-festival-copenhagen-2026",
-    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-04/night%20terror_0.jpg?itok=VuT0ILa2",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-04/night%20terror.jpg?itok=oXSkVYAh",
     "tag": "THEATRE",
     "platform": "KK",
     "page_name": "HUSET",
@@ -202,8 +202,8 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": null,
-      "city": "",
+      "address": "Sjællandsgade 12a",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -217,7 +217,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/807923698437272/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_Z9bb9EpJJkQ7kNvwFUTTRf&_nc_oc=AdkSdhYnKoU14fLyfjc-bahHw78uNjS-cCywfrwT_v_QqA8VYxgO9Y-Wc_IMr-eT-Pc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=CDbVpOm6Ew7xyW2sM7aRzQ&oh=00_AfYR5HZfaOC5iooSaB0rmL-RzXh6nOa46Fp6L6ucdgWh2w&oe=68D059C5",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MLQonjC3BMkQ7kNvwGodZok&_nc_oc=Admr6YiWzx3vdbpLJTJqnAovdxU-nny2RxriMq5qRh-E_TjM_LKGCFOGDVF-Uh7lDEQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=bi-POwslVDtpSk-11h2LpQ&oh=00_AfdmtAK-jLcf19qISVvx-tqjiTx-X4iCBBzmXYGBRK0NVQ&oe=68F3F245",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",

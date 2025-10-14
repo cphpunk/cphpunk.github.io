@@ -62,5 +62,69 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-trwlr-thalassa-phobos-listening-party",
+    "name": "TRWLR: Thalassa Phobos Listening party",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  In collaboration with HUSET, TRWLR invites you to a unique listening experience at Xenon with a presentation of the upcoming album, Thalassa Phobos.\n </p>\n <p>\n  In connection with TRWLR's 10th anniversary and the release of Thalassa Phobos, you are invited to a unique opportunity to step into TRWLR's heavy and dark sound universe, specially created to envelop you from all four sides through Xenon's quadraphonic sound system. With four independent sound channels, located in each corner of the room, your senses will be put to the test in an uncompromising experience of sound, intensity, and atmosphere.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763575200,
+      "end_timestamp": 1763586000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Xenon",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/trwlr-thalassa-phobos-listening-party",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-09/555725427_1433063208824060_5005936694149997233_n.jpg?itok=LRtsSLFw",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-almadera-serenity-release-concert",
+    "name": "Almadera – Serenity - release concert",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Almadera is the stage name of Polish singer, composer, and choir director Aleksandra Raczynska, who divides her time between Copenhagen and Gdańsk.\n </p>\n <p>\n  Her music has its roots in jazz but extends far beyond its boundaries. It weaves together voice, poetry, and acoustic sounds to create intimate soundscapes inspired by nature, emotions, and tranquility.\n </p>\n <p>\n  With a background in classical and jazz studies in Gdańsk and Barcelona, Aleksandra's performance is based on improvisation, lyricism, and storytelling.\n </p>\n <p>\n  On stage, the musicians invite the audience to a shared musical experience—to sing harmonies, create soundscapes, and share moments of reflection.\n </p>\n <p>\n  This concert marks the release of the debut album Serenity, which will be released on November 12.\n </p>\n <h3>\n </h3>\n <h3>\n  Line-up:\n </h3>\n <p>\n  Almadera (Aleksandra Raczynska) – vocals\n </p>\n <p>\n  Otso Kasperi Mielonen – double bass\n </p>\n <p>\n  Sebastian Zawadzki – piano\n </p>\n <p>\n  Jesper Lørup Christensen – drums\n </p>\n <p>\n  Johannes Käsbach – guitar\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1763836200,
+      "end_timestamp": 1763845200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Stardust",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/almadera-serenity-release-concert",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/bez_kadru_profil_szeroki.jpg?itok=TIS3xZ1R",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

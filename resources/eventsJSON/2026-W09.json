@@ -62,5 +62,69 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-emil-hess-quartet",
+    "name": "Emil Hess Quartet",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Emil Hess Quartet byder på ny nordisk jazz med et transatlantisk islæt. Musikken er båret af originale melodier, sfæriske stemninger og swingende energi – leveret af prisvindende musikere, der har spillet sammen i mange år. Kvartetten har udgivet to album, senest Open Minds (2025), der er blevet rost for sit lyriske udtryk og stærke melodier.\n </p>\n <p>\n  Saxofonisten og komponisten Emil Hess har udgivet 19 album, skrevet over 400 kompositioner og modtaget en Danish Music Award for bedste danske jazzalbum. Han har spillet mere end 1500 koncerter verden over og samarbejdet med profiler som Mulgrew Miller, Cameron Brown, Marilyn Mazur og brødrene Nikolaj og Mikkel Hess.\n </p>\n <p>\n  Ved klaveret finder vi Thomas Clausen, en af Danmarks mest anerkendte pianister, der gennem sin lange karriere har spillet med navne som Miles Davis, Dexter Gordon, Gary Burton og NHØP.\n </p>\n <p>\n  Kvartetten rundes af med Graig Earle, canadisk bassist med base i Danmark, kendt for sit samarbejde med blandt andre Ralph Alessi og Gilad Hekselman, samt Richard Huntley, amerikansk trommeslager med erfaring fra mere end 30 lande og samarbejde med kunstnere som George Coleman, Esperanza Spalding og Fred Wesley.\n </p>\n <p>\n  Anmelderne har kaldt musikken både ”utroligt lækker og sikker” (Jazz Nyt) og ”en fortryllende kombination af lyriske kompositioner og stærke improvisationer” (Jazz Special).\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Torsdag 26.2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 140 kr. + gebyr / Køb i døren: 160 kr.\n  <br/>\n  Koncerten er med unummererede siddepladser.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772132400,
+      "end_timestamp": 1772137800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/emil-hess-quartet",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-09/Design%20uden%20navn%20%2812%29.png?itok=axx6vyTS",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-vinterjazz-tuvaband-no",
+    "name": "Vinterjazz: Tuvaband (NO)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Norwegian singer, songwriter, and producer Tuva Hellum Marschhäuser – better known as Tuvaband – invites you into a sonic landscape where time stands still and music is allowed to float freely. Her new album Seven Ways of Floating continues her unique ability to blend melancholy, hope, and beauty into a universe of airy vocals, lo-fi beats, and poetic sound textures.\n </p>\n <p>\n  Tuvaband has established herself as one of the most compelling artists in the Nordic scene, known for her uncompromising approach to music – writing, producing, and performing almost every instrument herself. Her work has been praised by international media such as Pitchfork, Wonderland, and Rolling Stone Germany, and her songs have been described as “vulnerable and powerful at once.”\n </p>\n <p>\n  If you appreciate artists like Agnes Obel, Bon Iver, or First Aid Kit, you’ll find yourself at home in Tuvaband’s magical world. Expect an evening where calm, presence, and ethereal beauty fill the room.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772305200,
+      "end_timestamp": 1772319540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-tuvaband-no",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-10/WEB%20%2B%20BILLETTO%20%282%29_3.png?itok=EffxIuyo",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": null,
-      "city": "",
+      "address": "Sjællandsgade 12a",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -25,10 +25,42 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1721069105219185/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/546087723_775307508573908_1691432726718614350_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AiN6gEtsUOUQ7kNvwFSVhzP&_nc_oc=AdksE6_bMjYVl7Q6o44iuhK5vCuqarr3qeJj3E9PuFJdDviukNkI18_Ld5yIs73qUR0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=z_1nYWR_l-MY3cM43sl_zA&oh=00_AfYnfjM7T5Kb6VOXN4Lrvla0ACRifNDLueQSagAd4j8q8g&oe=68D06CB8",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/546087723_775307508573908_1691432726718614350_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h76R9c6ddWMQ7kNvwELS4J7&_nc_oc=AdllYVZyBB728wf1CS4YlYcFUxT4WyeR2ADpis8iHuEWK7xY1ZoFQ8qgC9Gtp83hPlc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=3bQ-HCCBUgAEsToLUaPWRg&oh=00_AfeYpHrOiVokFv1yxNYe46Elx_leOZn5pD2tiI1e-1h20w&oe=68F40538",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
     "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "kk-jens-lysdal-band",
+    "name": "Jens Lysdal Band",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Jens Lysdal er kendt for sine nærværende tekster om hverdagen, kærligheden og de store spørgsmål i livet – altid skrevet med både humor og dybde. Musikken henter inspiration fra folk, jazz og pop, men bærer et tydeligt personligt præg. Hans koncerter balancerer elegant mellem sangskrivning og instrumental virtuositet, og det hele bindes sammen af hans varme stemme og store nærvær på scenen.\n </p>\n <p>\n  I 2022 udgav han albummet Paradis til låns, hans første fuldlængdealbum på dansk. Sangene kredser om klimaforandringer, erindringer og livets små undere – og flere af numrene er blevet spillet flittigt på DR. Fire af hans sange er optaget i den nyeste udgave af Højskolesangbogen, heriblandt miljøsangen For vist vil de komme.\n </p>\n <p>\n  Lysdal har turneret i Europa, USA, Canada og Kina og arbejdet sammen med musikere som Tim O’Brien, Greg Leisz og Danny Frankel. Han har tidligere dannet makkerpar med baslegenden Hugo Rasmussen og er blevet rost som ”en af Skandinaviens bedste guitarister”, mens hans stemme er blevet sammenlignet med ”Sting og Paul Simon på måneskinsarbejde” (Berlingske).\n </p>\n <p>\n  På Islands Brygge står han på scenen med Jakob Falgren (bas), Mads Andersen (trommer) og Søren Vestergaard (elguitar) – et stærkt livehold, der ifølge GAFFA skaber ”magiske musikalske passager, hvor bandet nærmest forvandler sig til én organisme”.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag 10. april 2026 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 175 kr. + gebyr / Køb i døren: 200 kr.\n  <br/>\n  Koncerten er med unummerede siddepladser.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1775844000,
+      "end_timestamp": 1775849400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/jens-lysdal-band",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-09/Jens%20Lysdal%20Presse%20S%C3%B8.jpg?itok=SZACmUZV",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

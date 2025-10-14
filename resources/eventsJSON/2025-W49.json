@@ -30,5 +30,69 @@
     "platform": "Facebook",
     "page_name": "Folkets Hus",
     "page_url": "https://www.facebook.com/folketshus50/events"
+  },
+  {
+    "id": "1127414862862285",
+    "name": "Cozy winter fundraising day!",
+    "description": "Cozy vibes for a good cause! ☕️💛\n\nDAGGRY KBH is inviting you to the coziest fundraising day of the year! We promise a day filled with warm, community and care  –  with raffle prizes, community kitchen, live performances and workshops\n\nDetailed agenda will follow 💛\n\nEvery krone raised goes directly to making therapy more financially accessible for people who have experienced sexual and patriarchal violence.\n\nMore details soon. Mark your calendars for December 6th @Folkets Hus.�Let’s warm up in the winter together. 🦝✨",
+    "date": {
+      "start_timestamp": 1765036800,
+      "end_timestamp": 1765044000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1127414862862285/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/558016494_1398348878967007_6521420470221051005_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XXhcZ2MXZkAQ7kNvwEr9E9W&_nc_oc=AdkAlntu1pCDozuWJZKl3LdMUnh3wawfJBxp5oeZCFGIzd_an2tBf2KOvmWlfF4ER4Q&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ppN-MmHDz0qwY5n3VIY9-Q&oh=00_Afd5kWPsGaQ1hhsMG_-i23mzxjbdTn6X4Ek78PzIY5OxWA&oe=68F4073B",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Folkets Hus",
+    "page_url": "https://www.facebook.com/folketshus50/events"
+  },
+  {
+    "id": "849910840708820",
+    "name": "Zine-workshop",
+    "description": "Vær med til at lave zines og bidrag til bibliotekets fælles udgivelse sidst på året.\n\nStart et nyt zine, kom videre eller bliv færdig med dit zine.\nI løbet af aftenen vil vi samle op på forslag til Demotekets fælles zineudgivelse.\n\nDu behøver ikke at kunne tegne eller skrive – så længe du har lyst til at udtrykke dig, er denne aften en god introduktion til at komme i gang.\nVi har (næsten) alt, du kunne ønske at bruge, til at lave flotte og særprægede tegninger, tekster og billeder.\nMan kan undervejs gå i gang med nye projekter eller arbejde videre på igangværende zines.\nI løbet af året vil vi afholde flere zine-events, og til sidst på året samler vi bidrag til et fælles 2730 Demoteket-zine.\nHvad er et zine?\nZine er selvproducerede hæfter med specielle temaer, som bliver brugt i ikke-kommerciel sammenhæng.\nZines varierer meget i format: De kan indeholde alt fra computerskrevet og håndskreven tekst til fotokopierede billeder, tegninger og tegneserier.\nZines fungerer som små bøger med enten politisk, personligt, socialt eller seksuelt indhold, som bidrager til et alsidigt kulturudbud.\n",
+    "date": {
+      "start_timestamp": 1764784800,
+      "end_timestamp": 1764792000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Herlev Bygade 70, 2730 Herlev Municipality, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.72531249999999,
+      "longitude": 12.435687500000014,
+      "bounds_ne_lat": 55.725374999999985,
+      "bounds_ne_lng": 12.435750000000013,
+      "bounds_sw_lat": 55.72524999999999,
+      "bounds_sw_lng": 12.435625000000016,
+      "plus_code_global": "9F7JPCGP+47",
+      "plus_code_local": "PCGP+47",
+      "plus_code_locality": "Herlev, Denmark",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/849910840708820/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/558492211_1213820787448975_8277785711149717175_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XnMjySwiQD4Q7kNvwF8x_CR&_nc_oc=Adl1dQvh-nHN83JjNcoyv2AMVBXsb2zwHITBgIwLiQ0oTmPglcjL62qL3nA101kHS50&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=7XqfsR--lu5bWfKnZGrpjw&oh=00_AfdOBkWXSy4T6OgFHROoruf2cU3QMIDOLf_InmkPcmKZSA&oe=68F3F8CD",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
   }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-emma-rawicz-uk-the-viridian-trio",
+    "name": "Emma Rawicz (UK) & the Viridian Trio",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Den britiske saxofonist Emma Rawicz har på rekordtid markeret sig som et af Europas mest spændende jazznavne. Hun er modtager af 2021 Drake Yolanda Prisen, kåret som ”Bedste Nye Talent” ved Parliamentary Jazz Awards i 2022, finalist i BBC Young Jazz Musician og udvalgt til BBC 3 New Generation Artist 2024. Hendes musik forener inspirationer fra hele verden og bevæger sig ubesværet mellem afrocubanske grooves, moderne swing, funky vibes og lyriske ballader.\n </p>\n <p>\n  Emma har udgivet på det anerkendte tyske label ACT og er blevet fremhævet som ”et iøjenfaldende nyt talent” (Jamie Cullum, BBC Radio 2), ”et fænomen man skal holde øje med” (Jazzwise) og ”en fremtidig stjerne” (London Jazz News).\n </p>\n <p>\n  På scenen står hun sammen med Viridian Trio – pianisten Søren Møller, trommeslageren Morten Hæsum og kontrabassisten Morten Haxholm. Sidstnævnte har udgivet otte album i eget navn, flere i samarbejde med amerikanske jazzprofiler, og er blevet DMA-nomineret for sine kompositioner. JazzSpecial har kaldt hans musik ”et af de mest helstøbte, tidsløse jazz-album i lang tid – star potential”.\n </p>\n <h3>\n  Line-up\n </h3>\n <p>\n  Emma Rawicz (UK) – saxofon\n  <br/>\n  Søren Møller – klaver\n  <br/>\n  Morten Hæsum – trommer\n  <br/>\n  Morten Haxholm – kontrabas\n </p>\n <p>\n  Til koncerten i Kulturhuset Islands Brygge venter et repertoire med nye numre af både Rawicz og Haxholm samt udvalgte jazzstandards.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Torsdag 30. april 2026 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Koncerten er med unummererede siddepladser\n  <br/>\n  Forsalg: 135 kr. + gebyr / Køb i døren: 150 kr.\n  <br/>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1777572000,
+      "end_timestamp": 1777577400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/emma-rawicz-uk-the-viridian-trio",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-09/emma%20rawitch.jpg?itok=1gtOoLWn",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

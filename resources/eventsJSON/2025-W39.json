@@ -377,7 +377,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/993180512523399/?event_time_id=1246273447214103",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/503560248_698932019408004_6288846904158234466_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=twp4g_DnWCcQ7kNvwFoNf2V&_nc_oc=AdkmVD4AePmvpcev0Fruim4d6BnZRchp3NRgO9Ogz2xFuGqvLc9zQCUq9IgIJdfsBTA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=IMAEX37Mlbbj_2i9lNlO7w&oh=00_AfYMNh3lsRmCgtZmPJDsLRgP3wZxNWtWS6GaXqqz1z6HsA&oe=68D04508",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/503560248_698932019408004_6288846904158234466_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aEqJsGPRjZEQ7kNvwGEvCcb&_nc_oc=Adk8zsZw7R07MPGUzZg_pbPqtQQic5my3OxzydBF7i2XJZI8wFBMH-Nzg4ZAkGhUJjo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=LeVQRSRhS4rKpZq1fUiCgA&oh=00_AfZzkIUp5v0xbUvYz9o2fquwaHX3QYxOhScIolMYZ7q2FA&oe=68DF3608",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Metronomen",
@@ -3806,5 +3806,293 @@
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
     "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  },
+  {
+    "id": "762927669984485",
+    "name": " Olla Comunitaria - 🥘 South American Community Kitchen ",
+    "description": "~~ENGLISH BELOW~~\n\nBom dia gente\n\nEstan invitades a la olla comun del mes, esta vez la haremos el MARTES 23 de Septiembre. El evento es en colaboracion con NOAH que esta organizando un evento donde Alexandre Gomes da Silva del Movimiento dos Trabalhadores Rurais Sem Terra (MST) del Brazil vendra a dar una charla acerca de la lucha por tierra y la mobilizacion de gente para ocupar tierras.\n\nMas info del evento (en ingles) aqui: https://noah.dk/kalender/struggle-land-and-critical-preparations-climate-summit-amazon\n\nEl evento empieza a las 17.00!\n\nLa comida la serviremos a las 19.00\n\nEsta vez les vamos a servir una deliciosa Feijoada vegana, la receta importada directamente desde el Pindorama/Abya Yala. Ojo que el plato tiene mucho cilantro jeje\nComo siempre la comida sera vegana y si hay algun alergeno lo escribiremos en el dia\n\nLos esperamos!! Para las donaciones por favor traigan efectivo pero sino tambien tenemos MobilePay\n\n~~~~~~~~~~~~~~~~~~~~\n\nHi everyone\n\nWe invite you do the monthly Olla Comun community kitchen, this time it will be on TUESDAY 23rd of September. The event is in collaboration with NOAH who is organizing a talk by Alexandre Gomes da Silva an MST (Movimiento dos Trabalhadores Rurais Sem Terra) activist that will talk about the struggle for land and land occupations in Brazil.\n\nMore info about the event here: https://noah.dk/kalender/struggle-land-and-critical-preparations-climate-summit-amazon\n\nThe event/talk starts at 17.00! \n\nThe food will be served at 19.00\n\nThis time we'll cook a Feijoada following a recipe imported from the Pindorama or what you know as Brazil. FYI, the food will have a lot of coriander\n\nAs always the food will be vegan and we'll write about any allergens\n\nBring cash or mobilepay!",
+    "date": {
+      "start_timestamp": 1758639600,
+      "end_timestamp": 1758646800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/762927669984485/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/548199506_770941489120270_6008589396568657006_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=acbSknTs7f4Q7kNvwHoUIGT&_nc_oc=AdlbSqCTwzCyQALhoQUQ0C3iA3HEt1OHKbuUlDstuyVGKngH6IKTijX-g0G91k-LXjw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=tWcNAJGTpylG4L20do2MRw&oh=00_AffXUzYcipAtZDFLfaSy32_Bcw1LePNf01d4vOSpHPr6zg&oe=68F3F874",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
+  },
+  {
+    "id": "1505780043770864",
+    "name": "Premiere på Vild med Dyr + mød holdet bag den nye serie",
+    "description": "OM SERIEN\nI den nye tv-serie ‘Vild med dyr’ går børn til dyr. Sammen med dyreelskeren Martha og hendes fire bedste venner, fåret Gertrud, hunden Pippi, hesten Jackie og grisen Gunnar, rejser vi ind i dyrenes verden og finder ud af, hvad der skal til for at komme helt tæt på dem.\n\nOM ARRANGEMENTET\nUdover at opleve premieren på denne nye serie på det store lærred, så vil der efterfølgende også være mulighed for at møde holdet bag.\n\nBILLETTER OG INFO\n- Billetpris: 90kr. inklusiv gebyr.\n- Tilladt for alle.\n- Køb dine billetter her: https://buster.dk/film/premiere-paa-vild-med-dyr/",
+    "date": {
+      "start_timestamp": 1759046400,
+      "end_timestamp": 1759051800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1505780043770864/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/541431151_1345565250903738_3658140177178745164_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EzooT0WsPMcQ7kNvwETWQtG&_nc_oc=AdkCsERGXCWV4Z5z2sDG8Dy7mnCrPnVtSPWHGl9kSquXP7e97W4_QT4swdzWIvdaMmw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=NU7cwmk8nzl4j_txWnVrEg&oh=00_AffHJly_O-9AUYkAdv9KRGw0_RA16PUQA7Lo1oeJrym-GA&oe=68F40AA0",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "4191401274473837",
+    "name": "Forpremiere: Grand Prix – Poten på Pedalen + Mød racerkører Luca Magnussen!",
+    "description": "OM FILMEN\nSæt dig godt til rette, og spænd sikkerhedsselen! På BUSTER kan du nemlig se ‘Grand Prix – Poten på Pedalen’ før alle andre, når vi inviterer til forpremiere på den hæsblæsende familiefilm om den fartglade Edda, der drømmer om at køre racerløb. Da hendes idol, racerstjernen Ed, pludselig må melde afbud til Europas Grand Prix, får hun chancen bag rettet. Men en hemmelig sabotør skaber kaos, og pludselig handler det ikke kun om løbet, men også om at redde hele forlystelsesparken. En morsom og actionfyldt filmfest for hele familien.\n\nOM ARRANGEMENTET\nEfter filmen kan du møde selveste Luca Magnussen i sit flotte raceroutfit og høre hvordan det er at vokse op med racerkørsel i blodet og senere selv at blive racerkører. I kan stille ham spørgsmål om racerkørsel og måske høre, om han har nogle gode tricks, til at turde køre rigtig hurtigt! Efter snakken kan du udfordre din egen familie i en hæsblæsende racerbilsdyst i biografens foyer og finde ud af, hvem der er familiens største motorbølle.\n\nBILLETTER OG INFO\n- Billetpris: 90kr. inklusiv gebyr.\n- Frarådes for børn under 7 år.\n- Køb dine billetter her: https://buster.dk/film/grand-prix-poten-paa-pedalen/",
+    "date": {
+      "start_timestamp": 1759048200,
+      "end_timestamp": 1759056000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/4191401274473837/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/541046047_1345571744236422_236966819572848259_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9-Yrshjjlo0Q7kNvwFxGyz1&_nc_oc=AdnrhIIPDcXvFQNpiFhMeQHvbFh1Xc9i2mVvlVyiABqYbTVpg0c6Uux9sck80ka1uLE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=x5f7WCvFDi3-rWvbFUhmMw&oh=00_Aff_782n03NtODN7euYxCz0kO4VuYgCCHYwglKwS2gzoMQ&oe=68F4082C",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "1798301564900395",
+    "name": "BUSTER på Havnen",
+    "description": "Kom med til en weekend for hele familien med de bedste film, grønne events, koncerter og leg på havnen! ⚓️ BUSTER Filmfestival rykker biografoplevelsen ud på Nordhavn og viser film for de 2 til 12-årige den 27. - 28. september. 💙\n\nHver dag er programmet fyldt med film, der inspirerer og vækker jeres nysgerrighed. En nysgerrighed, som I efterfølgende kan udleve i workshops og udendørsaktiviteter, hvor I selv får lov til at mærke, opleve og blive klogere på film, natur og musik.\n\nI kan bl.a. opleve:\n\nFILM\n🍿Flow\n🍿Isbjørneprinsen\n🍿Ponyo på klippen ved havet\n🍿Eventyr fra den magiske have\n\nMUSIK\n🎶 Koncert med MGP\n🎶 Teaterkoncert med Lille Tut\n🎶 Tikke Takke Trio\n🎶 Thomas og Carl Og Rytmevæsenet\n🎶 Den magiske skovtur - Klassisk koncert for børn\n🎶 Metamorfose - Historien om et æg\n\nAKTIVITETER\n⚓️ Vær med til at redde vandsalamanderen med Ramasjang\n⚓️ Lær at tale fuglesprog\n⚓️ Mød Danmarks største naturnørd: Emil Poulsen\n⚓️ Byg dit eget insekthotel\n⚓️ Kom på øko-eventyr med spillet Sustainions\n⚓️ Lær om dyr i vandet, honningceremoni, besøg læsehjørnet og meget meget mere…. Se det fulde program og køb festivalarmbånd til lørdag eller søndag på: https://buster.dk/buster-paa-havnen/\n\nSe program for lørdag: https://buster.dk/program-loerdag/\n\nSe program for søndag: https://buster.dk/buster-paa-havenen-program-soendag/\n\nPRAKTISK INFO\nMed et festivalarmbånd til enten lørdag eller søndag får I adgang til alle dagens film og events.\nPris: 150 kr. for børn over 2 år og voksne.\n2 børn og 2 voksne: 500 kr.\nBørn under 2 år er gratis at have med.\n\nFestivalpladsen er lokaliseret ved Hamborg Plads og Sankt Petersborg Plads, 2150 København.\n\nKØB BILLETTER HER: https://buster.dk/koeb-billet-til-buster-paa-havnen/",
+    "date": {
+      "start_timestamp": 1758956400,
+      "end_timestamp": 1759068000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "BIG BIO - Nordhavn",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70756249999998,
+      "longitude": 12.59693750000001,
+      "bounds_ne_lat": 55.70762499999998,
+      "bounds_ne_lng": 12.597000000000008,
+      "bounds_sw_lat": 55.70749999999998,
+      "bounds_sw_lng": 12.596875000000011,
+      "plus_code_global": "9F7JPH5W+2Q",
+      "plus_code_local": "PH5W+2Q",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Østerbro"
+    },
+    "url": "https://www.facebook.com/events/1798301564900395/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/539503046_1341343474659249_1783429975921577309_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fx6IhHw4lpkQ7kNvwH6fgY7&_nc_oc=AdnvLQ5VG_tY0lOQIAThISBwT0mV3Do-ja7h94qG03p5Y5NxLK6X2FZVdWeJ9UEuKzE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=S_mHqd89MUshoG39peJlkw&oh=00_AfflygkLXD6O6HNIi4o6DMmdgtxUiLHOOm8r-iZgxCA0_Q&oe=68F3EB08",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "1068061408648521",
+    "name": "Eventyr fra den magiske have + Gå op opdagelse i ARKENS udstillinger",
+    "description": "OM FILMEN\nTom, Suzanne og Derek skal på ferie hos deres morfar; men intet er det samme, efter deres mormor er gået bort. Det er svært for alle, indtil Suzanne finder mormors gamle fortællerhat og tager rollen som historiefortæller på sig, ligesom mormor plejede. Haven fyldes igen med fortællinger fyldt med eventyr, humor og magi. Animationsfilmen er en varm og fantasifuld påmindelse om, hvordan gode historier kan hjælpe os med at finde styrke og glæde, selv når livet er svært.\n\nOM ARRANGENMENTET\nEfter filmen kan hele familien gå på opdagelse på ARKEN. Træd ind i Kenneth Rasmussens jungle af kæmpestore strikkede skulpturer, og prøv selv at strikke mellem kl. 11:00 og 15:00 – det er sjovt for både børn og voksne, uanset om man er nybegynder eller øvet. I kan også kigge ind i kunstneren Frederik Næblerøds atelier, hvor I selv kan male eller tegne eller hoppe en tur i POOL, et sanseligt boldrum fyldt med oplevelser. For at komme med på filmrejsen skal du både have billet til filmen og entré til Arken.\n\nBILLETTER OG INFO\n- Billetpris: 90kr. inklusiv gebyr + entré til Arken\n- Tilladt for alle.\n- Køb dine billetter her: https://buster.dk/film/eventyr-fra-den-magiske-have/",
+    "date": {
+      "start_timestamp": 1758963600,
+      "end_timestamp": 1758968700,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "ARKEN Museum for Samtidskunst",
+      "address": "Skovvej 100",
+      "city": "Ishøj",
+      "country": null,
+      "latitude": 55.60618749999999,
+      "longitude": 12.387687499999984,
+      "bounds_ne_lat": 55.60624999999999,
+      "bounds_ne_lng": 12.387749999999983,
+      "bounds_sw_lat": 55.60612499999999,
+      "bounds_sw_lng": 12.387624999999986,
+      "plus_code_global": "9F7JJ94Q+F3",
+      "plus_code_local": "J94Q+F3",
+      "plus_code_locality": "Ishøj, Denmark",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/1068061408648521/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/540767511_1345555804238016_8557563928655650166_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cEtMbWLL4CAQ7kNvwEJ6Q5D&_nc_oc=Adk2T_sFX6015adIJMGPwMiJBwWRNFWrYwFeuGjR7dTbFYdNqOhSUJjdVDY7L70lKco&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=TQtuDwsO8gFdlFu4so-9jg&oh=00_AfdOtY9XtCLJUgF89nYGsEPblMSI2SNh3PnKBT2hZ6dPdw&oe=68F3ED6A",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "1863318074567364",
+    "name": "BUSTER på Frederiksberg",
+    "description": "Traditionen tro rykker BUSTER filmfestival ind på Frederiksberg Bibliotek med stærke filmoplevelser, kreaworkshop og events – alt sammen med det blå hav som tema. Målgruppe: Familier med børn i alderen 2-7 år.\n\nKortfilm om havets magi – kl. 10.00-13.00.\nI år dykker vi ned i havets fantastiske univers med en række sjove og finurlige kortfilm om livet over og under den blå overflade. I havet lever der sjove, legesyge havdyr og et sømonster, som hjælper, når der er brug for det. Men også fra landjorden er havet magisk. En familie tager på sommerferie til sydens strande og Hunden Ib slår smut med en sten. Mød også den vandskræk edderkop Bobby, som bliver venner med en hvalros og oplev en fisketur gå helt galt. Glæd jer til en kortfilmpakke om livet både ved og i havet.\n\nMuggie Moscow laver en sjov og kreativ workshop med særlig fokus på havet! – kl. 10.00-13.00\nDet maritime tema indtager samtidig biblioteket med en heldagsworkshop med den kostumedesigner Muggie Moscow, hvor børn sammen med deres voksne kan lave små, sjove og fantasifulde kreationer inspireret af livet under bølgerne. Muggie Moscow er særlig kendt for sin legesyge stil, der oftest kommer til udtryk på speciallavede jakker, trøjer og et hav af accessories. Vi garanterer, at det bliver en farve- og kreafest uden lige, når Muggie Moscow indtager Frederiksberg Bibliotek!\n\nDyk ned i havet med Rytmikbanditterne – kl. 10.00\nRytmikbanditterne gæster også biblioteket og inviterer på en svømmetur fyldt med musik og bevægelse. Gennem rytmiske bevægelseslege opbygger de sammen med børnene og deres voksne et fantasifuldt univers, hvor alle ideer er velkomne. Rytmikbanditterne er eksperter i at skabe sjove, enkle lege, der griber børnenes ideer og skaber deltagelsesmuligheder for alle. Så på med dykkerbriller og svømmefødder og lad os sammen kaste os ud på det dybe vand. Plask!\n\nLæs mere her: https://buster.dk/event/buster-paa-frederiksberg-dyk-ned-i-havets-og-filmens-univers/\n\nBestil billetter til den 20. september her: https://place2book.com/da/sw2/sales/cszsd0jeep\n\nBestil billetter til den 27. september her: https://place2book.com/da/sw2/sales/7e656e0mlf ",
+    "date": {
+      "start_timestamp": 1758960000,
+      "end_timestamp": 1758970800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Frederiksberg Bibliotek",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67625000000001,
+      "longitude": 12.513749999999987,
+      "bounds_ne_lat": 55.67750000000001,
+      "bounds_ne_lng": 12.514999999999986,
+      "bounds_sw_lat": 55.67500000000001,
+      "bounds_sw_lng": 12.512499999999989,
+      "plus_code_global": "9F7JMGG7+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1863318067900698/?event_time_id=1863318074567364",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/541052883_1345625257564404_5745672988276595904_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HOJOpbkfUG0Q7kNvwEkidA8&_nc_oc=AdmMR3iFAp0etY8x55ttM2JdCTJo22xPRF0llQrRnZARuVpXBuf1uGKNSJ66k9uD0n0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=FGyXtrc9hpoooDL1z6S7Ug&oh=00_AfcSdE1fb5Kyq6uW2k7nJ-cXadWvlbD3AwQHB3Qrrhne7g&oe=68F417DD",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "811644454544717",
+    "name": "BUSTER på Arken",
+    "description": "På ARKEN Museum for Samtidskunst kan du opleve kunst og arkitektur i verdensklasse. Under BUSTER Filmfestival kan I opleve film og kunst på Arken. For at komme med på filmrejsen skal du både have billet til filmen og entré til Arken.\n\n27/09: EVENTYR FRA DEN MAGISKE HAVE\n\nTom, Suzanne og Derek skal på ferie hos deres morfar; men intet er det samme, efter deres mormor er gået bort. Det er svært for alle, indtil Suzanne finder mormors gamle fortællerhat og tager rollen som historiefortæller på sig, ligesom mormor plejede. Haven fyldes igen med fortællinger fyldt med eventyr, humor og magi. Animationsfilmen er en varm og fantasifuld påmindelse om, hvordan gode historier kan hjælpe os med at finde styrke og glæde, selv når livet er svært.\n\n28/09: HISTORIER TIL MAYA\n\nMaya og hendes far, Michel, bor i hver deres land, men hver aften ringer de sammen. “Maya, giv mig en titel,” siger han. Og fordi Mayas far er Michel Gondry – filmskaberen bag ‘Evigt solskin i et pletfrit sind’ – bliver Mayas idéer forvandlet til små, farverige stop-motion-film fyldt med havfruer og vulkaner. Med papirklip, opfindsomt håndværk og masser af glimt i øjet skaber far og datter et magisk rum på tværs af afstande. Filmen er en kærlig hyldest til fantasien, forældreskabet og historiefortællingens kunst – og til det særlige bånd, der binder far og datter sammen, selv når de er langt fra hinanden.\n\nEFTER FILMENENE\n\nSe film med BUSTER på Arken og efter filmen kan hele familien gå på opdagelse på ARKEN. Træd ind i Kenneth Rasmussens jungle af kæmpestore strikkede skulpturer, og prøv selv at strikke mellem kl. 11:00 og 15:00 – det er sjovt for både børn og voksne, uanset om man er nybegynder eller øvet. I kan også kigge ind i kunstneren Frederik Næblerøds atelier, hvor I selv kan male eller tegne eller hoppe en tur i POOL, et sanseligt boldrum fyldt med oplevelser. For at komme med på filmrejsen skal du både have billet til filmen og entré til Arken.\n\n- Billetpris: 90kr. inklusiv gebyr + Éntre til Arken\n- Tilladt for alle.\n- Køb dine billetter her: https://buster.dk/venue/arken-museum-for-samtidskunst/?date=20250927#e-0",
+    "date": {
+      "start_timestamp": 1758963600,
+      "end_timestamp": 1759055400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "ARKEN Museum for Samtidskunst",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.60618749999999,
+      "longitude": 12.387687499999984,
+      "bounds_ne_lat": 55.60624999999999,
+      "bounds_ne_lng": 12.387749999999983,
+      "bounds_sw_lat": 55.60612499999999,
+      "bounds_sw_lng": 12.387624999999986,
+      "plus_code_global": "9F7JJ94Q+F3",
+      "plus_code_local": "J94Q+F3",
+      "plus_code_locality": "Ishøj, Denmark",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/811644454544717/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/542656342_1346539410806322_5477582884189042743_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OhmaLelkoEsQ7kNvwGiGNWD&_nc_oc=Adng2aZWOaGPM_lrgzVG1_1mjk5zmROWSGEDWplizsjVShzDjxvmDVCXgkNGnwUvaQg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=hJo2qtcnPKFZRebXv98NLg&oh=00_AfcwhnQ2j-ucGQgOqOxRBPmC7wujAV8UjTXuAC30pZvjFQ&oe=68F40B0D",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "1084921783832352",
+    "name": "Tales of Alethrion + Lad Fantasy'en få frit løb!",
+    "description": "OM ARRANGEMENTET\nBUSTER og produktionsselskabet Skjaldborn inviterer alle fantasyfans til at dykke ned i fantasyuniverset 'Tales of Alethrion'. Udover at se alle afsnit af animationsserien ‘Tales of Alethrion’ samt opleve verdenspremieren på et spritnyt afsnit, så kan du inden premieren du udfolde dine egne episke fortællinger. Der vil være brætspil, tegneworkshop og meget mere i biografens foyer fra kl. 13.30.\n\nBILLETTER OG INFO\n- Billetpris: 90kr. inklusiv gebyr.\n- Tilladt for børn fra 11 år.\n- Køb dine billetter her: https://buster.dk/film/tales-of-alethrion/",
+    "date": {
+      "start_timestamp": 1758978000,
+      "end_timestamp": 1758985500,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Empire Bio",
+      "address": "Guldbergsgade 29F",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.69181249999998,
+      "longitude": 12.555812500000016,
+      "bounds_ne_lat": 55.69187499999998,
+      "bounds_ne_lng": 12.555875000000015,
+      "bounds_sw_lat": 55.691749999999985,
+      "bounds_sw_lng": 12.555750000000018,
+      "plus_code_global": "9F7JMHR4+P8",
+      "plus_code_local": "MHR4+P8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1084921783832352/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/540738533_1345557850904478_7874921968027946091_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GHzkK7CSIZgQ7kNvwFW6tZF&_nc_oc=AdnLhchRBzTGcXwkvDMoAvItGqaVKJAAgu_IEBW4K4uMua8lbiICqu__9thlA4pd59c&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=otG-Hsyfsml29FLOd_q1ng&oh=00_AfeCsw40eOnHh310L_Xfzh0CHnFco8IJ92m3UaFnQF3hyA&oe=68F40C1F",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "BUSTER Filmfestival",
+    "page_url": "https://www.facebook.com/busterfilmfestival/events"
+  },
+  {
+    "id": "618490747861275",
+    "name": "OPEN STUDIO: Lassi Kontiainen – FIDA Artist in Residency",
+    "description": "OPEN STUDIO: Lassi Kontiainen\n\nWe are happy to invite you to the Open Studio of artist Lassi Kontiainen (FI), this year’s FIDA Artist in Residency. Since August Kontiainen has resided in Studio # 16 at FABRIKKEN, and received active curatorial support, alongside an introduction to the Danish art scene and market, facilitated in collaboration with @finindk. \n\nKontiainen works with painting, layering his oil paints and transparent glazes thinly and allowing for his original plan to dissolve in the process to increase the agency of the painting itself. Lassi Kontiainen will be showing the work-in-progress from the two-month residency period. \n\nWHEN: Friday September 26 at 14:30-17:30\nWHERE: Studio 16 at FABRIKKEN, Sundholmsvej 46, 2300 Cph S\nEveryone is welcome\n\nFIDA is funded by the Finnish Cultural Institute in Denmark, which offers Finnish know-how and facilitates cultural exchange in contemporary and performing arts, with the aim of developing and strengthening the dialogue between professional artists and institutions from Finland and Denmark and to the general public.",
+    "date": {
+      "start_timestamp": 1758889800,
+      "end_timestamp": 1758900600,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Sundholmsvej 46, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65956250000001,
+      "longitude": 12.595687500000011,
+      "bounds_ne_lat": 55.659625000000005,
+      "bounds_ne_lng": 12.59575000000001,
+      "bounds_sw_lat": 55.65950000000001,
+      "bounds_sw_lng": 12.595625000000013,
+      "plus_code_global": "9F7JMH5W+R7",
+      "plus_code_local": "MH5W+R7",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/618490747861275/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/552301659_1373792541413538_4557641316628212192_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jnp4WnbkavgQ7kNvwGV6D2c&_nc_oc=Adk5hVthqf53OLPLZ2QCXeyFHOhQbN0wVcTiLk6SugtrzfYsRzHkcG27JRRLc0MZi_0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=DhlUgOQSj3lKqFhoT0-v2w&oh=00_AfdubC-hO9TNRkBcEFSEZcoJy4mAvUu1lwYLdzwviu8s0A&oe=68F421FA",
+    "tag": "ART",
+    "platform": "Facebook",
+    "page_name": "FABRIKKEN for Kunst og Design",
+    "page_url": "https://www.facebook.com/FABRIKKENforkunstogdesign/events"
   }
 ]

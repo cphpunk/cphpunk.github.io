@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/9214440812005193/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495516113_1249556183848756_1343953839498782798_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pvkTkGVH9SgQ7kNvwEYwudG&_nc_oc=Adkvsc4vGqTWCSX9uY-X5g_T-5vFii1_H6xHWaHToAidEql76bfqEHpy3X1l6Ci6Zm0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=XSY4lp-TwbtlalvC2LYlDQ&oh=00_AfaicarreAsUfXwd2O1c_nA8Ax6BICdNSPovaV53mYQCQg&oe=68D03B04",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/495516113_1249556183848756_1343953839498782798_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IM9gNO9G_pgQ7kNvwGk81S8&_nc_oc=Adn5I8GCAwenotSXFsZSk3BMXfgsyuhw6QOmZHniGJjeXhMuNeHFvruFhgR9V1c6gBk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=2mbsVG4y5lM--6upBoLgRg&oh=00_AfcjSeUSsCQg6cdTJawn_oSNM-HkA-vHLNqusD-bmWAHEA&oe=68F40BC4",
     "tag": "MOVIE",
     "platform": "Facebook",
     "page_name": "Nordic Adventure Film Festival - NAFF",
@@ -57,10 +57,170 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/787243510575724/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/542732312_1181904333973954_1398602648136824434_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k5hNMDqSgfEQ7kNvwFF5WEg&_nc_oc=AdmoXW-D88ZIXUmBIQa69DFQbU-Pjv0_wm0grmRCZ94Qu92T8c_ea1f7IlYRomLxvWU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=sAR7QJd_AKF1Ca6auI062Q&oh=00_AfbifF1AwgYwQJDJSgZ3Nim_YgE5lw2Tn9Cv5NbkcHDQ1w&oe=68D03A3A",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/542732312_1181904333973954_1398602648136824434_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9HDjPq-oPRwQ7kNvwE5nVMy&_nc_oc=Adn2Tosm0FxtdRPk-cQFAsdb1hNiQEHxxm0qrT2M90WvAUlI3TAQOPUq7ZHnMVoQc2Y&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=TQrDOc6wTZ0pAB8PrfVVQA&oh=00_AfdkEuuMasbBcekJFsL_7UmV1tvrEAJz08KG7GhRW4aetg&oe=68F40AFA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
     "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  },
+  {
+    "id": "546331428293813",
+    "name": "Kor Marathon i 2025",
+    "description": "OBS Tilmelding kun via mail: kontakt@peterbom.dk\n\nKonceptet er enkelt og henvender sig til alle som har lyst til at bruge en eftermiddag på at synge i kor. Det er en fordel hvis man har korerfaring og kan orientere sig i en node. Kormaraton gælder først og fremmest om at få sunget en masse, typisk 3 satser - derfor er der ikke fokus på de helt små detaljer. Det giver både energi og glæde at synge sammen med andre, lære ny musik at kende, møde nye mennesker og mærke synergien når taget løfter sig.\n\nWorkshoppen kører fra 13-17 med 2 pauser undervejs. Satserne vil være af forskellig karaktér & sværhedsgrad.\n\nTilmelding efter ‘først til mølle’ - Send en mail til: kontakt@peterbom.dk\nså jeg kan bekræfte din deltagelse og informere om betaling.\n\nPriser:\nKr. 700,- for alle 4 seancer eller kr. 200,- for en enkelt.\n\nPå glædeligt Gensyn(g)\nPeter Bom ",
+    "date": {
+      "start_timestamp": 1764504000,
+      "end_timestamp": 1764518400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Rytmisk Center",
+      "address": "Vesterbrogade 107E",
+      "city": "",
+      "country": null,
+      "latitude": 55.67093750000002,
+      "longitude": 12.545062499999986,
+      "bounds_ne_lat": 55.67100000000002,
+      "bounds_ne_lng": 12.545124999999985,
+      "bounds_sw_lat": 55.670875000000024,
+      "bounds_sw_lng": 12.544999999999987,
+      "plus_code_global": "9F7JMGCW+92",
+      "plus_code_local": "MGCW+92",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/546331418293814/?event_time_id=546331428293813",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484153919_1060089622819429_4398680418728413565_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HAYUqkEIoRgQ7kNvwHIsdB0&_nc_oc=Adk4IHp2NjcgqBeZipvGGKu2TUhpQFtIBtB3I6yD31pyPiYgO2pHxmbsNfYESrArewI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=QwHggNG_kUk8onfc0Udrqg&oh=00_AffYA-ZH5gw8EnrbvboLzhKt7fZdV4wTaDOTRnAzlzADsg&oe=68F406D4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "3440364742773262",
+    "name": "Mad&Musik",
+    "description": "Mad&Musik er sofaer, bar, musik og fællesspisning. Vi har besøg af to skønne bands, der spiller op ad aftenens tema. \n\nArrangementet starter kl.18 med fællesspisning. Derefter går aftenens tema og koncerter i gang.\n\nDet koster 25 kr. at spise med, men ellers er resten af aftenen gratis og åben for alle. \n\nMad: 25 kr \nØl/sodavand: 20 kr \nVin: 25 kr \nKaffe og te: donation \n\nuKirke er et sted, der er åbent for alle. Kom som du er, uanset hvem du er, hvad du tror på, og hvem du elsker. Vi accepterer ikke diskrimination! I efteråret kan du også altid møde ungdomspræst Benjamin Thomas König til vores events. \nMad&Musik er altid den sidste torsdag i måneden.",
+    "date": {
+      "start_timestamp": 1764262800,
+      "end_timestamp": 1764277200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Dannebrogsgade 53, 1660 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.667687500000014,
+      "longitude": 12.553812500000006,
+      "bounds_ne_lat": 55.66775000000001,
+      "bounds_ne_lng": 12.553875000000005,
+      "bounds_sw_lat": 55.667625000000015,
+      "bounds_sw_lng": 12.553750000000008,
+      "plus_code_global": "9F7JMH93+3G",
+      "plus_code_local": "MH93+3G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/3440364739439929/?event_time_id=3440364742773262",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/536279505_770448195350066_586795298251256553_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ULWAbNTUjyoQ7kNvwEsSnCM&_nc_oc=AdlIW_Lc337lCFT0Cn2zYNf7wfia11pxQ6yCVTzdV-ILeGQZ7otQrOUbhziBhUwaTu0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=U5d56RzD0i4RXf9w3UJhFQ&oh=00_Afdi69XL96Eke0rsNyHUwGYdG7MWbdkT09fGpXaFmnMEkg&oe=68F3FBDA",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Ukirke",
+    "page_url": "https://www.facebook.com/uKirke/events"
+  },
+  {
+    "id": "808651608201000",
+    "name": "Glimt bar vol. 3",
+    "description": "//English below\nFLINT inviterer til GLIMT bar aften i Kvindehuset!\nDen skønneste queer bodega stemning, vil nå højder som aldrig før! Snup dig en varm drink, øl eller sodavand og deltag i byens hyggeligste Bingo.\nDer vil også være brætspil, god musik og masser efterårsstemning!\nTag en ven eller dig selv under armen og kom glad <33\n\nAftenen er separatistisk og byder velkommen til alle kønsminoriteter og kvinder\n\nHuset er ikke niveaufrit og der er mange trapper\nVi forsøger at skabe et rum uden transfobi, homofobi, bifobi, xenofobi, racisme & andre undertrykkende slags adfærd - hvis du oplever noget i løbet af aftenen kan du altid henvende dig i baren.\n//\nFLINT invites to GLIMT bar night at the Women’s House! \nQueer bodega vibes will be all over, like never before!\nGrab a hot drink, beer or soda in the bar and be there for the cosiest Bingo<3\nThere will also be board games, good music and lots of autumn vibes\n\nThe night is separatist and welcomes gender minorities and women. \nThe house is not level free and there are a lot of stairs\nWe wish to create a space without transphobia, homophobia, biphobia, xenophobia, racism and other oppressive behaviors - if you experience anything throughout the night, you can always address the bartenders",
+    "date": {
+      "start_timestamp": 1764439200,
+      "end_timestamp": 1764457200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 37",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68218750000001,
+      "longitude": 12.581937500000024,
+      "bounds_ne_lat": 55.68225000000001,
+      "bounds_ne_lng": 12.582000000000022,
+      "bounds_sw_lat": 55.68212500000001,
+      "bounds_sw_lng": 12.581875000000025,
+      "plus_code_global": "9F7JMHJJ+VQ",
+      "plus_code_local": "MHJJ+VQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/808651608201000/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/558093855_797811849656807_7015714383043379333_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dyySD0qzT-sQ7kNvwH6_SJ3&_nc_oc=AdlZZqiJfi_9CQA4SCerzgVMStLijWcFFwLfxECqPa5ncwYbn78cGIfx9ASBZBWILx4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=1n9woMZvxkB02K2AtUj13A&oh=00_AfcC_1mcshPtPVcWiTpM24lNqMhj4zxMbG4d_xEZi7-eYw&oe=68F3F353",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "FLINT kbh",
+    "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "1102491241633908",
+    "name": "Poetry Takeover 2025: An open mic series by Red Door",
+    "description": "POETRY TAKEOVER\nBi-Monthly Open Mic by RED DOOR\nat La Fee Verte - H.C Ørsteds Vej 6, Frederiksberg\nFrom 18:00\n\nFREE EVENT!\n\n\"Poetry Takeover\" is a bi-monthly open mic event by Red Door and its project The Poetic Phonotheque, held at La Fee Verte, an absinthe bar known for its unique ambiance and focus on music and poetic encounters. \n\nThere will be a sign-up sheet on-site, and entrance will be free. We usually do several rounds of one poem per round, and we take breaks for mingling, enjoying the bar's offerings, and networking. Poetry in all languages is welcome and encouraged, with or without translations, so come and share your work in any tongue!\n\nThe event provides a platform for both emerging and established poets to share their work in a relaxed, creative setting, so bring your latest writing, positive feedback is encouraged!\n\nWe welcome participants of all levels and styles, and often feature guest hosts and renowned writers. The evening is open to anyone who wishes to read, with sign-up available upon arrival. 3-4 min per round of reading per person, but we do several rounds.\n\nIf you don't want to read but enjoy poetry, you're welcome to come and enjoy! Bring your friends!\n\nEvent Details:\n\nWhen: Every two months (last Thursday)\nWhere: La Fee Verte\nCost: Free to attend and participate, drinks available at the bar\nFormat: Open mic (sign up upon arrival)\n\nWhether you are here to read or listen, we invite you to join us for an evening of poetry in a welcoming, creative, welcoming environment. \n\nIf you're not in Copenhagen but would like to share your poetry with us, send it to poeticphonotheque.com, our international multimedia archive of poetry.\n\nSpecial thanks to La Fee Verte for this ongoing collaboration.",
+    "date": {
+      "start_timestamp": 1764255600,
+      "end_timestamp": 1764268200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "La Fee Verte CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67618750000001,
+      "longitude": 12.545812499999997,
+      "bounds_ne_lat": 55.67625000000001,
+      "bounds_ne_lng": 12.545874999999995,
+      "bounds_sw_lat": 55.67612500000001,
+      "bounds_sw_lng": 12.545749999999998,
+      "plus_code_global": "9F7JMGGW+F8",
+      "plus_code_local": "MGGW+F8",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1063541125528920/?event_time_id=1102491241633908",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/532107800_10103601654931848_5597342714334659251_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LxUILPl2AKYQ7kNvwED_t8I&_nc_oc=AdkrUp5h_RBIe7Ry9lPADg2xeJP8bcJK7PpTMpgV8srWjKQ4OGBUr6YRF-LgrpfjoNk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=JPf9dyqsqQmxvnYwu1jbrw&oh=00_AfdhlQ-olsgMDXkl0wSa1airBv54pKl8r34CFpaEN8rkeA&oe=68F3EF92",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "1334238574249142",
+    "name": "Poetry Takeover 2025: An open mic series by Red Door",
+    "description": "POETRY TAKEOVER\nBi-Monthly Open Mic by RED DOOR\nat La Fee Verte - H.C Ørsteds Vej 6, Frederiksberg\n\nFREE EVENT!\n\n\"Poetry Takeover\" is a bi-monthly open mic event by Red Door and its project The Poetic Phonotheque, held at La Fee Verte, an absinthe bar known for its unique ambiance and focus on music and poetic encounters. \n\nThe event provides a platform for both emerging and established poets to share their work in a relaxed, creative setting, so bring your latest writing, positive feedback is encouraged!\n\nWe welcome participants in all languages and often feature guest hosts and renowned writers. The evening is open to anyone who wishes to read, with sign-up available upon arrival. 3-4 min per round of reading per person, but we do several rounds.\n\nIf you don't want to read but enjoy poetry, you're welcome to come and enjoy!\n\nEvent Details:\n\nWhen: Every two months (last Thursday)\nWhere: La Fee Verte\nCost: Free to attend and participate, drinks available at the bar\nFormat: Open mic (sign up upon arrival)\n\nWhether you are here to read or listen, we invite you to join us for an evening of poetry in a welcoming, creative, welcoming environment. \n\nIf you're not in Copenhagen but would like to share your poetry with us, send it to poeticphonotheque.com, our international multimedia archive of poetry.\n\nSpecial thanks to La Fee Verte for this ongoing collaboration.",
+    "date": {
+      "start_timestamp": 1764262800,
+      "end_timestamp": 1764275400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Møllegade 23 A, kld.  tv, 2200 Kbh N.., 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.691687499999986,
+      "longitude": 12.557062500000015,
+      "bounds_ne_lat": 55.691749999999985,
+      "bounds_ne_lng": 12.557125000000013,
+      "bounds_sw_lat": 55.69162499999999,
+      "bounds_sw_lng": 12.557000000000016,
+      "plus_code_global": "9F7JMHR4+MR",
+      "plus_code_local": "MHR4+MR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1334238564249143/?event_time_id=1334238574249142",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545595817_1437151025079073_5793867526601055224_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IwGUVPvikBoQ7kNvwHQ0mzl&_nc_oc=AdleOgHBNKLX84pM-DDZkuHx06JzmvPhEeEio2sG8DbB_YAVcINydagTFCdLeq_2o44&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ZKupgZaB8y-g9nS995HRWg&oh=00_Affy_QFiFkXW20BDUQ0RXHDaEDt1HkfdNCyP_xdWIHnZZw&oe=68F422DB",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
   }
 ]
