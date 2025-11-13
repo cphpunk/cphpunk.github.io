@@ -62,5 +62,101 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "851763790514558",
+    "name": "Wild Flower",
+    "description": "Wild Flower byder på swingende og energisk jazz med rødder i traditionen, men med et nutidigt twist. Vi fortolker kendte standarder og ikoniske melodier fra 60’ernes postbop, med særligt fokus på Shorters univers.\n\nWayne Shorter var en af jazzens mest visionære komponister og spillede blandt andet en afgørende rolle i Miles Davis’ anden store kvintet i 1960’erne – et band, der revolutionerede moderne jazz. Med Miles Davis’ 100-års jubilæum i 2026 er det en oplagt anledning til at hylde både ham og Shorter.\n\nBandet ledes af den talentfulde sangerinde Cornelia Lundstedt (SE), der som første vokalist nogensinde vandt prisen som Årets solist ved den anerkendte svenske jazzkonkurrence Blue House. Hendes stærke stemme og nye tekster bringer et nyt element ind i Shorters ellers instrumentale univers.\n\nLine-up:\n\n- Cornelia Lundstedt (SE) (Sang)\n\n- Ben Leviathan (US) (Diverse saxofoner + fløjte)\n\n- Billy Arvidsson (SE) (Guitar)\n\n- Vilgot Hedtjärn (SE) (Klaver)\n\n- August Bøegh (DK) (Kontrabas)\n\n- Nils Lindqvist (SE) (Trommer)",
+    "date": {
+      "start_timestamp": 1770316200,
+      "end_timestamp": 1770323400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/851763790514558/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/571497390_1337571495046096_5723931780032999046_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CuT688lugU0Q7kNvwFt6lsQ&_nc_oc=Adnk_kLaqtXONrZlr4qVyM4fZ_JR3iauVGTIEXWSyBtAUKfRPpl2lVuUoD6R0weTJh8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=I4RUUlsCop1N2StIYNKAaA&oh=00_Afj3LR3vnoE2Ap17LSUcLhNk3AAB1zhuudhocVUPhe0tBg&oe=691BBD88",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "1725014034883788",
+    "name": "Patient Bloom - Nicklas Jensen",
+    "description": "Nicklas Jensen er guitarist og komponist med base i Aarhus. Han har afsluttet sin musikuddannelse på konservatoriet denne sommer og indleder sin karriere med debutudgivelsen, Patient Bloom. \n\nPå Patient Bloom smelter den bløde nordiske klang sammen med åbne, eksperimenterende kompositioner understøttet af stærke melodiske temaer. Albummet bevæger sig i et lydlandskab, der både føles velkendt og søger mod nye, unikke steder – med fokus på nysgerrighed, udforskning og et stærkt udtryk, men samtidig med en traditionel sans for improvisation og sammenspil. \n\nNicklas Jensens kvartet består af Thor Johansen, Hans Kristian Knold og Thomas Fryland. Thor, Hans Kristian og Nicklas har ofte optrådt som trio og har udviklet en stærk retning og et unikt sammenspil. Med Thomas Fryland på trompet får gruppen en ekstra dimension, og sammen skaber de et dragende lydlandskab.\n\nFørste single “Not Like Before” udkom d. 9. Juli og anden single “Another Place” udkommer 23. Juli - Hele pladen udkom d. 17. august.\n\n_____________________\n\nENGLISH\n\nNicklas Jensen is a guitarist and composer based in Aarhus. He completed his music studies at the conservatory this summer and is launching his career with his debut release, Patient Bloom.\n\nOn Patient Bloom, the soft Nordic tone merges with open, experimental compositions supported by strong melodic themes. The album moves through a sonic landscape that feels both familiar and exploratory – guided by curiosity, discovery, and a powerful expression, while maintaining a traditional sense of improvisation and interplay.\n\nNicklas Jensen’s quartet features Thor Johansen, Hans Kristian Knold, and Thomas Fryland. Thor, Hans Kristian, and Nicklas have often performed together as a trio, developing a strong musical direction and a unique interplay. With Thomas Fryland on trumpet, the group gains an extra dimension, and together they create a captivating soundscape.\n\nThe first single, “Not Like Before”, was released on July 9, and the second single, “Another Place”, came out on July 23 – the full album was released on August 17.\n\nLine-up:\n\nNicklas Jensen // guitar (Composer)\nThomas Fryland // trumpet\nHans Kristian Knold // drums\nThor Johansen // double bass",
+    "date": {
+      "start_timestamp": 1770480000,
+      "end_timestamp": 1770487200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1725014034883788/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/569078089_1334642315339014_1273461382648045171_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uduqV4yMCnkQ7kNvwGWTRUq&_nc_oc=Adl_yw_MMi1I0l3O4dh72CKT4phbwz5Y0MCjkDWpYEclmgdGnyrv9Ckfqafw1AvXY80&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=KlDgcAQoXlOPYOPZ7yVB4A&oh=00_AfhDres9KRwW3n7TkJNCRm23uWLrVGU3lRJevsk3ovOz5g&oe=691BA3FB",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "821673577135657",
+    "name": "Dining Week — uge 7 2026",
+    "description": "🍽️ Dining Week vender tilbage i uge 7 2026 🍽️\n\nFra d. 6.-15. februar 2026 vender Dining Week tilbage og forvandler vinterferien til en kulinarisk fest! ⛄️ I løbet af 10 dage inviterer nogle af landets dygtigste restauranter indenfor til varme stunder, store smagsoplevelser og hyggeligt samvær ved bordene ✨🍽️\n\nForberedelserne er sat i gang, og vi glæder os til at afsløre de deltagende restauranter samt hvornår billetsalget åbner 🩵\n\nVil du holde dig opdateret på Dining Week?\nTilmeld dig vores nyhedsbrev nu og få direkte besked, så snart der er nyt om årets første Dining Week — inklusiv forspring til billetterne! 📨❄️\n\n👉 Tilmeld dig nyhedsbrevet her: diningweek.dk/newsletter",
+    "date": {
+      "start_timestamp": 1770375600,
+      "end_timestamp": 1771196340,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/821673577135657/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/570293552_1391808485638754_4919775215442281697_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MrE5Tq_03BAQ7kNvwH_UDcc&_nc_oc=AdlwJi2uonov0xAODOluaNp7reL-athCNdz3S72VG48J57Uq4uo1XAH9Q0qt0_KGRL0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=oyJeuZZkON_b8YDgPnVIsw&oh=00_AfhE964J0uh2lMMVW8sn8BruGxsW0TtTjykg_Pai50QrPg&oe=691BC48D",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Dining Week",
+    "page_url": "https://www.facebook.com/diningweek/events/"
   }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-i-walk-the-line-show-om-johnny-cash",
+    "name": "I Walk the Line: Show om Johnny Cash",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Johnny Cash (1932-2003) blev en af de mest populære sangere i det 20. århundrede. Kendt som ’the man in black\n  <strong>\n   ’\n  </strong>\n  med den dybe stemme og de enkle sange med vedkommende tekster. Hans kristne tro havde betydning for ham gennem hele livet og især i kriseperioder med skilsmisse og stofmisbrug. De personlige kampe, troen, tvivlen og kærligheden er centrale emner i Johnny Cash’ sange.\n </p>\n <p>\n  Til showet 'I Walk the Line' bliver Cash' musik omdrejningspunktet for aftenen. De erfarne herrer i Straylight.band fremfører musikken live og mellem numrene vil beretninger fra Johnny Cash’ liv blive fortalt i ord og billeder. Publikum inviteres til at synge med - og der deles sanghæfter ud, hvis teksten lige glipper.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Onsdag den 4. marts kl. 20.00 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 100 kr. + gebyr / 120 kr. ved køb i døren\n  <br/>\n  Arrangementet er med unummererede siddepladser.\n  <br/>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772650800,
+      "end_timestamp": 1772656200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/i-walk-the-line-show-om-johnny-cash",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Design%20uden%20navn%20%287%29.png?itok=LdYPzmB5",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

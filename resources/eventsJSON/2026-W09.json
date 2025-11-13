@@ -66,7 +66,7 @@
   {
     "id": "kk-emil-hess-quartet",
     "name": "Emil Hess Quartet",
-    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Emil Hess Quartet byder på ny nordisk jazz med et transatlantisk islæt. Musikken er båret af originale melodier, sfæriske stemninger og swingende energi – leveret af prisvindende musikere, der har spillet sammen i mange år. Kvartetten har udgivet to album, senest Open Minds (2025), der er blevet rost for sit lyriske udtryk og stærke melodier.\n </p>\n <p>\n  Saxofonisten og komponisten Emil Hess har udgivet 19 album, skrevet over 400 kompositioner og modtaget en Danish Music Award for bedste danske jazzalbum. Han har spillet mere end 1500 koncerter verden over og samarbejdet med profiler som Mulgrew Miller, Cameron Brown, Marilyn Mazur og brødrene Nikolaj og Mikkel Hess.\n </p>\n <p>\n  Ved klaveret finder vi Thomas Clausen, en af Danmarks mest anerkendte pianister, der gennem sin lange karriere har spillet med navne som Miles Davis, Dexter Gordon, Gary Burton og NHØP.\n </p>\n <p>\n  Kvartetten rundes af med Graig Earle, canadisk bassist med base i Danmark, kendt for sit samarbejde med blandt andre Ralph Alessi og Gilad Hekselman, samt Richard Huntley, amerikansk trommeslager med erfaring fra mere end 30 lande og samarbejde med kunstnere som George Coleman, Esperanza Spalding og Fred Wesley.\n </p>\n <p>\n  Anmelderne har kaldt musikken både ”utroligt lækker og sikker” (Jazz Nyt) og ”en fortryllende kombination af lyriske kompositioner og stærke improvisationer” (Jazz Special).\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Torsdag 26.2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 140 kr. + gebyr / Køb i døren: 160 kr.\n  <br/>\n  Koncerten er med unummererede siddepladser.\n </p>\n</div>\n",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Emil Hess Quartet byder på ny nordisk jazz med et transatlantisk islæt. Musikken er båret af originale melodier, sfæriske stemninger og swingende energi – leveret af prisvindende musikere, der har spillet sammen i mange år. Kvartetten har udgivet to album, senest Open Minds (2025), der er blevet rost for sit lyriske udtryk og stærke melodier.\n </p>\n <p>\n  Saxofonisten og komponisten Emil Hess har udgivet 19 album, skrevet over 400 kompositioner og modtaget en Danish Music Award for bedste danske jazzalbum. Han har spillet mere end 1500 koncerter verden over og samarbejdet med profiler som Mulgrew Miller, Cameron Brown, Marilyn Mazur og brødrene Nikolaj og Mikkel Hess.\n </p>\n <p>\n  Ved klaveret finder vi Thomas Clausen, en af Danmarks mest anerkendte pianister, der gennem sin lange karriere har spillet med navne som Miles Davis, Dexter Gordon, Gary Burton og NHØP.\n </p>\n <p>\n  Kvartetten rundes af med Graig Earle, canadisk bassist med base i Danmark, kendt for sit samarbejde med blandt andre Ralph Alessi og Gilad Hekselman, samt Richard Huntley, amerikansk trommeslager med erfaring fra mere end 30 lande og samarbejde med kunstnere som George Coleman, Esperanza Spalding og Fred Wesley.\n </p>\n <p>\n  Anmelderne har kaldt musikken både ”utroligt lækker og sikker” (Jazz Nyt) og ”en fortryllende kombination af lyriske kompositioner og stærke improvisationer” (Jazz Special).\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Torsdag 26.2 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 145 kr. + gebyr / Køb i døren: 160 kr.\n  <br/>\n  Koncerten er med unummererede siddepladser.\n </p>\n</div>\n",
     "date": {
       "start_timestamp": 1772132400,
       "end_timestamp": 1772137800,
@@ -126,5 +126,69 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-vinterjazz-drongo-no",
+    "name": "Vinterjazz: Drongo (NO)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Drongo is one of Norway's most talked-about live bands – known for thrilling audiences with an electric mix of space disco, krautrock and psychedelic rhythms. In recent years, the band has made a name for itself as one of the most innovative acts on the Norwegian music scene, and now they are turning their attention to the rest of Scandinavia.\n </p>\n <p>\n  With eight musicians on stage, Drongo creates a massive and danceable sound universe where the boundaries between genres disappear in pulsating bass, improvisation and euphoric interplay. Their concert at SPOT Festival brought the house down – and at Xenon you can expect the same intense energy as they fill the room with light, sound and pure dancing joy.\n </p>\n <p>\n  As Aftenbladet wrote: ‘Todd Terje and Lindstrøm should feel a little scared.’\n </p>\n <p>\n </p>\n <p>\n  The concert will be held as a 360° concert, where the audience stands around the band and becomes part of the sound and atmosphere. This creates an intimate and sensory concert experience, where you can feel the music from all sides. Due to the setup, there are a limited number of tickets available for sale.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772222400,
+      "end_timestamp": 1772233140,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Xenon",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-drongo-no",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-10/WEB%20%2B%20BILLETTO%20%282%29_0.png?h=e36bb82b&itok=8mCokfI_",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "2059177738218630",
+    "name": "Ida Alanen Trio",
+    "description": "\nIda Alanen Trio is one of the most prominent new groups in the Finnish jazz scene. The group is led by pianist-composer Ida Alanen, who has recently finished her master's studies at the\nConservatory of Amsterdam. The bass player, Jonathan Bäckström, and drummer, Benjamin Nylund, are versatile, composing musicians with unique voices and strong artistic identities. Together, they form one of the most sought-after rhythm sections in Helsinki, also known from the Jonathan Bäckström Quartet among others.\n\nThe trio’s repertoire is based on Alanen’s compositions, around which the group has worked closely together for the past couple of years. Her original composing style draws inspiration from\nvisual arts, organic textures, and dream imagery. The influence of a wide variety of music styles is evident in her style as a composer and improviser, including minimalism, modern classical\ncomposers, and folk music, to name a few. As a pianist, Alanen has an exceptional sensitivity to melody and simplistic beauty, and her compositions are filled with colorful details and a rich\nharmonic palette. The trio has seamless communication, alternating effortlessly between carefully orchestrated compositions and the freedom of improvisation.\n\nThe duality of the two worlds - the dreamworld and the realistic world, the conscious and the subconscious - remains the main theme of the trio’s debut album, Awake Asleep. Exploring the\nborderland between sleep and wakefulness, it invites images from the subconscious into broad daylight. All the tunes on the album are either directly inspired by dreams, influenced by them, or\nserve as mirrors to a dreamlike imaginary world. The album was released in October 2023 on the Norwegian label AMP Music & Records, also in Dolby Atmos surround sound format. This strong\ndebut was met with a positive response and immediate interest in both the Finnish and European jazz scenes.\n\n“Awake Asleep” is a wonderful debut from the Ida Alanen Trio. Highly engaging, quietly intoxicating, and sumptuously imagined.\nHighly recommended listening.”\n- Mike Gates, UK Vibe, 9.12.2023\n\nIt is evident that these musicians will be at the forefront of our jazz scene in the future. Alanen creates her music with a modern\napproach, being conscious of jazz piano traditions. She respects melodic expression and is very poetic.”\n- Marita Nyrhinen, Kulttuuritoimituksen levykatsaus, 18.12.2023 (translated from Finnish)\n\n\"Under the fingers of Ida Alanen, all tones gain in delicacy and nobility. And so is the entire album. A great attention to the melody, which is always beautiful or fascinating, and to the details. One can hear the refinement of the entire musical material. All of this makes you want to listen to the album over and over again, which is the best proof of the level and quality of this release.”\n- jazz.fun.de - Magazin für Jazz Musik (translated from German)\n\n”The internationally acclaimed pianist Ida Alanen recruited bassist Jonathan Bäckström and drummer Benjamin Nylund to her band,\nboth of whom are enjoying good momentum in jazz circles. Together, the trio crafted a debut album brimming with harmonic\nbeauty.”\n- Juha Seitz, Ilkka-Pohjalainen 11.12.2023 (translated from Finnish)",
+    "date": {
+      "start_timestamp": 1772130600,
+      "end_timestamp": 1772137800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/2059177738218630/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/570353765_1337689881700924_1366012414567377604_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M_2zrr7rzlMQ7kNvwG1YviR&_nc_oc=AdmaAtQHDxBsNWbnpQan9861JQjaKIEssMQjFoQF0EWimjFoSEdpy1EEJrFPanayrek&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=eArz1X2o0OblJCOBtZyj9A&oh=00_AfhYJMvTU_9xZ_xM2IKncEnzwIDyJazy-TOU74x6ZOKx4A&oe=691BB34B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
   }
 ]

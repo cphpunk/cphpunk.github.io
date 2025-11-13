@@ -11,7 +11,7 @@
     "location": {
       "name": "Husets Biograf",
       "address": "Rådhusstræde 13, 2 th",
-      "city": "Copenhagen",
+      "city": "Copenhagen, Denmark",
       "country": null,
       "latitude": 55.676437500000006,
       "longitude": 12.574687500000024,
@@ -43,7 +43,7 @@
     "location": {
       "name": "REBEL Work Space",
       "address": "Dampfærgevej 27-29",
-      "city": "Copenhagen",
+      "city": "Copenhagen, Denmark",
       "country": null,
       "latitude": 55.69918750000001,
       "longitude": 12.594812500000003,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/629180220866113/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/53485377_2270912306302949_5377631180118032384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YDxN44eBhPAQ7kNvwFCgImP&_nc_oc=AdmtfX_iFmPWgGbOcYLRXoStIReykKfk_IwcJcbM6FfoCHeS-0iBe8Yu4MAeUeGtLrM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=hU8feK7KgSkeKbUyBCfXYg&oh=00_AfYsOit4fNRELB45IFjP8C7-B12KvJqvcYJngM2F8vcGqw&oe=68F20AFA",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/53485377_2270912306302949_5377631180118032384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=i4JCRBHLulAQ7kNvwFGLoq2&_nc_oc=AdllN12sVemFy59-XRzhC5Xh6bUDv6mBDjt7alDWEvXx2Ul8ZiPXr1_tvG-TijmV34g&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=aWtwdI3L-wKr912IFLC19Q&oh=00_AfjcI9FmP64yBjcrPcUvyqUfeDTJhlAoFuwTXcc8SZjVjg&oe=693D68BA",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Annual Copenhagen Film Festival",

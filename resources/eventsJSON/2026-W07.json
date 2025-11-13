@@ -203,7 +203,7 @@
     "location": {
       "name": "Sjællandsgade Bad",
       "address": "Sjællandsgade 12a",
-      "city": "Copenhagen",
+      "city": "Copenhagen, Denmark",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -217,10 +217,74 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/807923698437272/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MLQonjC3BMkQ7kNvwGodZok&_nc_oc=Admr6YiWzx3vdbpLJTJqnAovdxU-nny2RxriMq5qRh-E_TjM_LKGCFOGDVF-Uh7lDEQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=bi-POwslVDtpSk-11h2LpQ&oh=00_AfdmtAK-jLcf19qISVvx-tqjiTx-X4iCBBzmXYGBRK0NVQ&oe=68F3F245",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OKdYcu4TtZcQ7kNvwFltpmt&_nc_oc=Adnfh0g3eDMW3Swi6_7eqsKGnyx2orLKwOZR1N972_0J2tSsglKoTihqfwL-KbUjZlI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=TWvQ8N3lVJQwpv6vaQT1Dw&oh=00_AfiCCf8mNAuby0YOo-fz1vtg4bvapsad4wwHqMvYXOucYQ&oe=691BB785",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
     "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "809251778484302",
+    "name": "Featherdrop",
+    "description": "Nordisk noir med stænk af mellemøstlig folk - en helt unik lyd!\n\nFeatherdrop skaber værker med en filmisk karakter, i et tilbageblik til modal jazzen, med fængende melodier og foranderlige soundscapes. Gruppen bevæger sig på én gang indenfor og udenfor rammerne af nutidig jazz, og fremkalder stemninger, som bliver hængende efter den sidste tone. De formår at kombinere kompositorisk dybde med virtuos improvisation.\n\nFeatherdrop blev dannet i 2023 af gruppens komponister Thomas Munk-Petersen og Stig Halskov i samarbejde med de to internationalt anerkendte og prisvindende solister, Eyal Lovett på klaver og Thomas Fryland på trompet. Gruppen fik airplay på P8 Jazz med singlen Vinternat fra debut Ep’en Epilog (2024), og i foråret 2025 med singlen Dreaming, fra deres anmelderroste album Nocturnes (2025), mixet af Grammy-vindende Rich Breen.\n\nLine-up:\nThomas Fryland - Trompet\nEyal Lovett - Klaver\nThomas Munk-Petersen - Bas\nStig Halskov - Trommer",
+    "date": {
+      "start_timestamp": 1770921000,
+      "end_timestamp": 1770928200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/809251778484302/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/565167732_1333686702101242_1959741802164404192_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XTKOmWSZEkgQ7kNvwHrFl6l&_nc_oc=AdkBrIT92XtU5RaeIxM1TftH5vpmGJRIrttiyve_C0tk5_kNddKTTVEfsLBrL3Ov2MY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=PzmaGcIwEm9FHkACuVi50A&oh=00_AfjChhmWzZChoLXwIBGQ4F3itEIDs3HAiKJvMKCjJT7UVg&oe=691BB356",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "789547800915922",
+    "name": "Rød Sol",
+    "description": "VINTERJAZZ\n\nRød Sol er et band, der udforsker grænsefeltet mellem jazz, fri improvisationsmusik og indie rock. Bandet mødtes for to år siden i trekantsområdet, hvor de alle tre er vokset op. Kemien mellem musikerne var fra starten stor og er siden blot vokset. \n\nI juni måned indspillede trioen deres debutalbum “Rød Sol”, der udkommer til januar. Pladen består både af fine gennemkomponerede flydende passager, men også af hårdtgroovende New Yorker jazz. Publikum kan forvente en sprudlende koncert med enorm energi, men også med tid til eftertænksomhed. \n\nLine-up:\nRasmus Hultberg (Guitar)\nAugust Hofman Bøegh (Kontrabas)\nHalfdan Thorndahl (Trommer)",
+    "date": {
+      "start_timestamp": 1771084800,
+      "end_timestamp": 1771092000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/789547800915922/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/569021250_1334577988678780_5858742489368084499_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bMQfeQA-43kQ7kNvwG6IqgF&_nc_oc=AdmpcmBSeUiwTevxY7Uq-qpfCHXCBr8iLj-Q74GlEeCBlwwDEDiLhKAw3P3jFkT9OaU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=jZA9jS8gLQ7Koe0BE0dXCw&oh=00_Aficj9tLxTtzxpwzlsVHxcB8J0TAfjQpKBIPZZ6CVzZ_ug&oe=691BA8DD",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
   }
 ]

@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-seamus-fogarty-samantha-whates-ida-wenoe",
+    "name": "Seamus Fogarty + Samantha Whates & Ida Wenøe",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <h3>\n  <strong>\n   Seamus Fogarty\n  </strong>\n </h3>\n <p>\n  Seamus Fogarty grew up on the west coast of Ireland but has lived in London since 2011.\n </p>\n <p>\n  With each release, Fogarty has refined his own unique style, characterised by a distinctive, moving and exploratory approach to music. Fragmented electronic sounds collide with melodic fragments, drones and field recordings. His songs challenge the fundamental elements of traditional styles such as folk, blues and country. Fogarty is far more interested in twisting and turning the music into something completely different – a world of soft motoric bass lines, twanging banjos and floating, rushing strings.\n </p>\n <p>\n  Fogarty has toured extensively in the UK, Ireland and Europe and has performed at many prominent festivals, including Green Man, Eurosonic, Latitude, Electric Picnic, Mosely Folk and Haldern Pop.\n </p>\n <p>\n  The Guardian gives Fogarty 5 stars, writing: “Magical journeys through fable and modern life and back again, often in the same song”.\n </p>\n <h3>\n  <strong>\n   Samantha Whates\n  </strong>\n </h3>\n <p>\n  Samantha Whates is a highly respected artist on the British folk and roots scene. Her beautiful and poetic songs capture both the pain and beauty of human life, and she has maintained a strong connection to her Scottish roots.\n </p>\n <p>\n  Whates has developed her own unique fingerstyle technique, and her songs are structurally bold. Her pure and clear voice meets raw field recordings and is spiced with unconventional backing vocals. Samantha's skills in backing vocals have taken her far and wide – on worldwide tours with Noel Gallagher, to praise from Dolly Parton and now in almost symbiotic recordings and live collaborations with Ida Wenøe.\n </p>\n <h3>\n  <strong>\n   Ida Wenøe\n  </strong>\n </h3>\n <p>\n  Ida Wenøe has created her own musical style by blending foreign influences such as Nick Drake, Joni Mitchell and Beth Gibbons with her roots, which range from traditional folk music and the Højskolesangbogen songbook to inspiration from English folk music.\n </p>\n <p>\n  She has played hundreds of concerts across Europe and North America and has built a reputation as an intense and powerful live performer.\n </p>\n <p>\n  Ida Wenøe works with dense storytelling, often using nature as inspiration. Her voice has both nerve and strength, drawing on folk traditions from the 60s and 70s, yet always giving the music her own unique touch. The accompaniment is characterised by subtle but insistent guitar playing, flanked by violin, double bass and flutes, and not least floating vocal harmonies.\n </p>\n <p>\n  In 2021, she won a Danish Music Award as ‘Danish Roots Artist of the Year’ and Clash Magazine describes her as ‘Bewitching acid folk with a deeply personal edge.’\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774724400,
+      "end_timestamp": 1774735200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhustræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/seamus-fogarty-samantha-whates-ida-wenoe",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-10/WEB%20%2B%20BILLETTO%20%282%29_4.png?itok=-SG0wwc-",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

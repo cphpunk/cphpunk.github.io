@@ -1,0 +1,34 @@
+[
+  {
+    "id": "2022032265224923",
+    "name": "Hanne Boel & Carsten Dahl | Bremen Teater, København",
+    "description": "Hanne Boel og Carsten Dahl kommer til Bremen Teater under Copenhagen Jazz Festival\n——————————————\n• Billetpris: 380kr\n• Billetsalg: www.billetlugen.dk/noapp/event/20918055/?affiliate=BT9\n• Døre: kl. 19\n• Koncert kl. 20\n\nTilmeld dig Bremen Teaters Nyhedsbrev:\nhttps://www.brementeater.dk/nyhedsbrev\n——————————————\nHanne Boel og Carsten Dahl behøver ingen nærmere præsentation. De er, på hvert deres felt, enestående kunstnere fra allerøverste hylde i Danmark med lange karrierer bag sig inden for pop og jazz.\n\nEfter at have indspillet den meget roste duoplade I Think It’s Going to Rain fra 2010, har de holdt en længere pause fra deres samarbejde. I sommers blev de genforenet med to koncerter på Hotel Cecil under Copenhagen Jazz Festival, og i 2026 gentager de succesen på Bremen Teater. \n\nSammen vil de genfortrylle og fortolke udvalgte sange, som de begge elsker, og skal man følge Nettavisens anmeldelse fra i sommers, er der noget at glæde sig til:\n\n”Det tog ikke mange sekunder eller takter at forstå, at vi her havde at gøre med to stjernemusikere (…) som havde den største respekt for hinanden, og som tydeligvis syntes, det var en stor ære at kunne spille sammen igen”.\n\nDet, der kendetegner de to – foruden en smittende leg og pingpong – er dybde, inderlighed, modenhed, humor, poesi og ikke mindst en no-nonsense, lige i skabet-feeling, som når helt ud på række 300 i en koncertsal.",
+    "date": {
+      "start_timestamp": 1783447200,
+      "end_timestamp": 1783454400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Bremen Teater",
+      "address": "Nyropsgade 39-41",
+      "city": "Copenhagen, Denmark",
+      "country": null,
+      "latitude": 55.6765625,
+      "longitude": 12.561062500000006,
+      "bounds_ne_lat": 55.676625,
+      "bounds_ne_lng": 12.561125000000004,
+      "bounds_sw_lat": 55.676500000000004,
+      "bounds_sw_lng": 12.561000000000007,
+      "plus_code_global": "9F7JMHG6+JC",
+      "plus_code_local": "MHG6+JC",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/2022032265224923/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/579686414_1302079295297089_2298326640206019900_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Xm0hpj9DmWAQ7kNvwH7QmFU&_nc_oc=AdkhiKWWoqyyMeXTkmLHh1urFUcVSMekAXs9Y996ZyI6nckbDiShdDs8VLt_CWeSlRs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=dDFRyXEXtLybz-zsN58Vhg&oh=00_AfggbMgz5R_0N7AVDzbM7159GEfEAgh0V2ASmDZW9XTC3A&oe=691BC5D0",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Jazz Festival",
+    "page_url": "https://www.facebook.com/cphjazzfestival/events"
+  }
+]

@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-the-orgelheimers-sing-along-christmas-songbook",
+    "name": "The Orgelheimers' Sing Along Christmas Songbook",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Disclaimer: DETTE ER IKKE EN NORMAL ORGELHEIMERS KONCERT. BANDET SPILLER UDELUKKENDE JULESANGE\n  <br/>\n  The Orgelheimers gør det den onden fløjte mig igen. Dette bliver langt fra den traditionelle Orgelheimer-koncert, i det de udelukkende spiller julesange.  Bandet deler julesanghæfter ud, så I kan synge med - om lysten skulle skylle over jer - og de har gaver med til alle i publikum. Alt for mange virkelig dårlige gaver, men bandet håber I tager dem med hjem, og giver dem videre, skulle de vise sig fuldstændig ubrugelige.\n </p>\n <p>\n  Med andre ord:  køb ikke billet til denne koncert, hvis ikke du ønsker at gå hjem med gaver I ikke kan bruge, lettere traumatiserede af dårlig gløgg, brunkager og enormt dårligt performede julesange.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 19. december kl. 20\n  <br/>\n  Billet: 80 kr.\n  <br/>\n  I Bryggekælderen på Njalsgade 15 (indgang via bibliotekets gård).\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1766170800,
+      "end_timestamp": 1766178000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Bryggekælderen",
+      "address": "Njalsgade 15, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.579062500000006,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.579125000000005,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.579000000000008,
+      "plus_code_global": "9F7JMH8H+PJ",
+      "plus_code_local": "MH8H+PJ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/the-orgelheimers-sing-along-christmas-songbook",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Orgel_I_want_for_christmas.jpg?itok=FvkGQJBa",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

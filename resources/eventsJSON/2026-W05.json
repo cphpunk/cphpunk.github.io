@@ -62,5 +62,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "689153957335509",
+    "name": "Slaughter To Prevail [Support: Dying Fetus + Suicide Silence] // K.B. Hallen // 31. januar 2026",
+    "description": "Oplev deathcore-bandet Slaughter To Prevail sammen med Dying Fetus og Suicide Silence i K.B. Hallen den 31. januar 2026!\n\n• Billetpris/gebyr: 430 (50)\n• Billetsalg starter fredag 6. juni 2025 kl. 11:00 via livenation.dk og billetlugen.dk\n• Live Nation pre-sale starter torsdag 5. juni 2025 kl. 10:00 via livenation.dk for nyhedsbrevsmodtagere\n• OBS: Billetter i app’en: BILLETLUGEN.pass. Denne billettype kan kun tilgås via Billetlugens app, hvilket kræver download af appen for at kunne vise sin billet. \n• Begrænsning på 10 billetter pr. køb\n\nSlaughter To Prevail er tilbage med fuld kraft i 2026, og bringer deres brutale deathcore-univers med sig, når de gæster K.B. Hallen i København sammen med Dying Fetus og Suicide Silence, som en del af deres kommende verdensturné. Det hele kulminerer med udgivelsen af deres længeventede tredje album ’Grizzly’, som lander den 18. juli 2025 via Sumerian Records. Albummet markerer en ny æra for bandet, der er kendt for at kombinere ekstreme vokaler, hårdtslående riffs og en kompromisløs attitude – både i musikken og på scenen.\n\nSiden gennembruddet med EP’en ’Chapters of Misery’ i 2015 og debutalbummet ’Misery Sermon’ i 2017, har Slaughter To Prevail været en bastion i den moderne deathcore-scene. Frontmand Alex Terrible blev et ikon i metalverdenen med sine dybt gutturale vokaler, intense liveoptrædener og en livsstil, der er lige så ekstrem som bandets lyd. Bandet har opbygget en dedikeret fanbase, ikke mindst takket være Alex Terribles enorme tilstedeværelse på sociale medier, hvor hans vilde træningsrutiner, kærlighed til kampkunst og ekstreme vokalteknik har fascineret millioner.",
+    "date": {
+      "start_timestamp": 1769880600,
+      "end_timestamp": 1769887800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/689153957335509/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/576960579_1279211614234335_1073316424866278258_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eS_AwsrrrfEQ7kNvwEmLctZ&_nc_oc=Adngg_RFhKxu9sGhLclLz3_As8psP_SfvZiUZ46_F7tZOXh4Q0oP0x2_IgUHwjUi380&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=-2oBi03pZRG2P3rnO-3SXA&oh=00_AfgbbaFZL_ekxt6R11fRNFFEsHHlU0LniJA6oXAJtaAZdw&oe=691BCA0D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
   }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-tyler-hilton-kate-voegele-live-in-copenhagen",
+    "name": "Tyler Hilton & Kate Voegele Live in Copenhagen",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <h3>\n  Tyler Hilton\n </h3>\n <p>\n  From portraying Elvis Presley in Walk the Line and garnering a cult following as musician Chris Keller on the CW hit TV show One Tree Hill, to writing and touring with the likes of Taylor Swift, Lady Antebellum and Joe Cocker, Tyler Hilton has enjoyed an award-winning career spanning music, film and television. Don’t miss this chance to relive the magic of One Tree Hill with Tyler as he takes the stage across Europe.\n </p>\n <p>\n  Born and raised in California, Tyler grew up in a family of talented musicians who had played for acts like Fleetwood Mac, George Harrison and Donovan. Performing with his family from an early age, Hilton became serious about songwriting at 14. At 15, he called into L.A.’s KLOS radio station to win concert tickets and ended up wowing the hosts with an on-air performance. The station made him a regular guest and helped launch his debut record, which caught the ear of Warner Bros. Records, who signed him to record his second album The Tracks of Tyler Hilton, earning him two Top 40 singles.\n </p>\n <h3>\n  Kate Voegele\n </h3>\n <p>\n  Kate Voegele is an LA based singer/songwriter, recording artist, and content creator. She is also an actress, starring on the hit CW show 'One Tree Hill,' a painter, and business owner of the blog and lifestyle company We The Dreamers.\n  <br/>\n  <br/>\n  Along with playing thousands of shows touring internationally for the last decade, Voegele has released 4 studio albums to date, selling over 500,000 copies in total and racking up millions of streams. In addition to her most recent release, “The Best Part (French Version),” a single in collaboration with indie band Bien, Kate has recently released several singles with her band, Your Future Ghost, in anticipation of a debut album drop this summer.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1776790800,
+      "end_timestamp": 1776803400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/tyler-hilton-kate-voegele-live-in-copenhagen",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-10/K%26T%20Press%20Photo.png?h=0be60bca&itok=5N96ZLLK",
+    "tag": "MOVIE",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  }
+]

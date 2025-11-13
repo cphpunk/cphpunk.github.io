@@ -11,7 +11,7 @@
     "location": {
       "name": "Sjællandsgade Bad",
       "address": "Sjællandsgade 12a",
-      "city": "Copenhagen",
+      "city": "Copenhagen, Denmark",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1721069105219185/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/546087723_775307508573908_1691432726718614350_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h76R9c6ddWMQ7kNvwELS4J7&_nc_oc=AdllYVZyBB728wf1CS4YlYcFUxT4WyeR2ADpis8iHuEWK7xY1ZoFQ8qgC9Gtp83hPlc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=3bQ-HCCBUgAEsToLUaPWRg&oh=00_AfeYpHrOiVokFv1yxNYe46Elx_leOZn5pD2tiI1e-1h20w&oe=68F40538",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/546087723_775307508573908_1691432726718614350_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ff-QHErkF64Q7kNvwGhNp-x&_nc_oc=AdmL7cf7TDp4eYY6-z16eRMAf2H37D16f4uJo0e9IIN6LDhSxg5GcF54mDkX77xOFBQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Mba5sHve1__ZOeXxGG1S8g&oh=00_AfhhxTZDuY_9NAN1sA8HKl2TTEejpzecCr17ffjMtxnbOg&oe=691BCA78",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -62,5 +62,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-schaefer-support-retrospekt",
+    "name": "Schæfer + support: RETROSPEKT",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Although Schæfer has only released three singles so far, the band has already made a name for itself as one of the most daring and exciting new acts on the Danish music scene. The duo and couple, Anna Skov (vocals) and Emil Mors (keyboards), write socially relevant, subtle and humorous songs that poke fun at both the world around them and themselves.\n </p>\n <p>\n  Schæfer has already toured all over Denmark and played sold-out concerts in Copenhagen, Aarhus and Aalborg, among other places – and it is precisely on the live stage that the band has really made a name for itself, when the duo expands into an explosive seven-piece orchestra. On stage, the audience is invited into a strong collective, where the seven musicians' total presence and joy of playing set the tone.\n </p>\n <p>\n  It's jazzy, it's poppy, and not least, it's an incredible ability to convey powerful songs with both depth, playfulness and an uncompromising and devil-may-care energy.\n </p>\n <p>\n  GAFFA has repeatedly awarded Schæfer's concerts five stars and describes the sound as ‘a kind of indie dream jazz, which offers delicious trumpet solos and choir voices, among other things’. The media wrote praisefully: ‘What they achieve is nothing less than a small miracle’.\n </p>\n <p>\n  By the summer of 2025, Schæfer had played at more than 15 festivals across the country, including Smukfest, Nibe Festival and Spot Festival. The year began with the debut singles “Chefer”, “Venter” and “Din Yndlingssang”, which – in addition to airtime and rotation on P6 BEAT, P5 and P8 Jazz – garnered great recognition in media outlets such as Politiken, GAFFA and Bands Of Tomorrow.\n </p>\n <p>\n  5 stars from GAFFA: ‘Schæfer left the audience with the feeling of having experienced something rare and unique.’\n </p>\n <p>\n  4 stars from Nordjyske: ‘It's jazzy pop that is exceptionally well executed, well written and outside genre conventions.’\n </p>\n <h3>\n  Support: RETROSPEKT\n </h3>\n <p>\n  RETROSPEKT invites listeners to where music originates – to a universe that is also yours. The Copenhagen-based quintet began their career in the summer of 2024, with the goal of forming a project based on the desire to create together and challenge what music can do when freed from its constraints. The band's five members have roots in widely different musical genres: jazz, funk, classic rock, metal, punk and pop – inspirations that all form the puzzle pieces that create the band's distinctive sound.\n </p>\n <p>\n  ‘We never work from a genre, but we see our sound as alternative, energetic, pop rock, with notes of jazz and melancholy, tied together by an explosive dose of personality that speaks to the narrative of being young in an unpredictable world.’\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1775844000,
+      "end_timestamp": 1775858340,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Xenon",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/schaefer-support-retrospekt",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-10/Hjemmeside%20event%20%281200%20x%20554%20px%29%20%286%29.png?itok=FR4-1xu8",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

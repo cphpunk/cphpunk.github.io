@@ -11,7 +11,7 @@
     "location": {
       "name": "Sjællandsgade Bad",
       "address": "Sjællandsgade 12a",
-      "city": "Copenhagen",
+      "city": "Copenhagen, Denmark",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -25,10 +25,42 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/797601426083948/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545710232_775306695240656_7260444037786937681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J42y66dAJG8Q7kNvwG_h-3k&_nc_oc=AdmpYhYpEkusSyy8gGdlH2JwP6puA6GAhhKju95vHg_QWNUFwlCSLghRRH5E0Cq7oLA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=REm-DdCRnFsLkX-9z0tI6w&oh=00_AfdlLzKC1Wijq3xzV0mMbZ1ZyBcMfAINM2M47AfWL4DIeQ&oe=68F40101",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545710232_775306695240656_7260444037786937681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nkJACwSrZMkQ7kNvwEpeKJp&_nc_oc=Adm7OATZpsBzk8AHBzAi0mWI_AYh92avkPSCfpWKyVkb6yRHVSJd2lbk6N27VOCuXTM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=BXn0toKWm258hwxtKZolaw&oh=00_Afip3YSYfd7y5-b7pSlxxXxZsdMjSxSHGFU7m0Xz2yKj0A&oe=691BC641",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
     "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "kk-dug-ie",
+    "name": "DUG (IE)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  There’s a natural magnetism to DUG’s folk brew. The duo, made up of Conor (Lorkin) O’Reilly and Jonny Pickett, are gearing up for the release of their debut album, having formed in 2023–but you’d be forgiven for believing that they’ve been writing together for a lifetime.\n </p>\n <p>\n  Their music stems from roots in musical traditions spanning both sides of the pond. In one breath, echoing the great American folk troubadours, and in another, comfortably channelling the elder statesmen of Irish folk.\n </p>\n <p>\n  This is no accident. DUG have a shared musical heritage, with members having been born in America and Scotland before arriving in Ireland. O’Reilly himself spent almost a decade making and releasing music in upstate New York, having picked up sticks from his native Edinburgh, (Irish mother and Scottish father) before moving to Ireland in 2022 to start a new musical chapter.\n </p>\n <p>\n  And you can hear that lived musical experience in singles like ‘Big Sundown’ and ‘Jubilee’ (shortlisted for two Grammy nominations). Resonator guitar and banjo, the building blocks of DUG’s arrangements, lick and spin, with intricate finger-picking patterns whirling to a compelling whole. Their music breathes, vamping in sync.\n </p>\n <p>\n  They’re damn funny too. DUG’s lyrics catch you off guard, eliciting an honest-to-goodness chuckle in a moment of levity. At their very best, as on their forthcoming album, there’s a bona fide warmth littered throughout their unique take on folk storytelling. Tracks like ‘Wheel of Fortune’ have an easy rapport.  It’s catching up with an old friend, all mischief and smiles.\n </p>\n <p>\n  There are allusions to darker moments there too; yearning and melancholy, to lessons learnt the hard way. Taking the heavy with the light, and being able to translate it into a foot-tapping, infectious contemporary folk sound is what DUG do best. They don’t need to posture; their music is naturally playful and honest, inviting you along on their musical journey.\n </p>\n <p>\n </p>\n <p>\n  DUG’s love for the musicians that inspired them never steps too far into reverence. They’re an unapologetically modern band. You’ll hear plenty of Irish influence in their music, but you’ll not find any tweed coats or paddy caps here. Instead, the band opts to be themselves-completely natural and organic. It’s part of what gives the group’s work such a strong charisma, and helps establish DUG as having one of the most unique takes on contemporary folk music.\n </p>\n <p>\n  In 2024, the duo signed to Claddagh Records, a label in which they find themselves in fine musical company. A subsidiary of Universal Records, Claddagh Records has spent the last few years becoming a hotbed for some of the most forward-thinking musicians in contemporary Irish folk, home to artists like Niamh Bury, Lemoncello, and ØXN, to name a few.\n </p>\n <p>\n  It should come as no surprise that a group that delights in a touch of devilment and so ardently remains true to themselves has built a thriving community of fans, both at their live shows and through their often hilarious social media.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1773514800,
+      "end_timestamp": 1773529140,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/dug-ie",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Hjemmeside%20event%20%281200%20x%20554%20px%29%20%286%29.png?itok=xPjT6z8n",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]
