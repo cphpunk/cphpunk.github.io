@@ -185,10 +185,42 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/2059177738218630/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/570353765_1337689881700924_1366012414567377604_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M_2zrr7rzlMQ7kNvwG1YviR&_nc_oc=AdmaAtQHDxBsNWbnpQan9861JQjaKIEssMQjFoQF0EWimjFoSEdpy1EEJrFPanayrek&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=eArz1X2o0OblJCOBtZyj9A&oh=00_AfhYJMvTU_9xZ_xM2IKncEnzwIDyJazy-TOU74x6ZOKx4A&oe=691BB34B",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/570353765_1337689881700924_1366012414567377604_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=84luOjm12b8Q7kNvwHwybsc&_nc_oc=Admq_MwMp0-tVQKvoVlBlHKw3tFLEvrI6lAYFz_k6mJTAoAkzubOZrNPBjNLIN035DE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=6o5MNslj9Jjtc8fyoDqJXg&oh=00_AfjVoldmE3qSi1Y8HDXARlZDM2HWoLCt6kN5qSO6OzrW3Q&oe=692CD6CB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
     "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "1841082263499802",
+    "name": "The Southern River Band (AUS) - VENTELISTE - BETA",
+    "description": "Venteliste (via billetknappen).\nDøre kl. 19 / show kl. 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nThe Southern River Band spiller australsk rock’n’roll, som vi kender og elsker det – tilsat et knivspids 70’er-prog. Bandet kommer fra den ukendte by Thornlie i Australien og tilbragte 2019 med at turnere hjemmekontinentet rundt, optræde ufortrødent og bringe rock’n’roll-festen ud til masserne.\n\nUdover at være et af Australiens bedste livebands udgav de deres andet album 'Rumour & Innuendo', som blev rost af både fans og kritikere. Første single 'Chimney' nåede et stort globalt publikum, mens opfølgeren 'Second Best' førte til bandets debut på det store lærred.\n\nI 2020 spillede SRB sammen med Cold Chisel for over 16.000 fans ved fejringen af det nye år. Thornlies største eksport ser ikke ud til at sætte farten ned – og nu bringer de festen til Europa og spillestedet BETA.",
+    "date": {
+      "start_timestamp": 1772218800,
+      "end_timestamp": 1772226000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1841082263499802/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/550029060_1402012485260921_8884392978013023477_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=d74a6xHc1WYQ7kNvwFNDT3A&_nc_oc=AdnrhaFIJDpwzrN3GOhQp3aRi49SB3_3HQjsqOj-DA6io1sx--67YCWZ8Teu1QHqBMM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=zrY7WKGCVtB223Cd9G5eCQ&oh=00_Afg0XMmpbxtYukzGuk9sFr94V6dCnkHtIdGFFIEhYBvrMA&oe=692CEFB8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
   }
 ]

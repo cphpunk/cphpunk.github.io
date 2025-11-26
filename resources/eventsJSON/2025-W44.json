@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1134110091723737/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=y7RUt0A0ZskQ7kNvwH3uX7v&_nc_oc=Adk0l7bySUsAm-lmmR2r8GbVmcmrSK-GnPBgocWtMMrW4-koaQtD-XpDNSjjO1SUPbQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=cu9AZLssXUY3kmTh_fjGsQ&oh=00_Afh_L6D63egTxL3Vdr9YdIPndQ-gglLQzaeOfewz30Q6QA&oe=691BD46F",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484255694_1037065238458679_1306426875541354398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2-fTKK08LpkQ7kNvwFsveaK&_nc_oc=AdlDaY7JXJUqGkurM3gaRPCzYluD8Cko6jv7WoZjhS2mxJdQHGyBHh__5i9oUOhp5J0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Z7F9VXJEvP-K4VRZ3PROqQ&oh=00_AfiEIeSNiafCWNAUW4LctDBVbiPB97pq_XkZzaoaKiLi7g&oe=692CF7EF",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Empire Bio",
@@ -1465,7 +1465,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/733859306376508/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/559000902_1272632461558834_7467588074363185668_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UWrCsvIzVpsQ7kNvwExDMUt&_nc_oc=AdmvbeoqH6S1iDmzcxjEops5PnhRXjOMRo4OaMZfw5h4G7ikFCLDmKvMiLrBl1NQk0A&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=odt_L7cRzGlVOx4n-64USw&oh=00_Afi_jYdsOGrQ1Q3i1muRtx6sboSVJwOQj2toP7bf46QY0g&oe=691BB640",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/559000902_1272632461558834_7467588074363185668_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-cPSafjuWc4Q7kNvwEVkqij&_nc_oc=Adl6kXnoPVSn7pPOe6Oz3NutbCIClFMEjS7Ml9-iO75SHaPJ4A4UaQuFBHCVfwWmZJY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=eAux1gfyAXit300WmM1agg&oh=00_AfimNbegn0h5ZzWKcjM9IO6KIEpUDBond_W19HtjHeJLXQ&oe=692CD9C0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Klub Werkstatt",
@@ -2206,5 +2206,293 @@
     "platform": "Facebook",
     "page_name": "Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1479188703329668",
+    "name": "Bureauet præsenterer Oktober-litt   ",
+    "description": "Det Poetiske Bureaus Forlag er tilbage i byen og præsenterer oktobers udgivelser hos vores gamle venner i LiteraturHaus.\n\nKl. 17: Gorm Henrik Rasmussen præsenterer \"Nick Drake Society Blues\" - udvalgte digte fra en lang digterkarriere der begyndte helt tilbage i 1973. Bogen rummer digte fra 'Den verden som er' (1988), 'Aalborgdage' (1992) og 'Opskriften på blæk' (1997) foruden fra en hidtil upubliceret digtsamling, samt en række nyskrevne tekster.\n\nKl. 18: Jens Carl Sanderhoff og Jakob Brønnum, to af forlagets mest produktive forfattere, har slået digterpjalterne sammen og begået en brevprosadigtkorrespondance der udkommer under titlen \"Jeg har tænkt på at nævne dette for dig\" og som de denne aften præsenterer for første gang. I den filosofisk-poetiske udveksling bliver der særligt talt om Mahler, men også om minder og katte. \n\nKl. 19: Digteren Thorvald Berthelsen har sammen med billedkunstneren Poul Esting skabt en smuk samling illustrerede kortdigte. \"Øjeblik\" er både en påkaldelse af opmærksomhed og det nanosekund, hvor lynet slår op og deler os og verden i tusind afsvedne stumper for derefter at sætte os sammen på ny i mangefacetterede erotiske kugler af oplevelse, indsigt og skønhed.\n\nKl. 20: Tidsskriftet Det Poetiske Bureaus store temanummer om Symbolismen præsenteres med et oplæg af Freddy Hagen, der har skrevet magasinets store indledende artikel, hvor bevægelsen perspektiveres og sættes i en større samfundssammenhæng. Desuden oplæsninger fra et par af Symbolismens arvtagere.\n\nGratis adgang. Vel mødt! ",
+    "date": {
+      "start_timestamp": 1761667200,
+      "end_timestamp": 1761683400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "LiteraturHaus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.555562499999994,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555624999999992,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.555499999999995,
+      "plus_code_global": "9F7JMHR4+86",
+      "plus_code_local": "MHR4+86",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1479188703329668/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/565657099_1283720437104958_2286504978647892454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UVZtsHix0wcQ7kNvwGTfius&_nc_oc=AdkkhubP1ivWNny4FOPohpIisyd1vVG0FsVQ1x7y91MMUef076gKhVpPhyipHXVEjzk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=jOPWRlnjuiyP4Y0Y32_99g&oh=00_AfgZsRMxyaZ4MY11nzrN0fsblTmmot7LJLivCvzKCkBF2Q&oe=692CD902",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "LiteraturHaus",
+    "page_url": "https://www.facebook.com/literaturhauskbh/events"
+  },
+  {
+    "id": "1157700829654444",
+    "name": "Jægersborggade Halloween 2025",
+    "description": "Uhhh.. hyggelig HALLOWEEN i Jægersborggade🎃\n\nTraditionen tro - inviterer vi alle børn og voksne til Jægersborggade HALLOWEEN, når mørket har sænket sig over Jægersborggade fredag d. 31. oktober 2025 fra kl.17.00-19.00🎃\n\nGratis event - støttet af Nørrebro Lokaludvalg🎃\n\nKom udklædt og trick-or-treat i gadens mange butikker, som denne ene aften forvandles til frygtindgydende, bloddryppende spindelvævskabinetter med spøgelser, zombier, genfærd og hundredevis af lysende græskarre i månens dunkle skær - fyldt med uhh-hyggelige mængder slik🎃\n\nProgram:\n- De fleste butikker er åbne og har gratis slik til børn.\n- Skrækindjagende halloween-dans gennem gaden med 50 zombie-dansere fra Global Kidz\n🎃\n- Unge Tunger synger ånderne frem med 4 uh.. hyggeligt gode koncerter langs gaden🧡\n-I Den Sidste Dråbe spiller vores zombieorganist op til gotisk dans, de blodige Marys vil flyde over disken og den uhyggelige enkefrue er ekstra sur i år og uddeler kun slik ud til de artige børn! Kh Greven, zombiedamen og de tre vampyr sønner🧡\n- Markers N Pens kører technoklub med slik, røgmaskine og alt for høj musik\n- Wilgart opstiller professionelt fotostudie og tager protrætter og gruppefotos af vores besøgende🧡👽🤡☠️\n- Ladyfingers pyntet op til (u)hygge, og skålen med slik er klar 🎃👻\n- Tricotage sørger for uhyggeligt meget snoller ☠️\n- I GRØD står de klar med dybe slikskåle til de uhyggelige børn 💀\n- NOABURO går i rødt - som i blod-rødt - og inviterer “venner” fra kirkegården på besøg 🩸 \n- Det kribler og krabler hos Tú a Tú, som står klar med en spand af sukkerchok til de mange udklædte 🎃🕷️🕸️\n- My Favourite Things får - traditionen tro - børnene på Nørrebro til at tisse i bukserne af skræk 🎃\n- Meyers uddeler uhyggelig god halloween-kage til udklædte børn - så længe lager haves🎃\n- Craft Sisters står klar med slik.. og uhygge🍭🎃\n- Designkollektivet giver sukkerchok og deler designer-drugs ud til alle udklædte børn. 🎃🤪🎃\n- Raske Planter fejrer samhein, de dødes dag. Dagen inden kan man komme med et digitalt billede af en man elsker eller bare vil mindes der ikke er her længere, og få det printet ud og stilt på alteret🧡\n\nProgrammet opdateres løbende med arrangementer fra gadens +50 butikker🎃\n\nVi glæder os til at skræmme jer og få en uhh.. hyggelig aften med jer allesammen🎃\n\nHjemsøgte, bloddryppende og græskarudskårne hilsner fra\nButikkerne i Jægersborggade\n\nPS. TAK fordi I støtter det fysiske handelsliv❤️\n",
+    "date": {
+      "start_timestamp": 1761926400,
+      "end_timestamp": 1761933600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "jægersborggade, Copenhagen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6923125,
+      "longitude": 12.5444375,
+      "bounds_ne_lat": 55.692375,
+      "bounds_ne_lng": 12.5445,
+      "bounds_sw_lat": 55.69225,
+      "bounds_sw_lng": 12.544375000000002,
+      "plus_code_global": "9F7JMGRV+WQ",
+      "plus_code_local": "MGRV+WQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1157700829654444/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/571152023_1244137364410356_567099699299800714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=e1Guoks7cnoQ7kNvwFgfYAm&_nc_oc=AdnDoXEWB4cf8ihd7izpag5Vxyh8ztJGR6YQH1umT3Yez5_qcU374213bylycBqCPU4&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=17ZFwvfpR78A2dn4W5fQlA&oh=00_AfgAOs4n_w71S2jaFVopg1iqMbA0hE4mR8gTM4EckpqjSw&oe=692CFD53",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Jægersborggade",
+    "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "780034128186525",
+    "name": "Closing & Lili Award Ceremony + 'Fuga' // MIX CPH 2025",
+    "description": "[DANSK NEDENFOR]\n\nAfter 10 amazing days celebrating 40 years of queer cinema, we’ll wrap it all up with a toast! Join us for our Closing Ceremony- an evening of films, awards, and celebration 💫\n\nWe’ll start with bubbles at the MIX Lounge, followed by the beloved Lili Awards presented by our jury. After the screening of 'Fuga', stay for a Q&A with directors Mary Jiménez and Bénédicte Liénard, whose film is also nominated for the Best Feature 🎬\n\nThe night will consist of:\n18:30 >> Reception with bubbles at MIX Lounge 🥂\n19:00 >> Lily Award Ceremony and screening of 'Fuga' 🌟\n+ Q&A with the directors Mary Jiménez and @lienardbenedicte after the screening 🎬\n\nThe Lili Award honours outstanding queer films that challenge norms of sexuality and gender, named after Danish transgender artist Lili Elbe, a pioneer for gender-affirming care and rights in Denmark.\n\nCome celebrate the stories, and community that made this festival so special 🌈✨\n\n🎬 About the film 🎬\nDeep in the Peruvian Amazon, Saor carries the body of his lover, Valentina, back to her home village for burial. Once a celebrated trans singer who left the village behind, Valentina is here remembered as Pol. As Saor encounters those who knew her before, fragments of her hidden past emerge — and with them, the mystery surrounding her life and death.\n\n--\n\nEfter 10 fantastiske dage med fejring af 40 år med queer-film, afslutter vi med en skål! Deltag i vores afslutningsceremoni - en aften med film, priser og fest 💫\n\nVi starter med bobler i MIX Lounge, efterfulgt af de elskede Lili Awards, der uddeles af vores jury. Efter visningen af ​​'Fuga' kan I blive til en spørgerunde med instruktørerne Mary Jiménez og Bénédicte Liénard, hvis film også er nomineret til bedste spillefilm 🎬\n\nAftenen vil bestå af:\n18:30 >> Reception med bobler i MIX Lounge 🥂\n19:00 >> Lily Award-ceremoni og visning af 'Fuga' 🌟\n+ Spørgsmål og svar med instruktørerne Mary Jiménez og @lienardbenedicte efter visningen 🎬\n\nLili Award hædrer fremragende queer-film, der udfordrer normer for seksualitet og køn, opkaldt efter den danske transkønnede kunstner Lili Elbe, en pioner for kønsbekræftende omsorg og rettigheder i Danmark.\n\nKom og fejr historierne og fællesskabet, der gjorde denne festival så speciel 🌈✨\n\n🎬 Om filmen 🎬\nDybt inde i den peruvianske Amazonas bærer Saor sin elskerindes, Valentinas, lig tilbage til sin hjemby for at blive begravet. Valentina, engang en berømt transsangerinde, der forlod landsbyen, huskes her som Pol. Da Saor møder dem, der kendte hende før, dukker fragmenter af hendes skjulte fortid op - og med dem mysteriet omkring hendes liv og død.",
+    "date": {
+      "start_timestamp": 1762018200,
+      "end_timestamp": 1762025400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/780034128186525/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/560271277_1670428030541603_5426071508447081922_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1TPm6TZ8cdwQ7kNvwHhwZVV&_nc_oc=Adlb2bWDnpFmwG0LpBL8llCtI5r1ZLUrhRDO3BhDuqjxX5KBtBuUcpiJ1TYHshmposQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Lt1wZVEbvvlxxmrbuF013Q&oh=00_AfijswA0dPW0ueV_IfKOQ4839wnm5TGjb0V0fL5F8-wkCQ&oe=692CF056",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "4184176708492495",
+    "name": "Fatherhood + Panel Discussion // MIX CPH 2025",
+    "description": "[DANSK NEDENFOR]\n\nFatherhood\nAugust B. Hanssen, Even G. Benestad / Norway, Iceland, Germany / 2025 / 77 min / Norwegian with English subtitles\n\n🌿 LILI AWARD NOMINEE 🌿\n\nFrom 1979 to 2016, trans people in Norway were forced to undergo sterilisation, denying them the right to have children. Kris has dreamed of fatherhood since kindergarten, and holds onto hope and positivity despite past and present injustices. With Sindre, David, and their loving families, he joins in a fierce and hopeful fight for change.\n\nThe panel:\n\nWe invite you to stay after the screening of 'Fatherhood' to follow a panel discussion on trans rights within the healthcare system and on what it means to be a trans parent in today's society.\n\nPanelists:\n👉 Adam Goslett (trans man, he/him)\nAdam Goslett is an outspoken trans advocate and is publicly sharing his proces becoming pregnant whilst advocating for trans inclusion in the workforce.\n\n👉 Cosmo (he/they)\nCosmo’s biggest superpower is being a Baba to two magical children (ages 6 and 4). A filmmaker and Five Element Acupuncturist based in NV, Copenhagen. Cosmo founded COSMOS – a trans-owned community care space and acupuncture clinic in Cph, DK in 2024. Their work focuses on healing trauma and holding spaces of care, especially for QTI/BIPOC communities. Their work is guided by a deep commitment to collective care, storytelling and liberation.\n\n👉 Cami Tved (they/them): Midwife, master of science in sexology, consultant and teacher\n\nModerator: \n👉 Sol A. Wendel (they/them):\nSol A. Wendel is a Danish journalist and documentarist. Together with Evo S. Sidney they created and directed the movie \"Trans Hero\" that premiered in 2024. \n\n/ The panel will be held inside the cinema after the screening of ‘Fatherhood’\n\n/ Admission to the panel requires a film ticket\n\nPRACTICAL INFO\nBuy tickets: https://buy.ebillet.dk/billetter/36525/83731?org=156\nAccessibility info: https://mixcopenhagen.dk/accessibility\n--\n[DA]\n\nFatherhood\nAugust B. Hanssen, Even G. Benestad / Norge, Island, Tyskland / 2025 / 77 min / norsk med engelske undertekster\n\n🌿 NOMINERET TIL LILI-PRISEN 🌿\n\nFra 1979 til 2016 blev transpersoner i Norge tvunget til at gennemgå sterilisering, hvilket fratog dem retten til at få børn. Kris har drømt om at blive far siden børnehaven og holder fast i håb og positivitet trods fortidens og nutidens uretfærdigheder. Sammen med Sindre, David og deres kærlige familier kæmper han en hård og håbefuld kamp for forandring.\n\nPanelet:\n\nVi inviterer dig til at blive efter visningen af 'Fatherhood' for at følge en paneldiskussion om transpersoners rettigheder inden for sundhedsvæsenet og om, hvad det betyder at være transforælder i dagens samfund.\n\nPaneldeltagere:\n👉 Adam Goslett (transmand, han/ham)\nAdam Goslett er en åbenlys transforkæmper og fortæller offentligt om sin proces med at blive gravid, mens han kæmper for transinklusion i arbejdsstyrken.\n\n👉 Cosmo (han/de)\nCosmos største superkraft er at være baba for to magiske børn (på 6 og 4 år). Filmskaber og fem-elementers akupunktør med base i NV, København. Cosmo grundlagde COSMOS - et transkommunalt omsorgsrum og en akupunkturklinik i Kbh. i 2024. Deres arbejde fokuserer på at helbrede traumer og skabe rum for omsorg, især for QTI/BIPOC-samfund. Deres arbejde er styret af et dybt engagement i kollektiv omsorg, historiefortælling og frigørelse.\n\n👉 Cami Tved (de/dem)\nJordemoder/jordeperson, master i sexologi, konsulent, underviser\n\nModerator: \n👉 Sol A. Wendel (de/dem):\nSol A. Wendel er en dansk journalist og dokumentarist. Sammen med Evo S. Sidney har de skabt og instrueret filmen \"Trans Hero\", som havde premiere i 2024.  \n\n/ Panelet vil blive afholdt inde i biografen efter visningen af 'Fatherhood'.\n\n/ Adgangtil panelet kræver en biografbillet\n\nPRAKTISK INFO\nKøb billetter: https://buy.ebillet.dk/billetter/36525/83731?org=156\nTilgængelighedsvejledning: https://da.mixcopenhagen.dk/accessibility\n—-\nSee you in the dark!\nMIX COPENHAGEN\nwww.mixcopenhagen.dk\n\n",
+    "date": {
+      "start_timestamp": 1762009200,
+      "end_timestamp": 1762016400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/4184176708492495/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/559618046_1668818114035928_7582344994369327220_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=i-qU3u7TPs0Q7kNvwF0X_pA&_nc_oc=Adk3Q1FXByRUQVTI-9T0un01CWOR-MIPRjNCMW8aMZQRZoWqenULoFjxf3KzvM3u87s&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=g3hoxrC6vo90c2noo9lbaw&oh=00_AfgFbjy7N-DlbdJwZ07klTJi24q76h0bSZUk9yUToBaDdA&oe=692CDBDD",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "1498219807990919",
+    "name": "Closing Party // MIX CPH 2025",
+    "description": "[DANSK NEDENFOR]\nWhat better way to round off the 40th anniversary of MIX CPH than by dancing and celebrating to juicy tunes all night long? This year, our closing party returns to RUST, where we’ll have two dance floors and an exciting line-up of DJs and performances to carry you through a night filled with love, joy and community. Come early and stay late! 🎊\n\nDoors open: 23:00\nGood night: 4:00\n\n🌸Line-Up 🌸\nArieshandmodel\nDJ CUNT\nDJ Jolie\nDJ Nah Care\n\n🎟Tickets only available on pre-sale🎟\nEarly bird #1: 75 kr.\nEarly bird #2: 95 kr.\nGeneral admission: 110 kr.\n\n/ If you cannot afford the ticket price but would still like to attend the party, please contact event@mixcopenhagen.dk, latest by 31/10\n/ In an attempt to make our party a safer space, tickets must be purchased in advance. No tickets will be sold at the door.\n\n\n🫂Safer space🫂\nMIX CPH is an organisation for and by the LGBTQIA+ community. We do not tolerate racism, sexism, homophobia, transphobia, xenophobia, anti-fat bias, biphobia, bi-erasure, cultural stereotypes, cultural appropriation, ableism, classism or harassment. Please don’t assume anyone’s gender, pronouns, sexual orientation, nationality or birthplace and be aware and mindful of the space you are taking up as an individual or a group.\n\nMIX CPH strives to create a safer space for the members of our community, however, we cannot control everyone’s behaviour. Throughout the whole night, we have one security and one SAFER SPACE personnel present, who you can identify by their t-shirts. If you feel uncomfortable for any reason, please feel free to reach out to any of them - your safety and well-being is very important to us, so no issue is too small.\n\n\n❤️Consent❤️\nTo make sure that everyone is enjoying themselves, consent is key. So please make sure when you are engaging with other individuals - be it on the dance floor, at the bar, conversations or physical contact - that it is happening with consent and with respect to everyone’s boundaries.\n\n\n💛Accessibility💛\nUnfortunately, the space is not accessible with a wheelchair. Please be aware that there will be flashing lights and loud sounds at the party, and that it can get hot and crowded inside the club. Earplugs can be purchased at the entrance.\n—-\n[DA]\nHvilken bedre måde at afrunde MIX CPH's 40-års jubilæum på end ved at danse og fejre til saftige toner hele natten? I år vender vores afslutningsfest tilbage til RUST, hvor vi har to dansegulve og et spændende line-up af DJ's og optrædener, der vil føre dig gennem en nat fyldt med kærlighed, glæde og fællesskab. Kom tidligt og bliv længe!\n\nDørene åbner: 23:00\nGodnat: 4:00\n\n🌸 Opstilling 🌸\nArieshandmodel\nDJ CUNT\nDJ Jolie\nDJ Nah Care\n\n🎟Billetter kan kun købes i forsalg🎟\nEarly bird #1: 75 kr.\nEarly bird #2: 95 kr.\nAlmindelig entré: 110 kr.\n\n/ Hvis du ikke har råd til billetprisen, men stadig gerne vil deltage i festen, bedes du kontakte event@mixcopenhagen.dk senest 31/10.\n/ I et forsøg på at gøre vores fest til et mere sikkert sted, skal billetter købes på forhånd. Der vil ikke blive solgt billetter i døren.\n\n🫂Safer Space🫂\nMIX CPH er en organisation for og af LGBTQIA+-miljøet. Vi tolererer ikke racisme, sexisme, homofobi, transfobi, xenofobi, anti-fedt bias, bifobi, bi-erasure, kulturelle stereotyper, kulturel appropriation, ableisme, klassisme eller chikane. Lad være med at antage nogens køn, pronominer, seksuelle orientering, nationalitet eller fødested, og vær opmærksom på det rum, du optager som individ eller gruppe.\n\nMIX CPH bestræber sig på at skabe et mere sikkert sted for medlemmerne af vores fællesskab, men vi kan ikke kontrollere alles adfærd. I løbet af hele aftenen har vi en sikkerheds- og en SAFER SPACE-medarbejder til stede, som du kan kende på deres t-shirts. Hvis du føler dig utilpas af en eller anden grund, er du velkommen til at kontakte en af dem - din sikkerhed og dit velbefindende er meget vigtigt for os, så intet problem er for småt.\n\n\n❤️Samtykke❤️\nFor at sikre, at alle har det sjovt, er samtykke nøglen. Så sørg for, at når du engagerer dig i andre personer - hvad enten det er på dansegulvet, i baren, samtaler eller fysisk kontakt - at det sker med samtykke og med respekt for alles grænser.\n\n\n💛Tilgængelighed💛\nDesværre er stedet ikke tilgængeligt med kørestol. Vær opmærksom på, at der vil være blinkende lys og høje lyde til festen, og at der kan blive varmt og trangt inde i klubben. Ørepropper kan købes ved indgangen.\n\n—-\nSee you in the dark!\nMIX COPENHAGEN\nwww.mixcopenhagen.dk\nFollow us on instagram @mixcph for behind the scenes content",
+    "date": {
+      "start_timestamp": 1762034400,
+      "end_timestamp": 1762052400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "RUST",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6911875,
+      "longitude": 12.55931249999999,
+      "bounds_ne_lat": 55.69125,
+      "bounds_ne_lng": 12.559374999999989,
+      "bounds_sw_lat": 55.691125,
+      "bounds_sw_lng": 12.559249999999992,
+      "plus_code_global": "9F7JMHR5+FP",
+      "plus_code_local": "MHR5+FP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1498219807990919/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/565247413_1669374503980289_4295492965810453900_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zyH44LFOxXEQ7kNvwGmsCto&_nc_oc=Adn6KEiK0JstQFq8OJ4BiEwZiVeTJxzFpTDVC3ZuQqxfSl4m14Nauygmg5fR0ztKdyE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=hp1luBW9X7Z4arc9I_mwlQ&oh=00_AfjWlFb7xFOK2K3hA-8SnN4p4OnEuEoru9ed49cBnznVbw&oe=692CF405",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "25037447645895679",
+    "name": "Queens of Joy + Panel Discussion // MIX CPH 2025",
+    "description": "[DANSK NEDENFOR]\n\nQueens of Joy\nOlga Gibelinda / Ukraine, France, Czech Republic / 2025 / 91 min / Ukrainian with English subtitles\n\nAmid the war in Ukraine, drag queens Diva Monroe, Marlen Scandal, and Aura choose to stay and fight for freedom, their community, and their lives. The film follows their journey — from the glamour of the show to the brutality of war. A charity performance they organise for Ukraine becomes a bold symbol of unity, defiance, and queer resilience.\n\nThe panel:\n\nAfter the film, we will have a panel where we'll hear about the ways our panelists navigate the challenges of activism while centering joy as a source of strength and sustainability. Their insights will remind us that the fight for LGBTQIA+ rights is not only about resistance, but also about building communities rooted in solidarity and joy.\n\nPRACTICAL INFO\nBuy tickets: https://buy.ebillet.dk/billetter/36533/83639?org=156\nAccessibility info: https://mixcopenhagen.dk/accessibility\n\n—-\n\n[DA]\n\nQueens of Joy\nOlga Gibelinda / Ukraine, Frankrig, Tjekkiet / 2025 / 91 min / ukrainsk med engelske undertekster\n\nMidt i krigen i Ukraine vælger dragqueens Diva Monroe, Marlen Scandal og Aura at blive og kæmpe for frihed, deres samfund og deres liv. Filmen følger deres rejse - fra showets glamour til krigens brutalitet. En velgørenhedsforestilling, som de organiserer til fordel for Ukraine, bliver et dristigt symbol på sammenhold, trods og queer modstandskraft.\n\nPanelet:\n\nEfter filmen har vi en paneldebat, hvor vi hører om, hvordan vores paneldeltagere navigerer i aktivismens udfordringer og samtidig sætter glæden i centrum som en kilde til styrke og bæredygtighed. Deres indsigt vil minde os om, at kampen for LGBTQIA+-rettigheder ikke kun handler om modstand, men også om at opbygge fællesskaber, der er forankret i solidaritet og glæde.\n\nPRAKTISK INFO\nKøb billetter: https://buy.ebillet.dk/billetter/36533/83639?org=156\nTilgængelighedsvejledning: https://da.mixcopenhagen.dk/accessibility\n—-\nSee you in the dark!\nMIX COPENHAGEN\nwww.mixcopenhagen.dk\nFollow us on instagram @mixcph for behind the scenes content",
+    "date": {
+      "start_timestamp": 1761760800,
+      "end_timestamp": 1761768000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/25037447645895679/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/564139856_1668569570727449_6971229579827578049_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MW9v47X8YfIQ7kNvwHZHbu5&_nc_oc=AdmlbtlbVMKAJof-psFsl7VNbH5i2Gwjnh3ngAiY-i_CGP_t1fdnr8QIrUtNxUSQxXk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=NWLfIhOvxJHzFj45lvQqLA&oh=00_AfjcZ4Q124cRwv7xN_JOxRkxmq5Pqms7f56vkMgT9W7LmQ&oe=692CE6BE",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "1050472360387566",
+    "name": "Sad Jokes + Q&A // MIX CPH 2025",
+    "description": "[DANSK NEDENFOR]\n\nSad Jokes\nFabian Stumm / Germany / 2024 / 97 min / German with English subtitles\n\nJoseph and Sonya raise their young son together as best friends. When Sonya checks in at an inpatient facility, Joseph is forced to juggle parenting, romance possibilities and his artistic ambitions. Sensitively written, with a dry yet warm humour, Sad Jokes' is a film of deep humanity and boundless charm.\n\nQ&A with the director Fabian Stumm after the screening.\n\nPRACTICAL INFO\nBuy tickets: https://buy.ebillet.dk/billetter/36537/398745?org=141\nAccessibility info: https://mixcopenhagen.dk/accessibility\n\n—-\n\n[DA]\n\nSad Jokes\nFabian Stumm / Tyskland / 2024 / 97 min / tysk med engelske undertekster\n\nJoseph og Sonya opdrager deres lille søn sammen som bedste venner. Da Sonya bliver indlagt på et hospital, bliver Joseph tvunget til at jonglere med forældrerollen, kærligheden og sine kunstneriske ambitioner. Følsomt skrevet og med en tør, men varm humor er Sad Jokes en film med dyb menneskelighed og grænseløs charme.\n\nQ&A med instruktøren Fabian Stumm efter visningen.\n\nKøb billetter: https://buy.ebillet.dk/billetter/36537/398745?org=141\nTilgængelighedsvejledning: https://da.mixcopenhagen.dk/accessibility\n\n—-\n\nSee you in the dark!\nMIX COPENHAGEN\nwww.mixcopenhagen.dk\nFollow us on instagram @mixcph for behind the scenes content",
+    "date": {
+      "start_timestamp": 1761849000,
+      "end_timestamp": 1761856200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1050472360387566/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/565094485_1669496780634728_6748072319573200671_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=a02uKdJfxm4Q7kNvwE8MwZ6&_nc_oc=AdlTILZqKoSu5QgF5cN17sIUx3vVjqLQjp3AFeBLky8FJ-F5QbvYkaU1CUAgeJ2EWSs&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=yvDvMF0RhiI9d4S-00oXjg&oh=00_AfjIXkNef9PtiSJPhNnLp6ZX6oVF6mnCBVLxDocJ4ohGYw&oe=692CD5AC",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "1128366189495193",
+    "name": "Fuga + Q&A // MIX CPH 2025",
+    "description": "[DANSK NEDENFOR]\n\nFuga\n\nMary Jiménez, Bénédicte Liénard / Peru, France, Netherlands, Belgium / 2024 / 91 min / Spanish with English subtitles\n\n🌿 LILI AWARD NOMINEE 🌿\n\nDeep in the Peruvian Amazon, Saor carries the body of his lover, Valentina, back to her home village for burial. Once a celebrated trans singer who left the village behind, Valentina is here remembered as Pol. As Saor encounters those who knew her before, fragments of her hidden past emerge — and with them, the mystery surrounding her life and death.\n\n+ Q&A with the directors Mary Jiménez and Bénédicte Liénardafter the screening\n\nPRACTICAL INFO\nBuy tickets: https://buy.ebillet.dk/billetter/36527/83721?org=156\nAccessibility info: https://mixcopenhagen.dk/accessibility\n—-\n[DA]\n\nFuga\n\n🌿 NOMINERET TIL LILI-PRISEN 🌿\n\nDybt inde i det peruvianske Amazonas bærer Saor liget af sin elskede Valentina tilbage til hendes hjemlandsby for at begrave hende. Valentina, der engang var en berømt transsanger, lagde landsbyen bag sig og huskes her som Pol. Da Saor møder dem, der kendte hende før, dukker fragmenter af hendes skjulte fortid op – og med dem, mysteriet omkring hendes liv og død.\n\n+ Q&A med instruktørerne Mary Jiménez og Bénédicte Liénard efter visningen\n\nPRAKTISK INFO\nKøb billetter: https://buy.ebillet.dk/billetter/36527/83721?org=156\nTilgængelighedsvejledning: https://da.mixcopenhagen.dk/accessibility\n—-\nSee you in the dark!\nMIX COPENHAGEN\nwww.mixcopenhagen.dk\nFollow us on instagram @mixcph for behind the scenes content",
+    "date": {
+      "start_timestamp": 1762105500,
+      "end_timestamp": 1762112700,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1128366189495193/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/561357748_1669597607291312_7370440061385597554_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4qGAu0M2pqIQ7kNvwEXl90C&_nc_oc=AdnPtggIn3dYsGpGgyG2uxYKVwbfAypxQd1xaJJI14vChr3HrYwEjaRyQbXlrgGvUj4&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=z1A0yabrOgjCdudlH5quQw&oh=00_Afi9bwhF699MDgk5aGe72XOiMHF8Jml9l9dJBQJ360EXbQ&oe=692CD3C3",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
+  },
+  {
+    "id": "826104883284580",
+    "name": "There Are No White People In Paradise - QTIBIPOC Community Screening // MIX CPH 2025",
+    "description": "[DANSK NEDENFOR]\n\n¤¤This screening is dedicated to the QTIBIPOC community and is exclusively for people who are racialised (Black/Indigenous/People of Colour) and identify as Queer, Trans*, Intersex.¤¤\n\nThis screening is free of charge.\n\nTo receive your tickets for the QTIBIPOC screening, contact us by mail: specialscreenings@mixcopenhagen.dk\n\nEvent Schedule:\nMusic Bingo = 17:00 - 19:00\nShort Film Program = 19:30 - 21:00\n\nSHORT FILM PROGRAM\n\nFrom sari shops to sci-fi dreams, awkward dates to digital weddings, these short films celebrate queer becoming in all its messy, magical forms. They take us through parallel worlds where identity unfolds across time, space, and the support of others. Come for the joy — stay for the revolution.\n\n--\n\n¤¤Denne screening er dedikeret til QTIBIPOC-fællesskabet og er udelukkende for mennesker, der er racialiserede (sorte/indfødte/farvede) og identificerer sig som Queer, Trans*, Intersex.¤¤\n\nDisse screeninger er gratis.\n\nFor at modtage dine billetter til  QTIBIPOC-visning, så kontakt os på mail: specialscreenings@mixcopenhagen.dk\n\nTidsplan for begivenheder: \nMusik Banko = 17:00 - 19:00 \nKortfilmsprogram = 19:30 - 21:00\n\nKORTFILMSPROGRAM\n\nFra sari-butikker til sci-fi-drømme, akavede dates til digitale bryllupper, fejrer disse kortfilm queer tilblivelse i alle dens rodede, magiske former. De tager os gennem parallelle verdener, hvor identitet udfolder sig gennem tid, rum og andres støtte. Kom for glæden – bliv for revolutionen.",
+    "date": {
+      "start_timestamp": 1761840000,
+      "end_timestamp": 1761847200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Contact for Information",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/826104883284580/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/559405888_1670048527246220_4112509913750517184_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-a0uMZJikYMQ7kNvwGlVNmZ&_nc_oc=AdmlbeBCGBXcTAU3wLcwTr843ACUibGH4xIwZwqY_uqHRLAVz9SZrHyj-QTmr0D0-24&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=oJpkB2Wrfn_FI0h0LW61ew&oh=00_AfhuC5hHryfjAueeR3pvR7zgC_cjbMzI8BDFuHJfeASMbg&oe=692CD8DE",
+    "tag": "LGBTQ+",
+    "platform": "Facebook",
+    "page_name": "MIX COPENHAGEN",
+    "page_url": "https://www.facebook.com/mixcph/events"
   }
 ]

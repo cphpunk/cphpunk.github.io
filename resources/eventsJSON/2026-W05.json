@@ -89,10 +89,74 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/689153957335509/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/576960579_1279211614234335_1073316424866278258_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eS_AwsrrrfEQ7kNvwEmLctZ&_nc_oc=Adngg_RFhKxu9sGhLclLz3_As8psP_SfvZiUZ46_F7tZOXh4Q0oP0x2_IgUHwjUi380&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=-2oBi03pZRG2P3rnO-3SXA&oh=00_AfgbbaFZL_ekxt6R11fRNFFEsHHlU0LniJA6oXAJtaAZdw&oe=691BCA0D",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/576960579_1279211614234335_1073316424866278258_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IhbLe6np138Q7kNvwGrvWls&_nc_oc=Adkm9cKH0eeScwDgrZnHEziG_mVguCNBTmphJI7K1kqkJEpn-oa92C_e21PUW1fE5CE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=5drJrWPG1wIISDF6FMfQlg&oh=00_AfglUNkjhPZ3QAp1rQMJUlVDV5rHZUwbY8gBm5G0DefleQ&oe=692CED8D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "662894206896939",
+    "name": "Hola Ghost - Support: Goblin Shark (SF) - FÅ BILLETTER - BETA",
+    "description": "180 kr i forsalg / 200 kr. i døren\nDøre kl. 19 / show kl. 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nHola Ghost var en fest, da de gæstede BETA i oktober. Allerede til januar vender de tilbage til spillestedet.\n\nIført håndmalede Day of the Dead-masker og flankeret af deres uhyggeligt velspillende blæsersektion leverer bandet en energisk og teatralsk koncert, der blander elementer fra surfrock, mexicansk folklore, psychobilly, goth-disco, punk og spaghettiwestern-soundtracks til deres helt egen skæve cocktail af mørk, skandinavisk mariachi-rock.\n\nBandet blev oprindeligt dannet af Peter Sandorff (ex-Nekromantix, Mad Sin) og Jeppe B. Jessen i arbejdet med soundtracket til den amerikanske kultinstruktør Gris Grimlys film Cannibal Flesh Riot. Siden har Hola Ghost udviklet sig til et femmand stort ensemble med både haunted horns og rytmer, der spøger af alt fra Los Angeles’ mørke gader til Tijuanas tequila-fyldte spillebuler.\n\nHola Ghost har turneret i Europa, USA og Sydamerika og udgivet flere album og EP’er, herunder et bidrag til Rancid-tribute-albummet Hooligans United.\n\nPublikum kan glæde sig til en koncert, der med garanti forener mørk humor, høj energi og uforudsigelig, dansabel dødssurf i særklasse.\n\n___\n\n\nGoblin Shark er et band, der blander rå rock’n’roll med skæve rytmer, vilde boogie-eksplosioner og uortodokse sangstrukturer, som får publikum til at bevæge hofterne på nye, mærkelige måder. Hvis du elsker Jon Spencer, Captain Beefheart, The Stooges og Tom Waits, er Goblin Shark lige noget for dig. Bandet består af erfarne musikere: Pharaoh Pirttikangas (guitar/vokal) med en lang solokarriere, Taskinen (guitar/vokal) kendt fra Black Magic Six og Heavy Breathers, samt Neuvonen (trommer) med projekter fra black metal til verdensmusik. Deres debutalbum udkommer 2. august 2024 på Voodoo Rhythm Records – gør dig klar til et sonisk angreb!\n\n",
+    "date": {
+      "start_timestamp": 1769799600,
+      "end_timestamp": 1769806800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/662894206896939/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/559198380_1380811210328071_1987783878316304523_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3g0ZkrGb9ogQ7kNvwGt29RJ&_nc_oc=AdnD5p9BPnBvQen0onwUsD8op2sMpoz1_LRVM62F8pQOW2DVUtCZCfeK00DsKgyRnQA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=zCyhrRGuwLOB4rxKl69V4w&oh=00_Afgnlur4imTPO1woVHDmwuiOnwQGcr7NaVzYWwCJF3V6cA&oe=692CE5E6",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "882429074442253",
+    "name": "When COPENHELL Freezes Over 2026 - VEGA",
+    "description": "VEGA og COPENHELL præsenterer de seks bands på When COPENHELL Freezes Over 2026: Hvem får det næste store gennembrud? \n___________________________________________________________________\n\nDøre: 18.00\nKoncertstart: 19.00\nBilletpris: 275 kr. inkl. gebyr\n___________________________________________________________________\n\nCOPENHELL og VEGA præsenterer for 13. gang seks danske bands, som de mener har potentialet til at bryde langt ud over landets grænser. COPENHELL og VEGA har med stort fokus på vækstlaget arbejdet sammen om at bygge den affyringsrampe, der har været med til at skyde navne som blandt andet BAEST, EYES og Neckbreakker af sted mod udlandet. \n\nDe næste seks bands spiller på hjemmebane i VEGA, og i samarbejde med MXD er der udvalgt et meget kompetent hold af internationale branchefolk bestående af pladeselskaber, managements, agenturer, internationale festivaler og andre centrale aktører på den europæiske rock- og metalscene, som er inviteret til at møde og opleve alle seks bands sammen med et headbangende publikum. \n\nDen danske metalscene lider stadig af vokseværk, kvaliteten er tårnhøj, og gang på gang viser de danske bands deres evne til at bryde grænser og opnå international status – og det skal vises frem! \n\nI 2026-udgaven af When COPENHELL Freezes Over kan du opleve: \n\nTROLD \nTROLD er ikke bare et band – de er et levende eventyr. Musikken er smedet af bark, blod og buldrende toner, og de stiger op af mulden med instrumenter i favnen og latter i hjertet. Det er folk metal med horn i både panden og i hånden, og episke fortællinger serveret med glimt i øjet og skum i skægget. \n\nST. DIGUE \nMed sin unikke blanding af elektronisk darkwave og industrial rock har ST. DIGUE siden 2020 sendt chokbølger gennem den københavnske undergrundsscene. Gruppen er bevæbnet med maleriske synthesizere, dunkende trommemaskiner og primale skrig, og maler et levende og barskt billede af traumer, fremmedgørelse og selvdestruktion. \n\nSUNKEN \nDet atmosfæriske black metal-band SUNKEN har siden 2012 udfoldet deres mørke og melankolske lydlandskaber. Bandet har med en lyd, der bevæger sig mellem det voldsomme og det æteriske, opbygget et stærkt ry for deres intense og følelsesladede udtryk – og for deres både altomfattende og intense liveshows. \n\nDANEFAE \nDANEFAE er et band, hvor tillægsordet ”særegent” nok er en underdrivelse. Med det ene ben i den danske sangskat og et andet i moderne progressiv rock er det næppe en lyd, du finder mange andre steder på planeten. Nogle gange er den voldsomt eksplosiv, andre gange med små åbninger ind til det nære og stille, men altid fremført med dyb oprigtighed og indlevelse. \n\nTHUS \nPas på trommehinderne, for her kommer THUS: Et spritnyt og kampklart metalband fra Århus, der udfordrer den danske metalscenes konventioner med progressive riffs, komplekse rytmer og melankolske melodier i en original og moderne fortolkning af skandinavisk dødsmetal. \n\nCOLD CULTURE \nDet fremadstormende danske band COLD CULTURE har rystet post-hardcore-fundamentet herhjemme med deres unikke elektronisk inspirerede tilgang til den hårde musik. Bandet brød igennem med deres debut-EP Afterthoughts i 2023, og de er med en hurtigt voksende fanskare og et ry for at levere intens, følelsesladet musik godt på vej til at blive et fremtrædende navn på metalscenen.\n",
+    "date": {
+      "start_timestamp": 1769878800,
+      "end_timestamp": 1769893200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "VEGA",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMG9V+6G",
+      "plus_code_local": "MG9V+6G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/882429074442253/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/587102400_884436157584439_7192062058151562219_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mHkSEEv0H8cQ7kNvwGFQKFi&_nc_oc=Adlg8l86ELeQE36hKs7hLOo0bbz2c3ZwYnTQIIPjBqCt_R34AzD6pIbwl0HiFFGCFhc&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=85RyK4rReIWxz9NX_WQz5Q&oh=00_AfhNwXQ5vumru94BpYie_DZjbycjDg5vn6DNDFJh-JmABw&oe=692CE6FE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "COPENHELL Verified account",
+    "page_url": "https://www.facebook.com/copenhell/events"
   }
 ]

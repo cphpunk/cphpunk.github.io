@@ -57,7 +57,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/864519129334952/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/575187698_1347552854047960_7763974139482124313_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XjcXwQcCYOsQ7kNvwEz9hqc&_nc_oc=AdnumsBhMYv0qTzK88URyFDDAxlHzuhtQn1zP4BWpkuEX9L69qeRnxtzcPFQ63UYhWo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ijD9UmPvlmfbOPmFXW-Q4Q&oh=00_AfgQPFCtXZKwrsKBIYQzWyig4747jiok51gR3Eplc8nNiQ&oe=691BD2F9",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/575187698_1347552854047960_7763974139482124313_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GdXOkRcXdY4Q7kNvwH_SeUG&_nc_oc=AdnU5VnW65bE8LYZmsb-1G6NcBeZNkEm8RsZZGFb3RmEbrfIvZIpehNkCuXZcfQWxnw&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=o1bVO40Fnl8dJ5Je7Zpqlw&oh=00_AfjNTwrwJ9FYeJRTedr1XXzyfK7MfUIuuIGrhNg2ixJixg&oe=692CF679",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
@@ -89,10 +89,106 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/3963749377288545/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/518306650_1180566884098809_6512004741625746444_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=p1oXQacT18YQ7kNvwHNxnoC&_nc_oc=AdnlcIpsA7dv20gUo8oGwxzedLTB9wjYbAY9QyFQe8AA1t2axkV0SaAWlGRPU5KSAgI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Q4MOzEAXOzse5PzO0GAJ2g&oh=00_AfgtUrSWNnKGY_h66KWCzV5BhLfxv5Av-kZj5StTScosjA&oe=691BB6A6",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/518306650_1180566884098809_6512004741625746444_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Dz_GRzenuSkQ7kNvwHirK9g&_nc_oc=AdnkTq5evg78cnW_rsucbd6Bh_HQFCIQwWzLbr0oW0SfWBbQKpiKi1V-l4IEOaTjPVo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=vtqUNxhlkCnXRkgMfcrMwA&oh=00_AfiN4FbunjG-etUFBkJF40KJvhG83lq781wgm3E63VpVNA&oe=692CDA26",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "kk-souled-on-funk-0",
+    "name": "Souled on Funk",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  SouledonFunk er et 10 mands stort orkester med en utæmmelig rytmegruppe - tromme, percussion og bas, 3 velspillende saxes, funky guitarist, ekvilibristisk tangentspiller og 2 sprøde sangerinder\n </p>\n <p>\n  Hvis du kan nynne med på tunes fra Earth Wind and fire, Jamiroqai, Tower of Power, Stexie Wonder og Bruno Mars så er musikken lige dig!\n </p>\n <p>\n  Det er funky, glad og sorgløs musik for alle sjæle - kom og dans!\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1769196600,
+      "end_timestamp": 1769203800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/souled-on-funk-0",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/soul.png?itok=fxOPKqC-",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-stor-kaeft",
+    "name": "STOR KÆFT",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  STOR KÆFT consists of four artists: Maluda, Ferdinand, Pju and Benja. They are from Vanløse, Nørrebro NV and Brønshøj. Individually, they are very different musically, but that is precisely what makes it exciting when they get together to make music that is hard, melodic and poppy. They played at NEMO-land this summer and showed that they can throw a party even if people don't know their music. They have released five songs: “Ikk Til Nogen”, “Behøver Jeg”, “Alt Du Gør”, “Hele Vejen” and “Dine Veninder”. With a strong TikTok presence, the boy band has gained momentum.\n </p>\n <p>\n  STOR KÆFT is out to give Denmark a new experience of hip hop, pop and mainstream music. Bring all your friends and see if you can keep your arms down when you're at a STOR KÆFT concert. We don't think you can, prove us wrong.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1769281200,
+      "end_timestamp": 1769295540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/stor-kaeft",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/WEB%20%2B%20BILLETTO%20%285%29.png?itok=3fO-pWZv",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "706017792582373",
+    "name": "Smokey AB (CA)",
+    "description": "Smokey AB (CA) - Support: Aske Skat\n\nSMOKEY (AB) er aliaset for Nickelas Johnson, musiker og kunstner fra det nordlige Alberta, Canada. Hans musik bevæger sig i spændingsfeltet mellem lo-fi anti-folk, country og garageeksperimenter. Resultatet er en rå, ærlig og stemningsfuld lyd, der formår at være både uhyggelig, smuk og vedkommende.\n\nNyt album: BLEAK HERITAGE (2025)\nSMOKEY er aktuel med sit nye album BLEAK HERITAGE, hans første fuldlængde siden 2016. Albummet samler sange skrevet over flere år – nogle optaget live med bandet, andre indspillet alene i hjemmestudiet eller på Mossy Trails. Pladen er akustisk funderet, men legende og eksperimenterende. Man hører ståltrommer, tomme flasker og endda en klokke fra hans bedsteforældres gård. Tematisk udforsker albummet liv og død, kærlighed og humor, mystik og accept. Det er på én gang\nkærligt, skævt, sårbart og modigt – et ærligt billede af en kunstner, der reflekterer over fortidens arv og fremtidens muligheder.\n\nLiveformat på Skandinavien-turnéen\nPå denne turné møder publikum SMOKEY solo. Det betyder koncerter, hvor hans vokal, guitar og tekster står helt i centrum. Den intime form åbner for en tæt kontakt med publikum og skaber en unik stemning, hvor man kommer helt ind under huden på sangene.",
+    "date": {
+      "start_timestamp": 1769193000,
+      "end_timestamp": 1769200200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/706017792582373/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/589612654_1365083718961540_3582885074283952521_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=N5QTu3xwG44Q7kNvwFGY-SQ&_nc_oc=AdmqP4r_dGq2PyybfQ65VE7wtI9_MtTnGUZyc9lUqeCBeogDqyaQ2Zo_nMCpY0MB4AA&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=2EuseY6P2E_DKOD3rwfcQw&oh=00_AfjFS-Yb3JkdgyiXSdGf_Y-wCebPnZid2pavC6hZkQ_Rkg&oe=692CEF72",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
   }
 ]

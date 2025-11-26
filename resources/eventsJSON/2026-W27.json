@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Copenhagen, Denmark",
-      "address": "",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.67500000000001,
       "longitude": 12.575000000000017,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1041097371347780/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/520916658_1367370614772559_195127155970829529_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XHtLvWW9I50Q7kNvwHrGecm&_nc_oc=AdmjgbiQaULw1NcMa4wRzZ4a8gQfkRyIAcTLnHKUPsYo1mmitM05WIFtIVXFkA5YnaQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=YOpgzkXLFmUOIi4ua_yC9g&oh=00_AfgQC5Hc5lMcQZHSRaAbdsAjDYcEaiag2qx53_8rWKS0ag&oe=691BBC38",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/520916658_1367370614772559_195127155970829529_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DpG3EFdRCDkQ7kNvwHpZqmd&_nc_oc=AdkIT2qyCkVPhNd5CS_l71IFLbZEHCX8QuK5uzIVmulrKWDlpd88TwYedXRE7Hpre9k&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=4w2wX0Q_jPIhnvZ-iRxTdQ&oh=00_AfhlzvAqaW44CvGlZC1Qro5wopa5DOCbQzs1hMIJahAt-Q&oe=692CDFB8",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Jazz Festival",

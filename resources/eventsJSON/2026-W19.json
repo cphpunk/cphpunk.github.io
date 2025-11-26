@@ -25,10 +25,42 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1293901495598347/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545819854_775307138573945_4287836962057422489_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=u1RKquWDSrgQ7kNvwHlnk77&_nc_oc=Adku8M8lGACUscL_ZeAjdXsrlcI1VoDBYHgC0imeKU34IKMVGSAI0kZjoK3aZogq6sA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=SbXLK_q75IB8P-WaHgAPJw&oh=00_AfghPd6VkoxBOAikqOoM04go30HzA5yZIzfn8bx0497soQ&oe=691BC768",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/545819854_775307138573945_4287836962057422489_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3ZNP_L0kcc0Q7kNvwH0gzbb&_nc_oc=Adm2f9tTe3BK8tUCMifoJXCCApotnjYoyCfJv7DkjYJqkINjOnHEulBtrL5k6cd7KS4&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=i3H2Xv8X7Fo8MDomgc0ucQ&oh=00_AfgfAlKXKGPSLQFZzwyJDiDLOIZYHTmWa8Z3-H2mgy8mxw&oe=692CEAE8",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
     "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "kk-baby-did-a-bad-thing",
+    "name": "Baby Did a Bad Thing",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Baby Did a Bad Thing er kendt for deres nærværende liveoptrædener, hvor publikum ofte beskriver oplevelsen som et rum uden tid og sted – et tiltrængt åndehul i en hektisk hverdag. Det er netop dét rum, bandet forsøger at fange på deres nye og tredje album 'Hope'. Musikken er båret af stærke vokalharmonier, guitarbårne arrangementer og Jonas Fjelsteds karakteristiske stemme, som GAFFA tidligere har beskrevet som “den perfekte balance mellem maskulinitet og sensibilitet.\n  <br/>\n  <br/>\n  Med et glimt i øjet omtaler de sig selv som “your dad’s new favorite band” og peger dermed både på deres musikalske rødder og det generations-overskridende i deres sange. Der er noget Fleetwood Mac, noget Laurel Canyon og noget nutidigt nordisk over deres lyd.\n  <br/>\n  Baby Did a Bad Thing blev også nærmest landskendt, da Jonas Vingegaard erklærede gruppen som et af sine absolutte favoritbands.\n  <br/>\n  <br/>\n  GAFFA-anmelder Matilde Hjort kvitterer med fire stjerner for Hope, og skriver bl.a. at “tredje album byder på harmonier, melankoli og velspillet håb”, samt at “(…) sammensmeltningen af country, pop og indie fungerer ubesværet.”\n  <br/>\n  Over halvdelen af sangene fra det nye album Hope har allerede fået airplay på DR’s radiostationer, og Matilde Hjort skriver afslutningsvist: “Alt i alt er Hope et solidt album, der cementerer Baby Did a Bad Things position på den danske americana-scene (…) med stærke tekster, gennemtænkte kompositioner, velproduceret, og båret af en markant vokal.”\n  <br/>\n  <br/>\n  Baby Did a Bad Thing består af Jonas Fjelsted (vokal/guitar), Emil Overmark (guitar/ pedal steel), Thomas Friis (bas) og Casper Simonsen (trommer). De debuterede i 2020 med det selvbetitlede album, fulgte op med ‘Out of the Blue’ i 2023, og er nu aktuelle med deres seneste album Hope.\n  <br/>\n  Bandet har modtaget roser fra både anmeldere og publikum med airplay særligt på P4 og P5, samt spillet et væld af koncerter i hele landet bl.a. på Fanø Vesterland Festival i 2025, hvor de også fik fornøjelsen af at komme med i Anders Aggers live-interview-koncept på festivalen.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  <br/>\n  Lørdag den 9. maj kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 175 kr. + gebyr / 200 kr. i døren.\n  <br/>\n  Koncerten er med unummererede siddepladser.\n  <br/>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1778349600,
+      "end_timestamp": 1778356800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/baby-did-a-bad-thing",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Design%20uden%20navn%20%2813%29.png?itok=URuQ2gDv",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

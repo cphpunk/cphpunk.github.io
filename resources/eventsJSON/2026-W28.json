@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Bremen Teater",
-      "address": "Nyropsgade 39-41",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.6765625,
       "longitude": 12.561062500000006,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/2022032265224923/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/579686414_1302079295297089_2298326640206019900_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Xm0hpj9DmWAQ7kNvwH7QmFU&_nc_oc=AdkhiKWWoqyyMeXTkmLHh1urFUcVSMekAXs9Y996ZyI6nckbDiShdDs8VLt_CWeSlRs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=dDFRyXEXtLybz-zsN58Vhg&oh=00_AfggbMgz5R_0N7AVDzbM7159GEfEAgh0V2ASmDZW9XTC3A&oe=691BC5D0",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/579686414_1302079295297089_2298326640206019900_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=D1-kzd0RXhUQ7kNvwFiFvNq&_nc_oc=Adm0cbfNjwNz8Ghw4QnkoK6Z6hkRpvdf5moA0xbFuBCWvlH8aSK0lu-oMKEPR2aalvQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=tv_us3wUQ_d0bWRLJAk0tw&oh=00_AfiDzWgvUtU0D72v064_tbMUxvy6Maa0gJ66WMcAKUIDcQ&oe=692CE950",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Copenhagen Jazz Festival",

@@ -106,8 +106,8 @@
     },
     "location": {
       "name": "Mayhem KBH",
-      "address": "Ragnhildgade 1",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1159151475768934/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/499246410_4977547142471072_293800427686503032_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1Dje44bSLVEQ7kNvwGXAA_q&_nc_oc=AdkssnefU-8cpcLlQjPsTQJKWvaXkqbwFSzRwj1ovLqe2ngDsRKhWNYaETGe8JT0tO4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=9tE18zY-4guqGnBZZtGKNQ&oh=00_Afh8piyI-vspuvhdrRKJ0JiAGuKO_Qhqk8dOi3f3c4Yppg&oe=691BB7F1",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/499246410_4977547142471072_293800427686503032_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YvNbJbmLwp4Q7kNvwEc2gKm&_nc_oc=AdlQMuq7rIhCKHmj1M0sUg9O80ClusCvyokgo9JJHJnGw_uA5_BxNBp8KFr69aVs9Vg&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=iv3f9_gdteFDvm8Fw5eMZw&oh=00_AfjPqzasc-8cyd7uPsK6KamcTT3gINnHCU_JMhcgonPmKw&oe=692CDB71",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Mayhem KBH",

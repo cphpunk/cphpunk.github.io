@@ -202,8 +202,8 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": "Sjællandsgade 12a",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -217,7 +217,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/807923698437272/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OKdYcu4TtZcQ7kNvwFltpmt&_nc_oc=Adnfh0g3eDMW3Swi6_7eqsKGnyx2orLKwOZR1N972_0J2tSsglKoTihqfwL-KbUjZlI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=TWvQ8N3lVJQwpv6vaQT1Dw&oh=00_AfiCCf8mNAuby0YOo-fz1vtg4bvapsad4wwHqMvYXOucYQ&oe=691BB785",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zWiDoguknD4Q7kNvwEjQLZ7&_nc_oc=AdlLoX68u-5uxs4XBi5eKp3JTWCMD3gyaNOlnfVCjYmpPvG9jG4laybNQkZCEa2Eou8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=9zh5g7Fwd5Qv2Lo5KtnXpA&oh=00_AfhSpiXowgVpx_LqMjPuogoesgr23ezcFJRVZpaZjuDckw&oe=692CDB05",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -249,7 +249,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/809251778484302/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/565167732_1333686702101242_1959741802164404192_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XTKOmWSZEkgQ7kNvwHrFl6l&_nc_oc=AdkBrIT92XtU5RaeIxM1TftH5vpmGJRIrttiyve_C0tk5_kNddKTTVEfsLBrL3Ov2MY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=PzmaGcIwEm9FHkACuVi50A&oh=00_AfjChhmWzZChoLXwIBGQ4F3itEIDs3HAiKJvMKCjJT7UVg&oe=691BB356",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/565167732_1333686702101242_1959741802164404192_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ooksqo6QfcsQ7kNvwGqKDxU&_nc_oc=AdkghRIM0cumuRG0-PeEXxA81RbzXCyXwEzVUyjfb_8a8xpSZZFrolM8dsgALZPwXcw&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=75VelTLvGmcIDKw0JgagBw&oh=00_AfjLirEowXr2DQxpUiFXiXcyTkC8ACj6U8Ok44GTQRsdsA&oe=692CD6D6",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
@@ -281,10 +281,202 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/789547800915922/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/569021250_1334577988678780_5858742489368084499_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=bMQfeQA-43kQ7kNvwG6IqgF&_nc_oc=AdmpcmBSeUiwTevxY7Uq-qpfCHXCBr8iLj-Q74GlEeCBlwwDEDiLhKAw3P3jFkT9OaU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=jZA9jS8gLQ7Koe0BE0dXCw&oh=00_Aficj9tLxTtzxpwzlsVHxcB8J0TAfjQpKBIPZZ6CVzZ_ug&oe=691BA8DD",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/569021250_1334577988678780_5858742489368084499_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4scUFIZ53SwQ7kNvwHzdF3r&_nc_oc=Adn6fm8KrBeB38eaCwwEJvBhYqpCPB3YzpDPgzanGkAXkzN21xj98JWi8-4JVcu1n0I&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=yZYvNP9fmfFRP_BUCnyptQ&oh=00_AfhKvT48rmmRMR1OgJu3KNEdum1u8gqzS5rAisP0ogHdvg&oe=692CCC5D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
     "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "kk-final-descent-into-vinterjazz-basile-bremaud-fr",
+    "name": "Final Descent Into Vinterjazz: Basile Bremaud (FR)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p dir=\"ltr\">\n  Deeply rooted in these territories, his music is shaped by years of immersion in local repertoires, where song, dance and instrumental practice form a shared and inseparable language.\n </p>\n <p dir=\"ltr\">\n  Brémaud treats traditional music not as a fixed heritage but as a terrain of exploration. Through extended vocal lines, drone-based textures and subtle rhythmic grounding, he draws out the hypnotic and meditative qualities embedded in these songs, gently pushing them toward ambient and even techno-inflected sensibilities. His performances move between intimacy and trance, balancing narrative poetry with a tactile attention to sound as material.\n </p>\n <p dir=\"ltr\">\n  The program unfolds as a journey through melodies that accompany everyday life, rituals and collective memory. Inspired by the idea of “simples”, healing plants in traditional knowledge, Brémaud approaches music with the same care and humility: as something that soothes, sustains and quietly strengthens. His playing invokes both the gentleness of familiar gestures and the vital force that animates body and spirit.\n </p>\n <p dir=\"ltr\">\n  Alongside his solo work, Brémaud is active in groups such as Duo Artense, Tornamai and TRES, and is a key member of the La Nòvia collective, contributing to a contemporary reimagining of traditional French music that honours its origins while opening it toward new forms.\n </p>\n <p dir=\"ltr\">\n  On stage, through voice, violin, foot percussion and an immersive sound setup, he creates a sonic landscape that feels at once ancient and present, grounded and expansive, inviting the listener into a space where region, memory and transformation converge.\n </p>\n <p dir=\"ltr\">\n  <a href=\"https://basilebremaud.bandcamp.com/album/basile-br-maud-solo\">\n   <strong>\n    Bandcamp\n   </strong>\n  </a>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771012800,
+      "end_timestamp": 1771016400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Xenon",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-final-descent-into-vinterjazz/final-descent-into-vinterjazz-basile-bremaud-fr",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Hjemmeside%20event%20%281200%20x%20554%20px%29%20%288%29_2.png?itok=Y7Lt6FUL",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-final-descent-into-vinterjazz-portal-pets-dkhn",
+    "name": "Final Descent Into Vinterjazz: Portal Pets (DK/HN)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p dir=\"ltr\">\n  With roots in the city’s experimental underground, the band crafts a dark and immersive sound world shaped by celestial melodies, gothic atmospheres and raw emotional intensity. Their music moves fluidly between grunge, folk, metal and alt-rock, carried by a haunting interplay of voice, guitar, bass and drums.\n </p>\n <p dir=\"ltr\">\n  Formed by interdisciplinary artists Xenia Xamanek and Emil Palme, and joined by drummer Oliver Laumann, Portal Pets unites three distinct artistic voices into a shared sonic language that feels both theatrical and deeply vulnerable. Their songs explore fragility, devotion and transformation, woven into expansive textures that feel ritualistic, intimate and unsettling in equal measure.\n </p>\n <p dir=\"ltr\">\n  Their lyrical universe shifts between Spanish and English, reinforcing the sense of being suspended between worlds. Portal Pets invites the listener into a dreamlike gothic realm where beauty, sorrow and magic are inseparable, and where emotional intensity becomes a portal rather than a destination.\n </p>\n <p dir=\"ltr\">\n  The band has released two singles, morningsun and ash, with two more to follow ahead of their debut album, scheduled for release in February.\n </p>\n <p dir=\"ltr\">\n  <a href=\"https://ideologicorgan.bandcamp.com/album/bye-bye-bird\">\n   <strong>\n    Bandcamp\n   </strong>\n  </a>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771016400,
+      "end_timestamp": 1771020000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-final-descent-into-vinterjazz/final-descent-into-vinterjazz-portal-pets-dkhn",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Hjemmeside%20event%20%281200%20x%20554%20px%29%20%288%29_3.png?itok=MV0YLsVN",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-final-descent-into-vinterjazz-bali-snak-dk",
+    "name": "Final Descent Into Vinterjazz: Bali Snak (DK)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p dir=\"ltr\">\n  It’s unpredictable, beautiful and chaotic when Bali Snak step out of their stripped-down rehearsal space in Nørrebro and tear through with their intense live shows.\n </p>\n <p dir=\"ltr\">\n  With a massive wall of sound built from technical, dissonant instrumental rock, sporadic song structures and lyrics so dark they were destined to be removed, the four young musicians deliver a loud and absurd musical experience.\n </p>\n <p dir=\"ltr\">\n  <a href=\"https://balisnak.bandcamp.com/album/perspective-snakes\">\n   <strong>\n    Bandcamp\n   </strong>\n  </a>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771009200,
+      "end_timestamp": 1771012800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-final-descent-into-vinterjazz/final-descent-into-vinterjazz-bali-snak-dk",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Hjemmeside%20event%20%281200%20x%20554%20px%29%20%288%29_1.png?itok=CgpwRV1Z",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "686560734471249",
+    "name": "Ariel Posen (CAN) - BETA",
+    "description": "240 kr. i forsalg / 255 kr. i døren\nDøre kl. 19 / Show kl. 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nFor Ariel Posen har sangskrivning og guitarspil altid hængt uløseligt sammen. I mere end ti år har han bygget bro mellem de to verdener og balanceret rollen som eftertragtet guitarist –med samarbejder, der spænder fra John Mayer til Tom Jones –med sine egne album, hvor melodier og personlige fortællinger er i centrum. Det har resulteret i en karriere, der er lige så mangfoldig som hans musik. Med optrædener på Eric Claptons Crossroads Guitar Festival, sin egen Fender Stratocaster-signaturmodel og en stærkvokal, der matcher hans guitarspil, udforsker Posen nyt musikalsk terræn og udvisker grænserne mellem både genrer og generationer.\n\nAriel Posen voksede op i et musikalsk hjem i Winnipeg, Manitoba, og spillede guitar med sine venner i The Bros. Landreth–og vandt en Juno Award for bandets debutalbum Let It Lie–før han i 2019 lancerede sin solokarriere. Siden har han udgivet flere soloalbum, der vidner om en vedvarende kunstnerisk udvikling og en stadig mere nuanceret blanding af rock’n’roll, R&B, americana og elektrificeret rootsmusik.\n\nNogle af Ariel Posens album rummer nøje gennemarbejdede, sangbårne kompositioner, mens andre består af frie og improviserede guitarnumre. Samlet tegner de portrættet af en musiker, der hele tiden søger nye veje, udforsker nye udtryk og samtidig forbliver tro mod sine rødder.\n\nSale Dates and Times:\n\nPublic Onsale : Wed, 1 Oct 2025 at 12:00 PM\n",
+    "date": {
+      "start_timestamp": 1771009200,
+      "end_timestamp": 1771016400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/686560734471249/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/558934061_1415831140545722_5273450164923402853_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=PEIlxesljdwQ7kNvwGAGd0G&_nc_oc=AdkFeXn7I4e6p8DCiRFAi3D_aR0SgyAm0wO22FUiNC4ARYCg_kKxhLZXWR2h6Qff4m8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=JvINFXYbCWRadNEIg3LhLQ&oh=00_AfjOSAZhoUHodt11fuixhAWRtGyybDNZ7KV7fp4p1kQ6_Q&oe=692CCC76",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "2539685322868687",
+    "name": "sombr (US) + [support: Charlotte Lawrence] i K.B. Hallen - UDSOLGT - VENTELISTE",
+    "description": "smash!bang!pow! præsenterer:\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\nsombr (US) i K. B. Hallen\nSupport: Charlotte Lawrence\nOnsdag d. 11. februar 2026 kl. 20:00\nBilletter: 335-375 kr + gebyr\nBilletsalget starter fredag d. 18. juli kl. 10.00\nSkriv dig på ventelisten: https://www.billetlugen.dk/event/20442652/?affiliate=SB8\n\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\nSombr, der har hittet massivt med ”Back to Friends” og ”Undressed” på TikTok og Spotify, giver sin største danske koncert den 11. februar 2026 i den legendariske københavnske arena.\nSombr er beviset på, at der kan komme noget godt ud af at droppe ud af en klassisk musikuddannelse og være isoleret under corona-pandemien.\nNetop disse omstændigheder satte nemlig den unge amerikaner i gang med at arbejde med sine egne numre hjemme i soveværelset. Han lærte sig selv at producere og begyndte at skrive emotionelt gribende indie-hymner.\nGennembruddet kom i 2022 med ”Caroline”, som han selv havde skrevet, produceret og udgivet, da han var blot 16 år gammel. I 2023 kom den smukke og kunstnerisk flyvefærdige ep ”In Another Life”.\nSombrs karriere satte for alvor i 2024 med gigahittet ”Back to Friends”. Nummeret gik viralt på TikTok, strøg ind som nr. 31 på den amerikanske singlehitliste Billboard Hot 100 og gik derudover top 10 i bl.a. Storbritannien, Australien, New Zealand og Filippinerne. ”Back to Friends” er til dato streamet over 430 mio. gange på Spotify.\nI marts 2025 udkom ”Undressed”, der understregede sombrs voksende popularitet. Nummeret var brandvarmt på TikTok og gik ind som nr. 25 på Billboards Hot 100, og med næsten 300 mio. Spotify-afspilninger står det også som et massivt internationalt hit.\nI 2025 valgte Billboard at inkludere sombr på sin prestigefulde ”21 Under 21”-talentliste, og det amerikanske kæmpetalent har også haft sin tv-debut i år med en optræden i det legendariske talkshow ”The Tonight Show Starring Jimmy Fallon”.\nSidst, men ikke mindst var 2025 året, hvor sombr for første gang gæstede Danmark som support for Nessa Barrett i Store VEGA. Det vellykkede opvarmningsshow tændte med garanti håbet hos mange danske musikelskere om en snarlig dansk headlinerkoncert. Den drøm bliver til virkelighed, når sombr indtager K.B. Hallen den 11. februar 2026.\n",
+    "date": {
+      "start_timestamp": 1770836400,
+      "end_timestamp": 1770843600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/2539685322868687/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/577017989_1253675103460528_7025521434358245648_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UHdq82y2x5kQ7kNvwG9r6bu&_nc_oc=AdlwIfRWxrks11pYridVX2qEBt3wDF99QPIMYzHCxioBB9QHUPCe10cStptf4B5oNJw&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=lhzq2g9iyM4drYEB36ZKEQ&oh=00_AfgSvrf-Jrq-NBAd_z17ntgc4XUpSX1wbwAbRn866LOrQQ&oe=692CE206",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "745543534695788",
+    "name": "Lorna Shore [Support: Whitechapel+Shadow of Intent+Humanity’s Last Breath] / K.B. Hallen / 15feb '26",
+    "description": "Lorna Shore annoncerer stor europæisk og britisk headliner-turné i begyndelsen af 2026, oplev dem i K.B. Hallen 15. februar 2026!\n\n• Døre: Kl. 17.00\n• Show: Kl. 18.00\n• Billetpris: 480 kr. + 50 kr. billetgebyr\n• Officielt billetsalg starter: Fredag 18. juli kl. 11.00 via livenation.dk og billetlugen.dk\n• Live Nation Presale: Torsdag 17. juli kl. 10.00 – kun for nyhedsbrevsmodtagere via livenation.dk\n• Mobile-only billetter: Billetter kan kun vises og bruges via mobilen. Ingen printede billetter.\n• Max. 8 billetter pr. køb\n\nSupport: Whitechapel, Shadow of Intent, Humanity’s Last Breath\n\nEfter en triumferende række af prominente festivaloptrædener rundt omkring i Europa – inklusive shows på Hellfest, Rock am Ring og Rock im Park – er Lorna Shore klar til at annoncere deres europæiske og britiske headliner-turné i starten af 2026. I forbindelse med turnéen lægger Lorna Shore vejen forbi Danmark, hvor de giver koncert i K.B. Hallen den15. februar 2026.\n\nTurnéen markerer bandets tilbagevenden som hovednavn på scener over hele kontinentet, og de har et nådesløst lineup af support med sig fra nogle af den moderne metals tungeste navne: Whitechapel, Shadow of Intent og Humanity’s Last Breath.\n\nMed afsæt i momentum fra deres kommende album “I Feel The Everblack Festering Within Me” (udkommer den 12. september 2025 via Century Media Records), fortsætter Lorna Shore med at skubbe grænserne og redefinere, hvad moderne ekstremmetal kan være. Deres seneste koncerter har elektrificeret titusindvis af fans og cementeret deres ry som en af de mest vitale og ambitiøse kræfter i genren i dag.\n\nMed en historik af udsolgte venues og viral succes lover denne kommende turné at blive et vaskeægte højdepunkt i bandets allerede kometagtige karriere.",
+    "date": {
+      "start_timestamp": 1771174800,
+      "end_timestamp": 1771182000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/745543534695788/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/520282492_1180377197451111_3351818722413263139_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7xBsK5iGSuoQ7kNvwF9cof9&_nc_oc=AdkSYbrUfXen8-odUfXNII3aaOPIxoFXFlKhAp9WQ_B-C6MoSM7WC0jbyCb7ps3l0Tk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=67NuKHz0MelCxnDMw6G5Kg&oh=00_AfhT41OBTnADESvze2fut8_mWe7X3IN07X6TrY2abaYSTQ&oe=692D02D6",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
   }
 ]
