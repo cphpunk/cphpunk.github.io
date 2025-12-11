@@ -185,7 +185,7 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/2059177738218630/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/570353765_1337689881700924_1366012414567377604_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=84luOjm12b8Q7kNvwHwybsc&_nc_oc=Admq_MwMp0-tVQKvoVlBlHKw3tFLEvrI6lAYFz_k6mJTAoAkzubOZrNPBjNLIN035DE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=6o5MNslj9Jjtc8fyoDqJXg&oh=00_AfjVoldmE3qSi1Y8HDXARlZDM2HWoLCt6kN5qSO6OzrW3Q&oe=692CD6CB",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/570353765_1337689881700924_1366012414567377604_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=j-wyF0CJYoUQ7kNvwHZAWUW&_nc_oc=Adlr5RI7zspuBkTpezkP9LbIjRCPVCMW3qOu-XGmE-jWYQkWXd-qAGWW-CRwnfcHPms&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=RV_8IKV0t-GD1kN4bKBqCQ&oh=00_AfnlRBP-rIfaKb24Y2i--dVPSrLEy-pShXEo2u1sDvf6TQ&oe=69409D4B",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Amager Records",
@@ -222,5 +222,69 @@
     "platform": "Facebook",
     "page_name": "BETA2300",
     "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "kk-vinterjazz-tuvaband-no-support-anna-soleil",
+    "name": "Vinterjazz: Tuvaband (NO) + support: Anna Soleil",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Norwegian singer, songwriter, and producer Tuva Hellum Marschhäuser – better known as Tuvaband – invites you into a sonic landscape where time stands still and music is allowed to float freely. Her new album Seven Ways of Floating continues her unique ability to blend melancholy, hope, and beauty into a universe of airy vocals, lo-fi beats, and poetic sound textures.\n </p>\n <p>\n  Tuvaband has established herself as one of the most compelling artists in the Nordic scene, known for her uncompromising approach to music – writing, producing, and performing almost every instrument herself. Her work has been praised by international media such as Pitchfork, Wonderland, and Rolling Stone Germany, and her songs have been described as “vulnerable and powerful at once.”\n </p>\n <p>\n  If you appreciate artists like Agnes Obel, Bon Iver, or First Aid Kit, you’ll find yourself at home in Tuvaband’s magical world. Expect an evening where calm, presence, and ethereal beauty fill the room.\n </p>\n <p>\n </p>\n <h2>\n  Support: Anna Soleil (NO)\n </h2>\n <p>\n  Anna Soleil’s music moves between childish and melancholic tones, where play, wonder and unrest live side by side. This summer she released her album Until It’s true, an album about fear and how it can make us rewrite our own story. About denial, waiting and living in-between. Her music is minimalist and playful. Flutes, accordion, and piano are woven together with midi sounds, synths and hip-hop inspired drums, a landscape where doubt and confidence meet.\n </p>\n <p>\n  This evening Anna invites us into an unfiltered liveset together with musician Imre Elzer.\n </p>\n <p>\n  Anna Soleil has received reviews from publications such as CLASH (UK), LOCK (UK) and GAFFA (Norway), and\n  <strong>\n  </strong>\n  highlighted by NME Magazine in their playlist(UK).\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772305200,
+      "end_timestamp": 1772319540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-tuvaband-no-support-anna-soleil",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-10/WEB%20%2B%20BILLETTO%20%282%29_3.png?itok=EffxIuyo",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "2241470466362200",
+    "name": "ELJO",
+    "description": "I spændingsfeltet mellem det akustiske og det elektroniske skaber ELJO et dragende lydunivers, hvor moderne nordisk jazz smelter sammen med minimalistiske, elektroniske strukturer. \n\nELJO udgav deres debutalbum på Blikflak i foråret 2025.\n\nLine up:\nJohannes Bohn, trommer\nElias Lykkeskov, keyboards\n\nPris 80 kr. for medlemmer af Amagerbro Jazz og 110 kr.  for øvrige. Bliv medlem via amagerbrojazz.dk\n\nKoncerten er arrangeret i samarbejde med Kvarterhuset Amager og støttet af Københavns Kommune og Statens Kunstfond",
+    "date": {
+      "start_timestamp": 1772217000,
+      "end_timestamp": 1772224200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Jemtelandsgade 3, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66518749999999,
+      "longitude": 12.603937499999986,
+      "bounds_ne_lat": 55.665249999999986,
+      "bounds_ne_lng": 12.603999999999985,
+      "bounds_sw_lat": 55.66512499999999,
+      "bounds_sw_lng": 12.603874999999988,
+      "plus_code_global": "9F7JMJ83+3H",
+      "plus_code_local": "MJ83+3H",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/2241470466362200/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/591140679_1404564394697477_9002730456262777185_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Gc0hz8Ly-KYQ7kNvwHoBozV&_nc_oc=AdkkkquEHeCE2wwhTkcSBmNzxVjtKcnup6ScieSnhr02b1cEQg2vOg9roCBAKhbg5iU&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=sxHiWWD1ptiwRs81XAiMUg&oh=00_AfnbCAXz0sqh6rHiLBkQ9t8myQT2tweNUwUBEiVw3m4ASQ&oe=6940B10F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kvarterhuset, Sundby Bibliotek og Bibliotekshuset",
+    "page_url": "https://www.facebook.com/Kvarterhusetamagerbro/events/"
   }
 ]

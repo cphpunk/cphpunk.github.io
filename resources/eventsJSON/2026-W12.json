@@ -94,5 +94,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-oskar-krusell",
+    "name": "Oskar Krusell",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Oskar Krusell brings an intimate and emotionally charged performance to the Music Café as he presents songs from his upcoming album Mit barn. The music explores parenthood, vulnerability and the complex emotions that arise during life-changing moments. The concert offers a raw and heartfelt atmosphere where doubt, hope and honesty unfold side by side.\n </p>\n <p>\n  Mit barn features eight songs written in a transitional chapter of Krusell’s life, blending elements of tender folk, distorted noise rock and playful rhythmic layers. On stage, he is joined by his regular band members: Mads Lang, Rasmus Frandsen and Søren Bøgeskov.\n </p>\n <p>\n  Known for his work with Kogekunst, Heathe and collaborations with Hjalte Ross, Oskar Krusell has become one of the most distinctive voices in contemporary Danish music. This concert is an opportunity to experience his new material live ahead of the album release on 20 February 2026.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774033200,
+      "end_timestamp": 1774047540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/oskar-krusell",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/WEB%20%2B%20BILLETTO%20%285%29_2.png?itok=Y7CNmi8f",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

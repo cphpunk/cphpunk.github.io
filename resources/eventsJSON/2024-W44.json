@@ -364,7 +364,7 @@
       "name": "Valgårdsvej 2, 2500 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.66143749999999,
       "longitude": 12.518562500000016,
       "bounds_ne_lat": 55.66149999999999,
@@ -377,7 +377,7 @@
       "copenhagen_district": "Valby"
     },
     "url": "https://www.facebook.com/events/9050552711663247/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/488904294_1261718408924507_1662684327804343398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=v1EPTeMe3gwQ7kNvwEZ6eoC&_nc_oc=AdkgF8RobB6ib7SGAr9QVfqa6RmP3nZx--46_EQGEsjo-BdzS5IKzvtb_py80OXqi_Q&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=E5S21u4rP__WC4pbiDdB3Q&oh=00_AfO22cBFL7RKPv8Oiohv_SpjiguHTv6-3Yk97tyTE8pGzg&oe=68671A30",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/488904294_1261718408924507_1662684327804343398_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pShMHVS-rRQQ7kNvwFD17Kq&_nc_oc=Adlbbh0JycUHkg1EQbcPMk_ZKmepUphXgAeyti0MBaK0IABPU_xC4taJOkAxoiP00os&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=rSVFgFukZY5RPvuPvEEHyw&oh=00_AfnBUBKBRyNjx-zMXquA1G74xeJugz9vx08wSOONpCOT4A&oe=6940A1B0",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Punks Undead",

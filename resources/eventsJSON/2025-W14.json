@@ -108,7 +108,7 @@
       "name": "Råhuset",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.66981250000002,
       "longitude": 12.560312499999995,
       "bounds_ne_lat": 55.66987500000002,
@@ -121,7 +121,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/994989999342631/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/490030698_1266023408494007_1819750204564349047_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vTwMzzxE4RYQ7kNvwHR-nIB&_nc_oc=AdkNN0iiGqhqQHjbT8mGIrtl43JFrMAvjFR99DFypyBwxXnG-01Ktl7I8pvbnUpMT8A&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=oOyobnBae_tDktQfTUVw5Q&oh=00_AfNfReP2JaO_Z2rKzahavou9QpvUSBAfUyxnVU5BNnAMyQ&oe=68670A4A",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490030698_1266023408494007_1819750204564349047_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZJ9rpe5wxpcQ7kNvwFcFZ63&_nc_oc=AdmCgNeByX1sG2pffVWD1sFraaZjXLgOqYdRC7VeS-6GzlbEPinTXiEH0xAtpWp3xBs&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=DW5tBa7h_vD29_5odrO8jg&oh=00_AfksfEAmpecnrrhzC5VB8zv6nWjt7xJtAfsBv2eYcwV78Q&oe=694091CA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Punks Undead",
@@ -281,7 +281,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/4141041729503725/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484059052_669286265655642_2850450490731752089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SzN_L1froxQQ7kNvwH_goJ_&_nc_oc=Adm7lsF4qmHzqrbZ34AgAV7aMGC5VStIFhzctO6x3VL3N8CSUPhljBP2kz8l_MaH-RI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=FxC5rJT6T4OcT6X7X_PWfQ&oh=00_AfjKPeMK8Ts3vXbGWg9XbWyo3xa2WdQdrLkkfGdBgz6EfA&oe=692CEDED",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/484059052_669286265655642_2850450490731752089_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BEN2__ZJ5OIQ7kNvwFZdMzW&_nc_oc=AdkAR-6LYRyTAWKHOzreMGBxLRg50tdJeMkqbl5RQ2Pa3Q7f0Ule7UAskykaxtxa8Fk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=qs_otuEEg7IcYtZq_renpw&oh=00_AfnquWkq09k4sfdb-zKl724CJQjNo28fuy7SaSio894lnQ&oe=6940B46D",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "CPH ZINE FEST",

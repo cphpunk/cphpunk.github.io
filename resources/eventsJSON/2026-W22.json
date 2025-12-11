@@ -121,7 +121,71 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1635357097839546/?event_time_id=1635406767834579",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/589913574_1302145308591748_6555748219792309529_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=01caezM48FIQ7kNvwGPb8Wj&_nc_oc=Adlb4hUMjOaciYxWWrm_3weck3cqtnJTlEdHGvzvpslqamZWYs838L7aZroE_HNXV7w&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=7Ypjxuaza8lLNQndCjDiog&oh=00_AfhFlziLDPvBFIStxS8xHfzEzlNEIIkWECWBjhygmwfFaA&oe=692CF9AD",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/589913574_1302145308591748_6555748219792309529_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KckOTSQEYNEQ7kNvwFTdtLj&_nc_oc=AdnwiD_KaBkKWmizW-m3X3pKgSA_oL9ZtCAQNFJwehw2dS6-E84pyMr3iRdzrQR36rQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=gy34o7hkE3l9HGhFRJgg4g&oh=00_AfmkIEkAJrzqHREA6uSbag91UemNRGXEXuicM0cJvYXGOQ&oe=6940C02D",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "CPH STAGE",
+    "page_url": "https://www.facebook.com/cphstagedk/events"
+  },
+  {
+    "id": "845503571771095",
+    "name": "SUERSAQ // CPH STAGE",
+    "description": "SUERSAQ af Nunatta Isiginnaartitsisarfia/Det Grønlandske Nationalteater \n\nOplev den nye, gribende forestilling ”SUERSAQ” af Nunatta Isiginnaartitsisarfia/Det Grønlandske Nationalteater.  \n\nForestillingen er baseret på historien om Hans Hendrik Suersaq (1834-1889), der rejste som guide og hjælper på europæiske ekspeditioner. Han var en af de mange ledsagere, der var afgørende for, at disse rejser blev gennemført, men som alligevel sjældent er blevet nævnt igennem historien.   \n\nI ”SUERSAQ” befinder vi os på en af de store ekspeditioner, som Hans Hendrik Suersaq deltog i. Her følger vi de dramatiske hændelser, da 19 mennesker bliver drevet på isen under en storm – heriblandt Suersaq, hans hustru Meqo og deres fire børn. De skal ende med at drive rundt i et halvt år, inden de bliver reddet af canadiere fra Labrador.  \n\nLivet på isflagen blev dokumenteret i tegninger af ekspeditionens kaptajn, George E. Tyson. På scenen forvandles tegningerne til stor-skala billeder skabt af billedkunstneren Ivinguak Stork Høegh.  \n\nInstruktør Kimmernaq Kjeldsen har i denne forestilling især lagt vægt på at samarbejde med grønlandske kunstnere, og i hovedrollen er Hans-Henrik Suersaq Poulsen, som er efterkommer af Hans Hendrik Suersaq.  \n\n‍Forestillingen er kurateret af CPH STAGE og præsenteres i samarbejde med Nunatta Isiginnaartitsisarfia/Det Grønlandske Nationalteater og Det Kongelige Teater.  \n_________________________________________________________\nSKUESPILHUSET, LILLE SCENE\n28.05 KL. 20.00 / 29.05 KL. 14.00 / 30.05 KL. 18.00 / 31.05 KL. 14:00\nSprog: Grønlandsk (tekstet på engelsk)\n_________________________________________________________\n\nENG: Experience the new, gripping production “SUERSAQ” by Nunatta Isiginnaartitsisarfia/The National Theatre of Greenland.\n\nThe performance is based on the story of Hans Hendrik Suersaq (1834–1889), who travelled as a guide and helper on European expeditions. He was one of the many companions who were crucial for these journeys to be carried out, yet has rarely been mentioned throughout history.\n\nIn “SUERSAQ” we find ourselves on one of the great expeditions Hans Hendrik Suersaq participated in. Here we follow the dramatic events as 19 people are driven onto the ice during a storm – including Suersaq, his wife Meqo, and their four children. They end up adrift for half a year before they are rescued by Canadians from Labrador.\n\nLife on the ice floe was documented in drawings by the expedition’s captain, George E. Tyson. On stage, the drawings are transformed into large-scale images created by visual artist Ivinguak Stork Høegh.\n\nDirector Kimmernaq Kjeldsen has in this production especially stressed collaboration with Greenlandic artists, and in the lead role is Hans-Henrik Suersaq Poulsen, who is a descendant of Hans Hendrik Suersaq.\n\nThe performance is curated by CPH STAGE and presented in collaboration with Nunatta Isiginnaartitsisarfia/The National Theatre of Greenland and The Royal Danish Theatre.\n_________________________________________________________\n\nKreditering: Kimmernaq Kjeldsen (INSTRUKTØR), Hans-Henrik Suersaq Poulsen (SKUESPILLER), Nukakkuluk Kreutzmann (SKUESPILLER), Hans Ole Amossen (MUSIK & TEKNIK), Naleraq Eugenius (LYSDESIGNER), Ivinguak Stork Høegh (SCENOGRAF), Bibi Chemnitz (KOSTUMEDESIGNER), Salik G. Lennert (INSTRUKTØRASSISTENT)   \nFoto: Susanne Sloth",
+    "date": {
+      "start_timestamp": 1779991200,
+      "end_timestamp": 1779994800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Det Kongelige Teater - Skuespilhuset",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.680062500000005,
+      "longitude": 12.594687500000006,
+      "bounds_ne_lat": 55.680125000000004,
+      "bounds_ne_lng": 12.594750000000005,
+      "bounds_sw_lat": 55.68000000000001,
+      "bounds_sw_lng": 12.594625000000008,
+      "plus_code_global": "9F7JMHJV+2V",
+      "plus_code_local": "MHJV+2V",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/844899148498204/?event_time_id=845503571771095",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/586920782_1302156895257256_8792649732157481468_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=o7dIz28PeeYQ7kNvwHxgRwQ&_nc_oc=AdlMyq_j0XXIK-1JfAiB5U7mu2xW7SyBZJ2se3kyyMmUwMkOdGuYvNEvxEjFDFmZFew&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=3D4a5VFG2uQgdhJJa_08Ng&oh=00_AfmDvu8D1fUlnRKW6_AhIlLsh36G_uMA0owxfXkTqPuhaw&oe=6940C009",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "CPH STAGE",
+    "page_url": "https://www.facebook.com/cphstagedk/events"
+  },
+  {
+    "id": "777595745328911",
+    "name": "Boat Tours NHZ (New Harbour Zones) // CPH STAGE",
+    "description": "Boat Tours NHZ (New Harbour Zones) af PUBLIC PERFORMANCE og Sydhavn Teater\n\nHop ombord, når den storstilede forestilling \"Boat Tours NHZ (New Harbour Zones)\" indtager Københavns Havn.\n\nForestillingen er bygget op om en sejltur med turistbåd til skjulte locations, hvor vi sammen ser Københavns havnefront med nye øjne. Med udgangspunkt i blandt andet Sydhavns historie bliver et fremtidsscenarie iscenesat. Her er alle inviteret med på et eventyr, hvor det uventede opstår – både til lands og til vands.\n\nI en hybrid af koreografi, performance, tekst og musik, udforsker \"Boat Tours NHZ (New Harbour Zones)\" både nutidens havnefront og den gamle konge-, krigs- og købmandshavns historie, liv og skæbner. Forestillingen kaster sig ud i en fantasi om fremtidens havn, der leger med idéer og historier, som havnen repræsenterer. Med humor og alvor bringer forestillingen de ideologiske og politiske kampe om byen i spil.\n\nKaptajn Atlas og hans crew: agent Neptun, agent Jupiter og agent Polaris glæder sig til at byde jer velkommen ombord!\n\nForestillingen er kurateret af CPH STAGE og præsenteres i samarbejde med PUBLIC PERFORMANCE, Sydhavn Teater og Stromma.\n_________________________________________________________\nKAJPLADSEN V. DEN SORTE DIAMANT\n30.05 KL. 20.00 / 01.06 KL. 20.00 / 02.06 KL. 20.00 / 03.06 KL. 20.00\nSprog: Engelsk\n_________________________________________________________\n\nENG: Hop aboard as the grand production \"Boat Tours NHZ (New Harbour Zones)\" takes over Copenhagen Harbour.\n\nThe performance is built around a boat trip with a sightseeing tour to hidden locations, where we view Copenhagen’s waterfront with new eyes. Starting from, among other things, the history of Sydhavn, a future scenario is staged. Everyone is invited on an adventure where the unexpected arises – both on land and at sea.\n\nIn a hybrid of choreography, performance, text, and music, \"Boat Tours NHZ (New Harbour Zones)\" explores both the present waterfront and the old history of the king’s, war, and merchant harbours, as well as lives and fates. The performance delves into a fantasy of the harbour’s future, playing with ideas and stories that the harbour represents. With humor and gravity, the show brings the ideological and political struggles over the city into play.\n\nCaptain Atlas and his crew: agent Neptune, agent Jupiter, and agent Polaris look forward to welcoming you aboard!\n\nThe performance is curated by CPH STAGE and presented in collaboration with PUBLIC PERFORMANCE, Sydhavn Teater and Stromma.\n_________________________________________________________\n\nKreditering: Tobias Shaw Petersen (PERFORMER), Daniel Norback (PERFORMER), Jupiter Child (PERFORMER), Pernille Koch (PERFORMER) og Malik Grosos (PERFORMER), Adelaide Bentzon (ISCENESÆTTER, TEKST OG KOREOGRAFI), Erik Pold (ISCENESÆTTER, TEKST, KOREOGRAFI OG OVERSÆTTER), Frederikke Krogh (SCENOGRAF), Oak&Shaw (KOMPONIST) \nFoto: Malle Madsen",
+    "date": {
+      "start_timestamp": 1780164000,
+      "end_timestamp": 1780171200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Den Sorte Diamant - Det Kgl. Bibliotek",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67343750000002,
+      "longitude": 12.582687500000006,
+      "bounds_ne_lat": 55.67350000000002,
+      "bounds_ne_lng": 12.582750000000004,
+      "bounds_sw_lat": 55.67337500000002,
+      "bounds_sw_lng": 12.582625000000007,
+      "plus_code_global": "9F7JMHFM+93",
+      "plus_code_local": "MHFM+93",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/777557525332733/?event_time_id=777595745328911",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/589898622_1302166035256342_9096906007868484124_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=D_WI7eheI1UQ7kNvwF9c-gM&_nc_oc=AdkwQSO4uY1mEUyirClhkZNfT2RiiUIV9vWWZshrKdlHkS2KZZ5CURE_xjUXauo8JbI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=eWKZChj5ZAjyi2fFYU4agg&oh=00_AflussIPe8uyIyFGWkxtMQaufsNxWASOn_Xgkd3VxOOqEQ&oe=6940A5BD",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "CPH STAGE",

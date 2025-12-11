@@ -236,7 +236,7 @@
       "name": "Råhuset",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.66981250000002,
       "longitude": 12.560312499999995,
       "bounds_ne_lat": 55.66987500000002,
@@ -249,7 +249,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1132663658532543/",
-    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/499928059_1288132539987520_4993404219853654403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RKI2rMZ6_1UQ7kNvwH6D2DP&_nc_oc=AdlwPMMRL_guU6PzLk4h1uLzslaOqRTYdADyOVdRBPxN4_UQ4cYmiZ4EgUBOCq4nvPo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Cpz1sUm_EMm4G-aoiTwNvw&oh=00_AfNJ5mzvd2ROKvTXdnJcaDDmb5hcUx77RuCCMj9r5zJPTg&oe=686724A5",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/499928059_1288132539987520_4993404219853654403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cEFIZeA6ZpYQ7kNvwHtoQUY&_nc_oc=AdmyDA8RT5nFEAXY0BTE8Ysmt944rGTJWkAaTLCyYWRlBDNO63drTSLIXW4gctupAQM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=44PHbohQvDHnqNbkqX5Tvw&oh=00_Afm6Qx2zJEVxt71tZIE_86k7iz_wwn8AMH3k8WH3ewIicw&oe=6940AC25",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Punks Undead",
@@ -1977,7 +1977,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/29167987379467341/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/473256058_122148579314359067_3941907579538029340_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=D1WU3ebpAvoQ7kNvwGsbZi0&_nc_oc=Adl41bi79zNUgTGvp2bG4u7gIjd2zFTN59nloOscqCKUgM8miTTNbwEQvkVsd-Pm1NY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=NE4b5wsScULkQiTcxgp86g&oh=00_AfiPQ1kN9srniiBxALA0F4yb24UfJGAtEHd1FjJsb036iw&oe=692CD48E",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/473256058_122148579314359067_3941907579538029340_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DAPDPnxOK7oQ7kNvwFvKzwG&_nc_oc=AdmVJzCHVErGwD4VH0ssJ2-Pt1X1ljzJSWyTCBJHEmzgj-YxKXy1XoJjenxvEKKdyC0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=3nt62DvGMNRaG-FvumcoyA&oh=00_Afn3lS3RiQzCqqnL7tH6yE6Atrw_VuLVeuGOXGAAlXkRVA&oe=69409B0E",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH Verified account",

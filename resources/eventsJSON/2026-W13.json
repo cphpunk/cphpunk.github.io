@@ -62,5 +62,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-die-herren-farvelkoncert-udsolgt",
+    "name": "Die Herren - Farvelkoncert (udsolgt)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Die Herren ønsker at stoppe, mens de stadig kan levere ”den bedste koncert nogensinde” og derfor er tiden nu kommet til at sige farvel.\n  <br/>\n  Det kalder selvfølgelig på et allersidste brag af en koncert i Kulturhuset Islands Brygge, hvor bandet kan tage afsked med alle de trofaste fans og følgere, der gennem årtier har været en del af deres U2-verden.\n  <br/>\n  <br/>\n  \"Vi har haft en utrolig rejse, og det har været en ære at bringe U2's musik til live for så mange mennesker og helt utroligt, at vi har fået lov til det i så mange år. Vi ønsker også at vise den store taknemlighed, vi har for den danske live-scene. Vi har altid følt os værdsat og accepteret. Spillesteder, arrangører, bookere, teknikere, musikklubber, festivaler – alle har vist os respekt og givet os en seriøs behandling.  Tak for den tid I har givet os.\n  <br/>\n  Vi gør klar til en sidste gang at stå ansigt til ansigt med det publikum, som vi altid har haft den største respekt for. Det skal blive en heftig afslutning på en fantastisk karriere, hvor vi en sidste gang skal give U2s fantastiske sange en værdig rock-tur igennem Die Herren-møllen.\n  <br/>\n  Vi skal vise hvor gode de sange faktisk er – hvis I skulle være i tvivl!\"\n </p>\n <p>\n  Praktisk info\n  <br/>\n  Lørdag den 28. marts 2026 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Entré: 295 kr. + gebyr / 350 kr. i døren\n  <br/>\n  Koncerten er med ståpladser\n  <br/>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774724400,
+      "end_timestamp": 1774731600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/die-herren-farvelkoncert-udsolgt",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-06/Design%20uden%20navn%20%282%29.png?itok=dSA20F_9",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

@@ -473,7 +473,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1171508688211450/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/554082164_1296225209209777_1253867817847268377_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=37_YqnPFFdYQ7kNvwEYLYlp&_nc_oc=AdkP8xlhi36PKQr2TEVhzdkbr3uvxk2KIQtHGnaJ0tcdin0Q9X0Xjrsn_fgqHfH6GSI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=nLf9_Ap5OpRCqVvrZ-Dkjw&oh=00_AfgoJENC5P9wpf8kmRlfiSmz3yOJr6sIjGlPLTzJWxZa9Q&oe=692CD726",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/554082164_1296225209209777_1253867817847268377_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RPkkycy7bYkQ7kNvwGMZp11&_nc_oc=AdmKfLC_ueANC5CTQ6o8yO1IBf1Yl7GZ0Z95DiIgeMUYjpL-_zO1l-Df1f3b51HwEmY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=N0Ne2EJQEjk_ZyTeBgEcQA&oh=00_AfnEJBw_Zr25XpcRBJL4EC4xvv5d5YnQAR1ZfPrfK1nAkg&oe=69409DA6",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "LiteraturHaus",
@@ -4574,5 +4574,37 @@
     "platform": "Facebook",
     "page_name": "Glyptoteket",
     "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "1554583052567146",
+    "name": "360°: [for]lomme",
+    "description": "Villa Kultur er stolte af at præsentere udstillingen [for]lomme. Udstillingen er en del af 360º-programmet.\n\n[for]lomme er: et tværkunstnerisk kollektiv bestående af Aviaja Maria Brixvold, Clara Josephine Lykkeberg og Klara Emma Lilhav Hoffmann: en spæd drøm om en større bevægelse, der skal gøre det mere tilgængeligt og mindre ensomt at udkomme kreativt og kunstnerisk. \n\n[for]lomme lanceres d. 14.-16. november i Villa Kultur med en weekendlang undersøgelse af de *forlommer*, man skal få – og ofte også selv give – for at etablere sig i kunst- og kulturbranchen. Ud over udstillingens statiske værker kan du i løbet af weekenden opleve en række pop-up events: \n\nFredag åbner udstillingen med en alternativ (og vegansk) netværksmiddag inspireret af LUMBUNG: en indonesisk teori om kollektive bidrag til en fælles “skål” til inspiration, sparring og nytte for fællesskabet. Deltagelse i middagen kræver billet, som kan købes på her: www.villakultur.dk/billetter \n\n18:00 Dørene åbner for middagsgæster\n18:15 Velkomst og speed networking\n19:00 Middag serveres \n19:30 Fælles refleksion omkring middagsbordet\n20:00 Officiel åbning og fernisering \n22:00 Døre lukker\n\nLørdag bliver *forlommer* fortolket som transaktionelle handlinger og strukturelle barrierer i balsalen gennem live performances af lydværk og dans. Der er to visninger i løbet af eftermiddagen og pladserne er først til mølle.\n\n12:00 Døre åbner\n13:00 Perfomance\n15:00 Performance \n17:00 Døre lukker\n\nSøndag formiddag kan du til gratis skriveworkshop i balsalen lære at bruge allerede eksisterende tekststykker som *forlommer*, inden udstillingen afrundes med en paneldebat. Debatten finder sted omkring et skulpturelt og interaktivt værk og tager udgangspunkt i resultatet af weekendens undersøgelse.\n\n12:00 Døre åbner\n13.00 Skiveworkshop \n14:30 Oplæsninger\n15:00 Paneldebat\n17:00 Udstillingen lukker\n\nGrundet at villaen er under renovering, er udstillingen ikke tilgængelig for kørestolsbrugere\n\nUdstillingen er en del af 360º-programmet, som er et udviklingsprogram for nyskabende og tværæstetiske projekter. Udstillingen er støttet af Københavns Kommune og Østerbro Lokaludvalg\n\n360º: [for]lomme\nVilla Kultur, Krausesvej 3, 2100 København Ø\nFri entre (middagen kræver billet)\n",
+    "date": {
+      "start_timestamp": 1763290800,
+      "end_timestamp": 1763308800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70481249999999,
+      "longitude": 12.581687500000001,
+      "bounds_ne_lat": 55.70487499999999,
+      "bounds_ne_lng": 12.58175,
+      "bounds_sw_lat": 55.70474999999999,
+      "bounds_sw_lng": 12.581625000000003,
+      "plus_code_global": "9F7JPH3J+WM",
+      "plus_code_local": "PH3J+WM",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Østerbro"
+    },
+    "url": "https://www.facebook.com/events/1553844149307703/?event_time_id=1554583052567146",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/565128667_1931333150979400_6756007882721725241_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=g3HUa_0_o_kQ7kNvwGwk47C&_nc_oc=AdkKqKxze_orX2hDMHOEYk5VS2NXilTL98jQYYFeVSsdvVK2Xq4gE3ea0F9cgVGVgXc&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=N78ARK95vdJOyfdhDFqz4g&oh=00_Afk-fy2pCfuepkzuDj3R5aXKMjNbBwxq4zvRV_D8F6MB6w&oe=6940C49C",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Villa Kultur",
+    "page_url": "https://www.facebook.com/villakultur/events"
   }
 ]

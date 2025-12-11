@@ -62,5 +62,69 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-dybt-overfladisk-et-musikalsk-standup-show-om-90erne",
+    "name": "Dybt Overfladisk – et musikalsk standup-show om 90'erne",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  På Islands Brygges brosten startede et venskab og et musikalsk eventyr, som ingen af de unge talenter Axel Boisen og Lars Juhl kunne have forudset. I et lille studie i et gammelt pakhus på Bryggen skabte de Axel Boys Quartet, der med humoristiske og frække fortolkninger af tidens nordiske hits fik international opmærksomhed. Publikum i både Asien og Europa tog imod numrene, og bandet røg foran store navne som Madonna, U2 og Spice Girls på hitlisterne.\n </p>\n <p>\n  I showet Dybt Overfladisk inviterer Axel og Lars publikum med tilbage til den tid, hvor Norden blev moderne, og hvor musik som Saturday Night, Dub-I-Dub, It Must Have Been Love, Scatman og Nothing Else Matters satte stemningen – også her på Bryggen. Gennem musik, billeder, tv-indslag og historier fortæller Axel om de år, hvor alt gik stærkt, og om det øjeblik, hvor livet pludselig stoppede. Et uventet hjertestop blev vendepunktet, der fik ham til at genbesøge 90’ernes glitrende facade og spørge: Hvad betød den tid egentlig for os – og hvem blev vi efter den?\n </p>\n <p>\n  Nu vender Axel og Lars tilbage til udgangspunktet på Islands Brygge med et show, der både rører, underholder og giver plads til nostalgiens fællesskab. Dybt Overfladisk spiller den 18. april 2026 som en del af forårets turné.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag 18/4-2026\n  <br/>\n  Dørene åbner kl. 19.30 / Showet starter kl. 20.00\n  <br/>\n  Forsalg: 150 kr. + gebyr / Køb i døren: 170 kr.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1776535200,
+      "end_timestamp": 1776540600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/dybt-overfladisk-et-musikalsk-standup-show-om-90erne",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-12/Design%20uden%20navn%20%285%29.png?itok=jU26WrOz",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-dupont",
+    "name": "Dupont",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Dupont is in the midst of a significant transformation. After several years as a band, the project has returned to its roots: one person, one voice, and a deep desire to create music that feels authentic. On stage, you meet Mikkel, the songwriter behind Dupont, who won DR’s KarriereKanonen in 2024 and now continues solo.\n </p>\n <p>\n  The concert offers new songs as well as the stories behind them – including the single Night Terrors, written in just ten minutes as a direct cry for help and a reminder that music can be a refuge, a language and a form of therapy.\n </p>\n <p>\n  Dupont began in Skive as a solo project, and that space for immersion and vulnerability shapes the musical direction you can experience now. Mikkel shares the process, the change and the ambition to create a space where the audience can listen, feel and be surprised.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1776535200,
+      "end_timestamp": 1776549540,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/dupont",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/Dupont1%20bred%20Rasmus%20Haversen.jpg?itok=aTQs0g5u",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

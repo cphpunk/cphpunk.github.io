@@ -57,7 +57,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1586817705860462/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/514091409_1168284978660333_5730258679841526304_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Cb8R4cnOUgEQ7kNvwFK16oW&_nc_oc=Adk1r-9V9n456zfxngyTE87Wy0cmVT-nhb8yfD7zO8CM1MUpw7VeM9qhB5ce-aRktyQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=0otTD8Qj0zYrdlhsMc8B9g&oh=00_Afg6kfhlPE18fc2Agu72KfgEK7F_KaDn-4jkQBDy40SYBg&oe=692CF0C7",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/514091409_1168284978660333_5730258679841526304_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qG3ep6i14w4Q7kNvwHPvOKH&_nc_oc=Adnt7YzpO9lpcGEvs08SAnZfpAd1h7VcFDwgv5CaB4h9G5IEZPVhHpQ3JU_Dbxm5Pf0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=DAjsK8wDhl6bZvJIzLUxfw&oh=00_Afm97Ae3iF-k1xz_C5J3VQo_Jiahmtv5cQeNgB-TqRlaYg&oe=6940B747",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -89,10 +89,298 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/594504913595028/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/497521006_1332149238912586_4525039596200145819_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R6Kmvt3QagkQ7kNvwF8NE94&_nc_oc=AdlTFoVGzNAsmtmodOxUCUaRTfdVfDaOLhT64Q0mG0H4We11NatG0462D1tjJv9hl9Q&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=XCAWcUbZtp0hu0lOMzV9Zg&oh=00_AfjGlu_6KDkGTrploTwu299WuT2SVrAhr7o85io1qHUiAA&oe=692D0489",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/497521006_1332149238912586_4525039596200145819_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rkSnMowCxfUQ7kNvwF65hMN&_nc_oc=AdnlgJIE88ixQAubtwemEKwhY_057HZcAxBNLb5WQ8DWqEkt2HvrPbjeE2nrGJE0w6k&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=1rqHZTEf1-vRPssS9jSZGg&oh=00_AfnQ2ygQaDxItLUPOj7eGXPLyq0ph_2Ft74f1kfnwzmfWw&oe=6940CB09",
     "tag": "ACTIVISM",
     "platform": "Facebook",
     "page_name": "Red Door",
     "page_url": "https://www.facebook.com/reddoordk/events"
+  },
+  {
+    "id": "kk-anna-staehr-trio-support-kristoffer-raasted",
+    "name": "Anna Stæhr Trio + support: Kristoffer Raasted",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  With roots in the classic jazz tradition and an eye towards the future,\n  <strong>\n   Anna Stæhr Trio\n  </strong>\n  creates a unique and present musical universe. The trio combines poetic lyrics, strong melodies and an artistic nerve that unites the intimate with the magnificent. The result is a modern interpretation of vocal jazz that feels both fresh and respectful of the genre's history.\n </p>\n <p>\n  At the forefront of the group is\n  <strong>\n   Anna Stæhr\n  </strong>\n  , whose songwriting contains a special sense of both poetry and melodic depth. Behind her are two talented musicians:\n  <strong>\n   Alfred Ocansey\n  </strong>\n  on piano and\n  <strong>\n   Eigil Lau Andersen\n  </strong>\n  on double bass. Together they manage to transform the trio format into a powerful and captivating meeting between musician and listener.\n </p>\n <p>\n  Anna Stæhr Trio is a tribute to the core values of jazz – the living improvisation, the intimate communication and the rich tradition. At the same time, their music points forward and invites new ways of experiencing vocal jazz.\n </p>\n <p>\n </p>\n <h3>\n  Support: Kristoffer Raasted / Nolan Lem Duo\n </h3>\n <p>\n  The gentle, stable, beautiful voice of vocalist Kristoffer Raasted is the core of a musical collaboration with pianist Nolan Lem that explores a repertoire of timeless jazz standards from The Great American Songbook. Inspired by singers like Johnny Hartman and Earl Coleman, Raasted's deep bass-baryton crooner vocal is the focal point for an exploration and reinterpretation of the evergreen format.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1768503600,
+      "end_timestamp": 1768517940,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Stardust",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/anna-staehr-trio-support-kristoffer-raasted",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-12/WEB%20%2B%20BILLETTO%20%285%29_1.png?itok=choH_W5j",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1070511455220313",
+    "name": "Prime Is Coming International: The Five Hundred[UK]+Bite Down[SE]+Sugar Spine[NL]+Torn From Oblivion",
+    "description": "Prime Collective goes interantional!\n\nThe Five Hundred:\nThe Five Hundred, a formidable force in the British heavy metal scene, hail from the industrial heartland of Nottingham. Emerging in the early 2010s, the band quickly established themselves with a sound that blends the brutal intensity of metalcore with the intricate ferocity of djent and progressive metal. Their name, a symbol of unity and collective strength, mirrors their tightly knit and powerful musical synergy.\n\nThe band's lineup—John Eley on vocals, Mark Byrne and Paul Doughty on guitars, Andy Crawford on bass, and Kelsey James on drums—unleashes a maelstrom of sound characterized by crushing riffs, haunting melodies, and lyrics that cut deep into the soul.\n\nhttps://open.spotify.com/artist/7Cn1ymMw18oAuzmovUqcQC?si=zzPKEUekTESkupUz0MUisA\nhttps://www.facebook.com/thefivehundredband\nhttps://www.instagram.com/thefivehundred_\nhttps://thefivehundred.co.uk/\n\nBite Down:\nFormed in Jönköping, Sweden, Bite Down delivers an intense and unflinching sound, channeling the energy and emotion of life’s darkest moments that promises an experience that will send shockwaves in the mosh pit.\n\nTheir latest release, the five song EP “Decolorized”, is a testament to their unrelenting commitment to delivering hard-hitting music. With their previous EP:s “Trial // Error” and “Damage Control” the band has accumulated hundreds of thousands of streams across its nine tracks. Tracks have been featured on Spotify’s editorial playlists “New Music Friday”, “All New Metal”, “New Blood” and “Deathcore”.\n\nBite Down has proven their mettle on stage, leaving audiences hungry for more. Having shared the stage with bands like Orbit Culture, Aviana and ALLT, and performed on one of Sweden’s top metal festivals “Gefle Metal Fest” the band is all set to get out on their next run.\n\nhttps://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l?si=7Z6rj_-TTMaKF-pyrIShow\nhttps://www.facebook.com/bitedownband\nhttps://www.instagram.com/BITEDOWNMUSIC\nhttps://linktr.ee/bitedownmusic\n\nSugar Spine: \nRelentless, passionate & intensely visceral; these are a few words to describe Sugar Spine, an up and coming metallic hardcore band based in the Netherlands.\n\nSugar Spine employs an aggressive mix of hardcore, metalcore and deathcore. The band swiftly moves between metal styles, hinting influences from bands such as Stick To Your Guns, (early) Slipknot, END, Boundaries and more.\n\nThe music furiously rages between brooding clean sequences, ferocious two stepping and slamming breakdowns that assault the listener without warning.\n\nSugar Spine originally started as a solo project in 2021 by vocalist Josh Muncke, with the first single Go Outside being written and produced in a 2-week hotel quarantine in Sydney, Australia.\n\nIn March 2023, the project became a live group, and in a very short time secured multiple appearances alongside international headline acts including Jesus Piece, Breakdown of Sanity, Half Me, Misery Signals and others.\n\nIn their own catalogue, Sugar Spine has collaborated with various artists, including Bleed From Within, Cabal, To The Grave, Distant, Born Of Osiris and more.\n\nSugar Spine is here to show the metal world that all it takes to become a formidable force is sheer will, authenticity and relentlessness.\n\nhttps://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR?si=e50MY-RDSLOrZbiI5zG4Sg\nhttps://www.facebook.com/sugarspine\nhttps://www.instagram.com/sugarspine.band\nhttps://www.sugarspineofficial.com/\n\nTorn From Oblivion:\nHailing from Eindhoven, Netherlands, Torn From Oblivion merges deathcore and hardcore with a modern, progressive approach. Their sound is characterized by relentless aggression, experimental compositions and raw emotions.\n\nhttps://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS?si=8uIffK7IRLaE_TEzq2BMlQ\nhttps://www.facebook.com/TornFromOblivion\nhttps://www.instagram.com/tornfromoblivion\nhttps://tornfromoblivion.com/\nhttps://linktr.ee/Tornfromoblivion\n-------------------------------------------------\nEntry: 155 kr in pre-sale / 180 kr at the door!\nDoors at 8pm!",
+    "date": {
+      "start_timestamp": 1768759200,
+      "end_timestamp": 1768777140,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Spillestedet Stengade",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68831250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.68837500000001,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.68825000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHQ4+87",
+      "plus_code_local": "MHQ4+87",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1070511455220313/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/530622471_1157466966412581_846470444430498709_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EmcTs9mJZ-QQ7kNvwF19GBZ&_nc_oc=Adm-ERASlS6jry4P5H6PGwl7nTJfp_nv8Qrzq2cb0r5sNVrPkrjOqaw3bWqx_LD4FD4&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=tTpGHZ5I5sxOsZddrhC7qw&oh=00_Afn_mRGPKQuZ738x0Al1YyA6shy3SvP0-FsUM3eRXTtuZw&oe=6940C005",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Spillestedet Stengade",
+    "page_url": "https://www.facebook.com/spillestedetstengade/events"
+  },
+  {
+    "id": "1372935421061342",
+    "name": "Blodmåne + Special Guest: Crimson Burial + Support: Heksproces",
+    "description": "Bliv opslugt af det kolde vintermørke på Stengade og oplev Blodmåne, Crimson Burial og Heksproces til en dunkel aften med black- og dødsmetal i alle afskygninger.\n\nBlodmåne:\nBlodmåne is an explosive force on the Danish metal scene, balancing raw and brutal with technical finesse and dark atmosphere. What started as a solo project with the releases ‘Inner Demons’ and ‘Luctus’, became a full band in 2023, which immediately took the Danish live scene by storm.\n\nTheir blackened death metal is a mixture of furious riffs, breakneck speeds and impressive guitar solos. With plenty of progressive and emotional nuances on top, Blodmåne creates a sonic landscape that is as varied as it is crushingly heavy.\n\nWith Blodmåne on stage, you can experience a performance that hovers between raucous anger and hypnotic melancholy – an underlining of the band’s aim for greatness.\n\nSince starting as a full band, Blodmåne has been writing new music, more epic and more brutal than before - and when they reached the finals of the Danish Wacken Metal Battle in May and June 2025 respectively and played at Copenhell's wristband launch, it only added more blood to the teeth.\n\nThis has resulted in the recording of a single in the summer of 2025, which will be the starting shot for the first full-length album as a complete band - enjoy!\n\nhttps://www.facebook.com/Blodmaneofficial\nhttps://www.instagram.com/blodmane_official666\nhttps://open.spotify.com/artist/207VsWJhFWBH8SrpJSPHD5?si=OYDSdWnaQ_uVmR8TpIvhqw\n\n+ Special Guests: Crimson Burial\nCrimson Burial is a five-piece metal band from Copenhagen, bringing fresh energy to the Danish metal scene with their modern interpretation of melodic tech death.\n\nWith heavy guitar riffs, a tight rhythm section and intense screaming vocals, they balance technical prowess with catchy compositions.\n\nOn March 3, 2025, they released their debut single, Earthbound, demonstrating their ability to unite brutality and melody. With a strong vision and an uncompromising approach, they are ready to hit the stage edge!\n\nhttps://www.facebook.com/Crimson.Burial.official/\nhttps://linktr.ee/Crimsonburial\n\n+ Support: Heksproces\nHeksproces is a new atmospheric and hard-hitting metal band from Copenhagen. In December 2023, they were named “New Danish Name of the Year” by Devilution, and in the summer of 2024, the band participated in the finals of Wacken Metal Battle Denmark. Based on post- and black metal, they take the listener into an intense world of existential angst and doom.\n\nAlthough Heksproces is new, the band's roots were laid all the way back in 2011 in a small, damp basement under a primary school on Bornholm. Here, a group of teenage boys met, who together developed a lifelong joy for crushing guitar riffs and quirky time signatures. A decade and many hours in the rehearsal room later, the love for metal has not diminished, and now the four witch doctors are well underway casting dark spells over the Danish underground.\n\nhttps://www.facebook.com/heksproces\nhttps://www.instagram.com/heksproces/\nhttps://open.spotify.com/artist/4ai0mAU3wlJzyO62z3C9qU?si=RWwD5DQZTTy8nQmeu3lo0w\n-------------------------------------------------\nEntry: 100 kr in pre-sale / 125 kr at the door!\nDoors at 8pm!",
+    "date": {
+      "start_timestamp": 1768676400,
+      "end_timestamp": 1768698000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Spillestedet Stengade",
+      "address": "Stengade 18",
+      "city": "Copenhagen, Denmark",
+      "country": null,
+      "latitude": 55.68831250000001,
+      "longitude": 12.555687500000019,
+      "bounds_ne_lat": 55.68837500000001,
+      "bounds_ne_lng": 12.555750000000018,
+      "bounds_sw_lat": 55.68825000000001,
+      "bounds_sw_lng": 12.55562500000002,
+      "plus_code_global": "9F7JMHQ4+87",
+      "plus_code_local": "MHQ4+87",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1372935421061342/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/555795629_1197668132392464_157121582965330805_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IfKKcRWy4oMQ7kNvwHV_onp&_nc_oc=Adm7mX-SLDC1v93mZGvoNW-liSM614H3HEs2IzdjTIwNpiURuyShkZl-2T9A3emqKyQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=MD3Gb2Xzc5YZAbwjsQLQ_w&oh=00_Afk910gkogRTrEKWiEgU0eaAL-AFZKH48wmChHj-KjhuWw&oe=69409A0B",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Spillestedet Stengade",
+    "page_url": "https://www.facebook.com/spillestedetstengade/events"
+  },
+  {
+    "id": "1477450773367342",
+    "name": "Merzbow // Radar",
+    "description": "Merzbow – Støjens mester og lydens grænsebryder.\n__________\n\nDØRE: 19.00\nKONCERT: 20.00\nENTRÈ: 250,-\n__________\n\nOplev den legendariske japanske støjkunstner Merzbow (Masami Akita) – en af verdens mest indflydelsesrige skikkelser inden for eksperimentel lydkunst. Siden slutningen af 1970’erne har Merzbow sprængt grænserne for, hvad musik kan være, og banet vejen for generationer af lydkunstnere verden over.\n\nHans koncerter er intense, fysiske og altopslugende – en oplevelse, hvor lyd bliver til rå energi og kroppen mærker hvert frekvensstød. Med hundredvis af udgivelser bag sig og en uovertruffen evne til at forvandle støj til kunst, står Merzbow som pionér for den globale noise-scene og et ikon for kompromisløs kreativitet.\n\nI 90’erne blev Merzbow påvirket af grindcore, og udgav et album på death metal-pladeselskabet Relapse. I slutningen af samme årti fandt han genklang i Megos \"punk-computermusik\" og var en af de første på den japanske støjscene til at tage liveoptræden med bærbare computere i brug.\n\nSiden omkring 2003 har han praktiseret veganisme ud fra et perspektiv om \"dyrenes rettigheder\". Han skaber værker med temaer som \"anti-hvalfangst\", \"anti-delfinfangst\", \"anti-pels\" og \"frigørelse af husdyr\". I de senere år har han skabt musik, der ikke er begrænset til digitalt eller analogt format. For nylig har han eksperimenteret med at inddrage kunstig intelligens i albumillustrationer.\n\nHan har også samarbejdet med et utal af andre kunstnere som Balazs Pandi, Mats Gustafsson, Thurston Moore, Boris, Keiji Haino, Richard Pinhas (Heldon), Duenn, Nyantra, Lawrence English, Xiu Xiu, Gezan, Alessandro Cortini, Vanity Productions, Vatican Shadow, Bastard Noise, Meat Beat Manifesto med flere.\n\nDen eksklusive koncert på Radar er en sjælden chance for at opleve en levende legende i lydens mest ekstreme form. Foruden koncerten på Radar kan man kun opleve Merzbow i Helsinki og Stockholm på samme tour.\n\nVi glæder os til at se dele den her oplevelse med dig <3",
+    "date": {
+      "start_timestamp": 1768762800,
+      "end_timestamp": 1768770000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Radar",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1477450773367342/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/571192039_1238121615021739_1626670035386952449_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zGr5sB8XMZMQ7kNvwHuRUQm&_nc_oc=AdkleZZUq-RIRNcBdZLY8V5VKMwJe9FsPfIqt0slKrYy0mRnH9rhC_KtUe-odhTsHqo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=i9tdpGljvDvTzUVWb5Prbw&oh=00_AfkmVpqjNxM9hJ12cOG_5tanOIsSC94245jZmtmJHTBvwA&oe=6940A8DE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Radar",
+    "page_url": "https://www.facebook.com/radarlive/events"
+  },
+  {
+    "id": "551941464627473",
+    "name": "Dirkschneider [Support: Evil Invaders] // Amager Bio // 17. januar 2026 // FÅ BILLETTER",
+    "description": "FÅ BILLETTER TILBAGE!\n\n• Døre: 19:00 // Show 20:00\n• Billetpris/gebyr: 260 (45). Dertil er et gebyr på 10 kr. per transaktion.\n• Billetsalg starter fredag 9. maj 2025 kl. 12:00 via livenation.dk og ticketmaster.dk\n• Mastercard presale starter onsdag 7. maj 2025 kl. 12:00 - tjek priceless.com/music for detaljer\n• Mobile-only billetter\n• Begrænsning på 10 billetter pr. køb\n\nSupport: Evil Invaders\n\nDirkschneider er et tysk heavy metal-band ledet af den ikoniske sanger Udo Dirkschneider, tidligere frontmand i det legendariske band Accept. Projektet blev skabt som en måde for Udo at tage afsked med Accepts sangkatalog på – og samtidig give fans mulighed for at høre de klassiske numre live med den originale stemme. Siden starten i 2015 har Dirkschneider turneret verden over og spillet Accept-klassikere som 'Balls to the Wall,' 'Metal Heart' og 'Princess of the Dawn' med intens energi og respekt for originalerne.\n\nUdo Dirkschneider er kendt for sin karakteristiske, raspende vokal og uforlignelige tilstedeværelse på scenen. Bandet omkring ham består af dygtige musikere og leverer en kompromisløs og tung lyd, der hylder 80’ernes metaltradition.\n\nI senere år har Dirkschneider udvidet repertoiret og udgivet nye album, herunder covers og egne versioner af rockklassikere, uden at give slip på rødderne i Accept. Projektet har dermed udviklet sig til mere end et nostalgishow – det er blevet et kraftfuldt statement om ægte heavy metal, leveret af en af genrens mest markante stemmer.",
+    "date": {
+      "start_timestamp": 1768590000,
+      "end_timestamp": 1768597200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amager Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.658062499999986,
+      "longitude": 12.609187499999976,
+      "bounds_ne_lat": 55.658124999999984,
+      "bounds_ne_lng": 12.609249999999975,
+      "bounds_sw_lat": 55.65799999999999,
+      "bounds_sw_lng": 12.609124999999977,
+      "plus_code_global": "9F7JMJ55+6M",
+      "plus_code_local": "MJ55+6M",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/551941464627473/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/597376917_1308082234680606_6544039161065443939_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=h7evOgYejooQ7kNvwFgigGU&_nc_oc=AdkKaQYTL5ShpJA18Cjs8hJDvenpehMy9kXrt2DGnWq-swQ6HP_17ypq6XzLXibahSs&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=yazM14goMgZq3hU4iO0sFA&oh=00_AfkcEI2qhqEHr2pRI90rrbWzeTEX6AU8pVvXlJDW7oQlfQ&oe=6940AA7C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Bio",
+    "page_url": "https://www.facebook.com/amagerbio/events"
+  },
+  {
+    "id": "1706548800005240",
+    "name": "Baal - Baalorama Nytårsextravaganza - Amager Bio",
+    "description": "SENSORAMA fylder 30 – og det bliver ikke markeret med blomster og taler. Det bliver en ekstravagant, fabulerende og fandenivoldsk fejring af et af Danmarks mest egenrådige og kompromisløse bands. Seks unikke shows under titlen Baalorama Nytårsextravaganza bliver kulminationen på tre årtiers musikalsk vildskab, teatralsk overmod og dyb kærlighed til alt det, der ikke passer ind.\n\nMed glitter i håret og støv på støvlerne inviterer BAAL til en storslået nytårsfest spækket med glamrock, mørk cabaret, sveddryppende guitarsoli og vokal med flænger i sjælen. Ikke én aften bliver ens – og festen er ikke bare en fejring af Sensorama, men af hele det musikalske grundstof, der fik BAAL til at eksplodere i første omgang.\n\nSensorama bliver ikke spillet slavisk fra ende til anden – i stedet kaster BAAL sig ud i en legende og respektfuld dekonstruktion og genopbygning af de sange og klange, der formede bandet. En koncertrejse ind i både BAALs bagkatalog og de kunstnere, der satte ild til fantasien i øvelokalet i Vanløse for tre årtier siden.\n\nTil at gøre ekstravaganzaen endnu mere eksplosiv, har BAAL allieret sig med fire af landets stærkeste stemmer:\nSebastian Wolff, Dicte, Kira Skov og Steen Jørgensen. De indtager scenen som æresgæster, medsammensvorne og katalysatorer i det musikalske maskebal – og ingen ved helt, hvad der sker, før det sker.\n\nBaalorama Nytårs-extravaganza er en fest og en hyldest. Det er eyeliner, tårer og latter. Det er glam og mørke. Det er en hyldest til fortiden, et skub mod fremtiden – og et kys til nuet.\n\n“Sensorama var vores forsøg på at bygge en katedral af glam, rock og teater midt i 90’ernes grunge. Nu rejser vi den igen – men uden facit, med åbne arme og i festtøjet. Baalorama bliver en fejring af alt det, der antændte os – og alt det, vi stadig drømmer om.”",
+    "date": {
+      "start_timestamp": 1768676400,
+      "end_timestamp": 1768683600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Amager Bio",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.658062499999986,
+      "longitude": 12.609187499999976,
+      "bounds_ne_lat": 55.658124999999984,
+      "bounds_ne_lng": 12.609249999999975,
+      "bounds_sw_lat": 55.65799999999999,
+      "bounds_sw_lng": 12.609124999999977,
+      "plus_code_global": "9F7JMJ55+6M",
+      "plus_code_local": "MJ55+6M",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1706548800005240/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/574571476_1381191020522533_3716886886340747765_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tejAb0UFnpoQ7kNvwHm273e&_nc_oc=AdknO8cy0xv3WnEBy4SunXmQncn-4Pj-lt0K9Cs_TvLsZYd5zWZBR_UW5_jCXISsBgU&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=ZfzJreXqaetHqLAwTQ6QCA&oh=00_AfmAdQzlvBvOiWZz0A2SvaWraijz2WJk7qPSIjXZY2j_GA&oe=69409C81",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Bio",
+    "page_url": "https://www.facebook.com/amagerbio/events"
+  },
+  {
+    "id": "857594893628562",
+    "name": "Flint kbh - intromøde 2026",
+    "description": "English below //\n\nFLINT inviterer til intromøde - er du nysgerrig på hvad vi går og laver, har du en ide til noget du godt kunne tænke dig, eller kunne det bare være helt vildt fedt at være med? Så sving forbi Kvindehuset og hør mere om hvordan man kan være med <33 mødet foregår i baghuset, ligefrem i gården når man går ind af porten. \nGruppen er separatistisk for kønsminoriteter og kvinder\n\n//\nFLINT invites to an intro meeting - are you curious about what we do, do you have an idea for something you’d like, or would you like to tag along? Swing by the Women’s House and hear more about how to join <33\nThe group is separatist for gender minorities and women",
+    "date": {
+      "start_timestamp": 1768327200,
+      "end_timestamp": 1768334400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Gothersgade 37",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68218750000001,
+      "longitude": 12.581937500000024,
+      "bounds_ne_lat": 55.68225000000001,
+      "bounds_ne_lng": 12.582000000000022,
+      "bounds_sw_lat": 55.68212500000001,
+      "bounds_sw_lng": 12.581875000000025,
+      "plus_code_global": "9F7JMHJJ+VQ",
+      "plus_code_local": "MHJJ+VQ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/857594893628562/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/588854654_843255485112443_8533840416680721661_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iYTluOeHI1cQ7kNvwG1aO4F&_nc_oc=AdkFlF8Cl7rVy03ujJQ2EXQfDPyHERP4pKPfnPVlSzdqruJe75XXENx_8uSGXSJ4le0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Gu8Pfp-h1MCHc9nDUsb7yQ&oh=00_AflWRKjgSCRk9_D_AH8YmaW2KxRf4SD1_jM5sPmxPPU-4A&oe=6940B5AC",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "FLINT kbh",
+    "page_url": "https://www.facebook.com/flintkbh/events"
+  },
+  {
+    "id": "1169084428746068",
+    "name": "Historieklubben - Holmenkatastrofen 1951",
+    "description": "Sent på aftenen d. 23. november 1951 rungede et brag ud over Københavns tage. Samtidig oplystes himlen over flådens område på Holmen af en kæmpe ildsøjle.\nBrandfolkene på stedet troede de var kaldt ud til en banal brand i et træskur. Det viste sig at være en fatal misforståelse; skuret var en krudttønde - en brandfælde fyldt med højeksplosive miner.\nEpisoden som sidenhen skulle blive kendt som Holmenkatastrofen kostede den aften 16 menneskeliv. Sune Wadskjær Nielsen har gravet dybt i kilderne og vil fortælle om hvordan det kunne gå så frygteligt galt.\nSune Wadskjær Nielsen er historiker og forfatter til bogen “Holmenkatastrofen”.\n\nHistorieklubben På Amager drives i fællesskab af Kvarterhuset, Islands Brygge Bibliotek og Sundby Bibliotek.\nDette arrangement afholdes i Kvarterhuset/Sundby Bibliotek.\nVi kalder os en klub, men alle er velkomne og arrangementerne er offentligt tilgængelige",
+    "date": {
+      "start_timestamp": 1768500000,
+      "end_timestamp": 1768507200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Jemtelandsgade 3, 2300 Amagerbro, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66518749999999,
+      "longitude": 12.603937499999986,
+      "bounds_ne_lat": 55.665249999999986,
+      "bounds_ne_lng": 12.603999999999985,
+      "bounds_sw_lat": 55.66512499999999,
+      "bounds_sw_lng": 12.603874999999988,
+      "plus_code_global": "9F7JMJ83+3H",
+      "plus_code_local": "MJ83+3H",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1169084428746068/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/584547118_1444911347640190_7726262563858207948_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gTRwY66CxHQQ7kNvwGvRtC5&_nc_oc=AdlaG6sYYVIJN8LLGUU1t1aE-3lIQz__9clSS2YObLmVqEFQ-kHckETIflrHAa7LSYE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Sp_vRqk0CBNzcCdjVCPrGg&oh=00_AflfDVmWezBdBNTS_4juPsXe_lTvmtwuR_pDsqqDGTonNw&oe=69409954",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kvarterhuset, Sundby Bibliotek og Bibliotekshuset",
+    "page_url": "https://www.facebook.com/Kvarterhusetamagerbro/events/"
+  },
+  {
+    "id": "1392507528948546",
+    "name": "SPARK : An Art-Science Collaborative Program : Match-making event",
+    "description": "We are excited to announce the collaborative art-science program SPARK – developed together with the Globe Institute at University of Copenhagen, starting with a match-making event on 16 January 2026!\n\nThe SPARK initiative aims to foster meaningful exchanges between artistic and scientific practices, encouraging joint exploration of the big questions that shape our understanding of life, health, and the environment.\n\nTo kick-off the program Art Hub Copenhagen and the Globe Institute at University of Copenhagen invites interested artists and scientist to a match-making event aimed at encouraging artists and scientists to team up in pairs and develop a common project and submit it for jury evaluation early March. 5-6 projects will be selected to receive support.\n\n\nThe event will be in the format of relaxed professional gathering where artists can meet  scientists from the Globe Institute and get to know their research. No presentations, just knowledge exchanges to spark curiosity and collaboration.\n\nJacob Lillemose from Art Hub Copenhagen and Associate professor Tue Hassenkam from the Globe Institute will introduce the program and facilitate the discussions.\n\n\n~\n\nINFO\nSPARK : An Art-Science Collaborative Program\nMatch-making event  \n\n16 January 2026\n1-4 PM\n\nArt Hub Copenhagen\nThoravej 29\n2400 København NV\nParticipation in the event is free but sign-up is necessary. Sign up by sending an email titled SPARK to jl@arthubcopenhagen.dk. The last day to sign-up is 12 January 2026.\n\n~\n\n\nABOUT THE GLOBE INSTITUTE \nThe Globe Institute is part of the Faculty of Health and Medical Sciences at the University of Copenhagen. The Institute’s main purpose is to address basic scientific questions through interdisciplinary approaches. The institute operates at the intersection of natural and medical sciences and the humanities.\n\n\nRead more about the event here: https://arthubcopenhagen.net/en/event/spark-an-art-science-collaborative-program/\n",
+    "date": {
+      "start_timestamp": 1768521600,
+      "end_timestamp": 1768532400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Thoravej 29, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.706187499999984,
+      "longitude": 12.526562499999997,
+      "bounds_ne_lat": 55.70624999999998,
+      "bounds_ne_lng": 12.526624999999996,
+      "bounds_sw_lat": 55.706124999999986,
+      "bounds_sw_lng": 12.526499999999999,
+      "plus_code_global": "9F7JPG4G+FJ",
+      "plus_code_local": "PG4G+FJ",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://www.facebook.com/events/1392507528948546/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/597845110_1501646811494938_6277472081840745122_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eVbYvCQJOB4Q7kNvwGjpZUG&_nc_oc=AdmyLwfJHRP0EQhoMAS6C0FkjOFQJPUwPKGjQWtgNFngdp5NOsoWNhC4FVq-bpnipl8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=5KXQXbsC8hniOWhVjJW3Pw&oh=00_AfnmAVzwebVy1QTWFDl0a-7_6mhY3d1KK1j9xoT5abx-Mg&oe=6940CB47",
+    "tag": "ART",
+    "platform": "Facebook",
+    "page_name": "Art Hub Copenhagen",
+    "page_url": "https://www.facebook.com/arthubcopenhagen/events"
   }
 ]

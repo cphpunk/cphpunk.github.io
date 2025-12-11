@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-the-offline-de",
+    "name": "The Offline (DE)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Based in Hamburg, The Offline is known for building musical worlds that span many genres. His latest album, ‘La grande évasion’, explores the desire to fly to new places in the mind—without being there physically. With tracks such as ‘Boulevard National’, you will be transported to vibrant city life and cultural diversity, inspired by Marseille.\n </p>\n <p>\n  The evening's musical experience is both surreal and romantic, with pieces such as “Le trip” and “Le belle en lumière” highlighting his creative approach. The concert will also feature captivating saxophone improvisations by Kimo Eiserbeck.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1779296400,
+      "end_timestamp": 1779310800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/the-offline-de",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/WEB1.png?itok=84UMfEFk",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  }
+]
