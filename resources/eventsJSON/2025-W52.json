@@ -542,5 +542,37 @@
     "platform": "Facebook",
     "page_name": "Glyptoteket",
     "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "1539876527069826",
+    "name": "NOISEFEST 2025",
+    "description": "50 kr\n19:30  \n\nB&W2000\nBLITZKRIEG 50000\nDARKROOM\nISSYL\nJONAS TORSTENSEN\nNONEOFIMPORTANCE\nSIGNALGELBER\nSKÆVVMXNN\nURANES\n\n\n",
+    "date": {
+      "start_timestamp": 1766946600,
+      "end_timestamp": 1766953800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mayhem KBH",
+      "address": "Ragnhildgade 1",
+      "city": "Copenhagen, Denmark",
+      "country": null,
+      "latitude": 55.70743749999998,
+      "longitude": 12.55368750000001,
+      "bounds_ne_lat": 55.70749999999998,
+      "bounds_ne_lng": 12.553750000000008,
+      "bounds_sw_lat": 55.707374999999985,
+      "bounds_sw_lng": 12.553625000000011,
+      "plus_code_global": "9F7JPH43+XF",
+      "plus_code_local": "PH43+XF",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1539876527069826/",
+    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/603860279_1387075913114447_131425938477954961_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=p_myeDTRrvoQ7kNvwEmZD5-&_nc_oc=AdnVaIVA5QueUxC3WHaYaVPJ1kjqSrsDYNmeJYh2zohqVAj3qlJqTgl80wiCHCMLyWc&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=PbjbMEEKT6y1OLBs915PQw&oh=00_AfowpUHpkLrT71Ck3s_mTy1Fy2-RRttqO_iR9sprgr769A&oe=6966F5DD",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Mayhem KBH",
+    "page_url": "https://www.facebook.com/mayhemkbh/events"
   }
 ]

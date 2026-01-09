@@ -286,5 +286,133 @@
     "platform": "Facebook",
     "page_name": "Kvarterhuset, Sundby Bibliotek og Bibliotekshuset",
     "page_url": "https://www.facebook.com/Kvarterhusetamagerbro/events/"
+  },
+  {
+    "id": "kk-vinterjazz-oscar-ployart-trio-lachy-hamilton",
+    "name": "Vinterjazz: Oscar Ployart Trio + Lachy Hamilton",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  With clear roots in the jazz tradition of the 1950s and 1960s, the trio plays lively, energetic, and engaging music that allows both imagination and a touch of romance to unfold. The repertoire revolves around some of the most beautiful melodies jazz has created—interpreted with energy, charm, and a goal of spreading optimism.\n </p>\n <p>\n  The trio is joined by renowned saxophonist and composer Lachy Hamilton, originally from Scotland Island in Sydney and now based in Amsterdam. Hamilton has made his mark as a strong voice in the new wave of Australian improvisers and has recorded and performed with Tkay Maidza, Lime Cordiale, and Mat Jodrell, among others. With his distinctive sound and mature musicality, praised by jazz legend Jeff Clayton as “an exemplary musician with attributes and musical wisdom beyond his years,” he adds both depth and radiant energy to the concert.\n </p>\n <p>\n  At Vinterjazz 2026, the Oscar Ployart Trio presents a concert full of warm grooves, lyrical moments, and lively interplay that makes classic jazz traditions fresh and present.\n </p>\n <h3>\n  Line-Up:\n </h3>\n <p>\n  Lachy Hamilton ts, Oscar Ployart p, Ties Laarakker b, Jacob Lindberg dm\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772130600,
+      "end_timestamp": 1772145000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Stardust",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-oscar-ployart-trio-lachy-hamilton",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/images.jpg?itok=edDUcnfF",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-vinterjazz-nikolaj-hess-trio-feat-ane-trolle",
+    "name": "Vinterjazz: Nikolaj Hess Trio Feat. Ane Trolle",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  In the intimate setting of Paradise Jazz's jazz stage, the musicians unfold a warm, lyrical, and atmospheric universe, where Hess' melodic presence, Franck's solid and organic bass playing, and Nilsson's elegant, rhythmic sense meet Trolle's distinctive voice and poetic expression.\n </p>\n <p>\n  The repertoire moves freely between original compositions, improvised sequences, and reinterpreted songs, where each musician has room to color the music with their own unique expression. The interplay is lively and spontaneous—a musical conversation that constantly evolves and draws the audience closer into the space.\n </p>\n <p>\n  It will be a winter evening where intimacy, presence, and Nordic jazz poetry go hand in hand, and where four distinctive artists meet in a shared flow of mood, sound, and improvisation. A concert that can surprise, calm, and excite.\n </p>\n <h3>\n  Line-Up:\n </h3>\n <p>\n  Ane Trolle voc, Nikolaj Hess p, Daniel Franck b, Cornelia Nilsson dm\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772044200,
+      "end_timestamp": 1772058600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Stardust",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/vinterjazz-nikolaj-hess-trio-feat-ane-trolle",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/986baa100fd80b91557c5e42426d9d97-thumb-1200.jpg?itok=07AjMwrB",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1083869107060563",
+    "name": "Lysbaerer x Heksproces - Support: Taagebue",
+    "description": "Lysbaerer x Heksprocess - Basement (CPH)\nSupport: Taagebue \nFredag d. 27 Februar 2026.\nKoncert start kl 20.30, døre kl 20.00\nBilletter: Forsalg - DKK 100 + gebyrer / Dørsalg - DKK 120.\nBilletlink: https://bit.ly/LbHeksTaage\n\n\nLYSBAERER\n“Skyerne græder, som jeg har gjort..”\n\nEn sær blanding af depression, mørke, grandiositet og kosmisk kaos udgør LYSBAERERs univers. Værket “I: Som et lys i natten, må vi alle finde frelse..” er første del i en trilogi om at rejse mellem livet og døden. Værket besøger tematikker som frygt, mistillid og afsked; alt sammen blandet sammen i massive vægge af lyd. Musikken er lavet med tanken at bearbejde følelser og det at kæmpe kampe, både indre, såvel som ydre, hvilket er udtrykt i tekst, og så vidt muligt ud af musikken lige så.  \n\nLYSBAERER er en duo bestående af Jamie de la Sencerie og Thomas Mascagni. Bandet blev dannet med et ønske om at have kreativ frihed til at skrive den musik som inspirerer os. LYSBAERER er beskrevet som post-blackmetal da ønsket for bandets lyd er at have den voldsomme kant som blackmetal har, men samtidig have et ønske om at skubbe det andre steder hen end blot den klassiske blackmetal lyd. LYSBAERER er inspireret af bands som Wiegedood, Wolves In The Throne Room, Groza, Panopticon, Ellende og White Ward. \n\n\nHeksproces\nHeksproces er et nyt atmosfærisk og hårdtslående metalband fra København. I december\n2023 blev de kåret til “Årets Nye Danske Navn” af Devilution, og i sommeren 2024 deltog\nbandet ved finalen i Wacken Metal Battle Danmark. Med udgangspunkt i post- og\nblackmetallen tager de lytteren med ind i en intens verden af eksistentiel angst og\nundergangsstemning.\n\nSelvom Heksproces er nyt, blev bandets rødder lagt helt tilbage i 2011 i en lille fugtig kælder\nunder en bornholmsk folkeskole. Her mødtes en flok teenagedrenge, der sammen udviklede\nen livslang glæde for knusende guitarriffs og skæve taktarter. Et årti og mange timer i\nøvelokalet senere er kærligheden til metallen ikke blevet mindre, og nu er de fire\nheksedoktorer godt i gang med at kaste mørke besværgelser over den danske\nundergrund.\n\nDevilution skriver “De tog røven på mig med okkult stemning, progget bevægefrihed,\nblacket bidskhed og poetisk vovemod. Her er potentiale til noget virkelig substantielt”.\nhttps://devilution.dk/artikler/arslister/arsliste-2023-jesper-buhl\n\nHeavymetal.dk skriver: “De rammer melankolien i deres black-metal momenter utroligt\ngodt, og deres post-metal segmenter har også den rigtige vægt og tunghed”.\nhttps://heavymetal.dk/anmeldelse/heksproces-ligblomst\n\n\nTaagebue\nDungeon Synth from the Northern marshes of Denmark.\n\nEnchanting atmospheric Dungeon Synth with long spiraling compositions, unfolding with soaring melodies and an ethereal sound. A steady rhythm ensures an energetic expression, which keeps a determined flow towards ambitious conclusions. The project presents itself with references to an esoteric Danish folklore, but adding to it with poetic flair.\n\n‘Soltaagens Skikkelser’ is the competent debut full length of Taagebue, which received a good amount of praise following its digital publication in autumn of 2021. Later in 2022 ‘Soltaagens Skikkelser’ received a Pro-Tape release by the renowned Danish Dungeon Synth label Gondolin Records.\n\nTaagebue had its live-debut at Lasher Fest ’24 in the defunct cold-war Submarine ‘Springeren’ in Aalborg, and earlier this year supported the renowned Quest Master from Australia at Stengade during his EU tour, along with the Danish Berlin-School entity Offermose.\n\nTaagebue is the solo project of Dreyrrauðr (Ildskær & Í Myrkri).\n\nBandcamp:\nhttps://taagebue.bandcamp.com/music\nInstagram:\nhttps://www.instagram.com/taagebue\n",
+    "date": {
+      "start_timestamp": 1772218800,
+      "end_timestamp": 1772226000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Basement CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1083869107060563/",
+    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/540541348_734636302939807_4310752470857888641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=n268yOk6X6AQ7kNvwFmql1n&_nc_oc=AdnIsiTFyxfGuQiE_3BCnciYuQ1_-LEoxHKMMfpN0tCYSMBexgFqjPu-w-SOUylZFjc&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=bMMoalE-5l8cTvt9tJBeHg&oh=00_AfqA8tOLmcxkySpO1bFDPmMk-GeLkfKsMcJ9MWC-qmbRdQ&oe=6966FC80",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "1235161451814643",
+    "name": "Strengeplukk (NO) - BETA",
+    "description": "150 kr. i forsalg / 165 kr. i døren\nDøre kl. 19 / show kl. 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nStrengeplukk er først og fremmest blevet kendt for at kombinere solid bluegrasstradition med norske dialekter – noget der også videreføres på deres seneste album “Neste steg”. På bandets repertoire finder man sange om arbejdsliv, hverdagens udfordringer, livet på landevejen, hjerte og smerte – og meget mere.\n\nStrengeplukk opstod i Stavanger i 2015. Siden da har de spillet hundredevis af koncerter i Norge fra nord til syd og optrådt på flere festivaler rundt omkring i Europa.\n\n",
+    "date": {
+      "start_timestamp": 1772046000,
+      "end_timestamp": 1772053200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1235161451814643/",
+    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/613128474_1504068398388662_8619530693653538623_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zoiyihrSPQcQ7kNvwGqYU2h&_nc_oc=AdlCZQU4iQZM6ibolta5QPEoFpU_3g48LPmB8xLtZqttce8G6bsyg-cmaEAvfEoPGT8&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=XEyrzoFibhZYhSScvHCaog&oh=00_AfqEkxjlGnzyny-gejk8LKJ6B7jfsGYl7_8Ptago1hbqTQ&oe=6966CEA1",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
   }
 ]

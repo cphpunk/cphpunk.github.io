@@ -89,7 +89,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/512629401792606/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/485347854_1047123330787213_3089141516078430338_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UJ1hqmGnfAcQ7kNvwGm_dY1&_nc_oc=Adk2dxdPME5VevhdxoGFVtj3m2D_2dV_XDSm7V0JVbx4_IASnTUMknSPNhWBu7PD0LE&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=CpK50aOzRUEjaktgjS1Wow&oh=00_Afmd-08b-eiaIbCEizjmcAUQuEt08571Bjpo_DwN02UVhQ&oe=6940B96C",
+    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/485347854_1047123330787213_3089141516078430338_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=99_v6ns0c-4Q7kNvwFh08hy&_nc_oc=AdlLs8CZkoFVk-vcTdXLczqEAe265Fh8hGV3f25-F0KWGY5xQlV3ifeusLRnh-EPDqI&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=DtIOheGiVf4YsgxEqY6BdA&oh=00_AfqHjYXNSiDgzvDxuRwGtpoXTidi_ZLNJosvCsMwY5zKiw&oe=6966F4EC",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Fablab Nordvest",
@@ -1537,8 +1537,8 @@
   },
   {
     "id": "612844534835522",
-    "name": "Mad&Musik",
-    "description": "Mad&Musik er sofaer, bar, musik og fællesspisning. Vi har besøg af to skønne bands og der er altid et tema for aftenen.\n\nFølg med på uKirkes Facebook og Instagram for offentliggørelse af aftenens husband.\n\nTEMAER I FORÅRET\nFebruar: Banalitet\nMarts: Ubekymring\nApril: Barndom\nJuni: Krop\n\nArrangementet starter kl.18 med fællesspisning, tema og spændende koncerter. Det koster 25 kr. at spise med, men ellers er resten af aftenen gratis og åben for alle.\n\nMad: 25kr\nØl/sodavand: 20kr\nVin: 25kr\nKaffe og te: donation\n\nuKirke er et sted, der er åbent for alle. Kom som du er, uanset hvem du er, hvad du tror på, og hvem du elsker. Vi accepterer ikke diskrimination!",
+    "name": "AFLYST Mad&Musik",
+    "description": "HAV EN DEJLIG SOMMER\nMad&Musik er tilbage efter sommerferien.\n\n\nuKirke er et sted, der er åbent for alle. Kom som du er, uanset hvem du er, hvad du tror på, og hvem du elsker. Vi accepterer ikke diskrimination!",
     "date": {
       "start_timestamp": 1745510400,
       "end_timestamp": 1745524800,
@@ -1548,7 +1548,7 @@
       "name": "Dannebrogsgade 53, 1660 Copenhagen, Denmark",
       "address": null,
       "city": "",
-      "country": "DK",
+      "country": null,
       "latitude": 55.667687500000014,
       "longitude": 12.553812500000006,
       "bounds_ne_lat": 55.66775000000001,
@@ -1561,7 +1561,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/612844528168856/?event_time_id=612844534835522",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/486628940_662006122860941_4481123527835331099_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0aULt6wmO-IQ7kNvwGceBJZ&_nc_oc=Adnj3Wxvu6QYoR3ly8r0NXZzWTlndXk4pzR8B2RCCE5ih4JWDGhcekvloh9w0p_MnSM&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=a0me18cH4H4Zr2s4Q6R4rA&oh=00_AfHVW9PfxsLoqDKIccGxFBekMQ4M-DOcFychslDAzupreA&oe=680C1638",
+    "image_url": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/486628940_662006122860941_4481123527835331099_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=5BEevKex1JwQ7kNvwHsdt4r&_nc_oc=AdnMcB7j-XTpZNbYnok1IkGPgnPKdpEqhSsOR0KvjkH6BCLi5nCe0kBXBmwckUrLXzE&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=_uC8c7wwDKKpo3G4JydMPQ&oh=00_Afoj8wa2Ot1MpmUUbEHg55mgFjkMPZ2kIPb4peZAjVBm2g&oe=6966D0B8",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Ukirke",
@@ -1881,7 +1881,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/685654597305360/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/490271196_1102160798608513_5380606426967853888_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uD5XJicmvDEQ7kNvwEiECSw&_nc_oc=AdllHzcd-CmAOOYlVpQE_7W0TA7AK8KobbDVhgsuzNwVr0f5hLaf626jIL9B8bPP1Kk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=XU57wQlEctfSHgqbMn5mbw&oh=00_Afj4EDmg8i5EANwOxJkDN0onpHSSFaNIQEqUE_t-rOwyoQ&oe=692CF74C",
+    "image_url": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/490271196_1102160798608513_5380606426967853888_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UyzGcbB7WA8Q7kNvwEsrf92&_nc_oc=AdnzyWltI5UcDM1HhOeYOGUhAU5_eRJTPaGHfBN21J9sUzu1y7ag7LmsQfyNFs9_e3w&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=VRjJwJdBKJJMUByxOV3ybA&oh=00_Afq9mFYJhtomyFl9b17MHiQMBT7TFpgtlL59crkhn7XMvQ&oe=6966F94C",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "Den Frie Udstillingsbygning",
@@ -2137,7 +2137,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1379259666603120/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/487214067_1141784444625518_1627841064312990319_n.png?stp=dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Raks9wPPoREQ7kNvwGsH4C2&_nc_oc=Adnsc9A4Opw2OPJj3bQFNWD3XAWxkKg9YJSI_jgG8X6MiAE_rbjl2Tc-mqnJypKf88c&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=c--TFYVFUder2NSo1QTU7Q&oh=00_AfnzvYChu-FG1BUvn23kKSzPyzDiCCu5HCDdjBb41AIR_Q&oe=6940C2C7",
+    "image_url": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/487214067_1141784444625518_1627841064312990319_n.png?stp=dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OboAeKJ1eIcQ7kNvwHneOm0&_nc_oc=Adnv9lCOTXzyN2Bf0s4EE1ub3RA1k3PFWp8cXuqZchOK2PZ8AH2wUMG1mJMh2xyCa5s&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=I5DNJGP_b2UjBKq2LrVTgw&oh=00_AfpDIdwt1IRP_yuhMmiSbvinUO52QfeG_LgNAG-tXfbrhw&oe=6966FE47",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Sakura Festival",
@@ -2169,7 +2169,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1365357518142206/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/487402035_1141785971292032_4082408526189023453_n.png?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CACj1iMU57YQ7kNvwFc3TSm&_nc_oc=Adkq2wLs2U-A4uzNs5FvaMZ-xGcCT7XJK3X13uCuH5M8MOkUaeypw2ph7LIMfF6wUOY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=qNeXghEVdIBGm29hj-e_Ow&oh=00_Aflh7vPN8cWt2muA_jeKqCPkp7zLHepRcfOGhdlpWEd-uQ&oe=6940BDD7",
+    "image_url": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/487402035_1141785971292032_4082408526189023453_n.png?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IN225wFTetgQ7kNvwHNFG95&_nc_oc=AdnFjOSPakOxUkjd6x-kCwLvNOjjZECD4tyNtXPdOy-TJK5CaaCYf9H87mIbCKkObGY&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=Y34ErzrAm34s8QxIXXqB8g&oh=00_Afoxor2tSJc3uv2T2TNycpy8AQ4nXO18nwXDtb-9EZ-nIQ&oe=6966F957",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Copenhagen Sakura Festival",
@@ -3897,7 +3897,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1014825620713868/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/489957102_655393180675102_8230007697579658389_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_sqUtlA_lBsQ7kNvwF0X-8z&_nc_oc=AdkfCyL28EQJBIvNmcfYdbfSyW49gGOc_PG5GOAluSfRUY1Tvw7Qb01f0arRQ_FfZjI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=56jFVeTsnYKql6osXnpBmg&oh=00_AflWyydaFClSAbB7107gUY76xB9DLE5fgmyoyVEpjh01xQ&oe=6940A5EA",
+    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/489957102_655393180675102_8230007697579658389_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_sCOfTkTVLEQ7kNvwFCciU4&_nc_oc=AdlK0xC37R8zp8WW7mKh-_VpbW8eYEBq-4sDnWFm-eGT9sNvU521PMfPUmlZBoWFFZI&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=fJojJNl4pvhvxVPIUuiFgg&oh=00_AfqEBaUh31T_nQ6-rR5ZPsMFqIuldQc6G9X6PsnyAy0nfA&oe=6966E16A",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "Olla Común Folkekøkken",

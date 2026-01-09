@@ -34,7 +34,7 @@
   {
     "id": "kk-charlotte-skadhauge",
     "name": "Charlotte Skadhauge",
-    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Charlotte Skadhauge er et levende bevis på, at det aldrig er for sent at forfølge sin passion. I en alder af 58 år udgav hun debutalbummet 'Ræk ud' til flotte anmeldelser og stor publikumsbegejstring. GAFFA skrev blandt andet: \"Skadhauge sender en flaskepost fyldt med gode vibrationer ud på musikkens hav.\"\n </p>\n <p>\n  Nu drager hun på turné med et stærkt hold af musikere, der tæller navne fra blandt andre The Savage Rose, Lis Sørensen og Jonah Blacksmith. Sammen skaber de en koncertoplevelse, hvor inderlig pop og intens rock går hånd i hånd – alt sammen båret af Charlottes sikre vokal og nærværende tekster.\n </p>\n <p>\n  Sangene kredser om forbundethed, længsel og håb, og formidler en tro på, at vi alle kan finde vores plads – også selvom vejen dertil kan være lang. Det er ærligt, modent og fuld af livsmod.\n </p>\n <p>\n  Glæd dig til en inspirerende aften i selskab med Charlotte Skadhauge og hendes band:\n  <br/>\n  Søren Bigum (guitar), Mikkel Riber (bas), Anders Holm (trommer) og Christian Vuust (saxofon og keyboard).\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 20. marts '26\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 125 kr. + gebyr på billetto.dk  / 150 kr. i døren\n </p>\n</div>\n",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Charlotte Skadhauge er et levende bevis på, at det aldrig er for sent at forfølge sin passion. I en alder af 58 år udgav hun debutalbummet 'Ræk ud' til flotte anmeldelser og stor publikumsbegejstring. GAFFA skrev blandt andet: \"Skadhauge sender en flaskepost fyldt med gode vibrationer ud på musikkens hav.\"\n </p>\n <p>\n  Nu drager hun på turné med et stærkt hold af musikere, der tæller navne fra blandt andre The Savage Rose, Mouritz-Hørslev Projektet og Dicte. Sammen skaber de en koncertoplevelse, hvor inderlig pop og intens rock går hånd i hånd – alt sammen båret af Charlottes sikre vokal og nærværende tekster.\n </p>\n <p>\n  Sangene kredser om forbundethed, længsel og håb, og formidler en tro på, at vi alle kan finde vores plads – også selvom vejen dertil kan være lang. Det er ærligt, modent og fuld af livsmod.\n </p>\n <p>\n  Glæd dig til en inspirerende aften i selskab med Charlotte Skadhauge og hendes band:\n  <br/>\n  <br/>\n  Thor Madsen, guitar (Dicte, Julia Maria)\n  <br/>\n  Thomas Vang, bas (Mouritz-Hørslev Projektet, The Savage Rose, Hanne Boel)\n  <br/>\n  Anders Holm, trommer (The Savage Rose, Jan Harbeck)\n  <br/>\n  Christian Vuust, saxofon og keyboard (Aaron Parks, 5 x Vuust)\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 20. marts '26\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 125 kr. + gebyr på billetto.dk  / 150 kr. i døren\n </p>\n</div>\n",
     "date": {
       "start_timestamp": 1774033200,
       "end_timestamp": 1774040400,
@@ -126,5 +126,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1378540833923604",
+    "name": "CORNELIS",
+    "description": "Cornelis Vreeswijk er en af de helt store kunstnere i Sverige – men sandelig også i Danmark, hvor hans smukke sange som Visen om de atten svaner, Felicia adjø og Veronica stadig har et meget stort publikum. Det har hans viser med mere ”bid” i nu også, fx Deirdres Samba, Nogle går rundt i udtrådte sko og Jeg havde engang en båd.\n\nI cabaret-portrættet CORNELIS kommer vi hele vejen rundt om ham. Hans smukke sange. Hans indignerede sange. Og mellem sangene fortæller vi historien om hans vilde liv og karriere med damer og druk, succes og censur, fængselsophold og forsidehistorier.\n\nInstruktør\nBo Skødebjerg\n\nSanger\nAllan Høier\n\nMusiker\nAllan Thorsgaard\n\nScenografisk konsulent\nLiselotte Justesen",
+    "date": {
+      "start_timestamp": 1774094400,
+      "end_timestamp": 1774101000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": "Godthåbsvej 33",
+      "city": "Frederiksberg, Denmark",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1378540823923605/?event_time_id=1378540833923604",
+    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/547275112_1396806075781307_6315131691752391296_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=i7v1BuiMSx0Q7kNvwGn_HV7&_nc_oc=AdlG3pF9V26jJYpeRFbnk1HRCeK0rSguCgC2qZCJo_KintwhMYpGdoNTp3D7e9VgHck&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=XMspfLmMe3UF2Xh5zv3MvQ&oh=00_Afpzu4RCRSEAFQcYQWjHB0nuAyEHMKSxS5vGm_8OICaVTg&oe=6966D1CE",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
   }
 ]
