@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Mayhem KBH",
-      "address": null,
-      "city": "",
+      "address": "Ragnhildgade 1",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
@@ -25,10 +25,10 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1328168025009284/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/482234973_1160436142445093_7039748305856573263_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vWpW41KvEc4Q7kNvwEs23H8&_nc_oc=AdmjPBcRzTUPyweNzmwUxwPtp_tyLMkVRo5mE2AQw76X738l8uuvhJvWEjaiELG5JWg&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=_9ZRaylJeiHnrz4Zfkd8aw&oh=00_AfqUsXUIGmJoiKoFg-0UUUhR_7xP3gbjkQ-EdMBdLF8qFg&oe=6966F8A7",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/482234973_1160436142445093_7039748305856573263_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=S2g9cHzIOGAQ7kNvwErqlei&_nc_oc=AdlylEK0HmB6KT4FQ5k7JjkTeT0WpNtInL-cK_OuPGBJARfKNZ5y9TbIvcaJ_lyxcPU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=uiFjMvglphMWT56x69aUbg&oh=00_Afr43cfRnkiX8ozI9C1iXs_ELBjW7yw33LIWbNV1mPiFdQ&oe=696A0C27",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Mayhem KBH",
+    "page_name": "NOISEFEST 2025",
     "page_url": "https://www.facebook.com/mayhemkbh/events"
   },
   {

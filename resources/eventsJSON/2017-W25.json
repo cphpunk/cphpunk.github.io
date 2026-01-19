@@ -10,25 +10,25 @@
     },
     "location": {
       "name": "Ricco's Kaffebar",
-      "address": null,
-      "city": "",
+      "address": "Sluseholmen 28",
+      "city": "Copenhagen",
       "country": null,
-      "latitude": 55.70993749999998,
-      "longitude": 12.56843750000003,
-      "bounds_ne_lat": 55.70999999999998,
-      "bounds_ne_lng": 12.568500000000029,
-      "bounds_sw_lat": 55.70987499999998,
-      "bounds_sw_lng": 12.568375000000032,
-      "plus_code_global": "9F7JPH59+X9",
-      "plus_code_local": "PH59+X9",
+      "latitude": 55.646437499999976,
+      "longitude": 12.5493125,
+      "bounds_ne_lat": 55.646499999999975,
+      "bounds_ne_lng": 12.549374999999998,
+      "bounds_sw_lat": 55.64637499999998,
+      "bounds_sw_lng": 12.54925,
+      "plus_code_global": "9F7JJGWX+HP",
+      "plus_code_local": "JGWX+HP",
       "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Østerbro"
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/720949481419059/",
-    "image_url": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/503475469_4129453904002531_1023247179296935877_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R7yasIIkclsQ7kNvwGVN8Da&_nc_oc=AdkOpTSZefvggQXMTBpL-6cvhr76NpyAIAszoNxfOXnYkMAB4qVPKDslMIi1dEZBt6w&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=33LmKZ1z0-GODx1zOPyngg&oh=00_AfpwPgAo-sD2J8BNaydEKjRFaUYS2h4Kig6nopP4Ng9iTA&oe=6966E73D",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/503475469_4129453904002531_1023247179296935877_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=yPcCB3O60FkQ7kNvwGSO0g0&_nc_oc=AdlwR4UoN9s9jONzrzs5gHdSV47DBqpmL0Vas73uyKm6Hd9qyNC4ov4Y5GVx6hIGQ9A&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=YnKTI46fb6FlZ4URQD-oZg&oh=00_AfrG5b6p23xLLjXvbg8bFrS4r97Tt9QWgE1RtwXHPpt7tA&oe=697021BD",
     "tag": "COMEDY",
     "platform": "Facebook",
-    "page_name": "Ricco's Kaffebar",
+    "page_name": "SV-festival 2024: Lars Harboe & UH\\u00f8RT ",
     "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
   }
 ]

@@ -555,7 +555,7 @@
     "location": {
       "name": "Mayhem KBH",
       "address": "Ragnhildgade 1",
-      "city": "Copenhagen, Denmark",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.70743749999998,
       "longitude": 12.55368750000001,
@@ -569,10 +569,74 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1539876527069826/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/603860279_1387075913114447_131425938477954961_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=p_myeDTRrvoQ7kNvwEmZD5-&_nc_oc=AdnVaIVA5QueUxC3WHaYaVPJ1kjqSrsDYNmeJYh2zohqVAj3qlJqTgl80wiCHCMLyWc&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=PbjbMEEKT6y1OLBs915PQw&oh=00_AfowpUHpkLrT71Ck3s_mTy1Fy2-RRttqO_iR9sprgr769A&oe=6966F5DD",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/603860279_1387075913114447_131425938477954961_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mbnFrmfBfP0Q7kNvwEfmfeN&_nc_oc=AdnYfpd4aBbBMaJTcx4tnTx5IEbRgaC69bFu4z8tpTq8wfOPwOvz4nFo4LqlYH_0D-0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=TsDuIARPsetwYJpARQFixQ&oh=00_AfqGYUxHq-rD-w8iwK9ABW39_DQm7a5b3ONDPWyCKNhi6g&oe=696A095D",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Mayhem KBH",
+    "page_name": "NOISEFEST 2025",
     "page_url": "https://www.facebook.com/mayhemkbh/events"
+  },
+  {
+    "id": "933105015893398",
+    "name": "Madboks food distribution - Kapelvej 44",
+    "description": "Hey food savers! Join us at our weekly food distribution in Nørrebro at Kapelvej 44. 🥦🥦\nOur events are open to everyone, no matter the financial status or conditions.\nTo BOOK A SPOT, please follow this link:\nhttps://forms.gle/9deqV3KvpMft8Pmo9\nBOOK ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to other people. If you know you would be late for picking up your box, please contact us on Facebook in advance so we hold on to your box.\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\nPlease bring 2 bags to carry the food in. Pro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\nPlease also consider becoming a volunteer ❤ It takes a small village to make these food distributions happen weekly! To register as a volunteer please sign up here: https://myshopify.us7.list-manage.com/subscribe",
+    "date": {
+      "start_timestamp": 1766846700,
+      "end_timestamp": 1766851200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kapelvej 44, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/933105015893398/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/605615255_1164312365870042_4935694037481531862_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jnl1OIzuAuUQ7kNvwGfZtNj&_nc_oc=AdmvEs5HOHLhjlUpLDL7uCZRFXEAoI5HoPYKLdeP2gSGQ47V6gsmlHkvUuqAjDhM9VM&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=x6WBvk4b7dm2clYZlKvA6w&oh=00_AfpC_ABiGxjEHFEsfE2rLbm3SY6gpqCPADWYlCuc3fmqmA&oe=696A0FD6",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks food distribution 11-Jan - Sundholmsvej 28a",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "828021143555475",
+    "name": "Madboks food distribution 28-Dec - Sundholmsvej 28a",
+    "description": "Join us to save food from going to waste at Sundholmsvej 28a, where you can collect some food for yourself and/or become a volunteer!\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent food from going to waste.\n\nTo BOOK A BOX, please follow this link:\nhttps://forms.gle/oLFoG1N36CdPtKS66\n\nOur food boxes are given out on a donation basis - Everyone donates what they can afford, however, the minimum recommended donation is 25 DKK, so that we can cover the costs of each food distribution event.\n\nPlease bring a bag to carry the food in.\nPro tip! Bring a separate bag for bread and pastry, and we recommend bringing some food containers/Tupperware, to transport small/easily bruise-able items safely.\n\nIf you want to register as a volunteer, please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe...",
+    "date": {
+      "start_timestamp": 1766932200,
+      "end_timestamp": 1766935800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/828021143555475/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/607613175_1164548279179784_6088323056635157659_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=epyk7vF8Wz8Q7kNvwHvjG77&_nc_oc=AdnypcLVaBOoW2hdutb6xFB_WceIiTebziSDnTWy71suQuF0ff3BrpSFsNuQap3n98c&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=OTLCy-bPvNeLLmd5A9JJaw&oh=00_AfqRtAJ6r_6uefxsloALbS-kaktgK7Vn4B_-bVynR2Yh1g&oe=6969F11F",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks food distribution 11-Jan - Sundholmsvej 28a",
+    "page_url": "https://www.facebook.com/Madboks/events"
   }
 ]

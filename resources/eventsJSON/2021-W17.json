@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Cinemateket",
-      "address": "Gothersgade 55",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.68318750000002,
       "longitude": 12.578437500000021,
@@ -25,10 +25,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/2830445910501568/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t1.6435-9/143875489_3737209329667603_8678794802974512662_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kSxoc86nBy4Q7kNvwGxyFrC&_nc_oc=AdlDYBOSXuYI4EcrMjrEHYhi3_EUcW5fmd-RrPvMXtxfgEl0G_2ehtj4swkarVz7vHk&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=gIu2lSTVHqTpGkf6OpoyRw&oh=00_AfqAAFWMA5bObjTxOtJO5BSySQAR3UNWD_Ku-IedBwcDVw&oe=69887ADE",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t1.6435-9/143875489_3737209329667603_8678794802974512662_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=hiB28jOwaPwQ7kNvwF2tgZ0&_nc_oc=Adlwlq3mBsPR53XQZapYR9m2Fa33dPg9QYfj7c71S66Z1VgaqP_ynW5VHl9EmRaK1xk&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=4BWkA09vGWhqzgcYx48cAA&oh=00_AfqfW0kBZTyn4mDC6sTE-qja1QlYJeYr3Phg3VnOyc-riQ&oe=6991ED9E",
     "tag": "MOVIE",
     "platform": "Facebook",
-    "page_name": "VOID - International Animation Film Festival",
+    "page_name": "\\u2605 My Hero Academia - World Heroes Mission \\u2605",
     "page_url": "https://www.facebook.com/voidfilmfestival/events"
   }
 ]

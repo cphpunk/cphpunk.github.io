@@ -10,25 +10,25 @@
     },
     "location": {
       "name": "Ricco's Kaffebar",
-      "address": null,
-      "city": "",
+      "address": "Sluseholmen 28",
+      "city": "Copenhagen",
       "country": null,
-      "latitude": 55.70993749999998,
-      "longitude": 12.56843750000003,
-      "bounds_ne_lat": 55.70999999999998,
-      "bounds_ne_lng": 12.568500000000029,
-      "bounds_sw_lat": 55.70987499999998,
-      "bounds_sw_lng": 12.568375000000032,
-      "plus_code_global": "9F7JPH59+X9",
-      "plus_code_local": "PH59+X9",
+      "latitude": 55.646437499999976,
+      "longitude": 12.5493125,
+      "bounds_ne_lat": 55.646499999999975,
+      "bounds_ne_lng": 12.549374999999998,
+      "bounds_sw_lat": 55.64637499999998,
+      "bounds_sw_lng": 12.54925,
+      "plus_code_global": "9F7JJGWX+HP",
+      "plus_code_local": "JGWX+HP",
       "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Østerbro"
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1790236167957573/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t1.6435-9/37568656_2125312257750049_3664513066709549056_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dlucTBRWTlkQ7kNvwF8htv0&_nc_oc=AdkRMFtOc9_wLnf3DV-Zurx-w2dNwXWlnrZIuZvLW_DBZqj-32PZY4WGbgc0smimWoc&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=QRozOdK25VcgArW3SmY2hQ&oh=00_Afp5NDp3llZDyHhdknCMSkMdCYZTWzoYPmy0ReONHljVuQ&oe=69888055",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/37568656_2125312257750049_3664513066709549056_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=oYvH430uTNYQ7kNvwFvDvyE&_nc_oc=AdmrxK5ucz7aajMuhvL0VyDinhrS7raHgjnXeqzKPvFOXPmTCde5DLEWOscPfxot4Mg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=hS67i4Bhq9fa-ZsqdMWrAA&oh=00_AfporRZrR_LbQP1sokLch0Io_RoEZtibI7_GVQa6_V75zQ&oe=6991F315",
     "tag": "COMEDY",
     "platform": "Facebook",
-    "page_name": "Ricco's Kaffebar",
+    "page_name": "SV-festival 2024: Lars Harboe & UH\\u00f8RT ",
     "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
   }
 ]

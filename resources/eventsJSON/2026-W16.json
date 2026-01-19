@@ -126,5 +126,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-the-swamp",
+    "name": "THE SWAMP",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Gæstespil af Kassandra Production:\n  <a href=\"https://kassandra-production.dk/\">\n   Kassandra Production\n  </a>\n </p>\n <p>\n  <br/>\n  <strong>\n   THE SWAMP\n  </strong>\n  er en immersiv performanceinstallation om internettets faldgruber, og den manipulation og vold, der foregår under radaren på det mørke internet.\n </p>\n <p>\n  Vi bruger mere og mere tid på internettet, sidder online i timevis og lever en stor del af vores sociale liv i et virtuelt univers. Hvilken indflydelse har det på os? Hvordan bliver vi påvirket og manipuleret? Og hvilke narrativer er det, der får os suget ind i den mørke del af det digitale univers, med de konsekvenser det har – personligt og samfundsmæssigt?\n </p>\n <p>\n  Du bliver inviteret ind i en dragende, mystisk og vildtvoksende sump. På vejen mister du retningssansen, og må derfor tage del i ansvaret for den videre vej gennem sumpen. Men hvem beslutter spillets regler? Og er det overhovedet et spil, eller er det den barske virkelighed?\n </p>\n <p>\n  <br/>\n  <br/>\n  ★★★★★\n  <strong>\n   The Swamp – forunderligt fluorescerende performanceinstallation\n  </strong>\n  <br/>\n  The Swamp er en velfungerende, publikumsinddragende performanceinstallation, der på tankevækkende vis sætter spot på den skræmmende virkelighed, der hersker i det grødede, menneskeskabte pløre, vi normalt kalder for Internettet.\n  <br/>\n  <strong>\n   – Iscene\n  </strong>\n  <br/>\n </p>\n <p>\n  Idé, iscenesættelse og medvirkende: Annika B. Lewis og Helene Kvint\n  <br/>\n  Performere: Magnus Kongsgaard og Nina Tind Jensen\n  <br/>\n  Scenograf: Signe Krogh\n  <br/>\n  Lysdesign: Morten Ladefoged\n  <br/>\n  Musik: Jens Mønsted\n  <br/>\n  Dramaturg: Daniel Wedel\n  <br/>\n  Foto: Jens Peter Engedal\n  <br/>\n  PR: Jakob D. A. Nicolaisen\n  <br/>\n  Videotrailer: Christoffer Brekne\n  <br/>\n  Producenter: Ann-Jette Caron og Albert Bendix\n  <br/>\n  <br/>\n  <strong>\n   Støttet af Statens Kunstfond\n  </strong>\n </p>\n <p>\n  Facebook:\n  <a href=\"https://www.facebook.com/events/812506734688128\">\n   https://www.facebook.com/events/812506734688128\n  </a>\n  <br/>\n  <br/>\n  <strong>\n   Trigger warning:\n  </strong>\n  <br/>\n  THE SWAMP er en pågående publikumsinvolverende installations performance der omhandler vold og manipulation på Internettet.\n </p>\n <p>\n </p>\n <p>\n  mandag den 13.04 kl. 19.30\n  <br/>\n  tirsdag den 14.04 kl. 17.00 og 19.30\n  <br/>\n  onsdag den 15.04. kl. 17.00 og 19.30\n  <br/>\n  torsdag den 16.04  kl. 17.00 og 19.30\n  <br/>\n  fredag den 17.04 kl. 17.00\n  <br/>\n  lørdag den 18.04  kl. 17.00\n  <br/>\n  <br/>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1776101400,
+      "end_timestamp": 1776105600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Dansekapellet",
+      "address": "Bispebjerg Torv 1, 2400 København NV",
+      "city": "København NV",
+      "country": "Denmark",
+      "latitude": 55.716187499999975,
+      "longitude": 12.530562499999988,
+      "bounds_ne_lat": 55.716249999999974,
+      "bounds_ne_lng": 12.530624999999986,
+      "bounds_sw_lat": 55.71612499999998,
+      "bounds_sw_lng": 12.53049999999999,
+      "plus_code_global": "9F7JPG8J+F6",
+      "plus_code_local": "PG8J+F6",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://dansekapellet.kk.dk/events/the-swamp",
+    "image_url": "https://dansekapellet.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-09/TheSwamp_KassandraProduction_foto_JensPeterEngedal_jan23.jpg?h=68ae5a67&itok=YT4ulS1L",
+    "tag": "THEATRE",
+    "platform": "KK",
+    "page_name": "Dansekapellet",
+    "page_url": "https://dansekapellet.kk.dk/events"
   }
 ]

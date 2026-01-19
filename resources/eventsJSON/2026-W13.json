@@ -121,10 +121,42 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/3688480204621743/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/603067412_1405912401545673_1813042942419267545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=64yYe0AmEwIQ7kNvwFQ8FHO&_nc_oc=Adm8-bQenT6lk_-Iewn-MLDvazHhl4z08u6ebF1IRWRnhKW0AVvJ537S0k3_7VjsKKU&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=F8Qzx8FgnX2Q-xDMpAl4cQ&oh=00_AfrIGe2tPJttBZnzITFGSe3FuimRLYKfBOPEq6iQIDkM8Q&oe=6966FB40",
+    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/603067412_1405912401545673_1813042942419267545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GDQTk5hXMukQ7kNvwE9Rl8V&_nc_oc=AdnzisMbAzcWmPoSmjUnDv3oXXn0YLGJHrrhnymwtcwMzxhHbLukLPpQPO8AetHhIZY&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=GBFrM-LjZwGjbTCJmDg1vw&oh=00_Afqi-THS5ODIOnhij55ceK0Whz4gmItnvX-k77kIHVY_sQ&oe=697035C0",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Lygtens Kro",
+    "page_name": "Social Decline p\\u00e5 Lygtens Kro",
     "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "kk-gunni-torp-carsten-lykke-med-band-nattog",
+    "name": "Gunni Torp + Carsten Lykke med band + Nattog",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Gunni Torp åbner aftenen med moderne viser og folkpop med kant. Med sin harmonika, sit nærvær og sine dansksprogede sange formår hun at fange publikum med tekster, der balancerer det politiske, det poetiske og det humoristiske. Hun har udgivet fem album og er senest aktuel med SPRINGBALSAMIN fra 2025. Hendes koncerter rummer både det skæve, det festlige og det eftertænksomme, altid med et stærkt personligt udtryk.\n </p>\n <p>\n  Carsten Lykke kan denne aften opleves sammen med sit band. For første gang siden udgivelsen af soloalbummet Selvoptaget fra 2001 spiller trioen bandversioner af sangene fra albummet, side om side med udvalgte numre fra ibens’ bagkatalog og sange fra Lykkes nyere soloarbejde. Mellem numrene deler han anekdoter fra et liv med op- og nedture, fortalt med selvironi, underspillet humor og musikalsk overskud. Publikum kan forvente en koncert med både grin, genkendelse og stærke melodier.\n </p>\n <p>\n  Nattog afrunder aftenen med støjende poprock og et dansksproget tekstunivers, der kredser om hverdagens trivialiteter og den langsomme bevægelse mod noget endnu ukendt. Musikken bevæger sig mellem det drømmende og det larmende, det håbefulde og det fortvivlende, båret af pulserende trommer, melodisk bas og stemningsfulde guitarflader.\n </p>\n <p>\n  Klub Geyser er en tilbagevendende sangskriver-showcase i Kulturhuset Islands Brygge med flere årlige koncerter, hvor både nye og mere erfarne solister og bands præsenterer kortere sæt. Aftenen bindes sammen af optrædende vært, Jacob Speake.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  27. marts kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 80 kr. / Studerende: 40 kr.\n  <br/>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774638000,
+      "end_timestamp": 1774645200,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/gunni-torp-carsten-lykke-med-band-nattog",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-01/Design%20uden%20navn%20%2839%29.png?itok=5k3h6beY",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

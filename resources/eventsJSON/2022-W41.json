@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "KoncertKirken",
-      "address": "Blågårds Plads 6A",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.68681249999999,
       "longitude": 12.5576875,
@@ -25,10 +25,10 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1346848759054342/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/480308120_1101488688444493_5438516794504349638_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LMWbQuhnyjQQ7kNvwEBtqgE&_nc_oc=Adnk271V21dUOnLBNbr3ElyiRZKiz8gKeL-o9sXTRgpr3VRRNs2H1zxHnUxdWi3LLsI&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=iIoaQYKdEyn5SyEU625Hwg&oh=00_Afo7l1XWNEYoBwXNZLzWx5Ax8yjsXY9eIpNnJRuLXuO-ig&oe=6966D364",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/480308120_1101488688444493_5438516794504349638_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nrrRLZ_Pjk4Q7kNvwHqXTSM&_nc_oc=Adk181RKvRy3NGlKDgiAw2RZvFgdPbHCVgGMrzhuX0m3oCbwrg0pMxtaDcJS1Fm9wZ4&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=OTGsTGohOk0ZQLQSvlSQGA&oh=00_AfpBTynUk319UUUYkSg6b3lCGpcVIxeO30ulKUlpgbhmAA&oe=69704624",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Polychrome",
+    "page_name": "2 x Record Release - \\",
     "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
   },
   {
@@ -57,10 +57,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/326868956081597/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/486559833_29315887318009878_482858681479086703_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6w4YJdLyHv0Q7kNvwGX_hfr&_nc_oc=AdkaHFgj7ypyat1gscEmkw0HlmWleu3cr3Y6mf-mg-ay5K-Hi6I_SEmjT8P_mCx1cfs&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=ee-ry3NhfK-EGTDzdfs7Vg&oh=00_AfprcocRHnoWIAWBVu3SlEa8FIG1es1pSkcBTPZnuB7CJg&oe=6966DBB3",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/486559833_29315887318009878_482858681479086703_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aXH2Q1hY6NsQ7kNvwGVju3V&_nc_oc=AdlkhiKQZnsC9w1-oD_lHhDcR1CXdvzMH5nLDzNgb0GJnGsm4ZomkV7-anzFPpgOib0&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=uf9i3DFktEG-RLteH9TzNg&oh=00_AfpgwiogIBKxBnlA7U-tOWQLv5WXIWtsrI9Cx7PMsbSxAw&oe=69704E73",
     "tag": "SHOPPING",
     "platform": "Facebook",
-    "page_name": "Kulturnatten",
+    "page_name": "Kulturnatten 2025",
     "page_url": "https://www.facebook.com/Kulturnatten/events"
   }
 ]

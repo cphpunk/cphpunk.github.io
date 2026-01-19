@@ -190,5 +190,37 @@
     "platform": "Facebook",
     "page_name": "Hangaren",
     "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "2045278906238105",
+    "name": "Madboks food distribution 31.12- Karens Minde Kulturhuset",
+    "description": "Join us to save food waste and become more aware of how to prevent food from going to the bin prematurely.\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste.\n\nIn order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent wasting food. Thank you!\n\n\nTo BOOK A BOX, please follow this link: \nhttps://forms.gle/sis9i4F6LvPhvG4V7\n\n\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\n\nPlease bring 2 bags to carry the food in. \n\nPro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\n\nPlease also consider becoming a volunteer ❤ We need a lot more helping hands to make these food distributions happen weekly!\n\nTo register as a volunteer please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe?u=21366f082c5af1add473caecc&id=35fa4efaa0&fbclid=IwAR3s9b--DMro1EeYEtST0XlUMclBywow1p1EUv__o92Coi1M1WcumRmlJLY",
+    "date": {
+      "start_timestamp": 1767191400,
+      "end_timestamp": 1767195000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Karens Minde Kulturhus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.64681249999997,
+      "longitude": 12.5300625,
+      "bounds_ne_lat": 55.646874999999966,
+      "bounds_ne_lng": 12.530124999999998,
+      "bounds_sw_lat": 55.64674999999997,
+      "bounds_sw_lng": 12.530000000000001,
+      "plus_code_global": "9F7JJGWJ+P2",
+      "plus_code_local": "JGWJ+P2",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/2045278906238105/",
+    "image_url": "",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks food distribution 11-Jan - Sundholmsvej 28a",
+    "page_url": "https://www.facebook.com/Madboks/events"
   }
 ]

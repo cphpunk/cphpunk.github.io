@@ -377,10 +377,10 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1083869107060563/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/540541348_734636302939807_4310752470857888641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=n268yOk6X6AQ7kNvwFmql1n&_nc_oc=AdnIsiTFyxfGuQiE_3BCnciYuQ1_-LEoxHKMMfpN0tCYSMBexgFqjPu-w-SOUylZFjc&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=bMMoalE-5l8cTvt9tJBeHg&oh=00_AfqA8tOLmcxkySpO1bFDPmMk-GeLkfKsMcJ9MWC-qmbRdQ&oe=6966FC80",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/540541348_734636302939807_4310752470857888641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_DRcAjQY9VMQ7kNvwGZtW37&_nc_oc=AdnUT8bGXc3X5ot6Kk0ozGzY_6tkOwlOuxsYRJ9o20oo6mZ_YolKq8L7crubyrE7PTQ&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=aboEN8EqSXGdo9IffW3ubw&oh=00_AfqA_SV19G1TPoNMR3fWmYy4PGDhH0Dn0v5bCpldY4Tdjw&oe=69703700",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Basement CPH",
+    "page_name": "CHOP SHOP - minifestival in support of our tr\\u0040ns friends",
     "page_url": "https://www.facebook.com/BasementKBH/events"
   },
   {
@@ -409,10 +409,138 @@
       "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/1235161451814643/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/613128474_1504068398388662_8619530693653538623_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zoiyihrSPQcQ7kNvwGqYU2h&_nc_oc=AdlCZQU4iQZM6ibolta5QPEoFpU_3g48LPmB8xLtZqttce8G6bsyg-cmaEAvfEoPGT8&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=XEyrzoFibhZYhSScvHCaog&oh=00_AfqEkxjlGnzyny-gejk8LKJ6B7jfsGYl7_8Ptago1hbqTQ&oe=6966CEA1",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/613128474_1504068398388662_8619530693653538623_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_jDqKChPHsoQ7kNvwEfnHci&_nc_oc=Adl3mzYgZfUiJ3IvYI27BumkG_ZYMAwYIIsO4E11yL7yiUUgFroh6r5SvxjokFl0r9A&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=w_6rOMHNH5yRd5Wq7XhdGA&oh=00_AfoJKSzrMiErYC090g_kge2hXG3ec2f39MaqF2KXJPYSGQ&oe=69704161",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "BETA2300",
     "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "1412264003912270",
+    "name": "ILK Sessions at Basement – Vinterjazz 2026",
+    "description": "ILK Sessions are back for another round of adventurous concerts at Vinterjazz 2026! This year we take over Basement, a legendary event space in the heart of Vesterbro. Join us for three days of jazz, experimental, and improvisation-forward music by ILK Music artists and friends, curated for curious listeners.\n\nDates: 24–26 February 2026\nLocation: Basement, Enghavevej 42, Copenhagen\nDoors open at 19:00, concerts start at 19:30\n\nTickets at the door, cash or credit card:\nAdults 200 DKK / Students & Pensioners 150 DKK\nPartout (all 3 nights) 600/400 DKK\n\nA limited number of single-concert tickets will be available at the door only, first come, first served ✨\n\nPROGRAMME\n\nTuesday 24 Feb:\nCalum Builder / Matt Choboter (AU/CA)\nTING — Gravity (SE/DE/SK)\nLaura Toxværd Solo (DK)\nPer-Son-Ell (CZ/SE/UK)\n\nWednesday 25 Feb:\nStefan Pasborg Solo (DK)\ngirls choir (DE/UK/DK)\nFEM RUM (DK)\n\nThursday 26 Feb:\nMark Solborg TUNGEMÅL feat. Santos Silva & Ingar Zach (DK/PT/NO)\nLotte Anker Trio (DK)\nDEN 11. STEN (DK)\n\nILK Music is an independent, artist-led record label and publisher based in Copenhagen, presenting out-of-the-box experimental and jazz music. ILK’s Vinterjazz concerts are supported by Statens Kunstfond, Koda Kultur, Københavns Kommune, Jazzdanmark, Augustinus Fonden, William Demant Fonden, Beckett Fonden and Dansk Kapelmesterforening. ",
+    "date": {
+      "start_timestamp": 1771957800,
+      "end_timestamp": 1772141400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Basement CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1412264003912270/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/615447904_1453796913417395_7674668611483906512_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LfttxJKfT4UQ7kNvwG3Ckz0&_nc_oc=Adlral_FZqSFBvtjvLKFzaoi5ny0Q2gQArZhcPzjI4NSoVAcBQV0uBzlHAmLxwXxQmY&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=5xCFq0a3p2aC0zz8IBL3WA&oh=00_AfpcNb0imy88FyYjTH34RHBJ4CO_LEwGDASZsrrkRDP1bw&oe=69704C45",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "CHOP SHOP - minifestival in support of our tr\\u0040ns friends",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "25484807441183337",
+    "name": "1 MARTS DEMONSTRATION",
+    "description": "For 19 år siden mistede vi vores ungdomshus på Jagtvej 69, og derfor samles vi igen i år til demonstration for at vise at Jagtvej 69 stadigvæk tilhører os, og at vi fortsat kæmper for flere fristeder og plads til alle.\n\nNedrivningen var, og forbliver, et symbol på den stigende gentrificering. Det var et skidt mod Nørrebros transformation til at blive en højborg for de hvides monokulturelle og forbrugerorienterede kultur.\n\nUngdomshuset var ikke bare et hus - det var et samlingspunkt for den radikale venstrefløj, og et symbol for kampen mod kapitalismen, som gang på gang nedprioterer normale mennesker, og opprioritere profit og overklassen. Vi har nu, som altid før, behov for et fællesskab der prioriterer mennesket behov for autonomi og frihed.\n\nVi begynder årets demonstration på den røde plads kl 18:30, og går en rute gennem Nørrebro, hvor vi ender på runddelen, ved Jagtvej 69.",
+    "date": {
+      "start_timestamp": 1772386200,
+      "end_timestamp": 1772393400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Den Røde Plads, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69956250000003,
+      "longitude": 12.542437499999991,
+      "bounds_ne_lat": 55.699625000000026,
+      "bounds_ne_lng": 12.54249999999999,
+      "bounds_sw_lat": 55.69950000000003,
+      "bounds_sw_lng": 12.542374999999993,
+      "plus_code_global": "9F7JMGXR+RX",
+      "plus_code_local": "MGXR+RX",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/25484807441183337/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/615874890_1312083684284513_3983885723620596495_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jNCicYZgiQ0Q7kNvwGAJheD&_nc_oc=AdkHyJYgps3Z36Qe9RLoBFmiPcOnWCq1SiEFnXTxrSImiXLqYCwaktIKxlNcDb0S0mQ&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=5NTG_HQsHO1v7uvZNsrSlg&oh=00_AfoXrN0uOx0_2YYcYaNf66GCdjgcL-UIH18gtsEmu6bHGQ&oe=69703D0A",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "All Crafts Are Beautiful",
+    "page_url": "https://www.facebook.com/UngdomshusetD61/events"
+  },
+  {
+    "id": "1282947300311429",
+    "name": "Cera Khin, steamboi, Cakebutcher",
+    "description": "Cera Khin, born Tunisia-revolution kid, now Barcelona. Plays whatever the fuck she wants: Her sets are kinetic, genre-shifting journeys; hardgroove into bounce, trance into schranz, rave edits into acid, always reading the room with instinct and mixing with militant precision.. No pretending-just herself. Makes you dance so hard your problems vanish. Zero-fucks attitude, total care underneath. Frequency upgrade activated.\n\n\n𝗟𝗜𝗡𝗘-𝗨𝗣: \n\nCera Khin https://soundcloud.com/cera-khin \n\nsteamboi https://soundcloud.com/steamboi\n\nCakebutcher https://soundcloud.com/cakebutcher-dj\n\n\nENTRANCE:\nPresale tickets \n- Early entrance* (enter between 23-24): 120kr incl. fee \n- Early bird (enter all night): 150 DKK incl. fee \n- All night entrance (enter all night): 175kr incl. fee \n\nTickets: https://ra.co/events/2320025 \n\nDoorsale tickets 175kr \n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 23:00 and 24:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 23:59 at the latest. Any arrivals after this time will incur a late entrance fee of 55kr.\n\nNo re-entry\nNo entrance after 05:00\n\n\n- The presale ends when the door opens at 23:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry. \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case. \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. Come early, stay late!\n\n\nINFO:\nOpening hours 23:00-06:00\nMinimum age: 20+\nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen\nLost & found: Please fill out our lost item form at hangaren.dk/info\n\n\nWARDROBE/LOCKERS:\nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\n\nHANGAREN:\nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs. There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\n\nTHIS IS HOW WE PARTY:\nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. If you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free!\n\n- No photos and video\n\n- Stay in the moment!\n\n- No phones or loud conversations at the dancefloor\n\n- Dancefloor is for dancing, Please respect the vibe!\n\n- Take care of yourself and each other\n\nPlease contact our staff if you need help or assistance of any kind.\n\n\n𝗜𝗚: https://www.instagram.com/hangaren_copenhagen/\n\n𝗙𝗕: https://www.facebook.com/HangarenCopenhagen\n\n𝗪𝗘𝗕: https://www.hangaren.dk",
+    "date": {
+      "start_timestamp": 1772229600,
+      "end_timestamp": 1772254800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": "Refshalevej 185",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1282947300311429/",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/615512557_1401072245050824_8254132259760180590_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_04BgSZxa5IQ7kNvwGZnrta&_nc_oc=AdlkJjN40xpjF3H3125LEtyiiG_txnvLHQzj1X2syQS_Et55Lipt8IzmTGCN7TDQyB4&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=W-YYXVbz82NlpPE8BGraRA&oh=00_AfoOTrHR2IqUMI_bI2NfDPIAkNZ7zXxGraLa3CG92moxAg&oe=69705210",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "FINE CHAOS + Hangaren: CPHFW CLOSING PARTY - AEREA (live), Ida Aya, Ingvil, Elliott Taguchi",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "1201723748210086",
+    "name": "Greek Trash Party in the Venue ",
+    "description": "Join us when we host a GREEK TRASH PARTY in the Venue! 🇬🇷\n...What is a trash party you might ask? Well, have you also missed all the great greek bangers from the 90's/00's that you just can't stop dancin' and singin' along to? 💃🕺\nThis is it! And it is not just any bangers... Sakis, HMIZ, Paparizou and sooo many others will set this night (and the dancefloor) on 🔥\nWe will stack up the bar with delicious drinks, beers and of course Ouzo. Are you ready to P A R T Y greek style?\nWe can't wait to dance and have fun with you from 21.00-02.00 🤩\nOpaaaaa!\n_________________________________________________________________________\nΓεια σε όλo τo Greek Team! 🤘🏻\nΣας λείπει και εσάς η εποχή των 90s/00s;\nΣας περιμένουμε στο ένα και μοναδικό GREEK TRASH PARTY της Κοπεγχάγης στο σουπέρ κεντρικό Next House Copenhagen! 🤩\nΕλάτε να χορέψουμε μαζί σε ελληνικούς ρυθμούς που θα μας ταξιδέψουν στα «παλιά». 🔥\nθα σας περιμένουμε στο Venue απο τις 21.00 μεχρι τις 02.00!!!! 🎉",
+    "date": {
+      "start_timestamp": 1772308800,
+      "end_timestamp": 1772326800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bernstorffsgade 27, 1577 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66968750000002,
+      "longitude": 12.570937500000028,
+      "bounds_ne_lat": 55.66975000000002,
+      "bounds_ne_lng": 12.571000000000026,
+      "bounds_sw_lat": 55.669625000000025,
+      "bounds_sw_lng": 12.57087500000003,
+      "plus_code_global": "9F7JMH9C+V9",
+      "plus_code_local": "MH9C+V9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1201723748210086/",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/616608306_1205077085120407_1214415657505513146_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gUoC9LLPguAQ7kNvwEXO87G&_nc_oc=AdmDJ4wUrbKwNgme5mlU6IAEIZjgqj8BPu5RsShr4Na7xLnPmL62z-m01ajrJ4m-8Qg&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=z7Xa-Wpxq6nptzgz_ASkDw&oh=00_Afr9c3FBfG3H7drc3hPxFwR3cVJ9VQlBhvRtF0nIkOBkVA&oe=697029A2",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Next Beats - R&B - Hip Hop Edition ",
+    "page_url": "https://www.facebook.com/nexthousecopenhagen/events"
   }
 ]

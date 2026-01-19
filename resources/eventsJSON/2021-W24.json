@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Empire Bio",
-      "address": null,
-      "city": "",
+      "address": "Guldbergsgade 29F",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.69181249999998,
       "longitude": 12.555812500000016,
@@ -25,10 +25,10 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/137016038411593/",
-    "image_url": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.6435-9/198093536_10158768059842663_4749109937550112193_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=G9nJK8cH8KIQ7kNvwFEqZFK&_nc_oc=AdlEvSx4m9ROuREOO85pnq_oqCNAlxgGPaxYDRbCKWzX4_3Es52Or0e9Y8cMICa1mOI&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=JuZnU5fCtAGW6d_Sx7UsAQ&oh=00_AfqOcNQgf5EjgXteIAfCue8BYpxVYHaLymmnQjrzh_kGzw&oe=6988813F",
+    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t1.6435-9/198093536_10158768059842663_4749109937550112193_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=yborhWoS8IIQ7kNvwE8uTT7&_nc_oc=AdkEPc5j0VkFhbxM4Klp4L9ChEn6LuQ-5ZjahFV7cHgX7oYfvZqI1zXrW1O8JU83kPQ&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=MlF15O8M04B2Oh07MWIWKg&oh=00_AfraGB6ubbpJY_lgEU35hiai2Sd6VnBKO03iB7Mwn8Np4w&oe=6991F3FF",
     "tag": "MOVIE",
     "platform": "Facebook",
-    "page_name": "VOID - International Animation Film Festival",
+    "page_name": "\\u2605 My Hero Academia - World Heroes Mission \\u2605",
     "page_url": "https://www.facebook.com/voidfilmfestival/events"
   }
 ]

@@ -217,10 +217,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1088349459973592/",
-    "image_url": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/600303757_1289127563252602_269871116497264232_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sBCUaYpTQIMQ7kNvwHXVyDG&_nc_oc=AdkAidMNHCjhi2PKu-8eqEuCnHCaLCc7R0oNk9RCAd1WZdotxV7SO0efOERldqVZNyQ&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=W0Cb6a589sOOFXMpLn-B0A&oh=00_AfoQ2E--9IX5TgOCFX1bOY9VqxXy-SmSuAJrt_Y1nnV8nQ&oe=6966C9F8",
+    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/600303757_1289127563252602_269871116497264232_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3rXWeHf6iq0Q7kNvwEiS4jZ&_nc_oc=AdmCGyB4FXMidK1Q2VdIFCxhb_MQ0KKn-jzFq-hQELefddjPHxnVAwbKOFx_JVDW4Oo&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=33iOKQAzZ8ls6JuyA7uJfg&oh=00_AfoaRRwKj_pK_qovSl9Pp4neJ6fwaNUbb56QLgStRK03ug&oe=69703CB8",
     "tag": "MOVIE",
     "platform": "Facebook",
-    "page_name": "Cinemateket",
+    "page_name": "Paul Thomas Anderson - FULDT BLUS UNDER KOMPROMISL\\u00d8SHEDEN \\/\\/ 2. jan. - 29. mar. 2026 \\/\\/ Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
   },
   {
@@ -249,10 +249,74 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1188130533385034/",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/599498823_1289202689911756_7517570395191165108_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0hLDgOq81A0Q7kNvwFkS6T2&_nc_oc=Adm1uKcnpawK4v17Y8-5_Wsw6v9p3woDnmv7zYF01VNieBGOfWH2_-Yro2J3pe-MXUk&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=Ek3bdNYi_n2Q_cT_yni0ZQ&oh=00_Afp9V80chhiq5FXU6PXCZeAFK8ZA8-SoyuPsRXkJBas3PA&oe=6966D1EF",
+    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/599498823_1289202689911756_7517570395191165108_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=est0-LgnA40Q7kNvwGu0gjR&_nc_oc=AdlSRWf213b-vII3sxvjnWx4ogIFxA0QRKdeNZf-NGufbsQO43k2cztIfA4M5lsDBzA&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Qo3R_aVfCSWcvOTqAwLNFw&oh=00_Afp5ABNpRtNgXsUKUqUgFujDU0pydstI5yhPpFOyK604Ew&oe=697044AF",
     "tag": "MOVIE",
     "platform": "Facebook",
-    "page_name": "Cinemateket",
+    "page_name": "Paul Thomas Anderson - FULDT BLUS UNDER KOMPROMISL\\u00d8SHEDEN \\/\\/ 2. jan. - 29. mar. 2026 \\/\\/ Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "690904153960833",
+    "name": "Madboks Food distribution - Kapelvej 44",
+    "description": "Hey food savers! Join us at our weekly food distribution in Nørrebro at Kapelvej 44. Our events are open to everyone, no matter the financial status or conditions.\nTo BOOK A SPOT, please follow this link:\nhttps://forms.gle/ZrtWtDFF5mPUR3wM6\nBOOK ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 15 minutes, after that the food will be given to other people. If you know you would be late for picking up your box, please contact us on Facebook in advance so we hold on to your box.\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\nPlease bring 2 bags to carry the food in. Pro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\nPlease also consider becoming a volunteer ❤ It takes a small village to make these food distributions happen weekly! To register as a volunteer please sign up here: https://myshopify.us7.list-manage.com/subscribe",
+    "date": {
+      "start_timestamp": 1767451500,
+      "end_timestamp": 1767458700,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kapelvej 44",
+      "address": "Kapelvej 44",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/690904153960833/",
+    "image_url": "",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks food distribution 11-Jan - Sundholmsvej 28a",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1554649915857548",
+    "name": "Madboks food distribution 4-Jan - Sundholmsvej 28a",
+    "description": "Join us to save food from going to waste at Sundholmsvej 28a, where you can collect some food for yourself and/or become a volunteer!\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent food from going to waste.\n\nTo BOOK A BOX, please follow this link:\nhttps://forms.gle/9NodqLe16Whi7cRZ9\n\nOur food boxes are given out on a donation basis - Everyone donates what they can afford, however, the minimum recommended donation is 25 DKK, so that we can cover the costs of each food distribution event.\n\nPlease bring a bag to carry the food in.\nPro tip! Bring a separate bag for bread and pastry, and we recommend bringing some food containers/Tupperware, to transport small/easily bruise-able items safely.\n\nIf you want to register as a volunteer, please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe...",
+    "date": {
+      "start_timestamp": 1767537900,
+      "end_timestamp": 1767541500,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/1554649915857548/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/606063934_1169871655314113_6886035946120816178_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8TnByo0bXEYQ7kNvwEUPjHk&_nc_oc=AdlWeqhUVgXIitxq873s5jle2y_zdKrsBanmMxZNlDWnrJ385dgpprSDlSiOLVGRPUk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=hmX0ib8PX5GD_8sj7cKx-A&oh=00_AfoyTMazyv2e85fqPmCyqfdPY_xqB9qYRNPYkFLofEAgWA&oe=6969FF25",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks food distribution 11-Jan - Sundholmsvej 28a",
+    "page_url": "https://www.facebook.com/Madboks/events"
   }
 ]
