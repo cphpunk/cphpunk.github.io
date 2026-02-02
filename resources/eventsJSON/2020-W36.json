@@ -10,11 +10,11 @@
     },
     "location": {
       "name": "Normann Copenhagen",
-      "address": "",
+      "address": null,
       "city": "",
       "country": null,
-      "latitude": 55.679466681777,
-      "longitude": 12.577529605333,
+      "latitude": -1,
+      "longitude": -1,
       "bounds_ne_lat": -1,
       "bounds_ne_lng": -1,
       "bounds_sw_lat": -1,
@@ -25,10 +25,10 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/355122818827923/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t1.6435-9/117645408_10158877060287859_2555281806724207767_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JxfZ_WQV6pkQ7kNvwGLXi8h&_nc_oc=AdkLbjlKssgwRcqohEyivSBqr5pN29OYVTCtt225bdWjtocmi3X6kb_9eBKBsVkBMEM&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=2wExrXgNWyNqgEBGX9hSdw&oh=00_AfryimELTBmOXgnSA_tXn3mFegjjuREvV_sK1HkUU0VKvA&oe=6991BFB9",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/117645408_10158877060287859_2555281806724207767_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-KX1WPeYPxEQ7kNvwEhHUXt&_nc_oc=AdmshA1MXDORScapmoXSNAj2P_F1UsBtzhoSuFJaOK6Tn9FGHbtgirqT6mMJ3tOjyZo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=OURa69VGlTH8XbGsuaBDfA&oh=00_AfuEJmxfDL0R57zNqdNwwPNxSm-WATmLOh6-96Dbp4clvw&oe=69A82939",
     "tag": "SHOPPING",
     "platform": "Facebook",
-    "page_name": "3daysofdesign 2022",
+    "page_name": "3daysofdesign",
     "page_url": "https://www.facebook.com/3daysofdesign.dk/events"
   },
   {
@@ -74,8 +74,8 @@
     },
     "location": {
       "name": "Designmuseum Danmark",
-      "address": null,
-      "city": "",
+      "address": "Bredgade 68",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.686562499999994,
       "longitude": 12.592812499999994,
@@ -89,10 +89,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/294806785092220/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/117218060_3095650203885713_7382167514145918187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=N7RogEZIKiEQ7kNvwG9_1JO&_nc_oc=AdnAfrhuQT58CK5VsjW7WCe5GunWSbBXT7J1wrmtluc92zDmfhwRcPVLDaOi7Jopx94&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=pGu6NVy-VXOzpLBhtXDHdw&oh=00_Afre7qXpKQHT8DuFaEtIApYlZoupAYyICRBsoKcoGRdraQ&oe=6991C91F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/117218060_3095650203885713_7382167514145918187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-wLKtlmi6NkQ7kNvwHDkKZd&_nc_oc=Adnypzdg6_WdDn00RMXuoQr1j5yFIxQL2hLZZ8E-1AL8q19s7v1nTo6CT5u3BFjgiK0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=hOe6q36j4VrDFecWOA8LRg&oh=00_AftQu442IPs-YcRJI7tN_xniaCbLoA4CyJhx8n-GY6cYdg&oe=69A8329F",
     "tag": "SHOPPING",
     "platform": "Facebook",
-    "page_name": "3daysofdesign 2022",
+    "page_name": "3daysofdesign",
     "page_url": "https://www.facebook.com/3daysofdesign.dk/events"
   }
 ]

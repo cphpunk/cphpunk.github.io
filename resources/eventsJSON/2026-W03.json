@@ -3417,7 +3417,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/2117254602146011/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/616553815_1179020064399272_2256514902333662937_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=U6EYSgy6B_4Q7kNvwHSkO_J&_nc_oc=AdkeaJl5k329LjGo3p_bOHLERfTqjjIUzq6ShKPqU6IykOLB2sKTSD8ohqMT_KQ8fX4&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=V_AFYC2QkF8oKUy-S_kEdw&oh=00_AfpbM4NdDeC554pVrxee_4pQ0X015fTUSlxWPFrxaP43mA&oe=69703DCD",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616553815_1179020064399272_2256514902333662937_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=sbRutv3vJIUQ7kNvwGbQLPP&_nc_oc=AdlbazSEEdMysJwzcKYZ51ctJdkY2XQ2QTPT1JIqDG_01Yh-VB3aLn40fRUzDzRkBQo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=VcAethvE3UTHSeN_X8J1Ww&oh=00_AfvObRF94wjzsspP5LcNY-y0EFW72WZ1r9GIn8LXznpmag&oe=69866F0D",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Madboks",
@@ -3614,5 +3614,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1604480501000821",
+    "name": "Madboks food distribution 18-Jan - Sundholmsvej 28a",
+    "description": "Join us to save food from going to waste at Sundholmsvej 28a, where you can collect some food for yourself and/or become a volunteer!\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent food from going to waste.\n\nTo BOOK A BOX, please follow this link:\nhttps://forms.gle/W9d8aQvsBFeg9qYUA\n\nOur food boxes are given out on a donation basis - Everyone donates what they can afford, however, the minimum recommended donation is 25 DKK, so that we can cover the costs of each food distribution event.\n\nPlease bring a bag to carry the food in.\nPro tip! Bring a separate bag for bread and pastry, and we recommend bringing some food containers/Tupperware, to transport small/easily bruise-able items safely.\n\nIf you want to register as a volunteer, please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe...",
+    "date": {
+      "start_timestamp": 1768747200,
+      "end_timestamp": 1768750800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/1604480501000821/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/615818667_1179678091000136_7654596604389380292_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_aid=0&_nc_ohc=EAeywIbQAfAQ7kNvwGkE1MV&_nc_oc=AdmukLLAjy4BGOm4O73ZmSZK16JKETQbePO7ZahAVOT3_C73qJaoB7eUeS2RhoFu2Wo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=SgYLxO3iAF0bUMkDOOiEYA&oh=00_AftpngzR0jcKFT9lDV2NP45irtfast1QPBmOyZWtfLITkQ&oe=69867934",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
   }
 ]

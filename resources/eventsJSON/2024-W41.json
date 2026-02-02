@@ -42,8 +42,8 @@
     },
     "location": {
       "name": "LiteraturHaus",
-      "address": "Møllegade 7",
-      "city": "Copenhagen",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.69081250000001,
       "longitude": 12.555562499999994,
@@ -57,7 +57,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/462637786743446/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/475967339_122218891838196821_4675351773200824600_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=k43in99zbUcQ7kNvwG9LOtu&_nc_oc=Adk3lMozZ7lNIbXHGriBGI29kJPRtj3wuLQaA6T4DrT5KRA1ApT-tJc1k0wrMFPCKMA&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=brOUv97UtNTWauH3pgGkxw&oh=00_AfoljdmAddZcnsl3vC6cPeFxyzN9ddAedUOcNbhjpOJ7hQ&oe=69705381",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/475967339_122218891838196821_4675351773200824600_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8ywBsb_6am0Q7kNvwEK_xOh&_nc_oc=AdkUevZyKMdqp2W0WMbYYFRv112xe7nPb2BTVR3DPTw9fbggaqXUUofdgQV20uOEjM8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=2L4U-VaBuYlyFwkVsI0BUw&oh=00_AfsMyAFypIriHEXxD8GQaE1pOo96TYWkrF0_1qKmv_GsGQ&oe=698684C1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/511437307945992/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/494033245_1317778843682959_5548858313292732139_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pAj3wwVSpYwQ7kNvwGkZ0ax&_nc_oc=AdnFBJ9inZc49VxeqSfxg5sjEwp0toPbPtwG3pqPPKT7NnXINDvtmOvMl7iBVxCLPc4&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=B1PkVZEAKS-5B5d3MGFxdw&oh=00_AfpTwb3JWSR-yUWVbL92iNqrnjKq8BPkmEXQYFagHXp3Tw&oe=69702093",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/494033245_1317778843682959_5548858313292732139_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Z7eMCUFetwMQ7kNvwGTiYrt&_nc_oc=AdlPpF9E3KXglX0I7-HMDuhCjgKkPAsjgskIgapiGhKIQ2BwOrc5FLGvzJpRlfS5YbQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=JHdCUOA0i6w_Dr977S1-Fw&oh=00_AfuWrWrFq60dgsEghwN93zZ1LfnbAyS0xSSURFr5tPQwFQ&oe=69868A13",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -121,7 +121,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1043531517148413/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/494032986_1317313947062782_7023522295370039306_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-xLVSRfVMoIQ7kNvwHS4Y_r&_nc_oc=AdleXzjOB53X5zyVlFC3vY7cjOnn5_Zo0lgjrPJF8H4RifBx1s_YHoq8QHX-WlqAUJA&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=MBPTD5CJho-lSirn-2IYLQ&oh=00_AfrA9JGDL2SnbRG-xFmfVCEfYlZLVF9EN14rnH9Fro14gA&oe=69704631",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/494032986_1317313947062782_7023522295370039306_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1iIOdJmX3hEQ7kNvwEpUUwn&_nc_oc=AdkfvblgiRAfzAuqVD_2zEoQ-u5UtZYeUPUhvzHUXGAN4-wI2pJMqdUvCb__wkSBv08&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Zyxm2tVm-dVXlpDBmbHcSQ&oh=00_AfuOiu4S565TVH35mDJxBaA1WqaZ2BZU6Acqc11eWd8Bvw&oe=69867771",
     "tag": "CULTURE",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -153,7 +153,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1972134899885590/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/494016894_1317783143682529_359500902335449769_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wCzfglMrgucQ7kNvwFCnK0A&_nc_oc=Adm-gA_Dm-evS8pXmYgqU7XgktUJJ2xozdpPrLaKdPEHETn4HKvKrUh1yPmfjdf3znU&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=2K0ki5EfOqt8bg2Ffgv-bg&oh=00_AfrKA4ckGtJIJG1UwAs62kd31VfEfZoPiPeyviJxlr80jw&oe=69702F83",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/494016894_1317783143682529_359500902335449769_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tdJGUYkdc-cQ7kNvwG51tgY&_nc_oc=AdlS75PQPH90kbrehCeXlIkQ4HcHcSKbXt1iy2uP12YIsguzo8THgoJ4igp5PCUospg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=zDboTjH74xp8IwQDWX6sZA&oh=00_Aft7VQO1128SZr94Xs95o4mPyS52feeIo_neCk1txq6A8w&oe=69869903",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -185,7 +185,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1561988407726012/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/513331880_10103467339925198_8748823097450325981_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ilLd_A4XR4kQ7kNvwGOSv4n&_nc_oc=AdnQaTLn07him0CE7Dg93r4UI5G998_SQze13X24stiYakx1lmYZKJtrxtBKwJ639bU&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=kIqX3J09AUP9eIDhUZ0NqA&oh=00_Afq5l7iGVNZGV64wopWaPLZcTJO4rf1LRSekdYHgesMvNg&oe=69703E3E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/513331880_10103467339925198_8748823097450325981_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8gTdzash-50Q7kNvwEGDJ39&_nc_oc=AdkPvXxgp_k0hhCiAnPDiWcDXl8xNtesCd7U9y8UQTfvY8WZ_Z0R1QBBd6FnywySdtk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=UqBD3fQUHvr4MLdWGHn7ZA&oh=00_Afs7VxP8ksQgysrgEgtp8_xsKKcTReqc1zjHbNdDt-NBZA&oe=69866F7E",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1030779088393555/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/494509107_1318181630309347_6220064061081576441_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=JCnJm17WoiUQ7kNvwG9hmuY&_nc_oc=Adl22DYYyzqvxUk7ogDYE90T3qiAYTkBtapL1_fJlQSuprKObjpI1Jx-m-466I_u6Go&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=92MlU4fVYdShIGbG7qJN7A&oh=00_Afpo1OaafxrUOku8RvgFBEZaS5o-7gNujSI33aL5PKi4Lg&oe=69703034",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/494509107_1318181630309347_6220064061081576441_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iz_uWZ_OHD8Q7kNvwGyuGuX&_nc_oc=AdluGDAYV6mMOULjNuPzRX7m55AOkOCp9VJGx4Hbv-daZcn9yQAcd7yhvgjMgu0B3z8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=xBmxCZLwsflm81PVhTcDEA&oh=00_AfvrT3jLEG0j54vkMTPSQQroM_27fwhnMWCYguaJUXQsiA&oe=698699B4",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -234,8 +234,8 @@
     },
     "location": {
       "name": "Spillestedet Stengade",
-      "address": null,
-      "city": "",
+      "address": "Stengade 18",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.68831250000001,
       "longitude": 12.555687500000019,
@@ -249,7 +249,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/487552184149392/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/485775304_1045413260951286_5614747614195951880_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BrMpmNM22iYQ7kNvwHegX5U&_nc_oc=Adn7f_yMZSrnR5KarI7SRa7NJmEGfsoiXfyk4Ihnf893Rxag_oH-CTionvPpScriMY4&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=roRuzWMqB91RVTMAvdYqDQ&oh=00_Afp45hlKtUqouOPdzOTj40ppkOxQ9_t63V64S5ng7BQrqA&oe=69703CAA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485775304_1045413260951286_5614747614195951880_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7sUgia-id24Q7kNvwGjTjkw&_nc_oc=Adnm9dfC5gmyd7hM_PqBdUJeHZdMG-MoxVUBakFAeSVtLZy8g4kOMB2vgU6tPFwxBQM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=DN7N7AlTXESXWmoKALH5rg&oh=00_AfsCVL42Ipol3diSdkGfCy_yXaCoRMPW8OVWc-reHtDgtQ&oe=69866DEA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -281,7 +281,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1176372730076570/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/485766081_1044166181075994_4905808854011967026_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UkImcO8zjZUQ7kNvwGbyCeS&_nc_oc=AdkOeaoJ1GC3O-MNBt5SYdnoS-1X2f3A5r_5abJ4730bUh9bqNugUvdOURmb7c-eVQM&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=YvyXuV4et89PupFWIwZxZQ&oh=00_AfqaglPbLK1c0awZXhN2wg_rJAAo2BSdzbaGmlVbKE22CA&oe=69704576",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/485766081_1044166181075994_4905808854011967026_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=p1fkBYYwSEkQ7kNvwGBLush&_nc_oc=Adk9Bi3DqF6sl6kC_CNybLwvppUwlCZdqEm2WYj6w4Bnz7xqIHl3gRXwxbsuLpmZRyM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=foDrJP5SM5B75NjvtJarUw&oh=00_AfvyW2ZA1Gbz4VFfi5lj3iPTkROms0YJYmPApPVBPaTKeA&oe=698676B6",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Resonans Fringe",
@@ -313,10 +313,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/495177719989860/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/492624770_1518063719349242_3635406293877493664_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FhcLUsVkq7gQ7kNvwFhsIXG&_nc_oc=AdnjztpRHm7G3IgzcufzqLoBVhYcsaxH6lH57eWceTjAFq7DLJGsbpI6shZQiJwaPe4&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=QMGNMgIeY_s9JrZcc_2fHw&oh=00_AfqsPbKGlHOk_e_DrvuIkKsv-yz2h4BvcvC68OOclU8WVw&oe=69702DB4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/492624770_1518063719349242_3635406293877493664_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=VD-LasfsgfQQ7kNvwFs3wjG&_nc_oc=AdmQ0odKfHbPQF-Wc1SIY49-1WaZyEqdKYH6StSU2cvED_HgQNv1Jrr2l1c_5ikTJ2I&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=O-P15Waa8U3gxo7nKto7Og&oh=00_Afud501rLp5QOit7FzjCh9VkwgHk4pR6jpKjkXeVGiOA_Q&oe=69869734",
     "tag": "MOVIE",
     "platform": "Facebook",
-    "page_name": " Annual Copenhagen Film Festival 2025",
+    "page_name": "Annual Copenhagen Film Festival",
     "page_url": "https://www.facebook.com/cphfestival/events"
   },
   {
@@ -345,10 +345,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/296194310238276/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/480869765_1184274999924970_646730072592807860_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=y1SkvS3yOsIQ7kNvwEyiW7t&_nc_oc=Adkmf3nIYCAht0ajpW--DI6YTmLbgQmD9M3T0PDOcm4PjMz4CYnHAwO2Q9Ta6364Qs8&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Plq5ENApZb1Qsgz8miMb9Q&oh=00_AfoFhjyzk-5_SPr1Rb9xEXvN_i6mHm2srab6l5xP02WVeQ&oe=697040BB",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/480869765_1184274999924970_646730072592807860_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fDs4rC9yABgQ7kNvwGaaYx7&_nc_oc=Adk7KSp24HwhTl_zIYa6C_fU81B4T_qS1lzbFhQ2fDSTnx6rWFIhB2dmicAG380c1sA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=EHSOIse-HjUBfRjfUTHafA&oh=00_Aftjb9ACW-29zk6yzYdL5_pzc1sFiY9bx9GUtEQ926cToA&oe=698671FB",
     "tag": "CULTURE",
     "platform": "Facebook",
-    "page_name": "Kulturnatten 2025",
+    "page_name": "Kulturnatten",
     "page_url": "https://www.facebook.com/Kulturnatten/events"
   },
   {

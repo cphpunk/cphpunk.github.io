@@ -10,25 +10,25 @@
     },
     "location": {
       "name": "Ricco's Kaffebar",
-      "address": "Sluseholmen 28",
-      "city": "Copenhagen",
+      "address": null,
+      "city": "",
       "country": null,
-      "latitude": 55.646437499999976,
-      "longitude": 12.5493125,
-      "bounds_ne_lat": 55.646499999999975,
-      "bounds_ne_lng": 12.549374999999998,
-      "bounds_sw_lat": 55.64637499999998,
-      "bounds_sw_lng": 12.54925,
-      "plus_code_global": "9F7JJGWX+HP",
-      "plus_code_local": "JGWX+HP",
+      "latitude": 55.70993749999998,
+      "longitude": 12.56843750000003,
+      "bounds_ne_lat": 55.70999999999998,
+      "bounds_ne_lng": 12.568500000000029,
+      "bounds_sw_lat": 55.70987499999998,
+      "bounds_sw_lng": 12.568375000000032,
+      "plus_code_global": "9F7JPH59+X9",
+      "plus_code_local": "PH59+X9",
       "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Vesterbro-Kongens Enghave"
+      "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/424234257953738/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/465745121_9335352643158668_98134627302788381_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=q7WYd46VDTkQ7kNvwGcEM--&_nc_oc=Admpct9YE1w2c2WbuSqjDH9KkNOYPrZXLl3mqaAo6Rw1UIV0KtzYvEZES5vCpAR1tAE&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=V6RSSzuUMJaWTuzTmQLlwg&oh=00_AfpEr2B3maNw81rvo0m9Q1mYygdOnJ4FEZv_QOaio1B2fw&oe=69703D42",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/465745121_9335352643158668_98134627302788381_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8eSjy_bSzykQ7kNvwH6nsOW&_nc_oc=AdnSJXFDTSj1j4TLE7QzZeuwY8MXcQrkfKNm48JM4JxddvuM2dkkC2dBhpzKN5tcpz8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=7IRe4HRvOnSz-paiYvp-bw&oh=00_AfuT4pV_TNGUbuucuwk3qMaMK-YqQdc04DvTYF6uzhoWzw&oe=69866E82",
     "tag": "COMMUNITY",
     "platform": "Facebook",
-    "page_name": "SV-festival 2024: Lars Harboe & UH\\u00f8RT ",
+    "page_name": "Ricco&#039;s Kaffebar",
     "page_url": "https://www.facebook.com/Riccos.Kaffebar/events"
   }
 ]

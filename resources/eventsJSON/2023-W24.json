@@ -10,25 +10,25 @@
     },
     "location": {
       "name": "Polychrome",
-      "address": null,
-      "city": "",
+      "address": "Røde Mellemvej 28",
+      "city": "Amager Fælled",
       "country": null,
-      "latitude": 55.668062500000005,
-      "longitude": 12.597437499999998,
-      "bounds_ne_lat": 55.668125,
-      "bounds_ne_lng": 12.597499999999997,
-      "bounds_sw_lat": 55.668000000000006,
-      "bounds_sw_lng": 12.597375,
-      "plus_code_global": "9F7JMH9W+6X",
-      "plus_code_local": "MH9W+6X",
+      "latitude": 55.65106250000001,
+      "longitude": 12.592437500000003,
+      "bounds_ne_lat": 55.65112500000001,
+      "bounds_ne_lng": 12.592500000000001,
+      "bounds_sw_lat": 55.65100000000001,
+      "bounds_sw_lng": 12.592375000000004,
+      "plus_code_global": "9F7JMH2R+CX",
+      "plus_code_local": "MH2R+CX",
       "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Amager Øst"
+      "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/186983550669511/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/481090170_1109447904315238_7490150212455300477_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GLlIq09Am70Q7kNvwGLYsfU&_nc_oc=Adl67VvodCLeeGjeqIS-VSt0Lsi27OJ7aW_ta8kQ-nAndNcu8govT86k4FfQo3c-FlE&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=BIVfdeSX9GltauwercR_Fg&oh=00_AfrcQCgrON-n6pxFTd0ga3o-5xjBlkDTaA18ETDBPj_aSA&oe=69705171",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/481090170_1109447904315238_7490150212455300477_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=9zXOYMQ1PcUQ7kNvwFmSPoW&_nc_oc=Admbk59LVEclt8DA9M6l9kSVoAbzvyJDjXjtp2F2ukHSYV70HFTmUdBHgEFzUc5KBn0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=lBSw1o0JCz8AgF7rgFpjHA&oh=00_AftD06wIHm_I7ItLGAjnmirzcaqh8d-yTuS-INSmJpeZ6g&oe=698682B1",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "2 x Record Release - \\",
+    "page_name": "Polychrome",
     "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
   }
 ]

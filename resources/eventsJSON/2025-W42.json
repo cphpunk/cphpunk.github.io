@@ -266,8 +266,8 @@
     },
     "location": {
       "name": "Råhuset",
-      "address": "Onkel Dannys Plads 7",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.66981250000002,
       "longitude": 12.560312499999995,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1804937516782107/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/559121999_1418627036566976_5473838991800517273_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dWeYnjC4TwgQ7kNvwHHMml3&_nc_oc=Adl9alse-giwK7T_4nmYyrEP7rVATha7FGjp0WAKxYvIuO2m5pl91UWoGPwiYU41FOg&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=emM8LV3_0thOd9qwoBjH2w&oh=00_AfkcW8XR68jpQCTFh3cYJiLw0E_IxptZGRlKcUvWF3wiqg&oe=6940B2E0",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/559121999_1418627036566976_5473838991800517273_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=M8ZxM0xgB_0Q7kNvwHH2Dvj&_nc_oc=AdkHo-uUlYZSYzztR0KSgzgYK9zniKsoi5ULy-z0bdNinLa81S7CiW-JDUBibzysKR4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=7drx4weOwDSEUfE7vbapYQ&oh=00_AfulidwKcYliFQR2HYyMs9wyN8Gh6l0kVbLFzxBBeFBs3g&oe=69869260",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Punks Undead",
@@ -313,10 +313,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/778190398041276/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/536267773_787312447186356_13708553186774043_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Wj7WIcOFExgQ7kNvwEnyQNM&_nc_oc=Adk6dJOFwydJE0uFTQKtMXcDH1q7Hj-r73WZFnNDF2Avrbyxx9Vfb3Zq-NLLXd2klMM&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=i6WLl424sb8frAL3Ek2evg&oh=00_AfrU9Dx6GD66NdYneYL33Y2yLzUUD0grKlV173z0lJAYng&oe=69705458",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/536267773_787312447186356_13708553186774043_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XhwoEoTFfgwQ7kNvwFLvaU0&_nc_oc=AdkNAtodnhWv-dnbTubbRq2GrGIkju0WCljMyW4QAAvdrqiG0QWfHxfGHa2wMPYDDDA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ZbUeIgq4jKMi9h9WWaH0mg&oh=00_AftbmM6lHUMuZ3c0ytCNbu53kK34rLqqmQ-J6BQZ4WhB4Q&oe=69868598",
     "tag": "COMMUNITY",
     "platform": "Facebook",
-    "page_name": "Big Zine Fair - CPH Zine Fest 2025",
+    "page_name": "CPH ZINE FEST",
     "page_url": "https://www.facebook.com/cphzinefest/events"
   },
   {
@@ -345,10 +345,10 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/565743096532216/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/536269167_787353587182242_3094325500161194472_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=guRAMY7mlewQ7kNvwEwElZT&_nc_oc=Adm4lTKNmp3payLQSpsAKTR1a0e9W8BZfeRttws8cLgw2C5XUzXB9I3B9fQ7mhTIimM&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Ea0e-rNGxcw_bCzltw4sRw&oh=00_AfpKfKp3-XLJeIMZXsZsOAqKjeMPPbaJZ6n6JSMGOMGpNg&oe=69702DF8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/536269167_787353587182242_3094325500161194472_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lEowCieEEgwQ7kNvwEd23i0&_nc_oc=Adn_Kb2SxcLq6C7cln4o5tinYA3cSFl0LpUBzGnwciu2WEsgSnrvd36UyeIPxSNY3nQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Hks7mVel35rqfMjbKhQcnA&oh=00_AftdqtiEkT90rIhDKsMF5xPfbtytm5iPcofVPdG7BDAI7g&oe=69869778",
     "tag": "COMMUNITY",
     "platform": "Facebook",
-    "page_name": "Big Zine Fair - CPH Zine Fest 2025",
+    "page_name": "CPH ZINE FEST",
     "page_url": "https://www.facebook.com/cphzinefest/events"
   },
   {
@@ -377,10 +377,10 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/766622629191857/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/552336380_10163542953328656_7541050155903609522_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=DSNNGpP8IUQQ7kNvwGqQ2c3&_nc_oc=AdlzvYtM6UnTI-yfJNo9UayaJyf72NNomrwjk8YXhx-wyyB--qMWoZWW3OLwzLGm7P0&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=fIBAaH2aTVCycoGrARirLA&oh=00_AfrkKMen45IYgH9Cn2VJhU7ED6XdExlBVGJaLkr9eDMwmg&oe=697052E1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/552336380_10163542953328656_7541050155903609522_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xi1bEHhauJ4Q7kNvwEy9af5&_nc_oc=Adlr3-a0SD5OJgYJs3I5sx4-a2gwEdJxG1YCOj3HAIdDu4VhGYBhyB-BfaQDhjsdRnQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ZxMmLiFI6QoSsfzSZ6wzKg&oh=00_AfvJZkE_mNhabh_pkJLw_2lfxhfKgHrKM_azaakD_RAFaQ&oe=69868421",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Big Zine Fair - CPH Zine Fest 2025",
+    "page_name": "CPH ZINE FEST",
     "page_url": "https://www.facebook.com/cphzinefest/events"
   },
   {
@@ -409,10 +409,10 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/611803888431927/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/535608134_787336420517292_7931266936655285740_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Be1ZeuC-FN0Q7kNvwGiOQgx&_nc_oc=AdkV-FDq5qYM9MZF154dzO8g25Lxf2NWGgUPPT-JzeAVtWP4MMxnxcSnkScqpM-uDzs&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=otc_3DN28NFt_NJMIATF3A&oh=00_AfrCKy68hkdhJwNNYXrYZbX6JusDKqyNnhPO32G49OYucg&oe=69704EB4",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/535608134_787336420517292_7931266936655285740_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=x8B0q0CllKAQ7kNvwFhNuzW&_nc_oc=AdkZGdWy5RxSKoJr_ZcyCT2mPhOlWnHcsLpnltG-V4-2APpX7IZ3rtT6rCLhIMYzypg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=sXiTIU2Y9C9AsHLI7g2-jg&oh=00_AfvPCJOHpQLtRQvsCvrZ8FMTp5RXCoSBQvPXRLpcwEeC3A&oe=69867FF4",
     "tag": "CULTURE",
     "platform": "Facebook",
-    "page_name": "Big Zine Fair - CPH Zine Fest 2025",
+    "page_name": "CPH ZINE FEST",
     "page_url": "https://www.facebook.com/cphzinefest/events"
   },
   {
@@ -441,10 +441,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1678136906205815/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/514265636_780287327888868_6892863074692902712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UCULivlzUtMQ7kNvwFzmvod&_nc_oc=AdlmOg_Dj4K18aQtIUUVoh5D9bzf6w5rCA8h-jikZ4MKohSyIBpeT6CVFFreLt50ys4&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Ugqira0UCS8fMdw4QVH_gw&oh=00_AfpUXPWm05_yA0rr3_g-6JS3mnKM-cQZD720Ih3i5ZyZ-Q&oe=6970529D",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/514265636_780287327888868_6892863074692902712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mWlle66LBh8Q7kNvwFNDpBC&_nc_oc=AdmQ1xqaIg7a4nX4xLgI5zK_HCjdE7LaQqYdnoCn8GzTur6f7YDxlWbEjOHGwW_UyvE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=KDm7KfBchEPeUIbPZ-SuBg&oh=00_Aft0vgO_-pE1XJUH4IBSxZ9YJ3BH1HCLl9cpndM4MbwyEw&oe=698683DD",
     "tag": "COMMUNITY",
     "platform": "Facebook",
-    "page_name": "Big Zine Fair - CPH Zine Fest 2025",
+    "page_name": "CPH ZINE FEST",
     "page_url": "https://www.facebook.com/cphzinefest/events"
   },
   {
@@ -2105,10 +2105,10 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1104165855195433/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/550454967_1652622995893313_1584453391822629418_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2_SPduxjf5wQ7kNvwFPGPzf&_nc_oc=AdlmQaI2jGRwxPLUjq2bk9qCDrCUHRzqM9g4my9wyPtjjxdF1qFc1Z-Q4Um7x5fzevw&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=3OnNQt4ceB_m7tmjAc9W4g&oh=00_AfocQ2WtmHTU1lpsLTSkikWL87DwPAvGgm3IMXW5LrsqeQ&oe=69703ADA",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/550454967_1652622995893313_1584453391822629418_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Qcpgt3XAogEQ7kNvwHbCFRm&_nc_oc=AdkjUi6t06l5eFyPe8Jkas9pHH9bHcut07uT4cuXW9ZjDYZELZAjpmadxg7b9RLQRTM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=rvKZReyuRnTxbiZ5fXEz2w&oh=00_AftScUcnZAJLZhHge7Y-OHmprZeWqBHU5f4TVUE9yBj5BA&oe=69866C1A",
     "tag": "MOVIE",
     "platform": "Facebook",
-    "page_name": " Annual Copenhagen Film Festival 2025",
+    "page_name": "Annual Copenhagen Film Festival",
     "page_url": "https://www.facebook.com/cphfestival/events"
   },
   {
@@ -3481,7 +3481,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1177442227531229/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/558890470_122184800780359067_5561572763464271249_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kVnZY2wKeNIQ7kNvwGp2Cyh&_nc_oc=AdkFYLk4CDsW5hI-3xY5EU_3f9NDCkAmC_8vMOXkHhccudXtl9idQrPxE0wMZM7jOns&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=QglhlxxoxYr2SnTk7oMfJw&oh=00_AfrrZBUPrvxzICJFG7U0r0IYqLv179DxjSnDUr5uEUiesA&oe=69703763",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/558890470_122184800780359067_5561572763464271249_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=so9BnKXu0fsQ7kNvwHLTl4d&_nc_oc=AdlPYmsjzN0wRSYpGWuFDVapu4kpf1Meq8NKhdxhLAs0lv2tUDqrvUT9Ed00FUpEoXU&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=jmfY7vvAuZR0MfnpbR1uJQ&oh=00_AfvQ9TNhc_zBGYoTqrzAMO9VvS3DErCtw5qjnwp4idEZ6g&oe=698668A3",
     "tag": "THEATRE",
     "platform": "Facebook",
     "page_name": "Centre Stage CPH",

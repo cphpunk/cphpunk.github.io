@@ -158,5 +158,101 @@
     "platform": "Facebook",
     "page_name": "Metronomen",
     "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "1601971187914092",
+    "name": "Lyd & langbordsmiddag ",
+    "description": "Villa Kultur og KANT inviterer til en sanselig aften, hvor musik og mad mødes i villaens smukke, herskabelige lokaler. \nPublikum træder ind i et altomsluttende univers, hvor den nordiske, eksperimenterende musikscene udfolder sig. Musik og kunst smelter sammen i rummet og skaber en fælles oplevelse præget af nærvær, fordybelse og delt opmærksomhed. Kunstneren offentliggøres midt i februar. \n\nHerefter dækkes der op til langbord, hvor Foodoir serverer en på forhånd sammensat vegetarisk menu. Maden serveres som delevenlige anretninger og danner rammen om fællesskab og samtale, mens aftenens indtryk langsomt får lov at falde på plads.\nGlæd dig til en aften, hvor lyd og smag mødes og skaber plads til fællesskab, ro og sanselig fordybelse.\n\nAftenens menu af Foodoir \n- Gulerod, gulerodspure, estragon og sauce med reduceret gulerodsjuice\n- Jordskokker med mandelsauce og æble\n- Krydderurtesalat med grønkål, beder, zaatar og citron\n- Karamelliserede løg i bouillon med persille og sprødt\n- Surdejsbrød\n- Årstidens dessert \n\n\nLyd & langbordsmiddag [koncert + middag]\nOnsdag 18. marts kl. 17.30 - 22.00 (dørene åbner kl. 17.00) \nVilla Kultur, Krausesvej 3, 2100 København Ø\nPris: 395 DKK\n",
+    "date": {
+      "start_timestamp": 1773851400,
+      "end_timestamp": 1773867600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70481249999999,
+      "longitude": 12.581687500000001,
+      "bounds_ne_lat": 55.70487499999999,
+      "bounds_ne_lng": 12.58175,
+      "bounds_sw_lat": 55.70474999999999,
+      "bounds_sw_lng": 12.581625000000003,
+      "plus_code_global": "9F7JPH3J+WM",
+      "plus_code_local": "PH3J+WM",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Østerbro"
+    },
+    "url": "https://www.facebook.com/events/1601971187914092/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/622746581_2023074321805282_7383725873031776777_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=8NPqmW9ugHoQ7kNvwE3X6qb&_nc_oc=Adk-ZD6mP4wj7Sig6prnlaM2G_TZYivMqi2tuyukAl7f7aly3MDpVuy2FL8-WQCItks&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ZZENL5ne_Ga4Yae9BR_iQg&oh=00_AftXK06vfhWXhAVofVHb8D7n1trdJdvM6R0nhWzPJM60yQ&oe=6986948A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Villa Kultur",
+    "page_url": "https://www.facebook.com/villakultur/events"
+  },
+  {
+    "id": "1447083306565721",
+    "name": "Tyler Childers: On The Road - EU & UK Tour // K.B. Hallen // 17. marts 2026",
+    "description": "Tyler Childers bringer sin unikke lyd til Danmark, når han indtager K.B. Hallen den 17. marts 2026 på hans ’On The Road – EU & UK’-tour. Gør dig klar til en fusion af Appalachernes rødder og eksperimenterende country!\n\nSpecial guest: Molly Tuttle\n\n• Billetpris/gebyr: 440 (50)\n• Billetsalg starter fredag 12. september 2025 kl. 09:00 via livenation.dk og billetlugen.dk\n• Live Nation pre-sale starter torsdag 11. september 2025 kl. 09:00 via livenation.dk for nyhedsbrevsmodtagere\n• Mastercard pre-sale starter onsdag 10. september 2025 kl. 09:00 - se mastercard.com/priceless for mere\n•OBS: Billetter i app’en: BILLETLUGEN.pass. Denne billettype kan kun tilgås via Billetlugens app, hvilket kræver download af appen for at kunne vise sin billet.\n• Begrænsning på 6 billetter pr. køb\n\nMed rødderne dybt forankret i Appalacherne og blikket rettet fremad, har Tyler Childers fra Kentucky formået at skabe sin helt egen lyd - rodfæstet i country, men spænder ubesværet over folk, gospel, bluegrass og americana. Han skriver sange med sjæl og substans, og med sin karakteristiske stemme fortæller han historier om kærlighed, tro, identitet og livet.\n\nChilders’ nyeste album ’Snipe Hunter’, produceret af Rick Rubin, viser endnu en gang hans evne til at forene det traditionelle med det eksperimenterende. Albummet byder på 13 numre, hvor han med sin stemme veksler mellem det rå og det følsomme, og blander eksperimentel rock, psykedeliske elementer og gospel. Tematisk kredser albummet om døden, tro, personlig mytologi og regional identitet – og cementerer hans position som en kunstner, der både bærer arven videre og konstant udfordrer grænserne for, hvad countrymusik kan være.\n\nMed sig på tour har Childers sit faste band, The Food Stamps, og sammen skaber de et nærmest elektrisk rum, hvor sangene får nyt liv. Glæd dig til at opleve Tyler, når han indtager K.B. Hallen i 2026!",
+    "date": {
+      "start_timestamp": 1773774000,
+      "end_timestamp": 1773781200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1447083306565721/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/599950783_1314221000733396_1780422153111805714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_CZulyRMpK4Q7kNvwExor0X&_nc_oc=AdlCGMd-P0nxIkxNvBvGzCnfnMJMbPr8kT0wfqnGDxH2JbR7SLUjsOA_k0tYsgPm8K8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=jmFTt4dfHbKBfEIi5c2Ggg&oh=00_AfuKEWq8DBbxoO4xgp-8XWqmkfOjogCUamG3vNsszsFjZA&oe=69867832",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "1222594973309759",
+    "name": "Ukulele-workshop med Tobias Elof",
+    "description": "Få inspiration til at spille ukulele.\nMød ukulele-virtuosen, komponisten og underviseren Tobias Elof, en af Europas mest anerkendte ukulelemusikere.\n\nVi tager i workshoppen udgangspunkt i at spille sammen, men kommer også til at arbejde med det grundlæggende omkring ukulelen: akkorder, forskellige strumming-teknikker og lidt melodispil. \n\nFor begyndere og øvede.\nAlle er velkomne med en ukulele i hånden.",
+    "date": {
+      "start_timestamp": 1773856800,
+      "end_timestamp": 1773864000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "2730 Demoteket",
+      "address": "Herlev Bygade 70",
+      "city": "Herlev Municipality",
+      "country": null,
+      "latitude": 55.72531249999999,
+      "longitude": 12.435687500000014,
+      "bounds_ne_lat": 55.725374999999985,
+      "bounds_ne_lng": 12.435750000000013,
+      "bounds_sw_lat": 55.72524999999999,
+      "bounds_sw_lng": 12.435625000000016,
+      "plus_code_global": "9F7JPCGP+47",
+      "plus_code_local": "PCGP+47",
+      "plus_code_locality": "Herlev, Denmark",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/1222594973309759/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/619237430_1294131679417885_1716055532987425323_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=np5IGTaikacQ7kNvwGuE-SG&_nc_oc=AdmIb0SzE70XcmkUcXMkw7M69fSu5nHZpGsGnUTRxsGZtZRJb536fqWFWWZWLNtPZT8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=CtVKryo3mROFsut6GuqXjA&oh=00_AfsbcUAh1JldrMQ8lCox61BDfFyZhXoP8MsdcdkxFH757g&oe=69868868",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
   }
 ]

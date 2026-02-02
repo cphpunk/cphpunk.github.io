@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": "Sjællandsgade 12a",
-      "city": "Copenhagen",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/797601426083948/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/545710232_775306695240656_7260444037786937681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=R603uHsHdvkQ7kNvwH2sSqb&_nc_oc=AdkqroBAD8QxMuNvWW6ZUJLVgeJLv7mI71yAodB6pmn8ETMyexpbgygTkZ4Mo_sCZcc&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=k-yqLTByN47yfmfp7AMRiw&oh=00_Afo1d56hhYH_xculhgu9EMXcGvtpbYmwmv4iqpHlTdNERg&oe=69702641",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/545710232_775306695240656_7260444037786937681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lFNams_WZLcQ7kNvwHaaUui&_nc_oc=Adl1exruTx49c4gRUzhK_JwDWhEM9FndJQWBoPCsqCtEE49wtdtcG6CVLj72tv2Iqkg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=QkKJHS_AQ8ZxQuVdZW8XsQ&oh=00_Afu3cdU2QhK31UNSKrFtmrUbrA53aHKc2EifoL9xfiY8wA&oe=69868FC1",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -98,7 +98,7 @@
   {
     "id": "kk-jazz-og-strik",
     "name": "Jazz og Strik",
-    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Albert Reinholdt inviterer publikum ind i et anderledes koncertformat, hvor musik og strik inspirerer hinanden. Sammen med sit band bestående af prisvindende musikere fremfører han originale kompositioner og deler de historier og idéer, der har formet dem – fra de første masker til færdige musikalske strukturer.\n </p>\n <p>\n  Undervejs viser Albert sine håndstrikkede designs og trækker tråde mellem garnets rytme og musikkens bevægelse. Med en besætning bestående af violin, trombone, klaver, kontrabas og trommer bevæger musikken sig mellem jazz, nordiske klange og improvisation. Inspirationerne spænder fra Weather Report og Joni Mitchell til Cannonball Adderley.\n </p>\n <p>\n  Jazz og strik er både for strikkeinteresserede og musikelskere – og for dem, der er nysgerrige på, hvordan de to kreative udtryk kan mødes på nye måder.\n </p>\n <p>\n  Praktisk info\n  <br/>\n  Torsdag 12. marts kl. 19:00 / dørene åbner kl. 18.30\n  <br/>\n  Forsalg: 120 kr. + gebyr\n  <br/>\n </p>\n</div>\n",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Albert Reinholdt inviterer publikum ind i et anderledes koncertformat, hvor musik og strik inspirerer hinanden. Sammen med sit band bestående af prisvindende musikere fremfører han originale kompositioner og deler de historier og idéer, der har formet dem – fra de første masker til færdige musikalske strukturer.\n </p>\n <p>\n  Undervejs viser Albert sine håndstrikkede designs og trækker tråde mellem garnets rytme og musikkens bevægelse. Med en besætning bestående af violin, trombone, klaver, kontrabas og trommer bevæger musikken sig mellem jazz, nordiske klange og improvisation. Inspirationerne spænder fra Weather Report og Joni Mitchell til Cannonball Adderley.\n </p>\n <p>\n  Jazz og strik er både for strikkeinteresserede og musikelskere – og for dem, der er nysgerrige på, hvordan de to kreative udtryk kan mødes på nye måder.\n </p>\n <h3>\n  Line-up\n </h3>\n <p>\n  Albert Reinholdt Østergaard - fortæller og kontrabas\n  <br/>\n  Carsten Kær - Piano\n  <br/>\n  Eliel Lazo - conga\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Torsdag 12. marts kl. 19:00 / dørene åbner kl. 18.30\n  <br/>\n  Forsalg: 120 kr. + gebyr\n </p>\n</div>\n",
     "date": {
       "start_timestamp": 1773338400,
       "end_timestamp": 1773345600,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1431788332282045/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/577815372_1281788590643304_7318932791819755458_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zkcvkywJwYYQ7kNvwEYOJ1U&_nc_oc=Adm4sKEr1QhcxVKHJpFUiN0YT99GwyHGrgpN7Yk-9HKIdiOBD7HffmSlwsrCIuitfSY&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=y5tUW9QVTeKfPbz6MIcSeA&oh=00_AfoyyS8ug6DYBBCNszONr-HDc2qY1lO_ZhO7TS_0WdHH9w&oe=69702E81",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/577815372_1281788590643304_7318932791819755458_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=O4xELQhET5IQ7kNvwEQoPBV&_nc_oc=AdnMzwy6nrRopLlNjExL3Hg6lnsUhNSBKFp810Txh1Xr90xuB66mNTKplDB0nCxORuI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=calscL9xrWdZLcYzHJwrNQ&oh=00_AftmvxIOK-gOvW0fxi_NJ4lCE2ipH0_oL8lx-0U_941CrQ&oe=69869801",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -217,10 +217,234 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/2039966726478771/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/490902436_1113802884108543_307858018677401676_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=V6ZE-lxBYJAQ7kNvwGwQETu&_nc_oc=AdmB9ojKlf5ldfhwPYT_OAFyl8WKBl_CbBLZa8bx33jZN6No-rOX6V7aIeMS7uLTr5U&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=F2CSJQgMnPVmUTsWizLGkg&oh=00_Afp-KTZUANiSAxq1P7KfwlgPR_EGl12eXkJk50opvX70_A&oe=697030B7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/490902436_1113802884108543_307858018677401676_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=efZRc_OS8y8Q7kNvwGfhP5N&_nc_oc=Adm_C3YbGkvMKfTVo55JNCd5mkerVXsTwvvcHrVx5K8TiJdt0e5kAZ_hpQiMZ5cjgUc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=7L7VRFKHD-cTeRQFJdOeyQ&oh=00_AftN2iXEBsDO-xrOyYomQgEnz2NjE6w0T_zwFs0f8w3hfw&oe=69869A37",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
     "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "924995139968079",
+    "name": "Print me like you love me, a linocut workshop by BOTTTTTINI",
+    "description": "This workshop is an excuse to slow down and make something intimate with your hands.\n\nWe’ll carve linocut postcards made for lovers — secret, tender, messy, or obsessive — while learning the fundamentals of linocut printing. You’ll design, carve, ink, and print your own small edition of love postcards, meant to be sent, gifted, or kept close.\n\nAll materials and tools will be waiting for you. Each participant receives one linoleum plate to carve a single design, and sheets of A5 heavy paper to print their postcards. No previous experience is needed — just curiosity, a steady hand, and someone (or something) you want to say I love you to, in ink.\n\nYou only need to bring a folder or envelope to safely take your prints home.\n\nSaturday 14. MARCH kl. 16.00 – 19.00\nVilla Kultur, Krausesvej 3, 2100 København\n390 dkk per human. Limited seats, get yours here: https://bit.ly/3LPuTZ8\n\nI’ll be bringing some wine to share during the session, to keep the atmosphere soft and lovely.\n\nThat one’s on me 🍷\n\nxoxo\n\nBOTTTTTINI\nwww.instagram.com/botttttini\n\n_______________\nAbout the host:\nFausto Bottini (b. 1995) is an Argentine visual artist and portrait photographer working with photography and printmaking. His interest in arts as a tool for the construction of identity began at an early age.\n\nFausto has exhibited his art and participated in collective artistic activities in Buenos Aires, Madrid, Montevideo, Nice, Munich and Copenhagen.\n\nHe is currently based in Copenhagen, Denmark, where he produces work as a portrait photographer, printmaking & tattoo artist. He also works as an art director & digital editor in the danish cultural world.\n",
+    "date": {
+      "start_timestamp": 1773500400,
+      "end_timestamp": 1773511200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Krausesvej 3, 2100 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70481249999999,
+      "longitude": 12.581687500000001,
+      "bounds_ne_lat": 55.70487499999999,
+      "bounds_ne_lng": 12.58175,
+      "bounds_sw_lat": 55.70474999999999,
+      "bounds_sw_lng": 12.581625000000003,
+      "plus_code_global": "9F7JPH3J+WM",
+      "plus_code_local": "PH3J+WM",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Østerbro"
+    },
+    "url": "https://www.facebook.com/events/924995139968079/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/626002948_2026608368118544_1393102560808376719_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=53ewxvaV4SIQ7kNvwEAp4bo&_nc_oc=AdlLTXl98sORWo2HHFuWV9y3gqhCPx6lZXZff6LW3HygqCYo7PB_Mxyqzy7wTd2EG2A&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=q8kxYOOHOn4L_DnTwn6KcQ&oh=00_Afuq6DC5zIb-kRb5gspKqPqdjbSVjBcYcqlP2OkPOd8OSQ&oe=69867D2F",
+    "tag": "ART",
+    "platform": "Facebook",
+    "page_name": "Villa Kultur",
+    "page_url": "https://www.facebook.com/villakultur/events"
+  },
+  {
+    "id": "4116235688689566",
+    "name": "Rebekah, LMN, Kardinal Bertram",
+    "description": "UK techno DJ and producer Rebekah has been creating music since 2007 and DJing for many years more. Rebekah’s music can be deep, dark and mysterious as well as hard, direct and experimental. Leaning now to the toughest sounds within hard dance has seen her evolve once again as she continues to breakdown the barriers of what is possible and where different genres can be blurred, merged and re-imagined for a post-techno revolution.\n\n\n𝗟𝗜𝗡𝗘-𝗨𝗣: \n\nRebekah https://soundcloud.com/rebekah \n\nLMN https://soundcloud.com/giannis-alamanos \n\nKardinal Bertram https://soundcloud.com/kardinalbertram \n\n\nENTRANCE:\nPresale tickets \n- Early entrance* (enter between 23-24): 120kr incl. fee \n- Early bird (enter all night): 150 DKK incl. fee \n- All night entrance (enter all night): 175kr incl. fee \n\nTickets: https://ra.co/events/2320048 \n\nDoorsale tickets 175kr \n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 23:00 and 24:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 23:59 at the latest. Any arrivals after this time will incur a late entrance fee of 55kr.\n\nNo re-entry\nNo entrance after 05:00\n\n- The presale ends when the door opens at 23:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry. \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case. \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. Come early, stay late!\n\n\nINFO:\nOpening hours 23:00-06:00\nMinimum age: 20+\nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen\nLost & found: Please fill out our lost item form at hangaren.dk/info\n\n\nWARDROBE/LOCKERS:\nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\n\nHANGAREN:\nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs. There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\n\nTHIS IS HOW WE PARTY:\nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. If you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free!\n\n- No photos and video\n\n- Stay in the moment!\n\n- No phones or loud conversations at the dancefloor\n\n- Dancefloor is for dancing, Please respect the vibe!\n\n- Take care of yourself and each other\n\nPlease contact our staff if you need help or assistance of any kind.\n\n\n𝗜𝗚: https://www.instagram.com/hangaren_copenhagen/\n\n𝗙𝗕: https://www.facebook.com/HangarenCopenhagen\n\n𝗪𝗘𝗕: https://www.hangaren.dk",
+    "date": {
+      "start_timestamp": 1773439200,
+      "end_timestamp": 1773464400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/4116235688689566/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618167002_1406435064514542_1528178501894402106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c37apAEhwNQQ7kNvwHKHba4&_nc_oc=AdkNVb02S1z9eVHkhOSeiTe_onaDVg0kUpeKKX5wLXgjDqIdYNif7hmjAn00Q-n738k&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=wPISldoX4K8AVnIiOJWplg&oh=00_AfuL74PLIz_mWxUB2Fxj5KQBVla-WUes648TcIIvGuGorg&oe=698676C3",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hangaren",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "939031742630953",
+    "name": "Mischluft, Jessie Dols, babysquid - EXTRA SHOW",
+    "description": "Known for his deep passion for catchy and sexy vocal lines, Mischluft is a Leipzig-based DJ/Producer who has burst onto the scene with hit after hit release. He is ready to seduce any crowd with his deep knowledge of groovy, ravey, and raunchy tracks. A true master behind the decks, Mischluft’s sets will romance even the most hardened techno hearts. Taking influence from the underground as well as his dad's secret Shania Twain albums - he bridged the gap between vocal-focused trance and bouncy techno grooves.\n\n\n𝗟𝗜𝗡𝗘-𝗨𝗣: \n\nMischluft \nhttps://soundcloud.com/mischluft \n\nJessie Dols\nhttps://soundcloud.com/jessiedols  \n\nbabysquid\nhttps://soundcloud.com/suteu-diana\n\n\nENTRANCE:\nPresale tickets \n- Early entrance* (enter between 16-23): 120kr incl. fee \n- Early bird (enter all night): 150 DKK incl. fee \n- All night entrance (enter all night): 175kr incl. fee \n\nTickets: https://ra.co/events/2353060\n\nDoorsale tickets 175kr \n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 16:00 and 17:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 16:59 at the latest. Any arrivals after this time will incur a late entrance fee of 55kr.\n\nNo re-entry\nNo entrance after 22:00\n\n- The presale ends when the door opens at 16:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry. \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case. \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. Come early, stay late!\n\n\nINFO:\nOpening hours 16:00-23:00\nMinimum age: 20+\nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen\nLost & found: Please fill out our lost item form at hangaren.dk/info\n\n\nWARDROBE/LOCKERS:\nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\n\nHANGAREN:\nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs. There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\n\nTHIS IS HOW WE PARTY:\nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. If you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free!\n\n- No photos and video\n\n- Stay in the moment!\n\n- No phones or loud conversations at the dancefloor\n\n- Dancefloor is for dancing, Please respect the vibe!\n\n- Take care of yourself and each other\n\nPlease contact our staff if you need help or assistance of any kind.\n\n\n𝗜𝗚: https://www.instagram.com/hangaren_copenhagen/\n\n𝗙𝗕: https://www.facebook.com/HangarenCopenhagen\n\n𝗪𝗘𝗕: https://www.hangaren.dk",
+    "date": {
+      "start_timestamp": 1773586800,
+      "end_timestamp": 1773612000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/939031742630953/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/623643690_1412322563925792_3636930862640879738_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dk70eUPrvaYQ7kNvwFPO6QV&_nc_oc=AdkqYWR7z_KLwXjVfBv2ncd2gGI8BAbVn52D7vZAMoIU9j_pwgyLQsYHfM5ysypkzx4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=1xBgxsjJj556nHOIKxwCiw&oh=00_AfttxVhZm147vFm_Yt-PP8paLNG7qu6fRKXi4_zo-Eq6WA&oe=69868C1D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hangaren",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "928214796397903",
+    "name": "Mischluft, Jessie Dols, babysquid - SOLD OUT",
+    "description": "Known for his deep passion for catchy and sexy vocal lines, Mischluft is a Leipzig-based DJ/Producer who has burst onto the scene with hit after hit release. He is ready to seduce any crowd with his deep knowledge of groovy, ravey, and raunchy tracks. A true master behind the decks, Mischluft’s sets will romance even the most hardened techno hearts. Taking influence from the underground as well as his dad's secret Shania Twain albums - he bridged the gap between vocal-focused trance and bouncy techno grooves.\n\n\n𝗟𝗜𝗡𝗘-𝗨𝗣: \n\nMischluft https://soundcloud.com/mischluft \n\nJessie Dols https://soundcloud.com/jessiedols  \n\nbabysquid https://soundcloud.com/suteu-diana \n\n\nENTRANCE:\nPresale tickets: SOLD OUT\nDoorsale tickets: 175kr \n\n*Guests holding \"Early entrance\" tickets are expected to arrive between 23:00 and 24:00. Please be aware that due to security checks, wait times may range from 5 to 30 minutes. It is the guest's responsibility to ensure they reach the entrance desk by 23:59 at the latest. Any arrivals after this time will incur a late entrance fee of 55kr.\n\nNo re-entry\nNo entrance after 05:00\n\n- The presale ends when the door opens at 23:00 \n- There are always tickets for sale at the door, even if the presale is sold out. \n- Presale tickets are prioritized for faster entry. \n- Please note that a presale ticket does not guarantee entry. Hangaren reserves the right to deny entry. Tickets will be automatically refunded in that case. \n- Due to security checks at the entrance, there may be an increased waiting time even with a ticket. We ask you to please take this into account and respect it. Come early, stay late!\n\n\nINFO:\nOpening hours 23:00-06:00\nMinimum age: 20+\nAddress: Hangaren, Refshalevej 185, 1432 Copenhagen\nLost & found: Please fill out our lost item form at hangaren.dk/info\n\n\nWARDROBE/LOCKERS:\nHangaren has switched from manual wardrobe to digital lockers The use of the lockers is mandatory for every guest due to fire safety codes. Share the locker with your friends.\n\nMedium lockers with pace for 2-3 jackets = 40 DKK \nLarge lockers: Space for 3-5 jackets = 70 DKK\n\n\nHANGAREN:\nHangaren at Refshalevej 185 is an old hangar construction turned into a nightclub for electronic music and event space. Hangaren is located at a secluded green spot on Refshaleøen in central Copenhagen. We are here to present the city's vibrant electronic music scene. You will be treated with a heavy soundsystem by Lambda Labs. There is a cosy courtyard with chill-out possibility, a bonfire, big sky scenery from where you can watch the sunset, the stars and the sunrise. The bar serves organic beers, drinks at fair prices. Our main purpose is to serve as a platform and inspiration for the cultural scene in Copenhagen\n\n\nTHIS IS HOW WE PARTY:\nHangaren wants every guest to feel safe and free at our parties. This is a shared space and there should be an open atmosphere where everyone can enjoy themselves, whoever they are or wherever they come from. We do not want any harassment based on race, gender, sexual orientation, religion, disability, body size, political orientation, social background or age. If you feel you are being harassed, a victim of nonconsensual touching, or otherwise made to feel unsafe by any form of aggressive or inappropriate attitude, contact our staff or security: they will assist you. It's only a party if we all feel free!\n\n- No photos and video\n\n- Stay in the moment!\n\n- No phones or loud conversations at the dancefloor\n\n- Dancefloor is for dancing, Please respect the vibe!\n\n- Take care of yourself and each other\n\nPlease contact our staff if you need help or assistance of any kind.\n\n\n𝗜𝗚: https://www.instagram.com/hangaren_copenhagen/\n\n𝗙𝗕: https://www.facebook.com/HangarenCopenhagen\n\n𝗪𝗘𝗕: https://www.hangaren.dk",
+    "date": {
+      "start_timestamp": 1773525600,
+      "end_timestamp": 1773550800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hangaren",
+      "address": "Refshalevej 185",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.617062499999989,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.617124999999987,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.61699999999999,
+      "plus_code_global": "9F7JMJR8+HR",
+      "plus_code_local": "MJR8+HR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/928214796397903/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/622800763_1412318750592840_7336255732735525242_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cIYA0x5_QKUQ7kNvwH3552Y&_nc_oc=AdlqRtfWONFzegexA94CY10phvBe0QbxpkBo06Qoc5gCNHotPJNmYSGE26bTxOecsOI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=wUetDihFv1mLirTXUgWuEw&oh=00_AfvctfAMUOmVPHz3jhjCz_5_9SpKm-sAvnvq0BAYpY1pEA&oe=69869337",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hangaren",
+    "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "1314133462995290",
+    "name": "Michael Learns To Rock / K. B. Hallen / 14. marts 2026",
+    "description": "MICHAEL LEARNS TO ROCK\nK.B. HALLEN: LØRDAG 14. MARTS\n\nBILLETINFORMATION\nPriser\n\nK.B. Hallen: \n•\tStåplads PL2: 450 kr. + 40 kr. billetgebyr\n•\tSiddeplads PL1: 550 kr. + 40 kr. billetgebyr\n•\tOrdregebyr: 10 kr. pr. transaktion\n•\tBilletter i app’en: BILLETLUGEN.pass. Denne billettype kan kun tilgås via Billetlugens app, hvilket kræver download af appen for at kunne vise sin billet.\n\nBILLETSALG\n•\tOfficielt billetsalg starter: Fredag 26. september kl. 10.00 via livenation.dk\n•\tLive Nation Presale: Torsdag 25. september kl. 10.00 – kun for nyhedsbrevsmodtagere via livenation.dk\n•\tMastercard Presale: Onsdag 24. september kl. 10.00 til fredag 26. september kl. 09.00. Mastercard-kunder har adgang til udvalgte billetter også efter presale via priceless.com/music\n_\nBegrænsninger\n•\tMax. 8 billetter pr. køb\n\n\n\nMichael Learns To Rock vender hjem med deres største koncerter nogensinde\n\nI mere end tre årtier har Michael Learns To Rock begejstret millioner af fans på tværs af kontinenter - fra udsolgte arenaer i det meste af Asien til turnéer i USA. Nu vender de hjem med deres største danske koncerter til dato. \n\n“They have had the kind of career most bands can only dream of: songs that have been downloaded more than a billion times, 11 million records sold and thousands of fans in dozens of cities.” \n\nSådan lød overskriften på en forsideartikel i The New York Times fra sidste år om et af Danmarkshistoriens største bands. \n\nOg netop den historie får nu et nyt kapitel på hjemmebane. For første gang kan danske fans opleve Michael Learns To Rock i samme skala som de arenashows, der har fyldt salene i mere end 15 lande fra Singapore til Seattle. \n\nLørdag 14. marts 2026 – København, K.B. Hallen \n\nLørdag 21. marts 2026 – Aarhus, Aarhus Congress Center \n\n”Vi havde aldrig turde drømme om de oplevelser, som vores musik har givet os mulighed for udenfor Danmark. Det priser vi os lykkelige for hver dag. Men selvom vi har turnéret meget rundt i verden, så har vi altid drømt om at kunne komme hjem og spille nogle koncerter i samme skala, med samme store produktion, som vi spiller med rundt i verden. Det får vi endelig mulighed for nu, og vi glæder os helt enormt,” udtaler bandet samstemmigt.\n\nMichael Learns To Rock blev dannet i Aarhus i 1988 og har siden solgt mere end 11 millioner albums og rundet over 6 milliarder streams. De står bag tidløse hits som The Actor, 25 Minutes og That’s Why You Go Away og mange flere, som har gjort bandet til et af Danmarks største musikeksporter nogensinde. \n",
+    "date": {
+      "start_timestamp": 1773514800,
+      "end_timestamp": 1773522000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "K.B. Hallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67756250000001,
+      "longitude": 12.49481249999998,
+      "bounds_ne_lat": 55.677625000000006,
+      "bounds_ne_lng": 12.494874999999979,
+      "bounds_sw_lat": 55.67750000000001,
+      "bounds_sw_lng": 12.494749999999982,
+      "plus_code_global": "9F7JMFHV+2W",
+      "plus_code_local": "MFHV+2W",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1314133462995290/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/553205971_1240386161450214_901159777130432187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ix2U4mlGbFMQ7kNvwESRY93&_nc_oc=Adkn--jwkDriv6-yb0-bI8DGnQmVkNr_Er9NPLipdcAVjWCdTB5VTBEY8j4IPL2OZdc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=bf1d-bFo37_U3GyjNx4izg&oh=00_Afu1LtqkouUquMuhP-7JFXvJJevQMwwEg1Yhc_1cmQ3QRg&oe=69868864",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "K.B. Hallen",
+    "page_url": "https://www.facebook.com/kbhallen/events"
+  },
+  {
+    "id": "1261666562689361",
+    "name": "HADERSLEV:DOX 2026",
+    "description": "Glæd dig til HADERSLEV:DOX 2026! \nFra 10. - 19. marts 2026 inviterer vi til dokumentarfilm, fællesskab og samtaler med udgangspunkt i både globale temaer og lokale perspektiver. Programmet byder på aktuelle film, og bliver løbende offentliggjort her på siden, samt på www.haderslev.dk/dox.\n\nHADERSLEV:DOX - den lokale dokumentarfilmfestival skabes i samarbejde mellem Banehuset, Kosmorama, Kunsthal 6100, SG25, StreetDome, Tørning Mølle, Vojens Kultur- og Musikhus, Kultursamvirket, Haderslev Kommune og CPH:DOX. \n\nHADERSLEV:DOX er støttet af Kultursamvirket og Haderslev Kommune, og er en del af DOX:DANMARK, der er støttet af Kulturministeriet, DFI, Danmarks Radio og Spar Nord Fonden.\n",
+    "date": {
+      "start_timestamp": 1773162000,
+      "end_timestamp": 1773957600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1261666562689361/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616372098_122106222789212179_2965866289154861467_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4TQcxGq9B4wQ7kNvwGrfYAN&_nc_oc=AdkCwfqN8f-QgHDH0SlyAWYCTbvKy8b340MgNSG0jOWzbitP8BZw0mIVyKvZ5rIMes4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ytrETkmXtVCOe9EnBkEOpg&oh=00_Afv6xk6d3-H42Z9SlfXvtXuwF2ON0I3wEtglRmBAtjN8mw&oe=69869B79",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "907239128483376",
+    "name": "Produceraften – feedback og mix",
+    "description": "Producer Kasper Høgenhav giver professionel feedback og har desuden fokus på klassisk rockmix.\n\nSend dit track til Kasper Høgenhav,\nKasper, som er freelance producer, vil lytte til din musik og komme med konstruktiv feedback. Kasper vil byde ind med idéer, der kan få dit track til at lyde mere professionelt og mere klar til for eksempel afspilning i radio.\nDe andre deltagere kan også give feedback på dit track, så vi håber, at mange vil deltage.\nVi kan gennemgå max. fire numre efter først til mølle. Send din sang senest 14 dage før til Kaspers mail: kasper@hogenhav.dk\n\nKasper Høgenhav vil også gennemgå, hvordan man kan gribe et klassisk rockmix an. Han vil fokusere på, hvordan man kan anvende et mere traditionelt og simpelt mindset i forhold til mix, hvor det stadig kan følge med i en moderne produktion. \n\nOm produceraftener i 2730 Demoteket\nVores produceraftener er musikkens svar på læse- og skrivekredse.\n\nSammen udforsker vi alle dele af musikproduktion og deler ud af egne projekter og erfaringer. Et nærværende og tæt musikfællesskab.\n\nFri entré – men husk billet!",
+    "date": {
+      "start_timestamp": 1773338400,
+      "end_timestamp": 1773345600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "2730 Demoteket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.736249999999984,
+      "longitude": 12.421250000000015,
+      "bounds_ne_lat": 55.73749999999998,
+      "bounds_ne_lng": 12.422500000000014,
+      "bounds_sw_lat": 55.734999999999985,
+      "bounds_sw_lng": 12.420000000000016,
+      "plus_code_global": "9F7JPCPC+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/907239128483376/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618102514_1297321772432209_2538998688053098335_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=th11wvagidEQ7kNvwFAsiVC&_nc_oc=Adnq7qwbHQxxLetpUHZCk_WWFpmoNe3urOWS3cO4JkQGTsnnVg9xwHoc3R_rmXhsCk8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ShGgTQ1Tvpo2YxKDSLPfYQ&oh=00_AfsNctSoRh9_nI6dUXCQoZ4BP38CN4gMut3Vd5Xj1J99og&oe=69869BC7",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
   }
 ]

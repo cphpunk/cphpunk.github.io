@@ -234,8 +234,8 @@
     },
     "location": {
       "name": "Råhuset",
-      "address": "Onkel Dannys Plads 7",
-      "city": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.66981250000002,
       "longitude": 12.560312499999995,
@@ -249,7 +249,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/1260005699323176/",
-    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/595814989_10163716793262095_9145421894174112160_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TpE2dcxcSb0Q7kNvwHI3wAd&_nc_oc=AdkXDaMKD3ziNWCW0bGgYFAuaCHlMwmXzIW-G8NV0wvKNxa7KkAnUfmAio7T65xQOvI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=MsuuwKPUi3KxSjQEU03KjA&oh=00_AfnzpMez4FNoP0k5GxSCdF6tXsnFLR8QPVsVWyFc0nFO5g&oe=6940AA73",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/595814989_10163716793262095_9145421894174112160_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HVmy9LQZXD4Q7kNvwFUrGkS&_nc_oc=Adk9yOnh1Et3d-6xtHbh3OeiIhF6urBq2TlVl509b8dripLREZW4YkcfdOgSDwOzs5c&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=EdseaFSDu65YdFtAjd1yCw&oh=00_Afu-cCJ7SHsVEti3S6wGSHrjDpazzZsaa_NjZ2EyDH8VsQ&oe=698689F3",
     "tag": "COMEDY",
     "platform": "Facebook",
     "page_name": "Punks Undead",
@@ -2105,7 +2105,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1768168397223358/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/585900837_1287736750052400_8940866090371560333_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gAMCg8q2ObsQ7kNvwGoci0U&_nc_oc=AdkjqbJgs6EDYNCZHI09DL7Zx7zHtOpu1GBkSpydSPQdPAWgFUH82rmJE_TiY62gOUw&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=XeVmV37EWxYsQb-2B6SHxQ&oh=00_AfrmLQLfGvNNeyDKj_RSODlkxBNBKz3s-bn09OxQQMnOiw&oe=69705525",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/585900837_1287736750052400_8940866090371560333_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vwYbPn_VZuAQ7kNvwGiwBUP&_nc_oc=AdnOWsb-bXrjIRwne-WPT27mcmtIP_zkAia8RET0UZv8cYlycJHDqDPoJPTJDuP6rW8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=clmiSUbUqBt5gtU49cBKyw&oh=00_AfuTVaSbro1G1Y3XYs23SOBJrskHOWgR26hEGJlZdAMsiA&oe=69868665",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Haven CPH",
@@ -3513,7 +3513,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/1352227099334081/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/594070080_1280338634123562_7636088392833662811_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=vK1J2c7Y0eUQ7kNvwGMoKOL&_nc_oc=AdmhyupKv9NO1KWcG5Kheo2GbrFllgewVi0oArIZMAz9oBR1FLpwYbXL15_4-Csar5U&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=PKFmVi_EPhPuhlPngyottQ&oh=00_AfptZVBnUlK93lWJJMV6AIEE6HwKh20XHXPmO_YXjAf0pQ&oe=69702AC8",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/594070080_1280338634123562_7636088392833662811_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c5cXr99JRcwQ7kNvwFPPSpQ&_nc_oc=AdkIisH4fFAPqqB6_odThab9iF99l2MHUZNHGmzksw1DnisVo5Jl6ZnUWE6Z4vUj41I&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=F9UMXoMWT56qWbetFA-wkw&oh=00_Afs-GkBcdN1cELo2EMdjRtSaFA8d41IWT2YUsmyzBvEOVw&oe=69869448",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Jægersborggade",

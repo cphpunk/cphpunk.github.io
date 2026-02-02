@@ -121,7 +121,7 @@
       "copenhagen_district": "Bispebjerg"
     },
     "url": "https://www.facebook.com/events/3688480204621743/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/603067412_1405912401545673_1813042942419267545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GDQTk5hXMukQ7kNvwE9Rl8V&_nc_oc=AdnzisMbAzcWmPoSmjUnDv3oXXn0YLGJHrrhnymwtcwMzxhHbLukLPpQPO8AetHhIZY&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=GBFrM-LjZwGjbTCJmDg1vw&oh=00_Afqi-THS5ODIOnhij55ceK0Whz4gmItnvX-k77kIHVY_sQ&oe=697035C0",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/603067412_1405912401545673_1813042942419267545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XRs7uGvD0bMQ7kNvwEAG1g5&_nc_oc=AdlC_TAFf_5H1Uk73Y104BLXMrvzJaMDsVC0pbCUip_FonA851ZSnZCss9EVwcdTQnc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=qbEviM-eCXq41ddR_KTZ-Q&oh=00_AfuO0jQMO4m0L_UflJD8bk5Rba0V_do5M0mzSc6nTguyAg&oe=69869F40",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Lygtens Kro",
@@ -158,5 +158,101 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "1201723748210086",
+    "name": "Greek Trash Party in the Venue ",
+    "description": "Join us when we host a GREEK TRASH PARTY in the Venue! 🇬🇷\n...What is a trash party you might ask? Well, have you also missed all the great greek bangers from the 90's/00's that you just can't stop dancin' and singin' along to? 💃🕺\nThis is it! And it is not just any bangers... Sakis, HMIZ, Paparizou and sooo many others will set this night (and the dancefloor) on 🔥\nWe will stack up the bar with delicious drinks, beers and of course Ouzo. Are you ready to P A R T Y greek style?\nWe can't wait to dance and have fun with you from 21.00-02.00 🤩\nOpaaaaa!\n_________________________________________________________________________\nΓεια σε όλo τo Greek Team! 🤘🏻\nΣας λείπει και εσάς η εποχή των 90s/00s;\nΣας περιμένουμε στο ένα και μοναδικό GREEK TRASH PARTY της Κοπεγχάγης στο σουπέρ κεντρικό Next House Copenhagen! 🤩\nΕλάτε να χορέψουμε μαζί σε ελληνικούς ρυθμούς που θα μας ταξιδέψουν στα «παλιά». 🔥\nθα σας περιμένουμε στο Venue απο τις 21.00 μεχρι τις 02.00!!!! 🎉",
+    "date": {
+      "start_timestamp": 1774728000,
+      "end_timestamp": 1774745100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bernstorffsgade 27, 1577 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66968750000002,
+      "longitude": 12.570937500000028,
+      "bounds_ne_lat": 55.66975000000002,
+      "bounds_ne_lng": 12.571000000000026,
+      "bounds_sw_lat": 55.669625000000025,
+      "bounds_sw_lng": 12.57087500000003,
+      "plus_code_global": "9F7JMH9C+V9",
+      "plus_code_local": "MH9C+V9",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1201723748210086/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616608306_1205077085120407_1214415657505513146_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pCjv5-T-rgoQ7kNvwGpLF95&_nc_oc=AdkhtOOQjL_Cy7JMnW5nDUyetnmdKMzTZkThd8tyfyLlgIds3E1_-LGi-LXh-J9OvSE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=JwC9Ky30YCixC0onIVuf-A&oh=00_AftL4GdlfQLnGHtBK4RY70LWEbmkuehDhV5Wo2UkRfJa7Q&oe=69869322",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Next House Copenhagen",
+    "page_url": "https://www.facebook.com/nexthousecopenhagen/events"
+  },
+  {
+    "id": "1868334403826283",
+    "name": "Depeche Mode – lyden af håb",
+    "description": "Få indblik i synth-pop-ikonernes udvikling 1981-1993.\n\nVi dykker ned i Depeche Modes maskinrum! Fra deres første lp \"Speak and Spell\" og op gennem 1980’erne, hvor deres univers ændrer sig markant med den teknologiske udvikling.\n\nDepeche Mode tager en række tigerspring i årene 1981-1993; fra \"en-finger-analoge-synthesizere\" til digitale synthesizere, sampling og brug af såkaldt almindelige instrumenter, som vi i foredraget vil se eksempler på gennem lyd, billede og video. \n\nVi skal også høre om sangskriver Martin Gores tanker om håb, lys og mørke gennem sangene, som oftest er i dur.\n\nStefan Teilmann Laub Nielsen tager os med på rejsen gennem musikhistorien og deler ud af sin store viden om Depeche Mode.\n\nStefan Teilmann Laub Nielsen er komponist, musiker, forfatter, lærer, lektor og har en cand.mag. i musikvidenskab.\n\nStefan Teilmann arbejder desuden med korprojektet Elektrokor med KOREt, hvor Depeche Modes numre fortolkes flerstemmigt i akustiske og elektroniske udgaver, samt med Depeche Mode-coverbandet USELESS.",
+    "date": {
+      "start_timestamp": 1774548000,
+      "end_timestamp": 1774555200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "2730 Demoteket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.736249999999984,
+      "longitude": 12.421250000000015,
+      "bounds_ne_lat": 55.73749999999998,
+      "bounds_ne_lng": 12.422500000000014,
+      "bounds_sw_lat": 55.734999999999985,
+      "bounds_sw_lng": 12.420000000000016,
+      "plus_code_global": "9F7JPCPC+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/1868334403826283/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618966677_1297265045771215_2900003167179384073_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=05qqZpgcOkwQ7kNvwF9M7dM&_nc_oc=AdmmeRIXqEPSAZtyLjDJQcL6BOkEHLBCndfZ8Jy3clkgu069of-xTndxO2SZc2YYtpo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=BDGz3LXtHqrdYu6OjQJDVw&oh=00_AfvEvR24-ryn0jRmgUcq9nzdFJlFGFbrNZFxfjiCDuGejA&oe=69867F84",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  },
+  {
+    "id": "2082302939251768",
+    "name": "Tech Talk – sociale robotter",
+    "description": "Tech Talk – sociale robotter\nRobotterne kommer – men gør det noget? Få en fyraftensøl, mens Morten Roed Frederiksen fra IT-Universitetet gør os klogere på, hvordan robotter kan afhjælpe angst.\nMed den gamle skrækfortælling \"Robotterne kommer!\" er det ikke underligt, at vi mennesker kan blive lidt teknologi-angste. Men måske kan fremtidens robotter rent faktisk hjælpe med angsten.\n\nSociale robotter på plejehjem har øget trivslen for ældre, men området rummer potentiale for meget mere.   \n\nMed udgangspunkt i robotteknologi, interaktionsdesign og menneskelig psykologi vil Morten Roed Frederiksen fra IT Universitetet fortælle om, hvordan teknologi kan engagere, støtte og berolige på måder, der opleves naturlige og meningsfulde. \n\nUndervejs kan du nyde en fyraftensøl eller -vand. Medlemmer af Biblioteksklubben får den første kvit og frit. Meld dig ind her.\n\nHvem er Morten Roed Frederiksen?\nMorten Roed Frederiksen er med til at forme den næste generation af sociale robotter, som skal gøre en reel forskel for både børn, familier og behandlere. Han har arbejdet med at gøre teknologien mere levende, nærværende og tryghedsskabende og dermed styrke kommunikationen mellem mennesker og maskiner. \n\nPå baggrund af dette arbejder han med at udvikle robotter, der kan hjælpe børn med angst. ",
+    "date": {
+      "start_timestamp": 1774455300,
+      "end_timestamp": 1774458000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "2730 Demoteket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.736249999999984,
+      "longitude": 12.421250000000015,
+      "bounds_ne_lat": 55.73749999999998,
+      "bounds_ne_lng": 12.422500000000014,
+      "bounds_sw_lat": 55.734999999999985,
+      "bounds_sw_lng": 12.420000000000016,
+      "plus_code_global": "9F7JPCPC+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/2082302939251768/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/617496898_1297249985772721_203275518287067027_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lA5wW6g8PegQ7kNvwGoFYlY&_nc_oc=Admkus3wjlDAigQwCMw3GpVk7nUqDzOqtTvlFNmMe0ASUyVflnuiGekdbPX4CwUaNpU&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=wRWehV7seX1s2-YaJo6Kcw&oh=00_AfuZL2zxfPFRDNTw9lHy8ehWHIBiWRU-zjN6sdwHvQl2yQ&oe=6986835F",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "2730 Demoteket",
+    "page_url": "https://www.facebook.com/2730.Demoteket/events/"
   }
 ]

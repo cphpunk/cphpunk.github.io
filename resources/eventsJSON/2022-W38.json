@@ -10,25 +10,25 @@
     },
     "location": {
       "name": "Polychrome",
-      "address": "Røde Mellemvej 28",
-      "city": "Amager Fælled",
+      "address": null,
+      "city": "",
       "country": null,
-      "latitude": 55.65106250000001,
-      "longitude": 12.592437500000003,
-      "bounds_ne_lat": 55.65112500000001,
-      "bounds_ne_lng": 12.592500000000001,
-      "bounds_sw_lat": 55.65100000000001,
-      "bounds_sw_lng": 12.592375000000004,
-      "plus_code_global": "9F7JMH2R+CX",
-      "plus_code_local": "MH2R+CX",
+      "latitude": 55.668062500000005,
+      "longitude": 12.597437499999998,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.597499999999997,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.597375,
+      "plus_code_global": "9F7JMH9W+6X",
+      "plus_code_local": "MH9W+6X",
       "plus_code_locality": "Copenhagen, Denmark",
-      "copenhagen_district": "Amager Vest"
+      "copenhagen_district": "Amager Øst"
     },
     "url": "https://www.facebook.com/events/612548637137194/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/479712724_1099538735306155_3705434271679517721_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6Kl_L_jGRoUQ7kNvwHbeF2U&_nc_oc=AdlNI9HF7331zsHPw38a3mB5Tn3yESrZawJ2xh_ShDYjW_lLv1LtHjjYoM1wI2QZ-BI&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=55kwsZm4KFYKRP_9xo5U7A&oh=00_Afo5d63KGrZNHU3QkIIoFZUELausn4xC5Zcg23iwAFJUUw&oe=69703001",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/479712724_1099538735306155_3705434271679517721_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=o9bLdR3OwBsQ7kNvwG3RFpl&_nc_oc=Adk0CEdP3G0mlURtipCiLcHVsLGPm-kZIXrrwvCZ__RNkkOHSbSN5u1LDPXO07GeMps&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=4cSoo86MM-kp5lKn6Mn-2A&oh=00_AfvhKqHxaXiA4_93qJyQC0ghhtEKAOYpvyaUMgdUPQjHAw&oe=69869981",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "2 x Record Release - \\",
+    "page_name": "Polychrome",
     "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
   },
   {
@@ -57,10 +57,10 @@
       "copenhagen_district": "Amager Vest"
     },
     "url": "https://www.facebook.com/events/498255281650966/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/476895267_1099533748639987_7065512844712742876_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zi3B4ISx5Q8Q7kNvwHqDZHB&_nc_oc=AdmLSKf1gdCG6vBGK2Rq96bTA1r1usogzq9PNw8RMBdZdZQs0AHa8lUe2eBwFLvgpgA&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=BbgsBGHJ5ghijpIT-9c2IQ&oh=00_Afqdhz_GaywGrQRvECoPd2aVKfYt34q1AXGS_L6IMONasg&oe=69703205",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/476895267_1099533748639987_7065512844712742876_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=pXUJ8P-NvzcQ7kNvwGFANXL&_nc_oc=AdlTiDquSLobf0308rhEKmmB6wlbM73Lk7gHa_zLQVP6Q2fhufPPrzFJOTAHpFLvkvw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=SAUu6opePBFXehCnetijOg&oh=00_AfvmeP8oCRKf6P3dcS0dbunNh9FEk4T4jzX8VUT3Twxm5g&oe=69869B85",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "2 x Record Release - \\",
+    "page_name": "Polychrome",
     "page_url": "https://www.facebook.com/profile.php?id=100057501157471&sk=events"
   }
 ]

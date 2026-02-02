@@ -3641,7 +3641,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/796869579825785/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/576823880_1256638163160276_8863935651089826010_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MIZzny9guuQQ7kNvwHs6LZh&_nc_oc=AdnBKYcbBJgK4DyAsnG_K_MUWz5LchFK-KRUlgdPEHpscDo6ZztuQkYHSRoauJhF494&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=Oi01Zp6wrmnyZ1OMOyC4RQ&oh=00_AfpdmmMWefFdMCrborVTLUVuh7uUpHyBLGH4wh_PakgkRw&oe=69702B01",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/576823880_1256638163160276_8863935651089826010_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1fbtsJYP8iAQ7kNvwGZ0u_H&_nc_oc=AdnmCZE1jeuPmDq-JXhaKNvCGqvHciyk9a3WLKq1741uEHLxlhVOwTKfkzj9tyVOyUM&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=7wpq1UlIC2_HSICXuyEvhg&oh=00_AfuyIbQWEzBzAQJgxXjaSzHh-uLR-lwvbW7oCdJGfkKQXQ&oe=69869481",
     "tag": "SHOPPING",
     "platform": "Facebook",
     "page_name": "Jægersborggade",
@@ -4606,5 +4606,37 @@
     "platform": "Facebook",
     "page_name": "Villa Kultur",
     "page_url": "https://www.facebook.com/villakultur/events"
+  },
+  {
+    "id": "797663903057765",
+    "name": "RELEASE PARTY: behind city walls - hvor solen falder (EP)",
+    "description": "Kalder alle bcw'ere!!\n\nFredag den 14. november udgiver vi vores næste EP. Den hedder 'hvor solen falder', og udgivelsen vil vi gerne fejre med alle jer, der støtter os og lytter til vores musik. \n\nDerfor inviterer vi sammen med Sorte René til release party onsdag den 12. november fra kl. 17.00. Her skal vi helt eksklusivt høre EP'ens fire sange over anlægget, før EP'en overhovedet er udkommet. Og så spiller vi et kortere akustisk sæt med nogle af sangene fra EP'en. \n\nVi giver en gratis øl, og så skal vi ellers bare hygge os <3 ",
+    "date": {
+      "start_timestamp": 1762970400,
+      "end_timestamp": 1762977600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Sorte René",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6851875,
+      "longitude": 12.552562500000008,
+      "bounds_ne_lat": 55.685249999999996,
+      "bounds_ne_lng": 12.552625000000006,
+      "bounds_sw_lat": 55.685125,
+      "bounds_sw_lng": 12.552500000000009,
+      "plus_code_global": "9F7JMHP3+32",
+      "plus_code_local": "MHP3+32",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/797663903057765/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/574367648_1395765652557344_6601561252193811492_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mCx3a65RypEQ7kNvwHI4q22&_nc_oc=AdmdsxssJ2RIKuew8NLWrcitE_9rjkhP34B4XGA5ISxX44zfXCTCFEk2y6hKNgep4t4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=rh1lTsu1gAt4uevrwfMJnw&oh=00_Afv03csN3mfD5TNY92SJWZfXEFKFsJQ48EcKZk5k20OBYA&oe=69867A30",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Sorte René",
+    "page_url": "https://www.facebook.com/sorterene/events"
   }
 ]

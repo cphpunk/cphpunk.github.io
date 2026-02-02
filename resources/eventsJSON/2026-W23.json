@@ -25,7 +25,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1011973100926383/",
-    "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/596440231_1391855562310393_6239097797752098507_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6iWYOJUbTIIQ7kNvwFDh0Te&_nc_oc=AdngOIPHuLhKL3vkcBe_zG5KRkNZOOkm5gaR6v92ldEykSdMUtlQz-_BYZfeHM1fYkU&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=bR90Uz49mliAa1NXgxhF8Q&oh=00_Afq1dpTmOjVMQuMka49dXeohmTwFA0P4BQKUBKMFUj0VUQ&oe=69701FD1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/596440231_1391855562310393_6239097797752098507_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FLGdNukvynwQ7kNvwHtXUrW&_nc_oc=AdlOQzyOS9ehSa-fyOwnWgBm-Dv5bPQBGUb-hlBBxyJGi5w8FdSDEH1P-3eLI_CYyfs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=McROaJGJygotxx2jEr9m7A&oh=00_AfuswsDjVWemqAqXA4TZzW7jY3tHtmlWDgy9FdRFln657g&oe=69868951",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",
@@ -57,7 +57,39 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/736522908709624/",
-    "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/600290147_1391832475646035_2947912238492130106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=l7vcOeXRtoMQ7kNvwGqrlQF&_nc_oc=AdloC0fctGgw6rH70mnt8tFZWdr-fQlWPatcgSUFPgN5Ey_WjPUNSRlkau0jY4zrVwc&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=Rxk5rsMcN4dxSEawnxotzg&oh=00_AfpR39ismwb4ZnVxg1q_WpP5YgdquXBVw5jgq8DSQkajeQ&oe=69702392",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/600290147_1391832475646035_2947912238492130106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MZCKdG1O_FUQ7kNvwErWXpZ&_nc_oc=Adn3wdbhz_Dfax7dMUZbHoy7AXH0OkgVqVHXXGp0CPpCbtTms0MuZXjpa_7Ru1AAZ7Q&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=vVFaWTKyji1gfw4oRDhszA&oh=00_AftgD-Zq7WOmDIcyEkvrH2VtkepvhTyfy8W-gccQBAQbkw&oe=69868D12",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DISTORTION",
+    "page_url": "https://www.facebook.com/cphdistortion/events"
+  },
+  {
+    "id": "1450329413330474",
+    "name": "Distortion X Rådhuspladsen Friday – Zar Paulo, Lord Siva, Sira Jovina, Von Quar",
+    "description": "Distortion X Rådhuspladsen\nFriday 5 June 2026\n17.00-00.00\nCopenhagen Town Hall Square\n\n\nSurprise! We're moving into new and exciting territory together with Soundvenue.\n\nWe're bringing some of the best Danish pop and rock outfits to the streets – let's sing along, scream along and get goosebumps together.  \n\nZar Paulo, Lord Siva, Sira Jovina and Von Quar will share the stage at Distortion X Rådhuspladsen on Friday 5 June 2026. First time doing Rådhuspladsen on a Friday – expect fun happenings and DJs between the shows.\n\nPS: We will still be doing X Rådhuspladsen on Wednesday 3 June 2026 – stay tuned\n\n\n⚡️ Tickets: www.cphdistortion.dk/tickets\n⚡️ Instagram: www.instagram.com/cphdistortion\n⚡️ Newsletter: www.cphdistortion.dk",
+    "date": {
+      "start_timestamp": 1780671600,
+      "end_timestamp": 1780696740,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Rådhuspladsen, København V, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67593750000002,
+      "longitude": 12.569187500000012,
+      "bounds_ne_lat": 55.676000000000016,
+      "bounds_ne_lng": 12.569250000000011,
+      "bounds_sw_lat": 55.67587500000002,
+      "bounds_sw_lng": 12.569125000000014,
+      "plus_code_global": "9F7JMHG9+9M",
+      "plus_code_local": "MHG9+9M",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1450329413330474/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/623773089_1430205205142095_3227138115366007422_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W_eiCRCVOe0Q7kNvwFZGwcv&_nc_oc=AdkIKgC8z651TZRTvSjplprOBavEJE86gl4_Kn2Hs--q_VrSwSU14Y8TZAXlRm_5yM0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=mgbWA5IPHqUow3HjgY0lzw&oh=00_AfuQdZEb8apCorg7yc22s5W0kLqaD1hHlfr_y3YfdBfn5w&oe=698673CA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "DISTORTION",

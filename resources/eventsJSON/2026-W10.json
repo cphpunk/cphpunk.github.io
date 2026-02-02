@@ -57,7 +57,7 @@
       "copenhagen_district": "Vesterbro-Kongens Enghave"
     },
     "url": "https://www.facebook.com/events/2007938736318469/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/494597636_1484083602951743_3207119918396498698_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nz6SmUXaNeYQ7kNvwEAqJgN&_nc_oc=AdmGCivXQeq2icDnaZmpE6oMprb3bNTb6_bzIk2EQxfiZ1ZNw0QaLGQnB-Z72ksRMw4&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=BZv2tuS0K4h8I5U7Od1G5w&oh=00_AfrnQy3f7gU4OokHDs2Hjcw121unYOo0G-aYlF8ji1r3sA&oe=6970442E",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/494597636_1484083602951743_3207119918396498698_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=p69kiXN6DuIQ7kNvwH9K9A-&_nc_oc=Adl1r53XBaRFO4ouIx5WR68LmzCsE3SCV42oKm3208JYOuxu5E12qkq2m5BHHaa8qtY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=zE83oGN0tkoMKRm7x-citA&oh=00_AfthXK7WRcqAlxGiSwQ5il0f-YLyf1QLbJCElS_ElwsyuQ&oe=6986756E",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Basement CPH",
@@ -89,7 +89,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1102654368738875/",
-    "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/598277316_1210658354586425_2430945962525766304_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=n3MOD-8D9h4Q7kNvwGB-Buq&_nc_oc=Adk-HmOR5t5OMK02YOOZkd65yrdStuwoNukIw_uroNTqmPTW6HdqbjJ7NP-0VKbUKCs&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=UMzt1a41QXRyIwybYXKAow&oh=00_AfosxB3SVhhYaij3PzI2erHIH0c_pudIjRbAPRyhs6EDIw&oe=69702A7B",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/598277316_1210658354586425_2430945962525766304_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Ge94z9sYFVcQ7kNvwGdU4ZD&_nc_oc=Adlz1QUjISoYV-VlHwyzCri-i5NVUIVBRmM-iHB2Hs9WNMtpkv5OU0LH6SkHOSfC2gk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=pchsdSYvfZsRp39ajvoI7A&oh=00_Afty8gPygjDCPGGojou6zYlizKCYtgTxSO5wmpOZUG_bLg&oe=698693FB",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -138,8 +138,8 @@
     },
     "location": {
       "name": "Hangaren",
-      "address": null,
-      "city": "",
+      "address": "Refshalevej 185",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.69143749999999,
       "longitude": 12.617062499999989,
@@ -153,10 +153,234 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/947219251332798/",
-    "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/616453800_1402588744899174_2183264890629565654_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dOSN5M76RJcQ7kNvwGgb35_&_nc_oc=AdnwesV5NO-62ybK5fc1UXfrabU4f_TpW8zDpRPZTCoFtZ63FlxOBxcN0UBjKE2SR8E&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=vJVrIsnrjkbpDzGFhOewJA&oh=00_Afqa978Ihn532BHn_8zqRZxIfE7X9IN8Vgk4TUCbd8XVfw&oe=69701EAD",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616453800_1402588744899174_2183264890629565654_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_3oWTVrdAYAQ7kNvwFePupg&_nc_oc=AdnbDniqi-r94d11G2KFV8zyEDtK6Gpd4gCBGlaoFg5NnSyIhnbwbKiJqsh-SERPa-8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=nOvLITCmO0KXctWp1emb_g&oh=00_AftjDmuTwAhyGamb1Vu6AeU81xo3bYZ1lJuJ9Y97CuG3Cg&oe=6986882D",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
     "page_url": "https://www.facebook.com/HangarenCopenhagen/events"
+  },
+  {
+    "id": "850922674661476",
+    "name": "(O)ther",
+    "description": "Performancekunst, livemusik, drinks og DJ.\n\n(O)ther er en én-dags festival for samtidskunst inden for genrerne performance, lydkunst og installation, arrangeret af det internationale kunstnerkollektiv Fever. Til festivalen forenes eksperimentel kunst med musik, natteliv og streaming. Otte billedkunstnere og fire musikere slipper monstrene løs i Basement under temaet “(O)ther” og inviterer publikum til at deltage i en udstilling, som kommer til at føles snarere end ses – og hvor grænserne mellem værk, rum og krop opløses. Temaet (O)ther er inspireret af Simone de Beauvoir’s bog “Det andet køn” og filmen “Alien”.\n\nI en kælder på Enghavevej, træder man ind i et landskab skabt af up-and coming kunstnere og musikere, hvor genrer, værker, lys og vibrationer smelter sammen. Her lader vi (O)ther vokse frem, som en puls i mørket.\n\nMedvirkende kunstnere: \nSophie Dupont, Diane Mahín, Jeremi Biziuk, Jon Skygge, Agathe Ostenfeld, Lorenzo Holder, Lotus Rooijakkers Plazier, Per Hoier, og Josie Amadonna.",
+    "date": {
+      "start_timestamp": 1772812800,
+      "end_timestamp": 1772820000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Enghavevej 42, 1674 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/850922674661476/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/624321508_1714489333244501_165698147286961466_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IjwAj9GekH8Q7kNvwH_h7OP&_nc_oc=AdlVSvDvkP7x5BH-UkuO16HqUAVkG5I4KgHH6NjsULw1s6Du2OgLW64058JB_cFiA38&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=WH_JQu_-fYT3SrHXxUyEig&oh=00_AfvemnLqnMO5gf8veEUGbyZSbXXOyBxOmmJPlWrCGn8Gzg&oe=698669A6",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "1280750590553699",
+    "name": "Dana Alshihaby (PS/SY) + Natasha Imani (DA/MY) | Basement",
+    "description": "▄▄▄▄▄▄▄▄▄\nForsalg: 120kr. (+ gebyr) / Dørsalg: 140kr.\nDøre kl. 20.00 / Koncertstart kl. 20.30\nBilletlink: https://billetto.dk/e/dana-alshihaby-natasha-imani-billetter-1790039 \n▄▄▄▄▄▄▄▄▄\n\nOplev Dana Alshihabys harmoniske sammensmeltning af vestlige og østlige musiktraditioner og Natasha Imanis sårbare RnB med tabubelagte tekster.\n\n\nDana Alshihaby\n\nDana Alshihaby er en sangerinde, der forener sjælfulde traditioner fra arabisk musik med moderne musikalske udtryk. Hendes dybe rødder i arabiske musikkulturer bringer liv til fascinerende tonearter og rytmer, som hun udforsker og forvandler i sin kunst. Med en passion for at bryde kulturelle grænser og bygge bro gennem musik, blander Dana sprog og musikgenrer i en unik og gribende rejse, der inviterer publikum til at opleve magien i mødet mellem forskellige verdener.\n\nPå scenen ledsages Dana af den virtuose oud-spiller Bilal Irshed og den dygtige kontrabassist Rasmus Møldrup. Sammen skaber trioen en harmonisk sammensmeltning af vestlige og østlige musiktraditioner, hvor oudens varme, orientalske klang smelter sammen med kontrabassens dybe, jazzinspirerede toner. Resultatet er en atmosfære, hvor musikken overskrider kulturelle skel og fylder rummet med en uforglemmelig, vibrerende energi.\n\nLYT: linktr.ee/dana.alshihaby\nFØLG: https://www.instagram.com/dana_alshihaby/\n\n\nNatasha Imani\n\nDansk/malaysiske Natasha Imani laver organisk og melankolsk RnB, hvor autenticitet og sårbarhed er i højsædet. Hendes mantra er, at intet skal være for tabubelagt at skrive om. Hun vil ikke begrænses, men skrive om de følelser vi alle sammen går rundt med. Det skal være menneskeligt og helt uden skam.\n\nI 2023 udgav hun sin debut EP ‘Violate Me’, som behandler større livstematikker og er en opsummering af en særligt kaotisk tid i hendes liv, hvor grænser bliver overtrådt både frivilligt og ufrivilligt. Med titelnummeret vandt hun ugens upcoming på P3 og i 2025 har selvsamme nummer sikret hende en plads som 1 af 10 udvalgte til KarriereKanonen.\n\nLYT: linktr.ee/natashaimani\nFØLG: https://www.instagram.com/natashaimani/",
+    "date": {
+      "start_timestamp": 1772996400,
+      "end_timestamp": 1773009000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Enghavevej 42, 1674 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1280750590553699/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616795712_1707333280626773_8711005337510912315_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qDaSHBy_RB8Q7kNvwGHSsPt&_nc_oc=Admd5y7NK30Gw2RJvk5ID6gzwV6xHrIpXWO_cy16BUhJRzAtG0jbRwRGdrrePOZ9Lt4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=y3oCofw7PtdZM1bZ9kFv2A&oh=00_Afs_-RKYKS3FrFvStsV8L2sc68raP6NMr28NS5RJE6HJVQ&oe=69868162",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "1338743651067474",
+    "name": "Cold Night For Alligators - Support: Advocacy - BETA",
+    "description": "140 kr. i forsalg / 155 kr. i døren\nDøre kl. 19 / show kl. 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nCold Night For Alligators er et københavnsk band, der leverer emotionel og cinematisk alt-metal med store følelser, eksperimenterende lyduniverser og fængende hooks. Med over 3,5 millioner streams og en omfattende international livehistorik, inklusiv festivaler som Euroblast, Complexity Festival, UK Tech-Metal Festival og Radar Festival, har bandet markeret sig som en dansk eksportvare med format. I forbindelse med udgivelsen af det kommende album 'With All That’s Left' (Prime Collective, januar 2026) går bandet på en højt profileret EU/UK-tour med de danske metaldarlings i MØL – en turné, der lover at løfte bandets internationale profil endnu højere. \"'With All That’s Left' fanger vores nuværende energi og vision – råt, ekspansivt og dybt emotionelt, med hooks og atmosfærer, der trækker lytteren ind,” fortæller bandet.\n\n\n",
+    "date": {
+      "start_timestamp": 1772823600,
+      "end_timestamp": 1772830800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1338743651067474/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/602305536_1486383643490471_3869384891129835537_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IM523p324LEQ7kNvwGAtct7&_nc_oc=AdnY4jKDRMOS3De23Fx5W8lArXWAgE3zowCx-ShKp3hhBYk-XxwGNlEg0bJ6H0YZr3Q&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=5q5w_CSSU45gTtcQywNwAQ&oh=00_AftCEtXnWWvacdukmTRUlxS32I-k8wGnJCK4UfTQ0UDjPw&oe=698684F5",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "2181404065596734",
+    "name": "Soul Of A Woman - Aisha Fukushima, Jordan Jackson, Miss Agada",
+    "description": "Soul of a Woman is back for its third year for another joyful and inspiring evening of live music, celebrating the acoustic soulful sounds of female artists coming together. Carefully curated to present an evening of raw, and honest music, the evening will showcase 3 songwriters who will present new music releases whilst shaking the floor in the process with  their passion, power and provocation.\n\nThe theme is CONNECTION.\n\nWhen we are increasingly encouraged to focus on our differences, Soul of a Woman is a reminder to connect with each other through the music and artistic expression of these talented powerhouses. As per tradition, the audience is encouraged to stay after the music to mingle, and CONNECT, and can engage in the art of our resident artist for the evening : Rose Bendixen.\n\nBring a friend or date. It's going to be magical!\n\nDoors open - 18:30\nConcert starts - 19:00\n\nJordan Jackson\nHosted by Jordan Jackson, jazz and soul singer from London. Her music is rooted in heart and feeling with references of jazz, soul, and RnB. Inspired by her International Women's Day release, \"Soul of a Woman\" has become a yearly showcase event for local female artists to perform and collaborate. Aside from music curation, Jordan works as a choir director, and music educator. Her music has travelled globally with her music featured in the Netflix series \"The Victim's Games\", and tours across Europe. Jordan is currently preparing to release her debut album titled Back To Basics.\n\nAisha Fukushuma\nAisha Fukushima is an award-winning musical artist, public speaker, facilitator, and global justice strategist who fuses hip hop, art, and activism to inspire social change.  She has presented at major conferences including SXSW EDU and NCORE (National Conference on Race and Ethnicity), and shared event bills with luminaries like Angela Davis, Bernie Sanders, Herbie Hancock, and The Isley Brothers. Now based in Copenhagen, Denmark, continues to use her artistry and facilitation skills to build cross-cultural bridges, hold space for transformative conversations, and envision new realities rootes in joy, justice and colelctive thriving. Last year she released her first full length solo album titled. “There’s a sky above the roof”. which offers an important call to connect with ourselves, each other, and the earth.\n \n\nMiss Agada\nMISS AGADA (Agnes Agada) is an international singer, rapper, and songwriter known for blending soul, pop, and hip-hop with Nigerian influences. Based in Denmark and born to Nigerian parents, she creates music with a spiritual and, at times, social justice-oriented focus, inspired by legends like Fela Kuti. \n\nPhoto credits:  Amanda Thomsen, sound.nomadx and Feelipa",
+    "date": {
+      "start_timestamp": 1772991000,
+      "end_timestamp": 1772998200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "LiteraturHaus",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.555562499999994,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.555624999999992,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.555499999999995,
+      "plus_code_global": "9F7JMHR4+86",
+      "plus_code_local": "MHR4+86",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/2181404065596734/",
+    "image_url": "",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "LiteraturHaus",
+    "page_url": "https://www.facebook.com/literaturhauskbh/events"
+  },
+  {
+    "id": "1554005112322896",
+    "name": "CCFF 2026 Opening film: The Drunkmen's Marseillaise + Q&A",
+    "description": "(𝘋𝘢𝘯𝘪𝘴𝘩 𝘣𝘦𝘭𝘰𝘸)\nWe’re opening this year’s festival with 𝗧𝗵𝗲 𝗗𝗿𝘂𝗻𝗸𝗺𝗲𝗻’𝘀 𝗠𝗮𝗿𝘀𝗲𝗶𝗹𝗹𝗮𝗶𝘀𝗲. Pablo Gil’s documentary uncovers the remarkable mission of a group of young Italian anthropologists who, in 1961, secretly travelled through Spain during the Franco dictatorship to record songs of resistance that were forbidden at the time. Working discreetly and always under the shadow of censorship and fear, they captured voices that might otherwise have vanished. Six decades later, the rediscovery of those tapes makes it possible to revisit that journey through surviving documents, testimonies, and the recordings themselves. The film reconstructs the political climate in which these songs were preserved and explores the cultural value of safeguarding expressions created under repression. The Drunkmen’s Marseillaise reflects on memory, music, and the fragile traces of these stories.\n\n🎤 Director Pablo Gil Rituerto in conversation after the screening\n 🥂 Tapas & drinks to follow\n\nTicket sale opens soon so mark your calendars! ❌🗓️\n\nThanks to our sponsors ❤️❤️❤️ @azimutwines @melin_vin @vin_de_table @productescatalans\n-----\nVi åbner årets festival med 𝗧𝗵𝗲 𝗗𝗿𝘂𝗻𝗸𝗺𝗲𝗻’𝘀 𝗠𝗮𝗿𝘀𝗲𝗶𝗹𝗹𝗮𝗶𝘀𝗲. Pablo Gils dokumentar afdækker den bemærkelsesværdige mission udført af en gruppe unge italienske antropologer, som i 1961 i al hemmelighed rejste gennem Spanien under Franco-diktaturet for at optage modstandssange, der på daværende tidspunkt var forbudte. Ved at arbejde diskret og konstant under censurens og frygtens skygge indfangede de stemmer, som ellers kunne være gået tabt.\n\nSeks årtier senere gør genopdagelsen af disse bånd det muligt at genbesøge denne rejse gennem bevarede dokumenter, vidnesbyrd og selve optagelserne. Filmen rekonstruerer det politiske klima, hvori sangene blev bevaret, og undersøger den kulturelle værdi af at beskytte udtryk, der er skabt under undertrykkelse. The Drunkmen’s Marseillaise reflekterer over hukommelse, musik og de skrøbelige spor, som disse historier efterlader.\n\n\n🎤 Q&A med instruktør Pablo Gil Rituerto\n 🥂 Tapas og drinks efter visningen\nBilletsalget åbner snart, så sæt kryds i kalenderen! ❌🗓️\n\nTak til vores sponsors ❤️❤️❤️ @azimutwines @cansuriol @melin_vin @vin_de_table @productescatalans\n",
+    "date": {
+      "start_timestamp": 1772733600,
+      "end_timestamp": 1772740800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1554005112322896/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/622070590_1476820634448565_1791257113677435162_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KKLKmqYXRrAQ7kNvwEQIUpU&_nc_oc=AdkxO_9qNJr3q0oOaTzvLOOaEtFvGMDoZzbCFTj1dQo8fZ_tGgY34AgLFeOxNLqQdxg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=bbV0j_yQVo4b6DqCcYznIw&oh=00_Afv24bAlD8bNfp3C5xoZrg1rrcVNvT39qwFVvg7_EhFaMQ&oe=698668B4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  },
+  {
+    "id": "1270186478502285",
+    "name": "Copenhagen Catalan Film Festival 2026: Family Relationships ",
+    "description": "𝗖𝗼𝗽𝗲𝗻𝗵𝗮𝗴𝗲𝗻 𝗖𝗮𝘁𝗮𝗹𝗮𝗻 𝗙𝗶𝗹𝗺 𝗙𝗲𝘀𝘁𝗶𝘃𝗮𝗹 𝟮𝟬𝟮𝟲 is coming back with the Spring we are all craving! 🌱🌸☀️ From the 𝟱𝘁𝗵 𝘁𝗼 𝘁𝗵𝗲 𝟳𝘁𝗵 𝗼𝗳 𝗠𝗮𝗿𝗰𝗵, we will fill the Cinemateket with fascinating families and melodies of resilience from our land 🎶. With 𝟯 𝗳𝗶𝗰𝘁𝗶𝗼𝗻 𝗳𝗶𝗹𝗺𝘀 𝗮𝗻𝗱 𝗮 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝗿𝘆, the festival aims to bring the richness and plurality of todays Catalan cinema to Copenhagen. In addition to the screenings, there will also be tastings of Catalan products 🍷, Q&A sessions with some of the directors 🎤, and live music!\nFollow the event to discover the full program (very soon!!!) 👀🫢\n\nThanks to our sponsors ❤️❤️❤️ @azimutwines @melin_vin @vin_de_table @productescatalans\n\n----\n\n𝗞ø𝗯𝗲𝗻𝗵𝗮𝘃𝗻𝘀 𝗞𝗮𝘁𝗮𝗹𝗮𝗻𝘀𝗸𝗲 𝗙𝗶𝗹𝗺𝗳𝗲𝘀𝘁𝗶𝘃𝗮𝗹 𝟮𝟬𝟮𝟲 vender tilbage med foråret, vi alle længes efter! 🌱🌸☀️ Fra den 5. til den 7. marts fylder vi Cinemateket med fascinerende familier og melodier om modstandsdygtighed fra vores land. Festivalen viser tre spillefilm og en dokumentarfilm og har til formål at bringe rigdommen og mangfoldigheden i nutidens katalanske film til publikum i København. Ud over filmvisningerne vil der også være smagsprøver på katalanske produkter 🍷, samtaler med nogle af instruktørerne 🎤 og live musik! Følg begivenheden for at se hele programmet (kommer snart)! 👀🫢\n\nTak til vores sponsors ❤️❤️❤️ @azimutwines @cansuriol @melin_vin @vin_de_table @productescatalans\n",
+    "date": {
+      "start_timestamp": 1772733600,
+      "end_timestamp": 1772917200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": "Gothersgade 55",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1270186478502285/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/615823245_1473992088064753_6692410679882682523_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2JImW84v9fQQ7kNvwHo6gwl&_nc_oc=AdnKadKFc58qxrepoN_EvTPBU9sQ9lzPjw8ZKnPWAhOi-WMpQyEELTMF1RdVvQsI9DU&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=DXH8fPifrG4gC7cisIujMg&oh=00_AfsmhIelwCaRQf_rGGjAKmC9Phe94nnpXOV9PnT0bwaJxw&oe=69866BBA",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Catalan Film Festival",
+    "page_url": "https://www.facebook.com/catalanfilmfestivaldk/events"
+  },
+  {
+    "id": "kk-salsa-jam-feat-little-havana",
+    "name": "SALSA JAM feat Little Havana",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Little Havana er et autentisk salsa-orkester med rødder i den cubanske musiktradition og blikket rettet mod nutidens internationale salsascene. Musikken spænder fra afslappede, traditionelle son-numre til energiske salsa- og timba-arrangementer inspireret af Cuba, Puerto Rico, Colombia og New York.\n </p>\n <p>\n  Orkestret ledes af vokalist og güiro-spiller Diana Meldgaard, der med stor autoritet og varme samler bandet og publikum. De erfarne musikere leverer et levende og dansevenligt udtryk, hvor spilleglæde og fælles energi er i centrum.\n </p>\n <p>\n  Et af Little Havanas kendetegn er deres kreative fortolkninger af kendte popnumre i salsa-arrangementer. Genkendeligheden skaber en åben indgang til musikken og gør koncerten tilgængelig for både garvede salsaentusiaster og nye lyttere. Med mange års erfaring fra salsa-, latin- og popscenen har Little Havana opbygget et stærkt sammenspil og et repertoire, der inviterer til bevægelse og fest.\n </p>\n <p>\n  PROGRAM\n  <br/>\n  kl. 20.00 dørene åbner\n  <br/>\n  kl. 20.20 salsa-opvarmning/fællesdans (20 min.)\n  <br/>\n  kl. 21.20 Little Havana (1. sæt)\n  <br/>\n  kl. 22.10 salsatek + danseshow\n  <br/>\n  kl. 22.45 Little Havana (2. sæt)\n  <br/>\n  kl. 23.45 salsatek\n  <br/>\n  kl. 00.30 sidste omgang i baren\n  <br/>\n  kl. 01.00 tak for i aften\n </p>\n <p>\n  DJ's: Sergio Bedoya og Jacob Speake spiller old-school salsa, timba, cubansk son samt lidt bachata og merengue.\n </p>\n <p>\n  Til SALSA JAM kan du opleve og blive en del af Københavns pulserende Salsa-scene. Dansegulvet er åbent for alle, og vi starter aftenen med fælles danseopvarmning. Orkesteret på scenen skifter fra gang til gang, men det er altid med autentiske cubanske melodier og pulserende percussion.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1772910000,
+      "end_timestamp": 1772928000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/salsa-jam-feat-little-havana",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-01/Design%20uden%20navn%20%2841%29.png?itok=wdHuBi4E",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

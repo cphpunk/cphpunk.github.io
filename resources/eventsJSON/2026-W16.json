@@ -158,5 +158,37 @@
     "platform": "KK",
     "page_name": "Dansekapellet",
     "page_url": "https://dansekapellet.kk.dk/events"
+  },
+  {
+    "id": "kk-grarup-allstars-0",
+    "name": "Grarup Allstars",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Med DMA-prisen for Årets Blues Live cementerede Grarup Allstars deres position som et band i absolut topklasse – også langt ud over bluesgenren. Anmeldere og publikum fremhæver igen og igen bandets evne til at skabe koncerter, der både bevæger og begejstrer.\n </p>\n <p>\n  Grarup Allstars er et rendyrket live-band, hvor musikken får lov til at leve i nuet. Her er der plads til spontanitet, samspil og fordybelse, og koncerten udvikler sig i takt med stemningen i rummet. Resultatet er en intens og helstøbt oplevelse, som hver gang føles unik.\n </p>\n <p>\n  På scenen står nogle af landets mest markante musikere: soulsaxofonist Niels Mathiasen, kendt fra blandt andet Gnags og Poul Krebs, guitarist Uffe Steen, bassist Niels Nello Mogensen, trommeslager Esben Bach og organist Rasmus Stenholm. I front står Margrete Grarup med en vokal, der balancerer råstyrke, nerve og musikalitet på fornem vis.\n </p>\n <p>\n  Bandets liveudgivelser That’s What Love Can Do – Live og Steamrolling Live vidner om et orkester i konstant bevægelse og med et ekstraordinært sammenspil. Publikum og anmeldere beskriver koncerterne som gåsehudsfremkaldende, euforiske og musikalsk overbevisende – en helhedsoplevelse, der sætter sig fast længe efter sidste tone.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 17/4\n  <br/>\n  Kl. 20.00 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 150 kr. + gebyr / 170 kr. ved køb i døren\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1776448800,
+      "end_timestamp": 1776456000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/grarup-allstars-0",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-01/GAS-livePR.png?itok=7nTAp5eB",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

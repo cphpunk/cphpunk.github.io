@@ -222,5 +222,37 @@
     "platform": "Facebook",
     "page_name": "Madboks",
     "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1983158325562037",
+    "name": "NYE 2025",
+    "description": "Mangler du et sted at nyde en stille og rolig nytårsaften, så tag toget til Jylland. Alternativt kan du have en fest på Sorte René.\nHusk at booke bord og som altid \nINGEN FYRVÆRKERI INDENFOR!",
+    "date": {
+      "start_timestamp": 1767200400,
+      "end_timestamp": 1767240000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Åboulevard 50, Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6851875,
+      "longitude": 12.552562500000008,
+      "bounds_ne_lat": 55.685249999999996,
+      "bounds_ne_lng": 12.552625000000006,
+      "bounds_sw_lat": 55.685125,
+      "bounds_sw_lng": 12.552500000000009,
+      "plus_code_global": "9F7JMHP3+32",
+      "plus_code_local": "MHP3+32",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1983158325562037/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/604851535_1387229706427223_5829402649335870783_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=EWhAkGXxucUQ7kNvwE51QSt&_nc_oc=AdmKcbUMDWICY77QUE6TWMqHR0wduHxjSgg5-HelvsmbgXmll3VmXnHPa4foxopIm6M&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=kd3L2nRL0piHJ6CpBb3V5A&oh=00_AfsrfcncRbw2gS-AkjPo_hc-M7sZ0FvYhRmlUDdj2TiQaA&oe=69867812",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Sorte René",
+    "page_url": "https://www.facebook.com/sorterene/events"
   }
 ]

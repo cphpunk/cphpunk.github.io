@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-fastpoholmen",
+    "name": "Fastpoholmen",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Når Fastpoholmen går på scenen i Kulturhuset Islands Brygge den 26. september 2026, er der lagt op til en koncertoplevelse, hvor musik og publikum smelter sammen. Bandets særlige lyd bevæger sig frit mellem nordisk melankoli, elektroniske flader og varme rytmer inspireret af reggae, ska og afro – et udtryk, der både inviterer til bevægelse og fordybelse.\n </p>\n <p>\n  Publikum kan se frem til et sæt, der rummer både nye numre og velkendte favoritter som Dudu, Himlen og Över. Fastpoholmen er kendt for deres intense liveenergi og deres evne til at skabe inkluderende koncertoplevelser, hvor stemningen opstår i fællesskab mellem scene og sal. Aftenen byder på stærke hooks, tydelig spilleglæde og en atmosfære, der sætter sig i kroppen og bliver hængende længe efter sidste tone.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag 26/9-26\n  <br/>\n  Kl. 20.30 / Dørene åbner kl. 20.00\n  <br/>\n  Forslag: 175 kr. + gebyr / Køb i døren: 200 kr.\n </p>\n <p>\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1790447400,
+      "end_timestamp": 1790452800,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/fastpoholmen",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-01/Design%20uden%20navn%20%285%29.png?itok=0jOsEGwm",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]
