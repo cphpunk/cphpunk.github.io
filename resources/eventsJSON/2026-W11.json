@@ -10,8 +10,8 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": null,
-      "city": "",
+      "address": "Sjællandsgade 12a",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -25,7 +25,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/797601426083948/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/545710232_775306695240656_7260444037786937681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lFNams_WZLcQ7kNvwHaaUui&_nc_oc=Adl1exruTx49c4gRUzhK_JwDWhEM9FndJQWBoPCsqCtEE49wtdtcG6CVLj72tv2Iqkg&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=QkKJHS_AQ8ZxQuVdZW8XsQ&oh=00_Afu3cdU2QhK31UNSKrFtmrUbrA53aHKc2EifoL9xfiY8wA&oe=69868FC1",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/545710232_775306695240656_7260444037786937681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qgVA064G5EQQ7kNvwHNova7&_nc_oc=AdlEW4n2BCnB8LbZiotNJdRs6NJGkF_Hyh9DR34Yqw1tWJxSiq0ImlP7eXqydlgLj2M&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=6mWNB9zZ5v3iNWEHVE_MOQ&oh=00_AfvlyksnYsrPn8eb6hN9-34kPSDHQsd5678sMhtSVlccgg&oe=698B9D81",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -75,7 +75,7 @@
     "location": {
       "name": "Metronomen",
       "address": "Godthåbsvej 33",
-      "city": "Frederiksberg, Denmark",
+      "city": "Frederiksberg",
       "country": null,
       "latitude": 55.686062500000006,
       "longitude": 12.533437500000005,
@@ -89,11 +89,11 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/618785837620363/?event_time_id=618785840953696",
-    "image_url": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/530989902_1327373019393320_6704728941681178316_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=gy89Um3YD3gQ7kNvwHyFADi&_nc_oc=AdnudHnIhUrfIL0eOspqBxH1xhSDjWcBfBZIoGjFvRfpeHfDTnA4Cm1R-kb88o85jpw&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=1Ru3UUyVoJtd9tTLPnjB2Q&oh=00_AfoC_0DzcT984UBsyJSseW89G-tyhON7OFo7EsFcW0q7Sg&oe=6966DA65",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/530989902_1327373019393320_6704728941681178316_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fOFMSKhAk7AQ7kNvwE7jB2M&_nc_oc=AdlBRozkTx9_pXVqO_9h4fgogvZ9VKYAGnxTsjh0kNbOOcrJN5hb1eHE_-gHuLOWbQI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=GAtAQCaiiFmOjY55BGOHcg&oh=00_Afss4mKDbvlJ3YGdnWclpHk0KcXTZz8_lyKyaVPNxL79bQ&oe=698BC465",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "Metronomen",
-    "page_url": "https://www.facebook.com/metronomenfrb/events"
+    "page_name": "CHANGE_ME",
+    "page_url": "CHANGE_ME"
   },
   {
     "id": "kk-jazz-og-strik",
@@ -170,8 +170,8 @@
     },
     "location": {
       "name": "K.B. Hallen",
-      "address": "Peter Bangs Vej 147",
-      "city": "Frederiksberg",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.67756250000001,
       "longitude": 12.49481249999998,
@@ -185,7 +185,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1431788332282045/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/577815372_1281788590643304_7318932791819755458_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=O4xELQhET5IQ7kNvwEQoPBV&_nc_oc=AdnMzwy6nrRopLlNjExL3Hg6lnsUhNSBKFp810Txh1Xr90xuB66mNTKplDB0nCxORuI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=calscL9xrWdZLcYzHJwrNQ&oh=00_AftmvxIOK-gOvW0fxi_NJ4lCE2ipH0_oL8lx-0U_941CrQ&oe=69869801",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/577815372_1281788590643304_7318932791819755458_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=j6Bmr6kApQIQ7kNvwGJT2mH&_nc_oc=Adk2o3bWyhB5XeqpPmeGwZ_TvUZg3-aonT9Z39WBGEiOZH0CtKaHGsl8HA5EjaG8Fgk&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=kWdM-TisYi7OQVhHsYUuKQ&oh=00_AfsDEOD83OsQO_nd92u-H-O2YZ2bqemWdjDC6_2YPqsWjg&oe=698BA5C1",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -217,7 +217,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/2039966726478771/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/490902436_1113802884108543_307858018677401676_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=efZRc_OS8y8Q7kNvwGfhP5N&_nc_oc=Adm_C3YbGkvMKfTVo55JNCd5mkerVXsTwvvcHrVx5K8TiJdt0e5kAZ_hpQiMZ5cjgUc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=7L7VRFKHD-cTeRQFJdOeyQ&oh=00_AftN2iXEBsDO-xrOyYomQgEnz2NjE6w0T_zwFs0f8w3hfw&oe=69869A37",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/490902436_1113802884108543_307858018677401676_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RMlqiRKO88cQ7kNvwErDbip&_nc_oc=AdmFPqmO2Cys-EBiaDghR6l_U_GkvQQOqFRxCLYV5vfYZ4hrlImACUJqqOA1uK-mWbU&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Fi-p1sXXIZJjzT1in4Jkzw&oh=00_AfsY2fOIa6MPr-Vwv-oHiMuhoOdNFsEq1R-vZbf5_j_nmw&oe=698BA7F7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -249,7 +249,7 @@
       "copenhagen_district": "Østerbro"
     },
     "url": "https://www.facebook.com/events/924995139968079/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/626002948_2026608368118544_1393102560808376719_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=53ewxvaV4SIQ7kNvwEAp4bo&_nc_oc=AdlLTXl98sORWo2HHFuWV9y3gqhCPx6lZXZff6LW3HygqCYo7PB_Mxyqzy7wTd2EG2A&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=q8kxYOOHOn4L_DnTwn6KcQ&oh=00_Afuq6DC5zIb-kRb5gspKqPqdjbSVjBcYcqlP2OkPOd8OSQ&oe=69867D2F",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/626002948_2026608368118544_1393102560808376719_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=XPU7ITHj-pQQ7kNvwFP_Z-U&_nc_oc=AdkXt546msiganCJ8Vbl8mvz5OBS90VWxSo07p9bPyW8F-P7gROznAChYNtYyuzPi1A&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=O-ht8YWeXsP0GsywMNDuRw&oh=00_Afs5sdBwnRfDUjipTUR4vWgK-TI1IWXuGu6BgAj8OQ6sPQ&oe=698BC32F",
     "tag": "ART",
     "platform": "Facebook",
     "page_name": "Villa Kultur",
@@ -266,8 +266,8 @@
     },
     "location": {
       "name": "Hangaren",
-      "address": null,
-      "city": "",
+      "address": "Refshalevej 185",
+      "city": "Copenhagen",
       "country": null,
       "latitude": 55.69143749999999,
       "longitude": 12.617062499999989,
@@ -281,7 +281,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/4116235688689566/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618167002_1406435064514542_1528178501894402106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=c37apAEhwNQQ7kNvwHKHba4&_nc_oc=AdkNVb02S1z9eVHkhOSeiTe_onaDVg0kUpeKKX5wLXgjDqIdYNif7hmjAn00Q-n738k&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=wPISldoX4K8AVnIiOJWplg&oh=00_AfuL74PLIz_mWxUB2Fxj5KQBVla-WUes648TcIIvGuGorg&oe=698676C3",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618167002_1406435064514542_1528178501894402106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MI0TJ-nhi_8Q7kNvwGDNqaL&_nc_oc=AdlscJNvUd9rnOGfwTsX9eAGkwoGr1gpXteR_5cperRqchVBEYRP0foJLgxm7tK3to4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=JO7ceqaPCM-xp9Zf6Y6gow&oh=00_AfsxMQTuvXm8glOrd6iVET7UYsg7gLvt5PX95fegEw1i7w&oe=698BBCC3",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -313,7 +313,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/939031742630953/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/623643690_1412322563925792_3636930862640879738_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dk70eUPrvaYQ7kNvwFPO6QV&_nc_oc=AdkqYWR7z_KLwXjVfBv2ncd2gGI8BAbVn52D7vZAMoIU9j_pwgyLQsYHfM5ysypkzx4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=1xBgxsjJj556nHOIKxwCiw&oh=00_AfttxVhZm147vFm_Yt-PP8paLNG7qu6fRKXi4_zo-Eq6WA&oe=69868C1D",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/623643690_1412322563925792_3636930862640879738_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Na-DyrFEB8EQ7kNvwEkbKFr&_nc_oc=Adlikwm5XH72WnUkRO5rrKPu1uK0CGx3LiQX3vCEotF73ZUHrb7PdjX1J1tSRBfpDz0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=DEv3AxgUZe1UmkznB01ETw&oh=00_AfswwkWSw9RXLQybtPXojV9LDEitiTm4vtm94eeOBQf19w&oe=698B99DD",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -330,8 +330,8 @@
     },
     "location": {
       "name": "Hangaren",
-      "address": "Refshalevej 185",
-      "city": "Copenhagen",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.69143749999999,
       "longitude": 12.617062499999989,
@@ -345,7 +345,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/928214796397903/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/622800763_1412318750592840_7336255732735525242_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cIYA0x5_QKUQ7kNvwH3552Y&_nc_oc=AdlqRtfWONFzegexA94CY10phvBe0QbxpkBo06Qoc5gCNHotPJNmYSGE26bTxOecsOI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=wUetDihFv1mLirTXUgWuEw&oh=00_AfvctfAMUOmVPHz3jhjCz_5_9SpKm-sAvnvq0BAYpY1pEA&oe=69869337",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/622800763_1412318750592840_7336255732735525242_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=GMfcv52FhRkQ7kNvwFYmdBd&_nc_oc=Adl1DxHgbDTJp-JZPgMsHUPHx_MnIiuZqGmF3dpN26L-x7OxOqZiaw5Yxsb62l0F4-A&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=lQu-PAO5JctSois7iutyXw&oh=00_AfsMaB-HybXv9n6qOmUsXAX8Hw5c72Nsk47OVVI_RuFh0A&oe=698BA0F7",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Hangaren",
@@ -377,7 +377,7 @@
       "copenhagen_district": "Frederiksberg"
     },
     "url": "https://www.facebook.com/events/1314133462995290/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/553205971_1240386161450214_901159777130432187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ix2U4mlGbFMQ7kNvwESRY93&_nc_oc=Adkn--jwkDriv6-yb0-bI8DGnQmVkNr_Er9NPLipdcAVjWCdTB5VTBEY8j4IPL2OZdc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=bf1d-bFo37_U3GyjNx4izg&oh=00_Afu1LtqkouUquMuhP-7JFXvJJevQMwwEg1Yhc_1cmQ3QRg&oe=69868864",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/553205971_1240386161450214_901159777130432187_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=mNFUCXT-Xq4Q7kNvwEZNB3r&_nc_oc=Adl3WKJZ7_Aq9aOjbajE1rv3pJ4TYwZOKqAwY_ybvvFBirEa6uk9H2unJVetWn5k564&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=BNUMpiPVtls5oy9Bo4cmzQ&oh=00_Afsbp1298ZUETh5fgvvq_rNTwyFLAnz-oE-j4TJbmSaDGw&oe=698BCE64",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "K.B. Hallen",
@@ -409,7 +409,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1261666562689361/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616372098_122106222789212179_2965866289154861467_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4TQcxGq9B4wQ7kNvwGrfYAN&_nc_oc=AdkCwfqN8f-QgHDH0SlyAWYCTbvKy8b340MgNSG0jOWzbitP8BZw0mIVyKvZ5rIMes4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ytrETkmXtVCOe9EnBkEOpg&oh=00_Afv6xk6d3-H42Z9SlfXvtXuwF2ON0I3wEtglRmBAtjN8mw&oe=69869B79",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616372098_122106222789212179_2965866289154861467_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QvD3-bYVw4sQ7kNvwGaBZhE&_nc_oc=Admu63EQezuc09AhyESvOUde7Dw66f9uX9g-SX2J6VkZEJBB0FXBS_cZTbQum-Ps_rQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=P3ovdrcA1sRBKB3FSU2prQ&oh=00_Afu0Que7q4c7ngfpvIv97tF7DB8hx-fp-E3AFbJPmTcKyg&oe=698BA939",
     "tag": "COMMUNITY",
     "platform": "Facebook",
     "page_name": "CPH:DOX",
@@ -441,10 +441,170 @@
       "copenhagen_district": "Unknown / Not Copenhagen"
     },
     "url": "https://www.facebook.com/events/907239128483376/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618102514_1297321772432209_2538998688053098335_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=th11wvagidEQ7kNvwFAsiVC&_nc_oc=Adnq7qwbHQxxLetpUHZCk_WWFpmoNe3urOWS3cO4JkQGTsnnVg9xwHoc3R_rmXhsCk8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ShGgTQ1Tvpo2YxKDSLPfYQ&oh=00_AfsNctSoRh9_nI6dUXCQoZ4BP38CN4gMut3Vd5Xj1J99og&oe=69869BC7",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618102514_1297321772432209_2538998688053098335_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=q4fYshb7xGAQ7kNvwEd_G-o&_nc_oc=AdmQS4VzJJBXZ3sRe69yajtvj8zW-15fTZw2U228DUn_tVGTOsUjwhx23pIV7sri8cQ&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=j7xpRMgm4BAEL_Q0Q58pNg&oh=00_AfsaUA_wrugwXTpGqFZkvrvPurohnqAuIAAwlNiagvLw6A&oe=698BA987",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "2730 Demoteket",
     "page_url": "https://www.facebook.com/2730.Demoteket/events/"
+  },
+  {
+    "id": "1397808855393894",
+    "name": "Musical table read series",
+    "description": "A social series for musical lovers. Come sing through the score of a musical, have a few drinks, and make some friends! Sign up by writing to cphmusicals@gmail.com to get more details.\n\nWe choose a musical in advance and send it to our mailing list. Those who wish to join sign up and will be assigned parts in advance so you can prepare. On the day of, we meet along with our wonderful piano accompanist and sing through the entire score, including reading the libretto (script) if applicable.\n\nRSVP - TICKET\nTo help ensure we cover our costs — and to try to avoid last-minute cancellations — we ask that you MobilePay 50 kr to our Box account: 5896PH\n\nWhen you arrive, you can get one free drink (wine, beer, or soda). If you can’t make it at the last minute, the 50 kr is not refundable. ",
+    "date": {
+      "start_timestamp": 1773595800,
+      "end_timestamp": 1773606600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/993180512523399/?event_time_id=1397808855393894",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/503560248_698932019408004_6288846904158234466_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J7am30Txmj0Q7kNvwGZvg6F&_nc_oc=AdmwuM74ukai08uxx1DiKLvhdN0K3m0K_yc9rI9M_EKJRjsQ4iFdMfaqO4PesP_WLds&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=QOntlqgHSCO7w_sVDj8lMg&oh=00_AfsA0fYq-kxYnt2QoJq6jWiLHMxW6lVfYQzmnR0jTKtbRw&oe=698BB248",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "CHANGE_ME",
+    "page_url": "CHANGE_ME"
+  },
+  {
+    "id": "1556472458973609",
+    "name": "Den Lille Kulturnat 2026",
+    "description": "(English below)\nKom med til en magisk eftermiddag, hvor København og Frederiksberg åbner dørene i børnehøjde ✨👧🧒\n\nFredag den 13. marts 2026 kl. 16-20 inviterer Den Lille Kulturnat alle børn og deres voksne til unikke oplevelser i hele byen. Det er Kulturnatten, som I kender den - bare særligt tilrettelagt for børn og familier, hvad end man er til fart og spænding, klippe og klistre, glimmer og kongekroner, naturens mysterier, eventyr og skattejagt eller bare gerne vil prøve det hele.\n\nProgrammet byder på et væld af oplevelser for børn, og er tilrettelagt, så selv de mindste kan være med og stadig nå hjem og i seng til tiden 🌙\n\nMuseer, biblioteker, kirker, slotte og teatre er blandt arrangørerne, og de er allerede i fuld gang med at skabe underholdende, lærerige og legende arrangementer, som kun kan opleves denne ene aften under Den Lille Kulturnat.\n\nProgrammet offentliggøres den 2. marts\nHer kan I begynde at planlægge jeres egen rute gennem byen og finde netop de oplevelser, der passer bedst til jer 🗺️\n\nKulturpas\nDet digitale Kulturpas kan købes fra den 2. marts på kulturnatten.dk.\n - Ét Kulturpas giver gratis adgang for op til to børn under 12 år\n - Kulturpasset giver også fri transport med bus, tog og metro i zone 1-99 fra kl. 15.00-21.00\n\nVi glæder os til at fylde byen med leg og fælles oplevelser, og til at byde jer velkommen til Den Lille Kulturnat 2026.\n\n_____\n\nFamily Culture Night​​​​​​​​​​​​ 2026\n\nJoin us for a magical afternoon, as Copenhagen and Frederiksberg open their doors, seen through children’s eyes ✨👧🧒\n\nOn Friday, 13 March 2026, from 16-20, Family Culture Night​​​​​​​​​​​​ invites children and their grown-ups to enjoy unique experiences across the city. It is the Culture Night as you know it specially designed for children and families.\n\nWhether you are into speed and excitement, arts and crafts, glitter and royal crowns, the mysteries of nature, adventures and treasure hunts, or simply want to try a bit of everything, there is something for everyone.\n\nThe programme offers a wide range of activities for children aged 2-5 years and 6-12 years, carefully planned so even the youngest can take part and still make it home in time for bed 🌙\n\nMuseums, libraries, churches, palaces and theatres are among the many venues taking part. They are already busy preparing entertaining, educational and playful events that can only be experienced on this one special evening during Family Culture Night​​​​​​​​​​​​.\n\nThe full programme will be launched on 2 March\nThis is where you can start planning your own route through the city and find the experiences that suit your family best 🗺️\n\nCulture Pass\nThe digital Culture Pass can be purchased from 2 March at kulturnatten.dk\n- One Culture Pass gives free admission for up to two children under 12\n- The Culture Pass also includes free public transport by bus, train and metro in zones 1-99 from 3-9 pm\n\nWe look forward to filling the city with play, curiosity and shared experiences, and to welcoming you to Family Culture Night​​​​​​​​​​​​ 2026 ✨💛",
+    "date": {
+      "start_timestamp": 1773414000,
+      "end_timestamp": 1773428400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "København, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1556472458973609/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/626312624_1452433843109083_2134017435592459236_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jjcZczWbZVYQ7kNvwHUsp9x&_nc_oc=AdntMDbTxxcg1CBv_UQPAVdmq8mQh0xXu0yvFD2vY34HOKUc0JY9yH5myXUGUHhTrxY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=4XPbmouWpeXd7hfNYRH0Kw&oh=00_Afto-NVDPvzFUg6z3qsRvEVcpvPmVSXAGvkAkHjx1ZY1Zg&oe=698BC518",
+    "tag": "CULTURE",
+    "platform": "Facebook",
+    "page_name": "Kulturnatten",
+    "page_url": "https://www.facebook.com/Kulturnatten/events"
+  },
+  {
+    "id": "2447284775702907",
+    "name": "NO TEETH BLUES BAND (DK) [DIRTY/LO-FI/BLUES]",
+    "description": "We say a heartfelt “MØJN” and welcome our friends from Jutland!\nNO TEETH is a new duo on the Danish scene. Although one drummer and one guitarist may sound like a slightly toothless constellation, the duo can bite back. \n\nWith roots in the Danish rock and heavy scene (De Forbandede, Slowjoint) they are moving into new territory in the world of blues rock. Toe-tapping drums and other things you can beat (!) added to dirty and swinging yellow riffs, with equal parts inspiration from both Dad Rock and Electric Blues. All played on homemade guitars, built from both cigar boxes, dog bowls and old oil cans.\n\nFirst release\nhttps://m.youtube.com/watch?v=d2tcHgyPHOU\n\nSecond release\nhttps://www.facebook.com/share/v/19xjJBzDWW/\n\nToolshed guitars instagram\nhttps://www.instagram.com/toolshed.guitars?igsh=Z3F2dm5hZndieTgw\n\nNo Teeth instagram\nhttps://www.instagram.com/noteeth_bluesband?igsh=NDNzaDQ2enhtODl4\n\nFacebook\nhttps://www.facebook.com/share/12LDJJphNu6/\n\n\nFree concert starting 21:00\nAs always : Support the Venue, Support the artist!",
+    "date": {
+      "start_timestamp": 1773309600,
+      "end_timestamp": 1773316800,
+      "timezone": "UTC+11"
+    },
+    "location": {
+      "name": "Lygten 29, 2400 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.70306249999997,
+      "longitude": 12.537312499999999,
+      "bounds_ne_lat": 55.70312499999997,
+      "bounds_ne_lng": 12.537374999999997,
+      "bounds_sw_lat": 55.702999999999975,
+      "bounds_sw_lng": 12.53725,
+      "plus_code_global": "9F7JPG3P+6W",
+      "plus_code_local": "PG3P+6W",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Bispebjerg"
+    },
+    "url": "https://www.facebook.com/events/2447284775702907/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/626732363_1444876294315950_2387875345058067402_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aO3VsOWY-1AQ7kNvwGQo9IE&_nc_oc=AdnxRzpnpKZl7RI__gGE8L-DStREyHMIX2giXd7OVMjTfSlkdeo2wgOHbsBUuhecwk4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=4R0TWY8FUUs-FJHIBfazBA&oh=00_AfskwSAZVtFR6K2APQkURwOhs0Aa0jK_nRU45-E-24JljQ&oe=698BB01F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Lygtens Kro",
+    "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "813045091786248",
+    "name": "Jorden Kalder: Yuturi Warmi - gratis filmvisning og diskussion",
+    "description": "[English below]\n\nJorden kalder på handling, på fællesskab og på forandring - vi svarer ved at mødes, se og tale sammen. Titlen er en opfordring – et kald fra vores planet i krise. Gennem filmene lytter vi til de stemmer, der i fortid, nutid og fremtid råber op om uretfærdighed, ødelæggelse og håb.\n\nI samarbejde med Husets Biograf inviterer Extinction Rebellion Danmark dig til en månedlig filmaften, hvor vi sammen dykker ned i fortællinger om civilt modstand og klima- og biodiversitetskollaps.\n\nHver måned viser vi en film, der sætter fokus på vores fortid, samtid og fremtid – og bagefter åbner vi op for en fælles samtale, hvor vi sammen reflekterer, deler perspektiver og finder håb og handlekraft i fællesskabet.\n\nDenne gang viser vi dokumentaren \"Yuturi Warmi – Resist Ants\" af Margot Tjolle, som følger en kvindeledet oprindelig modstandsgruppe i Ecuador, der konfronterer guldminedriftens vold. Inspireret af kuglemyren legemliggør de mod, idet de væver forfædres visdom og dekolonial feminisme sammen til en lysende handling af modstand, omsorg og geneksistens. Filmen er født ud af et samarbejde mellem filmskaber Margot Tjolle og Serena-samfundet og går ud over dokumentarformen. Det er en fælles fortælling– en bro mellem verdener – der forstærker oprindelige kvinders stemmer, når de genopfinder sameksistens og suverænitet i lyset af udvindingsindustrien. Deres modstand er ikke kun mod ødelæggelse, men for livet, sammenholdet og Amazonas' fremtid.\n\nMere info og trailer: https://www.margottjolle.com/yuturi-warmi/\n\nFilmen vises på spansk og kichwa med engelske undertekster\n\n📍 Hvor: Husets Biograf, Rådhusstræde 13, København\n📅 Hvornår: Dørene åbner kl 18.30, filmen starter kl. 19\n🎟️ Entré: Gratis \n\nProgram:\n18.30 Dørene åbner\n19.00 Film: Yuturi Warmi\n20.15 Diskussion\n\nEfter filmen holdes en pause inden vi samles for en samtale sammen med filmskaber Margot Tjolle, og siger tak for i aften senest kl 21.00.\nKom som du er, og tag gerne en ven (eller flere!) med. Vi glæder os til at se dig til en aften med film, fællesskab og forandring!\n\n______________________________________________________________\nENGLISH\n\nThe Earth calls for action, community, and change—we respond by meeting, seeing, and talking together. The title is a call to action—a call from our planet in crisis. Through the films, we listen to the voices of the past, present, and future crying out about injustice, destruction, and hope.\n\nIn collaboration with Husets Biograf, Extinction Rebellion Denmark invites you to a monthly movie night where we dive into stories of civil resistance and climate and biodiversity collapse.\n\nEach month, we will show a film that focuses on our past, present, and future—and afterwards, we will open up a joint conversation where we can reflect, share perspectives, and find hope and energy for action in our community.\n\nThis time, we are showing the documentary “Yuturi Warmi – Resist Ants” by Margot Tjolle, which follows a women-led Indigenous guard confronting gold mining’s violence. Inspired by the bullet ant, they embody courage, weaving ancestral wisdom and decolonial feminism into a luminous act of resistance, care, and re-existence.\nBorn from a collaboration between filmmaker Margot Tjolle and the Serena community, Yuturi Warmi – ResistAnts transcends documentary form. It is an act of shared storytelling — a bridge between worlds — amplifying Indigenous women’s voices as they reimagine coexistence and sovereignty in the face of extractivism. Their resistance is not only against destruction, but for life, connection, and the future of the Amazon.\n\nMore info and trailer: https://www.margottjolle.com/yuturi-warmi/\n\nThe film is shown in Spanish and Kichwa with English subtitles.\n\n📍 Where: Husets Biograf, Rådhusstræde 13, Copenhagen\n📅 When: Doors open at 6:30 p.m., film starts at 7 p.m.\n🎟️ Admission: Free \n\nProgram:\n18:30 Doors open\n19:00 Film: Yuturi Warmi\n20.15 Discussion\n\nAfter the film, there will be a break before we gather for a conversation with the filmmaker Margot Tjolle and say thank you for tonight latest 21:00.\nCome as you are and feel free to bring a friend (or more!) - we look forward to seeing you for an evening of film, community and change!",
+    "date": {
+      "start_timestamp": 1773079200,
+      "end_timestamp": 1773086400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Husets Biograf",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/813045091786248/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/621824370_1239820204945924_7016783078494756304_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CBmS3D7YqeQQ7kNvwENQpaU&_nc_oc=AdmqgfL_Y0C-xQO2tWu0P2rXpywN5rcWZ8ctX81k-LTS6ZNWpKWzjvj1fB6nGifbXKU&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ky-MMHc_Ie8fylQ2sdW5nw&oh=00_AftV-aQZ_CVDgyoZlraTKoebvMuExb1Dxuj03ELL6cX9dA&oe=698BC4B2",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Extinction Rebellion Danmark",
+    "page_url": "https://www.facebook.com/ExtinctionRebellionDK/events"
+  },
+  {
+    "id": "1459879975879761",
+    "name": "INTER:ACTIVE 2026: HYPERVIGILANCE",
+    "description": "INTER:ACTIVE 2026\n‘HYPERVIGILANCE’\n\nINTER:ACTIVE-udstillingen udforsker krydsfeltet mellem kreativitet og teknologi og undersøger hvert år, hvordan nye teknologier omformer kunst og samfund. Opdag årets udstilling med titlen HYPERVIGILANCE på Kunsthal Charlottenborg fra 11.-22. marts 2026.\n\nLæs om værkerne og køb billetter: cphdox.dk/da/interactive-udstilling/ \n\nKuratorisk statement fra Mark Atkin, Head of Studies på CPH:DOX:\n\"I en tid præget af digital overophedning, global uro og gennemgribende overvågning undersøger kunstnere i stigende grad den kulturelle og psykologiske tilstand af hyperopmærksomhed, som virker til at definere vores samtid. Værkerne i årets INTER:ACTIVE-udstilling fremviser den kollektive angst i et samfund, der er i konstant alarmberedskab, hvor vi kæmper for at bevare handlekraft over vores krop, stemme og omdømme. For queer-, handicappede og fordrevne fællesskaber er denne tilstand af hyperopmærksomhed dybt indlejret – et overlevelsesinstinkt i en verden baseret på kontrol og eksklusion. For andre er den blevet den nye normal, formet af 24-timers nyhedscyklusser, kapitalisme, autoritær vold og presset for at tilpasse sig i en verden, hvor vi konstant bliver overvåget.\"\n",
+    "date": {
+      "start_timestamp": 1773248400,
+      "end_timestamp": 1774204200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kunsthal Charlottenborg",
+      "address": "Kongens Nytorv 1",
+      "city": "Copenhagen",
+      "country": null,
+      "latitude": 55.6801875,
+      "longitude": 12.587937499999995,
+      "bounds_ne_lat": 55.68025,
+      "bounds_ne_lng": 12.587999999999994,
+      "bounds_sw_lat": 55.680125000000004,
+      "bounds_sw_lng": 12.587874999999997,
+      "plus_code_global": "9F7JMHJQ+35",
+      "plus_code_local": "MHJQ+35",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1459879975879761/",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/627084181_1427241865443454_7136358134692780952_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=1A67NfF3x1gQ7kNvwF-jW-c&_nc_oc=AdmKffdNDZ5nJ3qsPjfwIrr1I7aIkkV5HPnUFQlZBK4DdBm1LJyQecTBfEe3FSwjEtI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=VJPMI5czqHNxDqlHWqJOjA&oh=00_AfsxALsk43CMDKssc-pt26PzI0gRfYDQ41A-2IbBUXMXBw&oe=698BB203",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
   }
 ]

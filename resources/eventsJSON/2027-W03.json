@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-kaya-bruel-synger-jomfru-ane-band",
+    "name": "Kaya Brüel - Synger Jomfru Ane Band",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  I en følelsesmættet og personlig oplevelse fører Kaya Brüel publikum tilbage til rødderne af Jomfru Ane Band's musikalske arv. Kaya synger med en dyb forståelse og kærlighed for sin mor, Sanne Brüel, og Sanne's tvilling, Rebecca Brüels, ikoniske sange.\n </p>\n <p>\n  I hendes akustiske fortolkninger bliver publikum inviteret ind i erindringer fra barndommens dage, hvor tonerne blev skabt ved klaveret i hjemmet. Fra det legendariske Sweet Silence studie til koncerter landet over, genopliver Kaya de uforglemmelige øjeblikke, hvor tvillingerne Brüel, med deres smukke og stærke stemmer, satte tonen som frontfigurer i det samfundskritiske og populære rockband. Hendes nærvær og nære forhold til materialet bringer historierne bag sangene til live, og Kaya deler minder fra tiden, hvor hun lå på en sofa og nynnede med under indspilningerne.\n </p>\n <p>\n  Koncerten med Kaya Brüel og hendes nøje udvalgte orkester lover en unik rejse gennem Jomfru Ane Band's musikalske univers. Med Kayas stemme som den nærmeste arvtager og formidler bringes publikum tilbage til en svunden tid, hvor musikken spillede en afgørende rolle i det store verdensbillede.\n </p>\n <p>\n  Du vil kunne se frem til en aften med stadig alt for aktuelle sange om krig og kærlighed, præsenteret med Kayas unikke stemme og musikalitet, der skaber en rørende forbindelse mellem fortiden og nutiden.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Lørdag 23/1-2027\n  <br/>\n  kl. 20 / dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 190 kr. + gebyr / 220 kr. i dør\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1800730800,
+      "end_timestamp": 1800738000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/kaya-bruel-synger-jomfru-ane-band",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-02/Design%20uden%20navn%20%2817%29.png?itok=EPO7LPKD",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]
