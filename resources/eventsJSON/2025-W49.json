@@ -3518,5 +3518,37 @@
     "platform": "Facebook",
     "page_name": "Jægersborggade",
     "page_url": "https://www.facebook.com/Jaegersborggade/events"
+  },
+  {
+    "id": "702711985855178",
+    "name": "MOJO X MARMELADE JUKE JOINT NIGHT",
+    "description": "MOJO X MARMELADE JUKE JOINT NIGHT\n\nMONDAY 1st December | 20:00-23:45 | \n\nMarmelade Culture invites you to a JUKE JOINT night at MOJO; an intimate showcase of standout voices shaping the scene today.\n\nJoin The Movement!:)\n\nADDRESS: Løngagsstræde 21C\nDOORS OPEN at 20:00\n\n\n///\tABOUT THE ARTISTS\t///\n\n\n\nHARRY EUCROW & THE SORRY LOT\nTake the voice of a coal mine, the words of a madman and the soundscape of dying alone – and you’ve got something quite similar to the sound of Harry Eucrow & The Sorry Lot. A cowboy-booted, booze-swilling folk music fanatic who weaves devastating sermons of death, loneliness and abuse to any audience of sinners that will have him, Eucrow butchers Americana and transgresses Folk Rock with the tragicomic stylings of a punk who got too worn to riot. Alone or along with his band, The Sorry Lot, Eucrow has graced stages from California to Copenhagen with his intricate style of gothic Americana, based on deeply evocative lyricism, stripped down instrumentation and a poet’s sense for the twisted and absurd. If you’re a worshipper of gravel roads and a friend of the gutter, you won’t want to miss it when Harry Eucrow comes to town. Harry Eucrow has been active as a solo act since 2020, and with The Sorry Lot since 2022. They have opened for international acts such as John Craigie, Carrie Nation & The Speakeasy and King Dude. In 2024 their second EP Songs of Death & Wine, came out, celebrated with a sold out show in Copenhagen. This release marks a shift in sound, diving even deeper into the gloomy wildness of Folk, Americana and Rock´n Roots.\n\n\n\nNORA QUINN\nNora Quinn is an Americana singer-songwriter based in Copenhagen, raised in Upstate NY. She values storytelling and lyricism in her energized, thoughtful original music. Her sound is often compared to Brandi Carlile, Hozier, and Suki Waterhouse. She can be found at noraquinnmusic.com and @noraquinnmusic on Instagram\n\n\n\nMAGNUS ROSSEN\nI grew up in a small, sleepy village, in a neighborhood like any other, surrounded by fields, good friends, and plenty of time. That sense of safety nurtured a calm temperament, grounded in its identity and its music. Over the years I've dabbled in most genres, but I've especially worked on becoming a skilled live musician with soul. I spent many years performing as an event musician, but in recent years I've begun writing and producing my own songs. \n\nOnly recently have I started performing my own original set. My style and music are the product of years of practicing in the garage, surrounded by second-hand gear and the questionable smell of motor oil and draft beer. The roots of my music are found in old-school country and rock, but it also contains modern elements from the singer/songwriter tradition. I deliver a confident and versatile vocal performance, blended with seasoned guitar playing and many years of experience as a host on stage. I've played at countless private parties, smaller festivals, and three times for Her Majesty the Queen, and now you have the chance to experience my songs in a brand new live-loop format, where the music can unfold even more.\n\nFind my music on Spotify or Instagram under Magnus Rossen, where all new releases are announced. \n\n\n.\n.\n.\n\nWHAT IS MARMELADE CULTURE?\nMarmelade Culture Is a music collective aiming to create artistic offline communities and forums. The group curates monthly events like concerts, open mics, jams and workshops with the goal of creating a space for electronic musicians in Denmark inspired by the songwriting- and jazz-scene. The group is also involved in radio and TV programs, as well as production tasks for various artists. \n\nFor our events, values like community, inclusion, safety, and curiosity are essential. We aim to create a space where people come first and where people feel free to explore art with sincerity. Our mission is to bring together, and strengthen the creative communities that already exist across different media, because we believe that new artistic forms emerge when these worlds meet.\n\n.\n.\n.\n\n",
+    "date": {
+      "start_timestamp": 1764615600,
+      "end_timestamp": 1764629100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mojo Blues Bar",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67568750000002,
+      "longitude": 12.573562500000023,
+      "bounds_ne_lat": 55.67575000000002,
+      "bounds_ne_lng": 12.573625000000021,
+      "bounds_sw_lat": 55.675625000000025,
+      "bounds_sw_lng": 12.573500000000024,
+      "plus_code_global": "9F7JMHGF+7C",
+      "plus_code_local": "MHGF+7C",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/702711985855178/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/592244929_821312257356755_862557385189111302_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=tewEhffzEDUQ7kNvwHvYCga&_nc_oc=AdnGSIqfwI9b_LcIGr9PxNiXpXoY_y24Re4Fc32YMcpX-cEBqfJo8ycewEhFR9h5jc4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=76-PY26s1D0Fvpmqcqby9g&oh=00_AfuzyILKV_bTfiebP6igx2SBXCqqYDPqp5cVLdWKcFeDaw&oe=69965463",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
   }
 ]

@@ -202,8 +202,8 @@
     },
     "location": {
       "name": "Sjællandsgade Bad",
-      "address": "Sjællandsgade 12a",
-      "city": "Copenhagen",
+      "address": null,
+      "city": "",
       "country": null,
       "latitude": 55.6934375,
       "longitude": 12.553437500000015,
@@ -217,7 +217,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/807923698437272/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cqog8bjZUeUQ7kNvwHESs_9&_nc_oc=AdmTUJ8s6sLZaYmBK3xwA80_5wkv3BksxHL9mCI51E1x0LyYx06iS8ONt1wIFIC8I94&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=sEtg4VdQMCOxQtSNC7Uocw&oh=00_AfuP5lHhW39u2p-R7crAjgZXnW2RGuJ30pDRKYxBYGXW7Q&oe=698BC705",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/545816235_775223721915620_4743012960792031610_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nyftwXqHfl8Q7kNvwEqhxZR&_nc_oc=AdklIojC6qsK9zZ6P0-x2Tr33uPs_RkzKr-fReLaHo-GOz9bN7wYchEdStuO6GHTX9A&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=CEge8AptU9h_Wlt4GJDLrQ&oh=00_Afvvs9Wk5c0S24K-gOyPNg13GUkcvaz7g63J83SNTWDGyg&oe=69965305",
     "tag": "LGBTQ+",
     "platform": "Facebook",
     "page_name": "FLINT kbh",
@@ -993,8 +993,8 @@
   },
   {
     "id": "4283511008546175",
-    "name": "Snuggle [UDSOLGT - venteliste!] // Loppen",
-    "description": "Kom med når indie-pop duoen, snuggle, fortryller Loppen med smukke, skæve popkomposiotioner, der kan få et hvert hjerte til at smelte, den 14. februar. \n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\nEntré: 195 kr. (inkl. gebyr)\nVenteliste: https://www.billetlugen.dk/event/snuggle-loppen-20789921/\nDøre: 21.00 // Koncertstart: 22.00\nhttps://loppen.dk/kalender/snuggle\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nDuoen snuggle består af Andrea Thuesen (kendt fra Baby In Vain) og producer Vilhelm Strange (Liss), og sammen skaber de et intenst og nærværende lydunivers, hvor eksistentiel uro og poetisk humor smelter sammen i smukke, skæve popkompositioner. Musikken bevæger sig i grænselandet mellem indie, post-rock og eksperimenterende pop – med guitaren som bærende element og et analogt udtryk, der emmer af varme og umiddelbarhed.\n\nPå scenen leverer snuggle koncerter, der føles som en indadvendt rejse – bløde vokaler og organiske arrangementer møder lydlandskaber, der føles både hjemlige og dragende fremmede. Det er musik, der kredser om nære relationer, tab, forandring og tilhørsforhold – og som ikke er bange for at være sårbar.\n\nsnuggle opstod i Københavns musikundergrund og blev for alvor født under lange jam-sessions og hjemlige eksperimenter mellem to musikalske soulmates. Duoen debuterede i 2023 med EP’en Calendula, og har siden markeret sig med det anmelderroste debutalbum Goodbyehouse på det toneangivende danske label Escho. Albummet blev skabt i en tid præget af store personlige skift – barndomshjem, caféjobs og relationer forsvandt – og det høres i musikken: en blanding af vemod, håb og en stærk fornemmelse af overgange.\n\nLive bringer snuggle denne følelse direkte ind i publikum – med nærvær, nerve og en unik lyd, der bevæger sig væk fra computeren og ind i det håndspillede og menneskelige. Musikken trækker på duoens intuitive sammenspil og modet til at stå i det uperfekte og ægte.\n\nGlæd dig til en koncertoplevelse, hvor det bløde og skrøbelige får plads – og hvor musikken inviterer til både eftertanke og samhørighed.",
+    "name": "Snuggle + support: Yangze [UDSOLGT - venteliste!] // Loppen",
+    "description": "Kom med når indie-pop duoen, snuggle, fortryller Loppen med smukke, skæve popkomposiotioner, der kan få et hvert hjerte til at smelte, den 14. februar. \n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\nEntré: 195 kr. (inkl. gebyr)\nVenteliste: https://www.billetlugen.dk/event/snuggle-loppen-20789921/\nDøre: 21.00 // Koncertstart: 22.00\nhttps://loppen.dk/kalender/snuggle\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nDuoen snuggle består af Andrea Thuesen (kendt fra Baby In Vain) og producer Vilhelm Strange (Liss), og sammen skaber de et intenst og nærværende lydunivers, hvor eksistentiel uro og poetisk humor smelter sammen i smukke, skæve popkompositioner. Musikken bevæger sig i grænselandet mellem indie, post-rock og eksperimenterende pop – med guitaren som bærende element og et analogt udtryk, der emmer af varme og umiddelbarhed.\n\nPå scenen leverer snuggle koncerter, der føles som en indadvendt rejse – bløde vokaler og organiske arrangementer møder lydlandskaber, der føles både hjemlige og dragende fremmede. Det er musik, der kredser om nære relationer, tab, forandring og tilhørsforhold – og som ikke er bange for at være sårbar.\n\nsnuggle opstod i Københavns musikundergrund og blev for alvor født under lange jam-sessions og hjemlige eksperimenter mellem to musikalske soulmates. Duoen debuterede i 2023 med EP’en Calendula, og har siden markeret sig med det anmelderroste debutalbum Goodbyehouse på det toneangivende danske label Escho. Albummet blev skabt i en tid præget af store personlige skift – barndomshjem, caféjobs og relationer forsvandt – og det høres i musikken: en blanding af vemod, håb og en stærk fornemmelse af overgange.\n\nLive bringer snuggle denne følelse direkte ind i publikum – med nærvær, nerve og en unik lyd, der bevæger sig væk fra computeren og ind i det håndspillede og menneskelige. Musikken trækker på duoens intuitive sammenspil og modet til at stå i det uperfekte og ægte.\n\nGlæd dig til en koncertoplevelse, hvor det bløde og skrøbelige får plads – og hvor musikken inviterer til både eftertanke og samhørighed.\n\nYANGZE\n\nYangze er Jakob Littauers soloprojekt, kendt for en alt-pop-lyd, hvor fængende melodier smelter sammen med progressive produktioner. Hans produktioner trækker på alt fra klassisk impressionisme til eksperimenterende elektronisk musik og bærer en blød vokal, der leder tankerne hen på nordisk kor, R&B og moderne pop.\n\nI sine seneste værker udforsker Littauer både lysere og mørkere toner med løst klingende akustiske guitarstrenge, formantbearbejdede vokaler, vokalklynger og detaljeret lyddesign samt følelsesladede tekster om liv og kærlighed på tværs af lande, levede, drømte og virtualiserede virkeligheder.\n\nYangzes diskografi inkluderer EP’en “Event Horizon”, udgivet via Escho, samt en række singler, remixes og compilationsnumre udgivet gennem labels som Posh Isolation og Foundation.FM. På trods af en begrænset diskografi har hver udgivelse sat sit præg — og opbygget forventning til et større, længe ventet projekt, som udkommer i 2026.\n\nGlæd dig til en koncertoplevelse, hvor det bløde og skrøbelige får plads – og hvor musikken inviterer til både eftertanke og samhørighed.",
     "date": {
       "start_timestamp": 1771099200,
       "end_timestamp": 1771106400,
@@ -1017,7 +1017,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/4283511008546175/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/559535146_1206074068221068_4559380548538831202_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=I0w1D8TNOJ8Q7kNvwEsQUbT&_nc_oc=AdnbrSpmabge6ygqPv2KBx8jnnAPol9R274_iOBKNW56xtmyMHGvOmBpJ-Bgiu5Xi1o&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=VwXA5qlvVQJvQj3U2UQ62Q&oh=00_Afuye8YcggfFmQWhltadmoEFmNiVUqFpmV_ULSiax9dflA&oe=698BCDFA",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/559535146_1206074068221068_4559380548538831202_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=HhGhxSp0ZbQQ7kNvwHMV1fB&_nc_oc=Adnip_jDc4FatW1biJQ5F8ECe0jasoHwPrC5qjrY9vy0i7hcQlxN_mBEjpq7kKYXGvQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=UCAkYoVoqYC_tS3dD013Fw&oh=00_Aftn_UqJTkrsV8_J3p9uOVNYWEJZrrY-HwnCTUCwvPZ0OQ&oe=699659FA",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Musik Loppen",
@@ -2305,7 +2305,7 @@
   },
   {
     "id": "698708489890826",
-    "name": "War of Destruction [SUPPORT: Slytter + Troop Transport + Brandsår]",
+    "name": "[FÅ BILLETTER] War of Destruction [SUPPORT: Slytter + Troop Transport + Brandsår]",
     "description": "Et sidste slag i Aarhus for et af Danmarks ældste punkbands. \n__________\n\nDØRE: 19.00\nKONCERT: 20.00\nENTRÈ: 130,-\n___________\n\nEfter mere end fire årtier på scenen er tiden kommet: War of Destruction, Aarhus’ og Danmarks mest vedholdende hardcore-punkband, spiller deres allersidste koncert i hjembyen. Den 14. februar 2026 rammer de Radar, hvor bandet én sidste gang vil lade raseriet, støjen og energien eksplodere foran et aarhusiansk publikum.\n\nWar of Destruction blev dannet i 1981 og satte hurtigt et markant præg på den spirende danske punk- og hardcore-scene. Med kompromisløs intensitet, rå energi og et samfundskritisk udtryk skabte de en lyd, der både var rodfæstet i den britiske hardcore-tradition og samtidig helt deres egen. Siden har de præget generationer af bands, stået på alverdens scener og udgivet plader, der stadig omtales som klassikere – fra Nazisvin og De Dødes Hvisken til comeback-udspil som Angst og senest Defibrillator (2024).\n\nFrontmand Hans Simonsen og resten af besætningen har aldrig gået på kompromis: War of Destruction har altid været et band, der insisterede på at spille hurtigt, hårdt og ærligt – uden filter og uden at tilpasse sig tidens trends. Derfor er det også med både vemod og stolthed, at de nu tager afsked med scenen i Aarhus.\n\nKoncerten på Radar bliver en fejring af over 40 års kompromisløs punk – og en aften, hvor gamle og nye fans kan samles om et af dansk punks vigtige kapitler. Forvent kaos, intensitet og et sidste sonisk frontalangreb fra et band, der aldrig har mistet gnisten.\n\nVi glæder os til at se dig <3",
     "date": {
       "start_timestamp": 1771095600,
@@ -2329,7 +2329,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/698708489890826/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/538331100_1186792203488014_4505639934822077544_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dz5XMARuP6IQ7kNvwEjxLQQ&_nc_oc=AdnnB0DFTjSx5-jbxoFgQiva19sVXYwTMA-sV1s0n13AhdcQn3X1-OFopv1H0r39BWs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=sGqTIRjlTLJnMe-0_PBoDg&oh=00_Afvkoy7vlma6YQgLfdRRwiIbBt_ijNGsAcnFN7ibBLHdSw&oe=698BD15A",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/538331100_1186792203488014_4505639934822077544_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=uxqlIQIWVXYQ7kNvwEIvAxA&_nc_oc=Adk45m4RjLdOmZS-x9j3PrLBJ-fzuBcxV-Hm7hw1BrzGGl4qsCmG6KlCBaR32z8RMGA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=t5xC3etAIgrjHZlcLdBHOA&oh=00_Afs0bFTbxrRzE6M6uKKh1FFpR10_dcjcHd017jvIK5RPEA&oe=69965D5A",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Radar",
@@ -3132,8 +3132,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/618468047_856715274060510_2105878027656640413_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=xvNKrPdh5u4Q7kNvwG9Y4WZ&_nc_oc=AdnBh3uiOlc8j3AYvNrv_5a9qjdAh7EebAGeOnFcJ9t42dq_JVSmw1ctM8tA2x04HH0&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=pjO0XaYhJayd1mhJnMA_Aw&oh=00_AfspgzNj4tWgkRar4GQ-jqMMrbw7nydmlwAs8UfcYXkboQ&oe=698BD1D8",
     "tag": "LGBTQ+",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "LGBT+ Medborgerhuset i København",
+    "page_url": "https://www.facebook.com/LGBTmedborgerhuset/events"
   },
   {
     "id": "1425271192537670",
@@ -3329,7 +3329,7 @@
   },
   {
     "id": "797923772854227",
-    "name": "orbit (DE) + support: M. Byrd (DE) // RUST – FÅ BILLETTER",
+    "name": "orbit (DE) + support: DJ ABI // RUST – UDSOLGT",
     "description": "\nORBIT (DE) + support: M. Byrd (DE)\n\nFind billetter: https://www.ticketmaster.dk/event/1486568026\n\n--------------------------------------\n• Døre 19.30 • koncertstart: 20.30\n• Billetter • Forsalg: 200kr • Dørsalg: 210 kr\n--------------------------------------\n\nMed lydlandskaber karakteriseret af rå akustiske toner og atmosfærisk synth har Marcel Heym, aka orbit, fundet en måde at udtrykke og fusionere en drømmeverden med billeder fra sit eget liv.\n\nEfter i sine tidlige tyvere at være blevet musikproducer og flyttet til Berlin, opdagede Marcel, at han ikke kunne finde lykken i den støjende metropol. Få uger efter at være flyttet fra Berlin og tilbage til sin hjemby, startede han sit eget projekt, beskrevet som en nostalgisk dedikation til hans rødder, og udgav derefter sin debut-EP Perspectives i 2020.\n\nI stedet for at være et glitrende nyt objekt i musikindustrien blev orbit i højere grad et samlingspunkt for kreativitet og et ægte fællesskab, både inden for og uden for internettet.\n\nI 2021 bad Marcel sit community om hjælp til at arrangere sin første turné — en DIY-turné med over 20 shows, der blev spillet i baghaver, skove og på private festivaler over hele landet. Ét år senere kunne han melde sin første officielle headliner-turné i Tyskland udsolgt, og året efter tog han på sin første Europa-turné.\n\nTil november 2025 udkommer hans debutalbum countless feelings but so few words.\n",
     "date": {
       "start_timestamp": 1771095600,
@@ -3353,7 +3353,7 @@
       "copenhagen_district": "Nørrebro"
     },
     "url": "https://www.facebook.com/events/797923772854227/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/562386100_1204756795022855_7915064447527752519_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=OY4yKKly_VIQ7kNvwG5uwk_&_nc_oc=AdnrwgNsPyxgO7h0xEIYxSak6SIRaOKRkAP5B9XwoafRZtGxY_T-xm9fzxerbI8uSTc&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=n6EBTjgYBTyhjjrlWqvmwQ&oh=00_AfuCIVslATckJ1u9GK-EcmZTnfG-qzad3gcp6q6oWZ7tzw&oe=698BB4EE",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/562386100_1204756795022855_7915064447527752519_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=zVyQ_VHWHN0Q7kNvwFBFez9&_nc_oc=AdnZPUKZGOvr8lkUVGgZe25cCtz_BFc_BZI3Mudq8_n2IkZ_wh6yxd_7R3WXxqhUPik&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=9QgyttbXP8JryeaXrGAlVw&oh=00_AfuqRbAOH8zjxeOtlTSsyrIRe4A4sSXsavisroYxZXVIHQ&oe=699640EE",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "RUST",
@@ -3388,8 +3388,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616563765_1410245533809754_2765369042450143508_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=3UO4dbeN4ZQQ7kNvwH5MhvX&_nc_oc=AdnCvliWCYMs-6zmcPDKO7K0aI5Q2IJCRcJJAL30HlRxJG2RzLNKVuwt5ecLxtSVt-4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Z4Kv3WBPJdFEn-Z6WB2ctw&oh=00_AfvinWNl0m1vNGcPanRAlBY4GAdJUiB5S-Kojo_WiTwO0A&oe=698BB699",
     "tag": "COMEDY",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Byens Lys Cinema",
+    "page_url": ""
   },
   {
     "id": "1049891463674148",
@@ -3548,8 +3548,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/547821025_1478450793920915_6067636350688103919_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0Ab5RpXL1KoQ7kNvwEX7jWc&_nc_oc=AdmFvi23pVrnJsNn9PERAFMoXDhroJlc1lBGmgb8E1zCYP6umLDFY_qoeZlqb3LRPrY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=TAb9p-Bp7CH5kLqpOTeqZA&oh=00_AfvshkZE-g_yZ5mpXo_0szHdjvdJe9QZVaybtYQVO6Bq-Q&oe=698BB13B",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Søhesten",
+    "page_url": "https://www.facebook.com/Sohestenbar/events/"
   },
   {
     "id": "1394807979325255",
@@ -3612,8 +3612,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/484298896_949301790743172_8435448579940730630_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Z6a6RqPkOxgQ7kNvwGmpLc_&_nc_oc=AdnYR_5aINVbLlSGTfYb5uLtruZnAg61w0l-ezYDfCGNPatU9E9QSihFB-wJBh3iX0c&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=KstOKYC2ILs0lKwtIKXQvA&oh=00_AftpMmB7Wi6JCwSup3ujt4xeog_5d4ZkA8PEnsPBRsXy6g&oe=698BB255",
     "tag": "YOGA",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
   },
   {
     "id": "1219069490038227",
@@ -3676,8 +3676,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/548743879_1478447610587900_969774512226499912_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=lksMiSbyNtcQ7kNvwHypBgY&_nc_oc=AdkdeF_5bQHUxyveDti-7XLIR95uoj_OFBXSzTHJ1iA_wULIx7aEC9FjOTIhlyr07vs&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=dGUWwqy-gcKZc5L-bALQXA&oh=00_AfuEjKNNix6_RbQCRPVFVvutC97tZr_1Fl3aQkTcKyAP7w&oe=698BC32E",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Søhesten",
+    "page_url": "https://www.facebook.com/Sohestenbar/events/"
   },
   {
     "id": "3047705882097486",
@@ -3804,8 +3804,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/486818448_981874164084257_4297530499865485170_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=x0KNm0FmOVYQ7kNvwFUA4Mt&_nc_oc=AdnLvSATtQq91rLJkZrWv8WOEcwzg3bJt6eTAeGRa2Z90L_jzwG4Wl3NV_0KKzYRJr4&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=44kxP9XyYNlz3m0XwrvsHQ&oh=00_AfukVRisxgdkaQ7Y9mw3Yu9wAnlasSmOwUemp5Miimtlpw&oe=698BC82F",
     "tag": "THEATRE",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
   },
   {
     "id": "1327804165405321",
@@ -3836,8 +3836,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/486707152_981874944084179_6522966356731953475_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=2WrbZuvVmR0Q7kNvwGEgNW9&_nc_oc=Adni-sIdGGMDQK3jFuJ3itqKPk7qIvroa9PVcD3A2W6628cyMdrAXuBaxwW6Tt4kzis&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=0I4-dR3wiRFLorhcwwhHjQ&oh=00_AfvMa75bh3vHDzCFpNPtb755EIPoEnmutvgNHlucgQ3WLw&oe=698BCD82",
     "tag": "THEATRE",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
   },
   {
     "id": "25425167950476386",
@@ -3964,8 +3964,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/622490276_1294292042723499_3577208058645176434_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=WxSR0zArVvwQ7kNvwEKUKdM&_nc_oc=AdkHHngFmrTgtXeSAAq--r_QoPQLy5-mt357BzqzZrn0zKg7YQvDCHCoI3jYpLOweuY&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=Al8dfnGzQIS_cxhZnW0wYA&oh=00_Afs1jYO2h_JSOEP3B5f4sJJiybBQGN-gpXvkAnRIFVTHtQ&oe=698B9C66",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
   },
   {
     "id": "1374162833961127",
@@ -4129,8 +4129,8 @@
   },
   {
     "id": "1509097763699629",
-    "name": "Amora // Operaen Christiania",
-    "description": "\nNEA Presents: Amora - A Night of love \n\nDancehall // RnB // Afrobeats // Reggae // HipHop\n\nThe Line up will be: \n\nMike Raw - Rizzaw The Nomad King\n\nSir Meyler\n\nJamal\n\nHotskull\n\nFigi\n\nRebel\n\nDj Phat Gyal\n\n\nSpecial Love potion drink available at the bar\n\nHappy Hour from 22:00-23:00 \n\nDoors open 22:00\nDoors close 03:00\n\n22:00-23:00 50kr\nAfter 23:00 100kr \n\n\n\n\n\n#neaentertainment #detskerhvorvier #jumpandskinout #rizzawthenomadking #nuelleraldrig #concertnea",
+    "name": "Amora @ Operaen Christiania",
+    "description": "\n💘✨ NEA Presents: AMORA – A Night of Love ✨💘\nEn nat fyldt med kærlighed, varme vibes og uendelig energi ❤️‍🔥\nTag din bae 💑, dine venner 🫶🏾 eller kom solo 😏 – AMORA handler om musik, bevægelse og connection 💃🏾🔥\n\n🎶🔥 Music policy:\n🎧 Dancehall 💃🏾 // 🎵 RnB 😍 // 🌍 Afrobeats 🕺🏽 // 🌴 Reggae 🌞 // 🎤 Hip Hop 🔥\nFra smooth love tunes 💕 til tunge beats der får gulvet til at koge 🍑💥\n\n🎧🎚 LINE UP:\n🔥 Mike Raw\n👑 Rizzaw The Nomad King\n🎶 Sir Meyler\n🎤 Jamal\n🔥 Hotskull\n🎧 Figi\n💣 Rebel\n💃🏾 DJ PHAT GYAL 🔥\n\n🍹💖 Special LOVE POTION drink i baren – kun denne nat 😍✨\n⏰🍸 HAPPY HOUR: 22:00 – 23:00\n\n🚪🕙 Doors open: 22:00\n🚪🕒 Doors close: 03:00\n\n🎟🔥 ENTRANCE:\n💸 22:00 – 23:00 → 50 kr\n💸 After 23:00 → 100 kr\n\nKom tidligt ⏰\nDans tæt 💃🏾❤️\nMærk kærligheden 😍🔥\n\n💘 AMORA – where love meets the dancefloor 💘🔥\n\n#neaentertainment #detskerhvorvier #jumpandskinout #rizzawthenomadking #nuelleraldrig #concertnea",
     "date": {
       "start_timestamp": 1771102800,
       "end_timestamp": 1771120800,
@@ -4153,7 +4153,7 @@
       "copenhagen_district": "Indre By"
     },
     "url": "https://www.facebook.com/events/1509097763699629/",
-    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/615419921_1325079282997300_6721236911692907305_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=CiENkmd9SnIQ7kNvwGuI5du&_nc_oc=AdmW8IGdmTjF7ds2o45jhYTL7xCCV9fZDrZ-7vY5StpwQB2oy8sPeAr3ep3mbI4NG8g&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=bsUuVieLU2lKh-0oX9YiZQ&oh=00_AfuJspQZGP1oog19mEcLd6URDGS72xfMQBQbRuDAiNMGcQ&oe=698BA189",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/633353653_1519709916824943_8797353255523892750_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=u9v1P3aGsAgQ7kNvwFlywzD&_nc_oc=Adk-smrmC-hcmb-i6Mxnj5j58KXlEjd0tAc5Udm-26mnPonBRQk9NmctczaXBZSkvfo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=azmt41KBRykGMzhB26gTaQ&oh=00_AftJZSJCgknaiMZ1YoigD8-fS-rXYy5T2-oBp2lMDszDhw&oe=69962F9F",
     "tag": "MUSIC",
     "platform": "Facebook",
     "page_name": "Operaen Christiania",
@@ -4188,8 +4188,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/531050675_1185901050236111_7828382998422507703_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=kFqUCItYLHsQ7kNvwGpY1uu&_nc_oc=AdkfIs7GdneBdT7cXBdMr36aJ5LguAs5YmWtTuN5U_ItjRZfCeSiVdRJEBnArGK7hD8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=UmvhOmh-cFnbUUTlDNGm5g&oh=00_AfugBT8CUo5tBEQEIPnGa3iCYu8l3UkyNG9wcBdMqwNsiQ&oe=698BCE92",
     "tag": "COMMUNITY",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Ungdomshuset",
+    "page_url": "https://www.facebook.com/UngdomshusetD61/events"
   },
   {
     "id": "1574759856904621",
@@ -4284,8 +4284,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/486644039_981877030750637_3673540088420469393_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=UwNTnFmSGXIQ7kNvwHiC8p5&_nc_oc=Adk784JZc7EaIxiwvGIefUlD6WZP5yQTjlXVDoE6zPFkzJB5J6eITBfSHzLtyxdKu80&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=k51G38f8eJdu_GPVyEHqmQ&oh=00_Aftm-m_h78g6snTGXSDvl9_EQ_P7ccnWuWuv1DtznD2epg&oe=698BBB85",
     "tag": "ART",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
   },
   {
     "id": "1498936291428895",
@@ -4316,8 +4316,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/486135131_981073387497668_5087515526357748152_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=IC8rIqdmyJgQ7kNvwHgcVd6&_nc_oc=AdlyqB05DbfGMNdq2j1SfTbu4Zbkjj_IOlyqe-fRInO7wgqTuAZYrA7rSljynHUcLN8&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ybbYGwibhyNWhhngn6fXuw&oh=00_AfuDmm4wfc5oudOPGt2Z5EANZKLw6wXYHyKSBeZYGoiTKw&oe=698BD215",
     "tag": "ART",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
   },
   {
     "id": "745988741901395",
@@ -4380,8 +4380,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/548211166_1478443167255011_1886296504662427724_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=P4uJ2FihJrQQ7kNvwHygCkx&_nc_oc=AdlIergMoQKj1u5gTrQ9SGaEJsn4TAXPUFUeLKdJ2wE4bccoyAocYxWkg4lZSraIrrw&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=HEkmezxUButfLRgRAkXwWA&oh=00_Afuwf-WLFse8N8oIxXnMmeDWm9irUi6UiTqHX_nN6hiyjw&oe=698BA05E",
     "tag": "QUIZ",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Søhesten",
+    "page_url": "https://www.facebook.com/Sohestenbar/events/"
   },
   {
     "id": "kk-communal-dining-with-kraftwerkets-folkekokken",
@@ -4478,5 +4478,965 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "849837654096422",
+    "name": "Vinterjazz: Final Descent Into Vinterjazz | HUSET ☉ Sold Out!",
+    "description": "☉ Festivalen er udsolgt\n\n\nTo aftener, to scener og ti acts, som alle udforsker randområderne omkring jazzmusikken – Fra manisk støjrock, kompleks math og monolitisk drone-rock, til minimalistisk shoegaze, solo-performances, elektroniske eksperimenter og så lige en enkelt afstikker til en ghanesisk percussion-legende.\n\nFinal Descent Into Vinterjazz er et samarbejde mellem Final Descent og HUSET, hvor vi på HUSETs to øverste etager byder på et dybt dyk ned i alt det, som jazzen også kan være.\n\nLineup: Nuri (TN) / Bali Snak (DK) / Basile Bremaud (FR) / Hands on Fire (INT) / Nightmaries (DK) / Nina Garcia (FR) / Okeyrema Asante (GH) / Portal Pets (DK/HN) / Selvhenter (DK) / Tanz Mein Herz (FR)\n\nDato: Fredag 13.02.26 & Lørdag 14.02.26\nDørene åbner: 18.30\nShow: 19.00\nPris: UDSOLGT\nVenue: Musikcaféen & Xenon, HUSET, Rådhusstræde 13, 1466 København\n\nProgram:\nFredag 13/02/2026\n18:30 Doors\n19:00 Okeyrema Asante (GH)\n20:00 Bali Snak (DK)\n21:00 Basile Bremaud (FR)\n22:00 Portal Pets (DK/HN)\n23:00 Nuri (TN)\n\nLørdag 14/02/2026\n18:30 Doors\n19:00 Selvhenter (DK)\n20:00 Nina Garcia (FR)\n21:00 Hands On Fire (INT)\n22:00 Nightmaries (DK)\n23:00 Tanz Mein Herz (FR)\n\n\nBali Snak (DK)\nEt harmdirrende vildskab af math-rock, støj og fritflydende energi.\n\nDet er uforudsigeligt, smukt og kaotisk når bali snak forlader det skraldede øvelokale på Nørrebro, og brager igennem med deres intense liveshows.\n\nDe 4 unge mennesker skaber en massiv væg af lyd, gennemsyret af teknisk, dissonant instrumentalrock og med sporadiske sangstrukturer, samt tekster så mørke at de var dømt til at fjernes, bringer Bali Snak en højlydt og absurd musikoplevelse.\n\nBasile Bremaud (FR)\nBasile Brémaud er en fransk violinist og sanger, der specialiserer sig i traditionelle musiktraditioner fra Massif Central-regionen i Frankrig, herunder Auvergne, Limousin og Languedoc. Han er dybt engageret i at udforske sammenhængen mellem sang, dans og instrumentalmusik i disse traditioner.\n\nVed at fremhæve folkemusikkens dronede og hypnotiske kvaliteter, skubber Bremaud traditionen i retningen af ambient og techno med sine langstrakte og transcenderende sange.\n\nBasile er medlem af flere musikgrupper, såsom Duo Artense, Tornamai, TRES og La Nòvia-kollektivet, hvor han bidrager til at bevare og forny den traditionelle musik.\n\nPortal Pets (DK/HN)\nDet københavnsbaserede band Portal Pets er klar til at opløse grænserne mellem det jordiske og det hinsides. Gennem vokal og guitar skaber de en dragende fusion af himmelske melodier og hjemsøgte lydteksturer. Bandets lyd udforsker rå forbundethed og følelsesmæssig sårbarhed, vævet sammen med ekspansive atmosfærer, der transporterer lytteren til riger, hvor skønhed, sorg og magi eksisterer side om side.\n\nBestående af de tværdisciplinære kunstnere Xenia Xamanek og Emil Palme, er Portal Pets et sammenstød mellem to visionære sind, som længe har været en del af strømningerne i Københavns eksperimenterende musikscene. På trommer er Oliver Laumann. De forenes nu for at dele deres unikke stemme med verden, overskride genre og forventninger og skabe noget dybt personligt og universelt resonant.\n\nOkyerema Asante (GH)\nOkyerema Asante er en legendarisk ghanesisk mesterpercussionist og en af verdens store virtuoser på talking drum. Hans mesterlige rytmeforståelse har bevæget sig fra Ghana ud på den globale scene gennem samarbejder med Paul Simon (Graceland), Fleetwood Mac, Hugh Masekela og Miriam Makeba.\n\nKendt for at forvandle sig selv til et helt ensemble på scenen kombinerer Asante traditionel ghanesisk trommespil med jazz, funk og åndelig energi. Hans soloalbum Drum Message og Sabi (Get Down) betragtes som klassikere inden for afro-jazz og percussionmusikken.\n\nSom et levende bindeled mellem afrikansk tradition og global lyd er Okyerema Asantes koncerter eksplosive og fortællende oplevelser — hvor urgamle rytmer møder moderne håndspillet techno.\n\nSelvhenter (DK)\nSelvhenters udtryk transcenderer musikalske genrer og bevæger sig i stedet i retning af noget mere fundamentalt – en slående, direkte og fysisk oplevelse af musik udgjort af polyrytmer, akustiske og elektroniske melodier, hårdtslående kompositoriske valg og improviseret skønhed.\n\nSelvhenters lyd er stærke rytmiske mønstre flettet sammen af to trommesæt, en trombone der går direkte i kroppen gennem en basforstærker og en saxofon, der veksler mellem at få lytteren til at forstå saxofonens sande natur og være processeret til uigenkendelighed.\n\nNina Garcia (FR)\nSiden 2015 har Nina Garcia forsket i og skabt værker omkring den elektriske guitar, et sted mellem improvisationsmusik og noise. Hendes setup er reduceret til det absolut minimale: en guitar, en pedal og en forstærker, som hun bruger til at skulpturere lyd og bevæge sig ind i kaos for at frembringe det uhørte.\n\nGarcias solopraksis fokuserer på gestik og undersøgelser af guitaren: dets resonanser, dets grænser, dets udvidelser, dets urenheder, dets skjulte muligheder. At arbejde med eller imod lyden, holde den nede eller lade den udfolde sig som vild, uhæmmet resonans.\n\nNuri (TN)\nNuri er en tunisisk producer, der bevæger sig i krydsfeltet mellem nordafrikanske rytmetraditioner og moderne, eksperimenterende elektronisk musik. Hans lydunivers er båret af håndspillet percussion, komplekse polyrmiske strukturer og dybe, pulserende grooves, hvor organiske elementer smelter sammen med rumlige, futuristiske teksturer.\n\nMed afsæt i både ritual og klubkultur skaber Nuri en sanselig og hypnotisk helhedsoplevelse, der spænder fra meditativ fordybelse til intens, fysisk energi. Musikken trækker på folketraditioner, subtile melodier og jungle-inspirerede beats og åbner et sonisk rum, hvor fortid og fremtid flettes sammen i et konstant bevægende flow.\n\nHands On Fire (INT)\nHands On Fire er et free-punk bigbandprojekt bestående af 9+ musikere med forskellige musikalske baggrunde - fra impro og punk til klassisk og noise. Musikken er en mosaik af improvisation og komposition, der kredser om temaer som bevægelse, hænder, tåge og anti-imperialisme.\n\nForvent en overstimulerende oplevelse, hvor kompositionernes solide fundament danner grobund for knopskud af støj, ekspressiv vildskab og frie soloudflugter i et musikalsk univers, som nikker tilbage mod tressernes spirituelle jazz og samtidig har en fod i firsernes no wave og nutidens genrefri, eksperimenterende musikscene.\n\nNightmaries (DK)\nDine drømme forvandles til mareridt, når det nystartede band Nightmaries kravler op af tønderne og vader ind i mørket med store, blodige støvler og en håndfuld hjemmebryggede, ikke særligt genrebevidste cutecowboydoomer-numre, skabt i et studie i nordvest af en gartner, en grafiker og en kostumedesigner.\n\nVerden er ved at mørkne, og kunsten er det første sted, hvor det mærkes – som et spejl, der viser for meget og for sent.\n\nTanz Mein Herz (DK)\nTanz Mein Herz er et fransk avant-folk- og dronekollektiv med rødder i Auvergnes eksperimenterende musikmiljø. Gruppen opstod i midten af 00’erne som et frirum for medlemmer af Toad og France, et variabelt ensemble uden kunstneriske begrænsninger, drevet af ønsket om at udforske fælles bevægelse, resonans og uendelige rytmiske mønstre.\n\nMed en udvidet besætning, der samler nøglefigurer fra Standard In-Fi-kredsen, skaber Tanz Mein Herz langstrakte, hypnotiske værker, hvor akustiske droner, rytmiske gentagelser og kollektiv improvisation flettes til et kraftfuldt, kalejdoskopisk lydbillede.\n\n------------------------------------------------------------------------\nENG.\n\nTwo nights, two stages and ten acts exploring the outer edges of jazz – from manic noise rock, complex math and monolithic drone rock to minimalist shoegaze, solo performances, electronic experiments and even a detour to a Ghanaian percussion legend.\n\nFinal Descent Into Vinterjazz is a collaboration between Final Descent and HUSET, presenting a deep dive into everything jazz can also be, spread across the two top floors of HUSET.\n\nLineup: Nuri (TN) / Bali Snak (DK) / Basile Bremaud (FR) / Hands on Fire (INT) / Nightmaries (DK) / Nina Garcia (FR) / Okeyrema Asante (GH) / Portal Pets (DK/HN) / Selvhenter (DK) / Tanz Mein Herz (FR)\n\nDate: Friday 13.02.26 & Saturday 14.02.26\nDoors: 18:30\nShow: 19:00\nPrice: 100 DKK for one concert (door only sales)/ 150 DKK for one evening / 250 DKK for both evenings\nVenue: Musikcaféen & Xenon, HUSET, Rådhusstræde 13, 1466 Copenhagen\n\nProgram:\nFriday 13/02/2026\n18:30 Doors\n19:00 Okeyrema Asante (GH)\n20:00 Bali Snak (DK)\n21:00 Basile Bremaud (FR)\n22:00 Portal Pets (DK/HN)\n23:00 Nuri (TN)\n\nSaturday 14/02/2026\n18:30 Doors\n19:00 Selvhenter (DK)\n20:00 Nina Garcia (FR)\n21:00 Hands On Fire (INT)\n22:00 Nightmaries (DK)\n23:00 Tanz Mein Herz (FR)\n\n\nBali Snak (DK)\nA seething, ferocious blast of math-rock, noise and free-flowing energy.\n\nIt’s unpredictable, beautiful and chaotic when Bali Snak step out of their stripped-down rehearsal space in Nørrebro and tear through with their intense live shows.\n\nWith a massive wall of sound built from technical, dissonant instrumental rock, sporadic song structures and lyrics so dark they were destined to be removed, the four young musicians deliver a loud and absurd musical experience.\n\nBasile Bremaud (FR)\nBasile Brémaud is a French violinist and singer who specializes in traditional musical traditions from the Massif Central region of France, including Auvergne, Limousin and Languedoc. He is deeply committed to exploring the connection between song, dance and instrumental music within these traditions.\n\nBy highlighting the droning, hypnotic qualities of folk music, Brémaud pushes the tradition toward ambient and techno with his long, transcendent vocal pieces.\n\nBasile is a member of several groups, including Duo Artense, Tornamai, TRES and the La Nòvia collective, where he contributes to both preserving and renewing traditional music.\n\nPortal Pets (DK/HN)\nThe Copenhagen-based band Portal Pets is ready to dissolve the boundaries between the earthly and the otherworldly. Through voice and guitar they create a captivating fusion of celestial melodies and haunted sonic textures. Their sound explores raw connectedness and emotional vulnerability, woven together with expansive atmospheres that transport the listener to realms where beauty, sorrow and magic coexist.\n\nFormed by interdisciplinary artists Xenia Xamanek and Emil Palme, Portal Pets is a collision of two visionary minds long rooted in Copenhagen’s experimental music scene. On drums is Oliver Laumann. Together they unite to share their unique voice with the world, transcending genres and expectations to create something deeply personal and universally resonant.\n\nOkyerema Asante (GH)\nOkyerema Asante is a legendary Ghanaian master percussionist and one of the world’s great virtuosos of the talking drum. His extraordinary rhythmic sense has travelled from Ghana onto the global stage through collaborations with Paul Simon (Graceland), Fleetwood Mac, Hugh Masekela and Miriam Makeba.\n\nKnown for transforming himself into an entire ensemble on stage, Asante blends traditional Ghanaian drumming with jazz, funk and spiritual energy. His solo albums Drum Message and Sabi (Get Down) are considered classics within afro-jazz and percussion music.\n\nA living link between African tradition and global sound, Okyerema Asante’s concerts are explosive, story-driven experiences — where ancient rhythms collide with modern hand-played techno.\n\nSelvhenter (DK)\nSelvhenter’s expression transcends musical genres and moves toward something more fundamental – a striking, direct and physical experience of music built from polyrhythms, acoustic and electronic melodies, hard-hitting compositional choices and improvised beauty.\n\nTheir sound is driven by powerful rhythmic patterns woven together by two drum kits, a trombone that hits the body straight through a bass amplifier, and a saxophone that shifts between revealing the instrument’s true nature and being processed into complete unrecognisability.\n\nNina Garcia (FR)\nSince 2015, Nina Garcia has been researching and creating works centred on the electric guitar, positioned somewhere between improvisation and noise. Her setup is stripped to the absolute minimum: one guitar, one pedal and one amplifier, which she uses to sculpt sound and step into chaos to bring forth the unheard.\n\nGarcia’s solo practice focuses on gesture and the investigation of the guitar itself: its resonances, its limits, its extensions, its impurities, its hidden possibilities. Working with or against the sound, holding it down or letting it unfold as wild, unrestrained resonance.\n\nNuri (TN)\nNuri is a Tunisian producer whose sound grows from deep African roots into futuristic electronic landscapes. His productions merge hypnotic, polyrhythmic grooves, progressive textures and hand-played organic percussion into cohesive, cinematic soundscapes that feel both ritualistic and forward-looking.\n\nImmersed in musical traditions and guided by a deep understanding of rhythm, Nuri creates an immersive world where floating, spatial electronics meet vivid folk elements and heavy jungle grooves. His music spans from Africa to Asia, connecting ancient influences with contemporary club energy, turning both concerts and dancefloors into transformative, trance-like experiences.\n\nHands On Fire (INT)\nHands On Fire is a free-punk big band project made up of 9+ musicians with diverse backgrounds – from improv and punk to classical and noise. Their music is a mosaic of improvisation and composition, circling around themes such as movement, handsi ji, fog and anti-imperialism.\n\nExpect an overstimulating experience where solid compositional foundations give rise to bursts of noise, expressive wildness and free solo excursions in a musical universe that nods back to the spiritual jazz of the 1960s while keeping one foot in 1980s no wave and today’s genre-free experimental scene.\n\nNightmaries (DK)\nYour dreams turn into nightmares when newly debuted Nightmaries pulls out of the barrels and wades into the darkness (the underground music industry cult) with big bloody boots and a few home-brewed, not very genre-conscious cutecowboydoomer tracks created in a studio in the northwest by a gardener, a graphic artist and a costume designer.\n\nThe world is darkening, and art is the first place where it is felt as a mirror that shows too much and too late.\n\nTanz Mein Herz (DK)\nTanz Mein Herz is a French avant-folk and drone collective rooted in Auvergne’s experimental music scene. The group emerged in the mid-2000s as a creative free space for members of Toad and France – a fluid ensemble without artistic boundaries, driven by a desire to explore shared movement, resonance and infinite rhythmic patterns.\n\nWith an expanded lineup bringing together key figures from the Standard In-Fi circle, Tanz Mein Herz creates long-form, hypnotic works where acoustic drones, rhythmic repetition and collective improvisation intertwine into a powerful, kaleidoscopic soundscape.",
+    "date": {
+      "start_timestamp": 1771003800,
+      "end_timestamp": 1771110000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Rådhusstræde 13, 1466 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/849837654096422/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/589950211_1174615684814994_3029428201376460785_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=TJ1uLHE_MJkQ7kNvwGXEiK5&_nc_oc=AdnTwEq1Tln1eOjw0MHzR2bquQxe-gPlm20c4gHrrQNwU378SQvxur-lhPDZ44qF6ho&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=wtT2H9Z0Av6hp070Tj63Fg&oh=00_AfuVOdKgLtAuagTsbJJ8NuDu6xjuk4YSsLDvBEm-iZCf0w&oe=6996587C",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "HUSET",
+    "page_url": "https://www.facebook.com/Huset.Koebenhavn/events"
+  },
+  {
+    "id": "1596300004890966",
+    "name": "Serious Sunday: Arcs - in HUSET",
+    "description": "Come play Arcs with us!\nIt's free and we will tell you the rules.\n\nArcs is a sharp, tactical space opera game set in a dark yet silly universe. Players represent officials from a distant, decaying and neglectful Empire who are now free to vie for dominance whether through battle, gathering scarce resources or diplomatic intrigue. Ready yourself for dramatic twists and turns as you launch into this galactic struggle.\n\nA deck of cards in 4 suits with ranks from 1-7 (2-6 for fewer than 4 players) defines the action selection system. These cards are played in a trick-taking adjacent system to select actions, take the initiative and declare Ambitions. The 3 declared Ambitions are what will score in that deal. Timing is everything. Bad hands must be mitigated by careful card play and benefitting from other players' card play.\n\nBattles are resolved quickly with the attacker choosing their level of risk. The defenders must be prepared with adequate defensive ships and cards in their tableau.\n\nEach game contains a hundred wooden ships and agents, 18 custom engraved dice, a beautiful six-panel board, and tons of cards with over 60 pieces of unique art. The base game may be played without the optional Leaders and Lore cards (for an easier teach) or with them for a richer, fuller and asymmetric game. It is also the core of the campaign game (requiring the Blighted Reach Expansion), which provides an epic, more thematic experience.\n\nhttps://bastardcafe.dk/games/arcs/",
+    "date": {
+      "start_timestamp": 1771155000,
+      "end_timestamp": 1771180200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Rådhusstræde 13, floor plan, 1466 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1596300004890966/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/627117857_1213397474260800_2621642333014836237_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FzjBIkmtxDgQ7kNvwEyR0Fm&_nc_oc=AdmWVlgUUH68Lc3d7Cu8E-vlZWEBftWFsbgiLqe5UgVdPYyyocE2zmqkq1qg5GHvIMg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=wlK8WN0DI2jznGyC9LogWg&oh=00_AfuE73dRekUIHcVinVyyZvtQ-veqr7hJp_QxFi3sTN6AVA&oe=699654F0",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "Bastard Café - Board Games &amp; Coffee",
+    "page_url": "https://www.facebook.com/BastardCafe/events"
+  },
+  {
+    "id": "1606989640454640",
+    "name": "Madboks food distribution - Kapelvej 44",
+    "description": "Hey food savers! Join us at our weekly food distribution in Nørrebro at Kapelvej 44. 🥦🥦\nOur events are open to everyone, no matter the financial status or conditions.\nTo BOOK A SPOT, please follow this link:\nhttps://forms.gle/FZjw7VjW7MpkXpC27\nBOOK ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to other people. If you know you would be late for picking up your box, please contact us on Facebook in advance so we hold on to your box.\nEveryone can donate what they can afford for the food boxes, however, the recommended donation is 25 DKK, so that we can cover the costs of the event.\nPlease bring 2 bags to carry the food in. Pro tip! Bring a separate bag for bread and pastry, and we also recommend bringing some food containers/Tupperware, to be able to transport small/easily reusable items safely.\nPlease also consider becoming a volunteer ❤ It takes a small village to make these food distributions happen weekly! To register as a volunteer please sign up here: https://myshopify.us7.list-manage.com/subscribe",
+    "date": {
+      "start_timestamp": 1771080300,
+      "end_timestamp": 1771084800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kapelvej 44, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686562499999994,
+      "longitude": 12.551312500000009,
+      "bounds_ne_lat": 55.68662499999999,
+      "bounds_ne_lng": 12.551375000000007,
+      "bounds_sw_lat": 55.686499999999995,
+      "bounds_sw_lng": 12.55125000000001,
+      "plus_code_global": "9F7JMHP2+JG",
+      "plus_code_local": "MHP2+JG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1606989640454640/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/633437675_1201420602159218_4673447919300218496_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=jcbeRV7E9LgQ7kNvwG9s2n-&_nc_oc=AdkepocLnp2vbWxMISbxUsUvKKmzQxlyRRPsGEMziOYuXoeoPSSt2pPogXJIWdICgb8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=MeAuv5fs7C2mc9rMW-5JRQ&oh=00_AftpodWx7bRuoIka9zyB0W4tRit0uNYOQNfqCLpJ6ka55A&oe=69965D43",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1984599592355263",
+    "name": "Tonen fra Himlen. Fri sang workshop.",
+    "description": "\nLær at bruge stemmen som en helende og central kraft i dig selv❤️‍🩹\n\nVi bruger stemmen uden præstation og uden krav. Intentionen er at støtte en indre proces, hvor forsvar og modstand træder tilbage☺️\n\nNår vi toner på lange vokaler inspireret af kirtan og mantrasang, træder vi ud af det stressede og anspændte og oplever tillid og nysgerrighed🌸\n\nMetoden er meditativ og nænsom. Den åbner for de ressourcer, vi allerede rummer. Vi lader tonerne opstå fra en tilstand, som vi kalder Tonen fra Himlen, nemlig et sted i os, hvor vi er trygge, afspændte og i balance🌞\n\nHerfra får stemmen lov til at komme, som den er, uden at skulle lyde på en bestemt måde. Har du lyst til at lade stemmen bryde igennem og flyde frit og intuitivt?\n\nTil at slippe indre hæmninger og mærke, hvordan lyden resonerer i kroppen og skaber bevægelse, ro og klarhed indefra?\n\nAlle kan deltage uanset om man er sanger eller tonedøv.\n\nStemmen og vagusnerven\nNår vi synger frit på lange, åbne toner, stimuleres vagusnerven via både stemmebånd og trommehinder. Det aktiverer det parasympatiske nervesystem, som understøtter ro, restitution og følelsen af tryghed.🙏\n\nEn velfungerende vagusnerve er forbundet med:\n\t•\tbedre stresshåndtering\n\t•\tstærkere sociale forbindelser\n\t•\tøget følelsesmæssig stabilitet\n\nOplev hvordan stemmen kan:\n\t•\tløsne spændinger i krop og sind\n\t•\tskabe kontakt til dit indre flow\n\t•\tgive fornyet energi og klarhed\n\t•\tåbne et fælles felt af nærvær, healing og samhørighed\n\n⸻\n\nProgram\n\n12.30\nVi ankommer, hilser på hinanden og begynder med opvarmning. Du introduceres nænsomt til indgangen til at synge Tonen fra Himlen.\nØvelserne er inspireret af arbejdet med vokal lydhealing og bevidst sang.\n\n13.10\nKort te- og kaffepause\n\n13.20\nIntuitiv sang, fordybelse og mulighed for at dele oplevelser med metoden\n\n14.00\nTak for i dag\n\n⸻\n\nPris:\nTilmelding ved betaling af 150 kr. på MobilePay til 26244948.\n\nFacilitator:\nHannah Haansbæk – spirituel mentor, cand.mag. og lydterapeut med flere års erfaring i vokal lydhealing, nærværspraksis og kreative processer.\n\nFor private sessioner eller yderligere information:\nwww.lydhealing-kbh.dk\n26244948\n\nØvrige workshops i 1. halvår 2026:\n\n• Lørdag d. 14. februar kl. 12.30\n• Onsdag d. 25. marts kl. 19.00\n• Tirsdag d. 28. april kl. 19.00\n• Tirsdag d. 5. maj kl. 19.00\n• Torsdag d. 11. juni kl. 19.00",
+    "date": {
+      "start_timestamp": 1771068600,
+      "end_timestamp": 1771075800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Godthåbsvej 33, 2000 Frederiksberg, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/1984599592355263/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/555055726_1248466180626690_7759676680316170849_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6qS2-xB2C7wQ7kNvwGA9Pt_&_nc_oc=AdkR-q8J3LH-HeHOA7QF6bUWv6r1LUN3KJlG98fj8FXuUOmljs_U6KA1aIjb0MPScbg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=n0conW22BkeIdF2ZPluHBA&oh=00_AfuVIQ38tOc2T53TwYXMbfd4xNKPdtFZa26sq8zWDnuTlA&oe=699655FD",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "1173130191010305",
+    "name": "VINTERJAZZ 2026 - The Flying Jazzman Trio",
+    "description": "BILLETSALGET I DØREN ÅBNER EN TIME FØR KONCERTEN - BEGRÆNSET ANTAL SIDDEPLADSER\n\nTICKETSALES OPENS ONE HOUR BEFORE SHOWTIME - LIMITED SEATS\n\nFlying Jazzman Trio, Jazz der swinger...\n\nEfter at have været sidemand for amerikanske og danske jazzikoner igennem flere år, valgte pianisten og crooneren Jan Nielsen i 2016 at sammensætte sit eget band, under navnet Flying Jazzman. Bandet spiller gedigent swingende jazz inspireret af pianisterne Nat King Cole, Oscar Peterson, Errol Garner og Gene Harris.\n\nJan Nielsen, Flying Jazzman, der i en længere årrække boede i USA, har spillet gigs i New Orleans samt været fast musiker i en gospelkirke i det sydlige Alabama.\n\nRepertoiret er en god blanding af de velkendte jazzstandards, der blev udødeliggjort af den amerikanske pianist og crooner Nat King Cole. Her fremført med stor kærlighed og ydmyghed overfor det klassiske trioformat piano, kontrabas og trommer.\n\nHåndplukkede musikere der elsker at spille...\n\nLine up:\n\nJan Nielsen, piano & vokal\n\nRosa Salamon, kontrabas & vokal\n\nHaim Peskoff, trommer\n\nFlying Jazzman har siden 2017 underholdt med stor succes på Copenhagen Jazzfestival, Riverboat Jazzfestival i Silkeborg, Århus Jazzfestival, Odder Jazzy Days, Jazz klubber, private arrangementer, internationale Swing Dance events samt Copenhagen Vinter Jazzfestival.\n\n\n",
+    "date": {
+      "start_timestamp": 1771081200,
+      "end_timestamp": 1771088400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.573312500000029,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.573375000000027,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.57325000000003,
+      "plus_code_global": "9F7JMHGF+H8",
+      "plus_code_local": "MHGF+H8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1173130191010305/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/588598322_1242327887919915_4772181110346745657_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0JT8GtxkpEQQ7kNvwFjolVm&_nc_oc=Admb45dgX4bjTJ5AEYB2afjr5aaFFOv85LP5l__7l6M8JWY8-UIzzB9YgjcpCRZiBvU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=P5duPkP45DIaXb0e0o_kUA&oh=00_AfuevY_WCCYPyc9dvtLKv45BRRCA54CkceO_rV14Sezr_Q&oe=6996488E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
+  },
+  {
+    "id": "1127626596188169",
+    "name": "Sinne Eeg Group | Vinterjazz i Kulturhuset Islands Brygge",
+    "description": "Oplev en af Skandinaviens største jazzstemmer, når Sinne Eeg gæster Islands Brygge med sin anmelderroste kvartet.\n\nLørdag den 14/2 kl. 20 / Dørene åbner kl. 19.30\nKoncerten er med unummererede siddepladser.\nForsalg: 220 kr. + gebyr / 250 kr. ved køb i døren\nKøb billetter: https://billetto.dk/e/sinne-eeg-group-billetter-1322935\n\nSinne Eeg er kendt og elsket for sin sikre intonation, rytmiske præcision og karismatiske sceneoptræden – og betager publikum i hele verden. Hendes repertoire spænder fra den amerikanske jazztradition til egne stemningsfulde kompositioner med en nordisk, melankolsk tone.\n\nPå scenen tager Sinne Eeg chancer med frydefuld musikalitet. Hun mestrer scat og frasering med en overskudsfyldt lethed, og hendes sjældne indlevelsesevne skaber et nærvær, der rækker helt ned til bagerste række i salen.\n\nMed sig har hun sin faste kvartet – en samling af nogle af Skandinaviens mest rutinerede jazzmusikere. Sammen skaber de en koncertoplevelse, hvor både musikalitet og humør er i top, og hvor niveauet er fuldt ud internationalt.\n\nSinne Eeg har udgivet 10 albums i eget navn og modtaget en lang række priser – herunder fem Danish Music Awards for Årets Vokaludgivelse, Ben Webster Prisen og Dronning Ingrids Hæderslegat.\n\nSinne Eeg – vokal\nJacob Christoffersen – piano\nTBA – bas\nTBA – trommer\n\n🔷 Kulturhuset Islands Brygge er med i Vinterjazz ’26 🔷\nVinterjazz er en landsdækkende festival, hvor spillesteder og kulturhuse sætter spot på jazz i alle dens skæve, syrede og sublime afskygninger i februar måned. I Kulturhuset Islands Brygge kan du både dyppe tåen eller springe på hovedet ud i jazzmusikkens dybe ende, når vi præsenterer 9 koncerter fra den 30.1 – 28. 2. Oplev groovy soul og uimodståelige og beeboppende jazzperler, skandinavisk folk med lyriske melodier, jazzet cool indiepop og årets orgelfest med dertilhørende dansegulv. \n\nProgram Vinterjazz på Bryggen ’26\n\n30.1 The Orgelheimers\n6.2 Blåly\n7.2 Copenhagen Jazzexperience\n13.2 Nordlys\n14.2 Sinne Eeg\n20.2 Søren Baun Kvartet\n21.2 Bobo Moreno – Celebrating Tony Bennet\n26.2 Emil Hess Quartet\n27.2 Rosalia de Souza Quarteto 55\n28.2 OTOOTO \n\nTjek hele programmet: https://kulturhusetislandsbrygge.kk.dk/program/masser-af-livemusik/vinterjazz-paa-bryggen-26\n\n ",
+    "date": {
+      "start_timestamp": 1771095600,
+      "end_timestamp": 1771101000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/1127626596188169/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/561663523_829982793017533_5248792860937178597_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-et6dxEqXMYQ7kNvwGvjPX9&_nc_oc=AdmKqDlCOOKC9FBvw4UFYvW2LIUrF2Y2xueucPlwSL8Sd_mM00nyFVeNLACvsKtPl1U&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=1bj7tJ5unylO4uWyuF_-LA&oh=00_AfsrXBYRB8LPlj5_d096ZlddSyTwMcYQ_98SzHnNgDuEhA&oe=69964D0A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "1247409883870707",
+    "name": "Rewild",
+    "description": "tonight, crisis cloud is learning how to glow\nand is going to try to find an epiphany\nto find what it’s made of\nby dancing badly and vaping the basement breeze\n\nby 4:32am\nthe epiphany arrives\nand crisis cloud remembers\nit is water\n\n——-\n\nLine up:\nMaji Claire (concert)\nhttps://www.instagram.com/majiclaire/\n\nSkjold Rambow with Fie Ljungmann (performance)\nhttps://www.instagram.com/skjoldet/\nhttps://www.instagram.com/scary_fie/?hl=en\n\nEmil F & Frederik Valentin (concert)\nhttps://youtu.be/ckvieJIFiGI?si=9ZD1oSHJh2eQTEPq\n\nMuskila + Simona Abdallah (live)\nhttps://muskila.bandcamp.com/album/jah-nam\n\noqbqbo (dj)\nhttps://on.soundcloud.com/YXzAbjhjhlqxR9gu52\n\nELLE FIERCE (dj)\nhttps://soundcloud.com/ellefierce\n\nabji_hypersun (dj)\nhttps://on.soundcloud.com/RiE1vXwZzoMQjJHKaw\n\nTempoarne (dj)\nhttps://soundcloud.com/tempoarne\n\nFruit DJ (dj)\nhttps://soundcloud.com/fruitdj\n\nLeith Benkhedda (video work)\nhttps://www.instagram.com/451_232/\n\n----\n\n150kr entrance\nonly tickets in the door\n\nplease do not take pictures or videos inside the venue. no racism, homophobia, transphobia or sexism will be tolerated. if you experience any harassment at all please contact us in the door and our awareness team will deal with it.\n\nsee you soon xx",
+    "date": {
+      "start_timestamp": 1771095600,
+      "end_timestamp": 1771129800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Basement CPH",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66781250000001,
+      "longitude": 12.544062499999981,
+      "bounds_ne_lat": 55.66787500000001,
+      "bounds_ne_lng": 12.54412499999998,
+      "bounds_sw_lat": 55.66775000000001,
+      "bounds_sw_lng": 12.543999999999983,
+      "plus_code_global": "9F7JMG9V+4J",
+      "plus_code_local": "MG9V+4J",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1247409883870707/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/627176762_1385418276716181_8245170532257950342_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6u1u0Zn8axoQ7kNvwE6W-LQ&_nc_oc=AdlY-yGJEBRv5hy1J_SJXJGopOl1JjFrLRRQ-isDtdw-3gnZ21fPhhJu-zRnbUrcDc0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=gmOUWNodX5YyYd6VJ2uKhQ&oh=00_AfvArZX3MPZcK6ef6U8BhEjEq3IEQFXc5R4R7vOVSlWegQ&oe=69964CF4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Basement CPH",
+    "page_url": "https://www.facebook.com/BasementKBH/events"
+  },
+  {
+    "id": "1666012881467279",
+    "name": "Malte Ebert [Support: SALIOU]  - VEGA - Ekstrakoncert - Venteliste ",
+    "description": "Koncerten er flyttet fra 10.04.2026 til 15.02.2026. Allerede købte billetter er stadig gældende. Billetkøber modtager mere information fra billetudbyderen. \n\nMalte Ebert fylder VEGA med gyldne toner \n_____________________________________________________________\nDøre: 19:00\nKoncertstart: 20:00\nBilletpris: 390 kr. inkl. gebyr\n_____________________________________________________________\n\nMed Alle veje fører hjem har Malte Ebert skabt et debutalbum, der folder sig ud som en coming-of-age-fortælling om et menneske, der finder sig selv. Nu finder sangskriveren og hans band tourbussen frem fra garagen til en spillestedsturné rundt i landet. Det er sjældent, at debutanter kommer med så meget erfaring, som Malte Ebert. Bag sig har han allerede adskillige hits og priser, både i eget navn og med sit satiriske alterego, Gulddreng. \nAlbummet Alle veje fører hjem danner den musikalske ramme for setlisten til Malte Eberts koncert i Store VEGA:\n\n”Det er det album, jeg har ventet på og drømt om, siden jeg begyndte at skrive sange. Titlen kredser om at finde sit hjem i livet. 20’erne går ud på at sortere fra og navigere i alle muligheder man får. For mig har der været mange omveje, men de har alle sammen gjort mig klogere på, hvor jeg ville stå. At få lov til at udtrykke mig selv og mine følelser. Den glæde og forbindelse har jeg fundet tilbage til.” fortæller Malte Ebert.\n\nDen 30-årige kunstner har skrevet sange, siden han som dreng købte en guitar, han sparede sammen til ved at gå med aviser. I 2016 slog han igennem med den satiriske figur Gulddreng, hvis syv første singler gik nummer et, og har vundet en række priser. Som dansksproget solokunstner har han skrevet millionstreamende numre som danmarkssangen \"Kun med dig\", \"Kalde Dem for du\" til Dronning Margrethe II og \"Julehjertets hemmelighed\". I 2024 har han, hittet med to singler, der begge er gået guld – først \"Mindst ondt\" med Svea S, derefter \"Kongen af Danmark”. \n\nSamtidig har han spillet på nogle af de største festivalscener i det danske land. Men denne gang er det Ebert og hans band, der inviterer til koncerter, hvor man roligt kan se frem til nogle store aftener:\n\n”I starten af 2026 drager hele mit band og jeg ud på landets spillesteder og holder koncerter og det bliver med alle jeres yndlingssange i centrum. De sidste par år har vi eksperimenteret og jeg har udviklet mig helt vildt med teaterformatet, men nu drømmer jeg om at spille koncerter med guitarsoloer, store sange og det fedeste band. Og det sker i starten af 2026, jeg er heldig! Tak fordi I lytter og kommer til koncerterne. Jeg glæder mig så meget til at spille for jer.”\n\nSupport: \nSALIOU er et nyt navn på den danske musikscene. En ung sanger og sangskriver, der med håndspillet nerve og bundærlig lyrik sætter ord og musik på et ungt menneskes op- og nedture. \n\nSiden sommeren 2024 har han arbejdet målrettet på at finde kernen i sit musikalske udtryk og delt processen på sociale medier.",
+    "date": {
+      "start_timestamp": 1771178400,
+      "end_timestamp": 1771191000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "VEGA",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMG9V+6G",
+      "plus_code_local": "MG9V+6G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1666012881467279/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/539293501_813091451385577_3752254429530211827_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eWSV_OFf6b8Q7kNvwGlzYew&_nc_oc=AdmpeZtJVHo9l7y6-4VEbpA1WPSsIToh-nP7-zHaZH4BTfFXLOQavjPamPcJLguMy1s&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=evPn5H3xye2t4UP3nYxUKw&oh=00_Afs2ODLTvfFQ0Furrv1CpFXpVmQvNFTklPSDds6YNrnZkg&oe=6996562F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "VEGA",
+    "page_url": "https://www.facebook.com/VEGAcph/events"
+  },
+  {
+    "id": "869855225480035",
+    "name": "VINTERJAZZ 2026 - David Miilmann Group",
+    "description": "BILLETSALGET I DØREN ÅBNER EN TIME FØR KONCERTEN - BEGRÆNSET ANTAL SIDDEPLADSER\n\nTICKETSALES OPENS ONE HOUR BEFORE SHOWTIME - LIMITED SEATS\n\nDavid Miilmann Group (DMG) is a young and sprouting Danish band who play modern and life-affirming jazz music. In an organic collaboration, DMG has formed a soulful sound on the Danish music scene.\n\nWith the 23-year-old guitarist David Miilmann as the catalyst, the band explores new musical ground by mixing blues-inspired slide guitar with jazz, rock and Brazilian music.\n\nWith a shared love for each other and the music, DMG invites the audience into their colorful and uplifting soundscape that also contains fragments of melancholy and thoughtfulness.\n\nThe band consists of 2 guitars, piano, bass and drums. This provides flexibility for various dynamic arrangements. Everything from intimate duo guitar to full band playing with overwhelming energy.\n\nDMG released their debut album, 'Waiting for Myself' in late summer 2021. Since then the band has had success with two Blues Danish Music Awards nominations, finalist in the National Jazz-Competition and concerts across Denmark",
+    "date": {
+      "start_timestamp": 1771099200,
+      "end_timestamp": 1771106400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kompagnistræde 34, 1208 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.573312500000029,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.573375000000027,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.57325000000003,
+      "plus_code_global": "9F7JMHGF+H8",
+      "plus_code_local": "MHGF+H8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/869855225480035/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/588559522_1242330834586287_8564126229756137731_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4sBd-FXVxYEQ7kNvwF3MXk7&_nc_oc=AdmfBwyiAuHMt0FWuEF9HZHIERMR68Y_Sem-3bwnlHmCXphl4vagedQzxzblH3VHwrI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=-rmMTL1EUf0NdRtfPPhDVw&oh=00_Afs6z7Yl6Obi6F878F-xkvuFADbZrDEhroKkWTr5wayohQ&oe=69963893",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "DROP INN",
+    "page_url": "https://www.facebook.com/dropinnmusic/events"
+  },
+  {
+    "id": "1550721559315342",
+    "name": "Kom og spil badminton (gratis) // Weekend for børn",
+    "description": "For 6-12 årige med deres voksne.\nKom og spil badminton er et gratis tilbud i Nørrebrohallen på udvalgte dage.\nDet er forskelligt, hvilke baner der er booket til \"Kom og prøv badminton\", så spørg i informationen. Hvis der er mange, der gerne vil spille badminton, rykker man sammen og skiftes til at spille.\n\nPraktiske informationer\n- Medbring din egen ketsjer eller lån en gratis ketsjer og plasticbold i Nørrebrohallens information.\n- Der er ingen undervisning eller facilitator, men mulighed for at spille sammen med dem I kommer med eller finde nogle på dagen at spille sammen med.\n- Det er familie-badminton, så 6-12 årige skal have en voksen med.\n- Hvis der ikke er sat badmintonnet op på banen, når I kommer og I ikke ved, hvordan man sætter det op, kan I spørge i Informationen, hvordan man gør.\n- Baner kan ikke bookes, det er først til mølle og hvis flere gerne vil spille, rykker man sammen og spiller double.\n\nWeekend for børn\nArrangementet er en del af Weekend for børn på Nørrebro.\nWeekend for børn er gratis kultur- og bevægelsesarrangementer for børn og deres voksne på Nørrebro. Arrangementerne finder sted lørdage og søndage i idrætshaller, biblioteker og kulturhuse med støtte fra Nørrebro Lokaludvalg og NØBU-fonden.\nWeekend for børn foregår på Blågårdens Bibliotek, Nørrebro Bibliotek, Korsgadehallen, Nørrebrohallen, Osramhuset og Støberiet.\n\nFind programmet på http://xn--weekendforbrn-lnb.dk/ – programmet opdateres løbende",
+    "date": {
+      "start_timestamp": 1771142400,
+      "end_timestamp": 1771149600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Nørrebrogade 208, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.699687500000024,
+      "longitude": 12.543312499999999,
+      "bounds_ne_lat": 55.69975000000002,
+      "bounds_ne_lng": 12.543374999999997,
+      "bounds_sw_lat": 55.699625000000026,
+      "bounds_sw_lng": 12.54325,
+      "plus_code_global": "9F7JMGXV+V8",
+      "plus_code_local": "MGXV+V8",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1457281385326027/?event_time_id=1550721559315342",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/549247234_1373445244784428_7053437607345500081_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=QuEd9PXleOQQ7kNvwFJl-vC&_nc_oc=AdmGut0PJlEr_TXhNX-rnnNQ77b7zAqCvlydmO3I1W9iyYz7ubl1-fvQxQqzQvlBmVQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=KB7YEmkkLSYKTWOHZs1obw&oh=00_AfsFeB3-zhwadJkEerNq0qXjC2EHd6ut1bGr54uTIlYFBA&oe=69963578",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "Nørrebrohallen og Nørrebro Bibliotek",
+    "page_url": "https://www.facebook.com/Noerrebrohallen/events"
+  },
+  {
+    "id": "1901931580432374",
+    "name": "Blueprint",
+    "description": "Where can one word take you?\n\nJoin Blueprint as we take apart a single word, peeling back the layers to find the captivating story and big laughs hidden beneath. A show of funny situations, life lessons, sweet truths, and whatever witty one-liners come to us in the moment, we'll break it down and build it back up for you as a show you will love.\n\nLaughs, smiles, tears, and tenderness - but most of all life - it's all there for you to enjoy, according to, the Blueprint.\n\nPractical information:\n\nDoors and bar open at 19:30.\n\nOut of respect for the other show guests, please arrive at the theatre no later than 19:45. If you have not checked-in at the theatre by the start time of 20:00, your reservation will be cancelled and the ticket will be made available to the stand-by line. All purchases are final, no refund or rebooking of tickets.\n\nDisclaimer:\n\nShow may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience members under this age or to an audience member we believe is too drunk and could pose a potential disturbance for the show. Pets are also not allowed in the venue.\n\n",
+    "date": {
+      "start_timestamp": 1771095600,
+      "end_timestamp": 1773520200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1901931580432374/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/630706580_1475259707937969_9064457287111158475_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=SJXC6aT_P54Q7kNvwEvbx1f&_nc_oc=Adk35wCJQpRM_YTN14l_3DkcAZETEr0-3LaDQIaLP5KWdF_DXHVLM5hjTc02cfS9hkY&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=1vkkzPfVMRNesCQ9S_CbVw&oh=00_AfsY08w_JaKvjYTprggQaamoEik1QyHyYKvMM6qmvanNlw&oe=699628AA",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "960230236211205",
+    "name": "Malte Ebert [Support: Josefine JUVA] - VEGA - UDSOLGT!",
+    "description": "Malte Ebert fylder VEGA med gyldne toner \n______________________________________________________________\n\nDøre: 19:00\nKoncertstart: 20.00\nBilletpris: 390 kr inkl. gebyr.\n______________________________________________________________\n\nMed Alle veje fører hjem har Malte Ebert skabt et debutalbum, der folder sig ud som en coming-of-age-fortælling om et menneske, der finder sig selv. Nu finder sangskriveren og hans band tourbussen frem fra garagen til en spillestedsturné rundt i landet. \n\nDet er sjældent, at debutanter kommer med så meget erfaring, som Malte Ebert. Bag sig har han allerede adskillige hits og priser, både i eget navn og med sit satiriske alterego, Gulddreng. \nAlbummet Alle veje fører hjem danner den musikalske ramme for setlisten til Malte Eberts koncert i Store VEGA:\n\n”Det er det album, jeg har ventet på og drømt om, siden jeg begyndte at skrive sange. Titlen kredser om at finde sit hjem i livet. 20’erne går ud på at sortere fra og navigere i alle muligheder man får. For mig har der været mange omveje, men de har alle sammen gjort mig klogere på, hvor jeg ville stå. At få lov til at udtrykke mig selv og mine følelser. Den glæde og forbindelse har jeg fundet tilbage til.” fortæller Malte Ebert.\n\nDen 30-årige kunstner har skrevet sange, siden han som dreng købte en guitar, han sparede sammen til ved at gå med aviser. I 2016 slog han igennem med den satiriske figur Gulddreng, hvis syv første singler gik nummer et, og har vundet en række priser. Som dansksproget solokunstner har han skrevet millionstreamende numre som danmarkssangen \"Kun med dig\", \"Kalde Dem for du\" til Dronning Margrethe II og \"Julehjertets hemmelighed\". I 2024 har han, hittet med to singler, der begge er gået guld – først \"Mindst ondt\" med Svea S, derefter \"Kongen af Danmark”. \n\nSamtidig har han spillet på nogle af de største festivalscener i det danske land. Men denne gang er det Ebert og hans band, der inviterer til koncerter, hvor man roligt kan se frem til nogle store aftener:\n\n”I starten af 2026 drager hele mit band og jeg ud på landets spillesteder og holder koncerter og det bliver med alle jeres yndlingssange i centrum. De sidste par år har vi eksperimenteret og jeg har udviklet mig helt vildt med teaterformatet, men nu drømmer jeg om at spille koncerter med guitarsoloer, store sange og det fedeste band. Og det sker i starten af 2026, jeg er heldig! Tak fordi I lytter og kommer til koncerterne. Jeg glæder mig så meget til at spille for jer.”\n\nSupport: Josefine JUVA\n\nJosefine JUVA er en 23-årig upcoming dansk/mexicansk sanger og sangskriver. Hun har fået stor opmærksomhed på Instagram og TikTok for sine spanske covers af danske sange, hvor blandt andre Lukas Graham, Malte Ebertog Annika har anerkendt hendes versioner af deres sange. \n\nJosefine UVAs egen musik spænder fra følelsesladede ballader om dysfunktionelle familierelationer, mentalt helbred og venskaber til energisk pop/reggaeton, der sætter gang i kroppen og blander dansk, engelsk og spansk.",
+    "date": {
+      "start_timestamp": 1771092000,
+      "end_timestamp": 1771106400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "VEGA",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMG9V+6G",
+      "plus_code_local": "MG9V+6G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/960230236211205/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/503717361_745037578190965_1361428047705625143_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=wkaQ3xqSnwEQ7kNvwFbqFpA&_nc_oc=AdkIIPeyR2SC2Xqz4skiMRm02NvJA4MY8Rs5JoboarsTwpDPI9T881kGWYI3XnkRCZk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ilst_VkiaNWnmflF1rXp7g&oh=00_AfupEEK6n8U1CsiyI89TWMfL5fD0YABoEUsTV9vG3jfYrA&oe=69964CE7",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "VEGA",
+    "page_url": "https://www.facebook.com/VEGAcph/events"
+  },
+  {
+    "id": "3011306059077754",
+    "name": "Omvisning: Storslåede kærlighedshistorier",
+    "description": "Kærligheden er en evig inspirationskilde i kunsten, og skulpturerne i Glyptotekets samling skildrer den ene gribende kærlighedshistorie efter den anden. I anledning af Golden Days, som i år har temaet ’Kærlighed’, inviterer Glyptoteket til en omvisning i kærlighedens tegn. Oplev både den spirende, den trofaste og den ulykkelige kærlighed, når vi ser nærmere på nogle af de storslåede kærlighedshistorier, som museets samling rummer.\n\n\nGRATIV OMVISNING\n\nOmvisningen er gratis, når entréen til museet er betalt. Omvisningsbilletter kan ikke forudbestilles, men afhentes i billetsalget på dagen. Der udleveres ikke billetter til grupper på mere end fem. Større grupper henvises til at booke en privat omvisning.",
+    "date": {
+      "start_timestamp": 1771160400,
+      "end_timestamp": 1771164000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Glyptoteket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6729375,
+      "longitude": 12.572562500000018,
+      "bounds_ne_lat": 55.673,
+      "bounds_ne_lng": 12.572625000000016,
+      "bounds_sw_lat": 55.672875000000005,
+      "bounds_sw_lng": 12.57250000000002,
+      "plus_code_global": "9F7JMHFF+52",
+      "plus_code_local": "MHFF+52",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/3011306059077754/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/597459323_1342796814558096_6959246664251867588_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=S2XGYxiHRG4Q7kNvwH5hf4a&_nc_oc=AdntcZ7lwqyGOI8jRWNlSEug2vMcG27kgXtH1Pj-aGRL1rn8UCjG2X7MvSIDGj4Tjzk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=rt9AjOwYHPM8xkIHYVsWwA&oh=00_Aftt8DervlN2gvuhr6VdpyTHXISB2JWrCnfcEySFtAE4Og&oe=69963C2C",
+    "tag": "ART",
+    "platform": "Facebook",
+    "page_name": "Glyptoteket",
+    "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "2095358301289985",
+    "name": "VALENTINE’S DAY SPECIAL: BRIEF ENCOUNTER",
+    "description": "“Brief Encounter,” directed by David Lean, 1945, 86 minutes\n\nDavid Lean’s 1945 classic is one of the most emotionally resonant love stories ever committed to film. Adapted from Noël Coward’s short play Still Life, it tells the story of two ordinary people: Laura and Alec, who meet by chance at a railway station and fall deeply, devastatingly in love. In the UK its a Valentine’s Day tradition, once screened at Festival Hall with a live orchestra, the London Philharmonic no less… \n\n----\n\nOur café opens one hour before the show.\n\nFind all of Husets Biograf events on our webpage:\nhttps://www.facebook.com/HusetsBiograf/events\n",
+    "date": {
+      "start_timestamp": 1771093800,
+      "end_timestamp": 1771101000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Rådhusstræde 13, 2 th, 1466 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/2095358301289985/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/614854977_1320046923490214_3376159547034944093_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=BRGtiINpUC0Q7kNvwGbtykj&_nc_oc=AdkadSfdfP3bW86XHCFtm1AUcIkRsWro1pka3bn_gZVScRkso6eOQPsS1TfJifiXGE8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=E6TAJfoRFFeybvmFHQiKRg&oh=00_AfvxxJEPvp6W1g3BTqHnwoVAFTTRvSuKOZMfRsR-O0dLSQ&oe=69965AEF",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Husets Biograf",
+    "page_url": "https://www.facebook.com/HusetsBiograf/events"
+  },
+  {
+    "id": "1167235198632145",
+    "name": "The Sunday Lab",
+    "description": "Every second Sunday night, ICC's stage turns into a playful testing ground for bold new ideas. The Sunday Lab is where our experienced improv performers stretch their creative muscles—experimenting with fresh formats, unexpected groups, and never-before-seen games. It’s a playful space where new ideas take shape and risks are encouraged—always guided by the quick instincts of our seasoned improvisers. Come along, grab a drink, and be part of the experiment. Who knows? You might witness the birth of your new favourite show.\n\nDoors and bar open at 17:30. Please note that the theatre reserves the right to sale the ticket if the guest has not arrived at least 5 minutes before show starts. Tickets: 65 DKK | Active ICC Students get in for FREE. All purchases are final, no refund or rebooking of tickets.\n\nDisclaimer: Show may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience members under this age or to an audience member we believe is too drunk and could pose a potential disturbance for the show. Pets are also not allowed in the venue.\n",
+    "date": {
+      "start_timestamp": 1771174800,
+      "end_timestamp": 1771183800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1167235191965479/?event_time_id=1167235198632145",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/629595904_1475262504604356_4459224433497733112_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=W6kFpwFyG9IQ7kNvwH_FON2&_nc_oc=Adncu0m1rsrLbSt2uF9xOPl2jP4HZpiVdDZULk1ZmF5XsLwPgMO9nfF73fTBYXjJ2Yc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=hsZxdW5NFjdwoasdI3DNKg&oh=00_AfuZpD7p56toKBqirI5wKJZXjYAitZgyhiIEJsgWPyBWNA&oe=699651E2",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "1509952503400167",
+    "name": "Kafkas og Hanekes Slottet: Talk + film // FILOSOFISK FILMFESTIVAL 2026 // 14. februar 2026",
+    "description": "Kafkas og Hanekes Slottet: Talk + film / Filosofisk Filmfestival 2026\nLørdag den 14. februar 14.15\n\nHvad kan vi bruge Kafka til i år 2026? \n\nMed Ursula Scavenius ser vi nærmere på Kafka og går bag de klassiske læsninger af ham som symbol på absurditet og bureaukrati. Vi kigger på nogle af hans mindre kendte inspirationskilder, herunder østeuropæiske fortælletraditioner, gnostiske tankemønstre og tolkninger af den jødiske religionshistoriker Gershom Scholem og den tyske filosof og kulturkritiker Walter Benjamin.\n\nVi følger landmåleren K.’s kamp mod det uigennemskuelige system i ’Slottet’ og ser på, hvordan Kafka gennem blindgyder, fejl og forskydninger skaber en tvetydighed. Dette kan minde om poeten John Keats’ idé om negative capability – evnen til at forblive i tvivl uden at tvinge erfaringen ind i én forklaring. K møder kulde, mistillid og konstateringen af, at “gæstfrihed ikke er sædvane hos os”. Motiverne peger direkte på spørgsmål, der stadig er aktuelle i dag, som grænser, verdensudmattelse og hjemløshed.\n\nEfter oplægget viser vi Michael Hanekes filmatisering af ’Slottet’ (1997), hvor Kafka-universet omsættes til et radikalt filmsprog med forskydninger i rum og systemer. Udover de klassiske temaer som dobbelthed og individets kamp mod systemet, trækker filmen også på gnostiske metaforer, hvor kontorer og embedsmænd kan minde om gnostiske arkonter. Kafka mente selv, at film lagde “jernskodder for vinduerne”, så spørgsmålet er, hvad han ville mene om Hanekes forsøg på at omsætte hans litterære tvetydighed til filmiske billeder.\n\nOplægget varer 20 minutter, foregår på dansk og kræver ingen særlige forudsætninger. Filmen vises også i forbindelse med middag og længere forelæsning i marts – se dato herunder.\n \nOM OPLÆGSHOLDEREN:\n\nUrsula Scavenius er cand.mag. i litteraturvidenskab med speciale i Kafka og forfatter, uddannet fra Forfatterskolen, med base i København. Hun debuterede i 2015 med novellesamlingen ’Fjer’ og udgav i 2020 ’Dukkerne’, som blev solgt til den engelsksprogede verden. ’The Dolls’ udkom i 2021 i Storbritannien. Begge bøger har modtaget national og international anerkendelse. \n\nDette forår underviser hun i et længere kursus om Kafka på Københavns Folkeuniversitet: 'Kafka som kætter og kodeknuser' - læs mere om det her: https://www.fukbh.dk/program/litteratur-og-sprog/kafka-som-kaetter-og-kodeknuser\n\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/alle-film/film/39360\n\n------------------------------------\nOM FILMEN\n------------------------------------\n\nTHE CASTLE\nInstruktør: Michael Haneke\n\nMichael Hanekes 1997-filmatisering af Franz Kafkas roman 'Slottet' fra 1926 er et både absurd og dybt tankevækkende drama om individets kamp mod uigennemskuelige systemer. \n\nLandmåleren K. (Ulrich Mühe) ankommer til en landsby med håbet om at få adgang til slottet for at udføre sit arbejde, men støder konstant på bureaukratiske forhindringer og ubøjelig modstand. \n\n\"Landsbyen har ikke brug for dig,\" konstaterer en embedsmand tørt, en sætning, der indkapsler K.’s frustration og filmens filosofiske kerne. Landsbyen og slottet bliver et symbol på institutioner, der ser bort fra menneskelig logik og behov.\n\nHvad sker der med menneskets motivation og identitet, når alle forsøg på handling afføder nye barrierer? Haneke forlænger Kafkas absurde univers med en realistisk iscenesættelse, der gør den sorte humor nedtonet - og ikke mindre smertefuld.\n\nØstrig 1997\nDCP\n123 min.\nEngelske undertekster. Tilladt for børn over 15 år\nMed Ulrich Mühe, Susanne Lothar, Frank Giering, Felix Eitner, Nikolaus Paryla\n\n\n------------------------------------\nFILOSOFISK FILMFESTIVAL 2026\n------------------------------------\n\nFilm, talks, mad, bøger og tanker / Cinemateket 1. – 28. februar \n\nEr jura retfærdig? Var alting bedre i gamle dage? Kan kvinder køre bil? \n\nFilosofisk Filmfestival er for alle. Det er festivalen, hvor du går ind med et spørgsmål og går ud med ti nye - og måske friske tanker om, hvad det vil sige at være menneske.\n\nVær med til at undersøge, hvordan bureaukrati, nostalgi, køn, kunst og kollektiv bevidsthed former vores liv. Dyk ned i temaer som identitet, eksistens og overraskende møder. Fx mellem daoisme og Bob Dylan. Proust og Woody Allen. Jung og Nicolas Cage. Lang og dæmoni. Chomsky og Gondry. Stort og småt.\n\nBØGER. Festivalen byder på fire bogrelaterede foredrag i samarbejde med forlagene Mindspace og Aleatorik: Rundt om Chantal Akerman, Hélène Cixous, bell hooks og Alan Turing. Bøgerne kan købes i Cinemateket under festivalen.\n\nMAD. Kombinér eventuelt biografturen med et glas eller spisning i Restaurant SULT. Visse dage (*) er regulære temadage med længere forelæsninger i samarbejde med Københavns Folkeuniversitet, fulgt af middag – og naturligvis film.\n\nOVERBLIK. Festivalens program kan ses her: www.dfi.dk/filosofi\n\n------------------------------------\nOPTAKT-EVENTS\n------------------------------------\n\nTIRSDAG DEN 6. JANUAR\n16.30: Rundt om Chantal Akerman (bogreception, talk og film: 'No Home Movie')\n\nTORSDAG DEN 8. JANUAR\n14.00: 'Lola rennt' (talk og film)\n\nSØNDAG DEN 11. JANUAR\n20.00: 'Belladonna of Sadness' (talk og film)\n\nTIRSDAG DEN 13. JANUAR\n19.30: 'Meeting the Buddha' (film, instruktør-Q&A og reception)\n20.15: 'Meeting the Buddha' (film og reception)\n\nLØRDAG DEN 24. JANUAR\n18.45: 'Den skjulte tråd' (talk og film)\n\nSØNDAG DEN 25. JANUAR\n17.00: 'Meeting the Buddha'\n\nSØNDAG DEN 28. JANUAR\n19.00: 'Past Lives' (film og samtale)\n\n------------------------------------\nFESTIVALPROGRAM\n------------------------------------\n\nSØNDAG DEN 1. FEBRUAR\n12.30: 'Døde poeters klub' (Cinematekets Filmklub 11–15 år)\n16.00: Nostalgiens pris (talk og film: 'Midnight in Paris')\n19.00: Dylan og daoisme (talk og film: 'I’m Not There')\n\nTIRSDAG DEN 3. FEBRUAR\n16.45: Averroës og den arabiske filosofi (forelæsning, middag og film: 'Destiny')*\n\nONSDAG DEN 4. FEBRUAR\n16.30: Heidegger og fænomenologi (talk og film: 'Being in the World')\n19.00: Rundt om Hélène Cixous (bogreception, talk og film)\n21.30: 'Eksorcisten' (talk og film)\n\nTORSDAG DEN 5. FEBRUAR\n22.00: 'Dream Scenario'\n\nLØRDAG DEN 7. FEBRUAR\n13.45: 'Badiou' (film og instruktørsamtale)\n16.30: Nietzsche vs. Fritz Lang (talk og film: 'M')\n\nSØNDAG DEN 8. FEBRUAR\n19.15: 'Rashomon' (film og talk)\n\nONSDAG DEN 11. FEBRUAR\n20.00: Kierkegaard og Kristus (talk og film: 'Den sidste fristelse')\n\nTORSDAG DEN 12. FEBRUAR\n17.00: Fitzcarraldo og filosofien (to film og middag)\n\nLØRDAG DEN 14. FEBRUAR\n14.15: Kafkas og Hanekes 'Slottet' (talk og film)\n16.00: 'Badiou'\n\nSØNDAG DEN 15. FEBRUAR\n19.00: 'M'\n\nTIRSDAG DEN 17. FEBRUAR\n16.45: Identitet, kropslighed og kunst (foredrag, middag og film: 'Showing Up')*\n\nONSDAG DEN 18. FEBRUAR\n17.00: Rundt om Alan Turing (talk og film)\n19.30: Rundt om Noam Chomsky (talk og film)\n\nTORSDAG DEN 19. FEBRUAR\n10.00: 'Døde poeters klub' (Filosofi for konfirmander)\n16.30: 'Dream Scenario' (talk og film)\n\nFREDAG DEN 20. FEBRUAR\n16.30: 'The Headless Woman' (film og talk)\n21.45: 'The Castle'\n\nLØRDAG DEN 21. FEBRUAR\n13.45: 'Badiou'\n\nSØNDAG DEN 22. FEBRUAR\n16.30: 'The Headless Woman'\n17.00: Rundt om bell hooks (talk)\n\nTIRSDAG DEN 24. FEBRUAR\n16.30: 'Being in the World'\n21.30: 'Rashomon – Dæmonernes port'\n\nTORSDAG DEN 26. FEBRUAR\n16.45: 'Being in the World'\n21.30: 'Showing Up'\n\nFREDAG DEN 27. FEBRUAR\n19.00: 'Hesten fra Torino' (Nietzsche-intro + film)\n21.30: 'Is the Man Who Is Tall Happy? An Animated Conversation with Noam Chomsky'\n\nLØRDAG DEN 28. FEBRUAR\n21.30: 'Midnight in Paris'\n\n------------------------------------\nBONUSVISNINGER\n------------------------------------\n\nSØNDAG DEN 8. MARTS\n17.30: 'Showing Up'\n20.30: Rundt om Hélène Cixous (talk og film på Kvindernes Kampdag)\nTIRSDAG DEN 10. MARTS\n16.30: Kafkas og Hanekes 'Slottet' (forelæsning, middag og film)*\n\n------------------------------------\nMERE OM FILOSOFISK FILMFESTIVAL\nTANKER OM STORT OG SMÅT\n------------------------------------\n\nI efteråret 2022 udfoldede Cinemateket en stribe arrangementer om kvindelige filosoffer og fik i den anledning mange opfordringer til at holde snuden i det filmfilosofiske spor i mere alsidige kulturelle, geografiske og genremæssige retninger. Derpå fulgte disse festivaler:\n2023: https://www.facebook.com/events/660593932267153\n2024: https://www.facebook.com/cinemateket/posts/752758873556143/\n2005: https://www.facebook.com/events/842177717670042\n2006: www.dfi.dk/filosofi \n\nDette års festival er lavet i samarbejde med Dansk Selskab for Filosofisk Praksis og forlaget Gyldendal. Kuratorer: David M. Larsson, Dennis J. Rosenfeld og Rasmus Brendstrup. Kontakt: rasmusb@dfi.dk\n\n------------------------------------\nPRAKTISK INFORMATION\n------------------------------------\nKafkas og Hanekes Slottet: Talk + film / Filosofisk Filmfestival 2026\nSted: Cinemateket, Gothersgade 55, Kbh K\nTid: Lørdag den 14. februar 14.15\n\nBilletpris: 110 kr., dog 75 kr. for Cinematekets medlemmer\nBilletbestilling på tlf. 33 74 34 12 eller https://www.dfi.dk/cinemateket/biograf/alle-film/film/39360\n\nLæs mere om Cinemateket og medlemsfordele på: https://www.dfi.dk/cinemateket/medlemmer",
+    "date": {
+      "start_timestamp": 1771074900,
+      "end_timestamp": 1771082100,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Cinemateket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68318750000002,
+      "longitude": 12.578437500000021,
+      "bounds_ne_lat": 55.683250000000015,
+      "bounds_ne_lng": 12.57850000000002,
+      "bounds_sw_lat": 55.68312500000002,
+      "bounds_sw_lng": 12.578375000000023,
+      "plus_code_global": "9F7JMHMH+79",
+      "plus_code_local": "MHMH+79",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1509952503400167/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/619050548_1315227173975974_373996789848214278_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cNKyZaA81uQQ7kNvwHkf2uM&_nc_oc=AdnpPrDEOLu-KgdAwYbOx3Okq7mrTv_gMMIz_SmICiiQAhJjoI1fJVeTlKnGzelqu_E&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=oSkCZGa0oDd5FbjU7NLYiQ&oh=00_Aftc_H3rzTDNgxqgLMesMVrNdkLkhGj2HLDljvDFAb9fvQ&oe=69963EDE",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "Cinemateket",
+    "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "2335864223592199",
+    "name": "DeBattle / Amager Børnemusikfestival",
+    "description": "Kan en leverpostejmad være sjov? Eller rime på tiktok? Det kan den stensikkert, når freestylerapperne Ham Den Lange og Klaskefar træder op på scenen og improviserer med beats og ord om alt mellem himmel og jord til Amager Børnemusikfestival 🤙🏽\n\nNår mælkevejens bedste freestylerappere i Debattle går på scenen, er hvert eneste show unikt. Her blandes leg med ord, satire, alvor og skøre indslag sig, mens publikum er med til at komme med input.\n\nRapperne Ham den Lange og Klaskefar, der holdes i ørerne af tovholder Shahin Aakjær, kan gøre alting skægt, rørende og finurligt. Kom med til et skrupskørt show, hvor der improviseres rap og beats.\n\nLørdag 14.2 kl. 14 / fra 8 år\nBillet: 40 kr. Både børn og voksen skal have billet.\n🎫 Køb billet i forsalg her: https://billetto.dk/e/debattle-amager-bornemusikfestival-billetter-1769311?bref=eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoic2hhcmUiLCJjbyI6IjItZXAtREsiLCJ0IjoxNzY1MzY5MjQ5fQ%3D%3D\n\nFoto: Tinus Buus\n\n⭐ En del af Amager Børnemusikfestival ’26 ⭐ \nI vinterferien fyldes Amager med en eventyrlig symfoni af musikoplevelser, når børnenes musikfestival indtager bydelen! \nFra den 7.–15. februar kan I danse til rytmer fra hele verden, skråle med på fællessange, og opleve alt fra metal og opera til folkemusik, freestyle-rap og elektronisk pop. I kan også slippe kreativiteten løs i krea-værkstederne, hvor der skabes farverige kunstværker og hjemmelavede instrumenter. \n\nFestivalen finder sted på en række lokale kulturhuse, biblioteker og mødesteder: \nKvarterhuset, Bella Uno, Ørestad Bibliotek, Kulturhuset Islands Brygge, Solvang Bibliotek, Børnekulturhus Ama’r, Bibliotekshuset Rodosvej, A-huset, Kulturpilot Amager, Amager Centret, Hørgården Nærgenbrugsstation og Teater ZeBU. \n\nMusik er glæde og fællesskab – og vi glæder os til at dele det med jer! \n\nAmager Børnemusikfestival 2026 er støttet af Københavns Musikudvalg, Amager Øst Lokaludvalg, Amager Vest Lokaludvalg, De Børnekulturelle Midler og Statens Kunstfond. \n\nSe hele festivalprogrammet her: https://brugbyen.kk.dk/det-sker/amager-boernemusikfestival",
+    "date": {
+      "start_timestamp": 1771074000,
+      "end_timestamp": 1771076700,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/2335864223592199/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/597899785_875405965141882_9100658267586494221_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6AotSF4uxnsQ7kNvwG9f6x_&_nc_oc=AdkFGexXMt64UQHsR8aMtBkjUbg_MO8Y-v8tfdZvXsVXxt0nmkAYa0CmtJ12B8SNaSk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ePwuBvZJF8ifNT7CMMzLAg&oh=00_AfvTNLM5OJDXxEjXbgBP_KiL1u-XvYhXLu0AQjsgmxtqtA&oe=699654F3",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://www.facebook.com/KulturhusetIslandsBrygge/events"
+  },
+  {
+    "id": "2944587595734077",
+    "name": "Kald det kærlighed",
+    "description": "Kom i god tid. Pris 85.- og 45.- for medlemmer",
+    "date": {
+      "start_timestamp": 1771164000,
+      "end_timestamp": 1771171200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": "Godthåbsvej 33",
+      "city": "Frederiksberg",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/2944587595734077/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/581721741_10231248772229075_1770204964808488987_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iQrhg93E9AsQ7kNvwEfY1kj&_nc_oc=AdmgEeVAT_DCQd5rgZmOIEVZGXQpbhbm1_mrQtnYTIgmFr66GmG9sOMFDPU06dPuOC8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=uZ6yQHaTXLaMrIpBLyJtdw&oh=00_AfvbFJIbdbwqZaq1a3_MAFxoLwYZR9pkq0Yy7C1jO8c_bg&oe=699639BC",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "1817678682965333",
+    "name": "The Action 4s – Heise / Sørensen / Chaplin / Eger + support: Casper Hejlesen | Hotel Cecil",
+    "description": "Mathias Heise, Rasmus Sørensen, Conor Chaplin & Anton Eger – The Action 4s – leverer hæsblæsende jazzgrooves på Hotel Cecil den 14. februar under Vinterjazz.\n——————————————\n• Billetpris: 275kr\n• Billetsalg: https://www.billetlugen.dk/noapp/event/20751699/?affiliate=HC9\n• Døre: kl. 19\n• Koncert: kl. 20\n\nTilmeld dig Hotel Cecils Nyhedsbrev:\nhttps://www.hotelcecil.dk/nyhedsbrev\n——————————————\nTHE ACTION 4s bringer en ny lyd ind i dansk jazz. Bestående af stærke kræfter inden for miljøet, Mathias Heise, Rasmus Sørensen, Conor Chaplin & Anton Eger, debuterede gruppen med en håndfuld koncerter i 2023, som efterfølgende modtog 5 hjerter fra Politiken. \n\nI år landede deres debutalbum på April records, og den 14. februar indtager de Hotel Cecil under Vinterjazz. \n\nMathias Heise er en kromatisk mundharpevirtuos, der blev verdensmester i kromatisk mundharpespil som 20-årig og er i dag også er en etableret komponist og pianist. I 2016 modtog han Kronprinsparrets Stjernedrys Pris, i 2017 Ben Webster Prisen og i 2018 modtog albummet ”The Beast” med DR Bigband en præmiering fra Statens Kunstfond. Med sin kærlighed til instrumentet har han skabt en enestående lyd, der har ført ham til koncerter over hele verden.\n\nRasmus Sørensen er en dansk pianist, komponist og improvisator. Hans debuttrioalbum, Traits (2022), cementerede hans position som en visionær pianist på den internationale jazzscene. I november 2024 udgav han sit seneste album, At The Right Time. Efter fem år i USA flyttede han tilbage til Danmark i 2023.‍\n\nConor Chaplin er en engelsk jazzbassist, kendt for sin alsidighed, melodiske tilgang og dybe groove. Han har spillet med topnavne som Jacob Collier, Jeff Ballard, Ari Hoenig, Marius Neset og Ben Wendel, mens han er særligt kendt for sit arbejde med det Mercury Prize-nominerede band Dinosaur, har han turneret verden over og optrådt på nogle af de største jazzfestivaler. ‍\n\nAnton Eger er en svensk-norsk trommeslager kendt for sin eksplosive energi, præcision og kreative genreblanding. Han har været en drivkraft i JazzKamikaze og var med til at forme Phronesis' intense lyd. Han har også spillet en central rolle på majoriteten af Marius Nesets albums som trommeslager og medproducent. I 2020 blev han kåret som Årets Jazzmusiker ved Danish Music Awards og modtog støtte fra Statens Kunstfond for sit anmelderroste debutalbum. ‍",
+    "date": {
+      "start_timestamp": 1771095600,
+      "end_timestamp": 1771102800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hotel Cecil",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67943750000002,
+      "longitude": 12.577562500000013,
+      "bounds_ne_lat": 55.67950000000002,
+      "bounds_ne_lng": 12.577625000000012,
+      "bounds_sw_lat": 55.67937500000002,
+      "bounds_sw_lng": 12.577500000000015,
+      "plus_code_global": "9F7JMHHH+Q2",
+      "plus_code_local": "MHHH+Q2",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1817678682965333/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/557627373_1237974961704294_1778573256232536587_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=7gu3OElMUJgQ7kNvwGN5_e8&_nc_oc=AdkMgo2RJ4kX19MRDEmZUiPpxHwJUowvCxxRLLafXgVC7MRmhSf4WWY4OVceBn-bkYo&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=8kHprF8lAcNb9TPFGkVIpg&oh=00_AftebM-WDYFV8q6UcHPas-Cvs0r2R1Gp46g5xFtEqJNkWA&oe=69965D4E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hotel Cecil",
+    "page_url": "https://www.facebook.com/hotelcecilcph/events"
+  },
+  {
+    "id": "2691633787872242",
+    "name": "Sunday Sessions #30 presents: Project VO / Skyggeblæst (DK)",
+    "description": "\nSunday Sessions #30 presents:\nSkyggeblæst & Project VO\n\n18:30 - Doors\n19:00 - Skyggeblæst\n20:00 -  Project VO\n\nTICKETS: 80 / 120 DKK\n\nSkyggeblæst\nSkyggeblæst [Shadow Wind] is a collaboration between drummer and percussionist Hans Kristian Knold (HØK, Nabo) and flautist Mette Hommel (Blaume, Medea). Together they explore the inhabitant nature of their instruments, much like the first humans who beat a stick against wood and heard the air whistle over hollow branches. The percussiveness of the flute and the melodies in the drum kit are brought out and investigated, and a deep sense of what music has been, can be and will become is explored in their playing. \n\nProject VO\nProject VO is a duo between Rieko Okuda and Antti Virtaranta, active since 2010. The instrumentation has evolved in the last decade landing in Voice/Viola and Bass. The approach is an adventure through clicks and clacks morphing into pulsing repetitive rhythms and anti-melodies which collide with chaos and minimalism.\nThe Project VO approach is handcrafted like their limited releases \"glass hopper\" (2012) and \"プランクトン\" (2015), which reflect the way they navigate the free improvisation landscape. The characteristics of the music are repetitive and broken rhythms. The combination of piano and bass has evolved to viola and small electronics, which further push the duo to explore more colors and textures for their performances. They actively perform throughout Europe and in Japan including collaborations with different performers. More recently Project VO was invited to do a week-long residency in Budapest collaborating with a large number of Hungarian performers. Currently the duo is working on their 3rd limited release...\n\nhttps://project-vo.weebly.com/about.html \n\n\nOrganised in collaboration with KoncertKirken.\nSupported by Dansk Komponistforening, Dansk Musiker Forbund, Tuborg Fondet and Københavns Kommune",
+    "date": {
+      "start_timestamp": 1771178400,
+      "end_timestamp": 1771185600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Blågårds Plads 6A 2200 København N",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68681249999999,
+      "longitude": 12.5576875,
+      "bounds_ne_lat": 55.686874999999986,
+      "bounds_ne_lng": 12.557749999999999,
+      "bounds_sw_lat": 55.68674999999999,
+      "bounds_sw_lng": 12.557625000000002,
+      "plus_code_global": "9F7JMHP5+P3",
+      "plus_code_local": "MHP5+P3",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/2691633787872242/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/615825167_122203104350593153_67016127165627952_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=AbWg2OorNbcQ7kNvwE5K4rw&_nc_oc=AdnwO6ZCqdQ5hplY4w8zAJEOqGkZV3gyeTnMq4WJHGBbUKWhy2iw7baj2EqU8h8IVqU&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=y09Z4A0plD6K1ocGIlaJ5Q&oh=00_AfseuReiHbRZPOiLGD21ezTs-9GWHvX8MLiurh5eSOfGPw&oe=69965383",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "KoncertKirken",
+    "page_url": "https://www.facebook.com/koncertkirken/events"
+  },
+  {
+    "id": "1464992234588081",
+    "name": "Holly Humberstone [Support: Woody] - VEGA - Venteliste",
+    "description": "\nEn af Storbritanniens mest fortryllende sangskrivere kommer til VEGA\n___________________________________________________________________\n\nDøre: 19.00\nKoncert: 20.00\nPris: 290 kr inkl. gebyr\n___________________________________________________________________\n\nDen eminente britiske sangskriver Holly Humberstone vender tilbage til de internationale musikscener med sin nye gotiske kærlighedssang “Die Happy”. En forunderlig og småfarlig single, der leder lytteren ind i et mørkt, eventyrligt univers. \n\n\"Die Happy\" beskriver den berusende tiltrækningskraft af en kærlighed, der er så opslugende, at den kan ødelægge dig. Holly Humberstone fortæller om singlen i sin pressemeddelelse: \n\n“I wrote Die Happy thinking about a fairytale at night, somewhere between driving fast with the windows down and wandering through a crumbling old house. I took inspiration from The Bloody Chamber and Dracula and I wanted to show the feeling of throwing yourself into love fully and recklessly. There is danger min love.” \n\nSiden hun udkom med sin gennembruds-EP, Falling Asleep At The Wheel, for fem år siden, har Holly Humberstone skabt en magisk, musikalsk verden, der både er filmisk, intim og storslået på én og samme tid. \n\nHendes levende historiefortælling har ført hende ud af arbejdsværelset i hendes familiehjem i Grantham til scenerne på Glastonbury, Lollapalooza og Wembley Stadium, hvor hun varmede op for Taylor Swift sidste år. \n\nHolly Humberstone er blevet en af Storbritanniens mest vitale unge kunstnere, en ekstraordinær sangskriver og en stemme for sin generation, der er i stand til at indfange de svære følelser med millimeter præcision og transformere dem til smukke universelle sange om livet, og alt hvad det indebærer.\n\nSupport: Woody",
+    "date": {
+      "start_timestamp": 1771092000,
+      "end_timestamp": 1771106400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "VEGA",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMG9V+6G",
+      "plus_code_local": "MG9V+6G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1464992234588081/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/629350592_1358485609640268_8909264807623011917_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=dRdW2i1_IS0Q7kNvwHsaA-d&_nc_oc=Admnu4sd6LEKwGmyIAirAXYLWAMG-gtM5rXZnJ8xiqxxOaAZrFzZLns7RrgfWMPAYf4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=4BZqTUcbz_ilkrv6wBJt5Q&oh=00_AfvTZA8srlWHfKEDQr5zaapS2VowVkJJ0wOouIA6OxboXg&oe=69963CC4",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "VEGA",
+    "page_url": "https://www.facebook.com/VEGAcph/events"
+  },
+  {
+    "id": "881253084593704",
+    "name": "Seriously Quizzical Bastards #60 - IN HUSET",
+    "description": "Seriously Quizzical Bastards is a general quiz about stuff and boardgames and stuff, held in Bastard Café. Expect hard questions.\n\nThere will be a theme: Felintinx. You can probably decode that into a couple of relevant things. \n\nJoining is free and you can win vouchers for the bar💰.\nNo need to sign up, just be there shortly before 19.00 If you can't find us ask in the bar where the quiz will be today.\n\nWe will (probably) be Downstairs.",
+    "date": {
+      "start_timestamp": 1771178400,
+      "end_timestamp": 1771186500,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bastard Café - Board Games & Coffee",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676437500000006,
+      "longitude": 12.574812500000021,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.57487500000002,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574750000000023,
+      "plus_code_global": "9F7JMHGF+HW",
+      "plus_code_local": "MHGF+HW",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/881253084593704/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/605630184_1180753364191878_323785486062555096_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=z-6F4rBKdckQ7kNvwF-K1PT&_nc_oc=AdlqvYhJPXpTWpnqp6ZlirNfkDaAaxqXEzh9skZQYAD3m8kJThN2GzOTVpNKJdYpWBQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=esxVb7-wkkziqPcIkGCfcg&oh=00_Afsh8SaUjyo0fezzhn3g72q9HZWaYrY7RTU0VNuTc1h3NA&oe=69964C53",
+    "tag": "QUIZ",
+    "platform": "Facebook",
+    "page_name": "Bastard Café - Board Games &amp; Coffee",
+    "page_url": "https://www.facebook.com/BastardCafe/events"
+  },
+  {
+    "id": "1203757764696351",
+    "name": "Social Saturdays - IN NØRREBRO",
+    "description": "Easy Games. New People. Good Vibes.\n\nSocial Saturday at Bastard Café Nørrebro is your weekly dose of connection and fun.\n\nWe keep it super simple:\n• Walk in\n• Get matched with a friendly group\n• Learn a fun, fast, easy game in two minutes\n• Laugh, play, and meet great people\n\nOur Gurus are there to help you jump in - and switch things up whenever you feel like it.\n\nNo sign-up, no pressure - just a cozy table and good company.\n\n•\tWhen? Saturdays, 14:00–17:00\n•\tWhere? Bastard Café Nørrebro – Borgmestervangen 21\n•\tHow much? Free\n\nCome hang out, play a few rounds (or stay all afternoon), and make your Saturday a little more social.\n",
+    "date": {
+      "start_timestamp": 1771074000,
+      "end_timestamp": 1771088400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Bastard Cafe Nørrebro",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.702562499999985,
+      "longitude": 12.54006249999999,
+      "bounds_ne_lat": 55.70262499999998,
+      "bounds_ne_lng": 12.540124999999989,
+      "bounds_sw_lat": 55.702499999999986,
+      "bounds_sw_lng": 12.539999999999992,
+      "plus_code_global": "9F7JPG3R+22",
+      "plus_code_local": "PG3R+22",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1203757764696351/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/624332290_1213387147595166_6993180457384997547_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nT3tcDLK51AQ7kNvwFXctMS&_nc_oc=Admp1ahNWr2xG02rLcYaLamFb2nxlh38Q8sw_feEpcgJCGEqRtt9MGJDuY9zD6hO7u0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Z2BUKDENZKsuoRV15g12IQ&oh=00_AftWZeWAlylOJVPBJ--VVWRa2Wr7Wu5ZMeGvKpYX8cW8LQ&oe=699643E0",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "Bastard Café - Board Games &amp; Coffee",
+    "page_url": "https://www.facebook.com/BastardCafe/events"
+  },
+  {
+    "id": "2249967388822592",
+    "name": "Vinterferie for børn",
+    "description": "MAGISKE PERLENET\n\nDer sker mystiske ting på Glyptoteket. I Vinterhaven hænger store plastiknet, og i Festsalen vokser der plastikpalmer. \nDet er kunstneren Alia Farid, der er på spil, og inspireret af hendes værker, inviterer vi alle til at lave magiske og farverige perlenet i vinterferien. \n\nDe gamle ægyptere lavede magiske perlenet af fajance, som kunne beskytte deres afdøde.\n\nVores perler er af plastik, men det gør dem ikke mindre magiske. Lær teknikkerne til at lave et beskyttende net, og dyk ned i den forunderlige historie om, hvordan plastikperlerne engang var levende planter og dyr.  \n\n\nPRAKTISK\n\nPeriode: Vinterferien lørdag den 7. februar til søndag den 22. februar (museet har lukket mandag 9. februar og mandag 16. februar).\n\nTid: kl. 11-15 – sidste introduktion til aktiviteten er 14.30\n\nSted: Festsalen\n\n_____\n\nWinter break for kids\nMagical Beaded Nets\n\nMysterious things are happening at the Glyptotek. In the Winter Garden, large plastic nets hang from above, and in the Central Hall, plastic palm trees are growing. \n\nIt’s the artist Alia Farid at work, and inspired by her pieces, we invite everyone to create magical and colorful beaded nets during the winter break. The ancient Egyptians made magical beaded nets from faience to protect their deceased. \n\nOur beads are made of plastic, but that doesn’t make them any less magical. Learn the techniques to craft a protective net and dive into the wondrous story of how plastic beads were once living plants and animals.\n\n\nPRACTICAL INFORMATION\n\nDates:  Winter break from Saturday, 7 February, to Sunday, 22 February (the museum is closed on Monday, 9 February, and Monday, 16 February).\n\nTime: 11:00–15:00 – last introduction to the activity at 14:30 \n\nPlace: The Central Hall",
+    "date": {
+      "start_timestamp": 1771063200,
+      "end_timestamp": 1771077600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Glyptoteket",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6729375,
+      "longitude": 12.572562500000018,
+      "bounds_ne_lat": 55.673,
+      "bounds_ne_lng": 12.572625000000016,
+      "bounds_sw_lat": 55.672875000000005,
+      "bounds_sw_lng": 12.57250000000002,
+      "plus_code_global": "9F7JMHFF+52",
+      "plus_code_local": "MHFF+52",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/2249967365489261/?event_time_id=2249967388822592",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/616189148_1372561474914963_3738600570188002379_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YVsc2ZSjFmgQ7kNvwH0IavE&_nc_oc=Adn_f3ouji1XUWpvFmAOiUrnXflJkTHbSOEDc5EbBYNeRTe2FknjJJaMYvZXxm4pht8&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=vr6_jtb9mRS22d3VGbaFQg&oh=00_AfuAi8dmt5H0aYHnU9RprLSn9bSmf4JlbLyFZ48yKZIgbQ&oe=69963EDA",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Glyptoteket",
+    "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "1327451498554401",
+    "name": "FAMILIEVÆRKSTED I SALEN ",
+    "description": "Brug din søndag på hygge og kreative sysler i Absalon, når vi hver søndag fra kl. 10-13 har værksted i Salen.\n\nVi skal klistre, klippe og kreere forskellige ting fra gang til gang.\n\nVærkstedet er for børn og deres forældre, venner eller bedsteforældre.\n\nDu kan købe varm kakao, sodavand og en bolle med ost i baren.\n\nVi glæder os til at se jer!\n\n \nPRAKTISK INFO\n\nDet koster 40 kr. at være med. Du køber din billet på dagen.\nVi har de materialer du skal bruge.\n\nVærkstedet er åbent fra kl. 10-13. Værkstedet er drop-in, så I behøver ikke at være der lige fra start. Men kom gerne senest ved 12 tiden, så I kan nå at lave noget.\n\nBørn skal være ifølge med en voksen.\n\nVi glæder os til at se jer! \n\nHar i lyst til mere sjov, så har vi hver søndag børneteaterforestillinger i Klubben. I kan læse mere her: https://absaloncph.dk/event/boerneteaterforestillinger-3/7862400/\n \n\nTEMAER FOR FAMILIEVÆRKSTEDER\n\n►Søndag d. 2 november – Bind en bog\nI dag skal vi binde vores egne bøger ud af papir og med nål og tråd. Bøgerne kan bruges til at skrive historier i, lave tegninger eller skrive dine yndlings opskrifter ned i.\n\n►Søndag d. 9 november – Filteværksted\nDagen står på nålefiltning, hvor vi med nål og uld, skal filte ting med flotte faconer og farver. Dine kreationer kan hænges op i snor eller stå og pynte.\n\n►Søndag d. 16. november – Væv en stjerne\nTil denne søndags familieværksted, skal vi væve stjerne med garn på papir. Du vælger selv hvordan du sammensætter farverne og hvordan din stjerne skal se ud. De vævede stjerne, kan hænge og pynte.\n\n►Søndag d. 23 november – Ikke noget værksted i dag, grundet Vintage marked.\n\n►Søndag d. 30. november – Ikke noget værksted i dag, grundet Jule Bazar.\n\n►Søndag d. 7. december – Lav dit eget kort\nI dag skal vi lave vores egne kort. Vi skal klippe, klistre og lave personlige kort, som du kan give til en du holder af.\n\nFamilieværkstederne vender tilbage i det nye år. Vi starter op igen d. 11. januar.",
+    "date": {
+      "start_timestamp": 1771146000,
+      "end_timestamp": 1771156800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1148093913156828/?event_time_id=1327451498554401",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/487498450_984176170520723_7220920560514387442_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=6ZePz0XgqPwQ7kNvwHM8gug&_nc_oc=AdnMyX9sB8qDOhiGjtgrdGr46bZdLAasKtIX-pCVPd5cfgEY4GNYUPI7oDbfphFfVqg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=o2FBthvBYb4raPgt593c6Q&oh=00_Afs-rfiYaSsFOQR81LUn4kakHMaJ4-OeMHgBwGtfofliFw&oe=699643A9",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
+  },
+  {
+    "id": "888998430414121",
+    "name": "Madboks food distribution 15-Feb - Sundholmsvej 28a",
+    "description": "Join us to save food from going to waste at Sundholmsvej 28a, where you can collect some food for yourself and/or become a volunteer!\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent food from going to waste.\n\nTo BOOK A BOX, please follow this link:\nhttps://forms.gle/QUQ3LBn2pTrUiJEz9\n\nOur food boxes are given out on a donation basis - Everyone donates what they can afford, however, the minimum recommended donation is 25 DKK, so that we can cover the costs of each food distribution event.\n\nPlease bring a bag to carry the food in.\nPro tip! Bring a separate bag for bread and pastry, and we recommend bringing some food containers/Tupperware, to transport small/easily bruise-able items safely.\n\nIf you want to register as a volunteer, please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe...",
+    "date": {
+      "start_timestamp": 1771166700,
+      "end_timestamp": 1771170300,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/888998430414121/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/633942888_1202247872076491_603507605285939471_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0wkfulqoJQIQ7kNvwFdaUFq&_nc_oc=AdkotDRAm74rGv-8yu4KL_s7lJIsRChZZVQSDxEG3xvYgzP-1RljOCu-PXIs_AU2nJc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=ANviKUl09aEtbqG8HJur6g&oh=00_AfulFfRu9Ro16YOUitQKh6dquOeOc2RmCvYcCR5pjtILkg&oe=69963879",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "4206904276306949",
+    "name": "Anna Roemer With Strings | Hotel Cecil, København [Vinterjazz]",
+    "description": "Anna Roemer – vinder af Carl Prisen 2025 for Årets Komponist inden for Jazz – kommer til Hotel Cecil den 15. februar under Vinterjazz, hvor hendes drømmende guitarklange møder nærværende strygere. \n\nMed sig har hun sangene fra sit anmelderroste album Blåregn, som modtog seks stjerner fra GAFFA med ordene \"Et mesterværk\".\n——————————————\n• Billetpris: 225kr\n• Billetsalg: www.billetlugen.dk/noapp/event/20932113/?affiliate=HC9\n• Døre: kl. 19\n• Koncert: kl. 20\n\nTilmeld dig Hotel Cecils Nyhedsbrev:\nhttps://www.hotelcecil.dk/nyhedsbrev\n——————————————\nGuitarist og komponist Anna Roemer har markeret sig som en af de mest originale stemmer på den danske musikscene. Med sin særegne guitarlyd og et pedalboard som medspiller, skaber hun nærværende, billedskabende og dybt personlige lydlandskaber.\n\nI 2024 udkom hendes anmelderroste album Blåregn, som Gaffa gav 6 stjerner, og kort og godt kaldte \"Et mesterværk\". Albummet indbragte hende også Carl Prisen som Årets Komponist inden for jazz.I januar 2026 genudgiver Roemer albummet i en ny version med strygere, og \"Anna Roemer with Strings\" tager på turné i februar og hen over sommeren 2026. Projektet havde en stærk live-debut på årets Spot Festival med en fyldt Lille Sal i Musikhuset – til begejstrede anmeldelser:\n\n\"Tre strygere er de helt rigtige ingredienser at krydre Anna Roemers sælsomme guitarmusik med. De fire musikere må hjertens gerne sætte flere koncerter op sammen.\" – All That\n\nUdover Anna Roemer på sin Jazzmaster består kvartetten af:\n\nMaria Jagd (violin)\nMaja Freese (cello)\nJeppe Skovbakke (kontrabas).",
+    "date": {
+      "start_timestamp": 1771182000,
+      "end_timestamp": 1771189200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hotel Cecil",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67943750000002,
+      "longitude": 12.577562500000013,
+      "bounds_ne_lat": 55.67950000000002,
+      "bounds_ne_lng": 12.577625000000012,
+      "bounds_sw_lat": 55.67937500000002,
+      "bounds_sw_lng": 12.577500000000015,
+      "plus_code_global": "9F7JMHHH+Q2",
+      "plus_code_local": "MHHH+Q2",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/4206904276306949/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/579621090_1272869474881509_5647519955252829383_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=n9aSoUqndw8Q7kNvwG9rZZ5&_nc_oc=AdnFeYTMn3HrtR0hVKEpVxOy_hOQqGM1Yk_OMCawr9XzP6erWfEtzCSisy0S0AMrbzc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=RDrAJRQQ5oGtFBW92NX1nA&oh=00_Afs9K-txLyi2KnGI7SbJiGCBuArbKCIGnZX6_B3sJ6mriA&oe=69964BD3",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Hotel Cecil",
+    "page_url": "https://www.facebook.com/hotelcecilcph/events"
+  },
+  {
+    "id": "866564182489025",
+    "name": "Koncerten er desværre AFLYST",
+    "description": "Koncerten i morgen er desværre aflyst.. Ses måske den 7 Maj i Hard rock café, Rådhuspladsen, København",
+    "date": {
+      "start_timestamp": 1771092000,
+      "end_timestamp": 1771106400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Metronomen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.686062500000006,
+      "longitude": 12.533437500000005,
+      "bounds_ne_lat": 55.686125000000004,
+      "bounds_ne_lng": 12.533500000000004,
+      "bounds_sw_lat": 55.68600000000001,
+      "bounds_sw_lng": 12.533375000000007,
+      "plus_code_global": "9F7JMGPM+C9",
+      "plus_code_local": "MGPM+C9",
+      "plus_code_locality": "Frederiksberg, Denmark",
+      "copenhagen_district": "Frederiksberg"
+    },
+    "url": "https://www.facebook.com/events/866564182489025/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/587330412_851069331014333_9122973151628784652_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=osLZUdIiIgEQ7kNvwFgcH8B&_nc_oc=Adlb3VhAXzGuQD5ZKk8U-PfwAoaZJdbPkh6vaK4jK-HAbMkWo9TnVHBgAuC94yG2GkE&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=Xvdjj82i95eXwLAh48JfbA&oh=00_AftnLy2TUKTrtOdGjKMFtTEwQqIwlwqg2G2mB8x9fdYlzQ&oe=69962A20",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "4371992166417656",
+    "name": "SheCanPlay - showcase",
+    "description": "\n\nSale Dates and Times:\n\nPublic Onsale : Wed, 14 Jan 2026 at 02:00 PM\n",
+    "date": {
+      "start_timestamp": 1771178400,
+      "end_timestamp": 1771185600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "VEGA",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.668062500000005,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.668125,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.668000000000006,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMG9V+6G",
+      "plus_code_local": "MG9V+6G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/4371992166417656/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/615748948_1340886364746584_2740393383255998890_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fkXdqe_0mmgQ7kNvwFJMDUW&_nc_oc=Adn8Jv-GtcdQaUWP1LHqoPCwO4xZFo5AQn0sfLol6Q7FDD8tZ6N2dV5dGYxnrFtD2xg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=bytMz8xTf2NE7pm795Ou3g&oh=00_AfvKCBR7pfuHzIK6CJ4Pcr6hQQv80Zaj7xwDUBrjlp6_Mw&oe=69963349",
+    "tag": "GAMES",
+    "platform": "Facebook",
+    "page_name": "VEGA",
+    "page_url": "https://www.facebook.com/VEGAcph/events"
+  },
+  {
+    "id": "kk-one-bowl-0",
+    "name": "One Bowl",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Every week, a group of volunteers comes together to cook a warm, vegan meal for anyone who wants to join. We welcome people from all walks of life, no matter your background or financial situation. Our goal is to create a safe and kind space where everyone feels seen and valued. We believe in sharing food, stories, and time together to build community rooted in love, generosity, and equality. We post updates about each week's dinner on our Facebook page. Feel free to check in and come by!\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1771171200,
+      "end_timestamp": 1771178400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "KraftWerket",
+      "address": "Valgårdsvej 2, 2500 Valby",
+      "city": "Valby",
+      "country": "Denmark",
+      "latitude": 55.66143749999999,
+      "longitude": 12.518562500000016,
+      "bounds_ne_lat": 55.66149999999999,
+      "bounds_ne_lng": 12.518625000000014,
+      "bounds_sw_lat": 55.66137499999999,
+      "bounds_sw_lng": 12.518500000000017,
+      "plus_code_global": "9F7JMG69+HC",
+      "plus_code_local": "MG69+HC",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Valby"
+    },
+    "url": "https://kraftwerket.kk.dk/en/events/one-bowl-0",
+    "image_url": "https://kraftwerket.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-08/one%20bowl.jpg?itok=BVwulVO8",
+    "tag": "COMMUNITY",
+    "platform": "KK",
+    "page_name": "KraftWerket",
+    "page_url": "https://kraftwerket.kk.dk/en/events"
   }
 ]

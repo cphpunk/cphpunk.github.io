@@ -190,5 +190,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-mandy-indiana-uk-support-deliluh-dkca",
+    "name": "Mandy, Indiana (UK) + support: Deliluh (DK/CA)",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  On URGH, Mandy, Indiana is a force of uncanny nature, grafting together a record that is as much a call to action as a parlay into oblivion and transcendence. Following their acclaimed 2023 debut, i’ve seen a way, URGH finds the band expanding their far-reaching sound with each member - vocalist Valentine Caulfield, guitarist and producer Scott Fair, synth player Simon Catling, and drummer Alex Macdougall - actively taking part in the songwriting process. Across ten tracks, Mandy, Indiana interpolate their own unconventional language into a mantra for self-determination and resilience, forging a template for a brighter future before it fades to black.\n </p>\n <p>\n  URGH is deeply personal, yet also reflects the violent, fractured state of the wider world as Caulfield’s lyrics grapple with assault, systemic indifference, and the omnipresence of pain. While most of the lyrics are in her native French, the emotional clarity cuts through regardless of language. Caulfield still uses her voice as a distorted instrument and a weapon, oscillating between equal parts playful and eviscerating, showcased on today’s single, “Magazine.” The throbbing siren-sound of the song finds the band garnering drama from the juxtaposition of quiet moments and explosive commotion as Caufield sings in French: “Abandon / All hope / Because tonight / I’m coming for you.” The accompanying visualiser was directed by  Stephen Agnew.\n  <br/>\n  <br/>\n  Commenting on the song, Caulfield explains: “‘Magazine’ is the expression of the frustration and deep-seated violence I felt while attempting to recover from being raped. Just like most victims of sexual assault, I will never get justice, and just like most perpetrators, my attacker will never be punished. My therapist encouraged me to channel my anger into something productive, so here it is: my primal, screaming call for retribution. It is the only way I will ever get to say to my rapist: you hurt me, so I’m going to hurt you.”\n </p>\n <p>\n  For Mandy, Indiana, the truth is the only way through. In 2025, the ability to make art that is seen and heard is its own form of protest, and directly addressing these issues is its own reclamation of power and strength in solidarity. URGH is a cathartic first step toward healing and a refusal to let the conversation die.\n </p>\n <h3>\n  Support: Deliluh (CA/DK)\n </h3>\n <p>\n  Continuing their streak of bending against convention, Deliluh has unveiled their newest work, ‘AUX Angel’; a heavy knock at the door of avant-rock music by two dead-eyed outliers. The self-recorded, self-produced, self-released statement lands its blows with purpose and conviction. What's rendered by the Canadian/ Danish duo is a no-frills world of darkly lit adventure, incarnated last year by a sharp physical release of letterpress postcards.\n </p>\n <p>\n  After having traded jaywalking through inner-city Toronto for train-hopping between Berlin and Marseille months prior to lockdown, Deliluh emerged in 2022 distilled down to it’s two founding members with ‘Fault Lines’, a record documenting their transition from a four-piece noise-punk firebrand to a lawless rock anomaly with a bottomless appetite. Now, after two years away from touring, their recalibration has arrived aptly explored, setting a steady course for their homespun experimentations, while spitting on the shoes of complacency and the status-quo.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1776186000,
+      "end_timestamp": 1776200400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 Copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/mandy-indiana-uk-support-deliluh-dkca",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2025-11/WEB%20%2B%20BILLETTO%20%284%29_1.png?itok=nnXqW9N6",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

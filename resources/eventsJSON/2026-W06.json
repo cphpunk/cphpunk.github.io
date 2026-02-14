@@ -4572,8 +4572,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/549247234_1373445244784428_7053437607345500081_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ow5W_LxRPowQ7kNvwG1nB-t&_nc_oc=AdmCcvTM3m2SLd3Fv4kt8jhVg2g9kHO-jmAXDdD-jVU_wQaAevaGt-ma6bbRyUtAxvE&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=ATNiyTgqfyBeyznT0X_odg&oh=00_Afvdre5oFcPFpfsmiyvWhyUJ_dndWmY8quLtwyTQqB50eg&oe=698BA978",
     "tag": "GAMES",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Nørrebrohallen og Nørrebro Bibliotek",
+    "page_url": "https://www.facebook.com/Noerrebrohallen/events"
   },
   {
     "id": "1215012047263484",
@@ -4700,8 +4700,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/616189148_1372561474914963_3738600570188002379_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aM9org48RsAQ7kNvwGtQfvR&_nc_oc=AdlTUNquY5nG1tmh449PfAi9hlm1DvoFOPE5Q-4umSJtfRTMvKsgBlzSSWiwM1OXP3Y&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=VrndkG_-mxbg-XBKmeoeLw&oh=00_AfsXHbmAFwgey-5UjotNS5nOoAGCWLXGbgAPubkHqCgAYQ&oe=698BB2DA",
     "tag": "SHOPPING",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Glyptoteket",
+    "page_url": "https://www.facebook.com/glyptotek/events/"
   },
   {
     "id": "2071373503623219",
@@ -4764,8 +4764,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/487498450_984176170520723_7220920560514387442_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=iDZh4IpwYvgQ7kNvwGY3IRY&_nc_oc=AdlVT9pACUwU_xqUzti1ghUk_EfoZY_FIAAWNNw5j7F8De_LnUoLSxfJPS9oEBCEcto&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=8qrKrKIn2G94ydfaOxnpYg&oh=00_AfvpAI2oWSwnsrxVZ2cySO6-1h98gJ-XDt8HuybE-CjVJg&oe=698BB7A9",
     "tag": "SHOPPING",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Absalon",
+    "page_url": "https://www.facebook.com/absaloncph/events"
   },
   {
     "id": "1195933905401727",
@@ -5118,5 +5118,133 @@
     "platform": "Mayhem",
     "page_name": "Mayhem",
     "page_url": "https://mayhemkbh.dk"
+  },
+  {
+    "id": "1722027445637200",
+    "name": "The Fallen Sundays",
+    "description": "Lights! Action! Music! Our resident musical improv troupe THE FALLEN SUNDAYS always dazzle with a fully improvised musical improv comedy show.\n\nAll lyrics, harmonies and even dance moves are brilliantly created in the moment. Past show titles from the audience have included: “Shoes, The Musical!” and “Cookies, The Musical!”\n\nPractical information:\n\nDoors and bar open at 19:30.\n\nOut of respect for the other show guest please arrive at the theatre no later than 19:45. If you have not checked-in at the theatre by show start at 20:00, your reservation will be cancelled and the ticket will be made available to the stand-by line.\n\nAll purchases are final, no refund or rebooking of tickets.\n\nDisclaimer:\n\nShow may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience members under this age or to an audience member we believe is too drunk and could pose a potential disturbance for the show. Pets are also not allowed in the venue.\n\n",
+    "date": {
+      "start_timestamp": 1770400800,
+      "end_timestamp": 1770406200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1722027435637201/?event_time_id=1722027445637200",
+    "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/628053944_1475167747947165_2435355755285675728_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rWmOie1xli8Q7kNvwFNFLcI&_nc_oc=Adk9viNdR00EQpTNbZjoOSCZbihqU4j7QmywK9OoEefwH31oFUW30DqMi06pVJZ0BuA&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=B-XUDFWbtSmx-4F0geXH_g&oh=00_AfvrSt7b4BZZ_f-fLh-l_cieOhn_jiDSZEChkX2r_FWnYg&oe=698BBB7D",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "Det Kongelige Teater - Skuespilhuset",
+    "page_url": ""
+  },
+  {
+    "id": "877310891704979",
+    "name": "nICCe Sundays ",
+    "description": "nICCe Sundays is our weekly ICC community show night!\n\nCome and check out:\n\nTalent Pool: The future talent of ICC who perform regularly at nICCe Sundays. (The next step for Talent Pool members is joining the ICC Main Stage cast)\n\nOpen stage: Current ICC students performing anything from songs or stand-up, to poetry or experimental improv.\n\nThe evening varies in length according to how many acts we have, but is usually finished by 20:00.\n\nDoors and bar open at 17:30. Please note that the theatre reserves the right to sale the ticket if the guest has not arrived at least 5 minutes before show starts.\n\nTickets: 65 DKK | Active ICC Students get in for FREE*\n\n*Ticket ONLY valid when presenting a date valid ICC STUDENT CARD at entry. All purchases are final, no refund or rebooking of tickets.\n\nDisclaimer:\n\nShow may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience members under this age or to an audience member we believe is too drunk and could pose a potential disturbance for the show. Pets are also not allowed in the venue.",
+    "date": {
+      "start_timestamp": 1770570000,
+      "end_timestamp": 1774207800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/877310891704979/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/628413658_1475182231279050_7213773310667961394_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=aK9cFuuwPpUQ7kNvwGlHd9O&_nc_oc=AdnEsZeMt4S615V8hbOH4p5EotlPV79WkDeHfPUmQ3NtsBzsAraa2PY8NeLchZG-Rvs&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=c_V3Dbkz_iPK09V2QMMpQA&oh=00_AftLe6GeScUY0iNEti8yLCn8RQciC1AmMEL6QR9pO9JEZQ&oe=6996381F",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "2313416852416044",
+    "name": "The Comedy Happy Hour",
+    "description": "The Comedy Happy Hour is the perfect way to kick off your Saturday night. For one hour, our all-star cast of improvisers will deliver fast-paced games, quick wit, and laugh-out-loud comedy — all inspired by your suggestions. Pair the show with our special drink deals available throughout the night, and you’ve got everything you need to start your evening on a high note. Fun, social, and spontaneous — The Comedy Happy Hour serves up the laughs, the drinks, and the energy. All you have to do is show up and enjoy.\n\nPractical information:\n\nDoors and bar open at 17:30.\n\nOut of respect for the other show guest please arrive at the theatre no later than 17:45. If you have not checked-in at the theatre by show start at 18:00, your reservation will be cancelled and the ticket will be made available to the stand-by line.\n\nAll purchases are final, no refund or rebooking of tickets.\n\nDisclaimer: Show may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience member under this age. Pets are also not allowed in the venue.",
+    "date": {
+      "start_timestamp": 1770483600,
+      "end_timestamp": 1774720800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/2313416852416044/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/629335488_1475176307946309_6121386101924702621_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=LUDLQC8pbbkQ7kNvwFxdS7z&_nc_oc=AdnZ4GH1F0qCbi2_GZKkjXKx82Gz_JPU4JAFQvS-yrKw07jNyO7GwG4ebA9ArwTi9hg&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=AoOCchqvygOyeIDtSM8wLA&oh=00_AfvOjnA29yqDR-GK1oi0wBfcvtdvdsN8Ausa4fhfZtgijA&oe=69963C6F",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
+  },
+  {
+    "id": "25987413927560451",
+    "name": "Career Night",
+    "description": "Have you ever wondered what a work day is like for a doctor, rugby player or a teacher? In this fully improvised show, our performers will take inspiration from an audience members profession and explore the intricacies of modern work life.\n\nLaugh along as we dive into the foibles of disgruntled colleagues, deluded bosses and demanding customers.\n\nPractical information:\n\nDoors and bar open at 19:30. Out of respect for the other show guest please arrive at the theatre no later than 19:45. If you have not checked-in at the theatre by show start time at 20:00, your reservation will be cancelled and the ticket will be made available to the stand-by line. All purchases are final, no refund or rebooking of tickets.\n\nDisclaimer:\n\nShow may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience members under this age or to an audience member we believe is too drunk and could pose a potential disturbance for the show. Pets are also not allowed in the venue.\n",
+    "date": {
+      "start_timestamp": 1770490800,
+      "end_timestamp": 1774038600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/25987413927560451/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/629314989_1475179511279322_132516686098733995_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=75d36f&_nc_ohc=nc12nmiAdskQ7kNvwEbQyGK&_nc_oc=AdnpCp1PaVEBkAXgI6j26pOBVnYaSh-HI7HYkoVcZ9mhm16R0Rcbzu62xX_V0np2rp0&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=tfEa4ba_rB4UW41lZYXkhA&oh=00_AfsYF8eWo99r98BmP6NI6nNMUy_dUYvH3ulZ64t61CHjRg&oe=6996455B",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
   }
 ]

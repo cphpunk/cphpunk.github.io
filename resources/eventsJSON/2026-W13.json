@@ -348,7 +348,135 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/592216045_1478423124285734_189675804043793857_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=0ONieyIePSIQ7kNvwHcvYDZ&_nc_oc=AdmPMLD2LWa3jwLGoACDshqrLY4xbtMoXXta-C8KsyenU9zR-1lJVgGQV7hFqgDVjjo&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=L0j5frshU1PbpzTUoOUHCA&oh=00_AfuIbzwClEnrJlemVoBdfNRedP6gHI0MTa6R7xdLVA_-qA&oe=698BC106",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "786276477824701",
+    "name": "New Song Circle - March",
+    "description": "The New Song Circle is your monthly songwriters' new song workshop. Last Sunday of the month. It's free and no registration needed.\n\nIf you have a new song, an old song, part of a song, an idea for a song, even less, or just want to help your fellow songwriters in their work, show up and workshop with the host and other songwriters, it's usually even fun! Come, come, come!\n\nThe circle is hosted by various regular listening roomies or other fabulous songwriters. \n \nAfter the New Song Circle, the Listening Room will happen as usual from 19.30, with open stage registration from 19:15.",
+    "date": {
+      "start_timestamp": 1774792800,
+      "end_timestamp": 1774801800,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Hørsholmsgade 20, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMGRV+HG",
+      "plus_code_local": "MGRV+HG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/786276477824701/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/632871042_1476722741128330_2144533562930018777_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=MitolYdRRpwQ7kNvwFxI9jF&_nc_oc=AdnePYVBeAn34rfS4MgezjDEOP1waS6_Tav2UBRIa5qiAA-WXLyFjz-ob6oTihUcsEA&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=uMNsJ2suGKQHuQIXi2WPmQ&oh=00_Afur2MK6HjZgdIYcbsfQ59anxCGL5ANHgGbFimMqa9cbig&oe=69963F5E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Cph Listening Room",
+    "page_url": "https://www.facebook.com/CopenhagenSundayOpenStageListeningRoom/events"
+  },
+  {
+    "id": "899854079673044",
+    "name": "MODULE X AETHR",
+    "description": "The next wave of AETHR is here with the first edition of 2026, and we’ve prepared something truly special for you.\n\nHeadlining the night, we’re bringing you Tharat, known for his mega bangers released on Mind Against’s renowned HABITAT label. Expect powerful energy, big moments, and a sound made to move the dancefloor.\n\nBaime, Valon, and Davide Bonventre also join the lineup, bringing a cool, mystical, deep vibe to the night. Expect subtle tension, rolling energy, and a sound that pulls you in without trying too hard.\n\nIn the Kiosk, Sonydiam brings her Synthy Trip concept, known for playful synth lines, trippy textures, and a forward-moving groove that turns the room into a colorful, immersive ride.\n\nMain.\n00.00-02.00 Valon\n02.00-04.00 Baime\n04.00-06.00 Tharat\n06.00-08.00 Davide Bonventra \n\nKiosk.\nSynthy Trip Takeover\nTBA\n\n\nSafer Space & Inclusion – Our Shared Guidelines\nWe believe that all guests, artists, and staff are entitled to a space free from harassment, discrimination, and exclusion.\n\nBy entering our space, you agree to respect the following principles:\nⓞ No physical contact without clear consent.\nⓞ Racism, sexism, homophobia, and transphobia will not be tolerated.\nⓞ No staring or intrusive behavior – looking is fine, but respect boundaries.\nⓞ Photos and video recording are not permitted inside the club.\n\nWe come together with one common goal: to create a safer and open environment for everyone. All genders, skin tones, sexual orientations, ages, and body types are welcome. Harassment of any kind is not accepted.\nOur staff is here to support you. If you feel uncomfortable or experience any form of boundary-crossing\nbehavior, please reach out immediately.\n\nAge: +20\nDoor: 160kr \n",
+    "date": {
+      "start_timestamp": 1774652340,
+      "end_timestamp": 1774681200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Vesterbrogade 2B, 1620 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6754375,
+      "longitude": 12.566312499999995,
+      "bounds_ne_lat": 55.6755,
+      "bounds_ne_lng": 12.566374999999994,
+      "bounds_sw_lat": 55.675375,
+      "bounds_sw_lng": 12.566249999999997,
+      "plus_code_global": "9F7JMHG8+5G",
+      "plus_code_local": "MHG8+5G",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/899854079673044/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/629820963_889098257356006_4955490601643833508_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=eSnal8LahVcQ7kNvwH-odm5&_nc_oc=Adl-oVZ3Qt4mPsLA43OevdvuG1vi7O5R-sABKqvghPcdJiv2SHJWbYm-O_hLDh2I094&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=8YiyTUgSQXt4pnpDt8JekQ&oh=00_AftQEt8cqvYDqsNOc22q2SYvwM5__sBJISSF52oQAFej9A&oe=699641E7",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Module",
+    "page_url": "https://www.facebook.com/modulecph/events"
+  },
+  {
+    "id": "kk-off-the-cuff-an-improv-comedy-show-5",
+    "name": "Off The Cuff: An Improv Comedy Show",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Join us for a night of English-language improv comedy where everything is made up on the spot! Expect quick wit, wild characters, and hilarious stories you'll never see again.\n </p>\n <p>\n  Every scene, every character, every twist is inspired by audience suggestions. From absurd situations to razor-sharp wordplay, anything can (and will) happen!\n </p>\n <p>\n  Whether you're an improv regular or totally new to it, this show promises a fast-paced, feel-good evening full of surprises.\n </p>\n <h3>\n  What to expect:\n </h3>\n <p>\n  Four unique improv troupes performing back-to-back\n  <br/>\n  English-language comedy — accessible for everyone\n  <br/>\n  Completely unscripted, totally one-of-a-kind show\n  <br/>\n  A fun, friendly atmosphere and lots of laughter\n </p>\n <p>\n </p>\n <p>\n  To avoid disruptions, latecomers may not be admitted or may have to wait for a suitable break in the performance.\n </p>\n <p>\n  We highly recommend arriving on time to ensure a smooth experience for everyone.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774719000,
+      "end_timestamp": 1774728000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Xenon",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/off-the-cuff-an-improv-comedy-show-5",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/OfftheCuff_Billettouniversal.png?itok=juPz79E9",
+    "tag": "COMEDY",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-semphiz-telepa-t",
+    "name": "Semphiz & Telepa-T",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  In December 2025, they released yet another chapter in their long-standing collaboration with the album Vendetta.\n  <br/>\n  The Copenhagen-based rapper Semphiz, formerly known as Semih Automatisk, has been making waves in the Danish underground rap scene for more than a decade. He first emerged with the rap collective B.O.C and later with the group Sigma, with whom he released two albums throughout the 2010s.\n </p>\n <p>\n  Semphiz’s expression is authentic and explosive, keeping the listener on edge with his inventive language and vivid portraits. Telepa-T’s melodic and cinematic productions complete the storytelling, taking the audience on a high-speed journey filled with intensity and suspense.\n </p>\n <p>\n  Experience an intense rap show driven by powerful storytelling and uncompromising energy. This is not background music. It’s raw rap, heavy beats, and stories that hit hard – live and unfiltered.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1774638000,
+      "end_timestamp": 1774652340,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/semphiz-telepa-t",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-01/Semphiz%20%26%20Telepa-T%20Pressefoto%202026.jpg?itok=67LNNEus",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

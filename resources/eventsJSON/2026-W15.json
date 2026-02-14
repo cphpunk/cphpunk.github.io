@@ -124,7 +124,103 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/548282529_1401070718688176_7337234114810348105_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=75d36f&_nc_ohc=KRNLxuNXY7IQ7kNvwHHc-gh&_nc_oc=AdkTM9_Fgh3GJEw4KDmnxprXXieSFgLEjcsYqaOhAKqK76rzeBTWz7dx4yJo0WrfW5E&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=FbQ1micIofBSLqQfmJ5WZQ&oh=00_AftrrTmSJZ1QQ_rqMkgPrCQcXHfZ_1HbSeLs1V5I54cB8A&oe=698BA971",
     "tag": "COMEDY",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
+  },
+  {
+    "id": "786466311153005",
+    "name": "Turnip Greens",
+    "description": "Turnip Greens væver melankoli, melodier og støvet roots ind i sange fulde af varme og nærvær. Bandet skaber musik med et særegent dansk præg, har udgivet fire album – et af dem på det hollandske selskab Black and Tan – og inviterer lytteren ind i et univers, hvor følelser og stemninger får lov at stå stille lidt længere.\n\nSiden 2001 har Turnip Greens spillet sig vej ind i hjertet af den danske roots-scene med en lyd, der emmer af støv, sump og soul. Deres musik er skramlet og organisk som en porch i Louisiana-regn – forankret i New Orleans-traditionens varme og vildskab, men båret frem af nordisk melankoli og nærvær.\n\nMed et væld af koncerter i alt fra små klubber til europæiske festivaler er Turnip Greens kendt for at skabe intense øjeblikke, hvor publikum mærker både sårbarheden og styrken i musikken.\n\nBandet har base i København og er aktuelle med nyt materiale på dansk – den 12. september udkom singlen “Gamle rivaler” som første udspil fra deres kommende album.",
+    "date": {
+      "start_timestamp": 1775842200,
+      "end_timestamp": 1775849400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Amagerbrogade 135, 2300 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65668749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65674999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65662499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ45+MP",
+      "plus_code_local": "MJ45+MP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/786466311153005/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/624889682_1418400886963156_1854011676134153817_n.webp?stp=dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_ohc=qZGHTDF2ToQQ7kNvwET7eqZ&_nc_oc=Adn4kEumt83mnXfV8q_LUj18HTVEJw5PLouNk7hQkGJD1xXuyUpCu-tc2Smhtbec0VI&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=3xn1pihJHBdN7wwK_HvNag&oh=00_AfuXj_LF65c5j6lyUCbUYV-Hpjn1zdtkeseofGEB8_96Lw&oe=699654C8",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Amager Records",
+    "page_url": "https://www.facebook.com/amagerrecords/events"
+  },
+  {
+    "id": "3043127669208776",
+    "name": "Zine Fest Odense",
+    "description": "CPH Zine Fest is coming to Odense once again for the fourth time! Explore DIY, art, zines and prints from around 30 artists in Ungdomshuset.\n\nMore TBA",
+    "date": {
+      "start_timestamp": 1775901600,
+      "end_timestamp": 1775923200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Nørregade 60, 5000 Odense C, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.40056249999999,
+      "longitude": 10.388812499999986,
+      "bounds_ne_lat": 55.40062499999999,
+      "bounds_ne_lng": 10.388874999999985,
+      "bounds_sw_lat": 55.400499999999994,
+      "bounds_sw_lng": 10.388749999999987,
+      "plus_code_global": "9F7GC92Q+6G",
+      "plus_code_local": "C92Q+6G",
+      "plus_code_locality": "Odense, Denmark",
+      "copenhagen_district": "Unknown / Not Copenhagen"
+    },
+    "url": "https://www.facebook.com/events/3043127669208776/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/632528081_925865963331003_385946177047145662_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=75d36f&_nc_ohc=YnzE-BVUbWwQ7kNvwGX3EY7&_nc_oc=Adl1mX0ARB_9Y7375VizYRYBTXjuZfKpyCf9Jibvz17E0hmO1RhwFE7WAP25s1HTP9Y&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=amZGvmG8ICiI9UCDYe3o5w&oh=00_Afur-2efpe3X8IN9LNmyrC7YULjX7C92-uj4vcrAQozWhg&oe=69965634",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "CPH ZINE FEST",
+    "page_url": "https://www.facebook.com/cphzinefest/events"
+  },
+  {
+    "id": "kk-night-journeys-europa-de-support-buildupbreakdown",
+    "name": "Night Journeys: Europa (DE) + support: buildupbreakdown",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Europa is an artist working at the intersection of sound, video, and spatial design. Treating music as a multidisciplinary medium, he operates across a wide creative spectrum - blending pop, ambient, trap, indie, and beyond into emotionally charged, genre-fluid compositions. His work straddles the edges of art and music, forging collaborations that extend into performance, visual design, and installation.\n </p>\n <p>\n  With releases like Nobedience on Berlin’s boundary-pushing label Transatlantic, Europa continues to dissolve the lines between concert and experience. Whether behind the decks or engulfed in flames and visuals, his performances transcend the traditional, becoming sculptural, immersive environments. Pyrotechnic-infused audiovisual shows or bass-heavy DJ sets - each is a full-spectrum sensory journey, engineered with surgical precision.\n </p>\n <p>\n  By extracting and reshaping the essence of genres, Europa crafts hyperkinetic soundscapes that mesh visceral intensity with emotional nuance. His music pulses with life, distorting the familiar into something radically new-blissful and blistering, immersive and unrelenting.\n </p>\n <h3>\n  Support: buildupbreakdown\n </h3>\n <p>\n  buildupbreakdown is an artist who draws his strength from contrast. His universe moves between light and darkness, between explosive energy and fragile calm. The music is raw, personal, and uncompromising, carried by an honesty that hits the audience straight on.\n </p>\n <p>\n  buildupbreakdown exists in the extremes — either soaring high in near euphoria or crashing down where everything falls apart. This tension is present not only in the lyrics and sound, but also in his stage presence. He is intense and fully present, creating a raw and direct connection with the audience. The experience is unpredictable, authentic, and powerful.\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1775757600,
+      "end_timestamp": 1775771940,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Xenon",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.676437500000006,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.676500000000004,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67637500000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+HV",
+      "plus_code_local": "MHGF+HV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/night-journeys-europa-de-support-buildupbreakdown",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-01/WEB%20%2B%20BILLETTO.png?itok=uYouPvkf",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

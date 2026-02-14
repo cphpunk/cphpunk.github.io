@@ -92,8 +92,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/530989902_1327373019393320_6704728941681178316_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=fOFMSKhAk7AQ7kNvwE7jB2M&_nc_oc=AdlBRozkTx9_pXVqO_9h4fgogvZ9VKYAGnxTsjh0kNbOOcrJN5hb1eHE_-gHuLOWbQI&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=GAtAQCaiiFmOjY55BGOHcg&oh=00_Afss4mKDbvlJ3YGdnWclpHk0KcXTZz8_lyKyaVPNxL79bQ&oe=698BC465",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
   },
   {
     "id": "kk-jazz-og-strik",
@@ -476,8 +476,8 @@
     "image_url": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/503560248_698932019408004_6288846904158234466_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=75d36f&_nc_ohc=J7am30Txmj0Q7kNvwGZvg6F&_nc_oc=AdmwuM74ukai08uxx1DiKLvhdN0K3m0K_yc9rI9M_EKJRjsQ4iFdMfaqO4PesP_WLds&_nc_zt=23&_nc_ht=scontent-cph2-1.xx&_nc_gid=QOntlqgHSCO7w_sVDj8lMg&oh=00_AfsA0fYq-kxYnt2QoJq6jWiLHMxW6lVfYQzmnR0jTKtbRw&oe=698BB248",
     "tag": "MUSIC",
     "platform": "Facebook",
-    "page_name": "CHANGE_ME",
-    "page_url": "CHANGE_ME"
+    "page_name": "Metronomen",
+    "page_url": "https://www.facebook.com/metronomenfrb/events"
   },
   {
     "id": "1556472458973609",
@@ -606,5 +606,165 @@
     "platform": "Facebook",
     "page_name": "CPH:DOX",
     "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "1581664419716631",
+    "name": "Federale (US) - Support: Megan Diana (US) - BETA",
+    "description": "140 kr. i forsalg / 155 kr. i døren\nDøre kl. 19 / show kl 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nFederale er et Portland‑baseret musikprojekt ledet af Collin Hegna, kendt som mangeårig bassist i The Brian Jonestown Massacre. Bandet blev skabt som et frirum til at udforske inspirationen fra europæiske lydspor fra 60’erne og 70’erne, især de ikoniske italienske Spaghetti‑western- og Giallo‑film, som tydeligt præger deres musikalske univers.\n\nHvis Lee Hazlewood lavede en plade med Nick Cave, arrangeret af Ennio Morricone, ville resultatet måske minde om Federale: mørke, filmiske og fortællende sange, der bevæger sig mellem gotiske 80’er-landskaber og solblegede, forvrængede italienske fuzz‑eksplosioner. Midt i dette lydlandskab står Hegnas dybe barytonvokal som en sirene, der fører lytteren gennem tætte skove af strygere, synthesizere og dramatisk atmosfære.\n\nBandet er et seks- til syv‑mandsensemble, der over årene har udgivet en række anmelderroste albums, herunder All the Colours of the Dark (2016), No Justice (2019) og deres seneste Reverb & Seduction fra 2024. Federales musik har desuden fundet vej til flere film- og tv‑produktioner, hvilket understreger deres særlige flair for det cinematiske.\n",
+    "date": {
+      "start_timestamp": 1773514800,
+      "end_timestamp": 1773522000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1581664419716631/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/625894769_1529746469154188_4577760530373093616_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=75d36f&_nc_ohc=Y3JrnnXptjoQ7kNvwGmSm_G&_nc_oc=Adl0g9XPB84bqdRdRwKOxq5xbDnzr9XWcfilb7Ncd9qH6UGr3UKD702307VcfGTSnrc&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=0BTNLlNry8P_IQXCrJA0Bw&oh=00_Afsr6y5H9dMbS3SZiX2paR9GJ6i2Ua4G00GdoUHBOu2_TQ&oe=6996327A",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "1509369350112850",
+    "name": "Black Seagull - Releaseshow - BETA",
+    "description": "140 kr. i forsalg / 155 kr. i døren\nDøre kl. 19 / show kl. 20\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\nBlack Seagull invitererer til releaseshow med nyt album 'Rules and Gods'\n\nDet danske band Black Seagull bliver den 13. marts aktuelle med albummet 'Rules and Gods,' der er en solid blanding af rock og indie.\n\nPå 'Rules and Gods' udforsker Black Seagull spændingsfeltet mellem menneskelige erfaringer, samfundets normer og personlige værdier. Gennem stærke melodier, markante vokalharmonier og et mere elektrisk lydbillede end tidligere, kredser albummet om temaer som identitet, frihed og tro. Særligt singlen 'Lines' har allerede vakt begejstring blandt publikum.\n\nAlbummet er indspillet i 2025 over flere sessions i samarbejde med Lennart Wendt. Produktionen adskiller sig fra bandets tidligere udgivelser ved at lægge større vægt på elektriske guitarer og dynamiske trommer, som stilsikkert understøtter og sammenfletter med stærke sange og vokalharmonier.\n\nBlack Seagull består af:\nBo Morthen (vokal og guitar), Benjamin Hammerum (guitar og vokal), Bjarni Olsen (guitar) og Mads Juhl (trommer, percussion og vokal).\n\n'Rules and Gods' udkommer den 13. Marts 2026\n\n\n",
+    "date": {
+      "start_timestamp": 1773428400,
+      "end_timestamp": 1773435600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "BETA2300",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.65793749999999,
+      "longitude": 12.609312499999973,
+      "bounds_ne_lat": 55.65799999999999,
+      "bounds_ne_lng": 12.609374999999972,
+      "bounds_sw_lat": 55.65787499999999,
+      "bounds_sw_lng": 12.609249999999975,
+      "plus_code_global": "9F7JMJ55+5P",
+      "plus_code_local": "MJ55+5P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Øst"
+    },
+    "url": "https://www.facebook.com/events/1509369350112850/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/598842570_1482343047227864_7159995836766004688_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=_GysIUDnOeEQ7kNvwHDT3AT&_nc_oc=AdmoN2nCNebhGhx33aSm9AsKhVp954yCV3lPI8NygkRRBJ_J5kkKm6pfPd7Mn0Z_sVk&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=pRP16lUENSi0VaE2GzShPA&oh=00_AfvHQcWnu9gRaM3M6K5Ixkn3chMayWgfTXD7-A6P_ys6Ng&oe=69965194",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "BETA2300",
+    "page_url": "https://www.facebook.com/beta2300/events"
+  },
+  {
+    "id": "879203768056958",
+    "name": "Cph Listening Room Feat: Karen Vibeke (DK)",
+    "description": "Karen Vibeke writes catchy songs about everything between heaven and earth. The tone is jazzy, but also borrows from folk and classical music, with the violin as the supporting instrument. She is versatile and also loves improvising on the violin. Her musical universe is light pop, folk, and jazzy, and her voice has a warm, lively and dreamy feel.\n\nOpen stage:\nTwo-song spots (max 10 minutes) for the first 14 songwriters who sign up from 19.15. Live original music only. Eloquent hosting - and a bunch of friendly volunteers on sound, lights, cameras & in the bar.\n\nFeatured artist at 9 pm:\nKaren Vibeke (DK)\nyoutube.com/@karenvibeke\n\nFree entrance!\n\nOur weekly Copenhagen singer-songwriter venue is known for its attentive audience, international & welcoming atmosphere and pro sound. And, for being all volunteer run, by The Listening Roomies Forening. House guitar & baby grand piano.",
+    "date": {
+      "start_timestamp": 1773597600,
+      "end_timestamp": 1773612000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hørsholmsgade 20, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69143749999999,
+      "longitude": 12.543812499999987,
+      "bounds_ne_lat": 55.69149999999999,
+      "bounds_ne_lng": 12.543874999999986,
+      "bounds_sw_lat": 55.691374999999994,
+      "bounds_sw_lng": 12.543749999999989,
+      "plus_code_global": "9F7JMGRV+HG",
+      "plus_code_local": "MGRV+HG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/879203768056958/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/634508026_1476646871135917_8473322514493403819_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=75d36f&_nc_ohc=rdEJ4rNnNzUQ7kNvwF2e8ix&_nc_oc=AdnWU4OvGYmTOFvKVVgO-aLH_-wX--qviAnDNTUxfcxXjuQ6YYzYHDG8kGy-9cd7rvw&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=hmqKaqAUE1AtTSzy5i9xUw&oh=00_Aft2rmEO7j81v1Y-xFommJwK_p7dHQzZX4NaQKSVm5CuVg&oe=69965280",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Cph Listening Room",
+    "page_url": "https://www.facebook.com/CopenhagenSundayOpenStageListeningRoom/events"
+  },
+  {
+    "id": "1232143958936429",
+    "name": "Dokumentarfilm MARIINKA i HEDENSTED:DOX",
+    "description": "En oplevelse ud over det sædvanlige!\n\nOplev den stærke og medrivende dokumentar Mariinka, der følger unge menneskers liv i den østukrainske by Mariinka, et samfund formet af mere end et årtis konflikt og krig. Filmen er instrueret af den anerkendte belgiske filmskaber Pieter-Jan De Pue og bygger på ni års optagelser. Her kommer vi tæt på unge menneskers skæbner midt i en verden, hvor krigens realiteter hver dag sætter identitet, tilhørsforhold og menneskelige relationer på prøve.\n\nOplæg før filmen \nInden filmvisningen vil der være et kort oplæg ved en lokal person med indgående kendskab til Ukraine, som giver baggrund og perspektiv på filmens tematikker og den aktuelle situation i landet.\n\nI Mariinka møder vi blandt andet:\n- et lovende boksetalent, der bliver militærlæge\n- en pige, der må smugle varer over frontlinjen for at overleve\n- to brødre, der ender på hver sin side af frontlinjen, mens deres yngste bror vokser op i tryghed langt fra krigen\n\nFilmen skildrer både håb og konflikt, og giver et menneskeligt perspektiv på en aktuel og kompleks verdenssituation – langt fra nyhedsoverskrifter, men tæt på dem, det faktisk gælder.\n\nMariinka varer ca. 90 minutter og vises med danske undertekster. Billetpris: 50 kr.",
+    "date": {
+      "start_timestamp": 1773252000,
+      "end_timestamp": 1773259200,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Hedensted Bibliotekerne",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1232143958936429/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/631375307_122187203702487098_772246021705075197_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=75d36f&_nc_ohc=RpnhT60BOLsQ7kNvwEloyap&_nc_oc=AdnVYpf9S7hdjj0ycYmo5BnXZVXhilA1qAmkma9q-7HjB_8G-42v1get9LTLjD2fAuQ&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=L_R6acFhHrae4HLJGzwM4A&oh=00_AfvpDboHfKTaPClAbkQu1Zt0V1PQiIoQ86MLglagIlkn-A&oe=69963D11",
+    "tag": "MOVIE",
+    "platform": "Facebook",
+    "page_name": "CPH:DOX",
+    "page_url": "https://www.facebook.com/cphdox/events"
+  },
+  {
+    "id": "kk-the-silly-haha-show",
+    "name": "The Silly Haha Show!",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Silje Ballsneeze and Hazel Alva have finally decided to tie the knot creatively! The knot is a show and the tying is doing the show!\n </p>\n <p>\n  A comedic musical experience you’d be a fool to miss out on. A cute fool, but a fool none the less. Don’t you want to be able to say that “I went to the first ever Silly Haha show” when you see Silly Haha on Late Night with your grandkids in 5 years???\n </p>\n <p>\n  Of course you do, you’re a tastemaker and your taste is great!\n </p>\n <p>\n  Their comedy explores polarity, emotionality and the hypocrisy we all carry within us, with humour! And songs, lots of songs!\n </p>\n <p>\n  We aim to please (a little too much) and release your inner demons into primal roaring laughter!\n </p>\n <p>\n  Cum to an explosive, seductive, alluring, caring and thoughtful night of music, comedy, silliness and haha’s!\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1773428400,
+      "end_timestamp": 1773435600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Musikcaféen",
+      "address": "Rådhusstræde 13, 1466 København",
+      "city": "København",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/the-silly-haha-show",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/co-creation/event/CopyofMestizo1920x1080px%20%281%29.png?itok=v8ggzFnX",
+    "tag": "COMEDY",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

@@ -3998,5 +3998,37 @@
     "platform": "Facebook",
     "page_name": "Glyptoteket",
     "page_url": "https://www.facebook.com/glyptotek/events/"
+  },
+  {
+    "id": "816198751415691",
+    "name": "4tallet Marmelade Mondays",
+    "description": "4TALLET MARMELADE MONDAYS\n\n\nMonday 8th of December | 19:00-23:45 |\n4tallet and music collective Marmelade Culture invites you to an intimate showcase of standout voices shaping the scene today. After the feature act, we will open the stage, so bring your instrument and come share your music with us!:)\n\n\n\nADDRESS: Højbro Plads 3, 1200 København K\nDOORS OPEN at 19:00\nFREE ENTRANCE\nFEATURE ACTS + OPEN STAGE\n\n\n/// ABOUT THE ARTISTS ///\n\n\nMELLEM OS\nMellem Os is a band that gets the dancefloor going, but also puts lifes biggest emotions into words through soft ballads.\nWith strong political lyrics, catchy choruses and a sound inspired by funk, jazz and rock,\nyou are taken back in time, to a melodic and soulful universe.\n\n\nTIR & EA\nTir & Ea write introspectively and with attention to detail. Their songs are deepfelt ventures towards a sense of inner truth, in a genuine quest for meaningful expression of the themes that are prevalent in their lives. Ea has a soulful, unique and authentic sound, poetic lyrics and a love for elegance and the bigger picture. Tir is a harmonybuff and wordsmith, singing with an intense and precise silky bariton/tenor voice.\n\n\nBANAT\n\nBanat Kaur Bagga is a Mumbai-based singer-songwriter known for her genre-blending music, which combines pop, rock, neoclassical, and folk influences. She also co-founded 3 Art House, a space for art, culture, and community. Her music often features narrative-driven, surreal, and allegorical themes, drawing inspiration from her childhood Kirtan singing and a love for progressive rock bands like Pink Floyd. \n\nShe began her musical journey at a young age with harmonium and semi-classical music before embracing rock music with the guitar and piano. She cites progressive rock artists like David Gilmour as an influence, which can be heard in tracks like Flish.\n\nHer music often explores themes of love, fantasy, romance, and surrealism. Some songs are inspired by her pets, with her cat serving as a muse for tracks like For The Child In You.\nDebut EP: Flish is her debut EP, which features a blend of piano and guitar-based tracks.\nPunjabi folk music: In 2024, she released her debut Punjabi Folk single, Daachi Waaleya, which featured international musicians. \n\nOther work\n3 Art House: She is the co-founder of 3 Art House in Mumbai, where she builds and curates spaces for art, culture, and community to interact. \n\n.\n.\n.\nWHAT IS MARMELADE CULTURE?\nMarmelade Culture Is a music collective aiming to create artistic offline communities and forums. The group started out curating monthly events like concerts, open mics, jams and workshops with the goal of creating an open space for electronic musicians in Denmark. This quickly morphed with other fellowships like the flourishing songwriter scene in Cph and the group now does nights across different genres as well as being involved in radio and TV presentation and production tasks for various artists.\nFor our events, values like community, inclusion, safety, and curiosity are essential. We aim to create a space where people come first and where people feel free to explore art with sincerity. Our mission is to bring together, and strengthen the creative communities that already exist across different media, because we believe that new artistic forms emerge when these worlds meet.\n.\n.\n.\n\n\n\n\n\n\n\n",
+    "date": {
+      "start_timestamp": 1765216800,
+      "end_timestamp": 1765233900,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "4Talletlive",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/816198751415691/",
+    "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/595219105_10238611270962597_5422680688437547900_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=75d36f&_nc_ohc=FGxLoc5YtXwQ7kNvwFd9g3I&_nc_oc=Adljj6qPvB1jayhhXWkhh4_mAq-WN4oXz1_RpCtcvyVVxhyDSdAScgbcCJMEZhDPj64&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=44HYge6WPIrPUXAauKlsoQ&oh=00_AftxGerWsi2mq9UwpniIaWp3m6vVClDZt8UlXXj9HxnXwg&oe=699628BF",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
   }
 ]
