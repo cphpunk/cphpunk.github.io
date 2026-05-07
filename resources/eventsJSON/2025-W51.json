@@ -2974,5 +2974,37 @@
     "platform": "Facebook",
     "page_name": "Bøssehuset",
     "page_url": "https://www.facebook.com/boessehuset/events"
+  },
+  {
+    "id": "1381563450285907",
+    "name": "PUUT library - Art Residence at Red Door",
+    "description": "Red Door Gallery will host a mini-residency by the PUUT library throughout December 2025. The residency opens with an evening program on December 19 from 16, designed to introduce visitors to PUUT’s collaborative and process-driven approach to artist publishing.\n\nThe inaugural event features an open workshop in which participants collectively produce a book over the course of the evening. The program for the residency will be introduced, followed by readings, performances, and live interpretations drawn from selected PUUT titles. Visitors will also have the opportunity to join the library, borrow materials, and return throughout the residency to explore additional works.\n\nPUUT is a nomadic, DIY artist’s book library in which each publication remains in development, evolving from an extensive archive of more than two million photographs generated since 2003. Operating at the intersection of artistic practice, librarianship, and archival research, PUUT cultivates dialogue around artistic method, aesthetics, and philosophical inquiry. In contrast to increasingly high-tech modes of cultural engagement, it offers an analogue environment oriented toward reflective encounter.\n\nThe library has been presented at book fairs, artist-run spaces, and institutions internationally. Its current collection comprises 115 titles and a membership of 225 individuals from 24 countries, with 233 recorded loans to date.",
+    "date": {
+      "start_timestamp": 1766156400,
+      "end_timestamp": 1766163600,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Red Door",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.691687499999986,
+      "longitude": 12.557062500000015,
+      "bounds_ne_lat": 55.691749999999985,
+      "bounds_ne_lng": 12.557125000000013,
+      "bounds_sw_lat": 55.69162499999999,
+      "bounds_sw_lng": 12.557000000000016,
+      "plus_code_global": "9F7JMHR4+MR",
+      "plus_code_local": "MHR4+MR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1381563450285907/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/597899738_1522500596544115_6194444967740105410_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=WSOxTyvAnJgQ7kNvwG9_QjG&_nc_oc=AdrA5Nm3uIbGLrv0OyIYDCI04CGFAjvdMrFEGp6AyQUY6K3SFtwHvYsETkCsacOEaMI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Bg8If6Xe-GXvb_EHP_QKeA&_nc_ss=7c289&oh=00_Af4DQNduUPS2tXSYSpCj2xBPHvCR31Gfv-qv1NQxe4eJFw&oe=6A02356A",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
   }
 ]

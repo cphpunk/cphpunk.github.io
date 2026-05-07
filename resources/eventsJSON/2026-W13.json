@@ -478,5 +478,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "4494871797459171",
+    "name": "ACTION DAY AGAINST RACISM 2026",
+    "description": "When: 28 of March, 13h - 24h\nWhere: at Folketshus (Stengade 50, Copenhagen)\n\n\nThe event is non-separatist, and centered around Black people.\n\n\nProgram:\n13-17h Panels and discussions with activists\n17-19h Capoeira workshop for all\n19-20h Community kitchen + vegan dinner\n20-24h Dance party with DJs\n\n\nThe main organizer is Michelle Candelaria. The event is supported by Olla Común and Colombia Solidaritet (ColSol).",
+    "date": {
+      "start_timestamp": 1774699200,
+      "end_timestamp": 1774738740,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/4494871797459171/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/656508107_923004613913956_4221920364714078754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=lTFmWeKJSwAQ7kNvwEa8AE3&_nc_oc=AdqZwlCMQ2D79MYHGNNL0U0pSYT1DEEW-fJY8U4EdX2bdKKaqU2PzEcaCQYGlqS7ggc&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=i0amjJfzU9BxwGNMWxFzhQ&_nc_ss=7c289&oh=00_Af68C8gpyTRbD56Kq7XpCJa8wQxJB3eCJs4sRxgyXblrjw&oe=6A026304",
+    "tag": "ACTIVISM",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

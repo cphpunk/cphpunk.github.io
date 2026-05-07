@@ -5438,5 +5438,37 @@
     "platform": "KK",
     "page_name": "KraftWerket",
     "page_url": "https://kraftwerket.kk.dk/en/events"
+  },
+  {
+    "id": "1167235191965479",
+    "name": "The Sunday Comedy Lab",
+    "description": "Every second Sunday night, ICC's stage turns into a playful testing ground for bold new ideas. The Sunday Comedy Lab is where our experienced improv performers stretch their creative muscles—experimenting with fresh formats, unexpected groups, and never-before-seen games. It’s a playful space where new ideas take shape and risks are encouraged—always guided by the quick instincts of our seasoned improvisers. Come along, grab a drink, and be part of the experiment. Who knows? You might witness the birth of your new favourite show.\n\nDoors and bar open at 17:30. Please note that the theatre reserves the right to sale the ticket if the guest has not arrived at least 5 minutes before show starts. Tickets: 65 DKK | Active ICC Students get in for FREE. All purchases are final, no refund or rebooking of tickets.\n\nDisclaimer: Show may contain explicit content not suitable for individuals under the age of 15. The ICC Theatre reserves the right to refuse admission to audience members under this age or to an audience member we believe is too drunk and could pose a potential disturbance for the show. Pets are also not allowed in the venue.",
+    "date": {
+      "start_timestamp": 1771174800,
+      "end_timestamp": 1779647400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Frederiksholms Kanal 2, 1220 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.676062500000015,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67612500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.676000000000016,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+CV",
+      "plus_code_local": "MHGF+CV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1167235191965479/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/629595904_1475262504604356_4459224433497733112_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=T0SZTxlWYjQQ7kNvwFJFkH4&_nc_oc=AdreZU0l9ng78WG5UPpQoc-WE81dFMSHjXqKl7QLQTupLktdUrQz6Tfc_pCnZziv-dg&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=kGR5cdyqN2_W16jq_BZ1ZQ&_nc_ss=7c289&oh=00_Af5PSmpj3jCYZg_NaoDSVGcNZQkCPSOFVSaNt50xVnFOvA&oe=6A026CE2",
+    "tag": "COMEDY",
+    "platform": "Facebook",
+    "page_name": "ICC Theatre - Improv Comedy Copenhagen",
+    "page_url": "https://www.facebook.com/improvcomedycph/events"
   }
 ]

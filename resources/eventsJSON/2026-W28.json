@@ -62,5 +62,101 @@
     "platform": "Facebook",
     "page_name": "Copenhagen Jazz Festival",
     "page_url": "https://www.facebook.com/cphjazzfestival/events"
+  },
+  {
+    "id": "kk-hot-mess-brass-band-cph-jazz-festival",
+    "name": "Hot Mess Brass Band | CPH Jazz Festival",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Hot Mess Brass Band is a high-energy, funk-infused brass band that brings the party to the streets! With a sound rooted in New Orleans second line traditions, their repertoire spans soulful jazz, funk, Ethiopian grooves, 90's pop, and house classics. Fusing the raw energy of street performances with intricate harmonic arrangements and free improvisation, they turn every corner into a dance floor and every passerby into a participant. Their dynamic performances blend tight horn arrangements, irresistible grooves, and crowd interactions, creating an electrifying atmosphere in which it is impossible to stand still.\n </p>\n <h3>\n  Line-up:\n </h3>\n <p>\n  Evangelos Dimopoulos (baritone saxophone), Rémi Arnoult (trumpet), Pat Sánchez G. (drums), Armando Petrella (trombone), Nicolas Loizeau (trombone), Wim Verbruggen (tenor saxophone)\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1783355400,
+      "end_timestamp": 1783358100,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Gårdhaven",
+      "address": "Rådhusstræde 13, 1466 Copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/hot-mess-brass-band-cph-jazz-festival",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-04/HOTMESS.png?itok=v8YjOW_U",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-cortes-ewe-electronic-wind-ensemble-cph-jazz-festival",
+    "name": "Cortes E.W.E. (Electronic Wind Ensemble) | CPH Jazz Festival",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  A brand new Copenhagen-based electronic wind ensemble created by bassist and composer Thomas Cortes. Reimagining the role of horns as engines of the dance floor, the project draws inspiration from the origins of big band music as functional dance music—meant for movement, energy, and collective experience. Blending the physical power of a horn section with influences from techno, house, disco and electronic club culture, Cortes E.W.E. seeks to move horns beyond the traditional jazz setting and back into the club.\n  <br/>\n  The ensemble consists of an international team of experienced musicians. Together they represent the full spectrum of big band horn sound, which in combination with electronic groovebox and bass represents a new, compact and forward-looking format.\n </p>\n <h3>\n  Line-up:\n </h3>\n <p>\n  Thomas Cortes, (Elektron groovebox (synth/drum machine), electric bass)\n  <br/>\n  Ali Badreldin, (Baritone saxophone, alto saxophone)\n  <br/>\n  Armando Petrella, (Trombone)\n  <br/>\n  Jeppe Cloos, (Tenor saxophone)\n  <br/>\n  Mathias Harbeck (Alto saxophone, flute)\n  <br/>\n  Håkon Guttormsen (Trumpet)\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1783350000,
+      "end_timestamp": 1783352700,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Gårdhaven",
+      "address": "Rådhusstræde 13, 1466 Copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/cortes-ewe-electronic-wind-ensemble-cph-jazz-festival",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-04/Cortes%20ewe.png?itok=LrtXGFZ2",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "kk-tingo-cph-jazz-festival",
+    "name": "Tingo | CPH Jazz Festival",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  TINGO are four musicians who insist on being deeply present and communicating with each other and the audience.\n </p>\n <p>\n  With a mixture of jazz interpreted Danish/Swedish/Norwegian folk melodies and own compositions, the quartet takes you on a Nordic odyssey through twinkling mountain landscapes, vast grasslands and the rocking sea.\n </p>\n <p>\n  Always airy and billowing. A chamber music jazz quartet that organically lets it’s four personal voices weave in and out of each other.\n </p>\n <p>\n  “When TINGO plays it sounds like jazz and folk music are created for each other” - Niels Overgaard, Jazznyt.\n </p>\n <h3>\n  Line-up:\n </h3>\n <p>\n  Cecilie Strange: Saxofon, Tim Ewé: Trompet, Benjamin Gower-Poole: Kontrabas, Per Rask Ringsted: Trommer\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1783344600,
+      "end_timestamp": 1783347300,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "HUSET, Gårdhaven",
+      "address": "Rådhusstræde 13, 1466 Copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.67631250000001,
+      "longitude": 12.574687500000024,
+      "bounds_ne_lat": 55.67637500000001,
+      "bounds_ne_lng": 12.574750000000023,
+      "bounds_sw_lat": 55.67625000000001,
+      "bounds_sw_lng": 12.574625000000026,
+      "plus_code_global": "9F7JMHGF+GV",
+      "plus_code_local": "MHGF+GV",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://huset.kk.dk/en/events/tingo-cph-jazz-festival",
+    "image_url": "https://huset.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-04/Tingo.png?itok=6TEwUEp4",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "HUSET",
+    "page_url": "https://huset.kk.dk/en/events"
   }
 ]

@@ -542,5 +542,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1395266111905120",
+    "name": "Poesiens Dag i Sydhavnen",
+    "description": "Vær med til at fejre Poesiens dag og hør lokale digtere læse op\n\nD. 21. marts er det Poesiens Dag. \nDet er en dag hvor man rundt i hele verden hylder sprogets mangfoldighed og lyriske nerve. Og den skal også fejres i Sydhavnen.\n \nArrangementet starter 11.30, hvor der vil være kaffe og te. \nOg første oplæsning begynder kl. 12.00. \n\nDagens program byder på 8 poeter, der har gjort sig bemærket over lang tid.\nDet er en bred vifte af det, som sker i Københavns poesi. Måske kommer du til at opleve morgendagens stjerner.\nFlere af dem har en tæt relation til Sydhavnen.\nNogle bor i Sydhavnen. Andre er fast inventar til Ord i Karens Minde.\n\nArrangementet er en hyldest til lokal poesi og et fællesskab, hvor alle kan dele deres kærlighed til poesien - og er blevet til med støtte fra Kgs. Enghave Lokaludvalg.\n\nDagen er sammensat af den lokale poet Alex Lindbjerg. Han står bag den åbne scene POP-UP POESI og konceptet Poetisk Salon, hvor du kan opleve særligt udvalgte poeter fra hele landet.\n\nArrangementet er blevet til med støtte fra Kgs. Enghave Lokaludvalg.",
+    "date": {
+      "start_timestamp": 1774089000,
+      "end_timestamp": 1774098000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Wagnersvej 19, 2450 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.64681249999997,
+      "longitude": 12.529812500000006,
+      "bounds_ne_lat": 55.646874999999966,
+      "bounds_ne_lng": 12.529875000000004,
+      "bounds_sw_lat": 55.64674999999997,
+      "bounds_sw_lng": 12.529750000000007,
+      "plus_code_global": "9F7JJGWH+PW",
+      "plus_code_local": "JGWH+PW",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/1395266111905120/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/644793322_961891276183073_1829915698554370235_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=mTpUQ6olNtcQ7kNvwHMhze8&_nc_oc=AdrcQ3FD4EjUr69uyRwaV6kDyyebRfCa7YIuFcP7rx4jtW2jxi6SDYyaU5QP2wHCNto&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=5UlSldnZM6-EUkzcZACh2A&_nc_ss=7c289&oh=00_Af4QvUkW1g8GmkRgXf6mFVjeluu9_MXhN_1ACIRZqoUkRQ&oe=6A02655F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Sydhavnens Bibliotek",
+    "page_url": "https://www.facebook.com/sydhavnensbibliotek/events"
   }
 ]

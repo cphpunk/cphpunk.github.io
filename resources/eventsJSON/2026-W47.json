@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-christina-dahl-trio",
+    "name": "Christina Dahl Trio",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Når Christina Dahl, Simon Toldam og Peter Bruun mødes, opstår et intenst og levende musikalsk rum. Her smelter tre stærke kunstneriske stemmer sammen i et organisk samspil, hvor komposition og improvisation væves tæt ind i hinanden.\n </p>\n <p>\n  Christina Dahl er blandt de mest respekterede og originale saxofonister på den danske jazzscene. Trioens album Souls of the Wind blev i 2023 nomineret til den tyske Deutscher JazzPreis i kategorien Instrumental Album of the Year, og året efter modtog Dahl hæderen Årets Inspirator. Hendes musik bevæger sig fra det krystalklart lyriske og næsten hviskende til det mørke, pulserende og kraftfulde – altid med en stærk melodisk sans og en tydelig kunstnerisk retning.\n </p>\n <p>\n  Pianist og komponist Simon Toldam er kendt som en af Skandinaviens mest nyskabende musikere og har modtaget flere Danish Music Awards. Trommeslager Peter Bruun er en central skikkelse på den eksperimenterende jazzscene og bidrager med dynamik, detaljerigdom og stærk musikalsk sensibilitet.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Onsdag 18/11 kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 125 kr. + gebyr /140 kr. ved køb i døren\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1795028400,
+      "end_timestamp": 1795035600,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/christina-dahl-trio",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-02/Christina%20Dahl%20-%20Strand%20-%202021.jpg?itok=7rwDFOYE",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

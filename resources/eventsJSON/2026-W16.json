@@ -222,5 +222,133 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "1972042840385096",
+    "name": "Copenhagen Sakura Festival 2026 Day 2 - A celebration of flower viewing and Japanese culture",
+    "description": "This April, Langelinie Park transforms into a haven of cherry blossoms with 200 sakura trees from Japan. We want to welcome you to a weekend filled with flowers, culture, and community. It’s all completely free and no tickets needed!\n\nGather your friends and family and join us under the blooming sakura trees: \n🗓 Saturday, April 18th | 11:00 – 18:00 \n🗓 Sunday, April 19th | 11:00 – 16:00\n\nFrom captivating performances showcasing both traditional and modern Japan to mouthwatering food and drinks from local restaurants and cafes, lively booths with a variety of Japanese things for sale, and endless good vibes, there’s something for everyone to enjoy.\n\nWhether you’re a long-time fan of Japanese culture or just looking for a unique way to spend your weekend, we promise unforgettable moments among the blossoms.\n\nDo you already know which day you’ll be attending?  Help others anticipate the approx. number of participants by clicking ‘Attending’ on the day(s) you’d like to come by.\n\nOur team wishes for everyone to be safe and to be able to move around freely on the limited space that Langelinie has to offer.\nWe thank you all for your understanding, cooperation and continued support! \n\nFor all the details and the latest updates, visit sakurafestival.dk\nBring your loved ones, your curiosity, and your springtime spirit. We can’t wait to see you there! \n\n- Copenhagen Sakura Festival Team 🌸\n\n#copenhagen #sakura #festival #spring #ghibli #wadaiko #sushi #aikido #karate #kimono #kendo #soranbushi #cosplay #bonodori #kobudo #taido #namahage #judo #kyudo #manga #anime #ikebana #origami #mochi #teaceremony #sakuramatsuri #hanami \n",
+    "date": {
+      "start_timestamp": 1776589200,
+      "end_timestamp": 1776607200,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Langelinie Park, 1651 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.59931250000001,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.599375000000009,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.599250000000012,
+      "plus_code_global": "9F7JMHRX+8P",
+      "plus_code_local": "MHRX+8P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1972042840385096/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/644410056_1426028092867817_6160782191892445148_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=wSseC5b6QGQQ7kNvwHmtzip&_nc_oc=AdpPI8bYvFsibPnmFApG0noi2wZPZXur3hEtJ4ReVuYzPjkmE0ws4xACjyVlghzKhCo&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=G9qMi0MKstIWJdTI_6rjTw&_nc_ss=7c289&oh=00_Af7HFFscJPqtTtISCNM1DkVN_vJh2kUpd5uTDR3gi5SUSg&oe=6A024A52",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Sakura Festival",
+    "page_url": "https://www.facebook.com/copenhagensakurafestival/events"
+  },
+  {
+    "id": "1551717095902332",
+    "name": "Copenhagen Sakura Festival 2026 Day 1 - A celebration of flower viewing and Japanese culture",
+    "description": "This April, Langelinie Park transforms into a haven of cherry blossoms with 200 sakura trees from Japan. We want to welcome you to a weekend filled with flowers, culture, and community. It’s all completely free and no tickets needed!\n\nGather your friends and family and join us under the blooming sakura trees: \n🗓 Saturday, April 18th | 11:00 – 18:00 \n🗓 Sunday, April 19th | 11:00 – 16:00\n\nFrom captivating performances showcasing both traditional and modern Japan to mouthwatering food and drinks from local restaurants and cafes, lively booths with a variety of Japanese things for sale, and endless good vibes, there’s something for everyone to enjoy.\n\nWhether you’re a long-time fan of Japanese culture or just looking for a unique way to spend your weekend, we promise unforgettable moments among the blossoms.\n\nDo you already know which day you’ll be attending?  Help others anticipate the approx. number of participants by clicking ‘Attending’ on the day(s) you’d like to come by.\n\nOur team wishes for everyone to be safe and to be able to move around freely on the limited space that Langelinie has to offer.\nWe thank you all for your understanding, cooperation and continued support! \n\nFor all the details and the latest updates, visit sakurafestival.dk\nBring your loved ones, your curiosity, and your springtime spirit. We can’t wait to see you there! \n\n- Copenhagen Sakura Festival Team 🌸\n\n#copenhagen #sakura #festival #spring #ghibli #wadaiko #sushi #aikido #karate #kimono #kendo #soranbushi #cosplay #bonodori #kobudo #taido #namahage #judo #kyudo #manga #anime #ikebana #origami #mochi #teaceremony #sakuramatsuri #hanami \n",
+    "date": {
+      "start_timestamp": 1776502800,
+      "end_timestamp": 1776528000,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Langelinie Park, 1651 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69081250000001,
+      "longitude": 12.59931250000001,
+      "bounds_ne_lat": 55.690875000000005,
+      "bounds_ne_lng": 12.599375000000009,
+      "bounds_sw_lat": 55.69075000000001,
+      "bounds_sw_lng": 12.599250000000012,
+      "plus_code_global": "9F7JMHRX+8P",
+      "plus_code_local": "MHRX+8P",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1551717095902332/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/644370873_1426028586201101_623350502269037954_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=f07aDby-GuUQ7kNvwFMvqAW&_nc_oc=Adq8j7neboFDQrMk9Tpg9lv8VfZp6PdnbWk7EOrXGdrPB3wkTaCiJFNa-QeQXh4iGe8&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=V6JJ38l11OZrR9UZt24y8A&_nc_ss=7c289&oh=00_Af55CO8xOKKx0I6is_5F2PUhOGGCZlBkw2d2L4Q7-dxXPA&oe=6A025814",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Copenhagen Sakura Festival",
+    "page_url": "https://www.facebook.com/copenhagensakurafestival/events"
+  },
+  {
+    "id": "1669963447330699",
+    "name": "Madboks food distribution 19-April - Sundholmsvej 28a",
+    "description": "Join us to save food from going to waste at Sundholmsvej 28a, where you can collect some food for yourself and/or become a volunteer!\n\nBook a box of food ONLY if you will be able to come, so the food won’t go to waste. In order to save the waste, we will keep your booking for 10-15 minutes, after that the food will be given to someone else. If you know you will be late for picking up your box, please contact us in advance. Our main goal is to prevent food from going to waste.\n\nTo BOOK A BOX, please follow this link:\nhttps://forms.gle/i17VnGNBfyK8Nihp8\n\nOur food boxes are given out on a donation basis - Everyone donates what they can afford, however, the minimum recommended donation is 30 DKK, so that we can cover the costs of each food distribution event.\n\nPlease bring a bag to carry the food in.\nPro tip! Bring a separate bag for bread and pastry, and we recommend bringing some food containers/Tupperware, to transport small/easily bruise-able items safely.\n\nIf you want to register as a volunteer, please sign up here:\nhttps://myshopify.us7.list-manage.com/subscribe...",
+    "date": {
+      "start_timestamp": 1776606300,
+      "end_timestamp": 1776609900,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Maskinhallen",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.6609375,
+      "longitude": 12.595312499999991,
+      "bounds_ne_lat": 55.661,
+      "bounds_ne_lng": 12.59537499999999,
+      "bounds_sw_lat": 55.660875000000004,
+      "bounds_sw_lng": 12.595249999999993,
+      "plus_code_global": "9F7JMH6W+94",
+      "plus_code_local": "MH6W+94",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://www.facebook.com/events/1669963447330699/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/672683140_1251787430455868_3820156324516646450_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=GES4EIONQqwQ7kNvwGBPp3s&_nc_oc=AdqbK6CXs04IG0tPG4_OQpiD4kK-2DUzJJC53OIANsjx42-EoQ3uZ02Gg5bVngoFA3g&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=qjsH2Pa9MDfoRNqgj16OoQ&_nc_ss=7c289&oh=00_Af7YhobD9aWf47QSjnwhurDIcQNHb-ujD-wUVui2WMyFvQ&oe=6A026966",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Madboks",
+    "page_url": "https://www.facebook.com/Madboks/events"
+  },
+  {
+    "id": "1450622096710185",
+    "name": "Hardcore Freedom – Toaster Biennale 2026 Grand Opening",
+    "description": "Som officiel åbning af Toaster Biennalen 2026 præsenteres Esben Weile Kjærs banebrydende performance fra 2020, Hardcore Freedom, i Den Frie Udstillingsbygning.\n\n\nHardcore Freedom er både performance og fest - et fire timer langt værk, hvor publikum inviteres ind i et intenst, kollektivt rum i mødet mellem kunst, klubkultur og performance.\nPerformere og dansere aktiverer rummet i løbet af aftenen, mens der er live DJ-sets af Courtesy og den tyske producer Europa. \n\n\nCourtesy: https://on.soundcloud.com/HZqBxQVVBx2A3iOaAF \nEuropa: https://open.spotify.com/artist/5ucimC5sYK4MCXjKrWtpwP?si=9q0-xDELSDyn4YXPnWGclw. \n\n\nDer vil være gratis øl hele aftenen.\n\n\nArrangementet er åbent og gratis for alle og markerer åbningen af den allerførste Toaster Performance Biennale, skabt i samarbejde mellem Husets Teater og Den Frie Udstillingsbygning.\n\n\nDer er begrænset plads, så kom i god tid.\n\n\nAldersgrænse: 18 år.\n\n\nTak til: To Øl, Just Another Collection, Statens Kunstfond, Augustinus Fonden og Det Obelske Familiefond.",
+    "date": {
+      "start_timestamp": 1776364200,
+      "end_timestamp": 1776380400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "Den Frie Udstillingsbygning",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.69156249999999,
+      "longitude": 12.587437500000007,
+      "bounds_ne_lat": 55.69162499999999,
+      "bounds_ne_lng": 12.587500000000006,
+      "bounds_sw_lat": 55.69149999999999,
+      "bounds_sw_lng": 12.587375000000009,
+      "plus_code_global": "9F7JMHRP+JX",
+      "plus_code_local": "MHRP+JX",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1450622096710185/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/652638497_1264813079176829_457961250005098510_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=Gw60EpxzYqoQ7kNvwGflLKA&_nc_oc=AdqgiA9fNRamjXDe3Jhsh0gujBJAVl4p-PGyBKNwIYqga2_mMUS2bLC-HgPyrn7wBGk&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=Ngk7EkCNBCB6C6MLcjsrKg&_nc_ss=7c289&oh=00_Af5fZuP8GytKfSFmtDMXP0XH9w7JcZbS3ozrabUdbwxVOw&oe=6A0255E9",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Den Frie Udstillingsbygning",
+    "page_url": "https://www.facebook.com/denfrieudstillingsbygning/events"
   }
 ]

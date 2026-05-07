@@ -254,5 +254,37 @@
     "platform": "Facebook",
     "page_name": "Sorte René",
     "page_url": "https://www.facebook.com/sorterene/events"
+  },
+  {
+    "id": "1194068688936239",
+    "name": "PUUT-library celebration of  mini-residency with book presentation & more",
+    "description": "Greetings and welcome!\nThe festivities continue at Red Door... with a celebration of the mini-residency that Karl Larsson and the PUUT library have been doing in our gallery during December.\n\nOn December 29 at Red Door, Møllegade 23a, at 2200 Copenhagen, between 4 and 8 pm there will be a gathering, which will include multilingual live readings and live music. Amongst other things, you can also:\n\n*Get a book from Red Door's excellent selection of books, t-shirts and magazines to support our current campain to keep Red Door open, or give your support via gofundme:\nhttps://www.gofundme.com/f/keep-red-door-open\n\n*Jakob Sahlström and Ulrika Pihlström will congregate a minor liturgy called “A Complete Syllabary For A Squalling Library” With haphazardly serendipitous adlib and bindings by Karl Larsson for a eventual inclusion into PUUT.\n\n*Kristian Sverdrup will read from the newly made PUUT 145 – In this village bears walk the streets and play balalaikas.\n\n*Nicklas Wallén & Karl Larsson will present The Red Line, a work in progress that will be published at the PUUT library.\n\nAlso on stage: \nHans Kjellsson, Micke Fasth, Emil Ahlbertz, Dag Persson\n\n*The PUUT library is open for you to return/loan, or become a member to make your first loan. Come and get your very own PUUT library card!\n\nAs always, this is a free event, and all are welcome.",
+    "date": {
+      "start_timestamp": 1767020400,
+      "end_timestamp": 1767034800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Red Door",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.691687499999986,
+      "longitude": 12.557062500000015,
+      "bounds_ne_lat": 55.691749999999985,
+      "bounds_ne_lng": 12.557125000000013,
+      "bounds_sw_lat": 55.69162499999999,
+      "bounds_sw_lng": 12.557000000000016,
+      "plus_code_global": "9F7JMHR4+MR",
+      "plus_code_local": "MHR4+MR",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/1194068688936239/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/603893841_1539418330559262_5292245872393881190_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=22xzL-EcEhsQ7kNvwEQJzK7&_nc_oc=Adr-ngYIv2ZZuROlQzeksPpwcGcVMXJPGcTFvCXdJ7Nad_Ft9M1bFChjSb8SV9vlTGg&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=7uDMK9Tqta5XbMTDivl1dg&_nc_ss=7c289&oh=00_Af7QSrXEFDtwShKiSVWXsvVGbBCt_iIYXZc56o51lEFdBw&oe=6A0254F3",
+    "tag": "SHOPPING",
+    "platform": "Facebook",
+    "page_name": "Red Door",
+    "page_url": "https://www.facebook.com/reddoordk/events"
   }
 ]

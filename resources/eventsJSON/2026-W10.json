@@ -1182,5 +1182,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "930265863313353",
+    "name": "Mojo x Marmelade",
+    "description": "DOORS OPEN 20.00 \nFREE ENTRANCE\nFEATURE SET IS APPROX. 1 HOUR\nOPEN STAGE AFTER THE FEATURE SET\n\nARTISTS FOR THE FEATURE SET:\n\n\nPATRICK QUARTERMAN\nPatrick is a 'Third Culture Kid' who grew up in China to a German-Filipino household, and now calls Denmark home. His music journey took the shape of a 2000s kid who got into the acoustic guitar because of Jack Johnson, John Mayer and Jason Mraz. Patrick embraces his lyrically playful yet sensitive side as a songwriter. He loves to decorate his tunes with earworms, jazz harmonies and groovy rhythms.\n.\n.\n.\nKATIE SIMPSON:\nStrangers are just friends you haven’t met yet. That’s the philosophy behind every Katie Simpson show, and the fire lighting up her third studio album, STRANGERS, BUT NOT REALLY. Simpson combines dynamic vocals and electric stage presence to connect to audiences around the world. People from everywhere enter shows as strangers and leave as friends.\n.\n.\n.\n.\nCloud Heist\nAward-winning and up and coming artist Cloud Heist is making impact in the Scandinavian music scene. Currently making the rounds as a Bass, Guitar, & Cello trio, Cloud Heist specializes in a new kind of intricate jazz and folk music. Their style brings together the technical skills of advanced bluegrass, the raw emotional expression of classic blues and jazz, rhythmic themes from flamenco, and all that mixed with cutting edge FX technology. Don't miss out!\n\n\nIGLUMAS\nSomewhere in the city, a creature is hiding...\n.\n.\n.\n\nWHAT IS MARMELADE CULTURE?\nMarmelade Culture Is a music collective aiming to create artistic offline communities and forums. The group curates monthly events like concerts, open mics, jams and workshops with the goal of creating a space for electronic musicians in Denmark inspired by the songwriting- and jazz-scene. The group is also involved in radio and TV programs, as well as production tasks for various artists.\nFor our events, values like community, inclusion, safety, and curiosity are essential. We aim to create a space where people come first and where people feel free to explore art with sincerity. Our mission is to bring together, and strengthen the creative communities that already exist across different media, because we believe that new artistic forms emerge when these worlds meet.",
+    "date": {
+      "start_timestamp": 1772478000,
+      "end_timestamp": 1772496000,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Mojo Blues Bar",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67568750000002,
+      "longitude": 12.573562500000023,
+      "bounds_ne_lat": 55.67575000000002,
+      "bounds_ne_lng": 12.573625000000021,
+      "bounds_sw_lat": 55.675625000000025,
+      "bounds_sw_lng": 12.573500000000024,
+      "plus_code_global": "9F7JMHGF+7C",
+      "plus_code_local": "MHGF+7C",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/930265863313353/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/645852500_894314193389894_5451757908799058293_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=VutkMyyZYbcQ7kNvwHMWXkH&_nc_oc=Ado87fTN1tvun3sw8YuHgjlVLCLYVkqzHx3cqXzZdPX5uPykiV9AZofb8Ws26TJgin0&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=LrqTs8TAmla8nraKJof4OA&_nc_ss=7c289&oh=00_Af5JmjF-11Q15hgYdqtWaF2oH9y_Lo_PrzYv-_fbq0rE4Q&oe=6A02488E",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
   }
 ]

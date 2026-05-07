@@ -2430,5 +2430,37 @@
     "platform": "Mayhem",
     "page_name": "Mayhem",
     "page_url": "https://mayhemkbh.dk"
+  },
+  {
+    "id": "893064203509677",
+    "name": "Olla Comunitaria - South American Community Kitchen",
+    "description": "ENGLISH BELOW\n\nHola a todes!\n\nEstán invitades a la olla comunitaria del mes, que realizaremos el JUEVES 26 de febrero a partir de las 18 hrs :)\n\nEn esta ocasión la olla se organiza en apoyo a activistas historicxs de la Comarca Andina (sur de Argentina) que han sido afectades por los incendios durante el mes de enero. Miles de hectáreas han sido devastadas, comunidades han perdido sus casas, animales y medios de vida. La reconstrucción es un desafío enorme por la falta de recursos y los tiempos lentos del bosque. \n\nEl evento comenzará a las 18:00 hrs, conversaremos sobre la situación crítica que se atraviesa en Argentina ante la profundización de la represión estatal y el avance de proyectos extractivistas a lo largo y ancho del territorio.\n\nLa comida la serviremos a las 19:00 hrs! Esta vez será un plato típico argentino llamado \"locro\" (como siempre, en versión vegana) para compartir un pedacito de territorio, memoria y calor de hogar en estos días tan fríos! Si tienes alguna alergia, puedes contactarnos :)\n\nTodo lo recaudado será enviado a activistas que están trabajando directamente desde las comunidades afectadas por los incendios en la Comarca Andina, activando la recuperación de los territorios y la protección del bosque andino-patagónico en la zona de Epuyén.\n\nPara las donaciones por favor traer efectivo, y sino también contaremos con MobilePay :)\n\nLes esperamos para encontrarnos, compartir, y conversar juntes! Traigan a sus amis <3\n\nENGLISH:\n\nYou're all invited to the solidarity potluck of the month that will take place next THURSDAY, 26th of February, starting at 6:00 p.m :)\n\nThis edition is organised in support of long-time activists and defendors of the Andean Region forests in the south of Argentina, who lost their homes to the huge fires that took place in January. Thousands of acres have been devastated, animals and livelihoods lost. The damage is far and wide and the pain too deep to describe.\n \nThe event will begin at 6:00 p.m. and will feature an open conversation about the critical situation in Argentina, where state repression and extractivist projects are deepening all across the territory. \n\nFood will be served at 7:00 p.m. This time we'll be serving \"locro\" - a typical warm, Argentinian dish (as always, in a vegan version) to share with all you all a little bit of territory, memory and home's warmth in the midst of these cold days! If you have any allergies you're welcome to contact us :)\n\nAll proceeds will be sent to activists organising on the ground to protect the forest and rebuild infrastructure in the Epuyén area.\nFor donations, please bring cash, otherwise we'll also have MobilePay available.\n\nWe're looking forward to seeing you there to share and discuss together! Remember to bring your friends <3",
+    "date": {
+      "start_timestamp": 1772125200,
+      "end_timestamp": 1772132400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Stengade 50, 2200 København N, Danmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.68718750000001,
+      "longitude": 12.554312499999995,
+      "bounds_ne_lat": 55.687250000000006,
+      "bounds_ne_lng": 12.554374999999993,
+      "bounds_sw_lat": 55.68712500000001,
+      "bounds_sw_lng": 12.554249999999996,
+      "plus_code_global": "9F7JMHP3+VP",
+      "plus_code_local": "MHP3+VP",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Nørrebro"
+    },
+    "url": "https://www.facebook.com/events/893064203509677/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/639063445_900252082855876_4930443437427073712_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=9Rmp51vN1fYQ7kNvwEJIDwC&_nc_oc=Adr8VlbYY9yfh9KiiQTjs2YwELCdZUJK2g008Yc8IxFYRJFCttKlX88bgwMggiCirmY&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=GmfCtZ6LitBjWn_D6mmd2w&_nc_ss=7c289&oh=00_Af4A0en3RouGIPf94I2TKMo7I2zB-8TkumcaTlk-PIpuyg&oe=6A0243DA",
+    "tag": "COMMUNITY",
+    "platform": "Facebook",
+    "page_name": "Olla Común Folkekøkken",
+    "page_url": "https://www.facebook.com/profile.php?id=100086132768380&sk=events"
   }
 ]

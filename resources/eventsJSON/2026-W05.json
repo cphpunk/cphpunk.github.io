@@ -2654,5 +2654,37 @@
     "platform": "Facebook",
     "page_name": "Cinemateket",
     "page_url": "https://www.facebook.com/cinemateket/events"
+  },
+  {
+    "id": "1565397451316428",
+    "name": "Poetry Unleashed @Huset",
+    "description": "Welcome back to Poetry Unleashed @huset in 2026!\nWe moved the start to 19:30\nDoors/bar open from 19:00\nso we can mingle longer after the reading.\nSee you there!!",
+    "date": {
+      "start_timestamp": 1769797800,
+      "end_timestamp": 1780088400,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1565397451316428/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/601339109_122146423826898323_1653103649299024386_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=CbiM0mlxQmsQ7kNvwFpdmqi&_nc_oc=Adri3xtd2araOsucEooU6CxKUYKPb-LsVZZjjFsoYeS4bp-k9lJ6cDx59J0fwJCF72M&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=tJOspQa5G5qtzYaFiva3cw&_nc_ss=7c289&oh=00_Af4OEdw_lHKwMi5l2hl_Xho67uufigNG71pPsORIH97mAA&oe=6A02408B",
+    "tag": "THEATRE",
+    "platform": "Facebook",
+    "page_name": "HUSET",
+    "page_url": "https://www.facebook.com/Huset.Koebenhavn/events"
   }
 ]

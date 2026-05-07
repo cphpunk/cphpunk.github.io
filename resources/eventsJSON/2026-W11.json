@@ -766,5 +766,37 @@
     "platform": "KK",
     "page_name": "HUSET",
     "page_url": "https://huset.kk.dk/en/events"
+  },
+  {
+    "id": "944525874919943",
+    "name": "Lyd og poesi",
+    "description": "Kom og oplev en lille, intim og stemningsfuld optræden – fyldt med toner og lyrik. \n\nLyd og Poesi er et nyt tiltag på Sydhavnens Bibliotek, hvor to lokale bibliotekarer læser udvalgte digte op, mens de spiller musik og skaber smukke, sfæriske lydlandskaber til poesien.\n\nArrangementet er gratis og der vil være kaffe og te. ",
+    "date": {
+      "start_timestamp": 1773309600,
+      "end_timestamp": 1773316800,
+      "timezone": "UTC+01"
+    },
+    "location": {
+      "name": "Wagnersvej 19, 2450 Copenhagen, Denmark",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.64681249999997,
+      "longitude": 12.529812500000006,
+      "bounds_ne_lat": 55.646874999999966,
+      "bounds_ne_lng": 12.529875000000004,
+      "bounds_sw_lat": 55.64674999999997,
+      "bounds_sw_lng": 12.529750000000007,
+      "plus_code_global": "9F7JJGWH+PW",
+      "plus_code_local": "JGWH+PW",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Vesterbro-Kongens Enghave"
+    },
+    "url": "https://www.facebook.com/events/944525874919943/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/636853941_1352577146911779_2583074151815933623_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=UEotpFKTNF4Q7kNvwF_LWXR&_nc_oc=AdrobfYQqv8gfzWd_LnJr6rt-B7fPiKXDsvnzr6ccVoALkTbYstahVbK3iPvyQmSsAQ&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=F4ErJBRnPh5RdUZCw6mZew&_nc_ss=7c289&oh=00_Af4nS-8e41me1HlosLtdMNZfCEBvccLra7nxP1l3ysnEVQ&oe=6A02352D",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "Sydhavnens Bibliotek",
+    "page_url": "https://www.facebook.com/sydhavnensbibliotek/events"
   }
 ]

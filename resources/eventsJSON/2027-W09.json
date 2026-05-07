@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kk-fenja",
+    "name": "Fenja",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Nu er hun Fenja aktuel med sit andet studiealbum \"Menneskedyr\", skabt i samarbejde med norske Odd Martin Skålnes (Aurora, Sigrid mfl.). Albummet har modtaget de sjældne 6 ud af 6 stjerner hos GAFFA og har fået overvældende roser af anmelderstablen og publikum.\n </p>\n <p>\n  ”Sjældent er jeg blevet så positivt ramt af en musikalsk udgivelse, som jeg er blevet af Menneskedyr. Teksterne har poetisk dybde og en sjælden sproglig bevidsthed – og så tror jeg, at jeg er blevet smaskforelsket i Fenjas vokal.”– GAFFA 2026\n </p>\n <p>\n  \"Det er af mangel på bedre ord… fortryllende? (..) Der er bare en følelse af at blive taget med ind i et ganske unikt univers hos Fenja. Et sted med høje træer, tæt bevoksning, højt og vildt græs. En duft af både gran, blomster og skovbund. En fornemmelse af at stedet er befolket af underlige væsner, der normalt gemmer sig for os almindelige dødelige.\" - GF Rock 2026\n </p>\n <p>\n  Singlen ”Vi Jagter” fra det nye album blev Ugens Hit Tip på DR P4.\n </p>\n <p>\n  Tilbage i 2021 udgav Fenja sit første album \"Flugtdyr\". Albummet modtog 5 stjerner i GAFFA og samme år modtog Fenja Autors Hæderspris.\n </p>\n <p>\n  Live medbringer Fenja en besætning, der breder sig over bl.a. cello, klaver, guitar, violin m.m.\n </p>\n <p>\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1804186800,
+      "end_timestamp": 1804194000,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/fenja",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-03/fenja%20web.png?itok=NWez1GNZ",
+    "tag": "MUSIC",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  }
+]

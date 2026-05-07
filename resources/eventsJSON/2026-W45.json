@@ -30,5 +30,37 @@
     "platform": "KK",
     "page_name": "Kulturhuset Islands Brygge",
     "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
+  },
+  {
+    "id": "kk-humleridderne-support-hun-r",
+    "name": "Humleridderne + support: hun R",
+    "description": "<div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n <p>\n  Der fyres op for finurlige beats og god stemning, når Humleridderne endnu en gang indtager scenen fredag den 6. november 2026. Dan, Jimmy, Daniel og DJ Stig har de sidste 5 år sørger for at J-Dag blev ekstra festlig på Islands Brygge og i år gentager vi selvfølgelig succesen.\n  <br/>\n  <br/>\n  Humleridderne fik især succes i midt-halvfemserne i kølvandet på den bølge af dansk rapmusik som bl.a. MC Einar, Rockers By Choice og Østkyst Hustlers havde stået i spidsen for, og deres første album var da også delvist produceret af Chief 1 fra RBC. Humleridderne blev hurtigt en af Danmarks mest succesrige rapgrupper og fik tilmed prisen som \"Årets nye danske navn\" ved Danish Music Awards i 1997 for deres første album ”Jeg Gi'r En Omgang Hvis Du Gi'r To !!”, som bl.a. indeholdt kæmpe-hittet \"Malerhjerne\". Det solgte næsten 100.000 eksemplarer. Senere i 1997 udsendte gruppen deres andet album, ”En Genial Gaveidé” som indeholdt den samfundskritiske \"Brobygningshysteri\" om Øresunds-broen, samt \"Operation Blå Storm\" – som var Humleriddernes modtræk til tidens Smølfe-udgivelser. Humleridderne har siden giver flere koncerter og optrådt på landets store festivaler og har i den grad bevist at de stadig kan skabe en fest man ikke vil gå hjem fra.\n </p>\n <p>\n  Forvent en aften med fest, nostalgi og masser af hits!\n </p>\n <p>\n  <strong>\n   Hun R\n  </strong>\n  <br/>\n  <br/>\n  Den kvindelige rapduo hun R leverer netop dét, Danmark har manglet på\n  <br/>\n  den danske hiphopscene. Stærkt opdraget af 90’ernes rap lyd genopliver\n  <br/>\n  de old school-traditionen i en skarp blanding af humor og alvor.\n  <br/>\n  hun R rapper om voksenlivets forventninger og gør det legitimt ikke at\n  <br/>\n  have styr på ”Honda, hund og hus”. Live møder duoen publikum med\n  <br/>\n  satiriske sketches og kompromisløs i-dit-ansigt-energi og inviterer dig\n  <br/>\n  til at græde og grine af dig selv.\n  <br/>\n  På scenen flankeres de af DJ Far, en løs kanon bag pulten, der bryder\n  <br/>\n  ind med tørre kommentarer, uopfordrede livsråd og giver koncerten et\n  <br/>\n  ekstra lag af uforudsigelighed.\n </p>\n <h3>\n  Praktisk info\n </h3>\n <p>\n  Fredag den 6. november 2026\n  <br/>\n  Kl. 20 / Dørene åbner kl. 19.30\n  <br/>\n  Forsalg: 225 kr. + gebyr / 250 kr. i døren\n </p>\n</div>\n",
+    "date": {
+      "start_timestamp": 1793991600,
+      "end_timestamp": 1794002400,
+      "timezone": "Europe/Copenhagen"
+    },
+    "location": {
+      "name": "Kulturhuset Islands Brygge",
+      "address": "Islands Brygge 18, 2300 København S",
+      "city": "København S",
+      "country": "Denmark",
+      "latitude": 55.66681249999998,
+      "longitude": 12.576312500000014,
+      "bounds_ne_lat": 55.666874999999976,
+      "bounds_ne_lng": 12.576375000000013,
+      "bounds_sw_lat": 55.66674999999998,
+      "bounds_sw_lng": 12.576250000000016,
+      "plus_code_global": "9F7JMH8G+PG",
+      "plus_code_local": "MH8G+PG",
+      "plus_code_locality": "Copenhagen, Denmark",
+      "copenhagen_district": "Amager Vest"
+    },
+    "url": "https://kulturhusetislandsbrygge.kk.dk/program/humleridderne-support-hun-r",
+    "image_url": "https://kulturhusetislandsbrygge.kk.dk/sites/default/files/styles/event_hero_desktop/public/2026-02/Design%20uden%20navn%20%2816%29.png?itok=wi0UYUJs",
+    "tag": "COMEDY",
+    "platform": "KK",
+    "page_name": "Kulturhuset Islands Brygge",
+    "page_url": "https://kulturhusetislandsbrygge.kk.dk/koncerter"
   }
 ]

@@ -30,5 +30,37 @@
     "platform": "Facebook",
     "page_name": "Lygtens Kro",
     "page_url": "https://www.facebook.com/lygtenskro/events"
+  },
+  {
+    "id": "1282435953798393",
+    "name": "Marmelade x 4tallet",
+    "description": "Monday 30th of March | 18:30-23:45 |\n4tallet and music collective Marmelade Culture invites you to an intimate showcase of standout voices shaping the scene today. After the feature act, we will open the stage, so bring your instrument and come share your music with us!:)\n\nADDRESS: Højbro Plads 3, 1200 København K\nDOORS OPEN at 18:30\nFREE ENTRANCE\nFEATURE ACTS + OPEN STAGE\n/// ABOUT THE ARTISTS ///\n.\n.\n.\n\nTHE LOW LIGHT PROJECT\n\nThe Low Light Project is the musical world of Kitti and Thorbjørn, blending neo-soul and alternative pop with touches of soul, funk, and indie. Through warm vocals, guitar and piano textures, catchy hooks, and winding melodies, they create an intimate and atmospheric sound.\n\nInspired by late-night thoughts, fleeting connections, and emotional honesty, their songs live in the quiet space between vulnerability and strength - inviting listeners into a reflective soundscape and reminding them that everything is going to be OK.\n.\n.\n.\nTre Retters Regnbueis\n\"Min kæreste siger, jeg er bedre end Aphaca\"\n\n\nPENDIUS\nPendius balancerer poetisk hiphop, catchy melodier og hårde trommer. Teksterne kredser om eksistens, privilegier og dansk identitet - med både bid og varme. Lydbilledet trækker på undergrund, lo-fi og klassiske samples. Alt leveres med DIY-hjerte og sprog, der vil noget.\n.\n.\n.\n\n\nCYNTHIA\nCYNTHIA is a volcanic eruption wrapped in Scandinavian melancholy. With one foot in Gran Canaria’s burning lava and the other in Denmark’s dark soil, she embodies a musical tension where heat and cold meet; where emotions explode and whisper. On her debut EP, she takes you on a personal journey through her raw and honest lyrics – from the opening track Det Gode Eksempel, where she asks: How do you become a good role model when you come from a difficult background? – to Brandfarlig, where she stands strong in her own flames and refuses to let adversity burn her down. In Fløjtende Ligeglad she cuts the unhealthy ties and insists on her freedom, and in Go’ Nok she sings herself closer to believing in herself. It all culminates in Jeg Lever – a turning point. After years of merely surviving, she is finally beginning to live her life fully.\nCynthia’s concerts are intimate and eye-level: Danish lyrics delivered with southern warmth, moving between pop, hip-hop, and Spanish reggaetón. The audience is invited straight into CYNTHIA’s heart: a space for vulnerability, reflection, and sudden bursts of pure energy. Listen to the EP so you can sing along at the concert: https://open.spotify.com/album/0a8rrjjLcnl9zMoMzRXscf....\nFollow CYNTHIA on INSTAGRAM: https://www.instagram.com/cynthi__a/\nListen to CYNTHIA: https://open.spotify.com/artist/0Uix4QGxugS2EnAkeWpCgi\n.\n.\n.\n\nIGLUMAS\n\nSomewhere in the city, a creature is hiding\n",
+    "date": {
+      "start_timestamp": 1774886400,
+      "end_timestamp": 1774904400,
+      "timezone": "UTC+02"
+    },
+    "location": {
+      "name": "4Talletlive",
+      "address": null,
+      "city": "",
+      "country": null,
+      "latitude": 55.67500000000001,
+      "longitude": 12.575000000000017,
+      "bounds_ne_lat": 55.70000000000002,
+      "bounds_ne_lng": 12.600000000000023,
+      "bounds_sw_lat": 55.650000000000006,
+      "bounds_sw_lng": 12.550000000000011,
+      "plus_code_global": "9F7JMH00+",
+      "plus_code_local": "",
+      "plus_code_locality": "",
+      "copenhagen_district": "Indre By"
+    },
+    "url": "https://www.facebook.com/events/1282435953798393/",
+    "image_url": "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/657156032_10240343596989665_8129171322718492811_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=7e0d18&_nc_ohc=Yjb4j6-_cJ4Q7kNvwF8EiY1&_nc_oc=AdpcDahbtsAZmdgcVs_yfoPt2S63UPX-mUkEITGDe9uuvJ147ea2jYS3KPEfbHFiKfI&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=NK62dnPxZLzmeaeppvPu6Q&_nc_ss=7c289&oh=00_Af6Ilpl42MRTNeK0cKzG5Bup7ZQKK6X4FEvg9rLWF3mt3A&oe=6A02613F",
+    "tag": "MUSIC",
+    "platform": "Facebook",
+    "page_name": "MarmeladeCulture",
+    "page_url": "https://www.facebook.com/JamCultureMusic/events"
   }
 ]
